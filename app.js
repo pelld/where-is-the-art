@@ -4,6 +4,7 @@
 let artworks = [];
 let locations = [];
 let filteredLocations = [];
+let filteredArtworks = [];
 let selectedLocationId = "accademia";
 let map;
 let markerLayer;
@@ -37,7 +38,7 @@ function groupByLocation(records) {
    ============================================================ */
 function initialiseMap() {
   map = L.map("map", { zoomControl:true, scrollWheelZoom:true }).setView([46.5,8],5);
-  L.tileLayer("https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png", { subdomains:"abcd", maxZoom:20, crossOrigin:true }).addTo(map);
+  L.tileLayer("https://a.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png", { maxZoom:20, crossOrigin:true, updateWhenIdle:true, keepBuffer:4 }).addTo(map);
   markerLayer = L.layerGroup().addTo(map);
 }
 
@@ -75,15 +76,16 @@ function runArtistSearch() {
 function applyFilters() {
   const types = [...document.querySelectorAll('input[name="type"]:checked')].map(input => input.value);
   const attributions = [...document.querySelectorAll('input[name="attribution"]:checked')].map(input => input.value);
-  const filteredWorks = artworks.filter(work => types.includes(work.type) && attributions.includes(work.attribution));
-  filteredLocations = groupByLocation(filteredWorks);
+  filteredArtworks = artworks.filter(work => types.includes(work.type) && attributions.includes(work.attribution));
+  filteredLocations = groupByLocation(filteredArtworks);
   if (!filteredLocations.some(location => location.id === selectedLocationId)) selectedLocationId = filteredLocations[0]?.id || null;
   renderMarkers();
   renderLocationCards();
+  renderArtworkGallery();
   renderListView();
   renderSelectedLocation();
   document.getElementById("locationCount").textContent = `${filteredLocations.length} ${filteredLocations.length === 1 ? "location" : "locations"}`;
-  document.getElementById("workCount").textContent = `${filteredWorks.length} ${filteredWorks.length === 1 ? "work or ensemble" : "works and ensembles"}`;
+  document.getElementById("workCount").textContent = `${filteredArtworks.length} ${filteredArtworks.length === 1 ? "work or ensemble" : "works and ensembles"}`;
 }
 
 function switchView(view) {
@@ -138,6 +140,16 @@ function renderLocationCards() {
 function renderListView() {
   document.getElementById("listView").innerHTML = filteredLocations.map(location => `<button data-location="${location.id}"><span><strong>${location.name}</strong><small>${location.city}, ${location.country}</small></span><b>${location.works.length}</b></button>`).join("");
   document.querySelectorAll("#listView button").forEach(button => button.addEventListener("click",() => selectLocation(button.dataset.location)));
+}
+
+function renderArtworkGallery() {
+  const gallery = document.getElementById("artworkGallery");
+  if (!gallery) return;
+  gallery.innerHTML = filteredArtworks.map(work => `<article class="artwork-card">
+    <a class="artwork-picture" href="${work.source}" target="_blank" rel="noreferrer"><img src="${work.image}" alt="${work.title} by Michelangelo" loading="lazy" onerror="this.closest(\'.artwork-picture\').classList.add(\'image-missing\');this.remove()"><span>${work.type}</span></a>
+    <div class="artwork-details"><p>${work.city} · ${work.country}</p><h3>${work.title}</h3><small>${work.date} · ${work.location}</small>${work.attribution === "Attributed" ? \'<b>Attribution debated</b>\' : \'\'}<a href="${work.source}" target="_blank" rel="noreferrer">View official source ↗</a></div>
+  </article>`).join("");
+  document.getElementById("artworkGalleryCount").textContent = `${filteredArtworks.length} shown`;
 }
 
 function updateCounts() {
