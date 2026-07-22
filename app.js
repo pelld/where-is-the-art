@@ -35,7 +35,56 @@ function showLoadError(error) {
 }
 
 function populateArtistChoices() {
-  document.getElementById("artistOptions").innerHTML = artists.map(artist => `<option value="${artist.name}"></option>`).join("");
+  const sortedArtists = [...artists].sort((a,b) => a.name.localeCompare(b.name));
+  document.getElementById("artistOptions").innerHTML = sortedArtists.map(artist => `<option value="${artist.name}"></option>`).join("");
+  document.getElementById("availableCount").textContent = `Browse ${artists.length} available artist${artists.length === 1 ? "" : "s"}`;
+  renderArtistDirectory(sortedArtists);
+}
+
+function renderArtistDirectory(records = artists) {
+  const directory = document.getElementById("artistDirectory");
+  directory.innerHTML = records.map(artist => `<button type="button" data-artist-id="${artist.id}" class="${artist.id === selectedArtistId ? "active" : ""}">${artist.name}<small>${artist.reviewStatus === "curated" ? "Curated" : "Generated"}</small></button>`).join("");
+  directory.querySelectorAll("button").forEach(button => button.addEventListener("click",() => {
+    selectArtist(button.dataset.artistId).catch(showLoadError);
+    document.getElementById("artistBrowser").open = false;
+  }));
+}
+
+function normaliseSearch(value) {
+  return value.normalize("NFKD").replace(/[\\u0300-\\u036f]/g,"").toLowerCase().replace(/[^a-z0-9]+/g," ").trim();
+}
+
+function editDistance(left,right) {
+  const previous = Array.from({ length:right.length + 1 },(_,index) => index);
+  for (let leftIndex = 1; leftIndex <= left.length; leftIndex++) {
+    let diagonal = previous[0];
+    previous[0] = leftIndex;
+    for (let rightIndex = 1; rightIndex <= right.length; rightIndex++) {
+      const above = previous[rightIndex];
+      previous[rightIndex] = Math.min(previous[rightIndex] + 1,previous[rightIndex - 1] + 1,diagonal + (left[leftIndex - 1] === right[rightIndex - 1] ? 0 : 1));
+      diagonal = above;
+    }
+  }
+  return previous[right.length];
+}
+
+function findArtistMatch(query) {
+  const value = normaliseSearch(query);
+  if (!value) return null;
+  const candidates = artists.map(artist => {
+    const names = [artist.name,artist.fullName,artist.displayName,artist.shortName,artist.id].filter(Boolean).map(normaliseSearch);
+    const tokens = names.flatMap(name => name.split(" ").filter(token => token.length >= 4));
+    const exact = names.some(name => name === value);
+    const partial = names.some(name => name.includes(value) || value.includes(name)) || tokens.some(token => token === value);
+    const distance = Math.min(...[...names,...tokens].map(name => editDistance(value,name)));
+    return { artist,exact,partial,distance };
+  });
+  const direct = candidates.find(candidate => candidate.exact) || candidates.find(candidate => candidate.partial);
+  if (direct) return { artist:direct.artist,fuzzy:false };
+  candidates.sort((a,b) => a.distance - b.distance);
+  const best = candidates[0];
+  const threshold = Math.max(2,Math.floor(value.length * .3));
+  return best && best.distance <= threshold ? { artist:best.artist,fuzzy:true } : null;
 }
 
 async function loadArtistArtworks(artist) {
@@ -100,17 +149,28 @@ function initialiseControls() {
   document.querySelectorAll(".view-toggle button").forEach(button => button.addEventListener("click",() => switchView(button.dataset.view)));
   document.getElementById("searchButton").addEventListener("click",runArtistSearch);
   document.getElementById("artistInput").addEventListener("keydown",event => { if (event.key === "Enter") runArtistSearch(); });
+  document.getElementById("artistInput").addEventListener("input",event => {
+    const query = normaliseSearch(event.target.value);
+    const matches = [...artists].filter(artist => normaliseSearch(`${artist.name} ${artist.fullName || ""}`).includes(query)).sort((a,b) => a.name.localeCompare(b.name));
+    renderArtistDirectory(matches.length || !query ? matches.length ? matches : [...artists].sort((a,b) => a.name.localeCompare(b.name)) : []);
+  });
 }
 
-function runArtistSearch() {
+async function runArtistSearch() {
   const input = document.getElementById("artistInput");
-  const value = input.value.trim().toLowerCase();
-  const match = artists.find(artist => artist.name.toLowerCase().includes(value) || artist.fullName.toLowerCase().includes(value) || value.includes(artist.name.toLowerCase()));
-  if (value && match) selectArtist(match.id).catch(showLoadError);
-  else {
+  const query = input.value.trim();
+  const match = findArtistMatch(query);
+  if (match) {
+    await selectArtist(match.artist.id);
+    if (match.fuzzy) {
+      const note = document.getElementById("searchNote");
+      note.textContent = `Matched “${query}” to ${match.artist.name}. ${match.artist.reviewStatus === "curated" ? "This catalogue is curated." : "These generated records still need individual review."}`;
+    }
+  } else {
     const note = document.getElementById("searchNote");
-    note.textContent = `“${input.value.trim()}” is not in this proof of concept yet. Try Michelangelo or Johannes Vermeer.`;
+    note.textContent = `No available artist closely matches “${query}”. Open the artist list to browse every available name.`;
     note.classList.add("search-warning");
+    document.getElementById("artistBrowser").open = true;
   }
 }
 
@@ -134,6 +194,7 @@ async function selectArtist(artistId, announce = true) {
   const note = document.getElementById("searchNote");
   note.textContent = artist.reviewStatus === "curated" ? `Showing the curated ${artist.name} catalogue.` : `Showing a generated Wikidata catalogue for ${artist.name}. Individual records still need review.`;
   note.classList.remove("search-warning");
+  renderArtistDirectory([...artists].sort((a,b) => a.name.localeCompare(b.name)));
   updateCounts();
   applyFilters();
   if (announce) document.getElementById("explore").scrollIntoView({ behavior:"smooth", block:"start" });
