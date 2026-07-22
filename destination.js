@@ -58,11 +58,20 @@ async function runDestinationSearch() {
 }
 async function loadDestination(place) {
   const note = document.getElementById("destinationNote");
+  note.classList.remove("search-warning");
   note.textContent = `Loading ${place.name}…`;
-  const response = await fetch(`data/places/${place.id}.json`);
-  if (!response.ok) { note.textContent = `${place.name} is indexed but its detailed file has not been published yet.`; return; }
-  const data = await response.json();
-  renderDestination(place,data.artworks);
+  try {
+    const response = await fetch(`data/places/${place.id}.json`,{ cache:"no-store" });
+    if (!response.ok) throw new Error("The detailed destination file has not been published.");
+    const text = await response.text();
+    if (!text.trim()) throw new Error("The published destination file is empty.");
+    const data = JSON.parse(text);
+    if (!Array.isArray(data.artworks)) throw new Error("The destination file is incomplete.");
+    renderDestination(place,data.artworks);
+  } catch (error) {
+    note.textContent = `${place.name} could not be loaded: ${error.message}`;
+    note.classList.add("search-warning");
+  }
 }
 function rankedCounts(records,key,labelKey = key) {
   const counts = new Map();
