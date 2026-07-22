@@ -164,9 +164,8 @@ footer>span { color:var(--ink); font-family:Georgia,serif; letter-spacing:.14em;
 /* Show the complete artwork instead of cropping portrait-format works into the wide panel. */
 .location-image img,.artwork-picture img { object-fit:contain; background:#d9d5cc; }
 
-/* Concentrate the self-contained world map on the area containing the recorded works. */
-.static-world-map>img,#mapMarkers { transform:scale(1.46); transform-origin:46% 35%; }
-.static-world-map>img { transition:transform .25s ease; }
+/* Keep the SVG and marker overlay in the same untransformed 1200 × 600 coordinate frame. */
+.static-world-map>img,#mapMarkers { transform:none; }
 
 
 /* ============================================================
