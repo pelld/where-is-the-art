@@ -112,10 +112,18 @@ function artworkImage(work,allowLocationRepresentative = false) {
   return work.image || "";
 }
 
+const knownEntityLabels = { Q214867:"National Gallery of Art" };
+
+function displayEntityLabel(value,fallback) {
+  if (!value) return fallback;
+  if (knownEntityLabels[value]) return knownEntityLabels[value];
+  return /^Q\d+$/.test(value) ? fallback : value;
+}
+
 function groupByLocation(records) {
   const grouped = new Map();
   records.forEach(work => {
-    if (!grouped.has(work.locationId)) grouped.set(work.locationId, { id:work.locationId, name:work.location, city:work.city, country:work.country, lat:work.lat, lon:work.lon, source:work.source, image:artworkImage(work,true), works:[] });
+    if (!grouped.has(work.locationId)) grouped.set(work.locationId, { id:work.locationId, name:displayEntityLabel(work.location,"Institution name pending"), city:displayEntityLabel(work.city,"Location pending"), country:displayEntityLabel(work.country,"Country pending"), lat:work.lat, lon:work.lon, source:work.source, image:artworkImage(work,true), works:[] });
     grouped.get(work.locationId).works.push(work);
   });
   return [...grouped.values()].sort((a,b) => b.works.length - a.works.length || a.city.localeCompare(b.city));
@@ -325,7 +333,7 @@ function renderListView() {
 function renderArtworkGallery() {
   const gallery = document.getElementById("artworkGallery"); if (!gallery) return;
   const displayedArtworks = filteredArtworks.slice(0,GALLERY_LIMIT);
-  gallery.innerHTML = displayedArtworks.map(work => { const image = artworkImage(work); return `<article class="artwork-card"><a class="artwork-picture ${image ? "" : "image-missing"}" href="${work.source}" target="_blank" rel="noreferrer">${image ? `<img src="${image}" alt="${work.title} by ${work.artistName}" loading="lazy">` : `<i>${work.title}</i>`}<span>${work.type}</span></a><div class="artwork-details"><p>${work.city} · ${work.country}</p><h3>${work.title}</h3><small>${exploreMode === "destination" ? `${work.artistName} · ` : ""}${work.date} · ${work.location}</small>${work.attribution === "Attributed" ? '<b>Attribution debated</b>' : ''}<a href="${work.source}" target="_blank" rel="noreferrer">View official source ↗</a></div></article>`; }).join("");
+  gallery.innerHTML = displayedArtworks.map(work => { const image = artworkImage(work); return `<article class="artwork-card"><a class="artwork-picture ${image ? "" : "image-missing"}" href="${work.source}" target="_blank" rel="noreferrer">${image ? `<img src="${image}" alt="${work.title} by ${work.artistName}" loading="lazy">` : `<i>${work.title}</i>`}<span>${work.type}</span></a><div class="artwork-details"><p>${displayEntityLabel(work.city,"Location pending")} · ${displayEntityLabel(work.country,"Country pending")}</p><h3>${displayEntityLabel(work.title,"Untitled record")}</h3><small>${exploreMode === "destination" ? `${work.artistName} · ` : ""}${work.date} · ${displayEntityLabel(work.location,"Institution name pending")}</small>${work.attribution === "Attributed" ? '<b>Attribution debated</b>' : ''}<a href="${work.source}" target="_blank" rel="noreferrer">View official source ↗</a></div></article>`; }).join("");
   document.getElementById("artworkGalleryCount").textContent = filteredArtworks.length > GALLERY_LIMIT ? `Showing ${GALLERY_LIMIT} of ${filteredArtworks.length}` : `${filteredArtworks.length} shown`;
 }
 
