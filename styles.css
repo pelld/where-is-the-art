@@ -340,3 +340,12 @@ footer>span { color:var(--ink); font-family:Georgia,serif; letter-spacing:.14em;
   .map-point.selected { width:33px; height:33px; box-shadow:0 0 0 5px rgba(34,70,168,.16),0 4px 9px rgba(0,0,0,.24); }
   .map-point>b { left:25px; top:21px; }
 }
+
+
+/* ============================================================
+   24. MAP ASPECT-RATIO COORDINATE FRAME
+   ============================================================ */
+/* The SVG viewBox is 1200 × 600. Matching that ratio prevents the SVG's internal letterboxing from separating the visible geography from the percentage-positioned pins. */
+#map { height:auto; aspect-ratio:2 / 1; }
+.static-world-map { width:100%; height:100%; }
+@media (max-width:580px) { #map { height:auto; aspect-ratio:2 / 1; } }
