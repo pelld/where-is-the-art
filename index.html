@@ -5,12 +5,12 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="Find museums, churches and galleries where you can see works by a particular artist.">
   <title>Where Is the Art By…?</title>
-  <link rel="stylesheet" href="styles.css?v=7">
+  <link rel="stylesheet" href="styles.css?v=8">
 </head>
 <body>
   <header class="site-header">
     <a class="wordmark" href="#top" aria-label="Where Is the Art By home"><span>W</span> WHERE IS THE ART BY…?</a>
-    <nav><a class="active" href="#explore">Explore</a><a href="#method">About the data</a><a href="https://github.com/pelld/where-is-the-art" target="_blank" rel="noreferrer">GitHub ↗</a></nav>
+    <nav><a class="active" href="#explore">By artist</a><a href="#destinations">By destination</a><a href="#method">About the data</a><a href="https://github.com/pelld/where-is-the-art" target="_blank" rel="noreferrer">GitHub ↗</a></nav>
   </header>
 
   <main id="top">
@@ -60,6 +60,24 @@
       <div id="artworkGallery" class="artwork-gallery"></div>
     </section>
 
+    <section class="destination-section" id="destinations">
+      <div class="destination-heading">
+        <div><p class="eyebrow">EXPLORE BY DESTINATION</p><h2>I’m going to…</h2><p>Choose a country to discover its artists, cities, institutions and indexed works.</p></div>
+        <div class="destination-search">
+          <label for="destinationInput">Search for a country</label>
+          <div class="search-control"><span aria-hidden="true">⌕</span><input id="destinationInput" value="France" list="destinationOptions" autocomplete="off"><datalist id="destinationOptions"></datalist><button id="destinationSearchButton">Explore</button></div>
+          <p id="destinationNote">Try France, Italy, the Netherlands—or browse every available destination.</p>
+          <details class="artist-browser" id="destinationBrowser"><summary><span id="destinationCount">Browse available destinations</span><b aria-hidden="true">+</b></summary><div class="destination-directory" id="destinationDirectory"></div></details>
+        </div>
+      </div>
+      <div class="destination-result" id="destinationResult" hidden>
+        <div class="section-heading"><div><p class="eyebrow">DESTINATION RESULTS</p><h2 id="destinationResultTitle"></h2></div><p id="destinationResultSummary"></p></div>
+        <div class="destination-highlights" id="destinationHighlights"></div>
+        <div class="gallery-toolbar"><strong id="destinationWorksCount"></strong><span>Each record links to its source.</span></div>
+        <div class="destination-works" id="destinationWorks"></div>
+      </div>
+    </section>
+
     <section class="method" id="method">
       <div><p class="eyebrow">WHAT THIS PROVES</p><h2>Museum collections are organised by institution. Visitors think by artist.</h2></div>
       <div><p>This prototype reorganises official collection records around a simple question: <em>where can I see art by this person?</em></p><p>The underlying file is intentionally human-readable. Each record contains the work, location, coordinates, attribution status and an official source. That makes it possible to review and improve the evidence through GitHub.</p><p class="caveat"><strong>Scope:</strong> selected publicly accessible sculptures, paintings and frescoes. Drawings, architectural works, copies, lost works and most disputed attributions are excluded.</p></div>
@@ -101,5 +119,6 @@
   <script src="images/vermeer-braunschweig.js"></script>
   <script src="images/vermeer-tokyo.js"></script>
   <script src="app.js?v=9"></script>
+  <script src="destination.js?v=1"></script>
 </body>
 </html>
