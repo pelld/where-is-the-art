@@ -128,7 +128,7 @@ function renderSelectedLocation() {
     document.getElementById("sourceLink").removeAttribute("href");
     return;
   }
-  document.getElementById("locationImage").src = location.image;
+  document.getElementById("locationImage").src = window.bundledArtworkImages[location.id] || location.image;
   document.getElementById("locationImage").alt = `${location.works[0].title} by Michelangelo`;
   document.getElementById("locationCountry").textContent = location.country;
   document.getElementById("locationCity").textContent = location.city;
@@ -152,7 +152,7 @@ function renderArtworkGallery() {
   const gallery = document.getElementById("artworkGallery");
   if (!gallery) return;
   gallery.innerHTML = filteredArtworks.map(work => `<article class="artwork-card">
-    <a class="artwork-picture" href="${work.source}" target="_blank" rel="noreferrer"><img src="${work.image}" alt="${work.title} by Michelangelo" loading="lazy" onerror="this.closest('.artwork-picture').classList.add('image-missing');this.remove()"><span>${work.type}</span></a>
+    <a class="artwork-picture" href="${work.source}" target="_blank" rel="noreferrer"><img src="${window.bundledArtworkImages[work.locationId] || work.image}" alt="${work.title} by Michelangelo" loading="lazy" onerror="this.closest('.artwork-picture').classList.add('image-missing');this.remove()"><span>${work.type}</span></a>
     <div class="artwork-details"><p>${work.city} · ${work.country}</p><h3>${work.title}</h3><small>${work.date} · ${work.location}</small>${work.attribution === "Attributed" ? '<b>Attribution debated</b>' : ''}<a href="${work.source}" target="_blank" rel="noreferrer">View official source ↗</a></div>
   </article>`).join("");
   document.getElementById("artworkGalleryCount").textContent = `${filteredArtworks.length} shown`;
