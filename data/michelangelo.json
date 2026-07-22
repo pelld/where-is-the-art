@@ -14,7 +14,8 @@
       "source": "https://www.galleriaaccademiafirenze.it/en/",
       "image": "https://upload.wikimedia.org/wikipedia/commons/a/a0/%27David%27_by_Michelangelo_Fir_JBU005_denoised.jpg",
       "artistId": "michelangelo",
-      "artistName": "Michelangelo"
+      "artistName": "Michelangelo",
+      "imageKey": "michelangelo:work:david"
     },
     {
       "title": "Awakening Slave",
@@ -30,7 +31,8 @@
       "source": "https://www.galleriaaccademiafirenze.it/en/artworks/prigione-che-si-ridesta-michelangelo-buonarroti/",
       "image": "",
       "artistId": "michelangelo",
-      "artistName": "Michelangelo"
+      "artistName": "Michelangelo",
+      "imageKey": "michelangelo:work:awakening-slave"
     },
     {
       "title": "Young Slave",
@@ -46,7 +48,8 @@
       "source": "https://www.galleriaaccademiafirenze.it/en/artworks/lo-schiavo-giovane-michelangelo/",
       "image": "",
       "artistId": "michelangelo",
-      "artistName": "Michelangelo"
+      "artistName": "Michelangelo",
+      "imageKey": "michelangelo:work:young-slave"
     },
     {
       "title": "Bearded Slave",
@@ -62,7 +65,8 @@
       "source": "https://www.galleriaaccademiafirenze.it/en/",
       "image": "",
       "artistId": "michelangelo",
-      "artistName": "Michelangelo"
+      "artistName": "Michelangelo",
+      "imageKey": "michelangelo:work:bearded-slave"
     },
     {
       "title": "Atlas Slave",
@@ -78,7 +82,8 @@
       "source": "https://www.galleriaaccademiafirenze.it/en/",
       "image": "",
       "artistId": "michelangelo",
-      "artistName": "Michelangelo"
+      "artistName": "Michelangelo",
+      "imageKey": "michelangelo:work:atlas-slave"
     },
     {
       "title": "Saint Matthew",
@@ -94,7 +99,8 @@
       "source": "https://www.galleriaaccademiafirenze.it/en/artworks/san-matteo-michelangelo-en/",
       "image": "",
       "artistId": "michelangelo",
-      "artistName": "Michelangelo"
+      "artistName": "Michelangelo",
+      "imageKey": "michelangelo:work:saint-matthew"
     },
     {
       "title": "Holy Family (Doni Tondo)",
@@ -110,7 +116,8 @@
       "source": "https://www.uffizi.it/en/artworks/holy-family-known-as-the-doni-tondo",
       "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Michelangelo_-_Doni_Tondo_-_Uffizi.jpg",
       "artistId": "michelangelo",
-      "artistName": "Michelangelo"
+      "artistName": "Michelangelo",
+      "imageKey": "michelangelo:work:doni-tondo"
     },
     {
       "title": "Bacchus",
@@ -126,7 +133,8 @@
       "source": "https://bargellomusei.it/",
       "image": "https://upload.wikimedia.org/wikipedia/commons/9/93/Michelangelo%27s_Bacchus.jpg",
       "artistId": "michelangelo",
-      "artistName": "Michelangelo"
+      "artistName": "Michelangelo",
+      "imageKey": "michelangelo:work:bacchus"
     },
     {
       "title": "Pitti Tondo",
@@ -142,7 +150,8 @@
       "source": "https://bargellomusei.it/",
       "image": "",
       "artistId": "michelangelo",
-      "artistName": "Michelangelo"
+      "artistName": "Michelangelo",
+      "imageKey": "michelangelo:work:pitti-tondo"
     },
     {
       "title": "Brutus",
@@ -158,7 +167,8 @@
       "source": "https://bargellomusei.it/",
       "image": "",
       "artistId": "michelangelo",
-      "artistName": "Michelangelo"
+      "artistName": "Michelangelo",
+      "imageKey": "michelangelo:work:brutus"
     },
     {
       "title": "Apollo-David",
@@ -174,7 +184,8 @@
       "source": "https://bargellomusei.it/",
       "image": "",
       "artistId": "michelangelo",
-      "artistName": "Michelangelo"
+      "artistName": "Michelangelo",
+      "imageKey": "michelangelo:work:apollo-david"
     },
     {
       "title": "Genius of Victory",
@@ -190,7 +201,8 @@
       "source": "https://musefirenze.it/en/musei/museo-di-palazzo-vecchio/",
       "image": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Michelangelo%2C_genio_della_vittoria%2C_1532-34%2C_01.JPG",
       "artistId": "michelangelo",
-      "artistName": "Michelangelo"
+      "artistName": "Michelangelo",
+      "imageKey": "michelangelo:work:genius-of-victory"
     },
     {
       "title": "Battle of the Centaurs",
@@ -206,7 +218,8 @@
       "source": "https://www.casabuonarroti.it/en/",
       "image": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Michelangelo%2C_battaglia_dei_centauri%2C_1492_ca._01.JPG",
       "artistId": "michelangelo",
-      "artistName": "Michelangelo"
+      "artistName": "Michelangelo",
+      "imageKey": "michelangelo:work:battle-of-the-centaurs"
     },
     {
       "title": "Madonna of the Stairs",
@@ -222,7 +235,8 @@
       "source": "https://www.casabuonarroti.it/en/",
       "image": "",
       "artistId": "michelangelo",
-      "artistName": "Michelangelo"
+      "artistName": "Michelangelo",
+      "imageKey": "michelangelo:work:madonna-of-the-stairs"
     },
     {
       "title": "Florentine Pietà (Bandini Pietà)",
@@ -238,7 +252,8 @@
       "source": "https://duomo.firenze.it/en/discover/opera-duomo-museum",
       "image": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Michelangelo%27s_Piet%C3%A0%2C_Museo_dell%27Opera_del_Duomo%2C_Florence.jpg",
       "artistId": "michelangelo",
-      "artistName": "Michelangelo"
+      "artistName": "Michelangelo",
+      "imageKey": "michelangelo:work:florentine-pieta"
     },
     {
       "title": "Medici Tomb sculptures: Night, Day, Dawn and Dusk",
@@ -254,7 +269,8 @@
       "source": "https://bargellomusei.it/musei/cappelle-medicee/",
       "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/Michelangelo%27s_New_Sacristy.jpg",
       "artistId": "michelangelo",
-      "artistName": "Michelangelo"
+      "artistName": "Michelangelo",
+      "imageKey": "michelangelo:work:medici-tomb"
     },
     {
       "title": "Sistine Chapel ceiling",
@@ -270,7 +286,8 @@
       "source": "https://www.museivaticani.va/content/museivaticani/en/collezioni/musei/cappella-sistina/tour-virtuale.html",
       "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Michelangelo_-_Creation_of_Adam_%28cropped%29.jpg",
       "artistId": "michelangelo",
-      "artistName": "Michelangelo"
+      "artistName": "Michelangelo",
+      "imageKey": "michelangelo:work:sistine-ceiling"
     },
     {
       "title": "The Last Judgement",
@@ -286,7 +303,8 @@
       "source": "https://www.museivaticani.va/content/museivaticani/en/collezioni/musei/cappella-sistina/tour-virtuale.html",
       "image": "",
       "artistId": "michelangelo",
-      "artistName": "Michelangelo"
+      "artistName": "Michelangelo",
+      "imageKey": "michelangelo:work:last-judgement"
     },
     {
       "title": "Pietà",
@@ -302,7 +320,8 @@
       "source": "https://www.basilicasanpietro.va/en.html",
       "image": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Michelangelo%27s_Pieta_5450_cropncleaned_edit.jpg",
       "artistId": "michelangelo",
-      "artistName": "Michelangelo"
+      "artistName": "Michelangelo",
+      "imageKey": "michelangelo:work:pieta"
     },
     {
       "title": "Moses and the Tomb of Julius II",
@@ -318,7 +337,8 @@
       "source": "https://www.turismoroma.it/en/places/church-san-pietro-vincoli",
       "image": "https://upload.wikimedia.org/wikipedia/commons/a/ac/%27Moses%27_by_Michelangelo_JBU160.jpg",
       "artistId": "michelangelo",
-      "artistName": "Michelangelo"
+      "artistName": "Michelangelo",
+      "imageKey": "michelangelo:work:moses"
     },
     {
       "title": "Risen Christ",
@@ -334,7 +354,8 @@
       "source": "https://www.turismoroma.it/en/places/basilica-santa-maria-sopra-minerva",
       "image": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Michelangelo%2C_cristo_della_minerva%2C_1519-20%2C_01.JPG",
       "artistId": "michelangelo",
-      "artistName": "Michelangelo"
+      "artistName": "Michelangelo",
+      "imageKey": "michelangelo:work:risen-christ"
     },
     {
       "title": "The Dying Slave",
@@ -350,7 +371,8 @@
       "source": "https://www.louvre.fr/en/explore/visitor-trails/the-louvre-s-masterpieces/imprisoned-in-stone",
       "image": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Michelangelo%27s_Dying_Slave.jpg",
       "artistId": "michelangelo",
-      "artistName": "Michelangelo"
+      "artistName": "Michelangelo",
+      "imageKey": "michelangelo:work:dying-slave"
     },
     {
       "title": "The Rebellious Slave",
@@ -366,7 +388,8 @@
       "source": "https://www.louvre.fr/en/explore/visitor-trails/the-louvre-s-masterpieces/imprisoned-in-stone",
       "image": "",
       "artistId": "michelangelo",
-      "artistName": "Michelangelo"
+      "artistName": "Michelangelo",
+      "imageKey": "michelangelo:work:rebellious-slave"
     },
     {
       "title": "The Manchester Madonna",
@@ -382,7 +405,8 @@
       "source": "https://www.nationalgallery.org.uk/paintings/michelangelo-the-manchester-madonna",
       "image": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Manchester_Madonna_by_Michelangelo.jpg",
       "artistId": "michelangelo",
-      "artistName": "Michelangelo"
+      "artistName": "Michelangelo",
+      "imageKey": "michelangelo:work:manchester-madonna"
     },
     {
       "title": "The Entombment",
@@ -398,7 +422,8 @@
       "source": "https://www.nationalgallery.org.uk/paintings/michelangelo-the-entombment-or-christ-being-carried-to-his-tomb",
       "image": "",
       "artistId": "michelangelo",
-      "artistName": "Michelangelo"
+      "artistName": "Michelangelo",
+      "imageKey": "michelangelo:work:entombment"
     },
     {
       "title": "Madonna and Child (Bruges Madonna)",
@@ -414,7 +439,8 @@
       "source": "https://www.museabrugge.be/en/visit-our-museums/our-museums-and-monuments/church-of-our-lady-museum",
       "image": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Michelangelo%27s_Madonna_and_Child_at_the_Church_of_Our_Lady_in_Bruges.jpg",
       "artistId": "michelangelo",
-      "artistName": "Michelangelo"
+      "artistName": "Michelangelo",
+      "imageKey": "michelangelo:work:bruges-madonna"
     },
     {
       "title": "Rondanini Pietà",
@@ -430,7 +456,8 @@
       "source": "https://www.milanocastello.it/en/content/museum-pieta-rondanini-michelangelo",
       "image": "https://upload.wikimedia.org/wikipedia/commons/0/07/Michelangelo%27s_Rondanini_Pieta.jpg",
       "artistId": "michelangelo",
-      "artistName": "Michelangelo"
+      "artistName": "Michelangelo",
+      "imageKey": "michelangelo:work:rondanini-pieta"
     },
     {
       "title": "Crouching Boy",
@@ -446,7 +473,8 @@
       "source": "https://www.hermitagemuseum.org/",
       "image": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Michelangelo_Buonarroti_-_Crouching_Boy_-_WGA15092.jpg",
       "artistId": "michelangelo",
-      "artistName": "Michelangelo"
+      "artistName": "Michelangelo",
+      "imageKey": "michelangelo:work:crouching-boy"
     },
     {
       "title": "The Torment of Saint Anthony",
@@ -462,7 +490,8 @@
       "source": "https://kimbellart.org/collection/ap-200901",
       "image": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Michelangelo_Buonarroti_-_The_Torment_of_Saint_Anthony_-_Google_Art_Project.jpg",
       "artistId": "michelangelo",
-      "artistName": "Michelangelo"
+      "artistName": "Michelangelo",
+      "imageKey": "michelangelo:work:torment-saint-anthony"
     },
     {
       "title": "Young Archer (Cupid)",
@@ -478,7 +507,8 @@
       "source": "https://www.metmuseum.org/art/collection/search/236774",
       "image": "https://images.metmuseum.org/CRDImages/es/original/DP-15119-001.jpg",
       "artistId": "michelangelo",
-      "artistName": "Michelangelo"
+      "artistName": "Michelangelo",
+      "imageKey": "michelangelo:work:young-archer"
     }
   ]
 }
