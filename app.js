@@ -8,6 +8,8 @@ let filteredLocations = [];
 let filteredArtworks = [];
 let selectedArtistId = "michelangelo";
 let selectedLocationId = "accademia";
+let exploreMode = "artist";
+let selectedDestination = null;
 const artworkCache = new Map();
 let artistRequestToken = 0;
 let map;
@@ -97,7 +99,7 @@ async function loadArtistArtworks(artist) {
 }
 
 function currentArtist() { return artists.find(artist => artist.id === selectedArtistId); }
-function artistWorks() { return artworks.filter(work => work.artistId === selectedArtistId); }
+function artistWorks() { return exploreMode === "destination" ? artworks : artworks.filter(work => work.artistId === selectedArtistId); }
 function artworkImage(work,allowLocationRepresentative = false) {
   const bundledWorkImage = work.imageKey ? window.bundledArtworkImages[work.imageKey] || "" : "";
   if (bundledWorkImage) return bundledWorkImage;
@@ -154,6 +156,7 @@ function renderMarkers() {
    03. ARTIST SEARCH, FILTERS AND VIEW SWITCHING
    ============================================================ */
 function initialiseControls() {
+  document.querySelectorAll("[data-explore-mode]").forEach(button => button.addEventListener("click",() => setExploreMode(button.dataset.exploreMode)));
   document.querySelectorAll('input[type="checkbox"]').forEach(input => input.addEventListener("change",applyFilters));
   document.getElementById("resetFilters").addEventListener("click",() => { document.querySelectorAll('input[type="checkbox"]').forEach(input => input.checked = true); applyFilters(); });
   document.querySelectorAll(".view-toggle button").forEach(button => button.addEventListener("click",() => switchView(button.dataset.view)));
@@ -185,6 +188,8 @@ async function runArtistSearch() {
 }
 
 async function selectArtist(artistId, announce = true) {
+  exploreMode = "artist";
+  updateExploreModeControls();
   const artist = artists.find(item => item.id === artistId);
   if (!artist) return;
   const requestToken = ++artistRequestToken;
@@ -195,6 +200,7 @@ async function selectArtist(artistId, announce = true) {
   artworks = loadedArtworks;
   selectedLocationId = artist.defaultLocationId;
   document.getElementById("artistInput").value = artist.name;
+  document.getElementById("questionPrefix").textContent = "Where is the art by";
   document.getElementById("artistName").textContent = artist.displayName || artist.name;
   document.getElementById("artistIntro").textContent = artist.intro;
   document.getElementById("tripHeading").textContent = `Plan a ${artist.shortName || artist.name} trip`;
@@ -209,6 +215,45 @@ async function selectArtist(artistId, announce = true) {
   applyFilters();
   if (announce) document.getElementById("explore").scrollIntoView({ behavior:"smooth", block:"start" });
 }
+
+function updateExploreModeControls() {
+  document.querySelectorAll("[data-explore-mode]").forEach(button => button.classList.toggle("active",button.dataset.exploreMode === exploreMode));
+  document.getElementById("artistSearchPanel").hidden = exploreMode !== "artist";
+  document.getElementById("destinationSearchPanel").hidden = exploreMode !== "destination";
+}
+
+function setExploreMode(mode) {
+  exploreMode = mode;
+  updateExploreModeControls();
+  if (mode === "artist") {
+    selectArtist(selectedArtistId || artists[0]?.id,false).catch(showLoadError);
+  } else if (selectedDestination) {
+    document.getElementById("destinationInput").value = selectedDestination.name;
+  } else {
+    window.runDestinationSearch?.();
+  }
+}
+
+window.showDestinationInExplorer = function(place,records) {
+  exploreMode = "destination";
+  selectedDestination = place;
+  artworks = records;
+  selectedArtistId = null;
+  expandedLocationIds.clear();
+  const grouped = groupByLocation(records);
+  selectedLocationId = grouped[0]?.id || null;
+  updateExploreModeControls();
+  document.getElementById("questionPrefix").textContent = "What art can I see in";
+  document.getElementById("artistName").textContent = place.name;
+  document.getElementById("artistIntro").textContent = `${records.length.toLocaleString()} indexed works by ${place.artists} artists across ${place.institutions} institutions and ${place.cities} cities.`;
+  document.getElementById("tripHeading").textContent = `Explore art in ${place.name}`;
+  document.getElementById("tripSummary").textContent = "Choose a city or institution on the map, then inspect the linked source before making a special journey.";
+  document.querySelector(".dashboard").setAttribute("aria-label",`Art locations in ${place.name}`);
+  document.getElementById("map").setAttribute("aria-label",`Map showing indexed art in ${place.name}`);
+  updateCounts();
+  applyFilters();
+  document.getElementById("explore").scrollIntoView({ behavior:"smooth",block:"start" });
+};
 
 function applyFilters() {
   const types = [...document.querySelectorAll('input[name="type"]:checked')].map(input => input.value);
@@ -262,7 +307,7 @@ function renderSelectedLocation() {
   const expanded = expandedLocationIds.has(location.id);
   const visibleWorks = expanded ? location.works : location.works.slice(0,LOCATION_WORK_LIMIT);
   const remaining = location.works.length - visibleWorks.length;
-  document.getElementById("workList").innerHTML = visibleWorks.map(item => `<div class="work-item"><strong>${item.title}</strong><span class="${item.attribution === "Attributed" ? "debated" : ""}">${item.date} · ${item.type}${item.attribution === "Attributed" ? " · attribution debated" : ""}</span></div>`).join("") + (remaining > 0 ? `<button class="show-all-works" id="showAllWorks">Show all ${location.works.length} works <span>↓</span></button>` : "");
+  document.getElementById("workList").innerHTML = visibleWorks.map(item => `<div class="work-item"><strong>${item.title}</strong><span class="${item.attribution === "Attributed" ? "debated" : ""}">${exploreMode === "destination" ? `${item.artistName} · ` : ""}${item.date} · ${item.type}${item.attribution === "Attributed" ? " · attribution debated" : ""}</span></div>`).join("") + (remaining > 0 ? `<button class="show-all-works" id="showAllWorks">Show all ${location.works.length} works <span>↓</span></button>` : "");
   document.getElementById("showAllWorks")?.addEventListener("click",() => { expandedLocationIds.add(location.id); renderSelectedLocation(); });
   document.getElementById("sourceLink").href = location.source;
 }
@@ -280,7 +325,7 @@ function renderListView() {
 function renderArtworkGallery() {
   const gallery = document.getElementById("artworkGallery"); if (!gallery) return;
   const displayedArtworks = filteredArtworks.slice(0,GALLERY_LIMIT);
-  gallery.innerHTML = displayedArtworks.map(work => { const image = artworkImage(work); return `<article class="artwork-card"><a class="artwork-picture ${image ? "" : "image-missing"}" href="${work.source}" target="_blank" rel="noreferrer">${image ? `<img src="${image}" alt="${work.title} by ${work.artistName}" loading="lazy">` : `<i>${work.title}</i>`}<span>${work.type}</span></a><div class="artwork-details"><p>${work.city} · ${work.country}</p><h3>${work.title}</h3><small>${work.date} · ${work.location}</small>${work.attribution === "Attributed" ? '<b>Attribution debated</b>' : ''}<a href="${work.source}" target="_blank" rel="noreferrer">View official source ↗</a></div></article>`; }).join("");
+  gallery.innerHTML = displayedArtworks.map(work => { const image = artworkImage(work); return `<article class="artwork-card"><a class="artwork-picture ${image ? "" : "image-missing"}" href="${work.source}" target="_blank" rel="noreferrer">${image ? `<img src="${image}" alt="${work.title} by ${work.artistName}" loading="lazy">` : `<i>${work.title}</i>`}<span>${work.type}</span></a><div class="artwork-details"><p>${work.city} · ${work.country}</p><h3>${work.title}</h3><small>${exploreMode === "destination" ? `${work.artistName} · ` : ""}${work.date} · ${work.location}</small>${work.attribution === "Attributed" ? '<b>Attribution debated</b>' : ''}<a href="${work.source}" target="_blank" rel="noreferrer">View official source ↗</a></div></article>`; }).join("");
   document.getElementById("artworkGalleryCount").textContent = filteredArtworks.length > GALLERY_LIMIT ? `Showing ${GALLERY_LIMIT} of ${filteredArtworks.length}` : `${filteredArtworks.length} shown`;
 }
 
