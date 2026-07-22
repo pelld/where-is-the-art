@@ -27,7 +27,7 @@ for (const artist of index.artists) {
       artistId:artist.id, artistName:artist.name, reviewStatus:artist.reviewStatus,
       title:work.title, date:work.date, type:work.type, attribution:work.attribution,
       locationId:work.locationId, location:work.location, city:work.city, country,
-      lat:work.lat, lon:work.lon, source:work.source
+      lat:work.lat, lon:work.lon, source:work.source, externalImage:work.externalImage || "", artistImage:work.artistImage || ""
     });
   }
 }
