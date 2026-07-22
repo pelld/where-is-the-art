@@ -33,6 +33,7 @@ jobs:
           done
       - run: cp generated-data/*.json data/
       - run: node scripts/promote-generated-artists.mjs
+      - run: node scripts/build-place-index.mjs
       - run: node scripts/validate-data.mjs
       - name: Commit refreshed records
         run: |
