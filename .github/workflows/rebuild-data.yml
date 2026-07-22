@@ -1,6 +1,10 @@
 name: Rebuild generated artist data
 
 on:
+  push:
+    paths:
+      - "scripts/import-wikidata.mjs"
+      - ".github/workflows/rebuild-data.yml"
   workflow_dispatch:
     inputs:
       registry_offset:
