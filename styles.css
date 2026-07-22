@@ -156,3 +156,14 @@ footer>span { color:var(--ink); font-family:Georgia,serif; letter-spacing:.14em;
 .map-point:hover>b,.map-point:focus-visible>b,.map-point.selected>b { opacity:1; }
 .map-point.selected { width:39px; height:39px; box-shadow:0 0 0 8px rgba(34,70,168,.18),0 5px 12px rgba(0,0,0,.25); }
 .map-caption { position:absolute; left:7px; bottom:5px; padding:3px 5px; color:#53565b; background:rgba(255,255,255,.86); font-size:8px; }
+
+
+/* ============================================================
+   07. VIEW FRAMING
+   ============================================================ */
+/* Show the complete artwork instead of cropping portrait-format works into the wide panel. */
+.location-image img,.artwork-picture img { object-fit:contain; background:#d9d5cc; }
+
+/* Concentrate the self-contained world map on the area containing the recorded works. */
+.static-world-map>img,#mapMarkers { transform:scale(1.46); transform-origin:46% 35%; }
+.static-world-map>img { transition:transform .25s ease; }
