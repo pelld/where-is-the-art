@@ -13,6 +13,8 @@ let artistRequestToken = 0;
 let map;
 const markerByLocation = new Map();
 const GALLERY_LIMIT = 120;
+const LOCATION_WORK_LIMIT = 12;
+const expandedLocationIds = new Set();
 
 /* ============================================================
    01. DATA LOADING AND NORMALISATION
@@ -119,6 +121,7 @@ async function selectArtist(artistId, announce = true) {
   const loadedArtworks = await loadArtistArtworks(artist);
   if (requestToken !== artistRequestToken) return;
   selectedArtistId = artist.id;
+  expandedLocationIds.clear();
   artworks = loadedArtworks;
   selectedLocationId = artist.defaultLocationId;
   document.getElementById("artistInput").value = artist.name;
@@ -185,7 +188,11 @@ function renderSelectedLocation() {
   document.getElementById("locationCity").textContent = location.city;
   document.getElementById("locationName").textContent = location.name;
   document.getElementById("locationSummary").textContent = `${location.works.length} selected ${location.works.length === 1 ? "work or ensemble is" : "works or ensembles are"} recorded here.`;
-  document.getElementById("workList").innerHTML = location.works.map(item => `<div class="work-item"><strong>${item.title}</strong><span class="${item.attribution === "Attributed" ? "debated" : ""}">${item.date} · ${item.type}${item.attribution === "Attributed" ? " · attribution debated" : ""}</span></div>`).join("");
+  const expanded = expandedLocationIds.has(location.id);
+  const visibleWorks = expanded ? location.works : location.works.slice(0,LOCATION_WORK_LIMIT);
+  const remaining = location.works.length - visibleWorks.length;
+  document.getElementById("workList").innerHTML = visibleWorks.map(item => `<div class="work-item"><strong>${item.title}</strong><span class="${item.attribution === "Attributed" ? "debated" : ""}">${item.date} · ${item.type}${item.attribution === "Attributed" ? " · attribution debated" : ""}</span></div>`).join("") + (remaining > 0 ? `<button class="show-all-works" id="showAllWorks">Show all ${location.works.length} works <span>↓</span></button>` : "");
+  document.getElementById("showAllWorks")?.addEventListener("click",() => { expandedLocationIds.add(location.id); renderSelectedLocation(); });
   document.getElementById("sourceLink").href = location.source;
 }
 
