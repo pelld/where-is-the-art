@@ -1,5 +1,7 @@
 name: Rebuild generated artist data
 
+# One run imports and publishes the complete registered catalogue.
+
 on:
   workflow_dispatch:
   schedule:
