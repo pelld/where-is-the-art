@@ -167,3 +167,47 @@ footer>span { color:var(--ink); font-family:Georgia,serif; letter-spacing:.14em;
 /* Concentrate the self-contained world map on the area containing the recorded works. */
 .static-world-map>img,#mapMarkers { transform:scale(1.46); transform-origin:46% 35%; }
 .static-world-map>img { transition:transform .25s ease; }
+
+
+/* ============================================================
+   18. FLEXIBLE ARTWORK PRESENTATION
+   ============================================================ */
+.location-image {
+  isolation: isolate;
+  min-height: 300px;
+  overflow: hidden;
+  background: #d9d5cc;
+}
+.location-image::before {
+  content: "";
+  position: absolute;
+  inset: -22px;
+  z-index: -2;
+  background-image: linear-gradient(rgba(18, 18, 18, .22), rgba(18, 18, 18, .22)), var(--artwork-image);
+  background-position: center;
+  background-size: cover;
+  filter: blur(16px);
+  transform: scale(1.08);
+}
+.location-image::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  background: rgba(22, 20, 17, .14);
+}
+.location-image img {
+  object-fit: contain;
+  filter: drop-shadow(0 10px 22px rgba(0,0,0,.22));
+}
+.location-image.image-missing::before { display: none; }
+.location-image.image-missing::after { background: linear-gradient(135deg,#d9d5cc,#ede9df); }
+.artwork-picture.image-missing {
+  display: grid;
+  place-items: center;
+  padding: 2rem;
+  background: linear-gradient(135deg,#1f3f91,#5972ae);
+  color: white;
+  text-align: center;
+}
+.artwork-picture.image-missing i { font: italic 1.55rem/1.15 Georgia,serif; }
