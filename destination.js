@@ -74,21 +74,11 @@ function rankedCounts(records,key,labelKey = key) {
   return [...counts.values()].sort((a,b) => b.count - a.count || a.name.localeCompare(b.name));
 }
 function renderDestination(place,records) {
-  document.getElementById("destinationResult").hidden = false;
-  document.getElementById("destinationResultTitle").textContent = `What can I see in ${place.name}?`;
-  document.getElementById("destinationResultSummary").textContent = `${records.length.toLocaleString()} indexed works by ${place.artists} artists across ${place.institutions} institutions and ${place.cities} cities.`;
-  document.getElementById("destinationNote").textContent = "Generated records are a discovery aid; check the official source before travelling.";
-  const groups = [
-    ["Top cities",rankedCounts(records,"city")],
-    ["Top artists",rankedCounts(records,"artistId","artistName")],
-    ["Top institutions",rankedCounts(records,"locationId","location")]
-  ];
-  document.getElementById("destinationHighlights").innerHTML = groups.map(([title,items]) => `<div><h3>${title}</h3>${items.slice(0,10).map(item => `<span><b>${item.name}</b><small>${item.count.toLocaleString()}</small></span>`).join("")}</div>`).join("");
-  const shown = records.slice(0,120);
-  document.getElementById("destinationWorksCount").textContent = records.length > shown.length ? `Showing ${shown.length} of ${records.length.toLocaleString()} works` : `${records.length.toLocaleString()} works`;
-  document.getElementById("destinationWorks").innerHTML = shown.map(work => `<article class="destination-work"><p>${work.city} · ${work.location}</p><h3>${work.title}</h3><span>${work.artistName} · ${work.date}</span><a href="${work.source}" target="_blank" rel="noreferrer">Check source ↗</a></article>`).join("");
-  document.getElementById("destinationResult").scrollIntoView({ behavior:"smooth",block:"start" });
+  document.getElementById("destinationNote").textContent = `${records.length.toLocaleString()} indexed works. Generated records are a discovery aid; check the source before travelling.`;
+  window.showDestinationInExplorer(place,records);
 }
+
+window.runDestinationSearch = runDestinationSearch;
 
 document.getElementById("destinationSearchButton").addEventListener("click",runDestinationSearch);
 document.getElementById("destinationInput").addEventListener("keydown",event => { if (event.key === "Enter") runDestinationSearch(); });
