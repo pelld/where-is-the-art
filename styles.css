@@ -328,3 +328,16 @@ footer>span { color:var(--ink); font-family:Georgia,serif; letter-spacing:.14em;
 .explore-mode button.active,.explore-mode button:hover,.explore-mode button:focus-visible { background:#2449ad; color:#fff; }
 #questionPrefix { display:inline-block; }
 @media (max-width:580px) { .explore-mode { display:flex; width:100%; } .explore-mode button { flex:1; } }
+
+
+/* ============================================================
+   23. MOBILE MAP ALIGNMENT
+   ============================================================ */
+/* Keep the map and coordinate layer in their native shared frame on narrow screens. The desktop zoom exaggerates pin-anchor offsets when the map becomes tall and narrow. */
+@media (max-width:580px) {
+  #map { height:360px; }
+  .static-world-map>img,#mapMarkers { transform:none; }
+  .map-point { width:27px; height:27px; border-width:2px; }
+  .map-point.selected { width:33px; height:33px; box-shadow:0 0 0 5px rgba(34,70,168,.16),0 4px 9px rgba(0,0,0,.24); }
+  .map-point>b { left:25px; top:21px; }
+}
