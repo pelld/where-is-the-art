@@ -5,26 +5,38 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="Find museums, churches and galleries where you can see works by a particular artist.">
   <title>Where Is the Art By…?</title>
-  <link rel="stylesheet" href="styles.css?v=9">
+  <link rel="stylesheet" href="styles.css?v=10">
 </head>
 <body>
   <header class="site-header">
     <a class="wordmark" href="#top" aria-label="Where Is the Art By home"><span>W</span> WHERE IS THE ART BY…?</a>
-    <nav><a class="active" href="#explore">By artist</a><a href="#destinations">By destination</a><a href="#method">About the data</a><a href="https://github.com/pelld/where-is-the-art" target="_blank" rel="noreferrer">GitHub ↗</a></nav>
+    <nav><a class="active" href="#explore">Explore</a><a href="#method">About the data</a><a href="https://github.com/pelld/where-is-the-art" target="_blank" rel="noreferrer">GitHub ↗</a></nav>
   </header>
 
   <main id="top">
     <section class="hero" id="explore">
       <div class="hero-copy">
-        <p class="eyebrow">ARTIST LOCATION EXPLORER · PROOF OF CONCEPT</p>
-        <h1>Where is the art by<br><em id="artistName">Michelangelo</em>?</h1>
+        <p class="eyebrow">OPEN ART LOCATION EXPLORER</p>
+        <div class="explore-mode" role="group" aria-label="Choose how to explore">
+          <button class="active" type="button" data-explore-mode="artist">By artist</button>
+          <button type="button" data-explore-mode="destination">By destination</button>
+        </div>
+        <h1><span id="questionPrefix">Where is the art by</span><br><em id="artistName">Michelangelo</em>?</h1>
         <p class="intro" id="artistIntro">Thirty works and ensembles across eighteen places. Use the map to find where the originals are held today.</p>
       </div>
-      <div class="artist-search">
-        <label for="artistInput">Search for an artist</label>
-        <div class="search-control"><span aria-hidden="true">⌕</span><input id="artistInput" value="Michelangelo" list="artistOptions" autocomplete="off" aria-describedby="searchNote"><datalist id="artistOptions"><option value="Michelangelo"></option><option value="Johannes Vermeer"></option></datalist><button id="searchButton">Search</button></div>
-        <p id="searchNote">Showing Michelangelo. Browse the available artists or type a name—even approximately.</p>
-        <details class="artist-browser" id="artistBrowser"><summary><span id="availableCount">Browse available artists</span><b aria-hidden="true">+</b></summary><div class="artist-directory" id="artistDirectory"></div></details>
+      <div class="explorer-search">
+        <div id="artistSearchPanel">
+          <label for="artistInput">Search for an artist</label>
+          <div class="search-control"><span aria-hidden="true">⌕</span><input id="artistInput" value="Michelangelo" list="artistOptions" autocomplete="off" aria-describedby="searchNote"><datalist id="artistOptions"></datalist><button id="searchButton">Search</button></div>
+          <p id="searchNote">Browse the available artists or type a name—even approximately.</p>
+          <details class="artist-browser" id="artistBrowser"><summary><span id="availableCount">Browse available artists</span><b aria-hidden="true">+</b></summary><div class="artist-directory" id="artistDirectory"></div></details>
+        </div>
+        <div id="destinationSearchPanel" hidden>
+          <label for="destinationInput">Search for a country</label>
+          <div class="search-control"><span aria-hidden="true">⌕</span><input id="destinationInput" value="France" list="destinationOptions" autocomplete="off" aria-describedby="destinationNote"><datalist id="destinationOptions"></datalist><button id="destinationSearchButton">Explore</button></div>
+          <p id="destinationNote">Try France—or browse the available destinations.</p>
+          <details class="artist-browser" id="destinationBrowser"><summary><span id="destinationCount">Browse available destinations</span><b aria-hidden="true">+</b></summary><div class="destination-directory" id="destinationDirectory"></div></details>
+        </div>
       </div>
     </section>
 
@@ -55,36 +67,18 @@
     </section>
 
     <section class="artworks-section" id="artworks">
-      <div class="section-heading"><div><p class="eyebrow">THE ARTWORKS</p><h2>See the works</h2></div><p>Browse the selected originals included in this proof of concept. Each image links to the official institution record or visitor information.</p></div>
+      <div class="section-heading"><div><p class="eyebrow">THE ARTWORKS</p><h2>See the works</h2></div><p>Browse the indexed works in the current selection. Each image links to the official institution record or visitor information.</p></div>
       <div class="gallery-toolbar"><strong id="artworkGalleryCount">30 shown</strong><span>Representative images are bundled where licensing and availability allow; every record links to its official source.</span></div>
       <div id="artworkGallery" class="artwork-gallery"></div>
     </section>
 
-    <section class="destination-section" id="destinations">
-      <div class="destination-heading">
-        <div><p class="eyebrow">EXPLORE BY DESTINATION</p><h2>I’m going to…</h2><p>Choose a country to discover its artists, cities, institutions and indexed works.</p></div>
-        <div class="destination-search">
-          <label for="destinationInput">Search for a country</label>
-          <div class="search-control"><span aria-hidden="true">⌕</span><input id="destinationInput" value="France" list="destinationOptions" autocomplete="off"><datalist id="destinationOptions"></datalist><button id="destinationSearchButton">Explore</button></div>
-          <p id="destinationNote">Try France, Italy, the Netherlands—or browse every available destination.</p>
-          <details class="artist-browser" id="destinationBrowser"><summary><span id="destinationCount">Browse available destinations</span><b aria-hidden="true">+</b></summary><div class="destination-directory" id="destinationDirectory"></div></details>
-        </div>
-      </div>
-      <div class="destination-result" id="destinationResult" hidden>
-        <div class="section-heading"><div><p class="eyebrow">DESTINATION RESULTS</p><h2 id="destinationResultTitle"></h2></div><p id="destinationResultSummary"></p></div>
-        <div class="destination-highlights" id="destinationHighlights"></div>
-        <div class="gallery-toolbar"><strong id="destinationWorksCount"></strong><span>Each record links to its source.</span></div>
-        <div class="destination-works" id="destinationWorks"></div>
-      </div>
-    </section>
-
     <section class="method" id="method">
       <div><p class="eyebrow">WHAT THIS PROVES</p><h2>Museum collections are organised by institution. Visitors think by artist.</h2></div>
-      <div><p>This prototype reorganises official collection records around a simple question: <em>where can I see art by this person?</em></p><p>The underlying file is intentionally human-readable. Each record contains the work, location, coordinates, attribution status and an official source. That makes it possible to review and improve the evidence through GitHub.</p><p class="caveat"><strong>Scope:</strong> selected publicly accessible sculptures, paintings and frescoes. Drawings, architectural works, copies, lost works and most disputed attributions are excluded.</p></div>
+      <div><p>This open catalogue reorganises collection records around two practical questions: <em>where can I see art by this person, and what can I see where I am going?</em></p><p>The underlying file is intentionally human-readable. Each record contains the work, location, coordinates, attribution status and an official source. That makes it possible to review and improve the evidence through GitHub.</p><p class="caveat"><strong>Scope:</strong> selected publicly accessible sculptures, paintings and frescoes. Drawings, architectural works, copies, lost works and most disputed attributions are excluded.</p></div>
     </section>
   </main>
 
-  <footer><span>WHERE IS THE ART BY…?</span><p>A small open-data proof of concept by David Pell.</p><a href="#top">Back to top ↑</a></footer>
+  <footer><span>WHERE IS THE ART BY…?</span><p>An open art-location catalogue by David Pell.</p><a href="#top">Back to top ↑</a></footer>
 
   <script>window.bundledArtworkImages = {};</script>
   <script src="images/accademia.js"></script>
@@ -148,7 +142,7 @@
   <script src="images/michelangelo-work-crouching-boy.js"></script>
   <script src="images/michelangelo-work-torment-saint-anthony.js"></script>
   <script src="images/michelangelo-work-young-archer.js"></script>
-  <script src="app.js?v=12"></script>
-  <script src="destination.js?v=1"></script>
+  <script src="app.js?v=13"></script>
+  <script src="destination.js?v=2"></script>
 </body>
 </html>
