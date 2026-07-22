@@ -1,0 +1,100 @@
+{
+  "artworks": [
+    {
+      "id": "Q123550677",
+      "title": "Tree of Knowledge",
+      "date": "1915",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "hilma-af-klint",
+      "artistName": "Hilma af Klint",
+      "locationId": "glenstone-montgomery-county",
+      "location": "Glenstone",
+      "city": "Montgomery County",
+      "country": "United States",
+      "lat": 39.061769997,
+      "lon": -77.253076971,
+      "source": "http://www.wikidata.org/entity/Q123550677",
+      "image": "",
+      "externalImage": "",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q436267",
+        "retrieved": "2026-07-22",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q123538239",
+      "title": "Tree of Knowledge, No. 1",
+      "date": "1915",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "hilma-af-klint",
+      "artistName": "Hilma af Klint",
+      "locationId": "glenstone-montgomery-county",
+      "location": "Glenstone",
+      "city": "Montgomery County",
+      "country": "United States",
+      "lat": 39.061769997,
+      "lon": -77.253076971,
+      "source": "http://www.wikidata.org/entity/Q123538239",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Tree%20of%20Knowledge%20No.%201%2C%20Hilma%20af%20Klint%2C%201913-1915%2C%20Glenstone%202023.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q436267",
+        "retrieved": "2026-07-22",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q124038989",
+      "title": "Tree of Knowledge, No. 2",
+      "date": "1915",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "hilma-af-klint",
+      "artistName": "Hilma af Klint",
+      "locationId": "glenstone-montgomery-county",
+      "location": "Glenstone",
+      "city": "Montgomery County",
+      "country": "United States",
+      "lat": 39.061769997,
+      "lon": -77.253076971,
+      "source": "http://www.wikidata.org/entity/Q124038989",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Tree%20of%20Knowledge%20No.%202%2C%20Hilma%20af%20Klint%2C%201913-1915%2C%20Glenstone%202023.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q436267",
+        "retrieved": "2026-07-22",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q104904691",
+      "title": "Portrait",
+      "date": "Date unknown",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "hilma-af-klint",
+      "artistName": "Hilma af Klint",
+      "locationId": "maritime-museum-stockholm",
+      "location": "Maritime Museum",
+      "city": "Stockholm",
+      "country": "Sweden",
+      "lat": 59.3325,
+      "lon": 18.11583333,
+      "source": "http://www.wikidata.org/entity/Q104904691",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Portr%C3%A4tt%20-%20Sj%C3%B6historiska%20museet%20-%20O%2004249.tif",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q436267",
+        "retrieved": "2026-07-22",
+        "reviewStatus": "generated"
+      }
+    }
+  ]
+}

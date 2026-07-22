@@ -2929,30 +2929,6 @@
       }
     },
     {
-      "id": "Q29384768",
-      "title": "Lucretia",
-      "date": "1500",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "raphael",
-      "artistName": "Raphael",
-      "locationId": "metropolitan-museum-of-art-manhattan",
-      "location": "Metropolitan Museum of Art",
-      "city": "Manhattan",
-      "country": "United States",
-      "lat": 40.779444444,
-      "lon": -73.963333333,
-      "source": "http://www.wikidata.org/entity/Q29384768",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucretia%20MET%20DP862672.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q5597",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
       "id": "Q131613727",
       "title": "Lucretia",
       "date": "Date unknown",
@@ -2969,6 +2945,30 @@
       "source": "http://www.wikidata.org/entity/Q131613727",
       "image": "",
       "externalImage": "",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q5597",
+        "retrieved": "2026-07-22",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q29384768",
+      "title": "Lucretia",
+      "date": "1500",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "raphael",
+      "artistName": "Raphael",
+      "locationId": "metropolitan-museum-of-art-manhattan",
+      "location": "Metropolitan Museum of Art",
+      "city": "Manhattan",
+      "country": "United States",
+      "lat": 40.779444444,
+      "lon": -73.963333333,
+      "source": "http://www.wikidata.org/entity/Q29384768",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucretia%20MET%20DP862672.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5597",

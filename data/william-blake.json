@@ -529,6 +529,30 @@
       }
     },
     {
+      "id": "Q2324840",
+      "title": "The Ancient of Days",
+      "date": "1794",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "william-blake",
+      "artistName": "William Blake",
+      "locationId": "fitzwilliam-museum-cambridge",
+      "location": "Fitzwilliam Museum",
+      "city": "Cambridge",
+      "country": "United Kingdom",
+      "lat": 52.200278,
+      "lon": 0.119444,
+      "source": "http://www.wikidata.org/entity/Q2324840",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Europe%20a%20Prophecy%20copy%20K%20plate%2001.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q41513",
+        "retrieved": "2026-07-22",
+        "reviewStatus": "generated"
+      }
+    },
+    {
       "id": "Q23692473",
       "title": "The Baptism of Christ",
       "date": "1810",
@@ -737,30 +761,6 @@
       "source": "http://www.wikidata.org/entity/Q104975832",
       "image": "",
       "externalImage": "",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q41513",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q2324840",
-      "title": "The Ancient of Days",
-      "date": "1794",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "william-blake",
-      "artistName": "William Blake",
-      "locationId": "library-of-congress-washington-d-c",
-      "location": "Library of Congress",
-      "city": "Washington, D.C.",
-      "country": "United States",
-      "lat": 38.888611111,
-      "lon": -77.004722222,
-      "source": "http://www.wikidata.org/entity/Q2324840",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Europe%20a%20Prophecy%20copy%20K%20plate%2001.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
@@ -2785,30 +2785,6 @@
       }
     },
     {
-      "id": "Q64962804",
-      "title": "Fertilization of Egypt",
-      "date": "1791",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "william-blake",
-      "artistName": "William Blake",
-      "locationId": "q214867-washington-d-c",
-      "location": "Q214867",
-      "city": "Washington, D.C.",
-      "country": "United States",
-      "lat": 38.891388888,
-      "lon": -77.02,
-      "source": "http://www.wikidata.org/entity/Q64962804",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20after%20Henry%20Fuseli%2C%20Fertilization%20of%20Egypt%2C%201791%2C%20NGA%204984.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q41513",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
       "id": "Q74044603",
       "title": "Fertilization of Egypt",
       "date": "Date unknown",
@@ -2825,6 +2801,30 @@
       "source": "http://www.wikidata.org/entity/Q74044603",
       "image": "",
       "externalImage": "",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q41513",
+        "retrieved": "2026-07-22",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q64962804",
+      "title": "Fertilization of Egypt",
+      "date": "1791",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "william-blake",
+      "artistName": "William Blake",
+      "locationId": "q214867-washington-d-c",
+      "location": "Q214867",
+      "city": "Washington, D.C.",
+      "country": "United States",
+      "lat": 38.891388888,
+      "lon": -77.02,
+      "source": "http://www.wikidata.org/entity/Q64962804",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20after%20Henry%20Fuseli%2C%20Fertilization%20of%20Egypt%2C%201791%2C%20NGA%204984.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
@@ -2929,7 +2929,7 @@
       }
     },
     {
-      "id": "Q64962753",
+      "id": "Q64962573",
       "title": "Job Accepting Charity",
       "date": "1825",
       "type": "Painting",
@@ -2942,33 +2942,9 @@
       "country": "United States",
       "lat": 38.891388888,
       "lon": -77.02,
-      "source": "http://www.wikidata.org/entity/Q64962753",
+      "source": "http://www.wikidata.org/entity/Q64962573",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%2C%20Job%20Accepting%20Charity%2C%201825%2C%20NGA%204979.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q41513",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q64962755",
-      "title": "Job and His Daughters",
-      "date": "1825",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "william-blake",
-      "artistName": "William Blake",
-      "locationId": "q214867-washington-d-c",
-      "location": "Q214867",
-      "city": "Washington, D.C.",
-      "country": "United States",
-      "lat": 38.891388888,
-      "lon": -77.02,
-      "source": "http://www.wikidata.org/entity/Q64962755",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%2C%20Job%20and%20His%20Daughters%2C%201825%2C%20NGA%204980.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%2C%20Job%20Accepting%20Charity%2C%201825%2C%20NGA%20823.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
@@ -2993,6 +2969,30 @@
       "source": "http://www.wikidata.org/entity/Q20180367",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Job%20and%20His%20Daughters%28tempera%29.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q41513",
+        "retrieved": "2026-07-22",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q64962755",
+      "title": "Job and His Daughters",
+      "date": "1825",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "william-blake",
+      "artistName": "William Blake",
+      "locationId": "q214867-washington-d-c",
+      "location": "Q214867",
+      "city": "Washington, D.C.",
+      "country": "United States",
+      "lat": 38.891388888,
+      "lon": -77.02,
+      "source": "http://www.wikidata.org/entity/Q64962755",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%2C%20Job%20and%20His%20Daughters%2C%201825%2C%20NGA%204980.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
@@ -3049,7 +3049,7 @@
       }
     },
     {
-      "id": "Q64962756",
+      "id": "Q64962576",
       "title": "Job and His Wife Restored to Prosperity",
       "date": "1825",
       "type": "Painting",
@@ -3062,9 +3062,9 @@
       "country": "United States",
       "lat": 38.891388888,
       "lon": -77.02,
-      "source": "http://www.wikidata.org/entity/Q64962756",
+      "source": "http://www.wikidata.org/entity/Q64962576",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%2C%20Job%20and%20His%20Wife%20Restored%20to%20Prosperity%2C%201825%2C%20NGA%204981.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%2C%20Job%20and%20His%20Wife%20Restored%20to%20Prosperity%2C%201825%2C%20NGA%20825.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
@@ -3073,7 +3073,7 @@
       }
     },
     {
-      "id": "Q64962735",
+      "id": "Q64962670",
       "title": "Job Rebuked by His Friends",
       "date": "1825",
       "type": "Painting",
@@ -3086,9 +3086,9 @@
       "country": "United States",
       "lat": 38.891388888,
       "lon": -77.02,
-      "source": "http://www.wikidata.org/entity/Q64962735",
+      "source": "http://www.wikidata.org/entity/Q64962670",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%2C%20Job%20Rebuked%20by%20His%20Friends%2C%201825%2C%20NGA%204970.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%2C%20Job%20Rebuked%20by%20His%20Friends%2C%201825%2C%20NGA%204845.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
@@ -3097,7 +3097,7 @@
       }
     },
     {
-      "id": "Q64962726",
+      "id": "Q64962550",
       "title": "Job's Comforters",
       "date": "1825",
       "type": "Painting",
@@ -3110,9 +3110,9 @@
       "country": "United States",
       "lat": 38.891388888,
       "lon": -77.02,
-      "source": "http://www.wikidata.org/entity/Q64962726",
+      "source": "http://www.wikidata.org/entity/Q64962550",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%2C%20Job%27s%20Comforters%2C%201825%2C%20NGA%204967.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%2C%20Job%27s%20Comforters%2C%201825%2C%20NGA%20811.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
@@ -3121,7 +3121,7 @@
       }
     },
     {
-      "id": "Q64962727",
+      "id": "Q64962552",
       "title": "Job's Despair",
       "date": "1825",
       "type": "Painting",
@@ -3134,9 +3134,9 @@
       "country": "United States",
       "lat": 38.891388888,
       "lon": -77.02,
-      "source": "http://www.wikidata.org/entity/Q64962727",
+      "source": "http://www.wikidata.org/entity/Q64962552",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%2C%20Job%27s%20Despair%2C%201825%2C%20NGA%204968.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%2C%20Job%27s%20Despair%2C%201825%2C%20NGA%20812.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
@@ -3145,7 +3145,7 @@
       }
     },
     {
-      "id": "Q64962737",
+      "id": "Q64962557",
       "title": "Job's Evil Dreams",
       "date": "1825",
       "type": "Painting",
@@ -3158,9 +3158,9 @@
       "country": "United States",
       "lat": 38.891388888,
       "lon": -77.02,
-      "source": "http://www.wikidata.org/entity/Q64962737",
+      "source": "http://www.wikidata.org/entity/Q64962557",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%2C%20Job%27s%20Evil%20Dreams%2C%201825%2C%20NGA%204971.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%2C%20Job%27s%20Evil%20Dreams%2C%201825%2C%20NGA%20815.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
@@ -3481,7 +3481,7 @@
       }
     },
     {
-      "id": "Q65087366",
+      "id": "Q65087372",
       "title": "Restrike from fragment of cancelled plate for\"A Prophecy\"",
       "date": "1793",
       "type": "Painting",
@@ -3494,9 +3494,9 @@
       "country": "United States",
       "lat": 38.891388888,
       "lon": -77.02,
-      "source": "http://www.wikidata.org/entity/Q65087366",
+      "source": "http://www.wikidata.org/entity/Q65087372",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%2C%20Restrike%20from%20fragment%20of%20cancelled%20plate%20for%22A%20Prophecy%22%2C%201793%2C%20NGA%2034672.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%2C%20Restrike%20from%20fragment%20of%20cancelled%20plate%20for%22A%20Prophecy%22%2C%201793%2C%20NGA%2034676.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
@@ -3697,7 +3697,7 @@
       }
     },
     {
-      "id": "Q65026711",
+      "id": "Q65026709",
       "title": "The Canterbury Pilgrims",
       "date": "1810",
       "type": "Painting",
@@ -3710,9 +3710,9 @@
       "country": "United States",
       "lat": 38.891388888,
       "lon": -77.02,
-      "source": "http://www.wikidata.org/entity/Q65026711",
+      "source": "http://www.wikidata.org/entity/Q65026709",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%2C%20The%20Canterbury%20Pilgrims%2C%201810%2C%20NGA%2011495.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%2C%20The%20Canterbury%20Pilgrims%2C%201810%2C%20NGA%2011494.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
@@ -3745,8 +3745,8 @@
       }
     },
     {
-      "id": "Q65026730",
-      "title": "The Circle of the Corrupt Officials; The Devils Mauling Each Other",
+      "id": "Q65026665",
+      "title": "The Circle of the Corrupt Officials; the Devils Mauling Each Other",
       "date": "1827",
       "type": "Painting",
       "attribution": "Accepted",
@@ -3758,9 +3758,9 @@
       "country": "United States",
       "lat": 38.891388888,
       "lon": -77.02,
-      "source": "http://www.wikidata.org/entity/Q65026730",
+      "source": "http://www.wikidata.org/entity/Q65026665",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%2C%20The%20Circle%20of%20the%20Corrupt%20Officials%3B%20The%20Devils%20Mauling%20Each%20Other%2C%201827%2C%20NGA%2012098.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%2C%20The%20Circle%20of%20the%20Corrupt%20Officials%3B%20the%20Devils%20Mauling%20Each%20Other%2C%201827%2C%20NGA%208320.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
@@ -3793,30 +3793,6 @@
       }
     },
     {
-      "id": "Q65026724",
-      "title": "The Circle of the Falsifiers; Dante and Virgil Covering their Noses because of the stench",
-      "date": "1827",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "william-blake",
-      "artistName": "William Blake",
-      "locationId": "q214867-washington-d-c",
-      "location": "Q214867",
-      "city": "Washington, D.C.",
-      "country": "United States",
-      "lat": 38.891388888,
-      "lon": -77.02,
-      "source": "http://www.wikidata.org/entity/Q65026724",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%2C%20The%20Circle%20of%20the%20Falsifiers%3B%20Dante%20and%20Virgil%20Covering%20their%20Noses%20because%20of%20the%20stench%2C%201827%2C%20NGA%2012094.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q41513",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
       "id": "Q65026677",
       "title": "The Circle of the Falsifiers: Dante and Virgil Covering their Noses because of the st",
       "date": "1827",
@@ -3833,6 +3809,30 @@
       "source": "http://www.wikidata.org/entity/Q65026677",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%2C%20The%20Circle%20of%20the%20Falsifiers%20-%20Dante%20and%20Virgil%20Covering%20their%20Noses%20because%20of%20the%20st%2C%201827%2C%20NGA%208459.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q41513",
+        "retrieved": "2026-07-22",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q65578966",
+      "title": "The Circle of the Falsifiers: Dante and Virgil Covering their Noses because of the stench",
+      "date": "1827",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "william-blake",
+      "artistName": "William Blake",
+      "locationId": "q214867-washington-d-c",
+      "location": "Q214867",
+      "city": "Washington, D.C.",
+      "country": "United States",
+      "lat": 38.891388888,
+      "lon": -77.02,
+      "source": "http://www.wikidata.org/entity/Q65578966",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%2C%20The%20Circle%20of%20the%20Falsifiers%20-%20Dante%20and%20Virgil%20Covering%20their%20Noses%20because%20of%20the%20stench%2C%201827%2C%20NGA%2057826.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
@@ -3865,7 +3865,7 @@
       }
     },
     {
-      "id": "Q65026728",
+      "id": "Q65026667",
       "title": "The Circle of the Thieves; Agnolo Brunelleschi Attacked by a Six-Footed Serpent",
       "date": "1827",
       "type": "Painting",
@@ -3878,9 +3878,9 @@
       "country": "United States",
       "lat": 38.891388888,
       "lon": -77.02,
-      "source": "http://www.wikidata.org/entity/Q65026728",
+      "source": "http://www.wikidata.org/entity/Q65026667",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%2C%20The%20Circle%20of%20the%20Thieves%3B%20Agnolo%20Brunelleschi%20Attacked%20by%20a%20Six-Footed%20Serpent%2C%201827%2C%20NGA%2012097.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%2C%20The%20Circle%20of%20the%20Thieves%3B%20Agnolo%20Brunelleschi%20Attacked%20by%20a%20Six-Footed%20Serpent%2C%201827%2C%20NGA%208321.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
@@ -3913,7 +3913,7 @@
       }
     },
     {
-      "id": "Q65026722",
+      "id": "Q65026678",
       "title": "The Circle of the Traitors; Dante's Foot Striking Bocca degli Abbate",
       "date": "1827",
       "type": "Painting",
@@ -3926,9 +3926,9 @@
       "country": "United States",
       "lat": 38.891388888,
       "lon": -77.02,
-      "source": "http://www.wikidata.org/entity/Q65026722",
+      "source": "http://www.wikidata.org/entity/Q65026678",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%2C%20The%20Circle%20of%20the%20Traitors%3B%20Dante%27s%20Foot%20Striking%20Bocca%20degli%20Abbate%2C%201827%2C%20NGA%2012093.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%2C%20The%20Circle%20of%20the%20Traitors%3B%20Dante%27s%20Foot%20Striking%20Bocca%20degli%20Abbate%2C%201827%2C%20NGA%208460.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
@@ -4369,7 +4369,7 @@
       }
     },
     {
-      "id": "Q64962710",
+      "id": "Q64962690",
       "title": "The Vision of Christ",
       "date": "1825",
       "type": "Painting",
@@ -4382,7 +4382,7 @@
       "country": "United States",
       "lat": 38.891388888,
       "lon": -77.02,
-      "source": "http://www.wikidata.org/entity/Q64962710",
+      "source": "http://www.wikidata.org/entity/Q64962690",
       "image": "",
       "externalImage": "",
       "provenance": {
@@ -4393,7 +4393,7 @@
       }
     },
     {
-      "id": "Q64962729",
+      "id": "Q64962632",
       "title": "The Vision of Eliphaz",
       "date": "1825",
       "type": "Painting",
@@ -4406,9 +4406,9 @@
       "country": "United States",
       "lat": 38.891388888,
       "lon": -77.02,
-      "source": "http://www.wikidata.org/entity/Q64962729",
+      "source": "http://www.wikidata.org/entity/Q64962632",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%2C%20The%20Vision%20of%20Eliphaz%2C%201825%2C%20NGA%204969.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%2C%20The%20Vision%20of%20Eliphaz%2C%201825%2C%20NGA%204831.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
@@ -4441,7 +4441,7 @@
       }
     },
     {
-      "id": "Q64962738",
+      "id": "Q64962558",
       "title": "The Wrath of Elihu",
       "date": "1825",
       "type": "Painting",
@@ -4454,9 +4454,9 @@
       "country": "United States",
       "lat": 38.891388888,
       "lon": -77.02,
-      "source": "http://www.wikidata.org/entity/Q64962738",
+      "source": "http://www.wikidata.org/entity/Q64962558",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%2C%20The%20Wrath%20of%20Elihu%2C%201825%2C%20NGA%204972.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%2C%20The%20Wrath%20of%20Elihu%2C%201825%2C%20NGA%20816.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
@@ -6481,7 +6481,7 @@
       }
     },
     {
-      "id": "Q110122896",
+      "id": "Q110122830",
       "title": "Illustrations of the Book of Job [in twenty-one plates]",
       "date": "Date unknown",
       "type": "Painting",
@@ -6494,9 +6494,9 @@
       "country": "United States",
       "lat": 41.307908,
       "lon": -72.930906,
-      "source": "http://www.wikidata.org/entity/Q110122896",
+      "source": "http://www.wikidata.org/entity/Q110122830",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20-%20Illustrations%20of%20the%20Book%20of%20Job%20%28in%20twenty-one%20plates%29%20-%20B2005.16.5%20-%20Yale%20Center%20for%20British%20Art.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20-%20Illustrations%20of%20the%20Book%20of%20Job%20%28in%20twenty-one%20plates%29%20-%20B2005.16.15%20-%20Yale%20Center%20for%20British%20Art.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",

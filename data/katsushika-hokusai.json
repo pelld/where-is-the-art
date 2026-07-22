@@ -385,30 +385,6 @@
       }
     },
     {
-      "id": "Q18173408",
-      "title": "Sazai hall - Temple of Five Hundred Rakan",
-      "date": "1831",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "katsushika-hokusai",
-      "artistName": "Katsushika Hokusai",
-      "locationId": "brooklyn-museum-brooklyn",
-      "location": "Brooklyn Museum",
-      "city": "Brooklyn",
-      "country": "United States",
-      "lat": 40.671206,
-      "lon": -73.963631,
-      "source": "http://www.wikidata.org/entity/Q18173408",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sazai%20hall%20-%20500%20Rakan%20temples.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q5586",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
       "id": "Q60702221",
       "title": "Wooden Horse",
       "date": "1822",
@@ -2617,7 +2593,7 @@
       }
     },
     {
-      "id": "Q78725574",
+      "id": "Q78725638",
       "title": "Mother and Children in Summer Night",
       "date": "1799",
       "type": "Painting",
@@ -2630,9 +2606,9 @@
       "country": "United States",
       "lat": 40.779444444,
       "lon": -73.963333333,
-      "source": "http://www.wikidata.org/entity/Q78725574",
+      "source": "http://www.wikidata.org/entity/Q78725638",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Katsushika%20Hokusai%20-%20Mother%20and%20Children%20in%20Summer%20Night%20-%2056.121.30%20-%20Metropolitan%20Museum%20of%20Art.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Katsushika%20Hokusai%20-%20Mother%20and%20Children%20in%20Summer%20Night%20-%2056.121.29%20-%20Metropolitan%20Museum%20of%20Art.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5586",
@@ -3337,6 +3313,30 @@
       }
     },
     {
+      "id": "Q18173408",
+      "title": "Sazai hall - Temple of Five Hundred Rakan",
+      "date": "1831",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "katsushika-hokusai",
+      "artistName": "Katsushika Hokusai",
+      "locationId": "metropolitan-museum-of-art-manhattan",
+      "location": "Metropolitan Museum of Art",
+      "city": "Manhattan",
+      "country": "United States",
+      "lat": 40.779444444,
+      "lon": -73.963333333,
+      "source": "http://www.wikidata.org/entity/Q18173408",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sazai%20hall%20-%20500%20Rakan%20temples.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q5586",
+        "retrieved": "2026-07-22",
+        "reviewStatus": "generated"
+      }
+    },
+    {
       "id": "Q78726430",
       "title": "Scene from the Suikoden",
       "date": "1804",
@@ -3833,6 +3833,30 @@
       "source": "http://www.wikidata.org/entity/Q78726193",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Katsushika%20Hokusai%20-%20The%20Actor%20Danjuro%20as%20Shibaraku%20-%2056.121.22%20-%20Metropolitan%20Museum%20of%20Art.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q5586",
+        "retrieved": "2026-07-22",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q60230385",
+      "title": "The Amida Falls in the Far Reaches of the Kisokaidō Road",
+      "date": "1833",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "katsushika-hokusai",
+      "artistName": "Katsushika Hokusai",
+      "locationId": "metropolitan-museum-of-art-manhattan",
+      "location": "Metropolitan Museum of Art",
+      "city": "Manhattan",
+      "country": "United States",
+      "lat": 40.779444444,
+      "lon": -73.963333333,
+      "source": "http://www.wikidata.org/entity/Q60230385",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Katsushika%20Hokusai%20%281760-1849%29%2C%20Veld%20in%20de%20Owari%20provincie%20%281829-33%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5586",
@@ -5633,30 +5657,6 @@
       "source": "http://www.wikidata.org/entity/Q60230879",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Katsushika%20Hokusai%20%281760-1849%29%2C%20Ono%20waterval%20aan%20de%20Kisokaido%20%281835%29.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q5586",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q60230385",
-      "title": "The Amida Falls in the Far Reaches of the Kisokaidō Road",
-      "date": "1833",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "katsushika-hokusai",
-      "artistName": "Katsushika Hokusai",
-      "locationId": "tokyo-national-museum-ueno-koen",
-      "location": "Tokyo National Museum",
-      "city": "Ueno-kōen",
-      "country": "Japan",
-      "lat": 35.718888888,
-      "lon": 139.776388888,
-      "source": "http://www.wikidata.org/entity/Q60230385",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Katsushika%20Hokusai%20%281760-1849%29%2C%20Veld%20in%20de%20Owari%20provincie%20%281829-33%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5586",

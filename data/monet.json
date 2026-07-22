@@ -97,6 +97,30 @@
       }
     },
     {
+      "id": "Q67515679",
+      "title": "Wisteria",
+      "date": "1919",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "monet",
+      "artistName": "Claude Monet",
+      "locationId": "allen-memorial-art-museum-ohio",
+      "location": "Allen Memorial Art Museum",
+      "city": "Ohio",
+      "country": "United States",
+      "lat": 41.2937,
+      "lon": -82.2168,
+      "source": "http://www.wikidata.org/entity/Q67515679",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Monet%20w1909.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q296",
+        "retrieved": "2026-07-22",
+        "reviewStatus": "generated"
+      }
+    },
+    {
       "id": "Q50121187",
       "title": "Houses at Argenteuil",
       "date": "1873",
@@ -1609,30 +1633,6 @@
       }
     },
     {
-      "id": "Q50537321",
-      "title": "Vernon in the Sun",
-      "date": "1894",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "monet",
-      "artistName": "Claude Monet",
-      "locationId": "brooklyn-museum-brooklyn",
-      "location": "Brooklyn Museum",
-      "city": "Brooklyn",
-      "country": "United States",
-      "lat": 40.671206,
-      "lon": -73.963631,
-      "source": "http://www.wikidata.org/entity/Q50537321",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Brooklyn%20Museum%20-%20Church%20at%20Vernon%20-%20Claude%20Monet%20-%20overall.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q296",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
       "id": "Q50807667",
       "title": "Fontainebleau Forest",
       "date": "1865",
@@ -1873,30 +1873,6 @@
       }
     },
     {
-      "id": "Q56809139",
-      "title": "Water Lilies",
-      "date": "1915",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "monet",
-      "artistName": "Claude Monet",
-      "locationId": "chichu-art-museum-naoshima",
-      "location": "Chichu Art Museum",
-      "city": "Naoshima",
-      "country": "Japan",
-      "lat": 34.44975833,
-      "lon": 133.98580278,
-      "source": "http://www.wikidata.org/entity/Q56809139",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Monet-Water-lilies-Chichu-museum.tif",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q296",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
       "id": "Q56809063",
       "title": "Water Lilies, Cluster of Grass",
       "date": "1915",
@@ -2017,6 +1993,30 @@
       }
     },
     {
+      "id": "Q67183649",
+      "title": "Bridge at Dolceacqua",
+      "date": "1884",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "monet",
+      "artistName": "Claude Monet",
+      "locationId": "clark-art-institute-massachusetts",
+      "location": "Clark Art Institute",
+      "city": "Massachusetts",
+      "country": "United States",
+      "lat": 42.7078,
+      "lon": -73.2136,
+      "source": "http://www.wikidata.org/entity/Q67183649",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Monet%20-%20Bridge%20at%20Dolceacqua%2C%201884.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q296",
+        "retrieved": "2026-07-22",
+        "reviewStatus": "generated"
+      }
+    },
+    {
       "id": "Q17436689",
       "title": "Rouen Cathedral, the Façade in Sunlight",
       "date": "1893",
@@ -2057,6 +2057,30 @@
       "source": "http://www.wikidata.org/entity/Q55647396",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%2C%20Seascape%20-%20Storm.JPG",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q296",
+        "retrieved": "2026-07-22",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q50807954",
+      "title": "Street in Sainte-Adresse",
+      "date": "1867",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "monet",
+      "artistName": "Claude Monet",
+      "locationId": "clark-art-institute-massachusetts",
+      "location": "Clark Art Institute",
+      "city": "Massachusetts",
+      "country": "United States",
+      "lat": 42.7078,
+      "lon": -73.2136,
+      "source": "http://www.wikidata.org/entity/Q50807954",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%20-%20Street%20in%20Sainte-Adresse%20%281867%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q296",
@@ -2257,30 +2281,6 @@
       }
     },
     {
-      "id": "Q50819562",
-      "title": "Wheatfield",
-      "date": "1881",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "monet",
-      "artistName": "Claude Monet",
-      "locationId": "cleveland-museum-of-art-cleveland",
-      "location": "Cleveland Museum of Art",
-      "city": "Cleveland",
-      "country": "United States",
-      "lat": 41.508888888,
-      "lon": -81.611666666,
-      "source": "http://www.wikidata.org/entity/Q50819562",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/MB-Mon-09%20Monet%20Weizenfeld%201.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q296",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
       "id": "Q72691311",
       "title": "Boats on the beach at Etretat",
       "date": "1883",
@@ -2321,30 +2321,6 @@
       "source": "http://www.wikidata.org/entity/Q67200138",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bemberg%20Fondation%20Toulouse%20-%20Claude%20Monet%20-%20Portrait%20de%20son%20fils%20Jean%20en%20bonnet%20%C3%A0%20pompon%20-%201869%2042x33%20Inv.2076.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q296",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q50532761",
-      "title": "Basket of Grapes",
-      "date": "1883",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "monet",
-      "artistName": "Claude Monet",
-      "locationId": "columbus-museum-of-art-columbus",
-      "location": "Columbus Museum of Art",
-      "city": "Columbus",
-      "country": "United States",
-      "lat": 39.964384,
-      "lon": -82.98777,
-      "source": "http://www.wikidata.org/entity/Q50532761",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Basket%20of%20Grapes%20by%20Claude%20Monet%2C%20Columbus%20Museum%20of%20Art%20.JPG",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q296",
@@ -2401,30 +2377,6 @@
       }
     },
     {
-      "id": "Q50532798",
-      "title": "The Mediterranean (Cap d'Antibes)",
-      "date": "1888",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "monet",
-      "artistName": "Claude Monet",
-      "locationId": "columbus-museum-of-art-columbus",
-      "location": "Columbus Museum of Art",
-      "city": "Columbus",
-      "country": "United States",
-      "lat": 39.964384,
-      "lon": -82.98777,
-      "source": "http://www.wikidata.org/entity/Q50532798",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Mediterranean%20%28Cap%20d%27Antibes%29%20by%20Claude%20Monet%2C%20Columbus%20Museum%20of%20Art%20.JPG",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q296",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
       "id": "Q20854513",
       "title": "The Seine at Port-Villez",
       "date": "1890",
@@ -2449,54 +2401,6 @@
       }
     },
     {
-      "id": "Q50532770",
-      "title": "View of Bennecourt",
-      "date": "1887",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "monet",
-      "artistName": "Claude Monet",
-      "locationId": "columbus-museum-of-art-columbus",
-      "location": "Columbus Museum of Art",
-      "city": "Columbus",
-      "country": "United States",
-      "lat": 39.964384,
-      "lon": -82.98777,
-      "source": "http://www.wikidata.org/entity/Q50532770",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%20-%20View%20of%20Bennecourt%20%281887%29.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q296",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q50532779",
-      "title": "Weeping Willow",
-      "date": "1918",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "monet",
-      "artistName": "Claude Monet",
-      "locationId": "columbus-museum-of-art-columbus",
-      "location": "Columbus Museum of Art",
-      "city": "Columbus",
-      "country": "United States",
-      "lat": 39.964384,
-      "lon": -82.98777,
-      "source": "http://www.wikidata.org/entity/Q50532779",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%2C%20Weeping%20Willow.JPG",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q296",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
       "id": "Q50435466",
       "title": "Antibes",
       "date": "1888",
@@ -2513,30 +2417,6 @@
       "source": "http://www.wikidata.org/entity/Q50435466",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Antibes%20de%20Claude%20Monet%20%28Fondation%20Vuitton%2C%20Paris%29%20%2840445024443%29.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q296",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q50435471",
-      "title": "Autumn Effect at Argenteuil",
-      "date": "1873",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "monet",
-      "artistName": "Claude Monet",
-      "locationId": "courtauld-institute-of-art-london",
-      "location": "Courtauld Institute of Art",
-      "city": "London",
-      "country": "United Kingdom",
-      "lat": 51.510734,
-      "lon": -0.116912,
-      "source": "http://www.wikidata.org/entity/Q50435471",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Monet%20-%20Herbst%20in%20Argentueil.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q296",
@@ -2657,6 +2537,30 @@
       "source": "http://www.wikidata.org/entity/Q18621166",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%20-%20The%20Seine%20at%20Lavacourt%20-%201938.4.M%20-%20Dallas%20Museum%20of%20Art.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q296",
+        "retrieved": "2026-07-22",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q50765334",
+      "title": "The Tea Service",
+      "date": "1872",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "monet",
+      "artistName": "Claude Monet",
+      "locationId": "dallas-museum-of-art-dallas",
+      "location": "Dallas Museum of Art",
+      "city": "Dallas",
+      "country": "United States",
+      "lat": 32.78756,
+      "lon": -96.800893,
+      "source": "http://www.wikidata.org/entity/Q50765334",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%27The%20Tea%20Service%27%20oil%20on%20canvas%20painting%20by%20Claude%20Monet%2C%201872.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q296",
@@ -3385,6 +3289,30 @@
       }
     },
     {
+      "id": "Q1114220",
+      "title": "Poppy Field near Vétheuil",
+      "date": "1879",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "monet",
+      "artistName": "Claude Monet",
+      "locationId": "foundation-e-g-buhrle-collection-zurich",
+      "location": "Foundation E.G. Bührle Collection",
+      "city": "Zurich",
+      "country": "Switzerland",
+      "lat": 47.353045,
+      "lon": 8.561758,
+      "source": "http://www.wikidata.org/entity/Q1114220",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%20-%20Champ%20de%20coquelicots%20pr%C3%A8s%20de%20V%C3%A9theuil.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q296",
+        "retrieved": "2026-07-22",
+        "reviewStatus": "generated"
+      }
+    },
+    {
       "id": "Q64174088",
       "title": "Waterloo Bridge, London, Sun Effect",
       "date": "1900",
@@ -3937,30 +3865,6 @@
       }
     },
     {
-      "id": "Q681876",
-      "title": "Woman in the Garden",
-      "date": "1867",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "monet",
-      "artistName": "Claude Monet",
-      "locationId": "hermitage-museum-saint-petersburg",
-      "location": "Hermitage Museum",
-      "city": "Saint Petersburg",
-      "country": "Russia",
-      "lat": 59.940555555,
-      "lon": 30.313611111,
-      "source": "http://www.wikidata.org/entity/Q681876",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%20022.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q296",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
       "id": "Q27970657",
       "title": "Woman in the Garden",
       "date": "1876",
@@ -3977,6 +3881,30 @@
       "source": "http://www.wikidata.org/entity/Q27970657",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Monet%20-%20Femme%20assise%20dans%20le%20jardin%20%281876%29.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q296",
+        "retrieved": "2026-07-22",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q681876",
+      "title": "Woman in the Garden",
+      "date": "1867",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "monet",
+      "artistName": "Claude Monet",
+      "locationId": "hermitage-museum-saint-petersburg",
+      "location": "Hermitage Museum",
+      "city": "Saint Petersburg",
+      "country": "Russia",
+      "lat": 59.940555555,
+      "lon": 30.313611111,
+      "source": "http://www.wikidata.org/entity/Q681876",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%20022.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q296",
@@ -4177,6 +4105,30 @@
       }
     },
     {
+      "id": "Q22205318",
+      "title": "Three Fishing Boats",
+      "date": "1886",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "monet",
+      "artistName": "Claude Monet",
+      "locationId": "hungarian-national-gallery-budapest-district-i",
+      "location": "Hungarian National Gallery",
+      "city": "Budapest District I",
+      "country": "Hungary",
+      "lat": 47.4962283,
+      "lon": 19.0397733,
+      "source": "http://www.wikidata.org/entity/Q22205318",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%20-%20Three%20Fishing%20Boats%20-%20Google%20Art%20Project.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q296",
+        "retrieved": "2026-07-22",
+        "reviewStatus": "generated"
+      }
+    },
+    {
       "id": "Q106879983",
       "title": "Grainstack in the Sunlight, Snow Effect",
       "date": "1891",
@@ -4313,6 +4265,30 @@
       "source": "http://www.wikidata.org/entity/Q106869633",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/MB-Mon-34%20Monet%20Der-Seerosenteich%201.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q296",
+        "retrieved": "2026-07-22",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q50819562",
+      "title": "Wheatfield",
+      "date": "1881",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "monet",
+      "artistName": "Claude Monet",
+      "locationId": "impressionism-the-hasso-plattner-collection-potsdam",
+      "location": "Impressionism: The Hasso Plattner Collection",
+      "city": "Potsdam",
+      "country": "Germany",
+      "lat": 52.395194444,
+      "lon": 13.062305555,
+      "source": "http://www.wikidata.org/entity/Q50819562",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/MB-Mon-09%20Monet%20Weizenfeld%201.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q296",
@@ -4561,30 +4537,6 @@
       }
     },
     {
-      "id": "Q67523207",
-      "title": "Vetheuil, the swamp with water",
-      "date": "1881",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "monet",
-      "artistName": "Claude Monet",
-      "locationId": "kasama-nichido-museum-of-art-kasama",
-      "location": "Kasama Nichidō Museum of Art",
-      "city": "Kasama",
-      "country": "Japan",
-      "lat": 36.38446,
-      "lon": 140.25844,
-      "source": "http://www.wikidata.org/entity/Q67523207",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Monet%20w639.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q296",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
       "id": "Q50818928",
       "title": "Vétheuil",
       "date": "1880",
@@ -4681,30 +4633,6 @@
       }
     },
     {
-      "id": "Q68041446",
-      "title": "Meadow at Giverny",
-      "date": "1888",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "monet",
-      "artistName": "Claude Monet",
-      "locationId": "kreeger-museum-washington-d-c",
-      "location": "Kreeger Museum",
-      "city": "Washington, D.C.",
-      "country": "United States",
-      "lat": 38.921814,
-      "lon": -77.089117,
-      "source": "http://www.wikidata.org/entity/Q68041446",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Monet%20w1199.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q296",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
       "id": "Q68041445",
       "title": "Springtime at Giverny",
       "date": "1886",
@@ -4721,30 +4649,6 @@
       "source": "http://www.wikidata.org/entity/Q68041445",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Monet%20w1062.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q296",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q68041438",
-      "title": "Sunset at Pourville",
-      "date": "1882",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "monet",
-      "artistName": "Claude Monet",
-      "locationId": "kreeger-museum-washington-d-c",
-      "location": "Kreeger Museum",
-      "city": "Washington, D.C.",
-      "country": "United States",
-      "lat": 38.921814,
-      "lon": -77.089117,
-      "source": "http://www.wikidata.org/entity/Q68041438",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Monet%20w781.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q296",
@@ -5009,30 +4913,6 @@
       "source": "http://www.wikidata.org/entity/Q64174087",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Monet%20-%20Im%20Garten%20-%201895.jpeg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q296",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q1114220",
-      "title": "Poppy Field near Vétheuil",
-      "date": "1879",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "monet",
-      "artistName": "Claude Monet",
-      "locationId": "kunsthaus-zurich-district-1",
-      "location": "Kunsthaus Zürich",
-      "city": "District 1",
-      "country": "Switzerland",
-      "lat": 47.370277777,
-      "lon": 8.548055555,
-      "source": "http://www.wikidata.org/entity/Q1114220",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%20-%20Champ%20de%20coquelicots%20pr%C3%A8s%20de%20V%C3%A9theuil.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q296",
@@ -6649,6 +6529,30 @@
       }
     },
     {
+      "id": "Q56812706",
+      "title": "Le Parlement de Londres, effet de brouillard",
+      "date": "1903",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "monet",
+      "artistName": "Claude Monet",
+      "locationId": "muma-museum-of-modern-art-andre-malraux-le-havre",
+      "location": "MuMa Museum of modern art André Malraux",
+      "city": "Le Havre",
+      "country": "France",
+      "lat": 49.485043,
+      "lon": 0.102616,
+      "source": "http://www.wikidata.org/entity/Q56812706",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Monet%20-%20Le%20Parlement%20de%20Londres%2C%20effet%20de%20brouillard%2C%201903.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q296",
+        "retrieved": "2026-07-22",
+        "reviewStatus": "generated"
+      }
+    },
+    {
       "id": "Q50775646",
       "title": "Q50775646",
       "date": "1879",
@@ -6721,30 +6625,6 @@
       }
     },
     {
-      "id": "Q18918056",
-      "title": "Water Lilies",
-      "date": "1904",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "monet",
-      "artistName": "Claude Monet",
-      "locationId": "muma-museum-of-modern-art-andre-malraux-le-havre",
-      "location": "MuMa Museum of modern art André Malraux",
-      "city": "Le Havre",
-      "country": "France",
-      "lat": 49.485043,
-      "lon": 0.102616,
-      "source": "http://www.wikidata.org/entity/Q18918056",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Monet-Nymph%C3%A9as-Le-Havre.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q296",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
       "id": "Q26846568",
       "title": "Cliff in Pourville, Sunset",
       "date": "1896",
@@ -6785,54 +6665,6 @@
       "source": "http://www.wikidata.org/entity/Q26846569",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%20-%20Les%20Nymph%C3%A9as%20-%20Mus%C3%A9e%20de%20Vernon.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q296",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q17492002",
-      "title": "Argenteuil Station",
-      "date": "1872",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "monet",
-      "artistName": "Claude Monet",
-      "locationId": "musee-camille-pissarro-pontoise",
-      "location": "Musée Camille Pissarro",
-      "city": "Pontoise",
-      "country": "France",
-      "lat": 49.04823,
-      "lon": 2.09995,
-      "source": "http://www.wikidata.org/entity/Q17492002",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Monet%20-%20Wildenstein%201996%2C%20242.png",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q296",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q65035057",
-      "title": "Q65035057",
-      "date": "1876",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "monet",
-      "artistName": "Claude Monet",
-      "locationId": "musee-d-art-et-d-histoire-neuchatel",
-      "location": "Musée d'Art et d'Histoire",
-      "city": "Neuchâtel",
-      "country": "Switzerland",
-      "lat": 46.99151,
-      "lon": 6.9354,
-      "source": "http://www.wikidata.org/entity/Q65035057",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%20-%20Le%20bateau-atelier%20-%20MAH%20Neuch%C3%A2tel.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q296",
@@ -6937,6 +6769,30 @@
       }
     },
     {
+      "id": "Q17492002",
+      "title": "Argenteuil Station",
+      "date": "1872",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "monet",
+      "artistName": "Claude Monet",
+      "locationId": "musee-d-orsay-7th-arrondissement-of-paris",
+      "location": "Musée d'Orsay",
+      "city": "7th arrondissement of Paris",
+      "country": "France",
+      "lat": 48.859972,
+      "lon": 2.326527,
+      "source": "http://www.wikidata.org/entity/Q17492002",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Monet%20-%20Wildenstein%201996%2C%20242.png",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q296",
+        "retrieved": "2026-07-22",
+        "reviewStatus": "generated"
+      }
+    },
+    {
       "id": "Q3821170",
       "title": "Arm of the Seine near Giverny",
       "date": "1897",
@@ -7001,6 +6857,30 @@
       "source": "http://www.wikidata.org/entity/Q17493779",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Monet%20w1100.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q296",
+        "retrieved": "2026-07-22",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q17490875",
+      "title": "Blanche Hoschedé as a Child",
+      "date": "1880",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "monet",
+      "artistName": "Claude Monet",
+      "locationId": "musee-d-orsay-7th-arrondissement-of-paris",
+      "location": "Musée d'Orsay",
+      "city": "7th arrondissement of Paris",
+      "country": "France",
+      "lat": 48.859972,
+      "lon": 2.326527,
+      "source": "http://www.wikidata.org/entity/Q17490875",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Monet%20-%20Wildenstein%201996%2C%20619.png",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q296",
@@ -7417,6 +7297,30 @@
       }
     },
     {
+      "id": "Q19967292",
+      "title": "Jardin des Tuileries",
+      "date": "1875",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "monet",
+      "artistName": "Claude Monet",
+      "locationId": "musee-d-orsay-7th-arrondissement-of-paris",
+      "location": "Musée d'Orsay",
+      "city": "7th arrondissement of Paris",
+      "country": "France",
+      "lat": 48.859972,
+      "lon": 2.326527,
+      "source": "http://www.wikidata.org/entity/Q19967292",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Monet%20-%20Jardin%20des%20Tuileries%20-1875.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q296",
+        "retrieved": "2026-07-22",
+        "reviewStatus": "generated"
+      }
+    },
+    {
       "id": "Q17493087",
       "title": "Kolsaas Mount, Norway",
       "date": "1895",
@@ -7585,30 +7489,6 @@
       }
     },
     {
-      "id": "Q17492904",
-      "title": "Le Déjeuner sur l'herbe",
-      "date": "1866",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "monet",
-      "artistName": "Claude Monet",
-      "locationId": "musee-d-orsay-7th-arrondissement-of-paris",
-      "location": "Musée d'Orsay",
-      "city": "7th arrondissement of Paris",
-      "country": "France",
-      "lat": 48.859972,
-      "lon": 2.326527,
-      "source": "http://www.wikidata.org/entity/Q17492904",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%20-%20Le%20dejeurner%20sur%20l%27herbe%20%28left%20panel%29.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q296",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
       "id": "Q1167912",
       "title": "Le Déjeuner sur l'herbe",
       "date": "1865",
@@ -7623,6 +7503,30 @@
       "lat": 48.859972,
       "lon": 2.326527,
       "source": "http://www.wikidata.org/entity/Q1167912",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%20-%20Le%20dejeurner%20sur%20l%27herbe%20%28left%20panel%29.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q296",
+        "retrieved": "2026-07-22",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q17492904",
+      "title": "Le Déjeuner sur l'herbe",
+      "date": "1866",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "monet",
+      "artistName": "Claude Monet",
+      "locationId": "musee-d-orsay-7th-arrondissement-of-paris",
+      "location": "Musée d'Orsay",
+      "city": "7th arrondissement of Paris",
+      "country": "France",
+      "lat": 48.859972,
+      "lon": 2.326527,
+      "source": "http://www.wikidata.org/entity/Q17492904",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%20-%20Le%20dejeurner%20sur%20l%27herbe%20%28left%20panel%29.jpg",
       "provenance": {
@@ -8065,6 +7969,30 @@
       }
     },
     {
+      "id": "Q17494428",
+      "title": "Still Life with Pheasant",
+      "date": "1861",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "monet",
+      "artistName": "Claude Monet",
+      "locationId": "musee-d-orsay-7th-arrondissement-of-paris",
+      "location": "Musée d'Orsay",
+      "city": "7th arrondissement of Paris",
+      "country": "France",
+      "lat": 48.859972,
+      "lon": 2.326527,
+      "source": "http://www.wikidata.org/entity/Q17494428",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Monet-faisan-mus%C3%A9e%20de%20rouen.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q296",
+        "retrieved": "2026-07-22",
+        "reviewStatus": "generated"
+      }
+    },
+    {
       "id": "Q3983137",
       "title": "Tempête, côtes de Belle-Ile",
       "date": "1886",
@@ -8129,6 +8057,30 @@
       "source": "http://www.wikidata.org/entity/Q17493666",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%20-%20The%20Coalmen%20-%20Google%20Art%20Project.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q296",
+        "retrieved": "2026-07-22",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q18922918",
+      "title": "The Luncheon",
+      "date": "1873",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "monet",
+      "artistName": "Claude Monet",
+      "locationId": "musee-d-orsay-7th-arrondissement-of-paris",
+      "location": "Musée d'Orsay",
+      "city": "7th arrondissement of Paris",
+      "country": "France",
+      "lat": 48.859972,
+      "lon": 2.326527,
+      "source": "http://www.wikidata.org/entity/Q18922918",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Monet%20Luncheon.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q296",
@@ -8273,6 +8225,30 @@
       "source": "http://www.wikidata.org/entity/Q17492321",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Monet%20-%20Vetheuil%2C%20vu%20de%20Lavacourt%2C%201879.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q296",
+        "retrieved": "2026-07-22",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q17492292",
+      "title": "The Seine in Argenteuil",
+      "date": "1873",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "monet",
+      "artistName": "Claude Monet",
+      "locationId": "musee-d-orsay-7th-arrondissement-of-paris",
+      "location": "Musée d'Orsay",
+      "city": "7th arrondissement of Paris",
+      "country": "France",
+      "lat": 48.859972,
+      "lon": 2.326527,
+      "source": "http://www.wikidata.org/entity/Q17492292",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%20-%20The%20Seine%20at%20Argenteuil%201873.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q296",
@@ -8905,30 +8881,6 @@
       }
     },
     {
-      "id": "Q17490875",
-      "title": "Blanche Hoschedé as a Child",
-      "date": "1880",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "monet",
-      "artistName": "Claude Monet",
-      "locationId": "musee-des-beaux-arts-de-rouen-rouen",
-      "location": "Musée des Beaux-Arts de Rouen",
-      "city": "Rouen",
-      "country": "France",
-      "lat": 49.444722,
-      "lon": 1.094722,
-      "source": "http://www.wikidata.org/entity/Q17490875",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Monet%20-%20Wildenstein%201996%2C%20619.png",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q296",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
       "id": "Q105430124",
       "title": "Q105430124",
       "date": "1894",
@@ -8993,30 +8945,6 @@
       "source": "http://www.wikidata.org/entity/Q50414612",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%20043.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q296",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q17494428",
-      "title": "Still Life with Pheasant",
-      "date": "1861",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "monet",
-      "artistName": "Claude Monet",
-      "locationId": "musee-des-beaux-arts-de-rouen-rouen",
-      "location": "Musée des Beaux-Arts de Rouen",
-      "city": "Rouen",
-      "country": "France",
-      "lat": 49.444722,
-      "lon": 1.094722,
-      "source": "http://www.wikidata.org/entity/Q17494428",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Monet-faisan-mus%C3%A9e%20de%20rouen.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q296",
@@ -9137,30 +9065,6 @@
       "source": "http://www.wikidata.org/entity/Q60389924",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%20-%20Leicester%20Square.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q296",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q50415959",
-      "title": "Agapanthes",
-      "date": "1900",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "monet",
-      "artistName": "Claude Monet",
-      "locationId": "musee-marmottan-monet-16th-arrondissement-of-paris",
-      "location": "Musée Marmottan Monet",
-      "city": "16th arrondissement of Paris",
-      "country": "France",
-      "lat": 48.859279605,
-      "lon": 2.267383323,
-      "source": "http://www.wikidata.org/entity/Q50415959",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Monet%20Agapanthes%20Marmottan%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q296",
@@ -9385,30 +9289,6 @@
       }
     },
     {
-      "id": "Q50415962",
-      "title": "Nympheas",
-      "date": "1917",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "monet",
-      "artistName": "Claude Monet",
-      "locationId": "musee-marmottan-monet-16th-arrondissement-of-paris",
-      "location": "Musée Marmottan Monet",
-      "city": "16th arrondissement of Paris",
-      "country": "France",
-      "lat": 48.859279605,
-      "lon": 2.267383323,
-      "source": "http://www.wikidata.org/entity/Q50415962",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Monet%20Marmottan%20Nymph%C3%A9as%20%28cropped%29.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q296",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
       "id": "Q105099612",
       "title": "Nympheas",
       "date": "1918",
@@ -9425,6 +9305,30 @@
       "source": "http://www.wikidata.org/entity/Q105099612",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Water%20Lilies%20by%20Claude%20Monet%2C%20Mus%C3%A9e%20Marmottan%20Monet%205119.JPG",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q296",
+        "retrieved": "2026-07-22",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q50415962",
+      "title": "Nympheas",
+      "date": "1917",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "monet",
+      "artistName": "Claude Monet",
+      "locationId": "musee-marmottan-monet-16th-arrondissement-of-paris",
+      "location": "Musée Marmottan Monet",
+      "city": "16th arrondissement of Paris",
+      "country": "France",
+      "lat": 48.859279605,
+      "lon": 2.267383323,
+      "source": "http://www.wikidata.org/entity/Q50415962",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Monet%20Marmottan%20Nymph%C3%A9as%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q296",
@@ -10129,30 +10033,6 @@
       }
     },
     {
-      "id": "Q50415968",
-      "title": "Q50415968",
-      "date": "1870",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "monet",
-      "artistName": "Claude Monet",
-      "locationId": "musee-marmottan-monet-16th-arrondissement-of-paris",
-      "location": "Musée Marmottan Monet",
-      "city": "16th arrondissement of Paris",
-      "country": "France",
-      "lat": 48.859279605,
-      "lon": 2.267383323,
-      "source": "http://www.wikidata.org/entity/Q50415968",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Monet%20paris%20marmottan%20strand%20trouville.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q296",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
       "id": "Q50415980",
       "title": "Q50415980",
       "date": "1886",
@@ -10169,30 +10049,6 @@
       "source": "http://www.wikidata.org/entity/Q50415980",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Monet-Poly-Marmottan.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q296",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q50415986",
-      "title": "Q50415986",
-      "date": "1910",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "monet",
-      "artistName": "Claude Monet",
-      "locationId": "musee-marmottan-monet-16th-arrondissement-of-paris",
-      "location": "Musée Marmottan Monet",
-      "city": "16th arrondissement of Paris",
-      "country": "France",
-      "lat": 48.859279605,
-      "lon": 2.267383323,
-      "source": "http://www.wikidata.org/entity/Q50415986",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Nymph%C3%A9as%20reflets%20de%20saule%201916-19.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q296",
@@ -10745,30 +10601,6 @@
       "source": "http://www.wikidata.org/entity/Q50415964",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Monet%20Tulipes%20Marmottan%20%28cropped%29.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q296",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q50415983",
-      "title": "Valley of Sasso. Sunlight effect",
-      "date": "1884",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "monet",
-      "artistName": "Claude Monet",
-      "locationId": "musee-marmottan-monet-16th-arrondissement-of-paris",
-      "location": "Musée Marmottan Monet",
-      "city": "16th arrondissement of Paris",
-      "country": "France",
-      "lat": 48.859279605,
-      "lon": 2.267383323,
-      "source": "http://www.wikidata.org/entity/Q50415983",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Monet-Sasso-Marmottan.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q296",
@@ -11425,6 +11257,30 @@
       }
     },
     {
+      "id": "Q67609602",
+      "title": "Ice Floes at Twilight",
+      "date": "1893",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "monet",
+      "artistName": "Claude Monet",
+      "locationId": "museum-langmatt-sidney-and-jenny-brown-foundation-q63939",
+      "location": "Museum Langmatt Sidney and Jenny Brown Foundation",
+      "city": "Q63939",
+      "country": "Switzerland",
+      "lat": 47.4813834,
+      "lon": 8.30753512,
+      "source": "http://www.wikidata.org/entity/Q67609602",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20D%C3%A9b%C3%A2cle%20de%20la%20Seine%20-%20Claude%20Monet%20-%20Museum%20Langmatt-8639%20%28without%20frame%29.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q296",
+        "retrieved": "2026-07-22",
+        "reviewStatus": "generated"
+      }
+    },
+    {
       "id": "Q67646427",
       "title": "Corner of the basin of the Nymphéas",
       "date": "1918",
@@ -11497,6 +11353,30 @@
       }
     },
     {
+      "id": "Q20538846",
+      "title": "Antibes, Afternoon Effect",
+      "date": "1888",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "monet",
+      "artistName": "Claude Monet",
+      "locationId": "museum-of-fine-arts-boston-boston",
+      "location": "Museum of Fine Arts Boston",
+      "city": "Boston",
+      "country": "United States",
+      "lat": 42.339444444,
+      "lon": -71.094166666,
+      "source": "http://www.wikidata.org/entity/Q20538846",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%20-%20The%20Fort%20of%20Antibes.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q296",
+        "retrieved": "2026-07-22",
+        "reviewStatus": "generated"
+      }
+    },
+    {
       "id": "Q20538862",
       "title": "At Cap d'Antibes, Mistral wind",
       "date": "1888",
@@ -11521,6 +11401,30 @@
       }
     },
     {
+      "id": "Q20538950",
+      "title": "Boulevard Saint-Denis, Argenteuil, in Winter",
+      "date": "1875",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "monet",
+      "artistName": "Claude Monet",
+      "locationId": "museum-of-fine-arts-boston-boston",
+      "location": "Museum of Fine Arts Boston",
+      "city": "Boston",
+      "country": "United States",
+      "lat": 42.339444444,
+      "lon": -71.094166666,
+      "source": "http://www.wikidata.org/entity/Q20538950",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Monet%20-%20Boulevard%20Saint-Denis%2C%20Argenteuil%2C%20in%20Winter%2C%201875.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q296",
+        "retrieved": "2026-07-22",
+        "reviewStatus": "generated"
+      }
+    },
+    {
       "id": "Q20538875",
       "title": "Camille Monet and a Child in the Artist's Garden in Argenteuil",
       "date": "1875",
@@ -11537,6 +11441,30 @@
       "source": "http://www.wikidata.org/entity/Q20538875",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Monet%20-%20Camille%20Monet%20and%20a%20Child%20in%20the%20Artist%27s%20Garden%20in%20Argenteuil%2C%201875.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q296",
+        "retrieved": "2026-07-22",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q20538843",
+      "title": "Cap Martin, near Menton",
+      "date": "1884",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "monet",
+      "artistName": "Claude Monet",
+      "locationId": "museum-of-fine-arts-boston-boston",
+      "location": "Museum of Fine Arts Boston",
+      "city": "Boston",
+      "country": "United States",
+      "lat": 42.339444444,
+      "lon": -71.094166666,
+      "source": "http://www.wikidata.org/entity/Q20538843",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Monet%20-%20Cap%20Martin%2C%20near%20Menton%2C%201884.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q296",
@@ -11609,6 +11537,30 @@
       "source": "http://www.wikidata.org/entity/Q20538945",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Monet%20-%20Entrance%20to%20the%20Village%20of%20V%C3%A9theuil%20in%20Winter%2C%201879.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q296",
+        "retrieved": "2026-07-22",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q20538878",
+      "title": "Field of Poppies near Giverny",
+      "date": "1890",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "monet",
+      "artistName": "Claude Monet",
+      "locationId": "museum-of-fine-arts-boston-boston",
+      "location": "Museum of Fine Arts Boston",
+      "city": "Boston",
+      "country": "United States",
+      "lat": 42.339444444,
+      "lon": -71.094166666,
+      "source": "http://www.wikidata.org/entity/Q20538878",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%20Mohnfeld.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q296",
@@ -11833,6 +11785,30 @@
       }
     },
     {
+      "id": "Q20538935",
+      "title": "Morning on the Seine, near Giverny",
+      "date": "1897",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "monet",
+      "artistName": "Claude Monet",
+      "locationId": "museum-of-fine-arts-boston-boston",
+      "location": "Museum of Fine Arts Boston",
+      "city": "Boston",
+      "country": "United States",
+      "lat": 42.339444444,
+      "lon": -71.094166666,
+      "source": "http://www.wikidata.org/entity/Q20538935",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Monet%20-%20Morning%20on%20the%20Seine%2C%20near%20Giverny%2C%201897.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q296",
+        "retrieved": "2026-07-22",
+        "reviewStatus": "generated"
+      }
+    },
+    {
       "id": "Q20538915",
       "title": "Poppy Field in a Hollow near Giverny",
       "date": "1885",
@@ -11929,6 +11905,30 @@
       }
     },
     {
+      "id": "Q20538866",
+      "title": "Rue de la Bavole, Honfleur",
+      "date": "1864",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "monet",
+      "artistName": "Claude Monet",
+      "locationId": "museum-of-fine-arts-boston-boston",
+      "location": "Museum of Fine Arts Boston",
+      "city": "Boston",
+      "country": "United States",
+      "lat": 42.339444444,
+      "lon": -71.094166666,
+      "source": "http://www.wikidata.org/entity/Q20538866",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%20-%20Rue%20de%20la%20Bavole%2C%20Honfleur%20-%20Google%20Art%20Project.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q296",
+        "retrieved": "2026-07-22",
+        "reviewStatus": "generated"
+      }
+    },
+    {
       "id": "Q20538898",
       "title": "Seacoast at Trouville",
       "date": "1881",
@@ -11945,6 +11945,30 @@
       "source": "http://www.wikidata.org/entity/Q20538898",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Monet%20-%20Seacoast%20at%20Trouville%2C%201881.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q296",
+        "retrieved": "2026-07-22",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q20538892",
+      "title": "Ships in a Harbor",
+      "date": "1873",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "monet",
+      "artistName": "Claude Monet",
+      "locationId": "museum-of-fine-arts-boston-boston",
+      "location": "Museum of Fine Arts Boston",
+      "city": "Boston",
+      "country": "United States",
+      "lat": 42.339444444,
+      "lon": -71.094166666,
+      "source": "http://www.wikidata.org/entity/Q20538892",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Monet%20-%20Ships%20in%20a%20Harbor%2C%20about%201873.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q296",
@@ -11993,6 +12017,30 @@
       "source": "http://www.wikidata.org/entity/Q46731104",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/MB-Mon-25%20Monet%20Antibes-das-Fort%201.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q296",
+        "retrieved": "2026-07-22",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q19564337",
+      "title": "The Grand Canal",
+      "date": "1908",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "monet",
+      "artistName": "Claude Monet",
+      "locationId": "museum-of-fine-arts-boston-boston",
+      "location": "Museum of Fine Arts Boston",
+      "city": "Boston",
+      "country": "United States",
+      "lat": 42.339444444,
+      "lon": -71.094166666,
+      "source": "http://www.wikidata.org/entity/Q19564337",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%2C%20Le%20Grand%20Canal.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q296",
@@ -12241,30 +12289,6 @@
       }
     },
     {
-      "id": "Q22205318",
-      "title": "Three Fishing Boats",
-      "date": "1886",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "monet",
-      "artistName": "Claude Monet",
-      "locationId": "museum-of-fine-arts-budapest-zuglo",
-      "location": "Museum of Fine Arts, Budapest",
-      "city": "Zugló",
-      "country": "Hungary",
-      "lat": 47.51587,
-      "lon": 19.07678,
-      "source": "http://www.wikidata.org/entity/Q22205318",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%20-%20Three%20Fishing%20Boats%20-%20Google%20Art%20Project.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q296",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
       "id": "Q28042166",
       "title": "The Japanese Footbridge, Giverny",
       "date": "1922",
@@ -12385,30 +12409,6 @@
       }
     },
     {
-      "id": "Q17492292",
-      "title": "The Seine in Argenteuil",
-      "date": "1873",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "monet",
-      "artistName": "Claude Monet",
-      "locationId": "museum-of-grenoble-grenoble",
-      "location": "Museum of Grenoble",
-      "city": "Grenoble",
-      "country": "France",
-      "lat": 45.1945,
-      "lon": 5.7324,
-      "source": "http://www.wikidata.org/entity/Q17492292",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%20-%20The%20Seine%20at%20Argenteuil%201873.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q296",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
       "id": "Q19883731",
       "title": "Agapanthus",
       "date": "1914",
@@ -12481,30 +12481,6 @@
       }
     },
     {
-      "id": "Q19883730",
-      "title": "Water Lilies",
-      "date": "Date unknown",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "monet",
-      "artistName": "Claude Monet",
-      "locationId": "museum-of-modern-art-manhattan",
-      "location": "Museum of Modern Art",
-      "city": "Manhattan",
-      "country": "United States",
-      "lat": 40.761444444,
-      "lon": -73.977611111,
-      "source": "http://www.wikidata.org/entity/Q19883730",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Monet%20-%20Water%20Lilies%2C%201914-26%2C%20712.1959.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q296",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
       "id": "Q3877090",
       "title": "Water Lilies",
       "date": "1918",
@@ -12529,6 +12505,30 @@
       }
     },
     {
+      "id": "Q19883730",
+      "title": "Water Lilies",
+      "date": "Date unknown",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "monet",
+      "artistName": "Claude Monet",
+      "locationId": "museum-of-modern-art-manhattan",
+      "location": "Museum of Modern Art",
+      "city": "Manhattan",
+      "country": "United States",
+      "lat": 40.761444444,
+      "lon": -73.977611111,
+      "source": "http://www.wikidata.org/entity/Q19883730",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Monet%20-%20Water%20Lilies%2C%201914-26%2C%20712.1959.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q296",
+        "retrieved": "2026-07-22",
+        "reviewStatus": "generated"
+      }
+    },
+    {
       "id": "Q48092399",
       "title": "Grainstacks at Giverny the Evening Sun",
       "date": "1888",
@@ -12545,6 +12545,30 @@
       "source": "http://www.wikidata.org/entity/Q48092399",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Monet%20grainstacks-at-giverny-sunset%20W1213.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q296",
+        "retrieved": "2026-07-22",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q22205296",
+      "title": "Cliff and Porte d'Aval by Stormy Weather",
+      "date": "1883",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "monet",
+      "artistName": "Claude Monet",
+      "locationId": "museum-of-montserrat-monistrol-de-montserrat",
+      "location": "Museum of Montserrat",
+      "city": "Monistrol de Montserrat",
+      "country": "Spain",
+      "lat": 41.5928684,
+      "lon": 1.836162315,
+      "source": "http://www.wikidata.org/entity/Q22205296",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20Porte%20d%27Aval%20by%20Claude%20Monet.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q296",
@@ -13289,6 +13313,30 @@
       "source": "http://www.wikidata.org/entity/Q59526641",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%20-%20Jean-Pierre%20Hosched%C3%A9%20and%20Michel%20Monet%20on%20the%20Bank%20of%20the%20Epte.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q296",
+        "retrieved": "2026-07-22",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q22205287",
+      "title": "The Aiguille through the Porte d'Aval",
+      "date": "1886",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "monet",
+      "artistName": "Claude Monet",
+      "locationId": "national-gallery-of-canada-ottawa",
+      "location": "National Gallery of Canada",
+      "city": "Ottawa",
+      "country": "Canada",
+      "lat": 45.429434,
+      "lon": -75.698386,
+      "source": "http://www.wikidata.org/entity/Q22205287",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Monet%2C%20Claude%20-%20L%27Aiguille%20vue%20%C3%A0%20travers%20la%20Porte%20d%27Aval%20%281885-1886%29%20W%201049.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q296",
@@ -14233,54 +14281,6 @@
       }
     },
     {
-      "id": "Q50697752",
-      "title": "Under the lemon trees",
-      "date": "1884",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "monet",
-      "artistName": "Claude Monet",
-      "locationId": "ny-carlsberg-glyptotek-copenhagen-municipality",
-      "location": "Ny Carlsberg Glyptotek",
-      "city": "Copenhagen Municipality",
-      "country": "Denmark",
-      "lat": 55.6725,
-      "lon": 12.571944444,
-      "source": "http://www.wikidata.org/entity/Q50697752",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Monet%20-%20Unter%20Zitronenb%C3%A4umen.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q296",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q50697763",
-      "title": "Windmill and Boats near Zaandam",
-      "date": "1871",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "monet",
-      "artistName": "Claude Monet",
-      "locationId": "ny-carlsberg-glyptotek-copenhagen-municipality",
-      "location": "Ny Carlsberg Glyptotek",
-      "city": "Copenhagen Municipality",
-      "country": "Denmark",
-      "lat": 55.6725,
-      "lon": 12.571944444,
-      "source": "http://www.wikidata.org/entity/Q50697763",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Windmill%20and%20Boats%20near%20Zaandam%2C%20Holland%2C%20by%20Claude%20Monet%2C%201871%20-%20Ny%20Carlsberg%20Glyptotek%20-%20Copenhagen%20-%20DSC09437.JPG",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q296",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
       "id": "Q28777012",
       "title": "Haystacks",
       "date": "1885",
@@ -14552,9 +14552,9 @@
       "attribution": "Accepted",
       "artistId": "monet",
       "artistName": "Claude Monet",
-      "locationId": "philadelphia-museum-of-art-philadelphia",
+      "locationId": "philadelphia-museum-of-art-philadelphia-county",
       "location": "Philadelphia Museum of Art",
-      "city": "Philadelphia",
+      "city": "Philadelphia County",
       "country": "United States",
       "lat": 39.965833333,
       "lon": -75.181388888,
@@ -14600,9 +14600,9 @@
       "attribution": "Accepted",
       "artistId": "monet",
       "artistName": "Claude Monet",
-      "locationId": "philadelphia-museum-of-art-philadelphia",
+      "locationId": "philadelphia-museum-of-art-philadelphia-county",
       "location": "Philadelphia Museum of Art",
-      "city": "Philadelphia",
+      "city": "Philadelphia County",
       "country": "United States",
       "lat": 39.965833333,
       "lon": -75.181388888,
@@ -14672,9 +14672,9 @@
       "attribution": "Accepted",
       "artistId": "monet",
       "artistName": "Claude Monet",
-      "locationId": "philadelphia-museum-of-art-philadelphia",
+      "locationId": "philadelphia-museum-of-art-philadelphia-county",
       "location": "Philadelphia Museum of Art",
-      "city": "Philadelphia",
+      "city": "Philadelphia County",
       "country": "United States",
       "lat": 39.965833333,
       "lon": -75.181388888,
@@ -14792,9 +14792,9 @@
       "attribution": "Accepted",
       "artistId": "monet",
       "artistName": "Claude Monet",
-      "locationId": "philadelphia-museum-of-art-philadelphia",
+      "locationId": "philadelphia-museum-of-art-philadelphia-county",
       "location": "Philadelphia Museum of Art",
-      "city": "Philadelphia",
+      "city": "Philadelphia County",
       "country": "United States",
       "lat": 39.965833333,
       "lon": -75.181388888,
@@ -14888,9 +14888,9 @@
       "attribution": "Accepted",
       "artistId": "monet",
       "artistName": "Claude Monet",
-      "locationId": "philadelphia-museum-of-art-philadelphia",
+      "locationId": "philadelphia-museum-of-art-philadelphia-county",
       "location": "Philadelphia Museum of Art",
-      "city": "Philadelphia",
+      "city": "Philadelphia County",
       "country": "United States",
       "lat": 39.965833333,
       "lon": -75.181388888,
@@ -14912,9 +14912,9 @@
       "attribution": "Accepted",
       "artistId": "monet",
       "artistName": "Claude Monet",
-      "locationId": "philadelphia-museum-of-art-philadelphia",
+      "locationId": "philadelphia-museum-of-art-philadelphia-county",
       "location": "Philadelphia Museum of Art",
-      "city": "Philadelphia",
+      "city": "Philadelphia County",
       "country": "United States",
       "lat": 39.965833333,
       "lon": -75.181388888,
@@ -14936,9 +14936,9 @@
       "attribution": "Accepted",
       "artistId": "monet",
       "artistName": "Claude Monet",
-      "locationId": "philadelphia-museum-of-art-philadelphia",
+      "locationId": "philadelphia-museum-of-art-philadelphia-county",
       "location": "Philadelphia Museum of Art",
-      "city": "Philadelphia",
+      "city": "Philadelphia County",
       "country": "United States",
       "lat": 39.965833333,
       "lon": -75.181388888,
@@ -14960,9 +14960,9 @@
       "attribution": "Accepted",
       "artistId": "monet",
       "artistName": "Claude Monet",
-      "locationId": "philadelphia-museum-of-art-philadelphia",
+      "locationId": "philadelphia-museum-of-art-philadelphia-county",
       "location": "Philadelphia Museum of Art",
-      "city": "Philadelphia",
+      "city": "Philadelphia County",
       "country": "United States",
       "lat": 39.965833333,
       "lon": -75.181388888,
@@ -15881,30 +15881,6 @@
       "source": "http://www.wikidata.org/entity/Q3952520",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%27The%20Beach%20at%20%C3%89tretat%27%20by%20Claude%20Monet%2C%201885-86%2C%20Pushkin%20Museum.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q296",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q50433790",
-      "title": "Vétheuil",
-      "date": "1901",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "monet",
-      "artistName": "Claude Monet",
-      "locationId": "pushkin-museum-of-fine-arts-khamovniki-district",
-      "location": "Pushkin Museum of Fine Arts",
-      "city": "Khamovniki District",
-      "country": "Russia",
-      "lat": 55.74702868,
-      "lon": 37.60602901,
-      "source": "http://www.wikidata.org/entity/Q50433790",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%27V%C3%A9theuil%27%20by%20Claude%20Monet%2C%201901%2C%20Pushkin%20Museum.JPG",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q296",
@@ -17185,30 +17161,6 @@
       }
     },
     {
-      "id": "Q47616281",
-      "title": "The Promenade with the Railroad Bridge, Argenteuil",
-      "date": "1874",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "monet",
-      "artistName": "Claude Monet",
-      "locationId": "saint-louis-art-museum-st-louis",
-      "location": "Saint Louis Art Museum",
-      "city": "St. Louis",
-      "country": "United States",
-      "lat": 38.639306,
-      "lon": -90.294491,
-      "source": "http://www.wikidata.org/entity/Q47616281",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%20-%20The%20Promenade%20with%20the%20Railroad%20Bridge%2C%20Argenteuil%20-%2045-1973%20-%20Saint%20Louis%20Art%20Museum.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q296",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
       "id": "Q78749603",
       "title": "Water Lilies",
       "date": "1920",
@@ -17401,6 +17353,30 @@
       }
     },
     {
+      "id": "Q22205286",
+      "title": "Fishing Boats in Étretat",
+      "date": "1885",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "monet",
+      "artistName": "Claude Monet",
+      "locationId": "seattle-art-museum-seattle",
+      "location": "Seattle Art Museum",
+      "city": "Seattle",
+      "country": "United States",
+      "lat": 47.607309,
+      "lon": -122.338133,
+      "source": "http://www.wikidata.org/entity/Q22205286",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Barcas%20%C3%89tretat%20Seattle.%2001.JPG",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q296",
+        "retrieved": "2026-07-22",
+        "reviewStatus": "generated"
+      }
+    },
+    {
       "id": "Q50775657",
       "title": "Monceau Park",
       "date": "1876",
@@ -17432,9 +17408,9 @@
       "attribution": "Accepted",
       "artistId": "monet",
       "artistName": "Claude Monet",
-      "locationId": "shelburne-museum-shelburne-village-historic-district",
+      "locationId": "shelburne-museum-shelburne",
       "location": "Shelburne Museum",
-      "city": "Shelburne Village Historic District",
+      "city": "Shelburne",
       "country": "United States",
       "lat": 44.3727,
       "lon": -73.2322,
@@ -18001,6 +17977,30 @@
       }
     },
     {
+      "id": "Q21712146",
+      "title": "Low Tide at Varengeville",
+      "date": "1882",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "monet",
+      "artistName": "Claude Monet",
+      "locationId": "thyssen-bornemisza-museum-madrid",
+      "location": "Thyssen-Bornemisza Museum",
+      "city": "Madrid",
+      "country": "Spain",
+      "lat": 40.416041,
+      "lon": -3.694925,
+      "source": "http://www.wikidata.org/entity/Q21712146",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Monet%2C%20Claude%20-%20Low%20Tide%20at%20Varengeville%20%281882%29.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q296",
+        "retrieved": "2026-07-22",
+        "reviewStatus": "generated"
+      }
+    },
+    {
       "id": "Q3821389",
       "title": "The Blue Boat",
       "date": "1887",
@@ -18361,6 +18361,30 @@
       }
     },
     {
+      "id": "Q67183663",
+      "title": "Q67183663",
+      "date": "1870",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "monet",
+      "artistName": "Claude Monet",
+      "locationId": "wadsworth-atheneum-museum-of-art-hartford",
+      "location": "Wadsworth Atheneum Museum of Art",
+      "city": "Hartford",
+      "country": "United States",
+      "lat": 41.763711,
+      "lon": -72.673086,
+      "source": "http://www.wikidata.org/entity/Q67183663",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Beach%20at%20Trouville%201948.116.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q296",
+        "retrieved": "2026-07-22",
+        "reviewStatus": "generated"
+      }
+    },
+    {
       "id": "Q28776290",
       "title": "Ice breaking up on the Seine near Bennecourt",
       "date": "1893",
@@ -18401,6 +18425,30 @@
       "source": "http://www.wikidata.org/entity/Q22205288",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Monet%20w822.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q296",
+        "retrieved": "2026-07-22",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q67183659",
+      "title": "The Seine at Asnières",
+      "date": "1873",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "monet",
+      "artistName": "Claude Monet",
+      "locationId": "wallraf-richartz-museum-altstadt-nord",
+      "location": "Wallraf–Richartz Museum",
+      "city": "Altstadt-Nord",
+      "country": "Germany",
+      "lat": 50.9375,
+      "lon": 6.958611,
+      "source": "http://www.wikidata.org/entity/Q67183659",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20Seine%20%C3%A0%20Asni%C3%A8res%20-%20Claude%20Monet%20-%20Wallraf-Richartz-Museum%20%26%20Fondation%20Corboud-8633%20%28without%20frame%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q296",

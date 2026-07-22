@@ -224,9 +224,9 @@
       "attribution": "Accepted",
       "artistId": "turner",
       "artistName": "J. M. W. Turner",
-      "locationId": "barber-institute-of-fine-arts-birmingham",
+      "locationId": "barber-institute-of-fine-arts-edgbaston",
       "location": "Barber Institute of Fine Arts",
-      "city": "Birmingham",
+      "city": "Edgbaston",
       "country": "United Kingdom",
       "lat": 52.450331,
       "lon": -1.927827,
@@ -248,15 +248,15 @@
       "attribution": "Accepted",
       "artistId": "turner",
       "artistName": "J. M. W. Turner",
-      "locationId": "barber-institute-of-fine-arts-edgbaston",
+      "locationId": "barber-institute-of-fine-arts-birmingham",
       "location": "Barber Institute of Fine Arts",
-      "city": "Edgbaston",
+      "city": "Birmingham",
       "country": "United Kingdom",
       "lat": 52.450331,
       "lon": -1.927827,
       "source": "http://www.wikidata.org/entity/Q119026559",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Sun%20Setting%20Through%20Vapour%2C%20Joseph%20M.%20William%20Turner%2C%20c.%201809%2C%20Barber%20Institute%20of%20Fine%20Arts%2001.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%20%281775-1851%29%20-%20The%20Sun%20Setting%20through%20Vapour%20-%2038.1%20-%20Barber%20Institute%20of%20Fine%20Arts.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q159758",
@@ -1121,6 +1121,30 @@
       "source": "http://www.wikidata.org/entity/Q115495066",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%20-%20the%20welsh%20Laugharne%20Castle%20during%20a%20storm%201831.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q159758",
+        "retrieved": "2026-07-22",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q46626337",
+      "title": "Boats Carrying Out Anchors to the Dutch Men of War",
+      "date": "1804",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "turner",
+      "artistName": "J. M. W. Turner",
+      "locationId": "corcoran-gallery-of-art-washington-d-c",
+      "location": "Corcoran Gallery of Art",
+      "city": "Washington, D.C.",
+      "country": "United States",
+      "lat": 38.895851,
+      "lon": -77.039879,
+      "source": "http://www.wikidata.org/entity/Q46626337",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%20-%20Boats%20Carrying%20Out%20Anchors%20to%20the%20Dutch%20Men%20of%20War%20-%202014.136.52%20-%20Corcoran%20Gallery%20of%20Art.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q159758",
@@ -4873,30 +4897,6 @@
       }
     },
     {
-      "id": "Q28539779",
-      "title": "Norham Castle, Sunrise",
-      "date": "1845",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "turner",
-      "artistName": "J. M. W. Turner",
-      "locationId": "national-gallery-city-of-westminster",
-      "location": "National Gallery",
-      "city": "City of Westminster",
-      "country": "United Kingdom",
-      "lat": 51.508888888,
-      "lon": -0.128333333,
-      "source": "http://www.wikidata.org/entity/Q28539779",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%20-%20Norham%20Castle%2C%20Sunrise%20-%20WGA23182.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q159758",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
       "id": "Q28532601",
       "title": "On the Thames (?)",
       "date": "1807",
@@ -5545,30 +5545,6 @@
       }
     },
     {
-      "id": "Q28542204",
-      "title": "Seascape",
-      "date": "1837",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "turner",
-      "artistName": "J. M. W. Turner",
-      "locationId": "national-gallery-city-of-westminster",
-      "location": "National Gallery",
-      "city": "City of Westminster",
-      "country": "United Kingdom",
-      "lat": 51.508888888,
-      "lon": -0.128333333,
-      "source": "http://www.wikidata.org/entity/Q28542204",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%20%281775-1851%29%20-%20Seascape%20-%20N05515%20-%20National%20Gallery.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q159758",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
       "id": "Q28533469",
       "title": "Seascape",
       "date": "1828",
@@ -5585,6 +5561,30 @@
       "source": "http://www.wikidata.org/entity/Q28533469",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%20%281775-1851%29%20-%20Seascape%20-%20N05481%20-%20National%20Gallery.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q159758",
+        "retrieved": "2026-07-22",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q28542204",
+      "title": "Seascape",
+      "date": "1837",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "turner",
+      "artistName": "J. M. W. Turner",
+      "locationId": "national-gallery-city-of-westminster",
+      "location": "National Gallery",
+      "city": "City of Westminster",
+      "country": "United Kingdom",
+      "lat": 51.508888888,
+      "lon": -0.128333333,
+      "source": "http://www.wikidata.org/entity/Q28542204",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%20%281775-1851%29%20-%20Seascape%20-%20N05515%20-%20National%20Gallery.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q159758",
@@ -9817,7 +9817,7 @@
       }
     },
     {
-      "id": "Q64959773",
+      "id": "Q65022459",
       "title": "Aesacus and Hesperie",
       "date": "Date unknown",
       "type": "Painting",
@@ -9830,9 +9830,9 @@
       "country": "United States",
       "lat": 38.891388888,
       "lon": -77.02,
-      "source": "http://www.wikidata.org/entity/Q64959773",
+      "source": "http://www.wikidata.org/entity/Q65022459",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%2C%20Aesacus%20and%20Hesperie%2C%20published%201816%2C%20NGA%20885.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%2C%20Aesacus%20and%20Hesperie%2C%20published%201819%2C%20NGA%2010690.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q159758",
@@ -9953,30 +9953,6 @@
       "source": "http://www.wikidata.org/entity/Q65022451",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%2C%20Berry%20Pomeroy%20Castle%2C%20published%201816%2C%20NGA%2010682.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q159758",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q46626337",
-      "title": "Boats Carrying Out Anchors to the Dutch Men of War",
-      "date": "1804",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "turner",
-      "artistName": "J. M. W. Turner",
-      "locationId": "q214867-washington-d-c",
-      "location": "Q214867",
-      "city": "Washington, D.C.",
-      "country": "United States",
-      "lat": 38.891388888,
-      "lon": -77.02,
-      "source": "http://www.wikidata.org/entity/Q46626337",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%20-%20Boats%20Carrying%20Out%20Anchors%20to%20the%20Dutch%20Men%20of%20War%20-%202014.136.52%20-%20Corcoran%20Gallery%20of%20Art.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q159758",
@@ -10273,7 +10249,7 @@
       }
     },
     {
-      "id": "Q64959766",
+      "id": "Q65022440",
       "title": "Hedging and Ditching",
       "date": "Date unknown",
       "type": "Painting",
@@ -10286,9 +10262,9 @@
       "country": "United States",
       "lat": 38.891388888,
       "lon": -77.02,
-      "source": "http://www.wikidata.org/entity/Q64959766",
+      "source": "http://www.wikidata.org/entity/Q65022440",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%20and%20J.C.%20Easling%2C%20Hedging%20and%20Ditching%2C%20published%201812%2C%20NGA%20879.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%20and%20J.C.%20Easling%2C%20Hedging%20and%20Ditching%2C%20published%201812%2C%20NGA%2010671.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q159758",
@@ -10417,7 +10393,7 @@
       }
     },
     {
-      "id": "Q65079984",
+      "id": "Q65022461",
       "title": "Isis",
       "date": "Date unknown",
       "type": "Painting",
@@ -10430,9 +10406,9 @@
       "country": "United States",
       "lat": 38.891388888,
       "lon": -77.02,
-      "source": "http://www.wikidata.org/entity/Q65079984",
+      "source": "http://www.wikidata.org/entity/Q65022461",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%2C%20Isis%2C%20published%201819%2C%20NGA%2033685.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%20and%20William%20Say%2C%20Isis%2C%20published%201819%2C%20NGA%2010692.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q159758",
@@ -10441,7 +10417,7 @@
       }
     },
     {
-      "id": "Q64959769",
+      "id": "Q65022456",
       "title": "Isleworth",
       "date": "Date unknown",
       "type": "Painting",
@@ -10454,9 +10430,9 @@
       "country": "United States",
       "lat": 38.891388888,
       "lon": -77.02,
-      "source": "http://www.wikidata.org/entity/Q64959769",
+      "source": "http://www.wikidata.org/entity/Q65022456",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%2C%20Isleworth%2C%20published%201819%2C%20NGA%20882.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%20and%20Henry%20Edward%20Dawe%2C%20Isleworth%2C%20published%201819%2C%20NGA%2010687.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q159758",
@@ -10465,7 +10441,7 @@
       }
     },
     {
-      "id": "Q64959729",
+      "id": "Q65022396",
       "title": "Jason",
       "date": "Date unknown",
       "type": "Painting",
@@ -10478,9 +10454,9 @@
       "country": "United States",
       "lat": 38.891388888,
       "lon": -77.02,
-      "source": "http://www.wikidata.org/entity/Q64959729",
+      "source": "http://www.wikidata.org/entity/Q65022396",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%20and%20Charles%20Turner%2C%20Jason%2C%20published%201807%2C%20NGA%20871.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%20and%20Charles%20Turner%2C%20Jason%2C%20published%201807%2C%20NGA%2010630.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q159758",
@@ -10513,7 +10489,7 @@
       }
     },
     {
-      "id": "Q64959746",
+      "id": "Q65022421",
       "title": "Junction of Severn and Wye",
       "date": "Date unknown",
       "type": "Painting",
@@ -10526,9 +10502,9 @@
       "country": "United States",
       "lat": 38.891388888,
       "lon": -77.02,
-      "source": "http://www.wikidata.org/entity/Q64959746",
+      "source": "http://www.wikidata.org/entity/Q65022421",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%2C%20Junction%20of%20Severn%20and%20Wye%2C%20published%201811%2C%20NGA%20875.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%2C%20Junction%20of%20Severn%20and%20Wye%2C%20published%201811%2C%20NGA%2010652.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q159758",
@@ -10657,7 +10633,7 @@
       }
     },
     {
-      "id": "Q65079996",
+      "id": "Q65022419",
       "title": "London from Greenwich",
       "date": "Date unknown",
       "type": "Painting",
@@ -10670,9 +10646,9 @@
       "country": "United States",
       "lat": 38.891388888,
       "lon": -77.02,
-      "source": "http://www.wikidata.org/entity/Q65079996",
+      "source": "http://www.wikidata.org/entity/Q65022419",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%2C%20London%20from%20Greenwich%2C%20published%201811%2C%20NGA%2033687.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%20and%20Charles%20Turner%2C%20London%20from%20Greenwich%2C%20published%201811%2C%20NGA%2010650.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q159758",
@@ -10753,7 +10729,7 @@
       }
     },
     {
-      "id": "Q64959767",
+      "id": "Q65022447",
       "title": "Mill near the Grand Chartreuse",
       "date": "Date unknown",
       "type": "Painting",
@@ -10766,9 +10742,9 @@
       "country": "United States",
       "lat": 38.891388888,
       "lon": -77.02,
-      "source": "http://www.wikidata.org/entity/Q64959767",
+      "source": "http://www.wikidata.org/entity/Q65022447",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%2C%20Mill%20near%20the%20Grand%20Chartreuse%2C%20published%201816%2C%20NGA%20880.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%20and%20Warren%20B.%20Davis%2C%20Mill%20near%20the%20Grand%20Chartreuse%2C%20published%201816%2C%20NGA%2010678.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q159758",
@@ -11137,30 +11113,6 @@
       }
     },
     {
-      "id": "Q64959747",
-      "title": "Scene in the Campagna",
-      "date": "Date unknown",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "turner",
-      "artistName": "J. M. W. Turner",
-      "locationId": "q214867-washington-d-c",
-      "location": "Q214867",
-      "city": "Washington, D.C.",
-      "country": "United States",
-      "lat": 38.891388888,
-      "lon": -77.02,
-      "source": "http://www.wikidata.org/entity/Q64959747",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%2C%20Scene%20in%20the%20Campagna%2C%20published%201812%2C%20NGA%20876.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q159758",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
       "id": "Q65022431",
       "title": "Scene in the Campagna",
       "date": "1812",
@@ -11177,6 +11129,30 @@
       "source": "http://www.wikidata.org/entity/Q65022431",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%20and%20William%20Say%2C%20Scene%20in%20the%20Campagna%2C%201812%2C%20NGA%2010662.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q159758",
+        "retrieved": "2026-07-22",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q64959747",
+      "title": "Scene in the Campagna",
+      "date": "Date unknown",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "turner",
+      "artistName": "J. M. W. Turner",
+      "locationId": "q214867-washington-d-c",
+      "location": "Q214867",
+      "city": "Washington, D.C.",
+      "country": "United States",
+      "lat": 38.891388888,
+      "lon": -77.02,
+      "source": "http://www.wikidata.org/entity/Q64959747",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%2C%20Scene%20in%20the%20Campagna%2C%20published%201812%2C%20NGA%20876.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q159758",
@@ -11353,7 +11329,7 @@
       }
     },
     {
-      "id": "Q64959732",
+      "id": "Q65022403",
       "title": "The Bridge in Middle Distance",
       "date": "Date unknown",
       "type": "Painting",
@@ -11366,9 +11342,9 @@
       "country": "United States",
       "lat": 38.891388888,
       "lon": -77.02,
-      "source": "http://www.wikidata.org/entity/Q64959732",
+      "source": "http://www.wikidata.org/entity/Q65022403",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%2C%20The%20Bridge%20in%20Middle%20Distance%2C%20published%201808%2C%20NGA%20872.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%20and%20Charles%20Turner%2C%20The%20Bridge%20in%20Middle%20Distance%2C%20published%201808%2C%20NGA%2010637.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q159758",
@@ -11377,7 +11353,7 @@
       }
     },
     {
-      "id": "Q65080000",
+      "id": "Q65022398",
       "title": "The Castle Above the Meadows",
       "date": "Date unknown",
       "type": "Painting",
@@ -11390,9 +11366,9 @@
       "country": "United States",
       "lat": 38.891388888,
       "lon": -77.02,
-      "source": "http://www.wikidata.org/entity/Q65080000",
+      "source": "http://www.wikidata.org/entity/Q65022398",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%2C%20The%20Castle%20Above%20the%20Meadows%2C%20published%201808%2C%20NGA%2033689.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%20and%20Charles%20Turner%2C%20The%20Castle%20Above%20the%20Meadows%2C%20published%201808%2C%20NGA%2010632.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q159758",
@@ -11689,7 +11665,7 @@
       }
     },
     {
-      "id": "Q65022466",
+      "id": "Q65022393",
       "title": "The Woman and Tambourine",
       "date": "Date unknown",
       "type": "Painting",
@@ -11702,9 +11678,9 @@
       "country": "United States",
       "lat": 38.891388888,
       "lon": -77.02,
-      "source": "http://www.wikidata.org/entity/Q65022466",
+      "source": "http://www.wikidata.org/entity/Q65022393",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%2C%20The%20Woman%20and%20Tambourine%2C%20published%201807%2C%20NGA%2010697.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%20and%20Charles%20Turner%2C%20The%20Woman%20and%20Tambourine%2C%20published%201807%2C%20NGA%2010627.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q159758",
@@ -11833,7 +11809,7 @@
       }
     },
     {
-      "id": "Q65022467",
+      "id": "Q65022435",
       "title": "Winchelsea, Sussex",
       "date": "Date unknown",
       "type": "Painting",
@@ -11846,9 +11822,9 @@
       "country": "United States",
       "lat": 38.891388888,
       "lon": -77.02,
-      "source": "http://www.wikidata.org/entity/Q65022467",
+      "source": "http://www.wikidata.org/entity/Q65022435",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%2C%20Winchelsea%2C%20Sussex%2C%20published%201812%2C%20NGA%2010698.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%20and%20J.C.%20Easling%2C%20Winchelsea%2C%20Sussex%2C%20published%201812%2C%20NGA%2010666.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q159758",
@@ -12713,6 +12689,30 @@
       "source": "http://www.wikidata.org/entity/Q115687076",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/J.%20W.%20M.%20Turner%20Luxembourg%20from%20the%20Alzette%20Valey.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q159758",
+        "retrieved": "2026-07-22",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q28539779",
+      "title": "Norham Castle, Sunrise",
+      "date": "1845",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "turner",
+      "artistName": "J. M. W. Turner",
+      "locationId": "tate-britain-city-of-westminster",
+      "location": "Tate Britain",
+      "city": "City of Westminster",
+      "country": "United Kingdom",
+      "lat": 51.491062,
+      "lon": -0.127789,
+      "source": "http://www.wikidata.org/entity/Q28539779",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%20-%20Norham%20Castle%2C%20Sunrise%20-%20WGA23182.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q159758",
@@ -14137,7 +14137,7 @@
       }
     },
     {
-      "id": "Q110129266",
+      "id": "Q110098572",
       "title": "Basle",
       "date": "1807",
       "type": "Painting",
@@ -14150,9 +14150,9 @@
       "country": "United States",
       "lat": 41.307908,
       "lon": -72.930906,
-      "source": "http://www.wikidata.org/entity/Q110129266",
+      "source": "http://www.wikidata.org/entity/Q110098572",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/J%20M%20W%20Turner%20-%20Basle%20-%20B1977.14.8100%20-%20Yale%20Center%20for%20British%20Art.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/J%20M%20W%20Turner%20-%20Basle%20-%20B1977.14.14030%20-%20Yale%20Center%20for%20British%20Art.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q159758",
@@ -14713,7 +14713,7 @@
       }
     },
     {
-      "id": "Q110098423",
+      "id": "Q110131564",
       "title": "Dumbarton Rock",
       "date": "1818",
       "type": "Painting",
@@ -14726,9 +14726,9 @@
       "country": "United States",
       "lat": 41.307908,
       "lon": -72.930906,
-      "source": "http://www.wikidata.org/entity/Q110098423",
+      "source": "http://www.wikidata.org/entity/Q110131564",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/J%20M%20W%20Turner%20-%20Dumbarton%20Rock%20-%20B1977.14.13971%20-%20Yale%20Center%20for%20British%20Art.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/J%20M%20W%20Turner%20-%20Dumbarton%20Rock%20-%20B1977.14.8200%20-%20Yale%20Center%20for%20British%20Art.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q159758",
@@ -14929,7 +14929,7 @@
       }
     },
     {
-      "id": "Q110098416",
+      "id": "Q110131665",
       "title": "Flounder Fishing, Battersea",
       "date": "1818",
       "type": "Painting",
@@ -14942,9 +14942,9 @@
       "country": "United States",
       "lat": 41.307908,
       "lon": -72.930906,
-      "source": "http://www.wikidata.org/entity/Q110098416",
+      "source": "http://www.wikidata.org/entity/Q110131665",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/J%20M%20W%20Turner%20-%20Flounder%20Fishing%2C%20Battersea%20-%20B1977.14.13966%20-%20Yale%20Center%20for%20British%20Art.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/J%20M%20W%20Turner%20-%20Flounder%20Fishing%2C%20Battersea%20-%20B1977.14.8211%20-%20Yale%20Center%20for%20British%20Art.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q159758",
@@ -15241,7 +15241,7 @@
       }
     },
     {
-      "id": "Q110129850",
+      "id": "Q110098557",
       "title": "Holy Island Cathedral",
       "date": "1808",
       "type": "Painting",
@@ -15254,9 +15254,9 @@
       "country": "United States",
       "lat": 41.307908,
       "lon": -72.930906,
-      "source": "http://www.wikidata.org/entity/Q110129850",
+      "source": "http://www.wikidata.org/entity/Q110098557",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/J%20M%20W%20Turner%20-%20Holy%20Island%20Cathedral%20-%20B1977.14.8111%20-%20Yale%20Center%20for%20British%20Art.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/J%20M%20W%20Turner%20-%20Holy%20Island%20Cathedral%20-%20B1977.14.14024%20-%20Yale%20Center%20for%20British%20Art.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q159758",
@@ -15721,7 +15721,7 @@
       }
     },
     {
-      "id": "Q110130249",
+      "id": "Q110098546",
       "title": "Little Devil's Bridge over the Russ above Altdorft, Switzerland",
       "date": "1809",
       "type": "Painting",
@@ -15734,9 +15734,9 @@
       "country": "United States",
       "lat": 41.307908,
       "lon": -72.930906,
-      "source": "http://www.wikidata.org/entity/Q110130249",
+      "source": "http://www.wikidata.org/entity/Q110098546",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/J%20M%20W%20Turner%20-%20Little%20Devil%5Es%20Bridge%20over%20the%20Russ%20above%20Altdorft%2C%20Switzerland%20-%20B1977.14.8123%20-%20Yale%20Center%20for%20British%20Art.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/J%20M%20W%20Turner%20-%20Little%20Devil%27s%20Bridge%20over%20the%20Russ%20above%20Altdorft%2C%20Switzerland%20-%20B1977.14.14019%20-%20Yale%20Center%20for%20British%20Art.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q159758",
@@ -16009,7 +16009,7 @@
       }
     },
     {
-      "id": "Q110129561",
+      "id": "Q110098559",
       "title": "Mt. St. Gothard",
       "date": "1808",
       "type": "Painting",
@@ -16022,9 +16022,9 @@
       "country": "United States",
       "lat": 41.307908,
       "lon": -72.930906,
-      "source": "http://www.wikidata.org/entity/Q110129561",
+      "source": "http://www.wikidata.org/entity/Q110098559",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/J%20M%20W%20Turner%20-%20Mt%20St%20Gothard%20-%20B1977.14.8106%20-%20Yale%20Center%20for%20British%20Art.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/J%20M%20W%20Turner%20-%20Mt%20St%20Gothard%20-%20B1977.14.14026%20-%20Yale%20Center%20for%20British%20Art.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q159758",
@@ -16273,7 +16273,7 @@
       }
     },
     {
-      "id": "Q110129927",
+      "id": "Q110098554",
       "title": "Pembury Mill, Kent",
       "date": "1808",
       "type": "Painting",
@@ -16286,9 +16286,9 @@
       "country": "United States",
       "lat": 41.307908,
       "lon": -72.930906,
-      "source": "http://www.wikidata.org/entity/Q110129927",
+      "source": "http://www.wikidata.org/entity/Q110098554",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/J%20M%20W%20Turner%20-%20Pembury%20Mill%2C%20Kent%20-%20B1977.14.8113%20-%20Yale%20Center%20for%20British%20Art.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/J%20M%20W%20Turner%20-%20Pembury%20Mill%2C%20Kent%20-%20B1977.14.14023%20-%20Yale%20Center%20for%20British%20Art.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q159758",
@@ -16321,7 +16321,7 @@
       }
     },
     {
-      "id": "Q110098421",
+      "id": "Q110131650",
       "title": "Ploughing, Eton",
       "date": "1818",
       "type": "Painting",
@@ -16334,9 +16334,9 @@
       "country": "United States",
       "lat": 41.307908,
       "lon": -72.930906,
-      "source": "http://www.wikidata.org/entity/Q110098421",
+      "source": "http://www.wikidata.org/entity/Q110131650",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/J%20M%20W%20Turner%20-%20Ploughing%2C%20Eton%20-%20B1977.14.13970%20-%20Yale%20Center%20for%20British%20Art.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/J%20M%20W%20Turner%20-%20Ploughing%2C%20Eton%20-%20B1977.14.8206%20-%20Yale%20Center%20for%20British%20Art.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q159758",
@@ -16609,7 +16609,7 @@
       }
     },
     {
-      "id": "Q110098426",
+      "id": "Q110131527",
       "title": "Sheep-Washing, Windsor",
       "date": "1818",
       "type": "Painting",
@@ -16622,9 +16622,9 @@
       "country": "United States",
       "lat": 41.307908,
       "lon": -72.930906,
-      "source": "http://www.wikidata.org/entity/Q110098426",
+      "source": "http://www.wikidata.org/entity/Q110131527",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/J%20M%20W%20Turner%20-%20Sheep-Washing%2C%20Windsor%20-%20B1977.14.13972%20-%20Yale%20Center%20for%20British%20Art.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/J%20M%20W%20Turner%20-%20Sheep-Washing%2C%20Windsor%20-%20B1977.14.8199%20-%20Yale%20Center%20for%20British%20Art.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q159758",
@@ -16801,7 +16801,7 @@
       }
     },
     {
-      "id": "Q110129717",
+      "id": "Q110098558",
       "title": "Ships in a Breeze",
       "date": "1808",
       "type": "Painting",
@@ -16814,9 +16814,9 @@
       "country": "United States",
       "lat": 41.307908,
       "lon": -72.930906,
-      "source": "http://www.wikidata.org/entity/Q110129717",
+      "source": "http://www.wikidata.org/entity/Q110098558",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/J%20M%20W%20Turner%20-%20Ships%20in%20a%20Breeze%20-%20B1977.14.8109%20-%20Yale%20Center%20for%20British%20Art.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/J%20M%20W%20Turner%20-%20Ships%20in%20a%20Breeze%20-%20B1977.14.14025%20-%20Yale%20Center%20for%20British%20Art.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q159758",
@@ -17401,7 +17401,7 @@
       }
     },
     {
-      "id": "Q110130144",
+      "id": "Q110098548",
       "title": "The Drawing of the Clyde",
       "date": "1809",
       "type": "Painting",
@@ -17414,9 +17414,9 @@
       "country": "United States",
       "lat": 41.307908,
       "lon": -72.930906,
-      "source": "http://www.wikidata.org/entity/Q110130144",
+      "source": "http://www.wikidata.org/entity/Q110098548",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/J%20M%20W%20Turner%20-%20The%20Drawing%20of%20the%20Clyde%20-%20B1977.14.8120%20-%20Yale%20Center%20for%20British%20Art.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/J%20M%20W%20Turner%20-%20The%20Drawing%20of%20the%20Clyde%20-%20B1977.14.14020%20-%20Yale%20Center%20for%20British%20Art.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q159758",
@@ -17569,7 +17569,7 @@
       }
     },
     {
-      "id": "Q110098417",
+      "id": "Q110131658",
       "title": "The Stork and Aqueduct",
       "date": "1818",
       "type": "Painting",
@@ -17582,9 +17582,9 @@
       "country": "United States",
       "lat": 41.307908,
       "lon": -72.930906,
-      "source": "http://www.wikidata.org/entity/Q110098417",
+      "source": "http://www.wikidata.org/entity/Q110131658",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/J%20M%20W%20Turner%20-%20The%20Stork%20and%20Aqueduct%20-%20B1977.14.13968%20-%20Yale%20Center%20for%20British%20Art.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/J%20M%20W%20Turner%20-%20The%20Stork%20and%20Aqueduct%20-%20B1977.14.8209%20-%20Yale%20Center%20for%20British%20Art.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q159758",
@@ -17665,7 +17665,7 @@
       }
     },
     {
-      "id": "Q110129179",
+      "id": "Q110098576",
       "title": "The Woman and Tambourine",
       "date": "1807",
       "type": "Painting",
@@ -17678,9 +17678,9 @@
       "country": "United States",
       "lat": 41.307908,
       "lon": -72.930906,
-      "source": "http://www.wikidata.org/entity/Q110129179",
+      "source": "http://www.wikidata.org/entity/Q110098576",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/J%20M%20W%20Turner%20-%20The%20Woman%20and%20Tambourine%20-%20B1977.14.8098%20-%20Yale%20Center%20for%20British%20Art.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/J%20M%20W%20Turner%20-%20The%20Woman%20and%20Tambourine%20-%20B1977.14.14032%20-%20Yale%20Center%20for%20British%20Art.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q159758",

@@ -145,8 +145,8 @@
       }
     },
     {
-      "id": "Q17174583",
-      "title": "El Maragato Threatens Friar Pedro de Zaldivia with his gun",
+      "id": "Q20267966",
+      "title": "El Maragato Threatens Friar Pedro de Zaldivia with His Gun",
       "date": "1806",
       "type": "Painting",
       "attribution": "Accepted",
@@ -158,9 +158,9 @@
       "country": "United States",
       "lat": 41.879444444,
       "lon": -87.623888888,
-      "source": "http://www.wikidata.org/entity/Q17174583",
+      "source": "http://www.wikidata.org/entity/Q20267966",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Maragato.gif",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Francisco%20Jos%C3%A9%20de%20Goya%20y%20Lucientes%20-%20El%20Maragato%20Threatens%20Friar%20Pedro%20de%20Zaldivia%20with%20His%20Gun%20-%201933.1071%20-%20Art%20Institute%20of%20Chicago.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5432",
@@ -1145,6 +1145,30 @@
       "source": "http://www.wikidata.org/entity/Q15994180",
       "image": "",
       "externalImage": "",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q5432",
+        "retrieved": "2026-07-22",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q59260209",
+      "title": "Queen of Spain Maria Louisa, née Bourbon-Parma",
+      "date": "1790",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "francisco-goya",
+      "artistName": "Francisco Goya",
+      "locationId": "biblioteca-museu-victor-balaguer-vilanova-i-la-geltru",
+      "location": "Biblioteca Museu Víctor Balaguer",
+      "city": "Vilanova i la Geltrú",
+      "country": "Spain",
+      "lat": 41.22139,
+      "lon": 1.729359,
+      "source": "http://www.wikidata.org/entity/Q59260209",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mar%C3%ADa%20Luisa%20de%20Parma%2C%20reina%20de%20Espa%C3%B1a.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5432",
@@ -5497,30 +5521,6 @@
       }
     },
     {
-      "id": "Q59260209",
-      "title": "Queen of Spain Maria Louisa, née Bourbon-Parma",
-      "date": "1790",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "francisco-goya",
-      "artistName": "Francisco Goya",
-      "locationId": "museo-del-prado-madrid",
-      "location": "Museo del Prado",
-      "city": "Madrid",
-      "country": "Spain",
-      "lat": 40.413888888,
-      "lon": -3.692222222,
-      "source": "http://www.wikidata.org/entity/Q59260209",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mar%C3%ADa%20Luisa%20de%20Parma%2C%20reina%20de%20Espa%C3%B1a.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q5432",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
       "id": "Q6109322",
       "title": "Riña en el Mesón del Gallo",
       "date": "1777",
@@ -5881,6 +5881,30 @@
       }
     },
     {
+      "id": "Q2735507",
+      "title": "The Clothed Maja",
+      "date": "1800",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "francisco-goya",
+      "artistName": "Francisco Goya",
+      "locationId": "museo-del-prado-madrid",
+      "location": "Museo del Prado",
+      "city": "Madrid",
+      "country": "Spain",
+      "lat": 40.413888888,
+      "lon": -3.692222222,
+      "source": "http://www.wikidata.org/entity/Q2735507",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Goya%20Maja%20ubrana2.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q5432",
+        "retrieved": "2026-07-22",
+        "reviewStatus": "generated"
+      }
+    },
+    {
       "id": "Q2413468",
       "title": "The Colossus",
       "date": "1818",
@@ -6169,30 +6193,6 @@
       }
     },
     {
-      "id": "Q27766122",
-      "title": "The Holy Family",
-      "date": "1787",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "francisco-goya",
-      "artistName": "Francisco Goya",
-      "locationId": "museo-del-prado-madrid",
-      "location": "Museo del Prado",
-      "city": "Madrid",
-      "country": "Spain",
-      "lat": 40.413888888,
-      "lon": -3.692222222,
-      "source": "http://www.wikidata.org/entity/Q27766122",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Goya%20-%20Sagrada%20Familia%2C%20Hacia%201787%2C%20P007857.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q5432",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
       "id": "Q5965178",
       "title": "The Holy Family",
       "date": "1775",
@@ -6217,9 +6217,33 @@
       }
     },
     {
+      "id": "Q27766122",
+      "title": "The Holy Family",
+      "date": "1787",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "francisco-goya",
+      "artistName": "Francisco Goya",
+      "locationId": "museo-del-prado-madrid",
+      "location": "Museo del Prado",
+      "city": "Madrid",
+      "country": "Spain",
+      "lat": 40.413888888,
+      "lon": -3.692222222,
+      "source": "http://www.wikidata.org/entity/Q27766122",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Goya%20-%20Sagrada%20Familia%2C%20Hacia%201787%2C%20P007857.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q5432",
+        "retrieved": "2026-07-22",
+        "reviewStatus": "generated"
+      }
+    },
+    {
       "id": "Q27766139",
       "title": "The Immaculate Conception",
-      "date": "1783",
+      "date": "1784",
       "type": "Painting",
       "attribution": "Accepted",
       "artistId": "francisco-goya",
@@ -12097,7 +12121,7 @@
       }
     },
     {
-      "id": "Q65223798",
+      "id": "Q65223770",
       "title": "Disparate de Carnabal (Carnival Folly)",
       "date": "Date unknown",
       "type": "Painting",
@@ -12110,9 +12134,9 @@
       "country": "United States",
       "lat": 38.891388888,
       "lon": -77.02,
-      "source": "http://www.wikidata.org/entity/Q65223798",
+      "source": "http://www.wikidata.org/entity/Q65223770",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Francisco%20de%20Goya%2C%20Disparate%20de%20Carnabal%20%28Carnival%20Folly%29%2C%20in%20or%20after%201816%2C%20NGA%2045995.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Francisco%20de%20Goya%2C%20Disparate%20de%20Carnabal%20%28Carnival%20Folly%29%2C%20in%20or%20after%201816%2C%20NGA%2039847.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5432",
@@ -12145,7 +12169,7 @@
       }
     },
     {
-      "id": "Q65223786",
+      "id": "Q65223749",
       "title": "Disparate desordenado (Disorderly Folly)",
       "date": "Date unknown",
       "type": "Painting",
@@ -12158,9 +12182,9 @@
       "country": "United States",
       "lat": 38.891388888,
       "lon": -77.02,
-      "source": "http://www.wikidata.org/entity/Q65223786",
+      "source": "http://www.wikidata.org/entity/Q65223749",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Francisco%20de%20Goya%2C%20Disparate%20desordenado%20%28Disorderly%20Folly%29%2C%20in%20or%20after%201816%2C%20NGA%2041298.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Francisco%20de%20Goya%2C%20Disparate%20desordenado%20%28Disorderly%20Folly%29%2C%20in%20or%20after%201816%2C%20NGA%2039840.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5432",
@@ -12169,7 +12193,7 @@
       }
     },
     {
-      "id": "Q65223797",
+      "id": "Q65223734",
       "title": "Disparate femenino (Feminine Folly)",
       "date": "Date unknown",
       "type": "Painting",
@@ -12182,9 +12206,9 @@
       "country": "United States",
       "lat": 38.891388888,
       "lon": -77.02,
-      "source": "http://www.wikidata.org/entity/Q65223797",
+      "source": "http://www.wikidata.org/entity/Q65223734",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Francisco%20de%20Goya%2C%20Disparate%20femenino%20%28Feminine%20Folly%29%2C%20in%20or%20after%201816%2C%20NGA%2045978.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Francisco%20de%20Goya%2C%20Disparate%20femenino%20%28Feminine%20Folly%29%2C%20in%20or%20after%201816%2C%20NGA%2039834.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5432",
@@ -12193,7 +12217,7 @@
       }
     },
     {
-      "id": "Q65223787",
+      "id": "Q65223748",
       "title": "Disparate furioso (Furious Folly)",
       "date": "Date unknown",
       "type": "Painting",
@@ -12206,9 +12230,9 @@
       "country": "United States",
       "lat": 38.891388888,
       "lon": -77.02,
-      "source": "http://www.wikidata.org/entity/Q65223787",
+      "source": "http://www.wikidata.org/entity/Q65223748",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Francisco%20de%20Goya%2C%20Disparate%20furioso%20%28Furious%20Folly%29%2C%20in%20or%20after%201816%2C%20NGA%2041299.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Francisco%20de%20Goya%2C%20Disparate%20furioso%20%28Furious%20Folly%29%2C%20in%20or%20after%201816%2C%20NGA%2039839.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5432",
@@ -13441,7 +13465,7 @@
       }
     },
     {
-      "id": "Q64956730",
+      "id": "Q64956720",
       "title": "Isabel de Borbon",
       "date": "1778",
       "type": "Painting",
@@ -13454,9 +13478,9 @@
       "country": "United States",
       "lat": 38.891388888,
       "lon": -77.02,
-      "source": "http://www.wikidata.org/entity/Q64956730",
+      "source": "http://www.wikidata.org/entity/Q64956720",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Francisco%20de%20Goya%20after%20Diego%20Vel%C3%A1zquez%2C%20Isabel%20de%20Borbon%2C%201778%2C%20NGA%207446.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Francisco%20de%20Goya%20after%20Diego%20Vel%C3%A1zquez%2C%20Isabel%20de%20Borbon%2C%201778%2C%20NGA%207445.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5432",
@@ -16585,7 +16609,7 @@
       }
     },
     {
-      "id": "Q65223810",
+      "id": "Q65072285",
       "title": "Un enano (A Dwarf)",
       "date": "1778",
       "type": "Painting",
@@ -16598,9 +16622,9 @@
       "country": "United States",
       "lat": 38.891388888,
       "lon": -77.02,
-      "source": "http://www.wikidata.org/entity/Q65223810",
+      "source": "http://www.wikidata.org/entity/Q65072285",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Francisco%20de%20Goya%20after%20Diego%20Vel%C3%A1zquez%2C%20Un%20enano%20%28A%20Dwarf%29%2C%201778%2C%20NGA%2039828.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Francisco%20de%20Goya%20after%20Diego%20Vel%C3%A1zquez%2C%20Un%20enano%20%28A%20Dwarf%29%2C%201778%2C%20NGA%2036928.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5432",
@@ -17369,30 +17393,6 @@
       "source": "http://www.wikidata.org/entity/Q920041",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/GOYA%20-%20Entierro%20de%20la%20Sardina%20%28Real%20Academia%20de%20Bellas%20Artes%20de%20San%20Fernando%2C%201812-14%29.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q5432",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q2735507",
-      "title": "The Clothed Maja",
-      "date": "1800",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "francisco-goya",
-      "artistName": "Francisco Goya",
-      "locationId": "royal-academy-of-fine-arts-of-san-fernando-madrid",
-      "location": "Royal Academy of Fine Arts of San Fernando",
-      "city": "Madrid",
-      "country": "Spain",
-      "lat": 40.4178,
-      "lon": -3.7007,
-      "source": "http://www.wikidata.org/entity/Q2735507",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Goya%20Maja%20ubrana2.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5432",
@@ -18272,9 +18272,9 @@
       "attribution": "Accepted",
       "artistId": "francisco-goya",
       "artistName": "Francisco Goya",
-      "locationId": "sao-paulo-museum-of-art-bela-vista-district",
+      "locationId": "sao-paulo-museum-of-art-sao-paulo",
       "location": "São Paulo Museum of Art",
-      "city": "Bela Vista District",
+      "city": "São Paulo",
       "country": "Brazil",
       "lat": -23.561111111,
       "lon": -46.655833333,
@@ -18296,9 +18296,9 @@
       "attribution": "Accepted",
       "artistId": "francisco-goya",
       "artistName": "Francisco Goya",
-      "locationId": "sao-paulo-museum-of-art-sao-paulo",
+      "locationId": "sao-paulo-museum-of-art-bela-vista-district",
       "location": "São Paulo Museum of Art",
-      "city": "São Paulo",
+      "city": "Bela Vista District",
       "country": "Brazil",
       "lat": -23.561111111,
       "lon": -46.655833333,
@@ -18697,7 +18697,7 @@
       }
     },
     {
-      "id": "Q68975875",
+      "id": "Q104522002",
       "title": "Don Juan Bautista de Goicoechea y Urrutia",
       "date": "1815",
       "type": "Painting",
@@ -18710,9 +18710,9 @@
       "country": "Germany",
       "lat": 49.0119,
       "lon": 8.4,
-      "source": "http://www.wikidata.org/entity/Q68975875",
+      "source": "http://www.wikidata.org/entity/Q104522002",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Don%20Juan%20Bautista%20de%20Goicoechea%20y%20Urrutia.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Francisco%20de%20Goya%20-%20Bildnis%20Don%20Juan%20Bautista%20de%20Goicoechea%20y%20Urrutia%20-%202515%20-%20Staatliche%20Kunsthalle%20Karlsruhe.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5432",
@@ -19112,9 +19112,9 @@
       "attribution": "Accepted",
       "artistId": "francisco-goya",
       "artistName": "Francisco Goya",
-      "locationId": "valencia-cathedral-valencia",
+      "locationId": "valencia-cathedral-ciutat-vella",
       "location": "Valencia Cathedral",
-      "city": "Valencia",
+      "city": "Ciutat Vella",
       "country": "Spain",
       "lat": 39.475611111,
       "lon": -0.375138888,

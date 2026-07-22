@@ -8,9 +8,9 @@
       "attribution": "Accepted",
       "artistId": "leonardo-da-vinci",
       "artistName": "Leonardo da Vinci",
-      "locationId": "albertina-vienna",
+      "locationId": "albertina-innere-stadt",
       "location": "Albertina",
-      "city": "Vienna",
+      "city": "Innere Stadt",
       "country": "Austria",
       "lat": 48.204561111,
       "lon": 16.368319444,
@@ -1225,7 +1225,7 @@
       }
     },
     {
-      "id": "Q139566950",
+      "id": "Q139566951",
       "title": "Military and Architectural Studies and Sketch of a Church (Florence Cathedral?)",
       "date": "Date unknown",
       "type": "Painting",
@@ -1238,9 +1238,9 @@
       "country": "Italy",
       "lat": 45.463479,
       "lon": 9.185788,
-      "source": "http://www.wikidata.org/entity/Q139566950",
+      "source": "http://www.wikidata.org/entity/Q139566951",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Codex%20Atlanticus%20-%20000V-57.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Codex%20Atlanticus%20-%20000R-69a.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q762",
@@ -1249,7 +1249,7 @@
       }
     },
     {
-      "id": "Q139567171",
+      "id": "Q139567169",
       "title": "Military Machine to Catapult Stones",
       "date": "Date unknown",
       "type": "Painting",
@@ -1262,9 +1262,9 @@
       "country": "Italy",
       "lat": 45.463479,
       "lon": 9.185788,
-      "source": "http://www.wikidata.org/entity/Q139567171",
+      "source": "http://www.wikidata.org/entity/Q139567169",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Codex%20Atlanticus%20-%20000R-160b.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Codex%20Atlanticus%20-%20000R-159.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q762",
@@ -1561,7 +1561,7 @@
       }
     },
     {
-      "id": "Q136390100",
+      "id": "Q139567115",
       "title": "Studies of Hydraulic Devices",
       "date": "Date unknown",
       "type": "Painting",
@@ -1574,9 +1574,9 @@
       "country": "Italy",
       "lat": 45.463479,
       "lon": 9.185788,
-      "source": "http://www.wikidata.org/entity/Q136390100",
+      "source": "http://www.wikidata.org/entity/Q139567115",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/000V-1069.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Codex%20Atlanticus%20-%20000R-7.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q762",
@@ -1753,7 +1753,7 @@
       }
     },
     {
-      "id": "Q139567097",
+      "id": "Q139567096",
       "title": "Study for the Cupola of Milan Cathedral",
       "date": "Date unknown",
       "type": "Painting",
@@ -1766,9 +1766,9 @@
       "country": "Italy",
       "lat": 45.463479,
       "lon": 9.185788,
-      "source": "http://www.wikidata.org/entity/Q139567097",
+      "source": "http://www.wikidata.org/entity/Q139567096",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Codex%20Atlanticus%20-%20000R-851.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Codex%20Atlanticus%20-%20000R-850.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q762",
@@ -2713,7 +2713,7 @@
       }
     },
     {
-      "id": "Q139566948",
+      "id": "Q136390084",
       "title": "Architectural Studies",
       "date": "Date unknown",
       "type": "Painting",
@@ -2726,9 +2726,9 @@
       "country": "France",
       "lat": 48.857318,
       "lon": 2.336912,
-      "source": "http://www.wikidata.org/entity/Q139566948",
+      "source": "http://www.wikidata.org/entity/Q136390084",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Leonardo%20da%20Vinci%20-%2019-553987.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Leonardo%20da%20Vinci%20-%2019-554013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q762",
@@ -3169,7 +3169,7 @@
       }
     },
     {
-      "id": "Q139567102",
+      "id": "Q139567103",
       "title": "Studies for a Building on a Centralized Plan",
       "date": "Date unknown",
       "type": "Painting",
@@ -3182,9 +3182,9 @@
       "country": "France",
       "lat": 48.857318,
       "lon": 2.336912,
-      "source": "http://www.wikidata.org/entity/Q139567102",
+      "source": "http://www.wikidata.org/entity/Q139567103",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Leonardo%20da%20Vinci%20-%2019-553984.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Leonardo%20da%20Vinci%20-%2019-553991.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q762",
@@ -3217,7 +3217,7 @@
       }
     },
     {
-      "id": "Q139566947",
+      "id": "Q139566946",
       "title": "Studies for a Building on a Centralized Plan and Sketches of a Fortress",
       "date": "Date unknown",
       "type": "Painting",
@@ -3230,9 +3230,9 @@
       "country": "France",
       "lat": 48.857318,
       "lon": 2.336912,
-      "source": "http://www.wikidata.org/entity/Q139566947",
+      "source": "http://www.wikidata.org/entity/Q139566946",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Leonardo%20da%20Vinci%20-%2019-553978.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Leonardo%20da%20Vinci%20-%2019-553977.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q762",
@@ -3481,7 +3481,7 @@
       }
     },
     {
-      "id": "Q139567181",
+      "id": "Q139567180",
       "title": "Study of Halberds",
       "date": "Date unknown",
       "type": "Painting",
@@ -3494,9 +3494,9 @@
       "country": "France",
       "lat": 48.857318,
       "lon": 2.336912,
-      "source": "http://www.wikidata.org/entity/Q139567181",
+      "source": "http://www.wikidata.org/entity/Q139567180",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Leonardo%20da%20Vinci%20-%2019-544978.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Leonardo%20da%20Vinci%20-%2019-544976.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q762",
@@ -5512,7 +5512,7 @@
       "lon": -73.963333333,
       "source": "http://www.wikidata.org/entity/Q29384842",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Compositional%20Sketches%20for%20the%20Virgin%20Adoring%20the%20Christ%20Child%2C%20with%20and%20without%20the%20Infant%20St.%20John%20the%20Baptist%3B%20Diagram%20of%20a%20Perspectival%20Projection%20%28recto%29%3B%20Slight%20Doodles%20%28verso%29%20MET%20DP136369.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Compositional%20Sketches%20for%20the%20Virgin%20Adoring%20the%20Christ%20Child%2C%20with%20and%20without%20the%20Infant%20St.%20John%20the%20Baptist%3B%20Diagram%20of%20a%20Perspectival%20Projection%20%28recto%29%3B%20Slight%20Doodles%20%28verso%29%20MET%20dp17.142.1v.R.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q762",
