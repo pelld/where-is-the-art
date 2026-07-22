@@ -1,0 +1,14 @@
+{
+  "generatedAt": "2026-07-22T19:35:33.998Z",
+  "countries": [
+    {
+      "id": "france",
+      "name": "France",
+      "works": 3272,
+      "artists": 88,
+      "institutions": 238,
+      "cities": 182
+    }
+  ]
+}
+
