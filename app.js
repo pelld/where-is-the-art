@@ -12,6 +12,7 @@ const artworkCache = new Map();
 let artistRequestToken = 0;
 let map;
 const markerByLocation = new Map();
+const GALLERY_LIMIT = 120;
 
 /* ============================================================
    01. DATA LOADING AND NORMALISATION
@@ -128,7 +129,7 @@ async function selectArtist(artistId, announce = true) {
   document.querySelector(".dashboard").setAttribute("aria-label",`${artist.name} work locations`);
   document.getElementById("map").setAttribute("aria-label",`Map showing locations of ${artist.name} works`);
   const note = document.getElementById("searchNote");
-  note.textContent = `Showing ${artist.name}. Choose the other artist from the search box to compare the pattern.`;
+  note.textContent = artist.reviewStatus === "curated" ? `Showing the curated ${artist.name} catalogue.` : `Showing a generated Wikidata catalogue for ${artist.name}. Individual records still need review.`;
   note.classList.remove("search-warning");
   updateCounts();
   applyFilters();
@@ -200,8 +201,9 @@ function renderListView() {
 
 function renderArtworkGallery() {
   const gallery = document.getElementById("artworkGallery"); if (!gallery) return;
-  gallery.innerHTML = filteredArtworks.map(work => { const image = artworkImage(work); return `<article class="artwork-card"><a class="artwork-picture ${image ? "" : "image-missing"}" href="${work.source}" target="_blank" rel="noreferrer">${image ? `<img src="${image}" alt="${work.title} by ${work.artistName}" loading="lazy">` : `<i>${work.title}</i>`}<span>${work.type}</span></a><div class="artwork-details"><p>${work.city} · ${work.country}</p><h3>${work.title}</h3><small>${work.date} · ${work.location}</small>${work.attribution === "Attributed" ? '<b>Attribution debated</b>' : ''}<a href="${work.source}" target="_blank" rel="noreferrer">View official source ↗</a></div></article>`; }).join("");
-  document.getElementById("artworkGalleryCount").textContent = `${filteredArtworks.length} shown`;
+  const displayedArtworks = filteredArtworks.slice(0,GALLERY_LIMIT);
+  gallery.innerHTML = displayedArtworks.map(work => { const image = artworkImage(work); return `<article class="artwork-card"><a class="artwork-picture ${image ? "" : "image-missing"}" href="${work.source}" target="_blank" rel="noreferrer">${image ? `<img src="${image}" alt="${work.title} by ${work.artistName}" loading="lazy">` : `<i>${work.title}</i>`}<span>${work.type}</span></a><div class="artwork-details"><p>${work.city} · ${work.country}</p><h3>${work.title}</h3><small>${work.date} · ${work.location}</small>${work.attribution === "Attributed" ? '<b>Attribution debated</b>' : ''}<a href="${work.source}" target="_blank" rel="noreferrer">View official source ↗</a></div></article>`; }).join("");
+  document.getElementById("artworkGalleryCount").textContent = filteredArtworks.length > GALLERY_LIMIT ? `Showing ${GALLERY_LIMIT} of ${filteredArtworks.length}` : `${filteredArtworks.length} shown`;
 }
 
 function updateCounts() {
