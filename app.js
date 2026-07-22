@@ -43,7 +43,7 @@ function populateArtistChoices() {
 
 function renderArtistDirectory(records = artists) {
   const directory = document.getElementById("artistDirectory");
-  directory.innerHTML = records.map(artist => `<button type="button" data-artist-id="${artist.id}" class="${artist.id === selectedArtistId ? "active" : ""}">${artist.name}<small>${artist.reviewStatus === "curated" ? "Curated" : "Generated"}</small></button>`).join("");
+  directory.innerHTML = records.map(artist => `<button type="button" data-artist-id="${artist.id}" class="${artist.id === selectedArtistId ? "active" : ""}">${artist.name}<small>${artist.reviewStatus === "curated" ? "Curated catalogue" : "Wikidata import"}</small></button>`).join("");
   directory.querySelectorAll("button").forEach(button => button.addEventListener("click",() => {
     selectArtist(button.dataset.artistId).catch(showLoadError);
     document.getElementById("artistBrowser").open = false;
@@ -192,7 +192,7 @@ async function selectArtist(artistId, announce = true) {
   document.querySelector(".dashboard").setAttribute("aria-label",`${artist.name} work locations`);
   document.getElementById("map").setAttribute("aria-label",`Map showing locations of ${artist.name} works`);
   const note = document.getElementById("searchNote");
-  note.textContent = artist.reviewStatus === "curated" ? `Showing the curated ${artist.name} catalogue.` : `Showing a generated Wikidata catalogue for ${artist.name}. Individual records still need review.`;
+  note.textContent = artist.reviewStatus === "curated" ? `Showing the curated ${artist.name} catalogue.` : `Showing a Wikidata import for ${artist.name}. Individual records still need review.`;
   note.classList.remove("search-warning");
   renderArtistDirectory([...artists].sort((a,b) => a.name.localeCompare(b.name)));
   updateCounts();
