@@ -17,6 +17,23 @@ if (registryMode) {
 }
 const endpoint = "https://query.wikidata.org/sparql";
 const outputDirectory = path.resolve("generated-data");
+const retryableStatuses = new Set([429,500,502,503,504]);
+
+function sleep(milliseconds) {
+  return new Promise(resolve => setTimeout(resolve,milliseconds));
+}
+
+async function fetchWithRetry(url,artistName) {
+  const attempts = 5;
+  for (let attempt = 1; attempt <= attempts; attempt++) {
+    const response = await fetch(url,{ headers:{ Accept:"application/sparql-results+json", "User-Agent":"where-is-the-art/1.0 (https://github.com/pelld/where-is-the-art)" } });
+    if (response.ok) return response;
+    if (!retryableStatuses.has(response.status) || attempt === attempts) throw new Error(`${artistName}: Wikidata returned ${response.status} after ${attempt} attempt${attempt === 1 ? "" : "s"}`);
+    const delay = Math.min(30000,2000 * 2 ** (attempt - 1));
+    console.warn(`${artistName}: Wikidata returned ${response.status}; retrying in ${delay / 1000}s (attempt ${attempt + 1}/${attempts})`);
+    await sleep(delay);
+  }
+}
 
 function slug(value) {
   return value.normalize("NFKD").replace(/[\u0300-\u036f]/g,"").toLowerCase().replace(/&/g," and ").replace(/[^a-z0-9]+/g,"-").replace(/^-|-$/g,"").slice(0,70);
@@ -47,8 +64,7 @@ function queryFor(qid) {
 }
 async function fetchArtist(artist) {
   const url = `${endpoint}?query=${encodeURIComponent(queryFor(artist.qid))}&format=json`;
-  const response = await fetch(url,{ headers:{ Accept:"application/sparql-results+json", "User-Agent":"where-is-the-art/1.0 (https://github.com/pelld/where-is-the-art)" } });
-  if (!response.ok) throw new Error(`${artist.name}: Wikidata returned ${response.status}`);
+  const response = await fetchWithRetry(url,artist.name);
   const data = await response.json();
   const seen = new Set();
   const records = [];
@@ -79,10 +95,15 @@ await fs.mkdir(outputDirectory,{ recursive:true });
 const summary = [];
 const requestedArtist = registryMode ? null : process.argv[2];
 for (const artist of artists.filter(item => !requestedArtist || item.id === requestedArtist)) {
-  const artworks = await fetchArtist(artist);
-  await fs.writeFile(path.join(outputDirectory,`${artist.id}.json`),JSON.stringify({ artworks },null,2)+"\n");
-  summary.push({ id:artist.id, records:artworks.length, locations:new Set(artworks.map(work => work.locationId)).size, defaultLocationId:artworks[0]?.locationId || null });
-  console.log(`${artist.name}: ${artworks.length} works`);
+  try {
+    const artworks = await fetchArtist(artist);
+    await fs.writeFile(path.join(outputDirectory,`${artist.id}.json`),JSON.stringify({ artworks },null,2)+"\n");
+    summary.push({ id:artist.id, status:"complete", records:artworks.length, locations:new Set(artworks.map(work => work.locationId)).size, defaultLocationId:artworks[0]?.locationId || null });
+    console.log(`${artist.name}: ${artworks.length} works`);
+  } catch (error) {
+    summary.push({ id:artist.id, status:"failed", error:error.message });
+    console.error(`Skipping ${artist.name}: ${error.message}`);
+  }
   await new Promise(resolve => setTimeout(resolve,1000));
 }
 await fs.writeFile(path.join(outputDirectory,"summary.json"),JSON.stringify(summary,null,2)+"\n");
