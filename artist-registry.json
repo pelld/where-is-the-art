@@ -1,0 +1,658 @@
+{
+  "generatedAt": "2026-07-22T18:56:42.807Z",
+  "targetCatalogueSize": 100,
+  "artists": [
+    {
+      "id": "leonardo-da-vinci",
+      "name": "Leonardo da Vinci",
+      "qid": "Q762",
+      "description": "Italian Renaissance polymath (1452−1519)",
+      "status": "candidate"
+    },
+    {
+      "id": "raphael",
+      "name": "Raphael",
+      "qid": "Q5597",
+      "description": "Spanish recording artist; singer and actor",
+      "status": "candidate"
+    },
+    {
+      "id": "albrecht-durer",
+      "name": "Albrecht Dürer",
+      "qid": "Q5580",
+      "description": "German painter, printmaker, mathematician, and theorist (1471-1528)",
+      "status": "candidate"
+    },
+    {
+      "id": "francisco-goya",
+      "name": "Francisco Goya",
+      "qid": "Q5432",
+      "description": "Spanish painter and printmaker (1746–1828)",
+      "status": "candidate"
+    },
+    {
+      "id": "henri-matisse",
+      "name": "Henri Matisse",
+      "qid": "Q5589",
+      "description": "French artist (1869-1954)",
+      "status": "candidate"
+    },
+    {
+      "id": "katsushika-hokusai",
+      "name": "Katsushika Hokusai",
+      "qid": "Q5586",
+      "description": "Japanese artist (1760-1849)",
+      "status": "candidate"
+    },
+    {
+      "id": "peter-paul-rubens",
+      "name": "Peter Paul Rubens",
+      "qid": "Q5599",
+      "description": "Flemish painter (1577–1640)",
+      "status": "candidate"
+    },
+    {
+      "id": "diego-velazquez",
+      "name": "Diego Velázquez",
+      "qid": "Q297",
+      "description": "Spanish painter (1599-1660)",
+      "status": "candidate"
+    },
+    {
+      "id": "william-blake",
+      "name": "William Blake",
+      "qid": "Q41513",
+      "description": "English poet and artist (1757–1827)",
+      "status": "candidate"
+    },
+    {
+      "id": "paul-cezanne",
+      "name": "Paul Cézanne",
+      "qid": "Q35548",
+      "description": "French painter (1839–1906)",
+      "status": "candidate"
+    },
+    {
+      "id": "paul-gauguin",
+      "name": "Paul Gauguin",
+      "qid": "Q37693",
+      "description": "French painter and printmaker (1848–1903)",
+      "status": "candidate"
+    },
+    {
+      "id": "jean-auguste-dominique-ingres",
+      "name": "Jean-Auguste-Dominique Ingres",
+      "qid": "Q23380",
+      "description": "French painter (1780–1867)",
+      "status": "candidate"
+    },
+    {
+      "id": "eugene-delacroix",
+      "name": "Eugène Delacroix",
+      "qid": "Q33477",
+      "description": "French painter (1798–1863)",
+      "status": "candidate"
+    },
+    {
+      "id": "edvard-munch",
+      "name": "Edvard Munch",
+      "qid": "Q41406",
+      "description": "Norwegian painter (1863–1944)",
+      "status": "candidate"
+    },
+    {
+      "id": "pierre-auguste-renoir",
+      "name": "Pierre-Auguste Renoir",
+      "qid": "Q39931",
+      "description": "French painter and sculptor (1841–1919)",
+      "status": "candidate"
+    },
+    {
+      "id": "el-greco",
+      "name": "El Greco",
+      "qid": "Q301",
+      "description": "Greek artist, painter, sculptor and architect (1541–1614)",
+      "status": "candidate"
+    },
+    {
+      "id": "sandro-botticelli",
+      "name": "Sandro Botticelli",
+      "qid": "Q5669",
+      "description": "Italian painter (1445–1510)",
+      "status": "candidate"
+    },
+    {
+      "id": "caravaggio",
+      "name": "Caravaggio",
+      "qid": "Q42207",
+      "description": "Italian painter (1571–1610)",
+      "status": "candidate"
+    },
+    {
+      "id": "edgar-degas",
+      "name": "Edgar Degas",
+      "qid": "Q46373",
+      "description": "French Impressionist artist (1834–1917)",
+      "status": "candidate"
+    },
+    {
+      "id": "edouard-manet",
+      "name": "Édouard Manet",
+      "qid": "Q40599",
+      "description": "French painter (1832–1883)",
+      "status": "candidate"
+    },
+    {
+      "id": "titian",
+      "name": "Titian",
+      "qid": "Q47551",
+      "description": "Italian painter (c.1490–1576)",
+      "status": "candidate"
+    },
+    {
+      "id": "gustav-klimt",
+      "name": "Gustav Klimt",
+      "qid": "Q34661",
+      "description": "Austrian symbolist painter (1862–1918)",
+      "status": "candidate"
+    },
+    {
+      "id": "wassily-kandinsky",
+      "name": "Wassily Kandinsky",
+      "qid": "Q61064",
+      "description": "avant-garde painter of Russian origin (1866-1944)",
+      "status": "candidate"
+    },
+    {
+      "id": "giotto",
+      "name": "Giotto",
+      "qid": "Q7814",
+      "description": "Italian painter and architect (c. 1267–1337)",
+      "status": "candidate"
+    },
+    {
+      "id": "henri-de-toulouse-lautrec",
+      "name": "Henri de Toulouse-Lautrec",
+      "qid": "Q82445",
+      "description": "French painter and illustrator (1864–1901)",
+      "status": "candidate"
+    },
+    {
+      "id": "rene-magritte",
+      "name": "René Magritte",
+      "qid": "Q7836",
+      "description": "Belgian surrealist (1898–1967)",
+      "status": "candidate"
+    },
+    {
+      "id": "jacques-louis-david",
+      "name": "Jacques-Louis David",
+      "qid": "Q83155",
+      "description": "French painter (1748–1825)",
+      "status": "candidate"
+    },
+    {
+      "id": "hieronymus-bosch",
+      "name": "Hieronymus Bosch",
+      "qid": "Q130531",
+      "description": "Dutch painter (c. 1450–1516)",
+      "status": "candidate"
+    },
+    {
+      "id": "ilya-repin",
+      "name": "Ilya Repin",
+      "qid": "Q172911",
+      "description": "Russian-empire painter of Ukrainian birth (1844-1930)",
+      "status": "candidate"
+    },
+    {
+      "id": "pieter-bruegel-the-elder",
+      "name": "Pieter Bruegel the Elder",
+      "qid": "Q43270",
+      "description": "Flemish painter (1526–1569)",
+      "status": "candidate"
+    },
+    {
+      "id": "caspar-david-friedrich",
+      "name": "Caspar David Friedrich",
+      "qid": "Q104884",
+      "description": "German Romantic landscape painter (1774–1840)",
+      "status": "candidate"
+    },
+    {
+      "id": "mary-cassatt",
+      "name": "Mary Cassatt",
+      "qid": "Q173223",
+      "description": "American painter and printmaker (1844—1926)",
+      "status": "candidate"
+    },
+    {
+      "id": "piet-mondrian",
+      "name": "Piet Mondrian",
+      "qid": "Q151803",
+      "description": "Dutch painter (1872–1944)",
+      "status": "candidate"
+    },
+    {
+      "id": "camille-pissarro",
+      "name": "Camille Pissarro",
+      "qid": "Q134741",
+      "description": "Danish-French painter (1830-1903)",
+      "status": "candidate"
+    },
+    {
+      "id": "amedeo-modigliani",
+      "name": "Amedeo Modigliani",
+      "qid": "Q120993",
+      "description": "Italian painter and sculptor (1884–1920)",
+      "status": "candidate"
+    },
+    {
+      "id": "jan-van-eyck",
+      "name": "Jan van Eyck",
+      "qid": "Q102272",
+      "description": "Flemish painter (c.1390–1441)",
+      "status": "candidate"
+    },
+    {
+      "id": "kazimir-malevich",
+      "name": "Kazimir Malevich",
+      "qid": "Q130777",
+      "description": "Russian avant-garde artist of Polish ancestry. Founder of the Suprematist movement (1879–1935)",
+      "status": "candidate"
+    },
+    {
+      "id": "georges-braque",
+      "name": "Georges Braque",
+      "qid": "Q153793",
+      "description": "French painter and sculptor (1882-1963)",
+      "status": "candidate"
+    },
+    {
+      "id": "anthony-van-dyck",
+      "name": "Anthony van Dyck",
+      "qid": "Q150679",
+      "description": "Flemish Baroque artist (1599–1641)",
+      "status": "candidate"
+    },
+    {
+      "id": "diego-rivera",
+      "name": "Diego Rivera",
+      "qid": "Q171128",
+      "description": "Mexican muralist (1886–1957)",
+      "status": "candidate"
+    },
+    {
+      "id": "tintoretto",
+      "name": "Tintoretto",
+      "qid": "Q9319",
+      "description": "Italian painter (1560–1635)",
+      "status": "candidate"
+    },
+    {
+      "id": "william-hogarth",
+      "name": "William Hogarth",
+      "qid": "Q171344",
+      "description": "English painter, printmaker, pictorial satirist, social critic and editorial cartoonist (1697-1764)",
+      "status": "candidate"
+    },
+    {
+      "id": "gustave-courbet",
+      "name": "Gustave Courbet",
+      "qid": "Q34618",
+      "description": "French painter (1819–1877)",
+      "status": "candidate"
+    },
+    {
+      "id": "francisco-de-zurbaran",
+      "name": "Francisco de Zurbarán",
+      "qid": "Q209615",
+      "description": "Spanish painter (1598–1664)",
+      "status": "candidate"
+    },
+    {
+      "id": "bartolome-esteban-murillo",
+      "name": "Bartolomé Esteban Murillo",
+      "qid": "Q192062",
+      "description": "Spanish Baroque painter (1617–1682)",
+      "status": "candidate"
+    },
+    {
+      "id": "masaccio",
+      "name": "Masaccio",
+      "qid": "Q5811",
+      "description": "Italian painter (1401-1428)",
+      "status": "candidate"
+    },
+    {
+      "id": "fra-angelico",
+      "name": "Fra Angelico",
+      "qid": "Q5664",
+      "description": "Italian Early Renaissance painter",
+      "status": "candidate"
+    },
+    {
+      "id": "paolo-uccello",
+      "name": "Paolo Uccello",
+      "qid": "Q192488",
+      "description": "Italian painter (1397-1475)",
+      "status": "candidate"
+    },
+    {
+      "id": "giovanni-bellini",
+      "name": "Giovanni Bellini",
+      "qid": "Q17169",
+      "description": "15th- and 16th-century Italian Renaissance painter (1430–1516)",
+      "status": "candidate"
+    },
+    {
+      "id": "giorgione",
+      "name": "Giorgione",
+      "qid": "Q8459",
+      "description": "Venetian Renaissance painter (1478–1510)",
+      "status": "candidate"
+    },
+    {
+      "id": "lucas-cranach-the-elder",
+      "name": "Lucas Cranach the Elder",
+      "qid": "Q191748",
+      "description": "German painter and printmaker (1472–1553)",
+      "status": "candidate"
+    },
+    {
+      "id": "hans-holbein-the-younger",
+      "name": "Hans Holbein the Younger",
+      "qid": "Q48319",
+      "description": "German artist and printmaker (1497–1543)",
+      "status": "candidate"
+    },
+    {
+      "id": "paolo-veronese",
+      "name": "Paolo Veronese",
+      "qid": "Q9440",
+      "description": "Italian painter of the Renaissance (1528–1588)",
+      "status": "candidate"
+    },
+    {
+      "id": "parmigianino",
+      "name": "Parmigianino",
+      "qid": "Q9348",
+      "description": "Italian Mannerist painter and printmaker (1503–1540)",
+      "status": "candidate"
+    },
+    {
+      "id": "correggio",
+      "name": "Correggio",
+      "qid": "Q8457",
+      "description": "Italian Renaissance painter (1489–1534)",
+      "status": "candidate"
+    },
+    {
+      "id": "giovanni-battista-tiepolo",
+      "name": "Giovanni Battista Tiepolo",
+      "qid": "Q186202",
+      "description": "Italian painter (1696–1770)",
+      "status": "candidate"
+    },
+    {
+      "id": "antoine-watteau",
+      "name": "Antoine Watteau",
+      "qid": "Q183221",
+      "description": "French painter (1684-1721)",
+      "status": "candidate"
+    },
+    {
+      "id": "jean-honore-fragonard",
+      "name": "Jean-Honoré Fragonard",
+      "qid": "Q127171",
+      "description": "French painter (1732–1806)",
+      "status": "candidate"
+    },
+    {
+      "id": "francois-boucher",
+      "name": "François Boucher",
+      "qid": "Q180932",
+      "description": "French painter (1703–1770)",
+      "status": "candidate"
+    },
+    {
+      "id": "jean-baptiste-simeon-chardin",
+      "name": "Jean-Baptiste-Siméon Chardin",
+      "qid": "Q207447",
+      "description": "painter from France (1699-1779)",
+      "status": "candidate"
+    },
+    {
+      "id": "thomas-gainsborough",
+      "name": "Thomas Gainsborough",
+      "qid": "Q192720",
+      "description": "English portrait and landscape painter (1727-1788)",
+      "status": "candidate"
+    },
+    {
+      "id": "john-constable",
+      "name": "John Constable",
+      "qid": "Q159297",
+      "description": "English painter (1776-1837)",
+      "status": "candidate"
+    },
+    {
+      "id": "jean-francois-millet",
+      "name": "Jean-François Millet",
+      "qid": "Q148458",
+      "description": "French painter (1814–1875)",
+      "status": "candidate"
+    },
+    {
+      "id": "jean-baptiste-camille-corot",
+      "name": "Jean-Baptiste-Camille Corot",
+      "qid": "Q148475",
+      "description": "French landscape and portrait painter and printmaker in etching (1796-1875)",
+      "status": "candidate"
+    },
+    {
+      "id": "honore-daumier",
+      "name": "Honoré Daumier",
+      "qid": "Q187506",
+      "description": "French artist (1808–1879)",
+      "status": "candidate"
+    },
+    {
+      "id": "berthe-morisot",
+      "name": "Berthe Morisot",
+      "qid": "Q105320",
+      "description": "French painter (1841-1895)",
+      "status": "candidate"
+    },
+    {
+      "id": "alfred-sisley",
+      "name": "Alfred Sisley",
+      "qid": "Q175130",
+      "description": "French, British painter (1839–1899)",
+      "status": "candidate"
+    },
+    {
+      "id": "georges-seurat",
+      "name": "Georges Seurat",
+      "qid": "Q34013",
+      "description": "French painter (1859-1891)",
+      "status": "candidate"
+    },
+    {
+      "id": "paul-signac",
+      "name": "Paul Signac",
+      "qid": "Q151573",
+      "description": "French painter (1863–1935)",
+      "status": "candidate"
+    },
+    {
+      "id": "henri-rousseau",
+      "name": "Henri Rousseau",
+      "qid": "Q156386",
+      "description": "French painter (1844–1910)",
+      "status": "candidate"
+    },
+    {
+      "id": "pierre-bonnard",
+      "name": "Pierre Bonnard",
+      "qid": "Q26408",
+      "description": "French painter and printmaker (1867-1947)",
+      "status": "candidate"
+    },
+    {
+      "id": "edouard-vuillard",
+      "name": "Édouard Vuillard",
+      "qid": "Q239394",
+      "description": "French painter (1868-1940)",
+      "status": "candidate"
+    },
+    {
+      "id": "paul-klee",
+      "name": "Paul Klee",
+      "qid": "Q44007",
+      "description": "German-Swiss artist (1879–1940)",
+      "status": "candidate"
+    },
+    {
+      "id": "marc-chagall",
+      "name": "Marc Chagall",
+      "qid": "Q93284",
+      "description": "Belarusian-French artist (1887–1985)",
+      "status": "candidate"
+    },
+    {
+      "id": "john-singer-sargent",
+      "name": "John Singer Sargent",
+      "qid": "Q155626",
+      "description": "American painter (1856–1925)",
+      "status": "candidate"
+    },
+    {
+      "id": "james-mcneill-whistler",
+      "name": "James McNeill Whistler",
+      "qid": "Q203643",
+      "description": "American painter (1834-1903)",
+      "status": "candidate"
+    },
+    {
+      "id": "winslow-homer",
+      "name": "Winslow Homer",
+      "qid": "Q344838",
+      "description": "American landscape painter (1836–1910)",
+      "status": "candidate"
+    },
+    {
+      "id": "thomas-eakins",
+      "name": "Thomas Eakins",
+      "qid": "Q214905",
+      "description": "American painter (1844–1916)",
+      "status": "candidate"
+    },
+    {
+      "id": "frida-kahlo",
+      "name": "Frida Kahlo",
+      "qid": "Q5588",
+      "description": "Mexican painter (1907–1954)",
+      "status": "candidate"
+    },
+    {
+      "id": "grant-wood",
+      "name": "Grant Wood",
+      "qid": "Q217434",
+      "description": "American painter (1891–1942)",
+      "status": "candidate"
+    },
+    {
+      "id": "sofonisba-anguissola",
+      "name": "Sofonisba Anguissola",
+      "qid": "Q236038",
+      "description": "Italian painter (c.1532-1625)",
+      "status": "candidate"
+    },
+    {
+      "id": "lavinia-fontana",
+      "name": "Lavinia Fontana",
+      "qid": "Q236050",
+      "description": "Italian painter (1552–1614)",
+      "status": "candidate"
+    },
+    {
+      "id": "judith-leyster",
+      "name": "Judith Leyster",
+      "qid": "Q232423",
+      "description": "Dutch Golden Age painter (1609-1660)",
+      "status": "candidate"
+    },
+    {
+      "id": "rosa-bonheur",
+      "name": "Rosa Bonheur",
+      "qid": "Q241732",
+      "description": "French artist (1822-1899)",
+      "status": "candidate"
+    },
+    {
+      "id": "marie-guillemine-benoist",
+      "name": "Marie-Guillemine Benoist",
+      "qid": "Q118810",
+      "description": "French painter (1768–1826)",
+      "status": "candidate"
+    },
+    {
+      "id": "suzanne-valadon",
+      "name": "Suzanne Valadon",
+      "qid": "Q156889",
+      "description": "French painter (1865—1938)",
+      "status": "candidate"
+    },
+    {
+      "id": "kathe-kollwitz",
+      "name": "Käthe Kollwitz",
+      "qid": "Q142472",
+      "description": "German printmaker and sculptor (1867–1945)",
+      "status": "candidate"
+    },
+    {
+      "id": "paula-modersohn-becker",
+      "name": "Paula Modersohn-Becker",
+      "qid": "Q234370",
+      "description": "German expressionist painter (1876–1907)",
+      "status": "candidate"
+    },
+    {
+      "id": "hilma-af-klint",
+      "name": "Hilma af Klint",
+      "qid": "Q436267",
+      "description": "Swedish artist (1862–1944)",
+      "status": "candidate"
+    },
+    {
+      "id": "vanessa-bell",
+      "name": "Vanessa Bell",
+      "qid": "Q255294",
+      "description": "British painter and interior designer (1879–1961)",
+      "status": "candidate"
+    },
+    {
+      "id": "gwen-john",
+      "name": "Gwen John",
+      "qid": "Q274339",
+      "description": "Welsh painter (1876-1939)",
+      "status": "candidate"
+    },
+    {
+      "id": "romaine-brooks",
+      "name": "Romaine Brooks",
+      "qid": "Q466607",
+      "description": "American artist (1874-1970)",
+      "status": "candidate"
+    },
+    {
+      "id": "tamara-de-lempicka",
+      "name": "Tamara de Lempicka",
+      "qid": "Q229351",
+      "description": "Polish painter (1894-1980)",
+      "status": "candidate"
+    }
+  ]
+}
+
