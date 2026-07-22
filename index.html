@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Find museums, churches and galleries where you can see works by a particular artist.">
+  <title>Where Is the Art By…?</title>
+  <link rel="preconnect" href="https://unpkg.com">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIINfQ3ynJ6k7nMZrFPIgMZQ9xWnC6ZQ8kM=" crossorigin="">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <a class="wordmark" href="#top" aria-label="Where Is the Art By home"><span>W</span> WHERE IS THE ART BY…?</a>
+    <nav><a class="active" href="#explore">Explore</a><a href="#method">About the data</a><a href="https://github.com/pelld/where-is-the-art" target="_blank" rel="noreferrer">GitHub ↗</a></nav>
+  </header>
+
+  <main id="top">
+    <section class="hero" id="explore">
+      <div class="hero-copy">
+        <p class="eyebrow">ARTIST LOCATION EXPLORER · PROOF OF CONCEPT</p>
+        <h1>Where is the art by<br><em>Michelangelo</em>?</h1>
+        <p class="intro">One artist. Thirty works and ensembles. Eighteen places. Use the map to find where the originals are held today.</p>
+      </div>
+      <div class="artist-search">
+        <label for="artistInput">Search for an artist</label>
+        <div class="search-control"><span aria-hidden="true">⌕</span><input id="artistInput" value="Michelangelo" autocomplete="off" aria-describedby="searchNote"><button id="searchButton">Search</button></div>
+        <p id="searchNote">This first proof of concept contains Michelangelo. More artists can use the same open data structure.</p>
+      </div>
+    </section>
+
+    <section class="dashboard" aria-label="Michelangelo work locations">
+      <aside class="filters">
+        <div class="filter-heading"><div><p class="eyebrow">FILTER THE RESULTS</p><h2>What do you want to see?</h2></div><button id="resetFilters">Reset</button></div>
+        <fieldset><legend>Type of work</legend><label><input type="checkbox" name="type" value="Sculpture" checked><span>Sculpture</span><b id="countSculpture"></b></label><label><input type="checkbox" name="type" value="Painting" checked><span>Painting</span><b id="countPainting"></b></label><label><input type="checkbox" name="type" value="Fresco" checked><span>Fresco</span><b id="countFresco"></b></label></fieldset>
+        <fieldset><legend>Attribution</legend><label><input type="checkbox" name="attribution" value="Michelangelo" checked><span>Accepted</span><b id="countAccepted"></b></label><label><input type="checkbox" name="attribution" value="Attributed" checked><span>Attributed or debated</span><b id="countAttributed"></b></label></fieldset>
+        <div class="display-note"><span>i</span><p><strong>Before making a special journey</strong>Follow the official source link. Works can be moved, loaned or temporarily removed from display.</p></div>
+      </aside>
+
+      <div class="map-column">
+        <div class="map-toolbar"><div><strong id="locationCount">18 locations</strong><span id="workCount">30 works and ensembles</span></div><div class="view-toggle" role="group" aria-label="Choose view"><button class="active" data-view="map">Map</button><button data-view="list">List</button></div></div>
+        <div id="map" aria-label="Map showing locations of Michelangelo works"></div>
+        <div id="mapAttribution">Map data © OpenStreetMap contributors</div>
+        <div id="listView" class="list-view" hidden></div>
+      </div>
+
+      <aside class="location-panel" id="locationPanel" aria-live="polite">
+        <div class="location-image"><img id="locationImage" alt=""><span id="locationCountry"></span></div>
+        <div class="location-content"><p class="eyebrow" id="locationCity"></p><h2 id="locationName"></h2><p id="locationSummary"></p><div id="workList" class="work-list"></div><a id="sourceLink" class="source-link" target="_blank" rel="noreferrer">Check the official source <span>↗</span></a></div>
+      </aside>
+    </section>
+
+    <section class="results-section">
+      <div class="section-heading"><div><p class="eyebrow">THE PLACES</p><h2>Plan a Michelangelo trip</h2></div><p>Florence and Rome contain the largest concentrations, but original works can also be found in London, Paris, Bruges, Milan, New York and elsewhere.</p></div>
+      <div id="locationCards" class="location-cards"></div>
+    </section>
+
+    <section class="method" id="method">
+      <div><p class="eyebrow">WHAT THIS PROVES</p><h2>Museum collections are organised by institution. Visitors think by artist.</h2></div>
+      <div><p>This prototype reorganises official collection records around a simple question: <em>where can I see art by this person?</em></p><p>The underlying file is intentionally human-readable. Each record contains the work, location, coordinates, attribution status and an official source. That makes it possible to review and improve the evidence through GitHub.</p><p class="caveat"><strong>Scope:</strong> selected publicly accessible sculptures, paintings and frescoes. Drawings, architectural works, copies, lost works and most disputed attributions are excluded.</p></div>
+    </section>
+  </main>
+
+  <footer><span>WHERE IS THE ART BY…?</span><p>A small open-data proof of concept by David Pell.</p><a href="#top">Back to top ↑</a></footer>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script src="app.js"></script>
+</body>
+</html>
