@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="Find museums, churches and galleries where you can see works by a particular artist.">
   <title>Where Is the Art By…?</title>
-  <link rel="stylesheet" href="styles.css?v=4">
+  <link rel="stylesheet" href="styles.css?v=5">
 </head>
 <body>
   <header class="site-header">
@@ -17,13 +17,13 @@
     <section class="hero" id="explore">
       <div class="hero-copy">
         <p class="eyebrow">ARTIST LOCATION EXPLORER · PROOF OF CONCEPT</p>
-        <h1>Where is the art by<br><em>Michelangelo</em>?</h1>
-        <p class="intro">One artist. Thirty works and ensembles. Eighteen places. Use the map to find where the originals are held today.</p>
+        <h1>Where is the art by<br><em id="artistName">Michelangelo</em>?</h1>
+        <p class="intro" id="artistIntro">Thirty works and ensembles across eighteen places. Use the map to find where the originals are held today.</p>
       </div>
       <div class="artist-search">
         <label for="artistInput">Search for an artist</label>
-        <div class="search-control"><span aria-hidden="true">⌕</span><input id="artistInput" value="Michelangelo" autocomplete="off" aria-describedby="searchNote"><button id="searchButton">Search</button></div>
-        <p id="searchNote">This first proof of concept contains Michelangelo. More artists can use the same open data structure.</p>
+        <div class="search-control"><span aria-hidden="true">⌕</span><input id="artistInput" value="Michelangelo" list="artistOptions" autocomplete="off" aria-describedby="searchNote"><datalist id="artistOptions"><option value="Michelangelo"></option><option value="Johannes Vermeer"></option></datalist><button id="searchButton">Search</button></div>
+        <p id="searchNote">Showing Michelangelo. Choose Johannes Vermeer to compare the pattern.</p>
       </div>
     </section>
 
@@ -31,7 +31,7 @@
       <aside class="filters">
         <div class="filter-heading"><div><p class="eyebrow">FILTER THE RESULTS</p><h2>What do you want to see?</h2></div><button id="resetFilters">Reset</button></div>
         <fieldset><legend>Type of work</legend><label><input type="checkbox" name="type" value="Sculpture" checked><span>Sculpture</span><b id="countSculpture"></b></label><label><input type="checkbox" name="type" value="Painting" checked><span>Painting</span><b id="countPainting"></b></label><label><input type="checkbox" name="type" value="Fresco" checked><span>Fresco</span><b id="countFresco"></b></label></fieldset>
-        <fieldset><legend>Attribution</legend><label><input type="checkbox" name="attribution" value="Michelangelo" checked><span>Accepted</span><b id="countAccepted"></b></label><label><input type="checkbox" name="attribution" value="Attributed" checked><span>Attributed or debated</span><b id="countAttributed"></b></label></fieldset>
+        <fieldset><legend>Attribution</legend><label><input type="checkbox" name="attribution" value="Accepted" checked><span>Accepted</span><b id="countAccepted"></b></label><label><input type="checkbox" name="attribution" value="Attributed" checked><span>Attributed or debated</span><b id="countAttributed"></b></label></fieldset>
         <div class="display-note"><span>i</span><p><strong>Before making a special journey</strong>Follow the official source link. Works can be moved, loaned or temporarily removed from display.</p></div>
       </aside>
 
@@ -49,13 +49,13 @@
     </section>
 
     <section class="results-section">
-      <div class="section-heading"><div><p class="eyebrow">THE PLACES</p><h2>Plan a Michelangelo trip</h2></div><p>Florence and Rome contain the largest concentrations, but original works can also be found in London, Paris, Bruges, Milan, New York and elsewhere.</p></div>
+      <div class="section-heading"><div><p class="eyebrow">THE PLACES</p><h2 id="tripHeading">Plan a Michelangelo trip</h2></div><p id="tripSummary">Florence and Rome contain the largest concentrations, but original works can also be found in London, Paris, Bruges, Milan, New York and elsewhere.</p></div>
       <div id="locationCards" class="location-cards"></div>
     </section>
 
     <section class="artworks-section" id="artworks">
       <div class="section-heading"><div><p class="eyebrow">THE ARTWORKS</p><h2>See the works</h2></div><p>Browse the selected originals included in this proof of concept. Each image links to the official institution record or visitor information.</p></div>
-      <div class="gallery-toolbar"><strong id="artworkGalleryCount">30 shown</strong><span>Images are supplied by external open-access collections and Wikimedia Commons.</span></div>
+      <div class="gallery-toolbar"><strong id="artworkGalleryCount">30 shown</strong><span>Representative images are bundled where licensing and availability allow; every record links to its official source.</span></div>
       <div id="artworkGallery" class="artwork-gallery"></div>
     </section>
 
@@ -82,6 +82,6 @@
   <script src="images/bruges.js"></script>
   <script src="images/rondanini.js"></script>
   <script src="images/hermitage.js"></script>
-  <script src="app.js?v=4"></script>
+  <script src="app.js?v=5"></script>
 </body>
 </html>
