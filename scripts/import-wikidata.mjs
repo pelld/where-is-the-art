@@ -22,6 +22,9 @@ function year(value) {
   const match = /(-?\d{3,4})/.exec(value || "");
   return match ? match[1] : "Date unknown";
 }
+function identity(work) {
+  return [work.locationId,work.title.toLowerCase().replace(/[^a-z0-9]+/g," ").trim(),work.date].join("|");
+}
 function queryFor(qid) {
   return `SELECT DISTINCT ?work ?workLabel ?collection ?collectionLabel ?cityLabel ?countryLabel ?coord ?date ?image WHERE {
   ?work wdt:P170 wd:${qid}; wdt:P195 ?collection.
@@ -57,8 +60,13 @@ async function fetchArtist(artist) {
       provenance:{ source:"Wikidata", artistQid:artist.qid, retrieved:new Date().toISOString().slice(0,10), reviewStatus:"generated" }
     });
   }
-  records.sort((a,b) => a.location.localeCompare(b.location) || a.title.localeCompare(b.title));
-  return records;
+  const deduplicated = new Map();
+  for (const work of records) {
+    const key = identity(work);
+    const existing = deduplicated.get(key);
+    if (!existing || (!existing.externalImage && work.externalImage)) deduplicated.set(key,work);
+  }
+  return [...deduplicated.values()].sort((a,b) => a.location.localeCompare(b.location) || a.title.localeCompare(b.title));
 }
 await fs.mkdir(outputDirectory,{ recursive:true });
 const summary = [];
