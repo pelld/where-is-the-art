@@ -349,3 +349,26 @@ footer>span { color:var(--ink); font-family:Georgia,serif; letter-spacing:.14em;
 #map { height:auto; aspect-ratio:2 / 1; }
 .static-world-map { width:100%; height:100%; }
 @media (max-width:580px) { #map { height:auto; aspect-ratio:2 / 1; } }
+
+
+/* ============================================================
+   25. ASPECT-RATIO-AWARE EXPLORER LAYOUT
+   ============================================================ */
+/* Desktop: give the correctly proportioned map most of the width, retain the selected place beside it, and use the full row below for filters. */
+@media (min-width:1101px) {
+  .dashboard { grid-template-columns:minmax(620px,2fr) minmax(320px,.82fr); grid-template-areas:"map detail" "filters filters"; gap:18px; align-items:start; }
+  .map-column { grid-area:map; align-self:start; }
+  .location-panel { grid-area:detail; align-self:start; min-height:0; }
+  .filters { grid-area:filters; display:grid; grid-template-columns:230px minmax(210px,1fr) minmax(210px,1fr) minmax(250px,1.1fr); gap:22px; align-items:start; padding:18px 20px; }
+  .filters fieldset { margin:0; padding:0 0 0 22px; border-top:0; border-left:1px solid var(--rule); }
+  .filters .display-note { margin:0; min-height:100%; }
+}
+
+/* Tablet: stack the map at full width before the controls and selected-location panel. */
+@media (min-width:581px) and (max-width:1100px) {
+  .dashboard { grid-template-columns:1fr; align-items:start; }
+  .map-column { order:1; }
+  .filters { order:2; display:grid; grid-template-columns:1fr 1fr; gap:0 24px; }
+  .filter-heading,.display-note { grid-column:1 / -1; }
+  .location-panel { order:3; grid-column:auto; display:grid; grid-template-columns:minmax(260px,38%) 1fr; }
+}
