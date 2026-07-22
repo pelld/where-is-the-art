@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="Find museums, churches and galleries where you can see works by a particular artist.">
   <title>Where Is the Art By…?</title>
-  <link rel="stylesheet" href="styles.css?v=6">
+  <link rel="stylesheet" href="styles.css?v=7">
 </head>
 <body>
   <header class="site-header">
@@ -23,7 +23,8 @@
       <div class="artist-search">
         <label for="artistInput">Search for an artist</label>
         <div class="search-control"><span aria-hidden="true">⌕</span><input id="artistInput" value="Michelangelo" list="artistOptions" autocomplete="off" aria-describedby="searchNote"><datalist id="artistOptions"><option value="Michelangelo"></option><option value="Johannes Vermeer"></option></datalist><button id="searchButton">Search</button></div>
-        <p id="searchNote">Showing Michelangelo. Choose Johannes Vermeer to compare the pattern.</p>
+        <p id="searchNote">Showing Michelangelo. Browse the available artists or type a name—even approximately.</p>
+        <details class="artist-browser" id="artistBrowser"><summary><span id="availableCount">Browse available artists</span><b aria-hidden="true">+</b></summary><div class="artist-directory" id="artistDirectory"></div></details>
       </div>
     </section>
 
@@ -99,6 +100,6 @@
   <script src="images/vermeer-kenwood.js"></script>
   <script src="images/vermeer-braunschweig.js"></script>
   <script src="images/vermeer-tokyo.js"></script>
-  <script src="app.js?v=8"></script>
+  <script src="app.js?v=9"></script>
 </body>
 </html>
