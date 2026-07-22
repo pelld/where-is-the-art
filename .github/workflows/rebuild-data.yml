@@ -1,20 +1,7 @@
 name: Rebuild generated artist data
 
 on:
-  push:
-    paths:
-      - "scripts/import-wikidata.mjs"
-      - ".github/workflows/rebuild-data.yml"
   workflow_dispatch:
-    inputs:
-      registry_offset:
-        description: "Candidate registry offset"
-        required: false
-        default: "0"
-      registry_limit:
-        description: "Number of candidate artists to import"
-        required: false
-        default: "10"
   schedule:
     - cron: "17 5 1 * *"
 
@@ -30,13 +17,19 @@ jobs:
         with:
           node-version: 22
       - run: node scripts/import-wikidata.mjs
-      - run: node scripts/import-wikidata.mjs --registry ${{ inputs.registry_offset || 0 }} ${{ inputs.registry_limit || 10 }}
+      - name: Import the complete candidate registry in courteous batches
+        run: |
+          for offset in 0 10 20 30 40 50 60 70 80 90
+          do
+            node scripts/import-wikidata.mjs --registry "${offset}" 10
+          done
       - run: cp generated-data/*.json data/
+      - run: node scripts/promote-generated-artists.mjs
       - run: node scripts/validate-data.mjs
       - name: Commit refreshed records
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data
+          git add data artists.json
           git diff --cached --quiet || git commit -m "Refresh generated artist data"
           git push
