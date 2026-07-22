@@ -50,3 +50,20 @@ No Firebase or server is required.
 Artist-level copy and defaults live in `artists.json`. Artwork records live in `artworks.json` and are joined with the `artistId` field. The interface derives its search choices, totals, filters, map markers, location cards and gallery from those two files.
 
 The proof of concept currently contains Michelangelo and Johannes Vermeer. To add another artist, add one artist record, then add artwork records using the same `artistId`. No Firebase or database is required.
+
+
+## Scalable catalogue
+
+The browser first loads `artists.json`, then downloads only the selected artist's file from `data/`. This keeps initial loading small even as the catalogue grows.
+
+The catalogue currently includes two curated datasets and five generated Wikidata datasets. Generated records carry provenance and a review-status flag; they should be treated as discovery data until checked against the holding institution.
+
+Run a refresh locally with:
+
+```bash
+node scripts/import-wikidata.mjs
+cp generated-data/*.json data/
+node scripts/validate-data.mjs
+```
+
+The monthly GitHub Actions workflow performs the same import and validation. Add an artist to the importer and `artists.json` to expand the catalogue.
