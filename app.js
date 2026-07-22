@@ -45,7 +45,7 @@ function populateArtistChoices() {
 
 function renderArtistDirectory(records = artists) {
   const directory = document.getElementById("artistDirectory");
-  directory.innerHTML = records.map(artist => `<button type="button" data-artist-id="${artist.id}" class="${artist.id === selectedArtistId ? "active" : ""}">${artist.name}<small>${artist.reviewStatus === "curated" ? "Curated catalogue" : "Wikidata import"}</small></button>`).join("");
+  directory.innerHTML = records.map(artist => `<button type="button" data-artist-id="${artist.id}" class="${artist.id === selectedArtistId ? "active" : ""}">${artist.name}</button>`).join("");
   directory.querySelectorAll("button").forEach(button => button.addEventListener("click",() => {
     selectArtist(button.dataset.artistId).catch(showLoadError);
     document.getElementById("artistBrowser").open = false;
@@ -106,10 +106,10 @@ function artworkImage(work,allowLocationRepresentative = false) {
   const bundledLocationImage = window.bundledArtworkImages[`${work.artistId}:${work.locationId}`] || window.bundledArtworkImages[work.locationId] || "";
   const firstAtLocation = artworks.find(item => item.locationId === work.locationId);
   const repeatedSource = work.image && artworks.some(item => item !== work && item.image === work.image);
-  if (allowLocationRepresentative) return bundledLocationImage || work.image || "";
-  if (firstAtLocation === work) return bundledLocationImage || work.image || "";
+  if (allowLocationRepresentative) return bundledLocationImage || work.image || work.externalImage || work.artistImage || "";
+  if (firstAtLocation === work) return bundledLocationImage || work.image || work.externalImage || "";
   if (repeatedSource) return "";
-  return work.image || "";
+  return work.image || work.externalImage || "";
 }
 
 const knownEntityLabels = { Q214867:"National Gallery of Art" };
@@ -216,7 +216,7 @@ async function selectArtist(artistId, announce = true) {
   document.querySelector(".dashboard").setAttribute("aria-label",`${artist.name} work locations`);
   document.getElementById("map").setAttribute("aria-label",`Map showing locations of ${artist.name} works`);
   const note = document.getElementById("searchNote");
-  note.textContent = artist.reviewStatus === "curated" ? `Showing the curated ${artist.name} catalogue.` : `Showing a Wikidata import for ${artist.name}. Individual records still need review.`;
+  note.textContent = `Showing ${artist.name}. Check the linked source before making a special journey.`;
   note.classList.remove("search-warning");
   renderArtistDirectory([...artists].sort((a,b) => a.name.localeCompare(b.name)));
   updateCounts();
