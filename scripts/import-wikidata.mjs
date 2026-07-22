@@ -1,13 +1,20 @@
 import fs from "node:fs/promises";
 import path from "node:path";
 
-const artists = [
+let artists = [
   { id:"rembrandt", name:"Rembrandt", qid:"Q5598" },
   { id:"monet", name:"Claude Monet", qid:"Q296" },
   { id:"artemisia-gentileschi", name:"Artemisia Gentileschi", qid:"Q212657" },
   { id:"turner", name:"J. M. W. Turner", qid:"Q159758" },
   { id:"van-gogh", name:"Vincent van Gogh", qid:"Q5582" }
 ];
+const registryMode = process.argv.includes("--registry");
+if (registryMode) {
+  const registry = JSON.parse(await fs.readFile("artist-registry.json","utf8"));
+  const offset = Number(process.argv[process.argv.indexOf("--registry") + 1] || 0);
+  const limit = Number(process.argv[process.argv.indexOf("--registry") + 2] || 10);
+  artists = registry.artists.slice(offset,offset + limit).map(artist => ({ id:artist.id,name:artist.name,qid:artist.qid }));
+}
 const endpoint = "https://query.wikidata.org/sparql";
 const outputDirectory = path.resolve("generated-data");
 
@@ -70,11 +77,12 @@ async function fetchArtist(artist) {
 }
 await fs.mkdir(outputDirectory,{ recursive:true });
 const summary = [];
-const requestedArtist = process.argv[2];
+const requestedArtist = registryMode ? null : process.argv[2];
 for (const artist of artists.filter(item => !requestedArtist || item.id === requestedArtist)) {
   const artworks = await fetchArtist(artist);
   await fs.writeFile(path.join(outputDirectory,`${artist.id}.json`),JSON.stringify({ artworks },null,2)+"\n");
   summary.push({ id:artist.id, records:artworks.length, locations:new Set(artworks.map(work => work.locationId)).size, defaultLocationId:artworks[0]?.locationId || null });
   console.log(`${artist.name}: ${artworks.length} works`);
+  await new Promise(resolve => setTimeout(resolve,1000));
 }
 await fs.writeFile(path.join(outputDirectory,"summary.json"),JSON.stringify(summary,null,2)+"\n");
