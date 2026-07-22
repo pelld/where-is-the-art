@@ -43,3 +43,10 @@ Then open `http://localhost:8000`.
 4. Select `main` and `/ (root)`, then save.
 
 No Firebase or server is required.
+
+
+## Adding another artist
+
+Artist-level copy and defaults live in `artists.json`. Artwork records live in `artworks.json` and are joined with the `artistId` field. The interface derives its search choices, totals, filters, map markers, location cards and gallery from those two files.
+
+The proof of concept currently contains Michelangelo and Johannes Vermeer. To add another artist, add one artist record, then add artwork records using the same `artistId`. No Firebase or database is required.
