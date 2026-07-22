@@ -10,6 +10,9 @@ for (const artist of index.artists) {
   for (const [position,work] of data.artworks.entries()) {
     for (const field of required) if (work[field] === undefined || work[field] === "") { console.error(`${file} record ${position + 1}: missing ${field}`); failures++; }
     if (work.artistId !== artist.id) { console.error(`${file} record ${position + 1}: artistId mismatch`); failures++; }
+    for (const field of ["title","location","city","country"]) {
+      if (/^Q\d+$/.test(work[field] || "")) { console.error(`${file} record ${position + 1}: unresolved Wikidata label in ${field} (${work[field]})`); failures++; }
+    }
     const identity = work.id || `${work.locationId}:${work.title}`;
     if (ids.has(identity)) { console.error(`${file}: duplicate ${identity}`); failures++; }
     ids.add(identity);
