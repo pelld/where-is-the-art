@@ -37,21 +37,30 @@ function groupByLocation(records) {
    02. MAP CREATION
    ============================================================ */
 function initialiseMap() {
-  map = L.map("map", { zoomControl:true, scrollWheelZoom:true }).setView([46.5,8],5);
-  L.tileLayer("https://a.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png", { maxZoom:20, crossOrigin:true, updateWhenIdle:true, keepBuffer:4 }).addTo(map);
-  markerLayer = L.layerGroup().addTo(map);
+  map = document.getElementById("map");
+  map.innerHTML = '<div class="static-world-map"><img src="world-map.svg" alt="" aria-hidden="true"><div id="mapMarkers"></div><div class="map-caption">Self-contained map · no external tile service</div></div>';
+}
+
+function mapPosition(lat,lon) {
+  const scale = 184.6;
+  return { left:`${((600 + lon * Math.PI / 180 * scale) / 1200) * 100}%`, top:`${((300 - lat * Math.PI / 180 * scale) / 600) * 100}%` };
 }
 
 function renderMarkers() {
-  markerLayer.clearLayers();
+  const layer = document.getElementById("mapMarkers");
+  layer.innerHTML = "";
   markerByLocation.clear();
-  filteredLocations.forEach((location,index) => {
-    const isSelected = location.id === selectedLocationId;
-    const icon = L.divIcon({ className:"", html:`<div class="art-marker ${isSelected ? "selected" : ""}"><span>${location.works.length}</span></div>`, iconSize:[42,42], iconAnchor:[21,21] });
-    const marker = L.marker([location.lat,location.lon], { icon }).bindPopup(`<div class="map-popup"><strong>${location.name}</strong><small>${location.city} · ${location.works.length} ${location.works.length === 1 ? "work" : "works/ensembles"}</small></div>`);
-    marker.on("click", () => selectLocation(location.id,false));
-    marker.addTo(markerLayer);
-    markerByLocation.set(location.id,marker);
+  filteredLocations.forEach(location => {
+    const button = document.createElement("button");
+    const position = mapPosition(location.lat,location.lon);
+    button.className = `map-point ${location.id === selectedLocationId ? "selected" : ""}`;
+    button.style.left = position.left;
+    button.style.top = position.top;
+    button.innerHTML = `<span>${location.works.length}</span><b>${location.city}</b>`;
+    button.setAttribute("aria-label",`${location.name}, ${location.city}: ${location.works.length} works or ensembles`);
+    button.addEventListener("click",() => selectLocation(location.id,false));
+    layer.appendChild(button);
+    markerByLocation.set(location.id,button);
   });
 }
 
@@ -93,7 +102,6 @@ function switchView(view) {
   document.getElementById("map").hidden = view !== "map";
   document.getElementById("mapAttribution").hidden = view !== "map";
   document.getElementById("listView").hidden = view !== "list";
-  if (view === "map") setTimeout(() => map.invalidateSize(),0);
 }
 
 /* ============================================================
@@ -104,8 +112,6 @@ function selectLocation(locationId,scroll = true) {
   renderMarkers();
   renderSelectedLocation();
   renderLocationCards();
-  const location = filteredLocations.find(item => item.id === locationId);
-  if (location) { map.flyTo([location.lat,location.lon],Math.max(map.getZoom(),6),{ duration:.7 }); markerByLocation.get(locationId)?.openPopup(); }
   if (scroll && window.innerWidth < 850) document.getElementById("locationPanel").scrollIntoView({ behavior:"smooth",block:"start" });
 }
 
