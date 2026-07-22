@@ -100,16 +100,26 @@ async function loadArtistArtworks(artist) {
 
 function currentArtist() { return artists.find(artist => artist.id === selectedArtistId); }
 function artistWorks() { return exploreMode === "destination" ? artworks : artworks.filter(work => work.artistId === selectedArtistId); }
+function normaliseImageUrl(value) {
+  if (!value) return "";
+  let url = value.replace(/^http:/,"https:");
+  if (url.includes("commons.wikimedia.org/wiki/Special:FilePath/")) url = url.replace("/wiki/Special:FilePath/","/wiki/Special:Redirect/file/") + (url.includes("?") ? "&" : "?") + "width=1000";
+  return url;
+}
+
 function artworkImage(work,allowLocationRepresentative = false) {
   const bundledWorkImage = work.imageKey ? window.bundledArtworkImages[work.imageKey] || "" : "";
   if (bundledWorkImage) return bundledWorkImage;
   const bundledLocationImage = window.bundledArtworkImages[`${work.artistId}:${work.locationId}`] || window.bundledArtworkImages[work.locationId] || "";
+  const artworkSource = normaliseImageUrl(work.image || work.externalImage);
+  const artistPortrait = normaliseImageUrl(work.artistImage);
   const firstAtLocation = artworks.find(item => item.locationId === work.locationId);
-  const repeatedSource = work.image && artworks.some(item => item !== work && item.image === work.image);
-  if (allowLocationRepresentative) return bundledLocationImage || work.image || work.externalImage || work.artistImage || "";
-  if (firstAtLocation === work) return bundledLocationImage || work.image || work.externalImage || "";
+  const rawSource = work.image || work.externalImage;
+  const repeatedSource = rawSource && artworks.some(item => item !== work && (item.image || item.externalImage) === rawSource);
+  if (allowLocationRepresentative) return bundledLocationImage || artworkSource || artistPortrait;
+  if (firstAtLocation === work) return bundledLocationImage || artworkSource;
   if (repeatedSource) return "";
-  return work.image || work.externalImage || "";
+  return artworkSource;
 }
 
 const knownEntityLabels = { Q214867:"National Gallery of Art" };
