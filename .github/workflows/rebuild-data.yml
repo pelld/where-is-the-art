@@ -2,6 +2,15 @@ name: Rebuild generated artist data
 
 on:
   workflow_dispatch:
+    inputs:
+      registry_offset:
+        description: "Candidate registry offset"
+        required: false
+        default: "0"
+      registry_limit:
+        description: "Number of candidate artists to import"
+        required: false
+        default: "10"
   schedule:
     - cron: "17 5 1 * *"
 
@@ -17,6 +26,7 @@ jobs:
         with:
           node-version: 22
       - run: node scripts/import-wikidata.mjs
+      - run: node scripts/import-wikidata.mjs --registry ${{ inputs.registry_offset || 0 }} ${{ inputs.registry_limit || 10 }}
       - run: cp generated-data/*.json data/
       - run: node scripts/validate-data.mjs
       - name: Commit refreshed records
