@@ -310,3 +310,7 @@ footer>span { color:var(--ink); font-family:Georgia,serif; letter-spacing:.14em;
 .destination-work a { margin-top:auto; padding-top:1rem; color:#2449ad; font:800 .7rem Arial,sans-serif; text-decoration:none; }
 @media (max-width:1000px) { .destination-heading { grid-template-columns:1fr; gap:2.5rem; } .destination-works { grid-template-columns:repeat(2,1fr); } }
 @media (max-width:700px) { .destination-section { padding:4rem 1.25rem; } .destination-highlights,.destination-works,.destination-directory { grid-template-columns:1fr; } }
+
+
+/* A title card replaces the old overlapping unavailable-image message. */
+.artwork-picture.image-missing::after { content: none; }
