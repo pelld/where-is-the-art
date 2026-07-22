@@ -231,3 +231,53 @@ footer>span { color:var(--ink); font-family:Georgia,serif; letter-spacing:.14em;
   cursor: pointer;
 }
 .show-all-works span { float: right; font-size: 1rem; }
+
+
+/* ============================================================
+   20. AVAILABLE ARTIST DIRECTORY
+   ============================================================ */
+.artist-browser {
+  margin-top: 1rem;
+  border-top: 1px solid #cfc7b8;
+}
+.artist-browser summary {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: .85rem 0;
+  color: #173f9e;
+  font: 800 .74rem/1.2 Arial,sans-serif;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+  cursor: pointer;
+  list-style: none;
+}
+.artist-browser summary::-webkit-details-marker { display: none; }
+.artist-browser summary b { font-size: 1.15rem; transition: transform .2s ease; }
+.artist-browser[open] summary b { transform: rotate(45deg); }
+.artist-directory {
+  display: grid;
+  grid-template-columns: repeat(2,minmax(0,1fr));
+  gap: .4rem;
+  max-height: 19rem;
+  padding: 0 0 .8rem;
+  overflow: auto;
+}
+.artist-directory button {
+  display: flex;
+  flex-direction: column;
+  gap: .18rem;
+  min-width: 0;
+  padding: .7rem .75rem;
+  border: 1px solid #d3ccbe;
+  background: rgba(255,255,255,.55);
+  color: #181713;
+  font: 700 .8rem/1.15 Arial,sans-serif;
+  text-align: left;
+  cursor: pointer;
+}
+.artist-directory button:hover,
+.artist-directory button:focus-visible,
+.artist-directory button.active { border-color: #2449ad; background: #2449ad; color: #fff; }
+.artist-directory small { opacity: .68; font-size: .61rem; letter-spacing: .05em; text-transform: uppercase; }
+@media (max-width: 560px) { .artist-directory { grid-template-columns: 1fr; } }
