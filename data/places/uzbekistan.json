@@ -1,0 +1,23 @@
+{
+  "id": "uzbekistan",
+  "country": "Uzbekistan",
+  "artworks": [
+    {
+      "id": "Q123697121",
+      "artistId": "ilya-repin",
+      "artistName": "Ilya Repin",
+      "reviewStatus": "generated",
+      "title": "Untitled record",
+      "date": "1895",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "state-art-museum-of-uzbekistan-tashkent",
+      "location": "State Art Museum of Uzbekistan",
+      "city": "Tashkent",
+      "country": "Uzbekistan",
+      "lat": 41.302758333,
+      "lon": 69.277844444,
+      "source": "http://www.wikidata.org/entity/Q123697121"
+    }
+  ]
+}

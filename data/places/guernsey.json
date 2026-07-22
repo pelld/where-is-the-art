@@ -1,0 +1,23 @@
+{
+  "id": "guernsey",
+  "country": "Guernsey",
+  "artworks": [
+    {
+      "id": "Q119864036",
+      "artistId": "bartolome-esteban-murillo",
+      "artistName": "Bartolomé Esteban Murillo",
+      "reviewStatus": "generated",
+      "title": "The Visitation",
+      "date": "1800",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "guernsey-museum-and-art-gallery-saint-peter-port",
+      "location": "Guernsey Museum and Art Gallery",
+      "city": "Saint Peter Port",
+      "country": "Guernsey",
+      "lat": 49.458967,
+      "lon": -2.540845,
+      "source": "http://www.wikidata.org/entity/Q119864036"
+    }
+  ]
+}

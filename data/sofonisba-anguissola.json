@@ -50,7 +50,7 @@
     },
     {
       "id": "Q98232301",
-      "title": "Q98232301",
+      "title": "Untitled record",
       "date": "1560",
       "type": "Painting",
       "attribution": "Accepted",
@@ -128,7 +128,7 @@
       "attribution": "Accepted",
       "artistId": "sofonisba-anguissola",
       "artistName": "Sofonisba Anguissola",
-      "locationId": "fondation-custodia",
+      "locationId": "fondation-custodia-location-unknown",
       "location": "Fondation Custodia",
       "city": "Location unknown",
       "country": "Country unknown",
@@ -339,7 +339,7 @@
     {
       "id": "Q23010333",
       "title": "Portrait of a Young Lady",
-      "date": "1580",
+      "date": "1560",
       "type": "Painting",
       "attribution": "Accepted",
       "artistId": "sofonisba-anguissola",

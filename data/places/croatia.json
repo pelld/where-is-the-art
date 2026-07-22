@@ -1,0 +1,23 @@
+{
+  "id": "croatia",
+  "country": "Croatia",
+  "artworks": [
+    {
+      "id": "Q21232254",
+      "artistId": "fra-angelico",
+      "artistName": "Fra Angelico",
+      "reviewStatus": "generated",
+      "title": "Stigmatization of St Francis of Assisi and Death of St Peter the Martyr",
+      "date": "1436",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "strossmayer-gallery-of-old-masters-donji-grad",
+      "location": "Strossmayer Gallery of Old Masters",
+      "city": "Donji grad",
+      "country": "Croatia",
+      "lat": 45.8091203,
+      "lon": 15.9785136,
+      "source": "http://www.wikidata.org/entity/Q21232254"
+    }
+  ]
+}

@@ -313,6 +313,30 @@
       }
     },
     {
+      "id": "Q111159150",
+      "title": "Napoleone-Elisa Bacciochi",
+      "date": "1810",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "marie-guillemine-benoist",
+      "artistName": "Marie-Guillemine Benoist",
+      "locationId": "musee-national-du-chateau-de-fontainebleau-fontainebleau",
+      "location": "Musée national du Château de Fontainebleau",
+      "city": "Fontainebleau",
+      "country": "France",
+      "lat": 48.40222,
+      "lon": 2.70056,
+      "source": "http://www.wikidata.org/entity/Q111159150",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Napoleona%20Elisa%20Baciocchi%20by%20Benoist.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q118810",
+        "retrieved": "2026-07-22",
+        "reviewStatus": "generated"
+      }
+    },
+    {
       "id": "Q111444520",
       "title": "Portrait of Raphaël de Casabianca",
       "date": "1807",
@@ -337,54 +361,6 @@
       }
     },
     {
-      "id": "Q111159150",
-      "title": "Napoleone-Elisa Bacciochi",
-      "date": "1810",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "marie-guillemine-benoist",
-      "artistName": "Marie-Guillemine Benoist",
-      "locationId": "museum-of-the-history-of-france-versailles",
-      "location": "Museum of the History of France",
-      "city": "Versailles",
-      "country": "France",
-      "lat": 48.8044,
-      "lon": 2.12197,
-      "source": "http://www.wikidata.org/entity/Q111159150",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Napoleona%20Elisa%20Baciocchi%20by%20Benoist.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q118810",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q19013082",
-      "title": "Portrait of Pauline Bonaparte princess Borghese",
-      "date": "1808",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "marie-guillemine-benoist",
-      "artistName": "Marie-Guillemine Benoist",
-      "locationId": "museum-of-the-history-of-france-versailles",
-      "location": "Museum of the History of France",
-      "city": "Versailles",
-      "country": "France",
-      "lat": 48.8044,
-      "lon": 2.12197,
-      "source": "http://www.wikidata.org/entity/Q19013082",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pauline%20Bonaparte%20princesse%20Borghese.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q118810",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
       "id": "Q111160508",
       "title": "Portrait of Felice Baciocchi",
       "date": "1806",
@@ -401,6 +377,30 @@
       "source": "http://www.wikidata.org/entity/Q111160508",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Felice%20Baciocchi%20by%20Marie-Guillemine%20Benoist.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q118810",
+        "retrieved": "2026-07-22",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q19013082",
+      "title": "Portrait of Pauline Bonaparte princess Borghese",
+      "date": "1808",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "marie-guillemine-benoist",
+      "artistName": "Marie-Guillemine Benoist",
+      "locationId": "palace-of-fontainebleau-fontainebleau",
+      "location": "Palace of Fontainebleau",
+      "city": "Fontainebleau",
+      "country": "France",
+      "lat": 48.402222222,
+      "lon": 2.700555555,
+      "source": "http://www.wikidata.org/entity/Q19013082",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pauline%20Bonaparte%20princesse%20Borghese.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q118810",

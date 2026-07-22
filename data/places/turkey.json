@@ -1,0 +1,57 @@
+{
+  "id": "turkey",
+  "country": "Turkey",
+  "artworks": [
+    {
+      "id": "Q134480377",
+      "artistId": "pierre-bonnard",
+      "artistName": "Pierre Bonnard",
+      "reviewStatus": "generated",
+      "title": "Untitled record",
+      "date": "1907",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "arkas-art-center-konak",
+      "location": "Arkas Art Center",
+      "city": "Konak",
+      "country": "Turkey",
+      "lat": 38.432083333,
+      "lon": 27.136805555,
+      "source": "http://www.wikidata.org/entity/Q134480377"
+    },
+    {
+      "id": "Q134283047",
+      "artistId": "suzanne-valadon",
+      "artistName": "Suzanne Valadon",
+      "reviewStatus": "generated",
+      "title": "Catherine lying naked on a panther skin",
+      "date": "1923",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "arkas-art-center-konak",
+      "location": "Arkas Art Center",
+      "city": "Konak",
+      "country": "Turkey",
+      "lat": 38.432083333,
+      "lon": 27.136805555,
+      "source": "http://www.wikidata.org/entity/Q134283047"
+    },
+    {
+      "id": "Q133310243",
+      "artistId": "suzanne-valadon",
+      "artistName": "Suzanne Valadon",
+      "reviewStatus": "generated",
+      "title": "Mrs. Robert Rey and her daughter Sylvie",
+      "date": "1920",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "arkas-art-center-konak",
+      "location": "Arkas Art Center",
+      "city": "Konak",
+      "country": "Turkey",
+      "lat": 38.432083333,
+      "lon": 27.136805555,
+      "source": "http://www.wikidata.org/entity/Q133310243"
+    }
+  ]
+}

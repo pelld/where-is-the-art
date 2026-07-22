@@ -1,0 +1,40 @@
+{
+  "id": "malta",
+  "country": "Malta",
+  "artworks": [
+    {
+      "id": "Q114103599",
+      "artistId": "francois-boucher",
+      "artistName": "François Boucher",
+      "reviewStatus": "generated",
+      "title": "Pan and Syrinx",
+      "date": "1743",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "muza-valletta",
+      "location": "MUŻA",
+      "city": "Valletta",
+      "country": "Malta",
+      "lat": 35.896389,
+      "lon": 14.511389,
+      "source": "http://www.wikidata.org/entity/Q114103599"
+    },
+    {
+      "id": "Q2727560",
+      "artistId": "caravaggio",
+      "artistName": "Caravaggio",
+      "reviewStatus": "generated",
+      "title": "The Beheading of Saint John the Baptist",
+      "date": "1608",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "st-john-s-co-cathedral-valletta",
+      "location": "St. John's Co-Cathedral",
+      "city": "Valletta",
+      "country": "Malta",
+      "lat": 35.897778,
+      "lon": 14.512778,
+      "source": "http://www.wikidata.org/entity/Q2727560"
+    }
+  ]
+}

@@ -1,54 +1,6 @@
 {
   "artworks": [
     {
-      "id": "Q134348603",
-      "title": "Prophet Zacharias; Angel of The Annunciation",
-      "date": "1432",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "jan-van-eyck",
-      "artistName": "Jan van Eyck",
-      "locationId": "altes-museum-bezirk-mitte",
-      "location": "Altes Museum",
-      "city": "Bezirk Mitte",
-      "country": "Germany",
-      "lat": 52.519444444,
-      "lon": 13.398888888,
-      "source": "http://www.wikidata.org/entity/Q134348603",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20van%20Eyck%20-%20The%20Ghent%20Altarpiece%20-%20Prophet%20Zacharias%2C%20Angel%20of%20the%20Annunciation%20-%20closer%20to%20van%20Eyck.jpeg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q102272",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q112181467",
-      "title": "Prophet Zechariah",
-      "date": "1500",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "jan-van-eyck",
-      "artistName": "Jan van Eyck",
-      "locationId": "altes-museum-bezirk-mitte",
-      "location": "Altes Museum",
-      "city": "Bezirk Mitte",
-      "country": "Germany",
-      "lat": 52.519444444,
-      "lon": 13.398888888,
-      "source": "http://www.wikidata.org/entity/Q112181467",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hubert%20van%20Eyck%20008.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q102272",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
       "id": "Q2308135",
       "title": "Turin-Milan Hours",
       "date": "1420",
@@ -65,30 +17,6 @@
       "source": "http://www.wikidata.org/entity/Q2308135",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/14th-century%20painters%20-%20Les%20Tr%C3%A8s%20Belles%20Heures%20de%20Notre%20Dame%20de%20Jean%20de%20Berry%20-%20WGA16014.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q102272",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q734834",
-      "title": "Ghent Altarpiece",
-      "date": "1432",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "jan-van-eyck",
-      "artistName": "Jan van Eyck",
-      "locationId": "bode-museum-bezirk-mitte",
-      "location": "Bode Museum",
-      "city": "Bezirk Mitte",
-      "country": "Germany",
-      "lat": 52.521944444,
-      "lon": 13.394722222,
-      "source": "http://www.wikidata.org/entity/Q734834",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ghent%20Altarpiece%20by%20Jan%20van%20Eyck%20ALL.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q102272",
@@ -156,8 +84,8 @@
       "location": "Galleria Sabauda",
       "city": "Turin",
       "country": "Italy",
-      "lat": 45.07412,
-      "lon": 7.68618,
+      "lat": 45.074166666,
+      "lon": 7.686111111,
       "source": "http://www.wikidata.org/entity/Q114770904",
       "image": "",
       "externalImage": "",
@@ -361,6 +289,30 @@
       }
     },
     {
+      "id": "Q112181467",
+      "title": "Prophet Zechariah",
+      "date": "1500",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jan-van-eyck",
+      "artistName": "Jan van Eyck",
+      "locationId": "ghent-city-hall-ghent",
+      "location": "Ghent City Hall",
+      "city": "Ghent",
+      "country": "Belgium",
+      "lat": 51.054527,
+      "lon": 3.725274,
+      "source": "http://www.wikidata.org/entity/Q112181467",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hubert%20van%20Eyck%20008.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q102272",
+        "retrieved": "2026-07-22",
+        "reviewStatus": "generated"
+      }
+    },
+    {
       "id": "Q2480921",
       "title": "Madonna with Canon Joris van der Paele",
       "date": "1436",
@@ -554,7 +506,7 @@
     },
     {
       "id": "Q137599158",
-      "title": "Q137599158",
+      "title": "Untitled record",
       "date": "1441",
       "type": "Painting",
       "attribution": "Accepted",
@@ -577,30 +529,6 @@
       }
     },
     {
-      "id": "Q11789743",
-      "title": "Birth of John the Baptist",
-      "date": "1423",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "jan-van-eyck",
-      "artistName": "Jan van Eyck",
-      "locationId": "museo-civico-d-arte-antica-turin",
-      "location": "Museo Civico d'Arte Antica",
-      "city": "Turin",
-      "country": "Italy",
-      "lat": 45.0711,
-      "lon": 7.68548,
-      "source": "http://www.wikidata.org/entity/Q11789743",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/14th-century%20painters%20-%20Les%20Tr%C3%A8s%20Belles%20Heures%20de%20Notre%20Dame%20de%20Jean%20de%20Berry%20-%20WGA16014.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q102272",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
       "id": "Q131922856",
       "title": "Birth of John the Baptist",
       "date": "1420",
@@ -615,6 +543,30 @@
       "lat": 45.0711,
       "lon": 7.68548,
       "source": "http://www.wikidata.org/entity/Q131922856",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/14th-century%20painters%20-%20Les%20Tr%C3%A8s%20Belles%20Heures%20de%20Notre%20Dame%20de%20Jean%20de%20Berry%20-%20WGA16014.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q102272",
+        "retrieved": "2026-07-22",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q11789743",
+      "title": "Birth of John the Baptist",
+      "date": "1423",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jan-van-eyck",
+      "artistName": "Jan van Eyck",
+      "locationId": "museo-civico-d-arte-antica-turin",
+      "location": "Museo Civico d'Arte Antica",
+      "city": "Turin",
+      "country": "Italy",
+      "lat": 45.0711,
+      "lon": 7.68548,
+      "source": "http://www.wikidata.org/entity/Q11789743",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/14th-century%20painters%20-%20Les%20Tr%C3%A8s%20Belles%20Heures%20de%20Notre%20Dame%20de%20Jean%20de%20Berry%20-%20WGA16014.jpg",
       "provenance": {
@@ -824,9 +776,9 @@
       "attribution": "Accepted",
       "artistId": "jan-van-eyck",
       "artistName": "Jan van Eyck",
-      "locationId": "philadelphia-museum-of-art-philadelphia",
+      "locationId": "philadelphia-museum-of-art-philadelphia-county",
       "location": "Philadelphia Museum of Art",
-      "city": "Philadelphia",
+      "city": "Philadelphia County",
       "country": "United States",
       "lat": 39.965833333,
       "lon": -75.181388888,
@@ -1033,6 +985,30 @@
       }
     },
     {
+      "id": "Q734834",
+      "title": "Ghent Altarpiece",
+      "date": "1432",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jan-van-eyck",
+      "artistName": "Jan van Eyck",
+      "locationId": "st-bavo-s-cathedral-ghent",
+      "location": "St Bavo's Cathedral",
+      "city": "Ghent",
+      "country": "Belgium",
+      "lat": 51.052974,
+      "lon": 3.727059,
+      "source": "http://www.wikidata.org/entity/Q734834",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ghent%20Altarpiece%20by%20Jan%20van%20Eyck%20ALL.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q102272",
+        "retrieved": "2026-07-22",
+        "reviewStatus": "generated"
+      }
+    },
+    {
       "id": "Q138185039",
       "title": "John the Baptist",
       "date": "1432",
@@ -1081,8 +1057,8 @@
       }
     },
     {
-      "id": "Q138208046",
-      "title": "Q138208046",
+      "id": "Q134348603",
+      "title": "Prophet Zacharias; Angel of The Annunciation",
       "date": "1432",
       "type": "Painting",
       "attribution": "Accepted",
@@ -1094,9 +1070,9 @@
       "country": "Belgium",
       "lat": 51.052974,
       "lon": 3.727059,
-      "source": "http://www.wikidata.org/entity/Q138208046",
+      "source": "http://www.wikidata.org/entity/Q134348603",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ghent%20Altarpiece%20%28closed%2C%20after%20restoration%29%20%28cropped3%29.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20van%20Eyck%20-%20The%20Ghent%20Altarpiece%20-%20Prophet%20Zacharias%2C%20Angel%20of%20the%20Annunciation%20-%20closer%20to%20van%20Eyck.jpeg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q102272",
@@ -1217,6 +1193,30 @@
       "source": "http://www.wikidata.org/entity/Q138009279",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20and%20Hubert%20van%20Eyck.jpg%20-%20The%20hermits.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q102272",
+        "retrieved": "2026-07-22",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q138208046",
+      "title": "Untitled record",
+      "date": "1432",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jan-van-eyck",
+      "artistName": "Jan van Eyck",
+      "locationId": "st-bavo-s-cathedral-ghent",
+      "location": "St Bavo's Cathedral",
+      "city": "Ghent",
+      "country": "Belgium",
+      "lat": 51.052974,
+      "lon": 3.727059,
+      "source": "http://www.wikidata.org/entity/Q138208046",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ghent%20Altarpiece%20%28closed%2C%20after%20restoration%29%20%28cropped3%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q102272",

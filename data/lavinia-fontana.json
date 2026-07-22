@@ -98,7 +98,7 @@
     },
     {
       "id": "Q130242337",
-      "title": "Q130242337",
+      "title": "Untitled record",
       "date": "1614",
       "type": "Painting",
       "attribution": "Accepted",
@@ -122,7 +122,7 @@
     },
     {
       "id": "Q134520620",
-      "title": "Q134520620",
+      "title": "Untitled record",
       "date": "Date unknown",
       "type": "Painting",
       "attribution": "Accepted",
@@ -185,6 +185,30 @@
       "source": "http://www.wikidata.org/entity/Q138856415",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lavinia%20Fontana%2C%20Ritratto%20di%20Carlo%20Sigonio%2C%20Museo%20Civico%20di%20Modena.png",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q236050",
+        "retrieved": "2026-07-22",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q138034636",
+      "title": "Untitled record",
+      "date": "1590",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "lavinia-fontana",
+      "artistName": "Lavinia Fontana",
+      "locationId": "collection-unknown-washington-d-c",
+      "location": "Collection unknown",
+      "city": "Washington, D.C.",
+      "country": "United States",
+      "lat": 38.891388888,
+      "lon": -77.02,
+      "source": "http://www.wikidata.org/entity/Q138034636",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucia%20Bonasoni%20Garzoni%2C%20par%20Lavinia%20Fontana.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q236050",
@@ -290,7 +314,7 @@
     },
     {
       "id": "Q138041402",
-      "title": "Q138041402",
+      "title": "Untitled record",
       "date": "1591",
       "type": "Painting",
       "attribution": "Accepted",
@@ -482,7 +506,7 @@
     },
     {
       "id": "Q134516019",
-      "title": "Q134516019",
+      "title": "Untitled record",
       "date": "1575",
       "type": "Painting",
       "attribution": "Accepted",
@@ -506,7 +530,7 @@
     },
     {
       "id": "Q134289624",
-      "title": "Q134289624",
+      "title": "Untitled record",
       "date": "1586",
       "type": "Painting",
       "attribution": "Accepted",
@@ -530,7 +554,7 @@
     },
     {
       "id": "Q133451713",
-      "title": "Q133451713",
+      "title": "Untitled record",
       "date": "1575",
       "type": "Painting",
       "attribution": "Accepted",
@@ -626,7 +650,7 @@
     },
     {
       "id": "Q115670571",
-      "title": "Q115670571",
+      "title": "Untitled record",
       "date": "1600",
       "type": "Painting",
       "attribution": "Accepted",
@@ -656,9 +680,9 @@
       "attribution": "Accepted",
       "artistId": "lavinia-fontana",
       "artistName": "Lavinia Fontana",
-      "locationId": "musee-thomas-henry-cherbourg-octeville",
+      "locationId": "musee-thomas-henry-cherbourg-en-cotentin",
       "location": "Musée Thomas-Henry",
-      "city": "Cherbourg-Octeville",
+      "city": "Cherbourg-en-Cotentin",
       "country": "France",
       "lat": 49.63722222,
       "lon": -1.62305556,
@@ -770,7 +794,7 @@
     },
     {
       "id": "Q134528987",
-      "title": "Q134528987",
+      "title": "Untitled record",
       "date": "1574",
       "type": "Painting",
       "attribution": "Accepted",
@@ -929,30 +953,6 @@
       "source": "http://www.wikidata.org/entity/Q30593933",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20Famille%20Gozzadini%2C%20par%20Lavinia%20Fontana.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q236050",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q138034636",
-      "title": "Q138034636",
-      "date": "1590",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "lavinia-fontana",
-      "artistName": "Lavinia Fontana",
-      "locationId": "q214867-washington-d-c",
-      "location": "Q214867",
-      "city": "Washington, D.C.",
-      "country": "United States",
-      "lat": 38.891388888,
-      "lon": -77.02,
-      "source": "http://www.wikidata.org/entity/Q138034636",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucia%20Bonasoni%20Garzoni%2C%20par%20Lavinia%20Fontana.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q236050",
@@ -1130,7 +1130,7 @@
     },
     {
       "id": "Q133272547",
-      "title": "Q133272547",
+      "title": "Untitled record",
       "date": "1579",
       "type": "Painting",
       "attribution": "Accepted",

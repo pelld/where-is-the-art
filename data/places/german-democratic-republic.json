@@ -1,0 +1,23 @@
+{
+  "id": "german-democratic-republic",
+  "country": "German Democratic Republic",
+  "artworks": [
+    {
+      "id": "Q116962342",
+      "artistId": "lucas-cranach-the-elder",
+      "artistName": "Lucas Cranach the Elder",
+      "reviewStatus": "generated",
+      "title": "Portrait Study of Count Philipp of Solms-Lich",
+      "date": "1520",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "city-museum-bautzen-bautzen",
+      "location": "City Museum Bautzen",
+      "city": "Bautzen",
+      "country": "German Democratic Republic",
+      "lat": 51.1802,
+      "lon": 14.4271,
+      "source": "http://www.wikidata.org/entity/Q116962342"
+    }
+  ]
+}

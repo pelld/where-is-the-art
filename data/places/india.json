@@ -1,0 +1,40 @@
+{
+  "id": "india",
+  "country": "India",
+  "artworks": [
+    {
+      "id": "Q100366541",
+      "artistId": "turner",
+      "artistName": "J. M. W. Turner",
+      "reviewStatus": "generated",
+      "title": "Snow range from Tyne or Marma",
+      "date": "Date unknown",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "national-gallery-of-modern-art-new-delhi",
+      "location": "National Gallery of Modern Art",
+      "city": "New Delhi",
+      "country": "India",
+      "lat": 28.610182,
+      "lon": 77.234401,
+      "source": "http://www.wikidata.org/entity/Q100366541"
+    },
+    {
+      "id": "Q54502057",
+      "artistId": "anthony-van-dyck",
+      "artistName": "Anthony van Dyck",
+      "reviewStatus": "generated",
+      "title": "Portrait of Frederic Marselaer",
+      "date": "1633",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "baroda-museum-and-picture-gallery-vadodara",
+      "location": "Baroda Museum & Picture Gallery",
+      "city": "Vadodara",
+      "country": "India",
+      "lat": 22.3119,
+      "lon": 73.1886,
+      "source": "http://www.wikidata.org/entity/Q54502057"
+    }
+  ]
+}

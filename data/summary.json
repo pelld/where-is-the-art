@@ -2,22 +2,22 @@
   {
     "id": "gwen-john",
     "status": "complete",
-    "records": 88,
+    "records": 90,
     "locations": 29,
     "defaultLocationId": "art-gallery-of-south-australia-adelaide"
   },
   {
     "id": "romaine-brooks",
     "status": "complete",
-    "records": 30,
+    "records": 29,
     "locations": 5,
     "defaultLocationId": "musee-carnavalet-3rd-arrondissement-of-paris"
   },
   {
     "id": "tamara-de-lempicka",
     "status": "complete",
-    "records": 30,
-    "locations": 13,
+    "records": 29,
+    "locations": 14,
     "defaultLocationId": "grimaldi-castle-museum-cagnes-sur-mer"
   }
 ]

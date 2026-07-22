@@ -97,6 +97,30 @@
       }
     },
     {
+      "id": "Q16596981",
+      "title": "Portrait of a Young Man",
+      "date": "1430",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "paolo-uccello",
+      "artistName": "Paolo Uccello",
+      "locationId": "collection-unknown-indianapolis",
+      "location": "Collection unknown",
+      "city": "Indianapolis",
+      "country": "United States",
+      "lat": 39.826019,
+      "lon": -86.185655,
+      "source": "http://www.wikidata.org/entity/Q16596981",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20uccello%2C%20ritratto%20di%20giovane%20di%20indianapolis.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q192488",
+        "retrieved": "2026-07-22",
+        "reviewStatus": "generated"
+      }
+    },
+    {
       "id": "Q3949271",
       "title": "Saint and Two Children, Fragment",
       "date": "1435",
@@ -218,7 +242,7 @@
     },
     {
       "id": "Q31048051",
-      "title": "Q31048051",
+      "title": "Untitled record",
       "date": "1440",
       "type": "Painting",
       "attribution": "Accepted",
@@ -769,30 +793,6 @@
       }
     },
     {
-      "id": "Q16596981",
-      "title": "Portrait of a Young Man",
-      "date": "1430",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "paolo-uccello",
-      "artistName": "Paolo Uccello",
-      "locationId": "q1117704-indianapolis",
-      "location": "Q1117704",
-      "city": "Indianapolis",
-      "country": "United States",
-      "lat": 39.826019,
-      "lon": -86.185655,
-      "source": "http://www.wikidata.org/entity/Q16596981",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20uccello%2C%20ritratto%20di%20giovane%20di%20indianapolis.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q192488",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
       "id": "Q121599908",
       "title": "Madonna with Child",
       "date": "1430",
@@ -842,7 +842,7 @@
     },
     {
       "id": "Q3974449",
-      "title": "Q3974449",
+      "title": "Untitled record",
       "date": "1447",
       "type": "Painting",
       "attribution": "Accepted",

@@ -1,0 +1,23 @@
+{
+  "id": "people-s-republic-of-china",
+  "country": "People's Republic of China",
+  "artworks": [
+    {
+      "id": "Q3877556",
+      "artistId": "amedeo-modigliani",
+      "artistName": "Amedeo Modigliani",
+      "reviewStatus": "generated",
+      "title": "Nu couché",
+      "date": "1917",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "long-museum-shanghai",
+      "location": "Long Museum",
+      "city": "Shanghai",
+      "country": "People's Republic of China",
+      "lat": 31.21811,
+      "lon": 121.569761,
+      "source": "http://www.wikidata.org/entity/Q3877556"
+    }
+  ]
+}

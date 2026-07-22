@@ -1,0 +1,57 @@
+{
+  "id": "azerbaijan",
+  "country": "Azerbaijan",
+  "artworks": [
+    {
+      "id": "Q66866724",
+      "artistId": "jean-honore-fragonard",
+      "artistName": "Jean-Honoré Fragonard",
+      "reviewStatus": "generated",
+      "title": "Pastoral",
+      "date": "1850",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "national-art-museum-of-azerbaijan-baku",
+      "location": "National Art Museum of Azerbaijan",
+      "city": "Baku",
+      "country": "Azerbaijan",
+      "lat": 40.363174,
+      "lon": 49.831742,
+      "source": "http://www.wikidata.org/entity/Q66866724"
+    },
+    {
+      "id": "Q66829562",
+      "artistId": "titian",
+      "artistName": "Titian",
+      "reviewStatus": "generated",
+      "title": "Portrait of Pope Paul III",
+      "date": "1540",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "national-art-museum-of-azerbaijan-baku",
+      "location": "National Art Museum of Azerbaijan",
+      "city": "Baku",
+      "country": "Azerbaijan",
+      "lat": 40.36306,
+      "lon": 49.83167,
+      "source": "http://www.wikidata.org/entity/Q66829562"
+    },
+    {
+      "id": "Q18709514",
+      "artistId": "wassily-kandinsky",
+      "artistName": "Wassily Kandinsky",
+      "reviewStatus": "generated",
+      "title": "A Riding Amazon",
+      "date": "1911",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "national-art-museum-of-azerbaijan-baku",
+      "location": "National Art Museum of Azerbaijan",
+      "city": "Baku",
+      "country": "Azerbaijan",
+      "lat": 40.36306,
+      "lon": 49.83167,
+      "source": "http://www.wikidata.org/entity/Q18709514"
+    }
+  ]
+}

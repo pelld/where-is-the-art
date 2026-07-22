@@ -1,0 +1,23 @@
+{
+  "id": "slovenia",
+  "country": "Slovenia",
+  "artworks": [
+    {
+      "id": "Q28004358",
+      "artistId": "tintoretto",
+      "artistName": "Tintoretto",
+      "reviewStatus": "generated",
+      "title": "The Vision of Saint Nicholas",
+      "date": "1582",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "novo-mesto-cathedral-city-municipality-of-novo-mesto",
+      "location": "Novo Mesto Cathedral",
+      "city": "City Municipality of Novo Mesto",
+      "country": "Slovenia",
+      "lat": 45.803360516,
+      "lon": 15.166842576,
+      "source": "http://www.wikidata.org/entity/Q28004358"
+    }
+  ]
+}

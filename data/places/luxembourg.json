@@ -1,0 +1,57 @@
+{
+  "id": "luxembourg",
+  "country": "Luxembourg",
+  "artworks": [
+    {
+      "id": "Q115496172",
+      "artistId": "turner",
+      "artistName": "J. M. W. Turner",
+      "reviewStatus": "generated",
+      "title": "Untitled record",
+      "date": "Date unknown",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "national-museum-of-archeology-history-and-art-luxembourg",
+      "location": "National Museum of Archeology, History and Art",
+      "city": "Luxembourg",
+      "country": "Luxembourg",
+      "lat": 49.611944444,
+      "lon": 6.133055555,
+      "source": "http://www.wikidata.org/entity/Q115496172"
+    },
+    {
+      "id": "Q112227480",
+      "artistId": "lucas-cranach-the-elder",
+      "artistName": "Lucas Cranach the Elder",
+      "reviewStatus": "generated",
+      "title": "Charity",
+      "date": "1600",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "national-museum-of-archeology-history-and-art-luxembourg",
+      "location": "National Museum of Archeology, History and Art",
+      "city": "Luxembourg",
+      "country": "Luxembourg",
+      "lat": 49.611944444,
+      "lon": 6.133055555,
+      "source": "http://www.wikidata.org/entity/Q112227480"
+    },
+    {
+      "id": "Q92082384",
+      "artistId": "eugene-delacroix",
+      "artistName": "Eugène Delacroix",
+      "reviewStatus": "generated",
+      "title": "Untitled record",
+      "date": "1825",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "villa-vauban-luxembourg",
+      "location": "Villa Vauban",
+      "city": "Luxembourg",
+      "country": "Luxembourg",
+      "lat": 49.61305556,
+      "lon": 6.1225,
+      "source": "http://www.wikidata.org/entity/Q92082384"
+    }
+  ]
+}

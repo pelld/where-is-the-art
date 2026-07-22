@@ -1,0 +1,57 @@
+{
+  "id": "taiwan",
+  "country": "Taiwan",
+  "artworks": [
+    {
+      "id": "Q118541505",
+      "artistId": "francois-boucher",
+      "artistName": "François Boucher",
+      "reviewStatus": "generated",
+      "title": "Le billet doux",
+      "date": "1757",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "chimei-museum-rende-district",
+      "location": "Chimei Museum",
+      "city": "Rende District",
+      "country": "Taiwan",
+      "lat": 22.92666667,
+      "lon": 120.24361111,
+      "source": "http://www.wikidata.org/entity/Q118541505"
+    },
+    {
+      "id": "Q110916894",
+      "artistId": "gustave-courbet",
+      "artistName": "Gustave Courbet",
+      "reviewStatus": "generated",
+      "title": "Loue Vally in Ornans",
+      "date": "Date unknown",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "chimei-museum-rende-district",
+      "location": "Chimei Museum",
+      "city": "Rende District",
+      "country": "Taiwan",
+      "lat": 22.92666667,
+      "lon": 120.24361111,
+      "source": "http://www.wikidata.org/entity/Q110916894"
+    },
+    {
+      "id": "Q110916893",
+      "artistId": "jean-baptiste-camille-corot",
+      "artistName": "Jean-Baptiste-Camille Corot",
+      "reviewStatus": "generated",
+      "title": "Boatman by the Island",
+      "date": "Date unknown",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "chimei-museum-rende-district",
+      "location": "Chimei Museum",
+      "city": "Rende District",
+      "country": "Taiwan",
+      "lat": 22.92666667,
+      "lon": 120.24361111,
+      "source": "http://www.wikidata.org/entity/Q110916893"
+    }
+  ]
+}

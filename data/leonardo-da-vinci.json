@@ -8,9 +8,9 @@
       "attribution": "Accepted",
       "artistId": "leonardo-da-vinci",
       "artistName": "Leonardo da Vinci",
-      "locationId": "albertina-innere-stadt",
+      "locationId": "albertina-vienna",
       "location": "Albertina",
-      "city": "Innere Stadt",
+      "city": "Vienna",
       "country": "Austria",
       "lat": 48.204561111,
       "lon": 16.368319444,
@@ -200,7 +200,7 @@
       "attribution": "Accepted",
       "artistId": "leonardo-da-vinci",
       "artistName": "Leonardo da Vinci",
-      "locationId": "beaux-arts-de-paris",
+      "locationId": "beaux-arts-de-paris-location-unknown",
       "location": "Beaux-Arts de Paris",
       "city": "Location unknown",
       "country": "Country unknown",
@@ -224,7 +224,7 @@
       "attribution": "Accepted",
       "artistId": "leonardo-da-vinci",
       "artistName": "Leonardo da Vinci",
-      "locationId": "beaux-arts-de-paris",
+      "locationId": "beaux-arts-de-paris-location-unknown",
       "location": "Beaux-Arts de Paris",
       "city": "Location unknown",
       "country": "Country unknown",
@@ -265,7 +265,7 @@
       }
     },
     {
-      "id": "Q139567107",
+      "id": "Q139567108",
       "title": "Architectural Designs for the Casa Guiscardi",
       "date": "Date unknown",
       "type": "Painting",
@@ -278,9 +278,9 @@
       "country": "Italy",
       "lat": 45.463479,
       "lon": 9.185788,
-      "source": "http://www.wikidata.org/entity/Q139567107",
+      "source": "http://www.wikidata.org/entity/Q139567108",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Codex%20Atlanticus%20-%20000R-426.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Codex%20Atlanticus%20-%20000V-426.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q762",
@@ -625,7 +625,7 @@
       }
     },
     {
-      "id": "Q139567173",
+      "id": "Q139567643",
       "title": "Design for a Catapult",
       "date": "Date unknown",
       "type": "Painting",
@@ -638,9 +638,9 @@
       "country": "Italy",
       "lat": 45.463479,
       "lon": 9.185788,
-      "source": "http://www.wikidata.org/entity/Q139567173",
+      "source": "http://www.wikidata.org/entity/Q139567643",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Codex%20Atlanticus%20-%20000R-182a.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Codex%20Atlanticus%20-%20000R-148.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q762",
@@ -1009,7 +1009,7 @@
       }
     },
     {
-      "id": "Q136389625",
+      "id": "Q139567062",
       "title": "Head of an Old Man in Profile",
       "date": "Date unknown",
       "type": "Painting",
@@ -1022,9 +1022,9 @@
       "country": "Italy",
       "lat": 45.463479,
       "lon": 9.185788,
-      "source": "http://www.wikidata.org/entity/Q136389625",
+      "source": "http://www.wikidata.org/entity/Q139567062",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Leonardo%20da%20Vinci%20-%20Bust%20of%20a%20Man%2C%20in%20Profile%2C%20Facing%20Right%2C%201604.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Leonardo%20da%20Vinci%20-%20Profile%20Head%20of%20an%20Elderly%20Man%2C%201080.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q762",
@@ -1153,7 +1153,7 @@
       }
     },
     {
-      "id": "Q139567160",
+      "id": "Q139567161",
       "title": "Machine for Manufacturing Ropes",
       "date": "Date unknown",
       "type": "Painting",
@@ -1166,9 +1166,9 @@
       "country": "Italy",
       "lat": 45.463479,
       "lon": 9.185788,
-      "source": "http://www.wikidata.org/entity/Q139567160",
+      "source": "http://www.wikidata.org/entity/Q139567161",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Codex%20Atlanticus%20-%20000R-12.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Codex%20Atlanticus%20-%20000R-13.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q762",
@@ -1249,7 +1249,7 @@
       }
     },
     {
-      "id": "Q139567169",
+      "id": "Q139567171",
       "title": "Military Machine to Catapult Stones",
       "date": "Date unknown",
       "type": "Painting",
@@ -1262,9 +1262,9 @@
       "country": "Italy",
       "lat": 45.463479,
       "lon": 9.185788,
-      "source": "http://www.wikidata.org/entity/Q139567169",
+      "source": "http://www.wikidata.org/entity/Q139567171",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Codex%20Atlanticus%20-%20000R-159.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Codex%20Atlanticus%20-%20000R-160b.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q762",
@@ -1921,7 +1921,7 @@
       }
     },
     {
-      "id": "Q139565710",
+      "id": "Q139565708",
       "title": "Cartographic Study of the Canal Network branching off from the Arno River, around Pisa",
       "date": "1503",
       "type": "Painting",
@@ -1934,9 +1934,9 @@
       "country": "Spain",
       "lat": 40.423822,
       "lon": -3.690215,
-      "source": "http://www.wikidata.org/entity/Q139565710",
+      "source": "http://www.wikidata.org/entity/Q139565708",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Codex%20Madrid%20II%2C%20folio%20053%20recto.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Codex%20Madrid%20II%2C%20folio%20052%20verso.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q762",
@@ -2593,7 +2593,7 @@
       }
     },
     {
-      "id": "Q139567630",
+      "id": "Q139567632",
       "title": "Study of the Wooden Framework with Casting Mould for the Sforza Horse",
       "date": "Date unknown",
       "type": "Painting",
@@ -2606,9 +2606,9 @@
       "country": "Spain",
       "lat": 40.423822,
       "lon": -3.690215,
-      "source": "http://www.wikidata.org/entity/Q139567630",
+      "source": "http://www.wikidata.org/entity/Q139567632",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Codex%20Madrid%20II%2C%20folio%20157%20verso.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Codex%20Madrid%20II%2C%20folio%20155%20verso.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q762",
@@ -3169,7 +3169,7 @@
       }
     },
     {
-      "id": "Q139567103",
+      "id": "Q139567099",
       "title": "Studies for a Building on a Centralized Plan",
       "date": "Date unknown",
       "type": "Painting",
@@ -3182,9 +3182,9 @@
       "country": "France",
       "lat": 48.857318,
       "lon": 2.336912,
-      "source": "http://www.wikidata.org/entity/Q139567103",
+      "source": "http://www.wikidata.org/entity/Q139567099",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Leonardo%20da%20Vinci%20-%2019-553991.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Leonardo%20da%20Vinci%20-%2019-540149.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q762",
@@ -3217,7 +3217,7 @@
       }
     },
     {
-      "id": "Q139566946",
+      "id": "Q139566947",
       "title": "Studies for a Building on a Centralized Plan and Sketches of a Fortress",
       "date": "Date unknown",
       "type": "Painting",
@@ -3230,9 +3230,9 @@
       "country": "France",
       "lat": 48.857318,
       "lon": 2.336912,
-      "source": "http://www.wikidata.org/entity/Q139566946",
+      "source": "http://www.wikidata.org/entity/Q139566947",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Leonardo%20da%20Vinci%20-%2019-553977.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Leonardo%20da%20Vinci%20-%2019-553978.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q762",
@@ -3481,7 +3481,7 @@
       }
     },
     {
-      "id": "Q139567180",
+      "id": "Q136390175",
       "title": "Study of Halberds",
       "date": "Date unknown",
       "type": "Painting",
@@ -3494,9 +3494,9 @@
       "country": "France",
       "lat": 48.857318,
       "lon": 2.336912,
-      "source": "http://www.wikidata.org/entity/Q139567180",
+      "source": "http://www.wikidata.org/entity/Q136390175",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Leonardo%20da%20Vinci%20-%2019-544976.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Leonardo%20da%20Vinci%20-%2019-544972.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q762",
@@ -3856,7 +3856,7 @@
       "lon": -0.126944444,
       "source": "http://www.wikidata.org/entity/Q131557873",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Leonardo%20da%20Vinci%20-%201860%2C0616.99%2C%20Studies%20of%20military%20tank-like%20machines.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Leonardo%20da%20Vinci%20-%201860%2C0616.99%2C%20Studies%20of%20military%20tank-like%20machines%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q762",
@@ -3937,7 +3937,7 @@
       }
     },
     {
-      "id": "Q136389557",
+      "id": "Q136389555",
       "title": "Sketches of a Child with a Cat",
       "date": "Date unknown",
       "type": "Painting",
@@ -3950,9 +3950,9 @@
       "country": "United Kingdom",
       "lat": 51.519444444,
       "lon": -0.126944444,
-      "source": "http://www.wikidata.org/entity/Q136389557",
+      "source": "http://www.wikidata.org/entity/Q136389555",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Leonardo%20da%20Vinci%20-%201857%2C0110.1%2C%20Three%20studies%20of%20the%20Christ%20Child%20with%20a%20cat%2C%20and%20one%20study%20of%20a%20cat.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Leonardo%20da%20Vinci%20-%201857%2C0110.1%2C%20Verso%20A%20study%20of%20the%20Child%2C%20one%20of%20the%20Virgin%20and%20Child%20with%20a%20cat%2C%20and%20one%20of%20a%20cat.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q762",
@@ -4393,30 +4393,6 @@
       }
     },
     {
-      "id": "Q136389468",
-      "title": "Sleeve study for the Annunciation",
-      "date": "1470",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "leonardo-da-vinci",
-      "artistName": "Leonardo da Vinci",
-      "locationId": "christ-church-oxford",
-      "location": "Christ Church",
-      "city": "Oxford",
-      "country": "United Kingdom",
-      "lat": 51.7502,
-      "lon": -1.25585,
-      "source": "http://www.wikidata.org/entity/Q136389468",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Leonardo%20da%20vinci%2C%20Sleeve%20study%20for%20the%20Annunciation.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q762",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
       "id": "Q119840740",
       "title": "The Virgin with the Child, with Cherries and a Cherry Tree in the Background",
       "date": "Date unknown",
@@ -4481,6 +4457,150 @@
       "source": "http://www.wikidata.org/entity/Q9144771",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Leonardo%20da%20Vinci%20-%20unknown%20drawing%20of%20androgyn%20corpus%20with%20two%20heads.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q762",
+        "retrieved": "2026-07-22",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q136389468",
+      "title": "Sleeve study for the Annunciation",
+      "date": "1470",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "leonardo-da-vinci",
+      "artistName": "Leonardo da Vinci",
+      "locationId": "christ-church-picture-gallery-oxford",
+      "location": "Christ Church Picture Gallery",
+      "city": "Oxford",
+      "country": "United Kingdom",
+      "lat": 51.7507,
+      "lon": -1.2545,
+      "source": "http://www.wikidata.org/entity/Q136389468",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Leonardo%20da%20vinci%2C%20Sleeve%20study%20for%20the%20Annunciation.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q762",
+        "retrieved": "2026-07-22",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q79052262",
+      "title": "A Miracle of Saint Donatus of Arezzo",
+      "date": "1477",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "leonardo-da-vinci",
+      "artistName": "Leonardo da Vinci",
+      "locationId": "collection-unknown-worcester",
+      "location": "Collection unknown",
+      "city": "Worcester",
+      "country": "United States",
+      "lat": 42.273055555,
+      "lon": -71.802222222,
+      "source": "http://www.wikidata.org/entity/Q79052262",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Attributed%20to%20Leonardo%20da%20Vinci%20and%20Lorenzo%20di%20Credi%20A%20Miracle%20of%20Saint%20Donatus%20of%20Arezzo%201475-1479.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q762",
+        "retrieved": "2026-07-22",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q1267893",
+      "title": "Ginevra de' Benci",
+      "date": "1476",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "leonardo-da-vinci",
+      "artistName": "Leonardo da Vinci",
+      "locationId": "collection-unknown-washington-d-c",
+      "location": "Collection unknown",
+      "city": "Washington, D.C.",
+      "country": "United States",
+      "lat": 38.891388888,
+      "lon": -77.02,
+      "source": "http://www.wikidata.org/entity/Q1267893",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ginevra%20de%27%20Benci%20-%20National%20Gallery%20of%20Art.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q762",
+        "retrieved": "2026-07-22",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q64592974",
+      "title": "Sheet of Studies [recto]",
+      "date": "1470",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "leonardo-da-vinci",
+      "artistName": "Leonardo da Vinci",
+      "locationId": "collection-unknown-washington-d-c",
+      "location": "Collection unknown",
+      "city": "Washington, D.C.",
+      "country": "United States",
+      "lat": 38.891388888,
+      "lon": -77.02,
+      "source": "http://www.wikidata.org/entity/Q64592974",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Leonardo%20da%20Vinci%2C%20Sheet%20of%20Studies%20%28recto%29%2C%20probably%201470-1480%2C%20NGA%2074163.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q762",
+        "retrieved": "2026-07-22",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q64592975",
+      "title": "Study of a Madonna [verso]",
+      "date": "1470",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "leonardo-da-vinci",
+      "artistName": "Leonardo da Vinci",
+      "locationId": "collection-unknown-washington-d-c",
+      "location": "Collection unknown",
+      "city": "Washington, D.C.",
+      "country": "United States",
+      "lat": 38.891388888,
+      "lon": -77.02,
+      "source": "http://www.wikidata.org/entity/Q64592975",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Leonardo%20da%20Vinci%2C%20Study%20of%20a%20Madonna%20%28verso%29%2C%20probably%201470-1480%2C%20NGA%2074164.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q762",
+        "retrieved": "2026-07-22",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q20174114",
+      "title": "Wreath of Laurel, Palm, and Juniper with a Scroll inscribed Virtutem Forma Decorat [reverse]",
+      "date": "1474",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "leonardo-da-vinci",
+      "artistName": "Leonardo da Vinci",
+      "locationId": "collection-unknown-washington-d-c",
+      "location": "Collection unknown",
+      "city": "Washington, D.C.",
+      "country": "United States",
+      "lat": 38.891388888,
+      "lon": -77.02,
+      "source": "http://www.wikidata.org/entity/Q20174114",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Leonardo%20da%20Vinci%20-%20Wreath%20of%20Laurel%2C%20Palm%2C%20and%20Juniper%20with%20a%20Scroll%20inscribed%20Virtutem%20Forum%20Decorat%20%28reverse%29%20-%20Google%20Art%20Project.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q762",
@@ -4616,7 +4736,7 @@
       "attribution": "Accepted",
       "artistId": "leonardo-da-vinci",
       "artistName": "Leonardo da Vinci",
-      "locationId": "fondation-custodia",
+      "locationId": "fondation-custodia-location-unknown",
       "location": "Fondation Custodia",
       "city": "Location unknown",
       "country": "Country unknown",
@@ -4625,6 +4745,30 @@
       "source": "http://www.wikidata.org/entity/Q116469708",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Leonardo%20da%20Vinci%20-%20Study%20of%20Drapery%2C%20c1475-1482%20-Fondation%20Custodia%206632.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q762",
+        "retrieved": "2026-07-22",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q3373694",
+      "title": "Arno Landscape",
+      "date": "1473",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "leonardo-da-vinci",
+      "artistName": "Leonardo da Vinci",
+      "locationId": "gabinetto-dei-disegni-e-delle-stampe-florence",
+      "location": "Gabinetto dei disegni e delle stampe",
+      "city": "Florence",
+      "country": "Italy",
+      "lat": 43.768997,
+      "lon": 11.256379,
+      "source": "http://www.wikidata.org/entity/Q3373694",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paisagem%20do%20Arno%20-%20Leonardo%20da%20Vinci.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q762",
@@ -4705,6 +4849,30 @@
       }
     },
     {
+      "id": "Q131561186",
+      "title": "Drawing of Two Heads in Profile and Studies of Machines",
+      "date": "1478",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "leonardo-da-vinci",
+      "artistName": "Leonardo da Vinci",
+      "locationId": "gabinetto-dei-disegni-e-delle-stampe-florence",
+      "location": "Gabinetto dei disegni e delle stampe",
+      "city": "Florence",
+      "country": "Italy",
+      "lat": 43.768997,
+      "lon": 11.256379,
+      "source": "http://www.wikidata.org/entity/Q131561186",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Leonardo%20da%20Vinci%20-%20inv%20446%20E%20v.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q762",
+        "retrieved": "2026-07-22",
+        "reviewStatus": "generated"
+      }
+    },
+    {
       "id": "Q136390147",
       "title": "Mechanism for Drawing Crossbows",
       "date": "Date unknown",
@@ -4721,6 +4889,78 @@
       "source": "http://www.wikidata.org/entity/Q136390147",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Leonardo%20da%20Vinci%20-%20inv%20446%20E%20v.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q762",
+        "retrieved": "2026-07-22",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q131561185",
+      "title": "Perspective Study for the Background of the Adoration of the Magi",
+      "date": "1481",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "leonardo-da-vinci",
+      "artistName": "Leonardo da Vinci",
+      "locationId": "gabinetto-dei-disegni-e-delle-stampe-florence",
+      "location": "Gabinetto dei disegni e delle stampe",
+      "city": "Florence",
+      "country": "Italy",
+      "lat": 43.768997,
+      "lon": 11.256379,
+      "source": "http://www.wikidata.org/entity/Q131561185",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Leonardo%20study%20AdorationofMagi.JPG",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q762",
+        "retrieved": "2026-07-22",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q131561180",
+      "title": "Studies for a Madonna with a Cat",
+      "date": "Date unknown",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "leonardo-da-vinci",
+      "artistName": "Leonardo da Vinci",
+      "locationId": "gabinetto-dei-disegni-e-delle-stampe-florence",
+      "location": "Gabinetto dei disegni e delle stampe",
+      "city": "Florence",
+      "country": "Italy",
+      "lat": 43.768997,
+      "lon": 11.256379,
+      "source": "http://www.wikidata.org/entity/Q131561180",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Leonardo%20da%20Vinci%20-%20inv%20421%20E%20v.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q762",
+        "retrieved": "2026-07-22",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q131561181",
+      "title": "Studies of an Old Man and a Youth (Salai?) in Profile, Facing each Other",
+      "date": "Date unknown",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "leonardo-da-vinci",
+      "artistName": "Leonardo da Vinci",
+      "locationId": "gabinetto-dei-disegni-e-delle-stampe-florence",
+      "location": "Gabinetto dei disegni e delle stampe",
+      "city": "Florence",
+      "country": "Italy",
+      "lat": 43.768997,
+      "lon": 11.256379,
+      "source": "http://www.wikidata.org/entity/Q131561181",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Leonardo%20da%20vinci%2C%20Heads%20of%20an%20old%20man%20and%20a%20youth.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q762",
@@ -5041,7 +5281,7 @@
       }
     },
     {
-      "id": "Q136389495",
+      "id": "Q136389496",
       "title": "Study of Horsemen in Combat and Foot Soldiers",
       "date": "Date unknown",
       "type": "Painting",
@@ -5054,9 +5294,9 @@
       "country": "Italy",
       "lat": 45.431078,
       "lon": 12.328139,
-      "source": "http://www.wikidata.org/entity/Q136389495",
+      "source": "http://www.wikidata.org/entity/Q136389496",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Leonardo%20da%20vinci%2C%20Study%20of%20battles%20on%20horseback%20and%20on%20foot%2002.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Leonardo%20da%20Vinci%20-%20mischia%20tra%20cavalieri%20e%20pedoni%20%28216%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q762",
@@ -5512,7 +5752,7 @@
       "lon": -73.963333333,
       "source": "http://www.wikidata.org/entity/Q29384842",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Compositional%20Sketches%20for%20the%20Virgin%20Adoring%20the%20Christ%20Child%2C%20with%20and%20without%20the%20Infant%20St.%20John%20the%20Baptist%3B%20Diagram%20of%20a%20Perspectival%20Projection%20%28recto%29%3B%20Slight%20Doodles%20%28verso%29%20MET%20dp17.142.1v.R.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Compositional%20Sketches%20for%20the%20Virgin%20Adoring%20the%20Christ%20Child%2C%20with%20and%20without%20the%20Infant%20St.%20John%20the%20Baptist%3B%20Diagram%20of%20a%20Perspectival%20Projection%20%28recto%29%3B%20Slight%20Doodles%20%28verso%29%20MET%20DP136369.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q762",
@@ -5536,7 +5776,7 @@
       "lon": -73.963333333,
       "source": "http://www.wikidata.org/entity/Q29385294",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/A%20Bear%20Walking%20MET%20DT3181.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/A%20Bear%20Walking%20MET%20DT727.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q762",
@@ -5738,7 +5978,7 @@
     },
     {
       "id": "Q123575150",
-      "title": "Q123575150",
+      "title": "Untitled record",
       "date": "1801",
       "type": "Painting",
       "attribution": "Accepted",
@@ -6051,7 +6291,7 @@
     {
       "id": "Q4009972",
       "title": "Virgin of the Rocks",
-      "date": "1494",
+      "date": "1500",
       "type": "Painting",
       "attribution": "Accepted",
       "artistId": "leonardo-da-vinci",
@@ -6233,126 +6473,6 @@
       "source": "http://www.wikidata.org/entity/Q972196",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Leonardo%20da%20Vinci%20%E2%80%94%20Jerome.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q762",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q1267893",
-      "title": "Ginevra de' Benci",
-      "date": "1476",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "leonardo-da-vinci",
-      "artistName": "Leonardo da Vinci",
-      "locationId": "q214867-washington-d-c",
-      "location": "Q214867",
-      "city": "Washington, D.C.",
-      "country": "United States",
-      "lat": 38.891388888,
-      "lon": -77.02,
-      "source": "http://www.wikidata.org/entity/Q1267893",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ginevra%20de%27%20Benci%20-%20National%20Gallery%20of%20Art.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q762",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q64592974",
-      "title": "Sheet of Studies [recto]",
-      "date": "1470",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "leonardo-da-vinci",
-      "artistName": "Leonardo da Vinci",
-      "locationId": "q214867-washington-d-c",
-      "location": "Q214867",
-      "city": "Washington, D.C.",
-      "country": "United States",
-      "lat": 38.891388888,
-      "lon": -77.02,
-      "source": "http://www.wikidata.org/entity/Q64592974",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Leonardo%20da%20Vinci%2C%20Sheet%20of%20Studies%20%28recto%29%2C%20probably%201470-1480%2C%20NGA%2074163.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q762",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q64592975",
-      "title": "Study of a Madonna [verso]",
-      "date": "1470",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "leonardo-da-vinci",
-      "artistName": "Leonardo da Vinci",
-      "locationId": "q214867-washington-d-c",
-      "location": "Q214867",
-      "city": "Washington, D.C.",
-      "country": "United States",
-      "lat": 38.891388888,
-      "lon": -77.02,
-      "source": "http://www.wikidata.org/entity/Q64592975",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Leonardo%20da%20Vinci%2C%20Study%20of%20a%20Madonna%20%28verso%29%2C%20probably%201470-1480%2C%20NGA%2074164.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q762",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q20174114",
-      "title": "Wreath of Laurel, Palm, and Juniper with a Scroll inscribed Virtutem Forma Decorat [reverse]",
-      "date": "1474",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "leonardo-da-vinci",
-      "artistName": "Leonardo da Vinci",
-      "locationId": "q214867-washington-d-c",
-      "location": "Q214867",
-      "city": "Washington, D.C.",
-      "country": "United States",
-      "lat": 38.891388888,
-      "lon": -77.02,
-      "source": "http://www.wikidata.org/entity/Q20174114",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Leonardo%20da%20Vinci%20-%20Wreath%20of%20Laurel%2C%20Palm%2C%20and%20Juniper%20with%20a%20Scroll%20inscribed%20Virtutem%20Forum%20Decorat%20%28reverse%29%20-%20Google%20Art%20Project.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q762",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q79052262",
-      "title": "A Miracle of Saint Donatus of Arezzo",
-      "date": "1477",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "leonardo-da-vinci",
-      "artistName": "Leonardo da Vinci",
-      "locationId": "q847508-worcester",
-      "location": "Q847508",
-      "city": "Worcester",
-      "country": "United States",
-      "lat": 42.273055555,
-      "lon": -71.802222222,
-      "source": "http://www.wikidata.org/entity/Q79052262",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Attributed%20to%20Leonardo%20da%20Vinci%20and%20Lorenzo%20di%20Credi%20A%20Miracle%20of%20Saint%20Donatus%20of%20Arezzo%201475-1479.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q762",
@@ -7153,7 +7273,7 @@
       }
     },
     {
-      "id": "Q136390192",
+      "id": "Q139567193",
       "title": "Studies on Gravity and Balance",
       "date": "Date unknown",
       "type": "Painting",
@@ -7166,9 +7286,9 @@
       "country": "Italy",
       "lat": 45.0720941,
       "lon": 7.6864434,
-      "source": "http://www.wikidata.org/entity/Q136390192",
+      "source": "http://www.wikidata.org/entity/Q139567193",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Codice%20Volo%2001R%20mod.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Codice%20Volo%2002V%20mod.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q762",
@@ -7585,54 +7705,6 @@
       }
     },
     {
-      "id": "Q3373694",
-      "title": "Arno Landscape",
-      "date": "1473",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "leonardo-da-vinci",
-      "artistName": "Leonardo da Vinci",
-      "locationId": "uffizi-gallery-florence",
-      "location": "Uffizi Gallery",
-      "city": "Florence",
-      "country": "Italy",
-      "lat": 43.768333333,
-      "lon": 11.255277777,
-      "source": "http://www.wikidata.org/entity/Q3373694",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paisagem%20do%20Arno%20-%20Leonardo%20da%20Vinci.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q762",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q131561186",
-      "title": "Drawing of Two Heads in Profile and Studies of Machines",
-      "date": "1478",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "leonardo-da-vinci",
-      "artistName": "Leonardo da Vinci",
-      "locationId": "uffizi-gallery-florence",
-      "location": "Uffizi Gallery",
-      "city": "Florence",
-      "country": "Italy",
-      "lat": 43.768333333,
-      "lon": 11.255277777,
-      "source": "http://www.wikidata.org/entity/Q131561186",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Leonardo%20da%20vinci%2C%20Study%20sheet%2C%20profiles.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q762",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
       "id": "Q131561183",
       "title": "Female Head",
       "date": "Date unknown",
@@ -7705,30 +7777,6 @@
       }
     },
     {
-      "id": "Q131561185",
-      "title": "Perspective Study for the Background of the Adoration of the Magi",
-      "date": "1481",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "leonardo-da-vinci",
-      "artistName": "Leonardo da Vinci",
-      "locationId": "uffizi-gallery-florence",
-      "location": "Uffizi Gallery",
-      "city": "Florence",
-      "country": "Italy",
-      "lat": 43.768333333,
-      "lon": 11.255277777,
-      "source": "http://www.wikidata.org/entity/Q131561185",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Leonardo%2C%20Studio%20per%20l%27Adorazione%20dei%20Magi%2C%20Uffizi.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q762",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
       "id": "Q131561182",
       "title": "Profile of an Old Man",
       "date": "Date unknown",
@@ -7745,54 +7793,6 @@
       "source": "http://www.wikidata.org/entity/Q131561182",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Leonardo%20da%20vinci%2C%20Profile%20of%20an%20old%20man.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q762",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q131561180",
-      "title": "Studies for a Madonna with a Cat",
-      "date": "Date unknown",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "leonardo-da-vinci",
-      "artistName": "Leonardo da Vinci",
-      "locationId": "uffizi-gallery-florence",
-      "location": "Uffizi Gallery",
-      "city": "Florence",
-      "country": "Italy",
-      "lat": 43.768333333,
-      "lon": 11.255277777,
-      "source": "http://www.wikidata.org/entity/Q131561180",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Leonardo%20da%20Vinci%20-%20inv%20421%20E%20v.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q762",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q131561181",
-      "title": "Studies of an Old Man and a Youth (Salai?) in Profile, Facing each Other",
-      "date": "Date unknown",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "leonardo-da-vinci",
-      "artistName": "Leonardo da Vinci",
-      "locationId": "uffizi-gallery-florence",
-      "location": "Uffizi Gallery",
-      "city": "Florence",
-      "country": "Italy",
-      "lat": 43.768333333,
-      "lon": 11.255277777,
-      "source": "http://www.wikidata.org/entity/Q131561181",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Leonardo%20da%20vinci%2C%20Heads%20of%20an%20old%20man%20and%20a%20youth.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q762",

@@ -1,0 +1,23 @@
+{
+  "id": "qatar",
+  "country": "Qatar",
+  "artworks": [
+    {
+      "id": "Q3222585",
+      "artistId": "gustave-courbet",
+      "artistName": "Gustave Courbet",
+      "reviewStatus": "generated",
+      "title": "Le Désespéré",
+      "date": "1840",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "collection-unknown-ad-dawhah",
+      "location": "Collection unknown",
+      "city": "Ad-Dawhah",
+      "country": "Qatar",
+      "lat": 25.29936,
+      "lon": 51.5465,
+      "source": "http://www.wikidata.org/entity/Q3222585"
+    }
+  ]
+}
