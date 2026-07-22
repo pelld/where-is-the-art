@@ -99,6 +99,8 @@ async function loadArtistArtworks(artist) {
 function currentArtist() { return artists.find(artist => artist.id === selectedArtistId); }
 function artistWorks() { return artworks.filter(work => work.artistId === selectedArtistId); }
 function artworkImage(work,allowLocationRepresentative = false) {
+  const bundledWorkImage = work.imageKey ? window.bundledArtworkImages[work.imageKey] || "" : "";
+  if (bundledWorkImage) return bundledWorkImage;
   const bundledLocationImage = window.bundledArtworkImages[`${work.artistId}:${work.locationId}`] || window.bundledArtworkImages[work.locationId] || "";
   const firstAtLocation = artworks.find(item => item.locationId === work.locationId);
   const repeatedSource = work.image && artworks.some(item => item !== work && item.image === work.image);
