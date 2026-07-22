@@ -17,7 +17,6 @@ if (registryMode) {
 }
 const endpoint = "https://query.wikidata.org/sparql";
 const outputDirectory = path.resolve("generated-data");
-// Transient upstream responses are retried before an artist is skipped.
 const retryableStatuses = new Set([429,500,502,503,504]);
 
 function sleep(milliseconds) {
@@ -51,7 +50,7 @@ function identity(work) {
   return [work.locationId,work.title.toLowerCase().replace(/[^a-z0-9]+/g," ").trim(),work.date].join("|");
 }
 function queryFor(qid) {
-  return `SELECT DISTINCT ?work ?workLabel ?collection ?collectionLabel ?cityLabel ?countryLabel ?coord ?date ?image WHERE {
+  return `SELECT DISTINCT ?work ?workLabel ?collection ?collectionLabel ?city ?cityLabel ?country ?countryLabel ?coord ?date ?image WHERE {
   ?work wdt:P170 wd:${qid}; wdt:P195 ?collection.
   ?collection wdt:P625 ?coord.
   OPTIONAL {
@@ -63,10 +62,41 @@ function queryFor(qid) {
   SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
 } LIMIT 1000`;
 }
+async function resolveMissingLabels(rows,artistName) {
+  const ids = new Set();
+  const fields = [["work","workLabel"],["collection","collectionLabel"],["city","cityLabel"],["country","countryLabel"]];
+  for (const row of rows) {
+    for (const [entityField,labelField] of fields) {
+      const entityId = row[entityField]?.value?.split("/").pop();
+      const label = row[labelField]?.value;
+      if (entityId && (!label || /^Q\d+$/.test(label))) ids.add(entityId);
+    }
+  }
+  const labels = new Map();
+  const values = [...ids];
+  for (let index = 0; index < values.length; index += 50) {
+    const chunk = values.slice(index,index + 50);
+    const url = `https://www.wikidata.org/w/api.php?action=wbgetentities&ids=${chunk.join("|")}&props=labels&languages=en&format=json&origin=*`;
+    const response = await fetchWithRetry(url,`${artistName} label lookup`);
+    const data = await response.json();
+    for (const [id,entity] of Object.entries(data.entities || {})) {
+      const label = entity.labels?.en?.value;
+      if (label) labels.set(id,label);
+    }
+  }
+  return labels;
+}
+function resolvedLabel(row,entityField,labelField,labels,fallback) {
+  const supplied = row[labelField]?.value;
+  if (supplied && !/^Q\d+$/.test(supplied)) return supplied;
+  const id = row[entityField]?.value?.split("/").pop();
+  return labels.get(id) || fallback;
+}
 async function fetchArtist(artist) {
   const url = `${endpoint}?query=${encodeURIComponent(queryFor(artist.qid))}&format=json`;
   const response = await fetchWithRetry(url,artist.name);
   const data = await response.json();
+  const labels = await resolveMissingLabels(data.results.bindings,artist.name);
   const seen = new Set();
   const records = [];
   for (const row of data.results.bindings) {
@@ -74,12 +104,15 @@ async function fetchArtist(artist) {
     const coordinates = point(row.coord?.value);
     if (!coordinates || seen.has(id)) continue;
     seen.add(id);
-    const location = row.collectionLabel?.value || "Collection unknown";
+    const location = resolvedLabel(row,"collection","collectionLabel",labels,"Collection unknown");
+    const title = resolvedLabel(row,"work","workLabel",labels,"Untitled record");
+    const city = resolvedLabel(row,"city","cityLabel",labels,"Location unknown");
+    const country = resolvedLabel(row,"country","countryLabel",labels,"Country unknown");
     records.push({
-      id, title:row.workLabel?.value || id, date:year(row.date?.value), type:"Painting", attribution:"Accepted",
+      id, title, date:year(row.date?.value), type:"Painting", attribution:"Accepted",
       artistId:artist.id, artistName:artist.name,
-      locationId:slug(`${location}-${row.cityLabel?.value || ""}`), location,
-      city:row.cityLabel?.value || "Location unknown", country:row.countryLabel?.value || "Country unknown",
+      locationId:slug(`${location}-${city}`), location,
+      city, country,
       lat:coordinates.lat, lon:coordinates.lon, source:row.work.value, image:"", externalImage:row.image?.value || "",
       provenance:{ source:"Wikidata", artistQid:artist.qid, retrieved:new Date().toISOString().slice(0,10), reviewStatus:"generated" }
     });
