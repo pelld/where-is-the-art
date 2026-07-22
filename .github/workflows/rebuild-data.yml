@@ -19,7 +19,7 @@ permissions:
 
 concurrency:
   group: generated-artist-catalogue
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 jobs:
   rebuild:
