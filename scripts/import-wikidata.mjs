@@ -17,6 +17,7 @@ if (registryMode) {
 }
 const endpoint = "https://query.wikidata.org/sparql";
 const outputDirectory = path.resolve("generated-data");
+// Transient upstream responses are retried before an artist is skipped.
 const retryableStatuses = new Set([429,500,502,503,504]);
 
 function sleep(milliseconds) {
