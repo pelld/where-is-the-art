@@ -8,24 +8,41 @@ let filteredLocations = [];
 let filteredArtworks = [];
 let selectedArtistId = "michelangelo";
 let selectedLocationId = "accademia";
+const artworkCache = new Map();
+let artistRequestToken = 0;
 let map;
 const markerByLocation = new Map();
 
 /* ============================================================
    01. DATA LOADING AND NORMALISATION
    ============================================================ */
-Promise.all([
-  fetch("artists.json").then(response => { if (!response.ok) throw new Error("The artist data could not be loaded."); return response.json(); }),
-  fetch("artworks.json").then(response => { if (!response.ok) throw new Error("The artwork data could not be loaded."); return response.json(); })
-]).then(([artistData, artworkData]) => {
+fetch("artists.json").then(response => {
+  if (!response.ok) throw new Error("The artist index could not be loaded.");
+  return response.json();
+}).then(artistData => {
   artists = artistData.artists;
-  artworks = artworkData.artworks;
+  populateArtistChoices();
   initialiseMap();
   initialiseControls();
-  selectArtist(selectedArtistId, false);
-}).catch(error => {
+  return selectArtist(selectedArtistId, false);
+}).catch(error => showLoadError(error));
+
+function showLoadError(error) {
   document.querySelector(".dashboard").innerHTML = `<div class="load-error"><h2>Something went wrong</h2><p>${error.message}</p></div>`;
-});
+}
+
+function populateArtistChoices() {
+  document.getElementById("artistOptions").innerHTML = artists.map(artist => `<option value="${artist.name}"></option>`).join("");
+}
+
+async function loadArtistArtworks(artist) {
+  if (artworkCache.has(artist.id)) return artworkCache.get(artist.id);
+  const response = await fetch(artist.dataFile);
+  if (!response.ok) throw new Error(`The ${artist.name} dataset could not be loaded.`);
+  const data = await response.json();
+  artworkCache.set(artist.id,data.artworks);
+  return data.artworks;
+}
 
 function currentArtist() { return artists.find(artist => artist.id === selectedArtistId); }
 function artistWorks() { return artworks.filter(work => work.artistId === selectedArtistId); }
@@ -86,7 +103,7 @@ function runArtistSearch() {
   const input = document.getElementById("artistInput");
   const value = input.value.trim().toLowerCase();
   const match = artists.find(artist => artist.name.toLowerCase().includes(value) || artist.fullName.toLowerCase().includes(value) || value.includes(artist.name.toLowerCase()));
-  if (value && match) selectArtist(match.id);
+  if (value && match) selectArtist(match.id).catch(showLoadError);
   else {
     const note = document.getElementById("searchNote");
     note.textContent = `“${input.value.trim()}” is not in this proof of concept yet. Try Michelangelo or Johannes Vermeer.`;
@@ -94,10 +111,14 @@ function runArtistSearch() {
   }
 }
 
-function selectArtist(artistId, announce = true) {
+async function selectArtist(artistId, announce = true) {
   const artist = artists.find(item => item.id === artistId);
   if (!artist) return;
+  const requestToken = ++artistRequestToken;
+  const loadedArtworks = await loadArtistArtworks(artist);
+  if (requestToken !== artistRequestToken) return;
   selectedArtistId = artist.id;
+  artworks = loadedArtworks;
   selectedLocationId = artist.defaultLocationId;
   document.getElementById("artistInput").value = artist.name;
   document.getElementById("artistName").textContent = artist.displayName || artist.name;
