@@ -12,7 +12,7 @@ const markerByLocation = new Map();
 /* ============================================================
    01. DATA LOADING AND NORMALISATION
    ============================================================ */
-fetch("data/artworks.json").then(response => { if (!response.ok) throw new Error("The artwork data could not be loaded."); return response.json(); }).then(data => {
+fetch("artworks.json").then(response => { if (!response.ok) throw new Error("The artwork data could not be loaded."); return response.json(); }).then(data => {
   artworks = data.artworks;
   locations = groupByLocation(artworks);
   initialiseMap();
