@@ -36,7 +36,7 @@
       "dataFile": "data/rembrandt.json",
       "defaultLocationId": "museum-boijmans-van-beuningen-rotterdam",
       "reviewStatus": "generated",
-      "intro": "A generated Wikidata catalogue of 755 works across 174 mapped collections. Records have not yet received individual curatorial review.",
+      "intro": "A generated Wikidata catalogue of 742 works across 174 mapped collections. Records have not yet received individual curatorial review.",
       "tripSummary": "This broad catalogue reveals concentrations across Dutch, European and American collections; verify individual works against the linked source."
     },
     {
@@ -49,7 +49,7 @@
       "dataFile": "data/monet.json",
       "defaultLocationId": "musee-d-orsay-7th-arrondissement-of-paris",
       "reviewStatus": "generated",
-      "intro": "A generated Wikidata catalogue of 784 works across 217 mapped collections. Records have not yet received individual curatorial review.",
+      "intro": "A generated Wikidata catalogue of 776 works across 217 mapped collections. Records have not yet received individual curatorial review.",
       "tripSummary": "Paris is the largest starting point, with substantial holdings distributed across Europe, North America and Japan."
     },
     {
@@ -75,7 +75,7 @@
       "dataFile": "data/turner.json",
       "defaultLocationId": "yale-center-for-british-art-new-haven",
       "reviewStatus": "generated",
-      "intro": "A generated Wikidata catalogue of 902 works across 100 mapped collections. Records have not yet received individual curatorial review.",
+      "intro": "A generated Wikidata catalogue of 761 works across 100 mapped collections. Records have not yet received individual curatorial review.",
       "tripSummary": "Major groups appear in British and American collections, alongside a long tail of museums around the world."
     },
     {
@@ -88,7 +88,7 @@
       "dataFile": "data/van-gogh.json",
       "defaultLocationId": "van-gogh-museum-amsterdam",
       "reviewStatus": "generated",
-      "intro": "A generated Wikidata catalogue of 567 works across 80 mapped collections. Records have not yet received individual curatorial review.",
+      "intro": "A generated Wikidata catalogue of 550 works across 80 mapped collections. Records have not yet received individual curatorial review.",
       "tripSummary": "Amsterdam is the dominant destination, with major works also spread across Paris, London, New York and other international collections."
     }
   ]
