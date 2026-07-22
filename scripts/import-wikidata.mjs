@@ -50,7 +50,7 @@ function identity(work) {
   return [work.locationId,work.title.toLowerCase().replace(/[^a-z0-9]+/g," ").trim(),work.date].join("|");
 }
 function queryFor(qid) {
-  return `SELECT DISTINCT ?work ?workLabel ?collection ?collectionLabel ?city ?cityLabel ?country ?countryLabel ?coord ?date ?image WHERE {
+  return `SELECT DISTINCT ?work ?workLabel ?collection ?collectionLabel ?city ?cityLabel ?country ?countryLabel ?coord ?date ?image ?artistImage WHERE {
   ?work wdt:P170 wd:${qid}; wdt:P195 ?collection.
   ?collection wdt:P625 ?coord.
   OPTIONAL {
@@ -59,6 +59,7 @@ function queryFor(qid) {
   }
   OPTIONAL { ?work wdt:P571 ?date. }
   OPTIONAL { ?work wdt:P18 ?image. }
+  OPTIONAL { wd:${qid} wdt:P18 ?artistImage. }
   SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
 } LIMIT 1000`;
 }
@@ -113,7 +114,7 @@ async function fetchArtist(artist) {
       artistId:artist.id, artistName:artist.name,
       locationId:slug(`${location}-${city}`), location,
       city, country,
-      lat:coordinates.lat, lon:coordinates.lon, source:row.work.value, image:"", externalImage:row.image?.value || "",
+      lat:coordinates.lat, lon:coordinates.lon, source:row.work.value, image:"", externalImage:row.image?.value || "", artistImage:row.artistImage?.value || "",
       provenance:{ source:"Wikidata", artistQid:artist.qid, retrieved:new Date().toISOString().slice(0,10), reviewStatus:"generated" }
     });
   }
