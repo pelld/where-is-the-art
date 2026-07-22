@@ -37,7 +37,7 @@ function groupByLocation(records) {
    ============================================================ */
 function initialiseMap() {
   map = L.map("map", { zoomControl:true, scrollWheelZoom:true }).setView([46.5,8],5);
-  L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", { maxZoom:18 }).addTo(map);
+  L.tileLayer("https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png", { subdomains:"abcd", maxZoom:20, crossOrigin:true }).addTo(map);
   markerLayer = L.layerGroup().addTo(map);
 }
 
