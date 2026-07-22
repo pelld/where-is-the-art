@@ -98,12 +98,20 @@ async function loadArtistArtworks(artist) {
 
 function currentArtist() { return artists.find(artist => artist.id === selectedArtistId); }
 function artistWorks() { return artworks.filter(work => work.artistId === selectedArtistId); }
-function artworkImage(work) { return window.bundledArtworkImages[`${work.artistId}:${work.locationId}`] || window.bundledArtworkImages[work.locationId] || work.image || ""; }
+function artworkImage(work,allowLocationRepresentative = false) {
+  const bundledLocationImage = window.bundledArtworkImages[`${work.artistId}:${work.locationId}`] || window.bundledArtworkImages[work.locationId] || "";
+  const firstAtLocation = artworks.find(item => item.locationId === work.locationId);
+  const repeatedSource = work.image && artworks.some(item => item !== work && item.image === work.image);
+  if (allowLocationRepresentative) return bundledLocationImage || work.image || "";
+  if (firstAtLocation === work) return bundledLocationImage || work.image || "";
+  if (repeatedSource) return "";
+  return work.image || "";
+}
 
 function groupByLocation(records) {
   const grouped = new Map();
   records.forEach(work => {
-    if (!grouped.has(work.locationId)) grouped.set(work.locationId, { id:work.locationId, name:work.location, city:work.city, country:work.country, lat:work.lat, lon:work.lon, source:work.source, image:artworkImage(work), works:[] });
+    if (!grouped.has(work.locationId)) grouped.set(work.locationId, { id:work.locationId, name:work.location, city:work.city, country:work.country, lat:work.lat, lon:work.lon, source:work.source, image:artworkImage(work,true), works:[] });
     grouped.get(work.locationId).works.push(work);
   });
   return [...grouped.values()].sort((a,b) => b.works.length - a.works.length || a.city.localeCompare(b.city));
@@ -239,7 +247,7 @@ function renderSelectedLocation() {
     document.getElementById("workList").innerHTML = ""; document.getElementById("sourceLink").removeAttribute("href"); return;
   }
   const work = location.works[0];
-  const image = artworkImage(work);
+  const image = artworkImage(work,true);
   const imageElement = document.getElementById("locationImage");
   imageFrame.classList.toggle("image-missing",!image);
   imageFrame.style.setProperty("--artwork-image",image ? `url("${image}")` : "none");
