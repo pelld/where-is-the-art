@@ -281,3 +281,32 @@ footer>span { color:var(--ink); font-family:Georgia,serif; letter-spacing:.14em;
 .artist-directory button.active { border-color: #2449ad; background: #2449ad; color: #fff; }
 .artist-directory small { opacity: .68; font-size: .61rem; letter-spacing: .05em; text-transform: uppercase; }
 @media (max-width: 560px) { .artist-directory { grid-template-columns: 1fr; } }
+
+
+/* ============================================================
+   21. DESTINATION EXPLORER
+   ============================================================ */
+.destination-section { padding: 6rem max(4vw,2rem); background: #e8e2d7; border-top: 1px solid #c9c0b2; }
+.destination-heading { display: grid; grid-template-columns: minmax(0,1.15fr) minmax(320px,.85fr); gap: 5rem; align-items: end; max-width: 1420px; margin: 0 auto; }
+.destination-heading h2,.destination-result h2 { margin: .25rem 0 1rem; font: 400 clamp(2.7rem,5vw,5rem)/.96 Georgia,serif; }
+.destination-heading > div > p:last-child { max-width: 42rem; color: #62584c; font-size: 1.05rem; }
+.destination-search label { display: block; margin-bottom: .5rem; font: 800 .72rem Arial,sans-serif; letter-spacing: .09em; text-transform: uppercase; }
+.destination-directory { display: grid; grid-template-columns: repeat(2,minmax(0,1fr)); gap: .4rem; max-height: 19rem; padding-bottom: .8rem; overflow:auto; }
+.destination-directory button { display:flex; flex-direction:column; gap:.25rem; padding:.72rem; border:1px solid #cec5b7; background:#f7f3eb; text-align:left; cursor:pointer; }
+.destination-directory button:hover,.destination-directory button:focus-visible { border-color:#2449ad; background:#2449ad; color:white; }
+.destination-directory strong { font:700 .82rem Arial,sans-serif; }
+.destination-directory small { opacity:.72; font-size:.65rem; }
+.destination-result { max-width:1420px; margin:5rem auto 0; padding-top:4rem; border-top:1px solid #c9c0b2; }
+.destination-highlights { display:grid; grid-template-columns:repeat(3,1fr); gap:1rem; margin:2rem 0 3rem; }
+.destination-highlights > div { padding:1.5rem; background:#f7f3eb; border:1px solid #cec5b7; }
+.destination-highlights h3 { margin:0 0 1rem; color:#2449ad; font:800 .75rem Arial,sans-serif; letter-spacing:.1em; text-transform:uppercase; }
+.destination-highlights span { display:flex; justify-content:space-between; gap:1rem; padding:.45rem 0; border-bottom:1px solid #ddd5c8; font:.8rem Arial,sans-serif; }
+.destination-highlights small { color:#6b6155; }
+.destination-works { display:grid; grid-template-columns:repeat(4,minmax(0,1fr)); gap:1rem; }
+.destination-work { display:flex; flex-direction:column; min-height:13rem; padding:1.25rem; background:#f8f5ee; border:1px solid #cec5b7; }
+.destination-work p { margin:0 0 .7rem; color:#2449ad; font:800 .65rem Arial,sans-serif; letter-spacing:.06em; text-transform:uppercase; }
+.destination-work h3 { margin:0 0 .5rem; font:400 1.25rem/1.08 Georgia,serif; }
+.destination-work span { color:#6c6256; font:.72rem Arial,sans-serif; }
+.destination-work a { margin-top:auto; padding-top:1rem; color:#2449ad; font:800 .7rem Arial,sans-serif; text-decoration:none; }
+@media (max-width:1000px) { .destination-heading { grid-template-columns:1fr; gap:2.5rem; } .destination-works { grid-template-columns:repeat(2,1fr); } }
+@media (max-width:700px) { .destination-section { padding:4rem 1.25rem; } .destination-highlights,.destination-works,.destination-directory { grid-template-columns:1fr; } }
