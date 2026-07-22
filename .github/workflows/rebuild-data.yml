@@ -6,6 +6,13 @@ on:
   workflow_dispatch:
   schedule:
     - cron: "17 5 1 * *"
+  push:
+    paths:
+      - ".github/workflows/rebuild-data.yml"
+      - "scripts/import-wikidata.mjs"
+      - "scripts/build-place-index.mjs"
+      - "scripts/promote-generated-artists.mjs"
+      - "artist-registry.json"
 
 permissions:
   contents: write
