@@ -28,7 +28,7 @@ for (const candidate of registry.artists) {
     dataFile:file,
     defaultLocationId,
     reviewStatus:"generated",
-    intro:`A generated Wikidata catalogue of ${workCount} works across ${locationCount} mapped collections. Records have not yet received individual curatorial review.`,
+    intro:`${workCount} works across ${locationCount} mapped collections. Check individual records against the linked source before travelling.`,
     tripSummary:`Explore the mapped collections currently associated with ${candidate.name}; verify individual works against the linked source before making a special journey.`
   });
 }
