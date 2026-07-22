@@ -211,3 +211,23 @@ footer>span { color:var(--ink); font-family:Georgia,serif; letter-spacing:.14em;
   text-align: center;
 }
 .artwork-picture.image-missing i { font: italic 1.55rem/1.15 Georgia,serif; }
+
+
+/* ============================================================
+   19. LARGE LOCATION RESULT SETS
+   ============================================================ */
+.show-all-works {
+  width: 100%;
+  margin-top: .65rem;
+  padding: .85rem 0;
+  border: 0;
+  border-top: 2px solid #2449ad;
+  background: transparent;
+  color: #2449ad;
+  font: 800 .78rem/1.2 Arial,sans-serif;
+  letter-spacing: .04em;
+  text-align: left;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+.show-all-works span { float: right; font-size: 1rem; }
