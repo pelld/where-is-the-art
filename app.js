@@ -146,8 +146,8 @@ function renderArtworkGallery() {
   const gallery = document.getElementById("artworkGallery");
   if (!gallery) return;
   gallery.innerHTML = filteredArtworks.map(work => `<article class="artwork-card">
-    <a class="artwork-picture" href="${work.source}" target="_blank" rel="noreferrer"><img src="${work.image}" alt="${work.title} by Michelangelo" loading="lazy" onerror="this.closest(\'.artwork-picture\').classList.add(\'image-missing\');this.remove()"><span>${work.type}</span></a>
-    <div class="artwork-details"><p>${work.city} · ${work.country}</p><h3>${work.title}</h3><small>${work.date} · ${work.location}</small>${work.attribution === "Attributed" ? \'<b>Attribution debated</b>\' : \'\'}<a href="${work.source}" target="_blank" rel="noreferrer">View official source ↗</a></div>
+    <a class="artwork-picture" href="${work.source}" target="_blank" rel="noreferrer"><img src="${work.image}" alt="${work.title} by Michelangelo" loading="lazy" onerror="this.closest('.artwork-picture').classList.add('image-missing');this.remove()"><span>${work.type}</span></a>
+    <div class="artwork-details"><p>${work.city} · ${work.country}</p><h3>${work.title}</h3><small>${work.date} · ${work.location}</small>${work.attribution === "Attributed" ? '<b>Attribution debated</b>' : ''}<a href="${work.source}" target="_blank" rel="noreferrer">View official source ↗</a></div>
   </article>`).join("");
   document.getElementById("artworkGalleryCount").textContent = `${filteredArtworks.length} shown`;
 }
