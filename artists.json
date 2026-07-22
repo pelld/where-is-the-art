@@ -1,0 +1,26 @@
+{
+  "artists": [
+    {
+      "id": "michelangelo",
+      "name": "Michelangelo",
+      "displayName": "Michelangelo",
+      "fullName": "Michelangelo Buonarroti",
+      "shortName": "Michelangelo",
+      "years": "1475–1564",
+      "defaultLocationId": "accademia",
+      "intro": "Thirty works and ensembles across eighteen places. Use the map to find where the originals are held today.",
+      "tripSummary": "Florence and Rome contain the largest concentrations, but original works can also be found in London, Paris, Bruges, Milan, New York and elsewhere."
+    },
+    {
+      "id": "vermeer",
+      "name": "Johannes Vermeer",
+      "displayName": "Vermeer",
+      "fullName": "Johannes Vermeer",
+      "shortName": "Vermeer",
+      "years": "1632–1675",
+      "defaultLocationId": "mauritshuis",
+      "intro": "Thirty-five paintings across collections in Europe, the United States and Japan. Explore where Vermeer’s surviving works are held today.",
+      "tripSummary": "The Hague and Amsterdam are natural starting points, with important groups also in New York, Washington, London, Berlin and Dresden."
+    }
+  ]
+}
