@@ -67,3 +67,8 @@ node scripts/validate-data.mjs
 ```
 
 The monthly GitHub Actions workflow performs the same import and validation. Add an artist to the importer and `artists.json` to expand the catalogue.
+
+
+## 100-artist expansion
+
+`artist-seeds.json` contains 93 deliberately selected candidate painters. Together with the two curated and five active generated artists, this defines a 100-artist catalogue. `artist-registry.json` stores their resolved Wikidata identifiers. The workflow accepts an offset and batch size so new artist files can be generated and reviewed in manageable groups instead of placing excessive load on Wikidata or publishing unchecked records all at once.
