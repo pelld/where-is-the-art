@@ -140,3 +140,19 @@ footer>span { color:var(--ink); font-family:Georgia,serif; letter-spacing:.14em;
 @media (max-width:1100px) { .artwork-gallery { grid-template-columns:repeat(3,minmax(0,1fr)); } }
 @media (max-width:760px) { .artwork-gallery { grid-template-columns:repeat(2,minmax(0,1fr)); }.artwork-picture { height:220px; } }
 @media (max-width:480px) { .artworks-section { padding:35px 16px 60px; }.gallery-toolbar { align-items:flex-start; flex-direction:column; padding-bottom:12px; }.artwork-gallery { grid-template-columns:1fr; }.artwork-picture { height:330px; } }
+
+
+/* ============================================================
+   06. SELF-CONTAINED MAP (NO EXTERNAL TILE REQUESTS)
+   ============================================================ */
+#map { position:relative; overflow:hidden; background:#dce7eb; }
+.static-world-map { position:absolute; inset:0; overflow:hidden; background:#dce7eb; }
+.static-world-map>img { width:100%; height:100%; display:block; object-fit:fill; }
+#mapMarkers { position:absolute; inset:0; }
+.map-point { width:31px; height:31px; padding:0; position:absolute; z-index:5; transform:translate(-50%,-50%) rotate(-45deg); display:grid; place-items:center; color:white; border:3px solid white; outline:1px solid rgba(0,0,0,.18); border-radius:50% 50% 50% 8px; background:var(--blue); box-shadow:0 4px 10px rgba(0,0,0,.25); cursor:pointer; }
+.map-point>span { transform:rotate(45deg); font-size:10px; font-weight:800; }
+.map-point>b { padding:4px 6px; position:absolute; left:29px; top:24px; transform:rotate(45deg); color:var(--ink); background:rgba(251,250,246,.94); border:1px solid var(--rule); box-shadow:0 2px 7px rgba(0,0,0,.12); font-size:9px; white-space:nowrap; opacity:0; pointer-events:none; }
+.map-point:hover,.map-point:focus-visible,.map-point.selected { z-index:12; background:#b33b2e; }
+.map-point:hover>b,.map-point:focus-visible>b,.map-point.selected>b { opacity:1; }
+.map-point.selected { width:39px; height:39px; box-shadow:0 0 0 8px rgba(34,70,168,.18),0 5px 12px rgba(0,0,0,.25); }
+.map-caption { position:absolute; left:7px; bottom:5px; padding:3px 5px; color:#53565b; background:rgba(255,255,255,.86); font-size:8px; }
