@@ -314,3 +314,17 @@ footer>span { color:var(--ink); font-family:Georgia,serif; letter-spacing:.14em;
 
 /* A title card replaces the old overlapping unavailable-image message. */
 .artwork-picture.image-missing::after { content: none; }
+
+
+/* ============================================================
+   22. UNIFIED EXPLORER MODES
+   ============================================================ */
+.explorer-search { position: relative; }
+.explorer-search label { display:block; margin:0 0 8px; font-size:11px; font-weight:800; letter-spacing:.11em; text-transform:uppercase; }
+.explorer-search [id$="Note"] { margin:9px 0 0; color:var(--muted); font-size:11px; line-height:1.45; }
+.explore-mode { display:inline-flex; margin:1rem 0 1.35rem; border:1px solid #c9c0b2; background:#f8f5ee; }
+.explore-mode button { padding:.72rem 1rem; border:0; border-right:1px solid #c9c0b2; background:transparent; color:#181713; font:800 .68rem/1 Arial,sans-serif; letter-spacing:.08em; text-transform:uppercase; cursor:pointer; }
+.explore-mode button:last-child { border-right:0; }
+.explore-mode button.active,.explore-mode button:hover,.explore-mode button:focus-visible { background:#2449ad; color:#fff; }
+#questionPrefix { display:inline-block; }
+@media (max-width:580px) { .explore-mode { display:flex; width:100%; } .explore-mode button { flex:1; } }
