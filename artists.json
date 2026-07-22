@@ -7,9 +7,11 @@
       "fullName": "Michelangelo Buonarroti",
       "shortName": "Michelangelo",
       "years": "1475–1564",
+      "dataFile": "data/michelangelo.json",
       "defaultLocationId": "accademia",
-      "intro": "Thirty works and ensembles across eighteen places. Use the map to find where the originals are held today.",
-      "tripSummary": "Florence and Rome contain the largest concentrations, but original works can also be found in London, Paris, Bruges, Milan, New York and elsewhere."
+      "reviewStatus": "curated",
+      "intro": "Thirty curated works and ensembles across eighteen places. Use the map to find where the originals are held today.",
+      "tripSummary": "Florence and Rome contain the largest concentrations, with original works also in London, Paris, Bruges, Milan, New York and elsewhere."
     },
     {
       "id": "vermeer",
@@ -18,9 +20,76 @@
       "fullName": "Johannes Vermeer",
       "shortName": "Vermeer",
       "years": "1632–1675",
+      "dataFile": "data/vermeer.json",
       "defaultLocationId": "mauritshuis",
-      "intro": "Thirty-five paintings across collections in Europe, the United States and Japan. Explore where Vermeer’s surviving works are held today.",
+      "reviewStatus": "curated",
+      "intro": "Thirty-five curated paintings across collections in Europe, the United States and Japan.",
       "tripSummary": "The Hague and Amsterdam are natural starting points, with important groups also in New York, Washington, London, Berlin and Dresden."
+    },
+    {
+      "id": "rembrandt",
+      "name": "Rembrandt",
+      "displayName": "Rembrandt",
+      "fullName": "Rembrandt van Rijn",
+      "shortName": "Rembrandt",
+      "years": "1606–1669",
+      "dataFile": "data/rembrandt.json",
+      "defaultLocationId": "museum-boijmans-van-beuningen-rotterdam",
+      "reviewStatus": "generated",
+      "intro": "A generated Wikidata catalogue of 755 works across 174 mapped collections. Records have not yet received individual curatorial review.",
+      "tripSummary": "This broad catalogue reveals concentrations across Dutch, European and American collections; verify individual works against the linked source."
+    },
+    {
+      "id": "monet",
+      "name": "Claude Monet",
+      "displayName": "Monet",
+      "fullName": "Oscar-Claude Monet",
+      "shortName": "Monet",
+      "years": "1840–1926",
+      "dataFile": "data/monet.json",
+      "defaultLocationId": "musee-d-orsay-7th-arrondissement-of-paris",
+      "reviewStatus": "generated",
+      "intro": "A generated Wikidata catalogue of 784 works across 217 mapped collections. Records have not yet received individual curatorial review.",
+      "tripSummary": "Paris is the largest starting point, with substantial holdings distributed across Europe, North America and Japan."
+    },
+    {
+      "id": "artemisia-gentileschi",
+      "name": "Artemisia Gentileschi",
+      "displayName": "Artemisia Gentileschi",
+      "fullName": "Artemisia Gentileschi",
+      "shortName": "Artemisia",
+      "years": "1593–c. 1654",
+      "dataFile": "data/artemisia-gentileschi.json",
+      "defaultLocationId": "national-museum-of-art-architecture-and-design-oslo",
+      "reviewStatus": "generated",
+      "intro": "A generated Wikidata catalogue of 68 works across 48 mapped collections. Records have not yet received individual curatorial review.",
+      "tripSummary": "Her surviving works are widely dispersed, making this artist-centred view particularly useful for planning visits."
+    },
+    {
+      "id": "turner",
+      "name": "J. M. W. Turner",
+      "displayName": "Turner",
+      "fullName": "Joseph Mallord William Turner",
+      "shortName": "Turner",
+      "years": "1775–1851",
+      "dataFile": "data/turner.json",
+      "defaultLocationId": "yale-center-for-british-art-new-haven",
+      "reviewStatus": "generated",
+      "intro": "A generated Wikidata catalogue of 902 works across 100 mapped collections. Records have not yet received individual curatorial review.",
+      "tripSummary": "Major groups appear in British and American collections, alongside a long tail of museums around the world."
+    },
+    {
+      "id": "van-gogh",
+      "name": "Vincent van Gogh",
+      "displayName": "Van Gogh",
+      "fullName": "Vincent van Gogh",
+      "shortName": "Van Gogh",
+      "years": "1853–1890",
+      "dataFile": "data/van-gogh.json",
+      "defaultLocationId": "van-gogh-museum-amsterdam",
+      "reviewStatus": "generated",
+      "intro": "A generated Wikidata catalogue of 567 works across 80 mapped collections. Records have not yet received individual curatorial review.",
+      "tripSummary": "Amsterdam is the dominant destination, with major works also spread across Paris, London, New York and other international collections."
     }
   ]
 }
