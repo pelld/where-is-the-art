@@ -17,10 +17,11 @@
       "source": "http://www.wikidata.org/entity/Q104381754",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Romaine%20Brooks%20-%20Malerin.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q466607",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -41,10 +42,11 @@
       "source": "http://www.wikidata.org/entity/Q104381755",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Romaine%20Brooks%20-%20Malerin.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q466607",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -65,15 +67,16 @@
       "source": "http://www.wikidata.org/entity/Q104472052",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Romaine%20Brooks%20-%20Malerin.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q466607",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
     {
-      "id": "Q131580185",
+      "id": "Q128245941",
       "title": "Untitled record",
       "date": "1912",
       "type": "Painting",
@@ -86,13 +89,14 @@
       "country": "France",
       "lat": 48.86063847,
       "lon": 2.352277186,
-      "source": "http://www.wikidata.org/entity/Q131580185",
+      "source": "http://www.wikidata.org/entity/Q128245941",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Romaine%20Brooks%20-%20Malerin.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q466607",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -113,10 +117,11 @@
       "source": "http://www.wikidata.org/entity/Q131580186",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Romaine%20Brooks%20-%20Malerin.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q466607",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -132,15 +137,16 @@
       "location": "Smithsonian American Art Museum",
       "city": "Washington, D.C.",
       "country": "United States",
-      "lat": 38.897861,
-      "lon": -77.022942,
+      "lat": 38.897777777,
+      "lon": -77.023333333,
       "source": "http://www.wikidata.org/entity/Q20539860",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Romaine%20Brooks%20-%20Malerin.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q466607",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -156,15 +162,16 @@
       "location": "Smithsonian American Art Museum",
       "city": "Washington, D.C.",
       "country": "United States",
-      "lat": 38.897861,
-      "lon": -77.022942,
+      "lat": 38.897777777,
+      "lon": -77.023333333,
       "source": "http://www.wikidata.org/entity/Q20481982",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Romaine%20Brooks%20-%20Malerin.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q466607",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -180,15 +187,16 @@
       "location": "Smithsonian American Art Museum",
       "city": "Washington, D.C.",
       "country": "United States",
-      "lat": 38.897861,
-      "lon": -77.022942,
+      "lat": 38.897777777,
+      "lon": -77.023333333,
       "source": "http://www.wikidata.org/entity/Q20482009",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Dame%20en%20Deuil%20SAAM-1966.49.2%201.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Romaine%20Brooks%20-%20Malerin.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q466607",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -209,10 +217,11 @@
       "source": "http://www.wikidata.org/entity/Q20482149",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Romaine%20Brooks%20-%20Malerin.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q466607",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -228,15 +237,16 @@
       "location": "Smithsonian American Art Museum",
       "city": "Washington, D.C.",
       "country": "United States",
-      "lat": 38.897861,
-      "lon": -77.022942,
+      "lat": 38.897777777,
+      "lon": -77.023333333,
       "source": "http://www.wikidata.org/entity/Q20481779",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Romaine%20Brooks%20-%20Malerin.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q466607",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -252,15 +262,16 @@
       "location": "Smithsonian American Art Museum",
       "city": "Washington, D.C.",
       "country": "United States",
-      "lat": 38.897861,
-      "lon": -77.022942,
+      "lat": 38.897777777,
+      "lon": -77.023333333,
       "source": "http://www.wikidata.org/entity/Q20482120",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Romaine%20Brooks%20-%20Malerin.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q466607",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -276,15 +287,16 @@
       "location": "Smithsonian American Art Museum",
       "city": "Washington, D.C.",
       "country": "United States",
-      "lat": 38.897861,
-      "lon": -77.022942,
+      "lat": 38.897777777,
+      "lon": -77.023333333,
       "source": "http://www.wikidata.org/entity/Q20482041",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Romaine%20Brooks%20-%20Malerin.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q466607",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -305,10 +317,11 @@
       "source": "http://www.wikidata.org/entity/Q20482025",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20Baronne%20Emile%20D%E2%80%99Erlanger%20SAAM-1968.18.5%202.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Romaine%20Brooks%20-%20Malerin.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q466607",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -329,10 +342,11 @@
       "source": "http://www.wikidata.org/entity/Q20482020",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Romaine%20Brooks%20-%20Malerin.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q466607",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -348,15 +362,16 @@
       "location": "Smithsonian American Art Museum",
       "city": "Washington, D.C.",
       "country": "United States",
-      "lat": 38.897861,
-      "lon": -77.022942,
+      "lat": 38.897777777,
+      "lon": -77.023333333,
       "source": "http://www.wikidata.org/entity/Q20482033",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Romaine%20Brooks%20-%20Malerin.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q466607",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -372,15 +387,16 @@
       "location": "Smithsonian American Art Museum",
       "city": "Washington, D.C.",
       "country": "United States",
-      "lat": 38.897861,
-      "lon": -77.022942,
+      "lat": 38.897777777,
+      "lon": -77.023333333,
       "source": "http://www.wikidata.org/entity/Q20482037",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Romaine%20Brooks%20-%20Malerin.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q466607",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -396,15 +412,16 @@
       "location": "Smithsonian American Art Museum",
       "city": "Washington, D.C.",
       "country": "United States",
-      "lat": 38.897861,
-      "lon": -77.022942,
+      "lat": 38.897777777,
+      "lon": -77.023333333,
       "source": "http://www.wikidata.org/entity/Q20482261",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Romaine%20Brooks%20-%20Malerin.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q466607",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -420,15 +437,16 @@
       "location": "Smithsonian American Art Museum",
       "city": "Washington, D.C.",
       "country": "United States",
-      "lat": 38.897861,
-      "lon": -77.022942,
+      "lat": 38.897777777,
+      "lon": -77.023333333,
       "source": "http://www.wikidata.org/entity/Q20481848",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Romaine%20Brooks%20-%20Malerin.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q466607",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -444,15 +462,16 @@
       "location": "Smithsonian American Art Museum",
       "city": "Washington, D.C.",
       "country": "United States",
-      "lat": 38.897861,
-      "lon": -77.022942,
+      "lat": 38.897777777,
+      "lon": -77.023333333,
       "source": "http://www.wikidata.org/entity/Q20482200",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Romaine%20Brooks%20-%20Malerin.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q466607",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -468,15 +487,16 @@
       "location": "Smithsonian American Art Museum",
       "city": "Washington, D.C.",
       "country": "United States",
-      "lat": 38.897777777,
-      "lon": -77.023333333,
+      "lat": 38.897861,
+      "lon": -77.022942,
       "source": "http://www.wikidata.org/entity/Q20482089",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Romaine%20Brooks%20-%20Malerin.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q466607",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -497,10 +517,11 @@
       "source": "http://www.wikidata.org/entity/Q20482228",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Romaine%20Brooks%20-%20Malerin.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q466607",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -516,15 +537,16 @@
       "location": "Smithsonian American Art Museum",
       "city": "Washington, D.C.",
       "country": "United States",
-      "lat": 38.897777777,
-      "lon": -77.023333333,
+      "lat": 38.897861,
+      "lon": -77.022942,
       "source": "http://www.wikidata.org/entity/Q20482029",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Romaine%20Brooks%20-%20Malerin.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q466607",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -545,10 +567,11 @@
       "source": "http://www.wikidata.org/entity/Q20482048",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Romaine%20Brooks%20-%20Malerin.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q466607",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -569,10 +592,11 @@
       "source": "http://www.wikidata.org/entity/Q125140442",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Romaine%20Brooks%20-%20Malerin.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q466607",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -593,10 +617,11 @@
       "source": "http://www.wikidata.org/entity/Q20482065",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hannah%20Gluckstein%20SAAM-1970.70%202.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Romaine%20Brooks%20-%20Malerin.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q466607",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -612,15 +637,16 @@
       "location": "Smithsonian American Art Museum",
       "city": "Washington, D.C.",
       "country": "United States",
-      "lat": 38.897861,
-      "lon": -77.022942,
+      "lat": 38.897777777,
+      "lon": -77.023333333,
       "source": "http://www.wikidata.org/entity/Q20481911",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Romaine%20Brooks%20-%20Malerin.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q466607",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -641,10 +667,11 @@
       "source": "http://www.wikidata.org/entity/Q20482175",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Romaine%20Brooks%20Self-Portrait%201923.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Romaine%20Brooks%20-%20Malerin.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q466607",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -665,10 +692,11 @@
       "source": "http://www.wikidata.org/entity/Q20481950",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Romaine%20Brooks%20-%20Malerin.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q466607",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -689,10 +717,11 @@
       "source": "http://www.wikidata.org/entity/Q20482255",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Una%2C%20Lady%20Troubridge%20Romaine%20Brooks.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Romaine%20Brooks%20-%20Malerin.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q466607",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     }

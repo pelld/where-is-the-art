@@ -8,19 +8,20 @@
       "attribution": "Accepted",
       "artistId": "bartolome-esteban-murillo",
       "artistName": "Bartolomé Esteban Murillo",
-      "locationId": "academy-of-fine-arts-vienna-innere-stadt",
+      "locationId": "academy-of-fine-arts-vienna-vienna",
       "location": "Academy of Fine Arts Vienna",
-      "city": "Innere Stadt",
+      "city": "Vienna",
       "country": "Austria",
-      "lat": 48.201253,
-      "lon": 16.365103,
+      "lat": 48.201388888,
+      "lon": 16.365277777,
       "source": "http://www.wikidata.org/entity/Q106130158",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo-Two%20Boys%20Playing%20Dice.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -41,10 +42,11 @@
       "source": "http://www.wikidata.org/entity/Q107307280",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Vieja%20despiojando%20a%20un%20ni%C3%B1o%20%28Bartolom%C3%A9%20Esteban%20Murillo%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -65,10 +67,11 @@
       "source": "http://www.wikidata.org/entity/Q119932952",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20-%20Isaac%20Blessing%20Jacob%2C%20WM.1652-1948.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -89,10 +92,11 @@
       "source": "http://www.wikidata.org/entity/Q118984493",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20%28attributed%20to%29%20-%20Portrait%20of%20an%20Unknown%20Man%2C%20WM.1546-1948.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -113,10 +117,11 @@
       "source": "http://www.wikidata.org/entity/Q118895035",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20-%20Saint%20Francis%20Receiving%20the%20Stigmata%2C%20c.1650.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -137,10 +142,11 @@
       "source": "http://www.wikidata.org/entity/Q20268649",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Est%C3%A9ban%20Murillo%20-%20Saint%20John%20the%20Baptist%20Pointing%20to%20Christ%20-%201960.2%20-%20Art%20Institute%20of%20Chicago.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -161,10 +167,11 @@
       "source": "http://www.wikidata.org/entity/Q119858157",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Murillo%20%281617-1682%29%20%28after%29%20-%20The%20Flower%20Vendor%20-%201984-22%20-%20Astley%20Hall.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -185,10 +192,11 @@
       "source": "http://www.wikidata.org/entity/Q119858167",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Luigi%20Bardi%20%28c.1800-c.1880%29%20-%20The%20Mystical%20Marriage%20of%20Saint%20Catherine%20of%20Alexandria%20%28after%20Bartolom%C3%A9%20Esteban%20Murillo%29%20-%201988-12%20-%20Astley%20Hall.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -209,10 +217,11 @@
       "source": "http://www.wikidata.org/entity/Q27881836",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Murillo%20-%20Saint%20Joseph%20with%20the%20Infant%20Saviour%20%28Angels%20in%20the%20Clouds%29%20-%201927-2-3%20-%20Auckland%20Art%20Gallery.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -233,10 +242,11 @@
       "source": "http://www.wikidata.org/entity/Q110159901",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Barber%20Institute%20of%20Fine%20Arts%20-%20Bartolom%C3%A9%20Esteban%20Murillo%20-%20The%20Marriage%20Feast%20at%20Cana.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -257,10 +267,11 @@
       "source": "http://www.wikidata.org/entity/Q2450139",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Perez%20Murillo%20-%20Grape%20and%20Melon%20Eaters.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -281,10 +292,11 @@
       "source": "http://www.wikidata.org/entity/Q11772156",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Murillo%20%281618-1682%29%20-%20Die%20kleine%20Obsth%C3%A4ndlerin%20-%20497%20-%20Bavarian%20State%20Painting%20Collections.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -305,10 +317,11 @@
       "source": "http://www.wikidata.org/entity/Q3633626",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo-ni%C3%B1os%20comiendo.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -329,10 +342,36 @@
       "source": "http://www.wikidata.org/entity/Q9395954",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/St.%20Thomas%20of%20Villanova%20heals%20the%20Sick%20by%20Bartolom%C3%A9%20Esteban%20Murillo%20-%20Alte%20Pinakothek%20-%20Munich%20-%20Germany%202017.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q30095206",
+      "title": "Untitled record",
+      "date": "1650",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "bartolome-esteban-murillo",
+      "artistName": "Bartolomé Esteban Murillo",
+      "locationId": "bavarian-state-painting-collections-munich",
+      "location": "Bavarian State Painting Collections",
+      "city": "Munich",
+      "country": "Germany",
+      "lat": 48.149583,
+      "lon": 11.571776,
+      "source": "http://www.wikidata.org/entity/Q30095206",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Murillo%20%28Nachfolger%29%20-%20Lachender%20Hirtenknabe%20-%205206%20-%20Bavarian%20State%20Painting%20Collections.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q192062",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -353,10 +392,11 @@
       "source": "http://www.wikidata.org/entity/Q24255068",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Perez%20Murillo%20-%20The%20Toilette%20-%20WGA16393.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -377,34 +417,11 @@
       "source": "http://www.wikidata.org/entity/Q30057261",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Murillo%20-%20Der%20hl.%20Thomas%20von%20Villanueva%20heilt%20einen%20Lahmen%20%28Skizze%29%20-%2014984%20-%20Bavarian%20State%20Painting%20Collections.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q30095042",
-      "title": "Untitled record",
-      "date": "1650",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "bartolome-esteban-murillo",
-      "artistName": "Bartolomé Esteban Murillo",
-      "locationId": "bavarian-state-painting-collections-munich",
-      "location": "Bavarian State Painting Collections",
-      "city": "Munich",
-      "country": "Germany",
-      "lat": 48.149583,
-      "lon": 11.571776,
-      "source": "http://www.wikidata.org/entity/Q30095042",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Murillo%20%28Nachfolger%29%20-%20Schlafender%20Jesusknabe%20mit%20Engeln%20-%2014222%20-%20Bavarian%20State%20Painting%20Collections.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -425,10 +442,11 @@
       "source": "http://www.wikidata.org/entity/Q24255070",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Perez%20Murillo%20010.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -449,10 +467,11 @@
       "source": "http://www.wikidata.org/entity/Q119776840",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Murillo%20%281617-1682%29%20%28after%29%20-%20Beggar%20Boys%20Playing%20Dice%20-%20SOUAG.S438%20-%20Beecroft%20Art%20Gallery.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -473,10 +492,11 @@
       "source": "http://www.wikidata.org/entity/Q28777900",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Murillo%20-%20Saint%20Peter%20in%20Tears%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -497,10 +517,11 @@
       "source": "http://www.wikidata.org/entity/Q119776844",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Murillo%20%281617-1682%29%20%28copy%20of%29%20-%20San%20Diego%20of%20Alcal%C3%A1%20in%20Ecstasy%20before%20the%20Cross%20-%20B.M.67%20-%20Bowes%20Museum.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -521,10 +542,11 @@
       "source": "http://www.wikidata.org/entity/Q119051336",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Murillo%20%281617-1682%29%20%28after%29%20-%20Mary%20Magdalene%20-%20FA000601%20-%20Brighton%20Museum%20%5E%20Art%20Gallery.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -545,10 +567,11 @@
       "source": "http://www.wikidata.org/entity/Q119776832",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Murillo%20%281617-1682%29%20%28after%29%20-%20Girl%20Drinking%20with%20a%20Child%20on%20Her%20Arm%20-%20PC.140%20-%20Burrell%20Collection.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -569,10 +592,11 @@
       "source": "http://www.wikidata.org/entity/Q131541403",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Murillo%20-%20Virgen%20con%20el%20Ni%C3%B1o.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -593,10 +617,11 @@
       "source": "http://www.wikidata.org/entity/Q118984581",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Murillo%20%281617-1682%29%20%28probably%20after%29%20-%20A%20Spanish%20Boy%20with%20a%20Dog%20-%2088003074%20-%20Chiswick%20House.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -617,10 +642,11 @@
       "source": "http://www.wikidata.org/entity/Q46930818",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteb%C3%A1n%20Murillo%20-%20Saint%20Thomas%20of%20Villanueva%20Dividing%20His%20Clothes%20Among%20Beggar%20Boys%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -641,10 +667,11 @@
       "source": "http://www.wikidata.org/entity/Q104774537",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -665,10 +692,11 @@
       "source": "http://www.wikidata.org/entity/Q60469507",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Murillo%20-%20Laban%20Searching%20for%20his%20Stolen%20Household%20Gods%20-%201965.469%20-%20Cleveland%20Museum%20of%20Art.tiff",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -689,10 +717,11 @@
       "source": "http://www.wikidata.org/entity/Q60757753",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Murillo%20-%20Madonna%20Nursing%20the%20Christ%20Child%20-%201968.66%20-%20Cleveland%20Museum%20of%20Art.tif",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -713,10 +742,11 @@
       "source": "http://www.wikidata.org/entity/Q60465201",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Murillo%20-%20The%20Immaculate%20Conception%20-%201959.189%20-%20Cleveland%20Museum%20of%20Art.tiff",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -737,10 +767,11 @@
       "source": "http://www.wikidata.org/entity/Q131408051",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolome%20murillo-venerable%20gil.JPG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -761,10 +792,11 @@
       "source": "http://www.wikidata.org/entity/Q9199638",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Murillo%20-%20Four%20Figures%20on%20a%20Step%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -785,10 +817,11 @@
       "source": "http://www.wikidata.org/entity/Q119893148",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -809,10 +842,11 @@
       "source": "http://www.wikidata.org/entity/Q79036927",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -833,10 +867,11 @@
       "source": "http://www.wikidata.org/entity/Q64537150",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Murillo%2C%20The%20Adoration%20of%20the%20Magi%2C%20c.%201650-1656%2C%20NGA%2056897.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -857,10 +892,11 @@
       "source": "http://www.wikidata.org/entity/Q11825956",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Return%20of%20the%20Prodigal%20Son%201667-1670%20Murillo.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -881,10 +917,11 @@
       "source": "http://www.wikidata.org/entity/Q3757652",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Perez%20Murillo%20014.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -905,10 +942,36 @@
       "source": "http://www.wikidata.org/entity/Q106472264",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chantilly%20%2860%29%2C%20mus%C3%A9e%20Cond%C3%A9%2C%20Bartolomeo-Esteban%20Murillo%2C%20Saint%20Joseph%20et%20l%27Enfant%20J%C3%A9sus.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q2880218",
+      "title": "Madonna of the Napkin",
+      "date": "1668",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "bartolome-esteban-murillo",
+      "artistName": "Bartolomé Esteban Murillo",
+      "locationId": "convento-de-padres-capuchinos-seville",
+      "location": "Convento de Padres Capuchinos",
+      "city": "Seville",
+      "country": "Spain",
+      "lat": 37.40090574,
+      "lon": -5.984522655,
+      "source": "http://www.wikidata.org/entity/Q2880218",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Virgen%20de%20la%20servilleta%2C%20Bartolom%C3%A9%20Esteban%20Murillo.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q192062",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -929,10 +992,11 @@
       "source": "http://www.wikidata.org/entity/Q61783126",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/B.E.%20Murillo%20-%20Heilige%20familie%20-%20OP133%20-%20Cultural%20Heritage%20Agency%20of%20the%20Netherlands%20Art%20Collection.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -953,10 +1017,11 @@
       "source": "http://www.wikidata.org/entity/Q67563971",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%27The%20Immaculate%20Conception%27%20by%20Murillo%2C%20Dayton%20Art%20Institute.JPG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -968,19 +1033,20 @@
       "attribution": "Accepted",
       "artistId": "bartolome-esteban-murillo",
       "artistName": "Bartolomé Esteban Murillo",
-      "locationId": "denver-art-museum-colorado",
+      "locationId": "denver-art-museum-denver-county",
       "location": "Denver Art Museum",
-      "city": "Colorado",
+      "city": "Denver County",
       "country": "United States",
       "lat": 39.737188,
       "lon": -104.989345,
       "source": "http://www.wikidata.org/entity/Q28776127",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Murillo%20-%20Portrait%20of%20Don%20Diego%20Felix%20de%20Esquivel%20y%20Aldama%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1001,10 +1067,11 @@
       "source": "http://www.wikidata.org/entity/Q59313692",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Murillo%20-%20The%20Flight%20into%20Egypt%20-%2048.96%20-%20Detroit%20Institute%20of%20Arts.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1025,10 +1092,11 @@
       "source": "http://www.wikidata.org/entity/Q64518296",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Murillo%20-%20The%20Immaculate%20Conception%20-%2089.70%20-%20Detroit%20Institute%20of%20Arts.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1040,19 +1108,20 @@
       "attribution": "Accepted",
       "artistId": "bartolome-esteban-murillo",
       "artistName": "Bartolomé Esteban Murillo",
-      "locationId": "dulwich-picture-gallery-dulwich",
+      "locationId": "dulwich-picture-gallery-london-borough-of-southwark",
       "location": "Dulwich Picture Gallery",
-      "city": "Dulwich",
+      "city": "London Borough of Southwark",
       "country": "United Kingdom",
       "lat": 51.446111111,
       "lon": -0.086388888,
       "source": "http://www.wikidata.org/entity/Q23929075",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%2C%20Bartolom%C3%A9%20Est%C3%A9ban%20-%20Two%20Peasant%20Boys%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1064,19 +1133,20 @@
       "attribution": "Accepted",
       "artistId": "bartolome-esteban-murillo",
       "artistName": "Bartolomé Esteban Murillo",
-      "locationId": "dulwich-picture-gallery-dulwich",
+      "locationId": "dulwich-picture-gallery-london-borough-of-southwark",
       "location": "Dulwich Picture Gallery",
-      "city": "Dulwich",
+      "city": "London Borough of Southwark",
       "country": "United Kingdom",
       "lat": 51.446111111,
       "lon": -0.086388888,
       "source": "http://www.wikidata.org/entity/Q23929086",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%2C%20Bartolom%C3%A9%20Est%C3%A9ban%20-%20Adoration%20of%20the%20Magi%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1088,19 +1158,20 @@
       "attribution": "Accepted",
       "artistId": "bartolome-esteban-murillo",
       "artistName": "Bartolomé Esteban Murillo",
-      "locationId": "dulwich-picture-gallery-london-borough-of-southwark",
+      "locationId": "dulwich-picture-gallery-dulwich",
       "location": "Dulwich Picture Gallery",
-      "city": "London Borough of Southwark",
+      "city": "Dulwich",
       "country": "United Kingdom",
       "lat": 51.446111111,
       "lon": -0.086388888,
       "source": "http://www.wikidata.org/entity/Q12184056",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%2C%20Bartolom%C3%A9%20Est%C3%A9ban%20-%20The%20Flower%20Girl%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1112,19 +1183,20 @@
       "attribution": "Accepted",
       "artistId": "bartolome-esteban-murillo",
       "artistName": "Bartolomé Esteban Murillo",
-      "locationId": "dulwich-picture-gallery-dulwich",
+      "locationId": "dulwich-picture-gallery-london-borough-of-southwark",
       "location": "Dulwich Picture Gallery",
-      "city": "Dulwich",
+      "city": "London Borough of Southwark",
       "country": "United Kingdom",
       "lat": 51.446111111,
       "lon": -0.086388888,
       "source": "http://www.wikidata.org/entity/Q23929017",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%2C%20Bartolom%C3%A9%20Est%C3%A9ban%20-%20The%20Madonna%20of%20the%20Rosary%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1136,19 +1208,20 @@
       "attribution": "Accepted",
       "artistId": "bartolome-esteban-murillo",
       "artistName": "Bartolomé Esteban Murillo",
-      "locationId": "dulwich-picture-gallery-dulwich",
+      "locationId": "dulwich-picture-gallery-london-borough-of-southwark",
       "location": "Dulwich Picture Gallery",
-      "city": "Dulwich",
+      "city": "London Borough of Southwark",
       "country": "United Kingdom",
       "lat": 51.446111111,
       "lon": -0.086388888,
       "source": "http://www.wikidata.org/entity/Q23928474",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%2C%20Bartolom%C3%A9%20Est%C3%A9ban%20-%20Three%20Boys%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1169,10 +1242,11 @@
       "source": "http://www.wikidata.org/entity/Q9250142",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Murillo%20-%20%27Ecce%20Homo%27%2C%20El%20Paso%20Museum%20of%20Art.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1193,10 +1267,11 @@
       "source": "http://www.wikidata.org/entity/Q107389681",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Murillo%20-%20Christ%20Child%20on%20the%20Cross.png",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1217,10 +1292,11 @@
       "source": "http://www.wikidata.org/entity/Q50819955",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/St.%20John%20the%20Baptist%20with%20the%20Scribes%20and%20Pharisees%2002.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1241,34 +1317,11 @@
       "source": "http://www.wikidata.org/entity/Q9372596",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Vision%20of%20Fray%20Lauterio%20Murillo%201640.gif",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q106863953",
-      "title": "Holy Family with Infant Saint John",
-      "date": "1670",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "bartolome-esteban-murillo",
-      "artistName": "Bartolomé Esteban Murillo",
-      "locationId": "fogg-museum-cambridge",
-      "location": "Fogg Museum",
-      "city": "Cambridge",
-      "country": "United States",
-      "lat": 42.37409,
-      "lon": -71.114358,
-      "source": "http://www.wikidata.org/entity/Q106863953",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20-%20Holy%20Family%20with%20Infant%20Saint%20John%2C%20c.%201670.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1289,10 +1342,11 @@
       "source": "http://www.wikidata.org/entity/Q69495877",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Perez%20Murillo%20018.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1313,10 +1367,11 @@
       "source": "http://www.wikidata.org/entity/Q17515838",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20virgen%20del%20rosario%20Pitti.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1337,10 +1392,11 @@
       "source": "http://www.wikidata.org/entity/Q107436955",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Murillo%20%281617%20-%201682%29%20-%20Adoration%20of%20the%20Sheperds%20-%20414C%20-%20Gem%C3%A4ldegalerie.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1361,10 +1417,11 @@
       "source": "http://www.wikidata.org/entity/Q107436953",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Murillo%20%281617%20-%201682%29%20-%20Saint%20Anthony%20of%20Padua%20with%20Christ%20as%20a%20child%20-%20414%20-%20Gem%C3%A4ldegalerie.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1385,15 +1442,16 @@
       "source": "http://www.wikidata.org/entity/Q18683394",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Murillo%20-%20The%20Baptism%20of%20Christ%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
     {
-      "id": "Q107436706",
+      "id": "Q107447461",
       "title": "Untitled record",
       "date": "Date unknown",
       "type": "Painting",
@@ -1406,13 +1464,14 @@
       "country": "Germany",
       "lat": 52.508611111,
       "lon": 13.364722222,
-      "source": "http://www.wikidata.org/entity/Q107436706",
+      "source": "http://www.wikidata.org/entity/Q107447461",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1433,10 +1492,11 @@
       "source": "http://www.wikidata.org/entity/Q119776833",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Murillo%20%281617-1682%29%20%28after%29%20-%20St%20Joseph%20with%20the%20Infant%20Jesus%20-%20269%20-%20Glasgow%20Museums%20Resource%20Centre.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1457,10 +1517,11 @@
       "source": "http://www.wikidata.org/entity/Q118895447",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20%28after%29%20-%20The%20Rest%20on%20the%20Flight%20into%20Egypt%2C%20c.1650%E2%80%931680.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1481,10 +1542,11 @@
       "source": "http://www.wikidata.org/entity/Q119920334",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Murillo%20%281617-1682%29%20%28after%29%20-%20Virgin%20and%20Child%20-%20272%20-%20Glasgow%20Museums%20Resource%20Centre.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1505,10 +1567,11 @@
       "source": "http://www.wikidata.org/entity/Q20873211",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%28Castres%29%20La%20Vierge%20au%20chapelet%20-%20Murillo%20-%20Mus%C3%A9e%20Goya.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1529,10 +1592,11 @@
       "source": "http://www.wikidata.org/entity/Q107389657",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20-%20The%20Infant%20Christ%20Asleep%20on%20the%20Cross%2C%20about%201670.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1553,10 +1617,11 @@
       "source": "http://www.wikidata.org/entity/Q119864036",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Murillo%20%281617-1682%29%20%28school%20of%29%20-%20The%20Visitation%20-%20GUELI%20%2C%20GMAG%201973%20-%20Guernsey%20Museum%20and%20Art%20Gallery.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1577,10 +1642,11 @@
       "source": "http://www.wikidata.org/entity/Q119865182",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Murillo%20%281617-1682%29%20%28after%29%20-%20Flower%20Girl%20-%203505%20-%20Guildhall%20Art%20Gallery.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1601,10 +1667,11 @@
       "source": "http://www.wikidata.org/entity/Q119776835",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Murillo%20%281617-1682%29%20%28after%29%20-%20The%20Children%20of%20the%20Shell%20-%20PRSMG%20%2C%20P428%20-%20Harris%20Museum.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1625,10 +1692,36 @@
       "source": "http://www.wikidata.org/entity/Q119776843",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q106863953",
+      "title": "Holy Family with Infant Saint John",
+      "date": "1670",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "bartolome-esteban-murillo",
+      "artistName": "Bartolomé Esteban Murillo",
+      "locationId": "harvard-art-museums-cambridge",
+      "location": "Harvard Art Museums",
+      "city": "Cambridge",
+      "country": "United States",
+      "lat": 42.37416667,
+      "lon": -71.11472222,
+      "source": "http://www.wikidata.org/entity/Q106863953",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20-%20Holy%20Family%20with%20Infant%20Saint%20John%2C%20c.%201670.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q192062",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1649,10 +1742,11 @@
       "source": "http://www.wikidata.org/entity/Q119776831",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Murillo%20%281617-1682%29%20%28after%29%20-%20Santa%20Justa%20-%20NEWHG-PCF.026%20-%20Hatton%20Gallery.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1673,10 +1767,11 @@
       "source": "http://www.wikidata.org/entity/Q119928195",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Murillo%20%281617-1682%29%20%28school%20of%29%20-%20The%20Mystical%20Marriage%20of%20Saint%20Catherine%20of%20Siena%20-%20A1.7%20-%20Hepworth%20Wakefield.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1697,10 +1792,11 @@
       "source": "http://www.wikidata.org/entity/Q21741365",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Perez%20Murillo%20-%20Adoration%20of%20the%20Shepherds%20-%20WGA16354.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1721,10 +1817,11 @@
       "source": "http://www.wikidata.org/entity/Q21722783",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Perez%20Murillo%20-%20Baking%20of%20Flat%20Cakes%20-%20WGA16350.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1745,10 +1842,11 @@
       "source": "http://www.wikidata.org/entity/Q6025684",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Perez%20Murillo%20-%20Boy%20with%20a%20Dog%20-%20WGA16362.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1769,10 +1867,11 @@
       "source": "http://www.wikidata.org/entity/Q21715922",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20-%20Crucifixion%2C%20circa%201675.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1793,10 +1892,11 @@
       "source": "http://www.wikidata.org/entity/Q27978494",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20-%20Death%20of%20the%20Inquisitor%20Pedro%20de%20Arbues%2C%20circa%201664.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1817,10 +1917,11 @@
       "source": "http://www.wikidata.org/entity/Q27966311",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Perez%20Murillo%20-%20Esquilache%20Immaculate%20Conception%20-%20WGA16359.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1841,10 +1942,11 @@
       "source": "http://www.wikidata.org/entity/Q27966183",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1865,10 +1967,11 @@
       "source": "http://www.wikidata.org/entity/Q21725065",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1889,10 +1992,11 @@
       "source": "http://www.wikidata.org/entity/Q21730776",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1913,10 +2017,11 @@
       "source": "http://www.wikidata.org/entity/Q21725202",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1937,10 +2042,11 @@
       "source": "http://www.wikidata.org/entity/Q21729759",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo-Isaac%20bendice%20a%20Jacob.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1961,10 +2067,11 @@
       "source": "http://www.wikidata.org/entity/Q21730878",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolome%20murillo-sue%C3%B1o%20jacob.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1985,10 +2092,11 @@
       "source": "http://www.wikidata.org/entity/Q9367601",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Liberacion%20de%20San%20Pedro%20Murillo%201667.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2009,10 +2117,11 @@
       "source": "http://www.wikidata.org/entity/Q21722845",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2033,10 +2142,11 @@
       "source": "http://www.wikidata.org/entity/Q27971001",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2057,10 +2167,11 @@
       "source": "http://www.wikidata.org/entity/Q21725156",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Descanso%20en%20la%20huida%20a%20Egipto.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2081,10 +2192,11 @@
       "source": "http://www.wikidata.org/entity/Q21731809",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2105,10 +2217,11 @@
       "source": "http://www.wikidata.org/entity/Q21716322",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2129,10 +2242,36 @@
       "source": "http://www.wikidata.org/entity/Q21715931",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Perez%20Murillo%20023.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q9248634",
+      "title": "The Fruit Seller",
+      "date": "1655",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "bartolome-esteban-murillo",
+      "artistName": "Bartolomé Esteban Murillo",
+      "locationId": "hermitage-museum-saint-petersburg",
+      "location": "Hermitage Museum",
+      "city": "Saint Petersburg",
+      "country": "Russia",
+      "lat": 59.940555555,
+      "lon": 30.313611111,
+      "source": "http://www.wikidata.org/entity/Q9248634",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Perez%20Murillo%20016.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q192062",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2153,10 +2292,11 @@
       "source": "http://www.wikidata.org/entity/Q21725362",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2177,10 +2317,11 @@
       "source": "http://www.wikidata.org/entity/Q21716713",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Vision%20of%20St%20Antony%20of%20Padua.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2201,10 +2342,11 @@
       "source": "http://www.wikidata.org/entity/Q27968621",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolome%20Murillo%20-%20Assumption%20of%20the%20Virgin.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2225,10 +2367,11 @@
       "source": "http://www.wikidata.org/entity/Q11731707",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolome%20Esteban%20Perez%20Murillo%20012.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2249,10 +2392,11 @@
       "source": "http://www.wikidata.org/entity/Q131542227",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20esteban%20murillo%2C%20figliol%20prodigo%20tra%20i%20porci%2C%201656-65%20ca.%2001.JPG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2273,10 +2417,11 @@
       "source": "http://www.wikidata.org/entity/Q105606768",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Murillo%20-%20The%20Prodigal%20Son%20Among%20the%20Swine%20-%20LA1791%20-%20Hispanic%20Society%20of%20America.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2297,10 +2442,11 @@
       "source": "http://www.wikidata.org/entity/Q109535214",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20moises.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2321,10 +2467,11 @@
       "source": "http://www.wikidata.org/entity/Q6120453",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Santa%20Isabel%20de%20Hungr%C3%ADa%20curando%20ti%C3%B1osos..jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2345,10 +2492,11 @@
       "source": "http://www.wikidata.org/entity/Q9396823",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20of%20god%20murillo.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2369,10 +2517,11 @@
       "source": "http://www.wikidata.org/entity/Q106658140",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20%28style%20of%29%20-%20The%20Infant%20Christ%20as%20the%20Good%20Shepherd%2C%20c.1665.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2393,10 +2542,11 @@
       "source": "http://www.wikidata.org/entity/Q105525573",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Inmaculada%20de%20San%20Vicente%2C%20Murillo%2C%20hacia%201640-1645.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2417,10 +2567,11 @@
       "source": "http://www.wikidata.org/entity/Q20184401",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Murillo%20%28Spanish%20-%20The%20Vision%20of%20Saint%20Francis%20of%20Paola%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2441,10 +2592,11 @@
       "source": "http://www.wikidata.org/entity/Q79361895",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20-%20Saint%20Joseph%20and%20the%20Christ%20Child%2C%20ca.%201670-75.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2465,10 +2617,11 @@
       "source": "http://www.wikidata.org/entity/Q52220529",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Murillo%20%281617-1682%29%20%28attributed%20to%29%20-%20A%20Putto-Angel%20Holding%20Something%20Red%2C%20A%20Fragment%20-%201257141%20-%20National%20Trust.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2489,10 +2642,11 @@
       "source": "http://www.wikidata.org/entity/Q9191536",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Cristo%20despues%20de%20la%20Flagelacion%20Murillo.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2504,19 +2658,20 @@
       "attribution": "Accepted",
       "artistId": "bartolome-esteban-murillo",
       "artistName": "Bartolomé Esteban Murillo",
-      "locationId": "kunsthistorisches-museum-innere-stadt",
+      "locationId": "kunsthistorisches-museum-vienna",
       "location": "Kunsthistorisches Museum",
-      "city": "Innere Stadt",
+      "city": "Vienna",
       "country": "Austria",
       "lat": 48.203880555,
       "lon": 16.3616,
       "source": "http://www.wikidata.org/entity/Q27982813",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Est%C3%A9ban%20Murillo%20-%20Der%20Erzengel%20Michael%20st%C3%BCrzt%20den%20Teufel%20in%20den%20Abgrund%20-%20GG%209821%20-%20Kunsthistorisches%20Museum.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2537,10 +2692,11 @@
       "source": "http://www.wikidata.org/entity/Q119926792",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Murillo%20%281617-1682%29%20%28copy%20after%29%20-%20Madonna%20and%20Child%20-%20PCF30%20-%20Lady%20Margaret%20Hall.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2561,10 +2717,11 @@
       "source": "http://www.wikidata.org/entity/Q119891181",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Murillo%20%281617-1682%29%20%28after%29%20-%20The%20Baptism%20of%20Christ%20-%20TWCMS%20%2C%20C10034%20-%20Laing%20Art%20Gallery.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2585,10 +2742,11 @@
       "source": "http://www.wikidata.org/entity/Q28777906",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Murillo%20-%20Saint%20Rose%20of%20Lima%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2609,10 +2767,11 @@
       "source": "http://www.wikidata.org/entity/Q20881717",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Mystic%20Marriage%20of%20Saint%20Catherine%20LACMA%20M.83.168.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2633,10 +2792,11 @@
       "source": "http://www.wikidata.org/entity/Q107307415",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Santa%20Justa%20by%20Bartolome%20Esteban%20Murillo%2C%20Spanish%2C%20c.%201665%2C%20oil%20on%20canvas%20-%20Meadows%20Museum%20-%20Southern%20Methodist%20University%20-%20DSC05295.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2657,10 +2817,11 @@
       "source": "http://www.wikidata.org/entity/Q19912900",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/A%20Knight%20of%20Alc%C3%A1ntara%20or%20Calatrava%20MET%20DP223490.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2681,10 +2842,11 @@
       "source": "http://www.wikidata.org/entity/Q19911826",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolome%20murillo-andres%20andrade.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2705,10 +2867,11 @@
       "source": "http://www.wikidata.org/entity/Q19911474",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolome%20murillo-virgen%20con%20ni%C3%B1o-met.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2729,10 +2892,11 @@
       "source": "http://www.wikidata.org/entity/Q19906247",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Crucifixion%20MET%20DT10248.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2753,10 +2917,11 @@
       "source": "http://www.wikidata.org/entity/Q104017628",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2777,10 +2942,11 @@
       "source": "http://www.wikidata.org/entity/Q20891269",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Murillo%20-%20Penitent%20Magdalene.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2801,10 +2967,11 @@
       "source": "http://www.wikidata.org/entity/Q55410509",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2825,10 +2992,11 @@
       "source": "http://www.wikidata.org/entity/Q131541407",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Murillo%20-San%20Salvador%20de%20Horta%20et%20l%E2%80%99Inquisiteur%20d%E2%80%99Aragon.JPG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2849,10 +3017,11 @@
       "source": "http://www.wikidata.org/entity/Q21764178",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Augustins%20-%20San%20Diego%20de%20Alcala%20en%20extase%20devant%20la%20croix%20-%20Murillo%20-%20D%201846%201.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2873,10 +3042,11 @@
       "source": "http://www.wikidata.org/entity/Q131462491",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Murillo%20-%20Saint%20Antoine%20de%20Padoue%20adorant%20l%27Enfant%20J%C3%A9sus%2002.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2897,10 +3067,11 @@
       "source": "http://www.wikidata.org/entity/Q117842187",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2921,10 +3092,11 @@
       "source": "http://www.wikidata.org/entity/Q28803561",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Murillo%20-%20The%20Flight%20into%20Egypt%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2945,10 +3117,11 @@
       "source": "http://www.wikidata.org/entity/Q97396369",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Murillo%20-%20La%20Inmaculada%20Concepci%C3%B3n%20del%20espejo.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2969,10 +3142,11 @@
       "source": "http://www.wikidata.org/entity/Q123905498",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20adoraci%C3%B3n%20de%20los%20pastores%2C%20de%20Bartolom%C3%A9%20Esteban%20Murillo%20%28Museo%20de%20Bellas%20Artes%20de%20Sevilla%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2993,34 +3167,11 @@
       "source": "http://www.wikidata.org/entity/Q22120723",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20Colossale%2C%20par%20Bartolom%C3%A9%20Esteban%20Murillo.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q2880218",
-      "title": "Madonna of the Napkin",
-      "date": "1668",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "bartolome-esteban-murillo",
-      "artistName": "Bartolomé Esteban Murillo",
-      "locationId": "museo-de-bellas-artes-de-sevilla-seville",
-      "location": "Museo de Bellas Artes de Sevilla",
-      "city": "Seville",
-      "country": "Spain",
-      "lat": 37.39265415,
-      "lon": -6.000126118,
-      "source": "http://www.wikidata.org/entity/Q2880218",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Virgen%20de%20la%20servilleta%2C%20Bartolom%C3%A9%20Esteban%20Murillo.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3041,10 +3192,11 @@
       "source": "http://www.wikidata.org/entity/Q5289575",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Murillo%20-%20Mater%20Dolorosa.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3065,10 +3217,11 @@
       "source": "http://www.wikidata.org/entity/Q107290861",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20-%20Saint%20L%C3%A9andre%20et%20saint%20Bonaventure%2C%201665-1666.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3089,10 +3242,11 @@
       "source": "http://www.wikidata.org/entity/Q9396767",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/San%20Antonio%20de%20Padua%20con%20Ni%C3%B1o%20%28Murillo%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3113,10 +3267,11 @@
       "source": "http://www.wikidata.org/entity/Q3947097",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolome%20esteban%20murillo%20saint%20francis%20embracing%20christ%20on%20the%20cross115516%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3137,10 +3292,11 @@
       "source": "http://www.wikidata.org/entity/Q9395953",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Murillo%20-%20Santo%20Tom%C3%A1s%20de%20Villanueva%20dando%20limosnas%20%28Seville%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3161,10 +3317,11 @@
       "source": "http://www.wikidata.org/entity/Q6120755",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Santas%20Justa%20y%20Rufina%2C%20por%20Murillo.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3185,10 +3342,11 @@
       "source": "http://www.wikidata.org/entity/Q138811323",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sainte%20Catherine%20d%27Alexandrie%2C%20par%20Bartolom%C3%A9%20Esteban%20Murillo.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3209,17 +3367,18 @@
       "source": "http://www.wikidata.org/entity/Q11821340",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Adoraci%C3%B3n%20de%20los%20pastores%20%28Murillo%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
     {
       "id": "Q59695348",
       "title": "An Old Woman Spinning.",
-      "date": "1650",
+      "date": "1601",
       "type": "Painting",
       "attribution": "Accepted",
       "artistId": "bartolome-esteban-murillo",
@@ -3233,10 +3392,11 @@
       "source": "http://www.wikidata.org/entity/Q59695348",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Vieja%20hilando%2C%20copia%20de%20un%20original%20de%20Murillo%20%28Museo%20del%20Prado%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3257,17 +3417,18 @@
       "source": "http://www.wikidata.org/entity/Q9191556",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Cristo%20crucificado%20%28Murillo%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
     {
       "id": "Q11790316",
       "title": "Conversion of Saint Paul",
-      "date": "1675",
+      "date": "1678",
       "type": "Painting",
       "attribution": "Accepted",
       "artistId": "bartolome-esteban-murillo",
@@ -3281,10 +3442,11 @@
       "source": "http://www.wikidata.org/entity/Q11790316",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20conversi%C3%B3n%20de%20san%20Pablo%20%28Murillo%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3305,10 +3467,11 @@
       "source": "http://www.wikidata.org/entity/Q27750970",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ecce%20Homo%20%28Murillo%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3329,10 +3492,11 @@
       "source": "http://www.wikidata.org/entity/Q11770877",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Perez%20Murillo%20021.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3353,10 +3517,11 @@
       "source": "http://www.wikidata.org/entity/Q59710104",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20Dolorosa%20%28Murillo%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3377,17 +3542,18 @@
       "source": "http://www.wikidata.org/entity/Q27753247",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Retrato%20de%20Nicol%C3%A1s%20Omazur.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
     {
       "id": "Q59695504",
       "title": "Penitent Magdalen",
-      "date": "1650",
+      "date": "1601",
       "type": "Painting",
       "attribution": "Accepted",
       "artistId": "bartolome-esteban-murillo",
@@ -3401,10 +3567,11 @@
       "source": "http://www.wikidata.org/entity/Q59695504",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Magdalena%20penitente%2C%20copia%20de%20un%20original%20de%20Murillo%20%28Museo%20del%20Prado%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3425,10 +3592,11 @@
       "source": "http://www.wikidata.org/entity/Q27749800",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Perez%20Murillo%20-%20Portrait%20of%20a%20Gentleman%20in%20a%20Ruff%20Collar%20-%20WGA16385.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3449,10 +3617,11 @@
       "source": "http://www.wikidata.org/entity/Q6102310",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rebeca%20y%20Eliezer.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3473,10 +3642,11 @@
       "source": "http://www.wikidata.org/entity/Q27749015",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Santa%20Ana%20y%20la%20Virgen.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3497,10 +3667,11 @@
       "source": "http://www.wikidata.org/entity/Q27750021",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/San%20Agust%C3%ADn%20entre%20Cristo%20y%20la%20Virgen.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3521,17 +3692,18 @@
       "source": "http://www.wikidata.org/entity/Q59710105",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Fernando%20III%20el%20Santo%2C%20rey%20de%20Castilla%20y%20Le%C3%B3n.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
     {
       "id": "Q59979854",
       "title": "Saint Francis of Paola",
-      "date": "1601",
+      "date": "1700",
       "type": "Painting",
       "attribution": "Accepted",
       "artistId": "bartolome-esteban-murillo",
@@ -3545,34 +3717,11 @@
       "source": "http://www.wikidata.org/entity/Q59979854",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20-%20San%20Francisco%20de%20Paula%2C%20P000990.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q27701814",
-      "title": "The Annunciation",
-      "date": "1650",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "bartolome-esteban-murillo",
-      "artistName": "Bartolomé Esteban Murillo",
-      "locationId": "museo-del-prado-madrid",
-      "location": "Museo del Prado",
-      "city": "Madrid",
-      "country": "Spain",
-      "lat": 40.413888888,
-      "lon": -3.692222222,
-      "source": "http://www.wikidata.org/entity/Q27701814",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20anunciaci%C3%B3n%20%28Murillo%2C%201648%29.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3593,10 +3742,36 @@
       "source": "http://www.wikidata.org/entity/Q27749754",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20anunciaci%C3%B3n%20%28Murillo%2C%20h.%201660%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q27701814",
+      "title": "The Annunciation",
+      "date": "1650",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "bartolome-esteban-murillo",
+      "artistName": "Bartolomé Esteban Murillo",
+      "locationId": "museo-del-prado-madrid",
+      "location": "Museo del Prado",
+      "city": "Madrid",
+      "country": "Spain",
+      "lat": 40.413888888,
+      "lon": -3.692222222,
+      "source": "http://www.wikidata.org/entity/Q27701814",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20anunciaci%C3%B3n%20%28Murillo%2C%201648%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q192062",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3617,10 +3792,11 @@
       "source": "http://www.wikidata.org/entity/Q27749009",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20ap%C3%B3stol%20Santiago%20%28Murillo%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3641,10 +3817,11 @@
       "source": "http://www.wikidata.org/entity/Q27749021",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Aparici%C3%B3n%20de%20la%20Virgen%20a%20san%20Bernardo.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3665,10 +3842,11 @@
       "source": "http://www.wikidata.org/entity/Q27749033",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Imposici%C3%B3n%20de%20la%20casulla%20a%20san%20Ildefonso.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3689,10 +3867,11 @@
       "source": "http://www.wikidata.org/entity/Q27752264",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolome%20murillo-inmaculada.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3713,10 +3892,11 @@
       "source": "http://www.wikidata.org/entity/Q27752303",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Cristo%20en%20la%20cruz%2C%20de%20Bartolom%C3%A9%20Esteban%20Murillo%20%28Museo%20del%20Prado%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3737,10 +3917,11 @@
       "source": "http://www.wikidata.org/entity/Q27751716",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20patricio%20revela%20su%20sue%C3%B1o%20al%20papa%20Liberio.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3761,10 +3942,11 @@
       "source": "http://www.wikidata.org/entity/Q11694421",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/BuenPastorMurillo1660.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3785,10 +3967,11 @@
       "source": "http://www.wikidata.org/entity/Q59710113",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Cabeza%20de%20San%20Juan%20Bautista%2C%20atribuida%20a%20Bartolom%C3%A9%20Esteban%20Murillo%20%28Museo%20del%20Prado%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3809,10 +3992,11 @@
       "source": "http://www.wikidata.org/entity/Q16593003",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Los%20ni%C3%B1os%20de%20la%20concha.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3833,10 +4017,11 @@
       "source": "http://www.wikidata.org/entity/Q16627776",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Perez%20Murillo%20-%20The%20Holy%20Family%20with%20a%20Bird%20-%20WGA16356.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3857,10 +4042,11 @@
       "source": "http://www.wikidata.org/entity/Q27751761",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Inmaculada%20Concepci%C3%B3n%20%28Murillo%2C%201665%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3881,10 +4067,11 @@
       "source": "http://www.wikidata.org/entity/Q27751303",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Inmaculada%20Concepci%C3%B3n%20%28Murillo%2C%201662%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3905,10 +4092,11 @@
       "source": "http://www.wikidata.org/entity/Q2456003",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20immaculate%20conception.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3929,10 +4117,11 @@
       "source": "http://www.wikidata.org/entity/Q27751843",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Perez%20Murillo%20-%20St%20John%20the%20Baptist%20as%20a%20Boy%20-%20WGA16373.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3953,17 +4142,18 @@
       "source": "http://www.wikidata.org/entity/Q11681382",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20martirio%20de%20san%20Andr%C3%A9s.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
     {
       "id": "Q5826757",
       "title": "The Patrician's Dream",
-      "date": "1665",
+      "date": "1664",
       "type": "Painting",
       "attribution": "Accepted",
       "artistId": "bartolome-esteban-murillo",
@@ -3977,10 +4167,11 @@
       "source": "http://www.wikidata.org/entity/Q5826757",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolome%20murillo-sue%C3%B1o%20patricio.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -4001,10 +4192,11 @@
       "source": "http://www.wikidata.org/entity/Q27701811",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/San%20Jer%C3%B3nimo%2C%20de%20Murillo%20%28Museo%20del%20Prado%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -4025,10 +4217,11 @@
       "source": "http://www.wikidata.org/entity/Q19162885",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/San%20Jer%C3%B3nimo%20leyendo%20%28Murillo%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -4049,10 +4242,11 @@
       "source": "http://www.wikidata.org/entity/Q59695549",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Murillo%20-%20El%20hijo%20pr%C3%B3digo%20abandonado.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -4073,10 +4267,11 @@
       "source": "http://www.wikidata.org/entity/Q27751256",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20hijo%20pr%C3%B3digo%20recoge%20su%20herencia.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -4097,10 +4292,11 @@
       "source": "http://www.wikidata.org/entity/Q59710129",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolome%20murillo-hijo%20prodigo2.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -4121,10 +4317,11 @@
       "source": "http://www.wikidata.org/entity/Q59710128",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolome%20murillo-hijo%20prodigo.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -4145,10 +4342,11 @@
       "source": "http://www.wikidata.org/entity/Q27749589",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20Virgen%20con%20el%20Ni%C3%B1o%20%28Murillo%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -4169,34 +4367,11 @@
       "source": "http://www.wikidata.org/entity/Q27752568",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Visi%C3%B3n%20de%20San%20Francisco%20en%20la%20Porci%C3%BAncula%2C%20de%20Bartolom%C3%A9%20Esteban%20Murillo%20%28Museo%20del%20Prado%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q59780105",
-      "title": "Untitled record",
-      "date": "1601",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "bartolome-esteban-murillo",
-      "artistName": "Bartolomé Esteban Murillo",
-      "locationId": "museo-del-prado-madrid",
-      "location": "Museo del Prado",
-      "city": "Madrid",
-      "country": "Spain",
-      "lat": 40.413888888,
-      "lon": -3.692222222,
-      "source": "http://www.wikidata.org/entity/Q59780105",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paisaje%20con%20cascada%2C%20atribuido%20a%20Bartolom%C3%A9%20Esteban%20Murillo%20%28Museo%20del%20Prado%29.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -4217,17 +4392,18 @@
       "source": "http://www.wikidata.org/entity/Q59695503",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20cocinera%2C%20de%20un%20disc%C3%ADpulo%20de%20Bartolom%C3%A9%20Esteban%20Murillo%20%28Museo%20del%20Prado%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
     {
-      "id": "Q59695538",
+      "id": "Q59780105",
       "title": "Untitled record",
-      "date": "1650",
+      "date": "1601",
       "type": "Painting",
       "attribution": "Accepted",
       "artistId": "bartolome-esteban-murillo",
@@ -4238,13 +4414,14 @@
       "country": "Spain",
       "lat": 40.413888888,
       "lon": -3.692222222,
-      "source": "http://www.wikidata.org/entity/Q59695538",
+      "source": "http://www.wikidata.org/entity/Q59780105",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paisaje%2C%20de%20un%20disc%C3%ADpulo%20de%20Bartolom%C3%A9%20Esteban%20Murillo.%20%28Museo%20del%20Prado%29.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paisaje%20con%20cascada%2C%20atribuido%20a%20Bartolom%C3%A9%20Esteban%20Murillo%20%28Museo%20del%20Prado%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -4265,10 +4442,11 @@
       "source": "http://www.wikidata.org/entity/Q3918296",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Virgen%20del%20Rosario%20%28Murillo%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -4289,10 +4467,11 @@
       "source": "http://www.wikidata.org/entity/Q131542819",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Perez%20Murillo%20-%20Ecce%20Homo.JPG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -4313,10 +4492,11 @@
       "source": "http://www.wikidata.org/entity/Q24569472",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Murillo%20-%20Immaculada%20Concepci%C3%B3n%2C%20c.%201670.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -4337,10 +4517,11 @@
       "source": "http://www.wikidata.org/entity/Q131537857",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Murillo%20-%20Retrato%20de%20un%20caballero.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -4361,10 +4542,11 @@
       "source": "http://www.wikidata.org/entity/Q131537854",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Murillo%20-%20Tres%20%C3%81ngeles%20Ni%C3%B1os.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -4385,10 +4567,11 @@
       "source": "http://www.wikidata.org/entity/Q106691050",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/San%20Agust%C3%ADn%20lavando%20los%20pies%20a%20Cristo%2C%20de%20Bartolom%C3%A9%20Esteban%20Murillo%20%28Museo%20de%20Bellas%20Artes%20de%20Valencia%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -4409,10 +4592,11 @@
       "source": "http://www.wikidata.org/entity/Q116981091",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ecce%20Homo%2C%20de%20Murillo%20%28Museo%20de%20C%C3%A1diz%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -4433,10 +4617,11 @@
       "source": "http://www.wikidata.org/entity/Q131412281",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolome%20murillo-santa%20catalina%20cadiz.JPG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -4457,10 +4642,11 @@
       "source": "http://www.wikidata.org/entity/Q9191539",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Cristo%20despues%20de%20la%20Flagelacion%20Murillo%201665.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -4481,10 +4667,11 @@
       "source": "http://www.wikidata.org/entity/Q20538162",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Murillo%20-%20The%20Young%20Christ%20as%20the%20Good%20Shepherd%20-%2058.1425%20-%20Museum%20of%20Fine%20Arts.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -4505,10 +4692,11 @@
       "source": "http://www.wikidata.org/entity/Q9396638",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Perez%20Murillo%20007.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -4529,10 +4717,11 @@
       "source": "http://www.wikidata.org/entity/Q131543207",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Perez%20Murillo%20-%20Mary%20and%20Child%20with%20Angels%20Playing%20Music%20-%20WGA16395.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -4553,10 +4742,11 @@
       "source": "http://www.wikidata.org/entity/Q50986818",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -4577,10 +4767,11 @@
       "source": "http://www.wikidata.org/entity/Q50881602",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20huida%20a%20Egipto%2C%20Sz%C3%A9pm%C5%B1v%C3%A9szeti%20M%C3%BAzeum%20%28Budapest%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -4601,10 +4792,11 @@
       "source": "http://www.wikidata.org/entity/Q9248340",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Perez%20Murillo%20001.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -4625,10 +4817,11 @@
       "source": "http://www.wikidata.org/entity/Q50908924",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -4649,10 +4842,11 @@
       "source": "http://www.wikidata.org/entity/Q28093791",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteb%C3%A1n%20Murillo%20-%20The%20Nativity%20-%2094.1143%20-%20Museum%20of%20Fine%20Arts.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -4673,10 +4867,11 @@
       "source": "http://www.wikidata.org/entity/Q28042969",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteb%C3%A1n%20Murillo%20-%20The%20Virgin%20of%20the%20Annunciation%20-%2061.70%20-%20Museum%20of%20Fine%20Arts.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -4697,10 +4892,11 @@
       "source": "http://www.wikidata.org/entity/Q120968685",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -4721,10 +4917,11 @@
       "source": "http://www.wikidata.org/entity/Q115673665",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -4745,10 +4942,11 @@
       "source": "http://www.wikidata.org/entity/Q27975036",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/A%20Young%20Man%20with%20a%20Basket%20of%20Fruit%20by%20Bartolome%20Esteban%20Murillo%20002.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -4769,10 +4967,11 @@
       "source": "http://www.wikidata.org/entity/Q27976022",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Murillo%20-%20The%20Miracle%20of%20the%20Loaves%20and%20the%20Fishes%20-%20NG%202796%20-%20National%20Galleries%20of%20Scotland.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -4793,10 +4992,11 @@
       "source": "http://www.wikidata.org/entity/Q26506646",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo-ni%C3%B1o%20asomado%20a%20la%20ventana.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -4817,10 +5017,11 @@
       "source": "http://www.wikidata.org/entity/Q9191554",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Curacion%20del%20paralitico%20Murillo%201670.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -4841,10 +5042,11 @@
       "source": "http://www.wikidata.org/entity/Q26706590",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolome%20Esteban%20Murillo%2001.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -4865,10 +5067,11 @@
       "source": "http://www.wikidata.org/entity/Q26693551",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Probably%20by%20Bartolom%C3%A9%20Esteban%20Murillo%20-%20Saint%20John%20the%20Baptist%20in%20the%20Wilderness%2C%201660-70.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -4889,10 +5092,11 @@
       "source": "http://www.wikidata.org/entity/Q9162667",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Murillo%20-%20Autorretrato.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -4913,10 +5117,11 @@
       "source": "http://www.wikidata.org/entity/Q3715943",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Murillo%20-%20The%20Heavenly%20and%20Earthly%20Trinities%20-%201681-82.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -4937,10 +5142,11 @@
       "source": "http://www.wikidata.org/entity/Q26693171",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20and%20studio%20-%20The%20Immaculate%20Conception%20of%20the%20Virgin%2C%20NG3910.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -4961,10 +5167,11 @@
       "source": "http://www.wikidata.org/entity/Q26707921",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Murillo%20%281617-1682%29%20-%20The%20Infant%20Saint%20John%20with%20the%20Lamb%20-%20NG176%20-%20National%20Gallery.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -4980,15 +5187,16 @@
       "location": "National Gallery of Canada",
       "city": "Ottawa",
       "country": "Canada",
-      "lat": 45.429434,
-      "lon": -75.698386,
+      "lat": 45.429535,
+      "lon": -75.698906,
       "source": "http://www.wikidata.org/entity/Q11684158",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Abraham.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -5004,15 +5212,16 @@
       "location": "National Gallery of Canada",
       "city": "Ottawa",
       "country": "Canada",
-      "lat": 45.429434,
-      "lon": -75.698386,
+      "lat": 45.429535,
+      "lon": -75.698906,
       "source": "http://www.wikidata.org/entity/Q59544844",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20a%20Nobleman%20by%20Bartolom%C3%A9%20Esteban%20Murillo.jpeg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -5033,10 +5242,11 @@
       "source": "http://www.wikidata.org/entity/Q59503381",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -5056,11 +5266,12 @@
       "lon": -6.25255,
       "source": "http://www.wikidata.org/entity/Q77944254",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20esteban%20murillo%2C%20joshua%20van%20belle%2C%201670%2C%2001.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Retratodejosuavanbellers8.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -5081,10 +5292,11 @@
       "source": "http://www.wikidata.org/entity/Q77964818",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20-%20The%20Prodigal%20Son%20Restored.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -5105,10 +5317,11 @@
       "source": "http://www.wikidata.org/entity/Q77927306",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20esteban%20murillo%2C%20sacra%20famiglia%2C%201640-49%20ca.%2001.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -5129,10 +5342,11 @@
       "source": "http://www.wikidata.org/entity/Q77945041",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20esteban%20murillo%2C%20san%20giovannino%20che%20gioca%20con%20un%20agnello%2C%201670-80%20ca.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -5153,17 +5367,18 @@
       "source": "http://www.wikidata.org/entity/Q77966236",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Meeting%20of%20Jacob%20and%20Rachel%20at%20the%20Well%20.PNG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
     {
       "id": "Q77927477",
       "title": "The Penitent Magdalene",
-      "date": "1652",
+      "date": "1650",
       "type": "Painting",
       "attribution": "Accepted",
       "artistId": "bartolome-esteban-murillo",
@@ -5176,11 +5391,12 @@
       "lon": -6.25255,
       "source": "http://www.wikidata.org/entity/Q77927477",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20esteban%20murillo%2C%20maddalena%20penitente%2C%201650-55.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/National%20Gallery%20Ireland%2062.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -5201,10 +5417,11 @@
       "source": "http://www.wikidata.org/entity/Q77964827",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20-%20The%20Prodigal%20Son%20Driven%20Out%2C%20NGI.4543.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -5225,10 +5442,11 @@
       "source": "http://www.wikidata.org/entity/Q77964823",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20disipaci%C3%B3n%20del%20hijo%20pr%C3%B3digo%20%28National%20Gallery%20of%20Ireland%2C%20Dubl%C3%ADn%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -5249,10 +5467,11 @@
       "source": "http://www.wikidata.org/entity/Q77964833",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20-%20The%20Prodigal%20Son%20Feeding%20Swine%2C%20NGI.4544.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -5273,10 +5492,11 @@
       "source": "http://www.wikidata.org/entity/Q77964812",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20-%20The%20Prodigal%20Son%20Receiving%20his%20Portion%2C%20NGI.4540.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -5297,10 +5517,11 @@
       "source": "http://www.wikidata.org/entity/Q20422153",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20-%20The%20Immaculate%20Conception%20Fd105349.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -5321,10 +5542,11 @@
       "source": "http://www.wikidata.org/entity/Q27949315",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteb%C3%A1n%20Murillo%20-%20St.%20Peter%20-%20M.Ob.372%20-%20National%20Museum%20in%20Warsaw.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -5345,10 +5567,11 @@
       "source": "http://www.wikidata.org/entity/Q131541131",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Murillo%20-%20Casamiento%20m%C3%ADstico%20de%20Santa%20Catalina.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -5369,10 +5592,11 @@
       "source": "http://www.wikidata.org/entity/Q131541399",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Murillo%20-%20La%20Sagrada%20Familia%20com%20San%20Juanito.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -5393,10 +5617,11 @@
       "source": "http://www.wikidata.org/entity/Q131541221",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Murillo%20-%20La%20Virgen%20con%20el%20Ni%C3%B1o.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -5417,10 +5642,11 @@
       "source": "http://www.wikidata.org/entity/Q23948862",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Murillo%20-%20St.%20Justa%20and%20St.%20Rufina%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -5441,10 +5667,11 @@
       "source": "http://www.wikidata.org/entity/Q18600022",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Return%20of%20the%20Holy%20Family%20from%20Egypt%20%28Bartolom%C3%A9%20Esteban%20Murillo%29%20-%20Nationalmuseum%20-%2021281.tif",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -5465,10 +5692,11 @@
       "source": "http://www.wikidata.org/entity/Q97397105",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%27St.%20Thomas%20Giving%20Alms%27%20by%20Murillo%2C%20Norton%20Simon%20Museum.JPG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -5489,10 +5717,11 @@
       "source": "http://www.wikidata.org/entity/Q9396803",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Murillo%20-%20St%20Francis%20of%20Assisi%20at%20Prayer.JPG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -5513,10 +5742,11 @@
       "source": "http://www.wikidata.org/entity/Q119910868",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Murillo%20%281617-1682%29%20%28after%29%20-%20Holy%20Family%20-%20A0037%20-%20Paisley%20Museum.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -5537,10 +5767,36 @@
       "source": "http://www.wikidata.org/entity/Q126727184",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q43543173",
+      "title": "Portrait of Diego Ortiz de Zúñiga",
+      "date": "1653",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "bartolome-esteban-murillo",
+      "artistName": "Bartolomé Esteban Murillo",
+      "locationId": "penrhyn-castle-llandygai",
+      "location": "Penrhyn Castle",
+      "city": "Llandygai",
+      "country": "United Kingdom",
+      "lat": 53.2259,
+      "lon": -4.09462,
+      "source": "http://www.wikidata.org/entity/Q43543173",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Murillo%20-%20Count%20Diego%20Ortiz%20de%20Z%C3%BA%C3%B1iga%20%281633%E2%80%931680%29%20NTI%20PNC%201420344.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q192062",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -5552,19 +5808,20 @@
       "attribution": "Accepted",
       "artistId": "bartolome-esteban-murillo",
       "artistName": "Bartolomé Esteban Murillo",
-      "locationId": "philadelphia-museum-of-art-philadelphia",
+      "locationId": "philadelphia-museum-of-art-philadelphia-county",
       "location": "Philadelphia Museum of Art",
-      "city": "Philadelphia",
+      "city": "Philadelphia County",
       "country": "United States",
       "lat": 39.965833333,
       "lon": -75.181388888,
       "source": "http://www.wikidata.org/entity/Q20809516",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20-%20Christ%20Bearing%20the%20Cross%2C%20c.%201665-1675.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -5585,10 +5842,11 @@
       "source": "http://www.wikidata.org/entity/Q20809517",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -5609,10 +5867,11 @@
       "source": "http://www.wikidata.org/entity/Q131542724",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20esteban%20murillo%2C%20martirio%20di%20s.%20pietro%20d%27arbues.JPG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -5633,10 +5892,11 @@
       "source": "http://www.wikidata.org/entity/Q119776828",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Murillo%20%281617-1682%29%20%28attributed%20to%29%20-%20Head%20of%20the%20Madonna%20-%20PC.23%20-%20Pollok%20House.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -5657,10 +5917,11 @@
       "source": "http://www.wikidata.org/entity/Q118894966",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Murillo%20%281617-1682%29%20-%20Madonna%20and%20Child%20with%20Infant%20Saint%20John%2C%20%27La%20serrana%27%20-%20PC.63%20-%20Pollok%20House.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -5681,34 +5942,11 @@
       "source": "http://www.wikidata.org/entity/Q119776830",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Murillo%20%281617-1682%29%20%28after%29%20-%20Santa%20Justa%20and%20Santa%20Rufina%20-%20PC.32%20-%20Pollok%20House.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q9248634",
-      "title": "The Fruit Seller",
-      "date": "1655",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "bartolome-esteban-murillo",
-      "artistName": "Bartolomé Esteban Murillo",
-      "locationId": "pushkin-museum-of-fine-arts-khamovniki-district",
-      "location": "Pushkin Museum of Fine Arts",
-      "city": "Khamovniki District",
-      "country": "Russia",
-      "lat": 55.74702868,
-      "lon": 37.60602901,
-      "source": "http://www.wikidata.org/entity/Q9248634",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Perez%20Murillo%20016.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -5729,10 +5967,11 @@
       "source": "http://www.wikidata.org/entity/Q17340675",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/De%20verkondiging%20aan%20Maria%20Rijksmuseum%20SK-A-4704.jpeg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -5753,10 +5992,11 @@
       "source": "http://www.wikidata.org/entity/Q17320029",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/De%20verkondiging%20aan%20Maria%20Rijksmuseum%20SK-A-282.jpeg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -5777,10 +6017,11 @@
       "source": "http://www.wikidata.org/entity/Q17343143",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Murillo%20-%20Madonna%20and%20Child%20-%20296%20-%20Rijksmuseum.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -5796,15 +6037,16 @@
       "location": "Royal Academy of Fine Arts of San Fernando",
       "city": "Madrid",
       "country": "Spain",
-      "lat": 40.4178,
-      "lon": -3.7007,
+      "lat": 40.41779,
+      "lon": -3.70071,
       "source": "http://www.wikidata.org/entity/Q131541198",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Murillo%20-%20La%20Magdalena%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -5820,15 +6062,16 @@
       "location": "Royal Academy of Fine Arts of San Fernando",
       "city": "Madrid",
       "country": "Spain",
-      "lat": 40.4178,
-      "lon": -3.7007,
+      "lat": 40.41779,
+      "lon": -3.70071,
       "source": "http://www.wikidata.org/entity/Q107324811",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolome%20murillo-diego%20de%20alcala.JPG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -5844,15 +6087,16 @@
       "location": "Royal Academy of Fine Arts of San Fernando",
       "city": "Madrid",
       "country": "Spain",
-      "lat": 40.4178,
-      "lon": -3.7007,
+      "lat": 40.41779,
+      "lon": -3.70071,
       "source": "http://www.wikidata.org/entity/Q131541441",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Murillo%20-%20Resurrecci%C3%B3n%20del%20Se%C3%B1or%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -5864,19 +6108,20 @@
       "attribution": "Accepted",
       "artistId": "bartolome-esteban-murillo",
       "artistName": "Bartolomé Esteban Murillo",
-      "locationId": "sao-paulo-museum-of-art-bela-vista-district",
+      "locationId": "sao-paulo-museum-of-art-sao-paulo",
       "location": "São Paulo Museum of Art",
-      "city": "Bela Vista District",
+      "city": "São Paulo",
       "country": "Brazil",
       "lat": -23.561111111,
       "lon": -46.655833333,
       "source": "http://www.wikidata.org/entity/Q131542203",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20esteban%20murillo%20-%20santa%20catarina%20de%20alexandria%2001.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -5888,19 +6133,20 @@
       "attribution": "Accepted",
       "artistId": "bartolome-esteban-murillo",
       "artistName": "Bartolomé Esteban Murillo",
-      "locationId": "sao-paulo-museum-of-art-bela-vista-district",
+      "locationId": "sao-paulo-museum-of-art-sao-paulo",
       "location": "São Paulo Museum of Art",
-      "city": "Bela Vista District",
+      "city": "São Paulo",
       "country": "Brazil",
       "lat": -23.561111111,
       "lon": -46.655833333,
       "source": "http://www.wikidata.org/entity/Q49875935",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -5921,10 +6167,11 @@
       "source": "http://www.wikidata.org/entity/Q77977349",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -5945,10 +6192,11 @@
       "source": "http://www.wikidata.org/entity/Q140460425",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo-sor%20francisca%20dorotea.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -5969,10 +6217,11 @@
       "source": "http://www.wikidata.org/entity/Q107304805",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/San%20Leandro.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -5993,10 +6242,11 @@
       "source": "http://www.wikidata.org/entity/Q135332735",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Isidor%20von%20Sevilla.jpeg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -6017,34 +6267,11 @@
       "source": "http://www.wikidata.org/entity/Q5968484",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lavisi%C3%B3ndeSanAntonio.JPG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q43543173",
-      "title": "Portrait of Diego Ortiz de Zúñiga",
-      "date": "1653",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "bartolome-esteban-murillo",
-      "artistName": "Bartolomé Esteban Murillo",
-      "locationId": "seville-city-council-location-unknown",
-      "location": "Seville City Council",
-      "city": "Location unknown",
-      "country": "Country unknown",
-      "lat": 37.388726287,
-      "lon": -5.994554048,
-      "source": "http://www.wikidata.org/entity/Q43543173",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Ortiz%20de%20Z%C3%BA%C3%B1iga.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -6065,10 +6292,11 @@
       "source": "http://www.wikidata.org/entity/Q119776827",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Murillo%20%281617-1682%29%20-%20The%20Infant%20Christ%20Asleep%20on%20the%20Cross%20-%20VIS.73%20-%20Sheffield%20Galleries%20and%20Museums%20Trust.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -6089,10 +6317,11 @@
       "source": "http://www.wikidata.org/entity/Q119776838",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Murillo%20%281617-1682%29%20%28after%29%20-%20Children%20with%20a%20Dog%20and%20a%20Basket%20of%20Fruit%20%28after%20Bartolom%C3%A9%20Esteban%20Murillo%29%20-%201115%20-%20Southampton%20City%20Art%20Gallery.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -6113,10 +6342,11 @@
       "source": "http://www.wikidata.org/entity/Q131543221",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Perez%20Murillo%20-%20The%20Holy%20Family%20-%20WGA16371.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -6137,10 +6367,11 @@
       "source": "http://www.wikidata.org/entity/Q50325648",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20Virgen%20con%20el%20Ni%C3%B1o%20%28Gem%C3%A4ldegalerie%20Alte%20Meister%2C%20Dresde%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -6161,16 +6392,17 @@
       "source": "http://www.wikidata.org/entity/Q9396888",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Perez%20Murillo%20009.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
     {
       "id": "Q50325210",
-      "title": "Untitled record",
+      "title": "The Death of Saint Clare",
       "date": "1645",
       "type": "Painting",
       "attribution": "Accepted",
@@ -6184,11 +6416,12 @@
       "lon": 13.7369,
       "source": "http://www.wikidata.org/entity/Q50325210",
       "image": "",
-      "externalImage": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Murillo%2C%20Der%20Tod%20der%20Hl.%20Klara.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -6209,10 +6442,11 @@
       "source": "http://www.wikidata.org/entity/Q64799728",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Boy%20Eating%20Peaches%20%28SM%201506%29.png",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -6233,10 +6467,11 @@
       "source": "http://www.wikidata.org/entity/Q64786777",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20-%20The%20Good%20Shepherd%2C%20ca.%201675%20%E2%80%93%201682.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -6257,10 +6492,11 @@
       "source": "http://www.wikidata.org/entity/Q131541217",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Murillo%20-%20Madonna%20and%20Child.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -6281,10 +6517,11 @@
       "source": "http://www.wikidata.org/entity/Q52279850",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Murillo%20%281617-1682%29%20-%20An%20Old%20Woman%20Holding%20a%20Distaff%20and%20Spindle%20-%20732120%20-%20National%20Trust.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -6305,10 +6542,11 @@
       "source": "http://www.wikidata.org/entity/Q118878261",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Spanish%20School%20-%20Head%20of%20a%20Female%20Saint%20-%201298339%20-%20National%20Trust.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -6329,10 +6567,11 @@
       "source": "http://www.wikidata.org/entity/Q64581562",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -6353,10 +6592,11 @@
       "source": "http://www.wikidata.org/entity/Q119876188",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Murillo%20%281617-1682%29%20%28attributed%20to%29%20-%20The%20Presentation%20in%20the%20Temple%20-%20P45-76%20-%20The%20New%20Art%20Gallery%20Walsall.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -6377,10 +6617,11 @@
       "source": "http://www.wikidata.org/entity/Q119932248",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Murillo%20%281617-1682%29%20-%20Woman%20with%20a%20Distaff%20-%20H.4781%20-%20Thirlestane%20Castle.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -6401,10 +6642,11 @@
       "source": "http://www.wikidata.org/entity/Q21711555",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Perez%20Murillo%20-%20Virgin%20and%20Child%20with%20St%20Rosalina%20of%20Palermo%20-%20WGA16389.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -6425,10 +6667,11 @@
       "source": "http://www.wikidata.org/entity/Q46420346",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20-%20Christ%20on%20the%20Cross%2C%201660-70.png",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -6449,10 +6692,11 @@
       "source": "http://www.wikidata.org/entity/Q28778009",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Murillo%20-%20Adoration%20of%20the%20Magi%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -6473,10 +6717,11 @@
       "source": "http://www.wikidata.org/entity/Q119932586",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Murillo%20%281617-1682%29%20%28style%20of%29%20-%20Street%20Urchins%20Eating%20%28diptych%2C%20left%20panel%29%20-%20EU0541%20-%20University%20of%20Edinburgh%20Art%20Collection.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -6497,10 +6742,11 @@
       "source": "http://www.wikidata.org/entity/Q119932587",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Murillo%20%281617-1682%29%20%28style%20of%29%20-%20Street%20Urchins%20Eating%20%28diptych%2C%20right%20panel%29%20-%20EU0540%20-%20University%20of%20Edinburgh%20Art%20Collection.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -6521,10 +6767,11 @@
       "source": "http://www.wikidata.org/entity/Q119950861",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Murillo%20%281617-1682%29%20%28after%29%20-%20The%20Immaculate%20Conception%20-%20FAC00218%20-%20University%20of%20Exeter.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -6545,10 +6792,11 @@
       "source": "http://www.wikidata.org/entity/Q131542222",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Murillo%20-%20The%20Virgin%2C%20from%20The%20Immaculate%20Conception.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -6569,10 +6817,11 @@
       "source": "http://www.wikidata.org/entity/Q119925718",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Murillo%20%281617-1682%29%20%28after%29%20-%20The%20Immaculate%20Conception%20-%20532-1882%20-%20Victoria%20and%20Albert%20Museum.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -6593,10 +6842,11 @@
       "source": "http://www.wikidata.org/entity/Q119626018",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Murillo%20%281617-1682%29%20%28style%20of%29%20-%20The%20Virgin%20and%20Child%20with%20Saint%20John%20-%20584-1870%20-%20Victoria%20and%20Albert%20Museum.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -6617,10 +6867,11 @@
       "source": "http://www.wikidata.org/entity/Q81087077",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20-%20Saint%20Mary%20Magdalene%20Renouncing%20the%20Worldly%20Life%2053%2021%202%20v1%20KW%20200907%20o7.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -6641,10 +6892,11 @@
       "source": "http://www.wikidata.org/entity/Q64494835",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/FranciscusXavier.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -6665,10 +6917,11 @@
       "source": "http://www.wikidata.org/entity/Q28777907",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Murillo%20-%20Virgin%20and%20Child%20in%20Glory%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -6689,10 +6942,11 @@
       "source": "http://www.wikidata.org/entity/Q54918010",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Murillo%20%281617-1682%29%20%28after%29%20-%20Virgin%20and%20Child%20-%20WAG%201352%20-%20Walker%20Art%20Gallery.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -6713,10 +6967,11 @@
       "source": "http://www.wikidata.org/entity/Q106497136",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Murillo%20%281617-1682%29%20-%20Joseph%20and%20His%20Brethren%20-%20P46%20-%20The%20Wallace%20Collection.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -6737,10 +6992,11 @@
       "source": "http://www.wikidata.org/entity/Q106497109",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Murillo%20%281617-1682%29%20-%20The%20Adoration%20of%20the%20Shepherds%20-%20P34%20-%20The%20Wallace%20Collection.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -6761,10 +7017,11 @@
       "source": "http://www.wikidata.org/entity/Q106497128",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Murillo%20%281617-1682%29%20-%20The%20Annunciation%20-%20P68%20-%20The%20Wallace%20Collection.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -6785,10 +7042,11 @@
       "source": "http://www.wikidata.org/entity/Q106497245",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Murillo%20%281617-1682%29%20-%20The%20Charity%20of%20Saint%20Thomas%20of%20Villanueva%20-%20P97%20-%20The%20Wallace%20Collection.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -6809,34 +7067,11 @@
       "source": "http://www.wikidata.org/entity/Q106497122",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Murillo%20%281617-1682%29%20-%20The%20Holy%20Family%20with%20the%20Infant%20Baptist%20-%20P58%20-%20The%20Wallace%20Collection.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q131543181",
-      "title": "The Marriage of the Virgin",
-      "date": "1670",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "bartolome-esteban-murillo",
-      "artistName": "Bartolomé Esteban Murillo",
-      "locationId": "wallace-collection-city-of-westminster",
-      "location": "Wallace Collection",
-      "city": "City of Westminster",
-      "country": "United Kingdom",
-      "lat": 51.517454,
-      "lon": -0.153022,
-      "source": "http://www.wikidata.org/entity/Q131543181",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Perez%20Murillo%20-%20Marriage%20of%20the%20Virgin%20-%20WGA16388.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -6857,10 +7092,36 @@
       "source": "http://www.wikidata.org/entity/Q106497098",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Murillo%20%281617-1682%29%20-%20The%20Marriage%20of%20the%20Virgin%20-%20P14%20-%20The%20Wallace%20Collection.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q131543181",
+      "title": "The Marriage of the Virgin",
+      "date": "1670",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "bartolome-esteban-murillo",
+      "artistName": "Bartolomé Esteban Murillo",
+      "locationId": "wallace-collection-city-of-westminster",
+      "location": "Wallace Collection",
+      "city": "City of Westminster",
+      "country": "United Kingdom",
+      "lat": 51.517454,
+      "lon": -0.153022,
+      "source": "http://www.wikidata.org/entity/Q131543181",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Perez%20Murillo%20-%20Marriage%20of%20the%20Virgin%20-%20WGA16388.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q192062",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -6881,10 +7142,11 @@
       "source": "http://www.wikidata.org/entity/Q106497131",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Murillo%20%281617-1682%29%20-%20The%20Virgin%20and%20Child%20-%20P133%20-%20The%20Wallace%20Collection.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -6905,10 +7167,11 @@
       "source": "http://www.wikidata.org/entity/Q106497072",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Murillo%20%281617-1682%29%20%28attributed%20to%29%20-%20The%20Virgin%20and%20Child%20with%20a%20Rosary%20-%20P136%20-%20The%20Wallace%20Collection.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -6929,10 +7192,11 @@
       "source": "http://www.wikidata.org/entity/Q106497087",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Murillo%20%281617-1682%29%20-%20The%20Virgin%20and%20Child%20with%20Saints%20-%20P3%20-%20The%20Wallace%20Collection.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -6953,10 +7217,11 @@
       "source": "http://www.wikidata.org/entity/Q107307701",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Perez%20Murillo%20-%20Old%20Woman%20and%20Boy%20-%20WGA16367.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -6977,10 +7242,11 @@
       "source": "http://www.wikidata.org/entity/Q135615843",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20penitent%20Mary%20Magdalena%20%281670%29%20by%20Bartolome%20Esteban%20Murillo.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -7001,10 +7267,11 @@
       "source": "http://www.wikidata.org/entity/Q108314458",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20jubileo%20de%20la%20Porci%C3%BAncula%20%28Wallraf-Richartz%20Museum%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -7025,10 +7292,11 @@
       "source": "http://www.wikidata.org/entity/Q18749427",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Workshop%20of%20Bartolom%C3%A9%20Esteban%20Murillo%20-%20The%20Virgin%20of%20the%20Immaculate%20Conception%20-%20Walters%2037286.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -7049,10 +7317,11 @@
       "source": "http://www.wikidata.org/entity/Q119950865",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Murillo%20%281617-1682%29%20%28copy%20after%29%20-%20Christ%20Crowned%20with%20Thorns%20-%209%20-%20Westminster%20College.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -7068,15 +7337,16 @@
       "location": "Wisbech and Fenland Museum",
       "city": "Wisbech",
       "country": "United Kingdom",
-      "lat": 52.6641,
-      "lon": 0.161284,
+      "lat": 52.6639,
+      "lon": 0.160976,
       "source": "http://www.wikidata.org/entity/Q119950867",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Murillo%20%281617-1682%29%20%28copy%20after%29%20-%20Saint%20Joseph%20and%20the%20Christ%20Child%20-%20XT.oil%20painting.11%20-%20Wisbech%20and%20Fenland%20Museum.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -7097,10 +7367,11 @@
       "source": "http://www.wikidata.org/entity/Q119862914",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Murillo%20%281617-1682%29%20-%20Saint%20Thomas%20of%20Villanueva%20Healing%20the%20Lame%20Man%20-%20YORAG%20%2C%20780%20-%20York%20Art%20Gallery.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q192062",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     }

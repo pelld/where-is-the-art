@@ -17,7 +17,9 @@
       "country": "Chile",
       "lat": -33.435322,
       "lon": -70.643569,
-      "source": "http://www.wikidata.org/entity/Q131541403"
+      "source": "http://www.wikidata.org/entity/Q131541403",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Murillo%20-%20Virgen%20con%20el%20Ni%C3%B1o.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg"
     },
     {
       "id": "Q83811597",
@@ -34,7 +36,9 @@
       "country": "Chile",
       "lat": -33.435322,
       "lon": -70.643569,
-      "source": "http://www.wikidata.org/entity/Q83811597"
+      "source": "http://www.wikidata.org/entity/Q83811597",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Pissarro%20-%20Los%20sauces%20en%20invierno%2C%20Eragny%2C%20c.%201890.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg"
     },
     {
       "id": "Q123534103",
@@ -51,7 +55,9 @@
       "country": "Chile",
       "lat": -33.040293,
       "lon": -71.628733,
-      "source": "http://www.wikidata.org/entity/Q123534103"
+      "source": "http://www.wikidata.org/entity/Q123534103",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bonheur%2C%20Rosa%20-%20Vaca%20-ost%20MMBAV%20fRF02.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Andr%C3%A9%20Adolphe-Eug%C3%A8ne%20Disd%C3%A9ri%20%28French%20-%20%28Rosa%20Bonheur%29%20-%20Google%20Art%20Project.jpg"
     },
     {
       "id": "Q124301167",
@@ -68,7 +74,9 @@
       "country": "Chile",
       "lat": -33.040293,
       "lon": -71.628733,
-      "source": "http://www.wikidata.org/entity/Q124301167"
+      "source": "http://www.wikidata.org/entity/Q124301167",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bonheur%2C%20Rosa%20-%20Venado%20-ost%20MMBAV%20fRF02.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Andr%C3%A9%20Adolphe-Eug%C3%A8ne%20Disd%C3%A9ri%20%28French%20-%20%28Rosa%20Bonheur%29%20-%20Google%20Art%20Project.jpg"
     },
     {
       "id": "Q134426638",
@@ -85,7 +93,9 @@
       "country": "Chile",
       "lat": -33.040293,
       "lon": -71.628733,
-      "source": "http://www.wikidata.org/entity/Q134426638"
+      "source": "http://www.wikidata.org/entity/Q134426638",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bonheur%2C%20Rosa%20-%20Venado%20-ost%20MMBAV%20fRF01.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Andr%C3%A9%20Adolphe-Eug%C3%A8ne%20Disd%C3%A9ri%20%28French%20-%20%28Rosa%20Bonheur%29%20-%20Google%20Art%20Project.jpg"
     }
   ]
 }

@@ -1,0 +1,25 @@
+{
+  "id": "ohio",
+  "country": "Ohio",
+  "artworks": [
+    {
+      "id": "Q18209719",
+      "artistId": "winslow-homer",
+      "artistName": "Winslow Homer",
+      "reviewStatus": "generated",
+      "title": "Snap the Whip",
+      "date": "1872",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "butler-institute-of-american-art-youngstown",
+      "location": "Butler Institute of American Art",
+      "city": "Youngstown",
+      "country": "Ohio",
+      "lat": 41.105556,
+      "lon": -80.646111,
+      "source": "http://www.wikidata.org/entity/Q18209719",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Winslow%20Homer%20-%20Snap%20the%20Whip%20%28Butler%20Institute%20of%20American%20Art%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Winslow%20Homer%20by%20Sarony.jpeg"
+    }
+  ]
+}

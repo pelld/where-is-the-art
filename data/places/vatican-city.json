@@ -17,7 +17,9 @@
       "country": "Vatican City",
       "lat": 41.903611111,
       "lon": 12.456388888,
-      "source": "http://www.wikidata.org/entity/Q3947496"
+      "source": "http://www.wikidata.org/entity/Q3947496",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Angelico%2C%20niccolina%2001.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Fra%20Angelico%20portrait.jpg"
     },
     {
       "id": "Q3850308",
@@ -34,7 +36,9 @@
       "country": "Vatican City",
       "lat": 41.903611111,
       "lon": 12.456388888,
-      "source": "http://www.wikidata.org/entity/Q3850308"
+      "source": "http://www.wikidata.org/entity/Q3850308",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Angelico%2C%20niccolina%2007.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Fra%20Angelico%20portrait.jpg"
     },
     {
       "id": "Q3947498",
@@ -51,7 +55,9 @@
       "country": "Vatican City",
       "lat": 41.903611111,
       "lon": 12.456388888,
-      "source": "http://www.wikidata.org/entity/Q3947498"
+      "source": "http://www.wikidata.org/entity/Q3947498",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Angelico%2C%20niccolina%2011.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Fra%20Angelico%20portrait.jpg"
     },
     {
       "id": "Q15141556",
@@ -68,7 +74,9 @@
       "country": "Vatican City",
       "lat": 41.903611111,
       "lon": 12.456388888,
-      "source": "http://www.wikidata.org/entity/Q15141556"
+      "source": "http://www.wikidata.org/entity/Q15141556",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/San%20Lorenzo%20%28Beato%20Angelico%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Fra%20Angelico%20portrait.jpg"
     },
     {
       "id": "Q9561272",
@@ -85,7 +93,9 @@
       "country": "Vatican City",
       "lat": 41.903611111,
       "lon": 12.456388888,
-      "source": "http://www.wikidata.org/entity/Q9561272"
+      "source": "http://www.wikidata.org/entity/Q9561272",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Loggia%20di%20raffaello%2C%2004%2C%2003.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Raffaello%20Sanzio.jpg"
     },
     {
       "id": "Q3620750",
@@ -102,7 +112,9 @@
       "country": "Vatican City",
       "lat": 41.903611111,
       "lon": 12.456388888,
-      "source": "http://www.wikidata.org/entity/Q3620750"
+      "source": "http://www.wikidata.org/entity/Q3620750",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Marcantonio%20raimondi%2C%20san%20giuda%20taddeo.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Raffaello%20Sanzio.jpg"
     },
     {
       "id": "Q131557878",
@@ -119,7 +131,9 @@
       "country": "Vatican City",
       "lat": 41.903611111,
       "lon": 12.456388888,
-      "source": "http://www.wikidata.org/entity/Q131557878"
+      "source": "http://www.wikidata.org/entity/Q131557878",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Virt%C3%B9%20e%20due%20scene%2003.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Raffaello%20Sanzio.jpg"
     },
     {
       "id": "Q186953",
@@ -136,7 +150,9 @@
       "country": "Vatican City",
       "lat": 41.903611111,
       "lon": 12.456388888,
-      "source": "http://www.wikidata.org/entity/Q186953"
+      "source": "http://www.wikidata.org/entity/Q186953",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%22The%20School%20of%20Athens%22%20by%20Raffaello%20Sanzio%20da%20Urbino.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Raffaello%20Sanzio.jpg"
     },
     {
       "id": "Q29278456",
@@ -153,7 +169,9 @@
       "country": "Vatican City",
       "lat": 41.903333333,
       "lon": 12.455,
-      "source": "http://www.wikidata.org/entity/Q29278456"
+      "source": "http://www.wikidata.org/entity/Q29278456",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul-gauguin-matthew58-1892.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Gauguin%201891.png"
     },
     {
       "id": "Q131542724",
@@ -170,7 +188,9 @@
       "country": "Vatican City",
       "lat": 41.90573,
       "lon": 12.45277,
-      "source": "http://www.wikidata.org/entity/Q131542724"
+      "source": "http://www.wikidata.org/entity/Q131542724",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20esteban%20murillo%2C%20martirio%20di%20s.%20pietro%20d%27arbues.JPG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg"
     },
     {
       "id": "Q1213151",
@@ -187,7 +207,9 @@
       "country": "Vatican City",
       "lat": 41.90573,
       "lon": 12.45277,
-      "source": "http://www.wikidata.org/entity/Q1213151"
+      "source": "http://www.wikidata.org/entity/Q1213151",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Entombment%20of%20Christ-Caravaggio%20%28c.1602-3%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bild-Ottavio%20Leoni%2C%20Caravaggio.jpg"
     },
     {
       "id": "Q131704772",
@@ -204,7 +226,9 @@
       "country": "Vatican City",
       "lat": 41.90573,
       "lon": 12.45277,
-      "source": "http://www.wikidata.org/entity/Q131704772"
+      "source": "http://www.wikidata.org/entity/Q131704772",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Il%20Redentore%20%28Correggio%29%20September%202015-1.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Antonio%20Allegri%20da%20Correggio.jpg"
     },
     {
       "id": "Q3999104",
@@ -221,7 +245,9 @@
       "country": "Vatican City",
       "lat": 41.90573,
       "lon": 12.45277,
-      "source": "http://www.wikidata.org/entity/Q3999104"
+      "source": "http://www.wikidata.org/entity/Q3999104",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Correggio%2C%20trittico%20dell%27umanit%C3%A0.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Antonio%20Allegri%20da%20Correggio.jpg"
     },
     {
       "id": "Q116600697",
@@ -238,7 +264,9 @@
       "country": "Vatican City",
       "lat": 41.90573,
       "lon": 12.45277,
-      "source": "http://www.wikidata.org/entity/Q116600697"
+      "source": "http://www.wikidata.org/entity/Q116600697",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Angelico%2C%20amest%C3%A0%20con%20san%20domenico%20e%20santa%20caterina%20d%27alesandria.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Fra%20Angelico%20portrait.jpg"
     },
     {
       "id": "Q116921087",
@@ -255,7 +283,9 @@
       "country": "Vatican City",
       "lat": 41.90573,
       "lon": 12.45277,
-      "source": "http://www.wikidata.org/entity/Q116921087"
+      "source": "http://www.wikidata.org/entity/Q116921087",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Angelico%2C%20stimmate%20di%20san%20francesco%2C%20pinacoteca%20vaticana.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Fra%20Angelico%20portrait.jpg"
     },
     {
       "id": "Q87492048",
@@ -272,7 +302,9 @@
       "country": "Vatican City",
       "lat": 41.90573,
       "lon": 12.45277,
-      "source": "http://www.wikidata.org/entity/Q87492048"
+      "source": "http://www.wikidata.org/entity/Q87492048",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Fra%20Angelico%20086.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Fra%20Angelico%20portrait.jpg"
     },
     {
       "id": "Q131613931",
@@ -289,7 +321,9 @@
       "country": "Vatican City",
       "lat": 41.90573,
       "lon": 12.45277,
-      "source": "http://www.wikidata.org/entity/Q131613931"
+      "source": "http://www.wikidata.org/entity/Q131613931",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Fra%20Angelico%20portrait.jpg"
     },
     {
       "id": "Q125959748",
@@ -306,7 +340,9 @@
       "country": "Vatican City",
       "lat": 41.90573,
       "lon": 12.45277,
-      "source": "http://www.wikidata.org/entity/Q125959748"
+      "source": "http://www.wikidata.org/entity/Q125959748",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Angelico%2C%20s.%20nicola%20salva%20carico%20di%20grandi%20per%20mira%2C%201437%20ca.%2001.JPG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Fra%20Angelico%20portrait.jpg"
     },
     {
       "id": "Q125959754",
@@ -323,7 +359,9 @@
       "country": "Vatican City",
       "lat": 41.90573,
       "lon": 12.45277,
-      "source": "http://www.wikidata.org/entity/Q125959754"
+      "source": "http://www.wikidata.org/entity/Q125959754",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Angelico%2C%20san%20nicola%20salva%20tre%20condannati%20a%20morte%2C%20polittico%20di%20Perugia.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Fra%20Angelico%20portrait.jpg"
     },
     {
       "id": "Q3539575",
@@ -340,7 +378,9 @@
       "country": "Vatican City",
       "lat": 41.90573,
       "lon": 12.45277,
-      "source": "http://www.wikidata.org/entity/Q3539575"
+      "source": "http://www.wikidata.org/entity/Q3539575",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Polittico%20stefaneschi%2C%20retro.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Uffizi%20Giotto.jpg"
     },
     {
       "id": "Q118495235",
@@ -357,7 +397,9 @@
       "country": "Vatican City",
       "lat": 41.90573,
       "lon": 12.45277,
-      "source": "http://www.wikidata.org/entity/Q118495235"
+      "source": "http://www.wikidata.org/entity/Q118495235",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Giotto%20di%20Bondone%20-%20The%20Stefaneschi%20Triptych%20-%20Christ%20Enthroned%20-%20WGA09351.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Uffizi%20Giotto.jpg"
     },
     {
       "id": "Q131753970",
@@ -374,7 +416,9 @@
       "country": "Vatican City",
       "lat": 41.90573,
       "lon": 12.45277,
-      "source": "http://www.wikidata.org/entity/Q131753970"
+      "source": "http://www.wikidata.org/entity/Q131753970",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Giovanni%20Bellini%20%28Venice%2C%20c.%201435%20-%201516%29%20-%20Lamentation%20over%20the%20Dead%20Christ%20-%20MV.40290%20-%20Pinacoteca%20Vaticana.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Portr%C3%A6t%20af%20den%20venezianske%20maler%20Giovanni%20Bellini.jpg"
     },
     {
       "id": "Q972196",
@@ -391,7 +435,9 @@
       "country": "Vatican City",
       "lat": 41.90573,
       "lon": 12.45277,
-      "source": "http://www.wikidata.org/entity/Q972196"
+      "source": "http://www.wikidata.org/entity/Q972196",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Leonardo%20da%20Vinci%20%E2%80%94%20Jerome.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Francesco%20Melzi%20-%20Portrait%20of%20Leonardo.png"
     },
     {
       "id": "Q1832360",
@@ -408,7 +454,9 @@
       "country": "Vatican City",
       "lat": 41.90573,
       "lon": 12.45277,
-      "source": "http://www.wikidata.org/entity/Q1832360"
+      "source": "http://www.wikidata.org/entity/Q1832360",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Vision%20of%20St%20Helena%20veronese2.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Veronese%20-%20AUTORITRATTO%20%282%29%20-%20Museo%20dell%27Ermitage.jpg"
     },
     {
       "id": "Q131546455",
@@ -425,7 +473,9 @@
       "country": "Vatican City",
       "lat": 41.90573,
       "lon": 12.45277,
-      "source": "http://www.wikidata.org/entity/Q131546455"
+      "source": "http://www.wikidata.org/entity/Q131546455",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Raffaello%20Sanzio%20-%20Theological%20Virtues%20-%20WGA18669.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Raffaello%20Sanzio.jpg"
     },
     {
       "id": "Q3658723",
@@ -442,7 +492,9 @@
       "country": "Vatican City",
       "lat": 41.90573,
       "lon": 12.45277,
-      "source": "http://www.wikidata.org/entity/Q3658723"
+      "source": "http://www.wikidata.org/entity/Q3658723",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Raffaello%2C%20pala%20baglioni%2C%20carit%C3%A0.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Raffaello%20Sanzio.jpg"
     },
     {
       "id": "Q3740794",
@@ -459,7 +511,9 @@
       "country": "Vatican City",
       "lat": 41.90573,
       "lon": 12.45277,
-      "source": "http://www.wikidata.org/entity/Q3740794"
+      "source": "http://www.wikidata.org/entity/Q3740794",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Raffaello%2C%20pala%20baglioni%2C%20fede.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Raffaello%20Sanzio.jpg"
     },
     {
       "id": "Q3966501",
@@ -476,7 +530,9 @@
       "country": "Vatican City",
       "lat": 41.90573,
       "lon": 12.45277,
-      "source": "http://www.wikidata.org/entity/Q3966501"
+      "source": "http://www.wikidata.org/entity/Q3966501",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Raffaello%2C%20pala%20baglioni%2C%20speranza.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Raffaello%20Sanzio.jpg"
     },
     {
       "id": "Q2610709",
@@ -493,7 +549,9 @@
       "country": "Vatican City",
       "lat": 41.90573,
       "lon": 12.45277,
-      "source": "http://www.wikidata.org/entity/Q2610709"
+      "source": "http://www.wikidata.org/entity/Q2610709",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Madonna%20di%20Foligno%20%28Raphael%29%20September%202015-1a.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Raffaello%20Sanzio.jpg"
     },
     {
       "id": "Q131690612",
@@ -510,7 +568,9 @@
       "country": "Vatican City",
       "lat": 41.90573,
       "lon": 12.45277,
-      "source": "http://www.wikidata.org/entity/Q131690612"
+      "source": "http://www.wikidata.org/entity/Q131690612",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Giulio%20Romano%20-%20Coronation%20of%20the%20Virgin%20%28Madonna%20of%20Monteluce%29%20-%20WGA09613.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Raffaello%20Sanzio.jpg"
     },
     {
       "id": "Q2344357",
@@ -527,7 +587,9 @@
       "country": "Vatican City",
       "lat": 41.90573,
       "lon": 12.45277,
-      "source": "http://www.wikidata.org/entity/Q2344357"
+      "source": "http://www.wikidata.org/entity/Q2344357",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/PalaOddiRaffaello.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Raffaello%20Sanzio.jpg"
     },
     {
       "id": "Q116286717",
@@ -544,7 +606,9 @@
       "country": "Vatican City",
       "lat": 41.90573,
       "lon": 12.45277,
-      "source": "http://www.wikidata.org/entity/Q116286717"
+      "source": "http://www.wikidata.org/entity/Q116286717",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Raphael%20-%20The%20Annunciation%20%28Oddi%20altar%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Raffaello%20Sanzio.jpg"
     },
     {
       "id": "Q2344437",
@@ -561,7 +625,9 @@
       "country": "Vatican City",
       "lat": 41.90573,
       "lon": 12.45277,
-      "source": "http://www.wikidata.org/entity/Q2344437"
+      "source": "http://www.wikidata.org/entity/Q2344437",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Transfigurazione%20%28Raffaello%29%20September%202015-1a.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Raffaello%20Sanzio.jpg"
     },
     {
       "id": "Q140247103",
@@ -578,7 +644,9 @@
       "country": "Vatican City",
       "lat": 41.90573,
       "lon": 12.45277,
-      "source": "http://www.wikidata.org/entity/Q140247103"
+      "source": "http://www.wikidata.org/entity/Q140247103",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Adoration%20of%20the%20Magi%20-%20Rafael.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Raffaello%20Sanzio.jpg"
     },
     {
       "id": "Q124261369",
@@ -595,7 +663,9 @@
       "country": "Vatican City",
       "lat": 41.90573,
       "lon": 12.45277,
-      "source": "http://www.wikidata.org/entity/Q124261369"
+      "source": "http://www.wikidata.org/entity/Q124261369",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Titian%20madonna%20of%20frari%20vatican.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Vecellio%20di%20Gregorio%20Tiziano%20-%20autoritratto.jpg"
     },
     {
       "id": "Q2268688",
@@ -612,7 +682,9 @@
       "country": "Vatican City",
       "lat": 41.902956,
       "lon": 12.454433,
-      "source": "http://www.wikidata.org/entity/Q2268688"
+      "source": "http://www.wikidata.org/entity/Q2268688",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Botticcelli%2C%20Sandro%20-%20The%20Punishment%20of%20Korah%20and%20the%20Stoning%20of%20Moses%20and%20Aaron%20-%201481-82.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sandro%20Botticelli%20Self-portrait%20ca%201475.jpg"
     },
     {
       "id": "Q1131272",
@@ -629,7 +701,9 @@
       "country": "Vatican City",
       "lat": 41.902956,
       "lon": 12.454433,
-      "source": "http://www.wikidata.org/entity/Q1131272"
+      "source": "http://www.wikidata.org/entity/Q1131272",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/05%20Tentaciones%20de%20Cristo%20%28Botticelli%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sandro%20Botticelli%20Self-portrait%20ca%201475.jpg"
     },
     {
       "id": "Q2268725",
@@ -646,7 +720,9 @@
       "country": "Vatican City",
       "lat": 41.902956,
       "lon": 12.454433,
-      "source": "http://www.wikidata.org/entity/Q2268725"
+      "source": "http://www.wikidata.org/entity/Q2268725",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Eventos%20de%20la%20vida%20de%20Mois%C3%A9s%20%28Sandro%20Botticelli%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sandro%20Botticelli%20Self-portrait%20ca%201475.jpg"
     },
     {
       "id": "michelangelo:vatican:sistine-chapel-ceiling",
@@ -663,7 +739,9 @@
       "country": "Vatican City",
       "lat": 41.9029,
       "lon": 12.4545,
-      "source": "https://www.museivaticani.va/content/museivaticani/en/collezioni/musei/cappella-sistina/tour-virtuale.html"
+      "source": "https://www.museivaticani.va/content/museivaticani/en/collezioni/musei/cappella-sistina/tour-virtuale.html",
+      "externalImage": "",
+      "artistImage": ""
     },
     {
       "id": "michelangelo:vatican:the-last-judgement",
@@ -680,7 +758,9 @@
       "country": "Vatican City",
       "lat": 41.9029,
       "lon": 12.4545,
-      "source": "https://www.museivaticani.va/content/museivaticani/en/collezioni/musei/cappella-sistina/tour-virtuale.html"
+      "source": "https://www.museivaticani.va/content/museivaticani/en/collezioni/musei/cappella-sistina/tour-virtuale.html",
+      "externalImage": "",
+      "artistImage": ""
     },
     {
       "id": "michelangelo:st-peters:pieta",
@@ -697,7 +777,9 @@
       "country": "Vatican City",
       "lat": 41.9022,
       "lon": 12.4539,
-      "source": "https://www.basilicasanpietro.va/en.html"
+      "source": "https://www.basilicasanpietro.va/en.html",
+      "externalImage": "",
+      "artistImage": ""
     },
     {
       "id": "Q1311080",
@@ -714,7 +796,9 @@
       "country": "Vatican City",
       "lat": 41.902222222,
       "lon": 12.453416666,
-      "source": "http://www.wikidata.org/entity/Q1311080"
+      "source": "http://www.wikidata.org/entity/Q1311080",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Giotto%20di%20Bondone%20-%20Tondo%20with%20Angel%20-%20WGA09365.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Uffizi%20Giotto.jpg"
     },
     {
       "id": "Q138717328",
@@ -731,7 +815,9 @@
       "country": "Vatican City",
       "lat": 41.906388888,
       "lon": 12.454444444,
-      "source": "http://www.wikidata.org/entity/Q138717328"
+      "source": "http://www.wikidata.org/entity/Q138717328",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Greco%2C%20Il%20Redentore%20%28ca.%201590-1595%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Greco%20-%20Portrait%20of%20a%20Man%20-%20WGA10554.jpg"
     },
     {
       "id": "Q81847815",
@@ -748,7 +834,9 @@
       "country": "Vatican City",
       "lat": 41.906388888,
       "lon": 12.454444444,
-      "source": "http://www.wikidata.org/entity/Q81847815"
+      "source": "http://www.wikidata.org/entity/Q81847815",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pesca%20miracolosa.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Raffaello%20Sanzio.jpg"
     },
     {
       "id": "Q76844726",
@@ -765,7 +853,9 @@
       "country": "Vatican City",
       "lat": 41.906388888,
       "lon": 12.454444444,
-      "source": "http://www.wikidata.org/entity/Q76844726"
+      "source": "http://www.wikidata.org/entity/Q76844726",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%E6%A2%B5%E8%92%82%E5%B2%A1%E8%81%96%E5%BD%BC%E5%BE%97%E5%A4%A7%E6%95%99%E5%A0%8267.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Raffaello%20Sanzio.jpg"
     },
     {
       "id": "Q3605053",
@@ -782,7 +872,9 @@
       "country": "Vatican City",
       "lat": 41.906388888,
       "lon": 12.454444444,
-      "source": "http://www.wikidata.org/entity/Q3605053"
+      "source": "http://www.wikidata.org/entity/Q3605053",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Volta%20della%20stanza%20della%20segnatura%2009%20adamo%20ed%20eva.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Raffaello%20Sanzio.jpg"
     },
     {
       "id": "Q3620697",
@@ -799,7 +891,9 @@
       "country": "Vatican City",
       "lat": 41.906388888,
       "lon": 12.454444444,
-      "source": "http://www.wikidata.org/entity/Q3620697"
+      "source": "http://www.wikidata.org/entity/Q3620697",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Marsyas%20in%20chains.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Raffaello%20Sanzio.jpg"
     },
     {
       "id": "Q3620832",
@@ -816,7 +910,9 @@
       "country": "Vatican City",
       "lat": 41.906388888,
       "lon": 12.454444444,
-      "source": "http://www.wikidata.org/entity/Q3620832"
+      "source": "http://www.wikidata.org/entity/Q3620832",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Stanza%20di%20eliodoro%2C%20volta%2005%20apparizione%20di%20dio%20a%20no%C3%A8.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Raffaello%20Sanzio.jpg"
     },
     {
       "id": "Q3921896",
@@ -833,7 +929,9 @@
       "country": "Vatican City",
       "lat": 41.906388888,
       "lon": 12.454444444,
-      "source": "http://www.wikidata.org/entity/Q3921896"
+      "source": "http://www.wikidata.org/entity/Q3921896",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Volta%20della%20stanza%20della%20segnatura%2006%20primo%20motore.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Raffaello%20Sanzio.jpg"
     },
     {
       "id": "Q131292166",
@@ -850,7 +948,9 @@
       "country": "Vatican City",
       "lat": 41.906388888,
       "lon": 12.454444444,
-      "source": "http://www.wikidata.org/entity/Q131292166"
+      "source": "http://www.wikidata.org/entity/Q131292166",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Le%20Ore.%20Arazzo%20della%20bottega%20di%20Pieter%20van%20Aelst%20su%20cartone%20di%20Raffaello%2C%201517-21%20-FG%20%28cropped%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Raffaello%20Sanzio.jpg"
     },
     {
       "id": "Q131292152",
@@ -867,7 +967,9 @@
       "country": "Vatican City",
       "lat": 41.906388888,
       "lon": 12.454444444,
-      "source": "http://www.wikidata.org/entity/Q131292152"
+      "source": "http://www.wikidata.org/entity/Q131292152",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bottega%20di%20pieter%20van%20aelst%20su%20dis.%20di%20raffaello%2C%20arazzo%20per%20la%20sistina%2C%20bordura%20con%20stagioni%20%28musei%20vaticani%29%2001.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Raffaello%20Sanzio.jpg"
     },
     {
       "id": "Q3941955",
@@ -884,7 +986,9 @@
       "country": "Vatican City",
       "lat": 41.906388888,
       "lon": 12.454444444,
-      "source": "http://www.wikidata.org/entity/Q3941955"
+      "source": "http://www.wikidata.org/entity/Q3941955",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Stanza%20di%20eliodoro%2C%20volta%2003%20roveto%20ardente.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Raffaello%20Sanzio.jpg"
     },
     {
       "id": "Q2568776",
@@ -901,7 +1005,9 @@
       "country": "Vatican City",
       "lat": 41.906388888,
       "lon": 12.454444444,
-      "source": "http://www.wikidata.org/entity/Q2568776"
+      "source": "http://www.wikidata.org/entity/Q2568776",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Virt%C3%B9%20e%20due%20scene%2002.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Raffaello%20Sanzio.jpg"
     },
     {
       "id": "Q3689722",
@@ -918,7 +1024,9 @@
       "country": "Vatican City",
       "lat": 41.906388888,
       "lon": 12.454444444,
-      "source": "http://www.wikidata.org/entity/Q3689722"
+      "source": "http://www.wikidata.org/entity/Q3689722",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Conversion%20of%20Paul%20%28Acts%20of%20the%20Apostles%20tapestries%20-%20Vatican%20series%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Raffaello%20Sanzio.jpg"
     },
     {
       "id": "Q549953",
@@ -935,7 +1043,9 @@
       "country": "Vatican City",
       "lat": 41.906388888,
       "lon": 12.454444444,
-      "source": "http://www.wikidata.org/entity/Q549953"
+      "source": "http://www.wikidata.org/entity/Q549953",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Raphaels%20Disputation%20of%20the%20Holy%20Sacrament.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Raffaello%20Sanzio.jpg"
     },
     {
       "id": "Q131290545",
@@ -952,7 +1062,9 @@
       "country": "Vatican City",
       "lat": 41.906388888,
       "lon": 12.454444444,
-      "source": "http://www.wikidata.org/entity/Q131290545"
+      "source": "http://www.wikidata.org/entity/Q131290545",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Healing%20of%20the%20Lame%20Man%20%28Acts%20of%20the%20Apostles%20tapestries%20-%20Vatican%20series%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Raffaello%20Sanzio.jpg"
     },
     {
       "id": "Q3951391",
@@ -969,7 +1081,9 @@
       "country": "Vatican City",
       "lat": 41.906388888,
       "lon": 12.454444444,
-      "source": "http://www.wikidata.org/entity/Q3951391"
+      "source": "http://www.wikidata.org/entity/Q3951391",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Stanza%20di%20eliodoro%2C%20volta%2004%20scala%20di%20giacobbe.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Raffaello%20Sanzio.jpg"
     },
     {
       "id": "Q3769195",
@@ -986,7 +1100,9 @@
       "country": "Vatican City",
       "lat": 41.906388888,
       "lon": 12.454444444,
-      "source": "http://www.wikidata.org/entity/Q3769195"
+      "source": "http://www.wikidata.org/entity/Q3769195",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Volta%20della%20stanza%20della%20segnatura%2008%20giudizio%20di%20salomone.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Raffaello%20Sanzio.jpg"
     },
     {
       "id": "Q3771745",
@@ -1003,7 +1119,9 @@
       "country": "Vatican City",
       "lat": 41.906388888,
       "lon": 12.454444444,
-      "source": "http://www.wikidata.org/entity/Q3771745"
+      "source": "http://www.wikidata.org/entity/Q3771745",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Volta%20della%20stanza%20della%20segnatura%2005%20giustizia.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Raffaello%20Sanzio.jpg"
     },
     {
       "id": "Q2719737",
@@ -1020,7 +1138,9 @@
       "country": "Vatican City",
       "lat": 41.906388888,
       "lon": 12.454444444,
-      "source": "http://www.wikidata.org/entity/Q2719737"
+      "source": "http://www.wikidata.org/entity/Q2719737",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Deliveranceofstpeter.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Raffaello%20Sanzio.jpg"
     },
     {
       "id": "Q131290106",
@@ -1037,7 +1157,9 @@
       "country": "Vatican City",
       "lat": 41.906388888,
       "lon": 12.454444444,
-      "source": "http://www.wikidata.org/entity/Q131290106"
+      "source": "http://www.wikidata.org/entity/Q131290106",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/London%2C%20National%20Gallery%2C%20Rafael%20Exhibition%202022%2C%20Preaching%20of%20St%20Paul%20%28tapestry%29%20%28cropped%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Raffaello%20Sanzio.jpg"
     },
     {
       "id": "Q3733771",
@@ -1054,7 +1176,9 @@
       "country": "Vatican City",
       "lat": 41.906388888,
       "lon": 12.454444444,
-      "source": "http://www.wikidata.org/entity/Q3733771"
+      "source": "http://www.wikidata.org/entity/Q3733771",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Volta%20della%20stanza%20della%20segnatura%2002%2C%20filosofia.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Raffaello%20Sanzio.jpg"
     },
     {
       "id": "Q3906946",
@@ -1071,7 +1195,9 @@
       "country": "Vatican City",
       "lat": 41.906388888,
       "lon": 12.454444444,
-      "source": "http://www.wikidata.org/entity/Q3906946"
+      "source": "http://www.wikidata.org/entity/Q3906946",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Volta%20della%20stanza%20della%20segnatura%2003%20poesia.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Raffaello%20Sanzio.jpg"
     },
     {
       "id": "Q3944652",
@@ -1088,7 +1214,9 @@
       "country": "Vatican City",
       "lat": 41.906388888,
       "lon": 12.454444444,
-      "source": "http://www.wikidata.org/entity/Q3944652"
+      "source": "http://www.wikidata.org/entity/Q3944652",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Stanza%20di%20eliodoro%2C%20volta%2002%20sacrificio%20di%20isacco.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Raffaello%20Sanzio.jpg"
     },
     {
       "id": "Q3947763",
@@ -1105,7 +1233,9 @@
       "country": "Vatican City",
       "lat": 41.906388888,
       "lon": 12.454444444,
-      "source": "http://www.wikidata.org/entity/Q3947763"
+      "source": "http://www.wikidata.org/entity/Q3947763",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Saint%20Paul%20in%20Prison%20%28Acts%20of%20the%20Apostles%20tapestries%20-%20Vatican%20series%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Raffaello%20Sanzio.jpg"
     },
     {
       "id": "Q3945256",
@@ -1122,7 +1252,9 @@
       "country": "Vatican City",
       "lat": 41.906388888,
       "lon": 12.454444444,
-      "source": "http://www.wikidata.org/entity/Q3945256"
+      "source": "http://www.wikidata.org/entity/Q3945256",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sala%20di%20costantino%2C%20veduta%2001.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Raffaello%20Sanzio.jpg"
     },
     {
       "id": "Q9292247",
@@ -1139,7 +1271,9 @@
       "country": "Vatican City",
       "lat": 41.906388888,
       "lon": 12.454444444,
-      "source": "http://www.wikidata.org/entity/Q9292247"
+      "source": "http://www.wikidata.org/entity/Q9292247",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Raffael%20Stanza%20della%20Segnatura.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Raffaello%20Sanzio.jpg"
     },
     {
       "id": "Q774018",
@@ -1156,7 +1290,9 @@
       "country": "Vatican City",
       "lat": 41.906388888,
       "lon": 12.454444444,
-      "source": "http://www.wikidata.org/entity/Q774018"
+      "source": "http://www.wikidata.org/entity/Q774018",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Raffael%20Staza%20di%20Eliodoro.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Raffaello%20Sanzio.jpg"
     },
     {
       "id": "Q3826995",
@@ -1173,7 +1309,9 @@
       "country": "Vatican City",
       "lat": 41.906388888,
       "lon": 12.454444444,
-      "source": "http://www.wikidata.org/entity/Q3826995"
+      "source": "http://www.wikidata.org/entity/Q3826995",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Arazzi%20di%20raffaello%2C%20lapidazione%20di%20santo%20stefano.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Raffaello%20Sanzio.jpg"
     },
     {
       "id": "Q1996917",
@@ -1190,7 +1328,9 @@
       "country": "Vatican City",
       "lat": 41.906388888,
       "lon": 12.454444444,
-      "source": "http://www.wikidata.org/entity/Q1996917"
+      "source": "http://www.wikidata.org/entity/Q1996917",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Raphael%20Baptism%20Constantine.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Raffaello%20Sanzio.jpg"
     },
     {
       "id": "Q2564496",
@@ -1207,7 +1347,9 @@
       "country": "Vatican City",
       "lat": 41.906388888,
       "lon": 12.454444444,
-      "source": "http://www.wikidata.org/entity/Q2564496"
+      "source": "http://www.wikidata.org/entity/Q2564496",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Raphael%20Ostia.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Raffaello%20Sanzio.jpg"
     },
     {
       "id": "Q131290623",
@@ -1224,7 +1366,9 @@
       "country": "Vatican City",
       "lat": 41.906388888,
       "lon": 12.454444444,
-      "source": "http://www.wikidata.org/entity/Q131290623"
+      "source": "http://www.wikidata.org/entity/Q131290623",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pasce%20oves%20meas%20%28Acts%20of%20the%20Apostles%20tapestries%20-%20Vatican%20series%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Raffaello%20Sanzio.jpg"
     },
     {
       "id": "Q131290754",
@@ -1241,7 +1385,9 @@
       "country": "Vatican City",
       "lat": 41.906388888,
       "lon": 12.454444444,
-      "source": "http://www.wikidata.org/entity/Q131290754"
+      "source": "http://www.wikidata.org/entity/Q131290754",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Conversion%20of%20the%20Proconsul%20-%20Blinding%20of%20Elymas%20%28Acts%20of%20the%20Apostles%20tapestries%20-%20Vatican%20series%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Raffaello%20Sanzio.jpg"
     },
     {
       "id": "Q1450935",
@@ -1258,7 +1404,9 @@
       "country": "Vatican City",
       "lat": 41.906388888,
       "lon": 12.454444444,
-      "source": "http://www.wikidata.org/entity/Q1450935"
+      "source": "http://www.wikidata.org/entity/Q1450935",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Raphael-%20Coronation%20of%20Charlemagne%202.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Raffaello%20Sanzio.jpg"
     },
     {
       "id": "Q131290769",
@@ -1275,7 +1423,9 @@
       "country": "Vatican City",
       "lat": 41.906388888,
       "lon": 12.454444444,
-      "source": "http://www.wikidata.org/entity/Q131290769"
+      "source": "http://www.wikidata.org/entity/Q131290769",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Death%20of%20Ananias%20%28Acts%20of%20the%20Apostles%20tapestries%20-%20Vatican%20series%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Raffaello%20Sanzio.jpg"
     },
     {
       "id": "Q2294201",
@@ -1292,7 +1442,9 @@
       "country": "Vatican City",
       "lat": 41.906388888,
       "lon": 12.454444444,
-      "source": "http://www.wikidata.org/entity/Q2294201"
+      "source": "http://www.wikidata.org/entity/Q2294201",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Raphael%20Heliodorus.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Raffaello%20Sanzio.jpg"
     },
     {
       "id": "Q2531790",
@@ -1309,7 +1461,9 @@
       "country": "Vatican City",
       "lat": 41.906388888,
       "lon": 12.454444444,
-      "source": "http://www.wikidata.org/entity/Q2531790"
+      "source": "http://www.wikidata.org/entity/Q2531790",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Raphael%20-%20Fire%20in%20the%20Borgo.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Raffaello%20Sanzio.jpg"
     },
     {
       "id": "Q2529969",
@@ -1326,7 +1480,9 @@
       "country": "Vatican City",
       "lat": 41.906388888,
       "lon": 12.454444444,
-      "source": "http://www.wikidata.org/entity/Q2529969"
+      "source": "http://www.wikidata.org/entity/Q2529969",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Massatbolsena.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Raffaello%20Sanzio.jpg"
     },
     {
       "id": "Q2716974",
@@ -1343,7 +1499,9 @@
       "country": "Vatican City",
       "lat": 41.906388888,
       "lon": 12.454444444,
-      "source": "http://www.wikidata.org/entity/Q2716974"
+      "source": "http://www.wikidata.org/entity/Q2716974",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/0%20Chambre%20de%20Rapha%C3%ABl%20-%20Rencontre%20de%20L%C3%A9on%20le%20Grand%20et%20d%27Attila.JPG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Raffaello%20Sanzio.jpg"
     },
     {
       "id": "Q131290595",
@@ -1360,7 +1518,9 @@
       "country": "Vatican City",
       "lat": 41.906388888,
       "lon": 12.454444444,
-      "source": "http://www.wikidata.org/entity/Q131290595"
+      "source": "http://www.wikidata.org/entity/Q131290595",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Miraculous%20Draught%20of%20Fishes%20%28Acts%20of%20the%20Apostles%20tapestries%20-%20Vatican%20series%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Raffaello%20Sanzio.jpg"
     },
     {
       "id": "Q1619548",
@@ -1377,7 +1537,9 @@
       "country": "Vatican City",
       "lat": 41.906388888,
       "lon": 12.454444444,
-      "source": "http://www.wikidata.org/entity/Q1619548"
+      "source": "http://www.wikidata.org/entity/Q1619548",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Leo%20III%20by%20Rafael.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Raffaello%20Sanzio.jpg"
     },
     {
       "id": "Q2715152",
@@ -1394,7 +1556,9 @@
       "country": "Vatican City",
       "lat": 41.906388888,
       "lon": 12.454444444,
-      "source": "http://www.wikidata.org/entity/Q2715152"
+      "source": "http://www.wikidata.org/entity/Q2715152",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rafael%20-%20El%20Parnaso%20%28Estancia%20del%20Sello%2C%20Roma%2C%201511%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Raffaello%20Sanzio.jpg"
     },
     {
       "id": "Q131290374",
@@ -1411,7 +1575,9 @@
       "country": "Vatican City",
       "lat": 41.906388888,
       "lon": 12.454444444,
-      "source": "http://www.wikidata.org/entity/Q131290374"
+      "source": "http://www.wikidata.org/entity/Q131290374",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Sacrifice%20at%20Lystra%20%28Acts%20of%20the%20Apostles%20tapestries%20-%20Vatican%20series%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Raffaello%20Sanzio.jpg"
     },
     {
       "id": "Q2405750",
@@ -1428,7 +1594,9 @@
       "country": "Vatican City",
       "lat": 41.906388888,
       "lon": 12.454444444,
-      "source": "http://www.wikidata.org/entity/Q2405750"
+      "source": "http://www.wikidata.org/entity/Q2405750",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Raphael%20Vision%20Cross.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Raffaello%20Sanzio.jpg"
     },
     {
       "id": "Q3983944",
@@ -1445,7 +1613,9 @@
       "country": "Vatican City",
       "lat": 41.906388888,
       "lon": 12.454444444,
-      "source": "http://www.wikidata.org/entity/Q3983944"
+      "source": "http://www.wikidata.org/entity/Q3983944",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Volta%20della%20stanza%20della%20segnatura%2004%20teologia.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Raffaello%20Sanzio.jpg"
     }
   ]
 }

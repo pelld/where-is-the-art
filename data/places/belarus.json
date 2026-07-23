@@ -17,7 +17,9 @@
       "country": "Belarus",
       "lat": 53.89833333,
       "lon": 27.56055556,
-      "source": "http://www.wikidata.org/entity/Q123511132"
+      "source": "http://www.wikidata.org/entity/Q123511132",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Andreyeva%20by%20Repin.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ilya%20Repin%20%281909%29.jpg"
     },
     {
       "id": "Q123697100",
@@ -34,7 +36,9 @@
       "country": "Belarus",
       "lat": 53.89833333,
       "lon": 27.56055556,
-      "source": "http://www.wikidata.org/entity/Q123697100"
+      "source": "http://www.wikidata.org/entity/Q123697100",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Maria%20Tenisheva%20by%20I.Repin%20%281892-1893%2C%20Belarus%20museum%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ilya%20Repin%20%281909%29.jpg"
     },
     {
       "id": "Q19697998",
@@ -51,7 +55,9 @@
       "country": "Belarus",
       "lat": 53.89833333,
       "lon": 27.56055556,
-      "source": "http://www.wikidata.org/entity/Q19697998"
+      "source": "http://www.wikidata.org/entity/Q19697998",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Repin%20Iliya%20Moon%20night.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ilya%20Repin%20%281909%29.jpg"
     },
     {
       "id": "Q123697117",
@@ -68,7 +74,9 @@
       "country": "Belarus",
       "lat": 53.89833333,
       "lon": 27.56055556,
-      "source": "http://www.wikidata.org/entity/Q123697117"
+      "source": "http://www.wikidata.org/entity/Q123697117",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9F%D0%B0%D1%80%D1%82%D1%80%D1%8D%D1%82%20%D0%9B.%20%D0%9F.%20%D0%A8%D1%82%D0%B5%D0%B9%D0%BD%D0%B3%D0%B5%D0%BB%D1%8C.JPG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ilya%20Repin%20%281909%29.jpg"
     },
     {
       "id": "Q139919282",
@@ -85,7 +93,9 @@
       "country": "Belarus",
       "lat": 53.89833333,
       "lon": 27.56055556,
-      "source": "http://www.wikidata.org/entity/Q139919282"
+      "source": "http://www.wikidata.org/entity/Q139919282",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Svarog%20repin.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ilya%20Repin%20%281909%29.jpg"
     },
     {
       "id": "Q21605377",
@@ -102,7 +112,9 @@
       "country": "Belarus",
       "lat": 55.19336,
       "lon": 30.205729,
-      "source": "http://www.wikidata.org/entity/Q21605377"
+      "source": "http://www.wikidata.org/entity/Q21605377",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Kuntsevich%20by%20Repin.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ilya%20Repin%20%281909%29.jpg"
     }
   ]
 }

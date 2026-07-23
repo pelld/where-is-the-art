@@ -3,23 +3,6 @@
   "country": "Turkey",
   "artworks": [
     {
-      "id": "Q134480377",
-      "artistId": "pierre-bonnard",
-      "artistName": "Pierre Bonnard",
-      "reviewStatus": "generated",
-      "title": "Untitled record",
-      "date": "1907",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "arkas-art-center-konak",
-      "location": "Arkas Art Center",
-      "city": "Konak",
-      "country": "Turkey",
-      "lat": 38.432083333,
-      "lon": 27.136805555,
-      "source": "http://www.wikidata.org/entity/Q134480377"
-    },
-    {
       "id": "Q134283047",
       "artistId": "suzanne-valadon",
       "artistName": "Suzanne Valadon",
@@ -34,7 +17,9 @@
       "country": "Turkey",
       "lat": 38.432083333,
       "lon": 27.136805555,
-      "source": "http://www.wikidata.org/entity/Q134283047"
+      "source": "http://www.wikidata.org/entity/Q134283047",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%28Barcelona%29%20Catherine%20allong%C3%A9e%20nue%20sur%20une%20peau%20de%20panth%C3%A8re%20%281923%29%20Suzanne%20Valadon%20-%20Collection%20Lucien%20Arkas.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%28Barcelona%29%20Autoretrat%20al%20mirall%20-%20by%20Suzanne%20Valadon.jpg"
     },
     {
       "id": "Q133310243",
@@ -51,7 +36,9 @@
       "country": "Turkey",
       "lat": 38.432083333,
       "lon": 27.136805555,
-      "source": "http://www.wikidata.org/entity/Q133310243"
+      "source": "http://www.wikidata.org/entity/Q133310243",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%28Barcelona%29%20Madame%20Robert%20Rey%20et%20sa%20fille%20Sylvie%20-%20Suzanne%20Valadon.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%28Barcelona%29%20Autoretrat%20al%20mirall%20-%20by%20Suzanne%20Valadon.jpg"
     }
   ]
 }

@@ -17,7 +17,9 @@
       "country": "India",
       "lat": 28.610182,
       "lon": 77.234401,
-      "source": "http://www.wikidata.org/entity/Q100366541"
+      "source": "http://www.wikidata.org/entity/Q100366541",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%20auto-retrato.jpg"
     },
     {
       "id": "Q54502057",
@@ -34,7 +36,9 @@
       "country": "India",
       "lat": 22.3119,
       "lon": 73.1886,
-      "source": "http://www.wikidata.org/entity/Q54502057"
+      "source": "http://www.wikidata.org/entity/Q54502057",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Katalog%20der%20Sammlung%20Baron%20K%C3%B6nigswarter%20in%20Wien%20-%20II.%20Abteilung-%20Gem%C3%A4lde%20alte%20Meister.%20Peter%20Paul%20Rubens%20-%20Bildnis%20des%20Frederic%20Marselaer%20%2814741022406%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Anthony%20van%20Dyck%20-%20Self-portrait.jpg"
     }
   ]
 }

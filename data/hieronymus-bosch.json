@@ -3,24 +3,25 @@
     {
       "id": "Q1387483",
       "title": "The Last Judgment",
-      "date": "1450",
+      "date": "1506",
       "type": "Painting",
       "attribution": "Accepted",
       "artistId": "hieronymus-bosch",
       "artistName": "Hieronymus Bosch",
-      "locationId": "academy-of-fine-arts-vienna-vienna",
+      "locationId": "academy-of-fine-arts-vienna-innere-stadt",
       "location": "Academy of Fine Arts Vienna",
-      "city": "Vienna",
+      "city": "Innere Stadt",
       "country": "Austria",
-      "lat": 48.201253,
-      "lon": 16.365103,
+      "lat": 48.201388888,
+      "lon": 16.365277777,
       "source": "http://www.wikidata.org/entity/Q1387483",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jheronimus%20Bosch%20097%20exterior%2002.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -41,10 +42,11 @@
       "source": "http://www.wikidata.org/entity/Q14852097",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Beehive%20and%20witches.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -65,10 +67,11 @@
       "source": "http://www.wikidata.org/entity/Q1968805",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20-%20The%20Tree-Man%2C%20c.%201505%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -89,10 +92,11 @@
       "source": "http://www.wikidata.org/entity/Q27883390",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymous%20Bosch%20-%20The%20Temptation%20of%20Saint%20Anthony%20-%20U-269%20-%20Auckland%20Art%20Gallery.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -113,10 +117,11 @@
       "source": "http://www.wikidata.org/entity/Q1995698",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Last%20Judgement.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -137,10 +142,11 @@
       "source": "http://www.wikidata.org/entity/Q114889117",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20%28formerly%20attrb%29%20-%20A%20fool%2C%20seated%20on%20a%20basket%2C%20about%20to%20be%20shaved%20by%20a%20nun%20holding%20a%20wafer%20iron-%20BM%20184112001.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -161,10 +167,11 @@
       "source": "http://www.wikidata.org/entity/Q2148059",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/A%20fool%2C%20seated%20on%20a%20basket%2C%20about%20to%20be%20shaved%20by%20a%20nun%20holding%20a%20wafer%20iron%20by%20Hieronymus%20Bosch.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -185,10 +192,11 @@
       "source": "http://www.wikidata.org/entity/Q13571205",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bosch%20copyist%20The%20marriage-feast%20at%20Cana%20Huis%20Bergh.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -209,10 +217,11 @@
       "source": "http://www.wikidata.org/entity/Q117359572",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jheronimus%20Bosch%20-%20Paneelschildering%20%22De%20bruiloft%20te%20Kana%22%20olieverf%20op%20eikenhout%2C%20navolger%20van%20Jheronimus%20Bosch%2C%20ca.%201550%20-%200058%20-%20Huis%20Bergh.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -233,10 +242,11 @@
       "source": "http://www.wikidata.org/entity/Q117359454",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jheronimus%20Bosch%20-%20Paneelschildering%20%22De%20opstanding%20van%20Jezus%22%20op%20eikenhout%2C%20navolger%20van%20Jheronimus%20Bosch%2C%20tweede%20helft%2016e%20eeuw%20-%200057%20-%20Huis%20Bergh.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -257,10 +267,11 @@
       "source": "http://www.wikidata.org/entity/Q2551113",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Follower%20of%20Jheronimus%20Bosch%20002.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -281,10 +292,11 @@
       "source": "http://www.wikidata.org/entity/Q2104369",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hy%20soect%20de%20byle.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -305,10 +317,11 @@
       "source": "http://www.wikidata.org/entity/Q2397537",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Workshop%20of%20Jheronimus%20Bosch%20005.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -329,10 +342,11 @@
       "source": "http://www.wikidata.org/entity/Q2203011",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jheronimus%20Bosch%20050.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -353,10 +367,11 @@
       "source": "http://www.wikidata.org/entity/Q2389534",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20-%20Hermit%20Saints%20Triptych.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -377,10 +392,11 @@
       "source": "http://www.wikidata.org/entity/Q2467518",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Poliptyk%20Hieronima%20Bocha%20Visions%20of%20the%20Hereafter%20%28downsized%20%26%20contrasted%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -401,10 +417,11 @@
       "source": "http://www.wikidata.org/entity/Q16944824",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jheronimus%20Bosch%20Fall%20of%20the%20Damned.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -425,10 +442,11 @@
       "source": "http://www.wikidata.org/entity/Q16944498",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Accademia%20-%20Visioni%20dell%27Aldil%C3%A0%20-%20L%27inferno%20-%20Bosch.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -449,10 +467,11 @@
       "source": "http://www.wikidata.org/entity/Q18707135",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jheronimus%20Bosch%20Terrestrial%20Paradise.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -473,34 +492,11 @@
       "source": "http://www.wikidata.org/entity/Q27033310",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/H.%20Bosch%20-%20Gezicht%20op%20het%20stadhuis%20van%20Bolsward%20-%20S2003-345%20-%20Fries%20Museum.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q2390224",
-      "title": "Wilgefortis Triptych",
-      "date": "1497",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "hieronymus-bosch",
-      "artistName": "Hieronymus Bosch",
-      "locationId": "gallerie-dell-accademia-venice",
-      "location": "Gallerie dell'Accademia",
-      "city": "Venice",
-      "country": "Italy",
-      "lat": 45.431078,
-      "lon": 12.328139,
-      "source": "http://www.wikidata.org/entity/Q2390224",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/BoschTheCrucifixionOfStJulia.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q130531",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -521,10 +517,11 @@
       "source": "http://www.wikidata.org/entity/Q107440354",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/After%20Jheronimus%20Bosch%20Adoration%20of%20the%20Magi%20Berlin.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -545,10 +542,11 @@
       "source": "http://www.wikidata.org/entity/Q2390197",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20%28ca.%201450%20-%208.1516%29%20-%20John%20on%20Patmos%20-%20Scenes%20of%20the%20Passion%20of%20Christ%20-%201647A%20-%20Gem%C3%A4ldegalerie.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -568,11 +566,12 @@
       "lon": 13.364722222,
       "source": "http://www.wikidata.org/entity/Q26696382",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20%28ca.%201450%20-%208.1516%29%20-%20John%20on%20Patmos%20-%20Scenes%20of%20the%20Passion%20of%20Christ%20-%201647A%20-%20Gem%C3%A4ldegalerie.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jheronimus%20Bosch%20Scenes%20from%20the%20Passion%20%28full%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -593,10 +592,11 @@
       "source": "http://www.wikidata.org/entity/Q14513912",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Follower%20of%20Jheronimus%20Bosch%20The%20Temptation%20of%20St.%20Anthony%20Berlin.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -617,10 +617,11 @@
       "source": "http://www.wikidata.org/entity/Q107438845",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Follower%20of%20Jheronimus%20Bosch%20014.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -641,10 +642,11 @@
       "source": "http://www.wikidata.org/entity/Q2844476",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bosch%20laatste%20oordeel%20drieluik.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -665,10 +667,11 @@
       "source": "http://www.wikidata.org/entity/Q2567058",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20054.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -689,10 +692,11 @@
       "source": "http://www.wikidata.org/entity/Q5108662",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20101.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -713,10 +717,36 @@
       "source": "http://www.wikidata.org/entity/Q2248238",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Christ%20in%20Limbo.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q2390224",
+      "title": "Wilgefortis Triptych",
+      "date": "1497",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "hieronymus-bosch",
+      "artistName": "Hieronymus Bosch",
+      "locationId": "kunsthistorisches-museum-vienna",
+      "location": "Kunsthistorisches Museum",
+      "city": "Vienna",
+      "country": "Austria",
+      "lat": 48.203880555,
+      "lon": 16.3616,
+      "source": "http://www.wikidata.org/entity/Q2390224",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/BoschTheCrucifixionOfStJulia.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q130531",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -737,10 +767,11 @@
       "source": "http://www.wikidata.org/entity/Q14851350",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Possibly%20Jheronimus%20Bosch%20002%20recto%2001.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -761,10 +792,11 @@
       "source": "http://www.wikidata.org/entity/Q14856532",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Turtle%20and%20a%20winged%20demonBosch.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -785,10 +817,11 @@
       "source": "http://www.wikidata.org/entity/Q29049948",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Combat%20des%20oiseaux%20contre%20les%20mammif%C3%A8res.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -809,10 +842,11 @@
       "source": "http://www.wikidata.org/entity/Q114887723",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20-%20Concert%20in%20an%20Egg%20-%20Kupferstichkabinett%20Berlin%20KdZ%20711%20verso.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -833,10 +867,11 @@
       "source": "http://www.wikidata.org/entity/Q29049669",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Oiseaux%20et%20mammif%C3%A8res%20se%20d%C3%A9clarant%20la%20guerre.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -857,10 +892,11 @@
       "source": "http://www.wikidata.org/entity/Q2238709",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20-%20The%20Trees%20have%20Ears%20and%20the%20Field%20has%20Eyes%20-%20Kupferstichkabinett%20Berlin%20KdZ%20549.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -881,10 +917,11 @@
       "source": "http://www.wikidata.org/entity/Q114887917",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20-%20Two%20fantasy%20creatures%20-%20Kupferstichkabinett%20Berlin%20KdZ%20550.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -905,10 +942,11 @@
       "source": "http://www.wikidata.org/entity/Q114887918",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20-%20Two%20fantasy%20creatures%20-%20Kupferstichkabinett%20Berlin%20KdZ%20550%20verso.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -929,10 +967,11 @@
       "source": "http://www.wikidata.org/entity/Q114887874",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20-%20Two%20Monsters%20-%20Kupferstichkabinett%20Berlin%20KdZ%20547.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -953,10 +992,11 @@
       "source": "http://www.wikidata.org/entity/Q114887878",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20-%20Two%20Monsters%20-%20Kupferstichkabinett%20Berlin%20KdZ%20547%20verso.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -977,10 +1017,11 @@
       "source": "http://www.wikidata.org/entity/Q28929867",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Zwei%20Orientalen%20vor%20einer%20Landschaft%20%28KdZ%205210%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1001,10 +1042,11 @@
       "source": "http://www.wikidata.org/entity/Q2453980",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20-%20Saint%20John%20the%20Baptist%20in%20the%20Desert%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1025,10 +1067,11 @@
       "source": "http://www.wikidata.org/entity/Q14942621",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Follower%20of%20Jheronimus%20Bosch%20037.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1049,10 +1092,11 @@
       "source": "http://www.wikidata.org/entity/Q118678738",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20%28c.1450-1516%29%20%28follower%20of%29%20-%20The%20Temptation%20of%20Saint%20Anthony%20-%20L.F90.1936.0.0%20-%20Leicester%20Museum%20%5E%20Art%20Gallery.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1073,10 +1117,11 @@
       "source": "http://www.wikidata.org/entity/Q2489939",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Adoration%20of%20the%20Magi%20Hieronymus%20Bosch%20autograph%20ca.%201470%E2%80%9375%20%28NY%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1097,10 +1142,11 @@
       "source": "http://www.wikidata.org/entity/Q2875363",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Saint%20Jacques%20et%20le%20magicien%20Hermogene.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1121,10 +1167,11 @@
       "source": "http://www.wikidata.org/entity/Q59771010",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1145,17 +1192,18 @@
       "source": "http://www.wikidata.org/entity/Q2270768",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Cutting%20the%20Stone%20%28Bosch%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
     {
       "id": "Q5689364",
       "title": "Head of a Halberdier",
-      "date": "1490",
+      "date": "1551",
       "type": "Painting",
       "attribution": "Accepted",
       "artistId": "hieronymus-bosch",
@@ -1169,10 +1217,11 @@
       "source": "http://www.wikidata.org/entity/Q5689364",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Boskh%20Ieronim%20alebarda.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1193,10 +1242,11 @@
       "source": "http://www.wikidata.org/entity/Q2401792",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Circle%20of%20Jheronimus%20Bosch%20003.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1217,10 +1267,11 @@
       "source": "http://www.wikidata.org/entity/Q41152420",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/After%20Jheronimus%20Bosch%20006%20colour.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1241,10 +1292,11 @@
       "source": "http://www.wikidata.org/entity/Q59771020",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/After%20Jheronimus%20Bosch%20The%20Garden%20of%20Eden.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1265,10 +1317,11 @@
       "source": "http://www.wikidata.org/entity/Q2276130",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20-%20Triptych%20of%20the%20Adoration%20of%20the%20Magi%20-%20WGA2606.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1289,10 +1342,11 @@
       "source": "http://www.wikidata.org/entity/Q321303",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Garden%20of%20Earthly%20Delights%20by%20Bosch%20High%20Resolution%202.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1313,10 +1367,11 @@
       "source": "http://www.wikidata.org/entity/Q2213811",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jheronimus%20Bosch%20-%20De%20hooiwagen%20%28c.1516%2C%20Prado%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1337,10 +1392,11 @@
       "source": "http://www.wikidata.org/entity/Q26821398",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20-%20Triptych%20of%20the%20Adoration%20of%20the%20Magi%20%28closed%29%20-%20WGA2607.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1361,58 +1417,11 @@
       "source": "http://www.wikidata.org/entity/Q2304870",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch-%20The%20Seven%20Deadly%20Sins%20and%20the%20Four%20Last%20Things.JPG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q60048739",
-      "title": "The Temptations of Saint Anthony",
-      "date": "1501",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "hieronymus-bosch",
-      "artistName": "Hieronymus Bosch",
-      "locationId": "museo-del-prado-madrid",
-      "location": "Museo del Prado",
-      "city": "Madrid",
-      "country": "Spain",
-      "lat": 40.413888888,
-      "lon": -3.692222222,
-      "source": "http://www.wikidata.org/entity/Q60048739",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/After%20Jheronimus%20Bosch%20004.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q130531",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q60048738",
-      "title": "The Temptations of Saint Anthony",
-      "date": "1401",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "hieronymus-bosch",
-      "artistName": "Hieronymus Bosch",
-      "locationId": "museo-del-prado-madrid",
-      "location": "Museo del Prado",
-      "city": "Madrid",
-      "country": "Spain",
-      "lat": 40.413888888,
-      "lon": -3.692222222,
-      "source": "http://www.wikidata.org/entity/Q60048738",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/After%20Jheronimus%20Bosch%20005.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q130531",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1433,10 +1442,61 @@
       "source": "http://www.wikidata.org/entity/Q26332660",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Follower%20of%20Jheronimus%20Bosch%20028.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q60048738",
+      "title": "The Temptations of Saint Anthony",
+      "date": "1550",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "hieronymus-bosch",
+      "artistName": "Hieronymus Bosch",
+      "locationId": "museo-del-prado-madrid",
+      "location": "Museo del Prado",
+      "city": "Madrid",
+      "country": "Spain",
+      "lat": 40.413888888,
+      "lon": -3.692222222,
+      "source": "http://www.wikidata.org/entity/Q60048738",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/After%20Jheronimus%20Bosch%20005.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q130531",
+        "retrieved": "2026-07-23",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q60048739",
+      "title": "The Temptations of Saint Anthony",
+      "date": "1501",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "hieronymus-bosch",
+      "artistName": "Hieronymus Bosch",
+      "locationId": "museo-del-prado-madrid",
+      "location": "Museo del Prado",
+      "city": "Madrid",
+      "country": "Spain",
+      "lat": 40.413888888,
+      "lon": -3.692222222,
+      "source": "http://www.wikidata.org/entity/Q60048739",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/After%20Jheronimus%20Bosch%20004.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q130531",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1457,10 +1517,11 @@
       "source": "http://www.wikidata.org/entity/Q59771018",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1481,10 +1542,11 @@
       "source": "http://www.wikidata.org/entity/Q14819521",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/A%20Woman%20Spinning%20and%20an%20Old%20Woman%20by%20Jheronimus%20Bosch%2001.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1505,10 +1567,11 @@
       "source": "http://www.wikidata.org/entity/Q2536010",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/BoschHeadOfAWomanFragment.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1529,10 +1592,11 @@
       "source": "http://www.wikidata.org/entity/Q2565646",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jheronimus%20Bosch%20-%20Saint%20Christopher%20-%20Google%20Art%20ProjectFXD%20%28Cropped%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1553,10 +1617,11 @@
       "source": "http://www.wikidata.org/entity/Q2284243",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jeroen%20Bosch%20De%20Zondvloed%20Binnenzijde.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1577,10 +1642,11 @@
       "source": "http://www.wikidata.org/entity/Q2918420",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jheronimus%20Bosch%20-%20The%20Owl%27s%20Nest%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1601,10 +1667,11 @@
       "source": "http://www.wikidata.org/entity/Q47533643",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1625,10 +1692,11 @@
       "source": "http://www.wikidata.org/entity/Q2400652",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jheronimus%20Bosch%20-%20The%20Pedlar%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1649,10 +1717,11 @@
       "source": "http://www.wikidata.org/entity/Q1851182",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Annas%20and%20Kajafas%20001.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1673,15 +1742,16 @@
       "source": "http://www.wikidata.org/entity/Q55420717",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jheronimus%20Bosch%20-%20Twee%20medaillons%20met%20symbolisch-religieuze%20voorstellingen%20-%20St%2028%20verso%20-%20Museum%20Boijmans%20Van%20Beuningen.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
     {
-      "id": "Q47534953",
+      "id": "Q47536912",
       "title": "Untitled record",
       "date": "Date unknown",
       "type": "Painting",
@@ -1694,13 +1764,14 @@
       "country": "Netherlands",
       "lat": 51.914215,
       "lon": 4.473341,
-      "source": "http://www.wikidata.org/entity/Q47534953",
+      "source": "http://www.wikidata.org/entity/Q47536912",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1721,10 +1792,11 @@
       "source": "http://www.wikidata.org/entity/Q114804420",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jheronimus%20Bosch%20-%20Twee%20medaillons%20met%20symbolisch-religieuze%20voorstellingen%20-%20St%2027%20verso%20-%20Museum%20Boijmans%20Van%20Beuningen.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1745,10 +1817,11 @@
       "source": "http://www.wikidata.org/entity/Q962603",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Workshop%20of%20Jheronimus%20Bosch%20002.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1769,10 +1842,11 @@
       "source": "http://www.wikidata.org/entity/Q20540155",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Workshop%20of%20J.%20Bosch%20Franco%20van%20Langhel%20and%20His%20Sons%20with%20Saint%20John%20the%20Evangelist.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1793,10 +1867,11 @@
       "source": "http://www.wikidata.org/entity/Q20540157",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Workshop%20of%20J.%20Bosch%20Heilwig%20van%20der%20Rullen%20and%20Her%20Daughters%20with%20Saint%20Mary%20Magdalen.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1817,10 +1892,11 @@
       "source": "http://www.wikidata.org/entity/Q20540153",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Workshop%20of%20J.%20Bosch%20Predella.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1841,17 +1917,18 @@
       "source": "http://www.wikidata.org/entity/Q20540151",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Follower%20of%20Jheronimus%20Bosch%20027.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
     {
       "id": "Q680128",
       "title": "Christ Carrying the Cross",
-      "date": "1500",
+      "date": "1510",
       "type": "Painting",
       "attribution": "Accepted",
       "artistId": "hieronymus-bosch",
@@ -1865,10 +1942,11 @@
       "source": "http://www.wikidata.org/entity/Q680128",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bosch%20-%20Christ%20Carrying%20the%20Cross%2C%20ca.%201510%20-%20ca.%201516%2C%20Inv.%201902-H.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1889,10 +1967,11 @@
       "source": "http://www.wikidata.org/entity/Q2566840",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/De%20Heilige%20Hi%C3%ABronymus%20in%20gebed%2C%20Jheronimus%20Bosch%2C%20Koninklijk%20Museum%20voor%20Schone%20Kunsten%20Gent%2C%201908%20H.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1913,17 +1992,18 @@
       "source": "http://www.wikidata.org/entity/Q50987850",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
     {
       "id": "Q50896457",
       "title": "The Garden of Earthly Delights",
-      "date": "1520",
+      "date": "1500",
       "type": "Painting",
       "attribution": "Accepted",
       "artistId": "hieronymus-bosch",
@@ -1937,10 +2017,11 @@
       "source": "http://www.wikidata.org/entity/Q50896457",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/After%20Jheronimus%20Bosch%20047.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1961,10 +2042,11 @@
       "source": "http://www.wikidata.org/entity/Q2733729",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20-%20Christ%20Mocked%20%28The%20Crowning%20with%20Thorns%29%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1985,10 +2067,11 @@
       "source": "http://www.wikidata.org/entity/Q77896453",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Descent%20into%20Limbo%20%28follower%20of%20Bosch%2C%20Dublin%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2009,10 +2092,11 @@
       "source": "http://www.wikidata.org/entity/Q104532210",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jheronimus%20Bosch%20-%20Descent%20into%20Hell%20-%20M.Ob.1610%20MNW%20-%20National%20Museum%20in%20Warsaw.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2033,10 +2117,11 @@
       "source": "http://www.wikidata.org/entity/Q1217288",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Temptation%20of%20Saint%20Anthony.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2057,10 +2142,11 @@
       "source": "http://www.wikidata.org/entity/Q26927698",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2081,10 +2167,11 @@
       "source": "http://www.wikidata.org/entity/Q26925956",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Follower%20of%20Jheronimus%20Bosch%20033.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2105,10 +2192,11 @@
       "source": "http://www.wikidata.org/entity/Q26928052",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2129,10 +2217,11 @@
       "source": "http://www.wikidata.org/entity/Q26925220",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2153,10 +2242,11 @@
       "source": "http://www.wikidata.org/entity/Q26927695",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2177,10 +2267,11 @@
       "source": "http://www.wikidata.org/entity/Q2510869",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Concert%20in%20the%20Egg.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2201,10 +2292,11 @@
       "source": "http://www.wikidata.org/entity/Q9301386",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20013.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2216,26 +2308,27 @@
       "attribution": "Accepted",
       "artistId": "hieronymus-bosch",
       "artistName": "Hieronymus Bosch",
-      "locationId": "philadelphia-museum-of-art-philadelphia-county",
+      "locationId": "philadelphia-museum-of-art-philadelphia",
       "location": "Philadelphia Museum of Art",
-      "city": "Philadelphia County",
+      "city": "Philadelphia",
       "country": "United States",
       "lat": 39.965833333,
       "lon": -75.181388888,
       "source": "http://www.wikidata.org/entity/Q4680459",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20or%20follower%20-%20Adoration%20of%20the%20Magi.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
     {
       "id": "Q20808456",
       "title": "Christ and the Woman Taken in Adultery",
-      "date": "1549",
+      "date": "1575",
       "type": "Painting",
       "attribution": "Accepted",
       "artistId": "hieronymus-bosch",
@@ -2249,10 +2342,11 @@
       "source": "http://www.wikidata.org/entity/Q20808456",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bosch%20follower%20Christ%20and%20the%20Woman%20Taken%20in%20Adultery.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2273,10 +2367,11 @@
       "source": "http://www.wikidata.org/entity/Q20808457",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bosch%20follower%20Christ%20in%20Limbo%20Philadelphia.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2288,19 +2383,20 @@
       "attribution": "Accepted",
       "artistId": "hieronymus-bosch",
       "artistName": "Hieronymus Bosch",
-      "locationId": "philadelphia-museum-of-art-philadelphia",
+      "locationId": "philadelphia-museum-of-art-philadelphia-county",
       "location": "Philadelphia Museum of Art",
-      "city": "Philadelphia",
+      "city": "Philadelphia County",
       "country": "United States",
       "lat": 39.965833333,
       "lon": -75.181388888,
       "source": "http://www.wikidata.org/entity/Q20808458",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Follower%20of%20Jheronimus%20Bosch%2C%20Retinue%20of%20the%20Magi.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2312,19 +2408,20 @@
       "attribution": "Accepted",
       "artistId": "hieronymus-bosch",
       "artistName": "Hieronymus Bosch",
-      "locationId": "philadelphia-museum-of-art-philadelphia",
+      "locationId": "philadelphia-museum-of-art-philadelphia-county",
       "location": "Philadelphia Museum of Art",
-      "city": "Philadelphia",
+      "city": "Philadelphia County",
       "country": "United States",
       "lat": 39.965833333,
       "lon": -75.181388888,
       "source": "http://www.wikidata.org/entity/Q20808462",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bosch%20copyist%20The%20adoration%20of%20the%20Magi%20PMA.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2345,10 +2442,11 @@
       "source": "http://www.wikidata.org/entity/Q20808465",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jheronimus%20Bosch%20Two%20Shepherds.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2369,10 +2467,11 @@
       "source": "http://www.wikidata.org/entity/Q13571543",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Het%20snijden%20van%20de%20kei.%20Rijksmuseum%20SK-A-1601.jpeg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2393,10 +2492,11 @@
       "source": "http://www.wikidata.org/entity/Q17319820",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/After%20Jheronimus%20Bosch%20-%20Adoration%20of%20the%20Magi%20-%20Rijksmuseum.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2417,10 +2517,11 @@
       "source": "http://www.wikidata.org/entity/Q3226876",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/De%20verzoeking%20van%20de%20heilige%20Antonius%20de%20Heremiet.%20Rijksmuseum%20SK-A-3240.jpeg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2441,10 +2542,11 @@
       "source": "http://www.wikidata.org/entity/Q2261193",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Christ%20Crowned%20with%20Thorns%20with%20Donor.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2465,10 +2567,11 @@
       "source": "http://www.wikidata.org/entity/Q2390211",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Crucifixion%20with%20a%20Donor%2C%20ca.%201480-85.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2489,10 +2592,11 @@
       "source": "http://www.wikidata.org/entity/Q12013489",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Workshop%20of%20J.%20Bosch%20Temptation%20of%20Saint%20Anthony.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2513,10 +2617,11 @@
       "source": "http://www.wikidata.org/entity/Q2328603",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/ChristCarryingCrossBoschMadridVersion.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2528,19 +2633,20 @@
       "attribution": "Accepted",
       "artistId": "hieronymus-bosch",
       "artistName": "Hieronymus Bosch",
-      "locationId": "sao-paulo-museum-of-art-bela-vista-district",
+      "locationId": "sao-paulo-museum-of-art-sao-paulo",
       "location": "São Paulo Museum of Art",
-      "city": "Bela Vista District",
+      "city": "São Paulo",
       "country": "Brazil",
       "lat": -23.561111111,
       "lon": -46.655833333,
       "source": "http://www.wikidata.org/entity/Q1852892",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bosch%20-%20tentacoesstoantao01.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2561,10 +2667,11 @@
       "source": "http://www.wikidata.org/entity/Q430069",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ecce%20Homo%20%28SM%201577%29.png",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2585,10 +2692,11 @@
       "source": "http://www.wikidata.org/entity/Q114888004",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20%28Follower%20of%29%20-%20Group%20of%20Ten%20Spectators%20-%20themorgan%20128140v%200001.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2609,10 +2717,11 @@
       "source": "http://www.wikidata.org/entity/Q22669126",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20temptation%20of%20Saint%20Anthony%2C%20by%20Jheronimus%20Bosch%20%28Kansas%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2633,10 +2742,11 @@
       "source": "http://www.wikidata.org/entity/Q119650979",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20%28c.1450-1516%29%20%28and%20workshop%29%20-%20Christ%20before%20Pilate%2C%20Set%20within%20Grisailles%20of%20the%20Forces%20of%20Evil%20%28outsides%20of%20two%20wings%29%20-%20446744%20-%20Upton%20House.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2657,10 +2767,11 @@
       "source": "http://www.wikidata.org/entity/Q118632112",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20%28c.1450-1516%29%20%28and%20workshop%29%20-%20Saint%20Joseph%20Gathering%20Firewood%20%28triptych%2C%20inside%20of%20left%20wing%29%20-%20446744%20-%20Upton%20House.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2681,10 +2792,11 @@
       "source": "http://www.wikidata.org/entity/Q26678545",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Follower%20of%20Hieronymus%20Bosch%20-%20Adoration%20of%20the%20Magi%20-%20Upton%20House%20%28open%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2705,10 +2817,11 @@
       "source": "http://www.wikidata.org/entity/Q118632172",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20%28c.1450-1516%29%20%28and%20workshop%29%20-%20The%20Mounted%20Escort%20of%20the%20Magi%20%28triptych%2C%20inside%20of%20right%20wing%29%20-%20446744%20-%20Upton%20House.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2720,19 +2833,20 @@
       "attribution": "Accepted",
       "artistId": "hieronymus-bosch",
       "artistName": "Hieronymus Bosch",
-      "locationId": "wellcome-collection-euston-road",
+      "locationId": "wellcome-collection-london-borough-of-camden",
       "location": "Wellcome Collection",
-      "city": "Euston Road",
+      "city": "London Borough of Camden",
       "country": "United Kingdom",
       "lat": 51.525944444,
       "lon": -0.133888888,
       "source": "http://www.wikidata.org/entity/Q118678886",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20%28c.1450-1516%29%20%28copy%20after%29%20-%20The%20Garden%20of%20Earthly%20Delights%20-%2044972i%20-%20Wellcome%20Collection.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2753,10 +2867,11 @@
       "source": "http://www.wikidata.org/entity/Q2091114",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jheronimus%20Bosch%20003.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     }

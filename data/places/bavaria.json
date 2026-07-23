@@ -3,57 +3,6 @@
   "country": "Bavaria",
   "artworks": [
     {
-      "id": "Q88397992",
-      "artistId": "anthony-van-dyck",
-      "artistName": "Anthony van Dyck",
-      "reviewStatus": "generated",
-      "title": "Horse Head",
-      "date": "1640",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "schloss-wei-enstein-bamberg-rural-district",
-      "location": "Schloss Weißenstein",
-      "city": "Bamberg Rural District",
-      "country": "Bavaria",
-      "lat": 49.76274,
-      "lon": 10.82049,
-      "source": "http://www.wikidata.org/entity/Q88397992"
-    },
-    {
-      "id": "Q56177215",
-      "artistId": "artemisia-gentileschi",
-      "artistName": "Artemisia Gentileschi",
-      "reviewStatus": "generated",
-      "title": "Self-Portrait",
-      "date": "1610",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "schloss-wei-enstein-bamberg-rural-district",
-      "location": "Schloss Weißenstein",
-      "city": "Bamberg Rural District",
-      "country": "Bavaria",
-      "lat": 49.76274,
-      "lon": 10.82049,
-      "source": "http://www.wikidata.org/entity/Q56177215"
-    },
-    {
-      "id": "Q3978274",
-      "artistId": "artemisia-gentileschi",
-      "artistName": "Artemisia Gentileschi",
-      "reviewStatus": "generated",
-      "title": "Susanna and the Elders",
-      "date": "1610",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "schloss-wei-enstein-bamberg-rural-district",
-      "location": "Schloss Weißenstein",
-      "city": "Bamberg Rural District",
-      "country": "Bavaria",
-      "lat": 49.76274,
-      "lon": 10.82049,
-      "source": "http://www.wikidata.org/entity/Q3978274"
-    },
-    {
       "id": "Q3937697",
       "artistId": "titian",
       "artistName": "Titian",
@@ -68,7 +17,9 @@
       "country": "Bavaria",
       "lat": 49.76274,
       "lon": 10.82049,
-      "source": "http://www.wikidata.org/entity/Q3937697"
+      "source": "http://www.wikidata.org/entity/Q3937697",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Tiziano%2C%20ritratto%2C%20pommersfelden.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Vecellio%20di%20Gregorio%20Tiziano%20-%20autoritratto.jpg"
     }
   ]
 }

@@ -17,7 +17,28 @@
       "country": "Venezuela",
       "lat": 10.50055556,
       "lon": -66.9025,
-      "source": "http://www.wikidata.org/entity/Q21281539"
+      "source": "http://www.wikidata.org/entity/Q21281539",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Pissarro%20-%20Paisaje%20tropical.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg"
+    },
+    {
+      "id": "Q108354260",
+      "artistId": "monet",
+      "artistName": "Claude Monet",
+      "reviewStatus": "generated",
+      "title": "Untitled record",
+      "date": "1886",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "contemporary-art-museum-of-caracas-caracas",
+      "location": "Contemporary Art Museum of Caracas",
+      "city": "Caracas",
+      "country": "Venezuela",
+      "lat": 10.498527,
+      "lon": -66.899623,
+      "source": "http://www.wikidata.org/entity/Q108354260",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%20%22Las%20Pir%C3%A1mides%20a%20Port-Coton%22%20%281886%29%20%C3%93leo%20sobre%20tela%3B%2065%2C5%20x%2081%2C5%20cm.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%201899%20Nadar%20crop.jpg"
     },
     {
       "id": "Q17631819",
@@ -34,7 +55,9 @@
       "country": "Venezuela",
       "lat": 10.498527,
       "lon": -66.899623,
-      "source": "http://www.wikidata.org/entity/Q17631819"
+      "source": "http://www.wikidata.org/entity/Q17631819",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/L%27Odalisque%20au%20pantalon%20rouge%2C%20par%20Henri%20Matisse.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Henri%20Matisse%201933%20May%2020.jpg"
     },
     {
       "id": "Q3793320",
@@ -51,7 +74,9 @@
       "country": "Venezuela",
       "lat": 10.498527,
       "lon": -66.899623,
-      "source": "http://www.wikidata.org/entity/Q3793320"
+      "source": "http://www.wikidata.org/entity/Q3793320",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Shagal%20Choumoff.jpg"
     },
     {
       "id": "Q21281161",
@@ -68,7 +93,9 @@
       "country": "Venezuela",
       "lat": 10.4876,
       "lon": -66.83393333,
-      "source": "http://www.wikidata.org/entity/Q21281161"
+      "source": "http://www.wikidata.org/entity/Q21281161",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Plaza%20Mayor%2C%20Caracas%20-%20Camille%20Pissarro.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg"
     }
   ]
 }

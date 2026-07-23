@@ -17,7 +17,9 @@
       "country": "Israel",
       "lat": 33.059055555,
       "lon": 35.432111111,
-      "source": "http://www.wikidata.org/entity/Q92546273"
+      "source": "http://www.wikidata.org/entity/Q92546273",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Shagal%20Choumoff.jpg"
     },
     {
       "id": "Q92546270",
@@ -34,7 +36,9 @@
       "country": "Israel",
       "lat": 33.059055555,
       "lon": 35.432111111,
-      "source": "http://www.wikidata.org/entity/Q92546270"
+      "source": "http://www.wikidata.org/entity/Q92546270",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Shagal%20Choumoff.jpg"
     },
     {
       "id": "Q61717848",
@@ -51,7 +55,9 @@
       "country": "Israel",
       "lat": 32.763477777,
       "lon": 35.017977777,
-      "source": "http://www.wikidata.org/entity/Q61717848"
+      "source": "http://www.wikidata.org/entity/Q61717848",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20110.jpg"
     },
     {
       "id": "Q76630412",
@@ -68,7 +74,9 @@
       "country": "Israel",
       "lat": 32.763477777,
       "lon": 35.017977777,
-      "source": "http://www.wikidata.org/entity/Q76630412"
+      "source": "http://www.wikidata.org/entity/Q76630412",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Modigliani%20Brustbild.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Amedeo%20Modigliani%201918%20restored.jpg"
     },
     {
       "id": "Q76627278",
@@ -85,7 +93,9 @@
       "country": "Israel",
       "lat": 32.763477777,
       "lon": 35.017977777,
-      "source": "http://www.wikidata.org/entity/Q76627278"
+      "source": "http://www.wikidata.org/entity/Q76627278",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Modigliani%2C%20Amedeo%20-%20Maude%20Abrantes.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Amedeo%20Modigliani%201918%20restored.jpg"
     },
     {
       "id": "Q61717856",
@@ -102,7 +112,9 @@
       "country": "Israel",
       "lat": 32.763477777,
       "lon": 35.017977777,
-      "source": "http://www.wikidata.org/entity/Q61717856"
+      "source": "http://www.wikidata.org/entity/Q61717856",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro%20-%20Pissarro%20and%20Durand-Ruel%20Snollaerts%2C%20535.png",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg"
     },
     {
       "id": "Q124726461",
@@ -119,7 +131,9 @@
       "country": "Israel",
       "lat": 32.763477777,
       "lon": 35.017977777,
-      "source": "http://www.wikidata.org/entity/Q124726461"
+      "source": "http://www.wikidata.org/entity/Q124726461",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro%20-%20Pissarro%20and%20Durand-Ruel%20Snollaerts%2C%2061.png",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg"
     },
     {
       "id": "Q124726460",
@@ -136,7 +150,9 @@
       "country": "Israel",
       "lat": 32.763477777,
       "lon": 35.017977777,
-      "source": "http://www.wikidata.org/entity/Q124726460"
+      "source": "http://www.wikidata.org/entity/Q124726460",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro%20-%20Pissarro%20and%20Durand-Ruel%20Snollaerts%2C%20965.png",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg"
     },
     {
       "id": "Q76629673",
@@ -153,7 +169,9 @@
       "country": "Israel",
       "lat": 32.763477777,
       "lon": 35.017977777,
-      "source": "http://www.wikidata.org/entity/Q76629673"
+      "source": "http://www.wikidata.org/entity/Q76629673",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Manet%2C%20en%20buste%2C%20de%20face%20-%20Nadar.jpg"
     },
     {
       "id": "Q76844464",
@@ -170,7 +188,9 @@
       "country": "Israel",
       "lat": 32.763477777,
       "lon": 35.017977777,
-      "source": "http://www.wikidata.org/entity/Q76844464"
+      "source": "http://www.wikidata.org/entity/Q76844464",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Corot%20-%20Les%20Etangs%20de%20la%20Ville%20d%27Avray%2C%20ICMS%20HCH%20P-89.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste-Camille%20Corot%20c1850.png"
     },
     {
       "id": "Q80183204",
@@ -185,9 +205,11 @@
       "location": "Herzliya Museum of Contemporary Art",
       "city": "Herzliya",
       "country": "Israel",
-      "lat": 32.162,
-      "lon": 34.843552777,
-      "source": "http://www.wikidata.org/entity/Q80183204"
+      "lat": 32.1619,
+      "lon": 34.8441,
+      "source": "http://www.wikidata.org/entity/Q80183204",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-FrancoisMillet%28Nadar%29.jpg"
     },
     {
       "id": "Q92547973",
@@ -202,9 +224,11 @@
       "location": "Herzliya Museum of Contemporary Art",
       "city": "Herzliya",
       "country": "Israel",
-      "lat": 32.162,
-      "lon": 34.843552777,
-      "source": "http://www.wikidata.org/entity/Q92547973"
+      "lat": 32.1619,
+      "lon": 34.8441,
+      "source": "http://www.wikidata.org/entity/Q92547973",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg"
     },
     {
       "id": "Q76625902",
@@ -219,9 +243,11 @@
       "location": "Herzliya Museum of Contemporary Art",
       "city": "Herzliya",
       "country": "Israel",
-      "lat": 32.162,
-      "lon": 34.843552777,
-      "source": "http://www.wikidata.org/entity/Q76625902"
+      "lat": 32.1619,
+      "lon": 34.8441,
+      "source": "http://www.wikidata.org/entity/Q76625902",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Shagal%20Choumoff.jpg"
     },
     {
       "id": "Q76626543",
@@ -236,9 +262,11 @@
       "location": "Herzliya Museum of Contemporary Art",
       "city": "Herzliya",
       "country": "Israel",
-      "lat": 32.162,
-      "lon": 34.843552777,
-      "source": "http://www.wikidata.org/entity/Q76626543"
+      "lat": 32.1619,
+      "lon": 34.8441,
+      "source": "http://www.wikidata.org/entity/Q76626543",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Shagal%20Choumoff.jpg"
     },
     {
       "id": "Q80182736",
@@ -255,7 +283,47 @@
       "country": "Israel",
       "lat": 32.162,
       "lon": 34.843552777,
-      "source": "http://www.wikidata.org/entity/Q80182736"
+      "source": "http://www.wikidata.org/entity/Q80182736",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Gainsborough%20by%20Thomas%20Gainsborough.jpg"
+    },
+    {
+      "id": "Q19820438",
+      "artistId": "alfred-sisley",
+      "artistName": "Alfred Sisley",
+      "reviewStatus": "generated",
+      "title": "Banks of the Loing, Autumn Effect",
+      "date": "1881",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "israel-museum-jerusalem",
+      "location": "Israel Museum",
+      "city": "Jerusalem",
+      "country": "Israel",
+      "lat": 31.7725,
+      "lon": 35.204166666,
+      "source": "http://www.wikidata.org/entity/Q19820438",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Alferd%20Sisley%20-%20Banks%20of%20the%20Loing%20-%20Autumn%20Effect%2C%201881%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20110.jpg"
+    },
+    {
+      "id": "Q19820461",
+      "artistId": "alfred-sisley",
+      "artistName": "Alfred Sisley",
+      "reviewStatus": "generated",
+      "title": "Barges on the Loing at Saint-Mammès",
+      "date": "1885",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "israel-museum-jerusalem",
+      "location": "Israel Museum",
+      "city": "Jerusalem",
+      "country": "Israel",
+      "lat": 31.7725,
+      "lon": 35.204166666,
+      "source": "http://www.wikidata.org/entity/Q19820461",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Alfred%20Sisley%20-%20Barges%20on%20the%20Loing%20at%20Saint-Mamm%C3%A8s%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20110.jpg"
     },
     {
       "id": "Q28777892",
@@ -272,24 +340,9 @@
       "country": "Israel",
       "lat": 31.7725,
       "lon": 35.204166666,
-      "source": "http://www.wikidata.org/entity/Q28777892"
-    },
-    {
-      "id": "Q28775975",
-      "artistId": "amedeo-modigliani",
-      "artistName": "Amedeo Modigliani",
-      "reviewStatus": "generated",
-      "title": "Portrait of Léopold Zborowski",
-      "date": "1916",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "israel-museum-jerusalem",
-      "location": "Israel Museum",
-      "city": "Jerusalem",
-      "country": "Israel",
-      "lat": 31.7725,
-      "lon": 35.204166666,
-      "source": "http://www.wikidata.org/entity/Q28775975"
+      "source": "http://www.wikidata.org/entity/Q28777892",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Amedeo%20Modigliani%20-%20Portrait%20of%20Jeanne%20Hebuterne%2C%20Seated%2C%201918%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Amedeo%20Modigliani%201918%20restored.jpg"
     },
     {
       "id": "Q63413701",
@@ -306,15 +359,17 @@
       "country": "Israel",
       "lat": 31.7725,
       "lon": 35.204166666,
-      "source": "http://www.wikidata.org/entity/Q63413701"
+      "source": "http://www.wikidata.org/entity/Q63413701",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Anthony%20van%20Dyck%20-%20Portrait%20of%20Paulus%20Pontius%20B79%200308.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Anthony%20van%20Dyck%20-%20Self-portrait.jpg"
     },
     {
-      "id": "Q76626772",
+      "id": "Q22667186",
       "artistId": "camille-pissarro",
       "artistName": "Camille Pissarro",
       "reviewStatus": "generated",
-      "title": "Portrait of Jeanne",
-      "date": "1893",
+      "title": "Peasant Woman Resting at the Foot of a Tree, Effect of Sunshine, Éragny",
+      "date": "1899",
       "type": "Painting",
       "attribution": "Accepted",
       "locationId": "israel-museum-jerusalem",
@@ -323,15 +378,17 @@
       "country": "Israel",
       "lat": 31.7725,
       "lon": 35.204166666,
-      "source": "http://www.wikidata.org/entity/Q76626772"
+      "source": "http://www.wikidata.org/entity/Q22667186",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Pissarro%20-%20Morning%20Sunlight%20Effect%2C%20Eragny%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg"
     },
     {
-      "id": "Q76628618",
-      "artistId": "diego-rivera",
-      "artistName": "Diego Rivera",
+      "id": "Q21482460",
+      "artistId": "camille-pissarro",
+      "artistName": "Camille Pissarro",
       "reviewStatus": "generated",
-      "title": "Still-life with Glass",
-      "date": "1915",
+      "title": "The Factory at Pontoise",
+      "date": "1873",
       "type": "Painting",
       "attribution": "Accepted",
       "locationId": "israel-museum-jerusalem",
@@ -340,14 +397,16 @@
       "country": "Israel",
       "lat": 31.7725,
       "lon": 35.204166666,
-      "source": "http://www.wikidata.org/entity/Q76628618"
+      "source": "http://www.wikidata.org/entity/Q21482460",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Pissarro%20-%20The%20Factory%20at%20Pontoise%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg"
     },
     {
-      "id": "Q76627249",
-      "artistId": "edgar-degas",
-      "artistName": "Edgar Degas",
+      "id": "Q22669620",
+      "artistId": "camille-pissarro",
+      "artistName": "Camille Pissarro",
       "reviewStatus": "generated",
-      "title": "Crossed Arabesque, Second Act",
+      "title": "The Tuileries Garden, Morning, Sunshine",
       "date": "1900",
       "type": "Painting",
       "attribution": "Accepted",
@@ -357,24 +416,9 @@
       "country": "Israel",
       "lat": 31.7725,
       "lon": 35.204166666,
-      "source": "http://www.wikidata.org/entity/Q76627249"
-    },
-    {
-      "id": "Q76628130",
-      "artistId": "edgar-degas",
-      "artistName": "Edgar Degas",
-      "reviewStatus": "generated",
-      "title": "Seated Woman Drying Her Left Hip",
-      "date": "1900",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "israel-museum-jerusalem",
-      "location": "Israel Museum",
-      "city": "Jerusalem",
-      "country": "Israel",
-      "lat": 31.7725,
-      "lon": 35.204166666,
-      "source": "http://www.wikidata.org/entity/Q76628130"
+      "source": "http://www.wikidata.org/entity/Q22669620",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Tuileries%20Gardens%2C%20Afternoon%2C%20Sun%201900%20Pissarro.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg"
     },
     {
       "id": "Q76844481",
@@ -391,7 +435,9 @@
       "country": "Israel",
       "lat": 31.7725,
       "lon": 35.204166666,
-      "source": "http://www.wikidata.org/entity/Q76844481"
+      "source": "http://www.wikidata.org/entity/Q76844481",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Degas%20-%20Studio%20Interior%20with%20%27The%20Steeplechase%27%2C%20circa%201881.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20self%20portrait%201855FXD.jpg"
     },
     {
       "id": "Q76844490",
@@ -408,15 +454,17 @@
       "country": "Israel",
       "lat": 31.7725,
       "lon": 35.204166666,
-      "source": "http://www.wikidata.org/entity/Q76844490"
+      "source": "http://www.wikidata.org/entity/Q76844490",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Vuillard%20-%20Misia%20in%20a%20Chaise%20Longue%2C%20ca.%201900.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Self-Portrait%2C%20Aged%2021%20A21192.jpg"
     },
     {
-      "id": "Q76625914",
-      "artistId": "georges-braque",
-      "artistName": "Georges Braque",
+      "id": "Q80183580",
+      "artistId": "francois-boucher",
+      "artistName": "François Boucher",
       "reviewStatus": "generated",
-      "title": "Pitcher, Guitar and Fruit",
-      "date": "1925",
+      "title": "Untitled (Little Shepherd)",
+      "date": "1744",
       "type": "Painting",
       "attribution": "Accepted",
       "locationId": "israel-museum-jerusalem",
@@ -425,41 +473,9 @@
       "country": "Israel",
       "lat": 31.7725,
       "lon": 35.204166666,
-      "source": "http://www.wikidata.org/entity/Q76625914"
-    },
-    {
-      "id": "Q76628505",
-      "artistId": "georges-braque",
-      "artistName": "Georges Braque",
-      "reviewStatus": "generated",
-      "title": "Still Life with Mandolin",
-      "date": "1933",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "israel-museum-jerusalem",
-      "location": "Israel Museum",
-      "city": "Jerusalem",
-      "country": "Israel",
-      "lat": 31.7725,
-      "lon": 35.204166666,
-      "source": "http://www.wikidata.org/entity/Q76628505"
-    },
-    {
-      "id": "Q76629366",
-      "artistId": "georges-braque",
-      "artistName": "Georges Braque",
-      "reviewStatus": "generated",
-      "title": "Trees at La Ciotat",
-      "date": "1907",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "israel-museum-jerusalem",
-      "location": "Israel Museum",
-      "city": "Jerusalem",
-      "country": "Israel",
-      "lat": 31.7725,
-      "lon": 35.204166666,
-      "source": "http://www.wikidata.org/entity/Q76629366"
+      "source": "http://www.wikidata.org/entity/Q80183580",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Boucher%20par%20Gustav%20Lundberg%201741.jpg"
     },
     {
       "id": "Q76844473",
@@ -476,7 +492,28 @@
       "country": "Israel",
       "lat": 31.7725,
       "lon": 35.204166666,
-      "source": "http://www.wikidata.org/entity/Q76844473"
+      "source": "http://www.wikidata.org/entity/Q76844473",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Corot%20-%20Fisherman%20Arranging%20His%20Catch.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste-Camille%20Corot%20c1850.png"
+    },
+    {
+      "id": "Q76844476",
+      "artistId": "jean-baptiste-camille-corot",
+      "artistName": "Jean-Baptiste-Camille Corot",
+      "reviewStatus": "generated",
+      "title": "Mortefontaine: The Path to the Little Fence",
+      "date": "1855",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "israel-museum-jerusalem",
+      "location": "Israel Museum",
+      "city": "Jerusalem",
+      "country": "Israel",
+      "lat": 31.7725,
+      "lon": 35.204166666,
+      "source": "http://www.wikidata.org/entity/Q76844476",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Corot%20-%20Mortefontaine%20The%20Path%20to%20the%20Little%20Fence%2C%201850-60.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste-Camille%20Corot%20c1850.png"
     },
     {
       "id": "Q76844472",
@@ -493,7 +530,9 @@
       "country": "Israel",
       "lat": 31.7725,
       "lon": 35.204166666,
-      "source": "http://www.wikidata.org/entity/Q76844472"
+      "source": "http://www.wikidata.org/entity/Q76844472",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Corot%20-%20The%20Fishing%20River.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste-Camille%20Corot%20c1850.png"
     },
     {
       "id": "Q91948564",
@@ -510,7 +549,9 @@
       "country": "Israel",
       "lat": 31.7725,
       "lon": 35.204166666,
-      "source": "http://www.wikidata.org/entity/Q91948564"
+      "source": "http://www.wikidata.org/entity/Q91948564",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Corot%20-%20The%20Town%20of%20Avray%2C%20by%20the%20River.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste-Camille%20Corot%20c1850.png"
     },
     {
       "id": "Q80174129",
@@ -527,58 +568,9 @@
       "country": "Israel",
       "lat": 31.7725,
       "lon": 35.204166666,
-      "source": "http://www.wikidata.org/entity/Q80174129"
-    },
-    {
-      "id": "Q76627644",
-      "artistId": "marc-chagall",
-      "artistName": "Marc Chagall",
-      "reviewStatus": "generated",
-      "title": "Interior of a Synagogue in Safed",
-      "date": "1931",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "israel-museum-jerusalem",
-      "location": "Israel Museum",
-      "city": "Jerusalem",
-      "country": "Israel",
-      "lat": 31.7725,
-      "lon": 35.204166666,
-      "source": "http://www.wikidata.org/entity/Q76627644"
-    },
-    {
-      "id": "Q76628695",
-      "artistId": "marc-chagall",
-      "artistName": "Marc Chagall",
-      "reviewStatus": "generated",
-      "title": "Self Portrait",
-      "date": "1911",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "israel-museum-jerusalem",
-      "location": "Israel Museum",
-      "city": "Jerusalem",
-      "country": "Israel",
-      "lat": 31.7725,
-      "lon": 35.204166666,
-      "source": "http://www.wikidata.org/entity/Q76628695"
-    },
-    {
-      "id": "Q76626220",
-      "artistId": "marc-chagall",
-      "artistName": "Marc Chagall",
-      "reviewStatus": "generated",
-      "title": "The Mikveh (Ritual Bath)",
-      "date": "1910",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "israel-museum-jerusalem",
-      "location": "Israel Museum",
-      "city": "Jerusalem",
-      "country": "Israel",
-      "lat": 31.7725,
-      "lon": 35.204166666,
-      "source": "http://www.wikidata.org/entity/Q76626220"
+      "source": "http://www.wikidata.org/entity/Q80174129",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Honor%C3%A9%20Fragonard%20self-portrait.jpg"
     },
     {
       "id": "Q28797018",
@@ -595,7 +587,28 @@
       "country": "Israel",
       "lat": 31.7725,
       "lon": 35.204166666,
-      "source": "http://www.wikidata.org/entity/Q28797018"
+      "source": "http://www.wikidata.org/entity/Q28797018",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20C%C3%A9zanne%20-%20Country%20House%20by%20a%20River%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul-Cezanne.jpg"
+    },
+    {
+      "id": "Q28797016",
+      "artistId": "paul-cezanne",
+      "artistName": "Paul Cézanne",
+      "reviewStatus": "generated",
+      "title": "Morning View of L'Estaque Against the Sunlight",
+      "date": "1882",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "israel-museum-jerusalem",
+      "location": "Israel Museum",
+      "city": "Jerusalem",
+      "country": "Israel",
+      "lat": 31.7725,
+      "lon": 35.204166666,
+      "source": "http://www.wikidata.org/entity/Q28797016",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Cezanne%20-%20Morning%20View%20of%20L%27Estaque%20Against%20the%20Sunlight%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul-Cezanne.jpg"
     },
     {
       "id": "Q76625659",
@@ -612,7 +625,28 @@
       "country": "Israel",
       "lat": 31.7725,
       "lon": 35.204166666,
-      "source": "http://www.wikidata.org/entity/Q76625659"
+      "source": "http://www.wikidata.org/entity/Q76625659",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/C%C3%A9zanne%20-%20FWN%2028.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul-Cezanne.jpg"
+    },
+    {
+      "id": "Q76626871",
+      "artistId": "paul-cezanne",
+      "artistName": "Paul Cézanne",
+      "reviewStatus": "generated",
+      "title": "Rocks, L'Estaque",
+      "date": "1865",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "israel-museum-jerusalem",
+      "location": "Israel Museum",
+      "city": "Jerusalem",
+      "country": "Israel",
+      "lat": 31.7725,
+      "lon": 35.204166666,
+      "source": "http://www.wikidata.org/entity/Q76626871",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/C%C3%A9zanne%20-%20FWN%2029.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul-Cezanne.jpg"
     },
     {
       "id": "Q28797049",
@@ -629,7 +663,9 @@
       "country": "Israel",
       "lat": 31.7725,
       "lon": 35.204166666,
-      "source": "http://www.wikidata.org/entity/Q28797049"
+      "source": "http://www.wikidata.org/entity/Q28797049",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Gauguin%20-%20Houses%20at%20Vaugirard%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Gauguin%201891.png"
     },
     {
       "id": "Q76629891",
@@ -646,15 +682,17 @@
       "country": "Israel",
       "lat": 31.7725,
       "lon": 35.204166666,
-      "source": "http://www.wikidata.org/entity/Q76629891"
+      "source": "http://www.wikidata.org/entity/Q76629891",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gauguin%20Paysage%20avec%20chien.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Gauguin%201891.png"
     },
     {
-      "id": "Q76626416",
+      "id": "Q76627696",
       "artistId": "paul-gauguin",
       "artistName": "Paul Gauguin",
       "reviewStatus": "generated",
-      "title": "Woman on a Stroll (The Little Parisienne)",
-      "date": "1880",
+      "title": "Still Life",
+      "date": "1899",
       "type": "Painting",
       "attribution": "Accepted",
       "locationId": "israel-museum-jerusalem",
@@ -663,15 +701,17 @@
       "country": "Israel",
       "lat": 31.7725,
       "lon": 35.204166666,
-      "source": "http://www.wikidata.org/entity/Q76626416"
+      "source": "http://www.wikidata.org/entity/Q76627696",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gauguin%201899%20Th%C3%A9i%C3%A8re%2C%20cruche%20et%20fruits.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Gauguin%201891.png"
     },
     {
-      "id": "Q76629165",
-      "artistId": "paul-klee",
-      "artistName": "Paul Klee",
+      "id": "Q28797054",
+      "artistId": "paul-gauguin",
+      "artistName": "Paul Gauguin",
       "reviewStatus": "generated",
-      "title": "A City Street",
-      "date": "1918",
+      "title": "Upa Upa (The Fire Dance)",
+      "date": "1891",
       "type": "Painting",
       "attribution": "Accepted",
       "locationId": "israel-museum-jerusalem",
@@ -680,7 +720,9 @@
       "country": "Israel",
       "lat": 31.7725,
       "lon": 35.204166666,
-      "source": "http://www.wikidata.org/entity/Q76629165"
+      "source": "http://www.wikidata.org/entity/Q28797054",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Gauguin%20-%20Upa%20Upa%20%28The%20Fire%20Dance%29%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Gauguin%201891.png"
     },
     {
       "id": "Q537640",
@@ -697,15 +739,17 @@
       "country": "Israel",
       "lat": 31.7725,
       "lon": 35.204166666,
-      "source": "http://www.wikidata.org/entity/Q537640"
+      "source": "http://www.wikidata.org/entity/Q537640",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Angelus%20Novus%2C%201920%20-%20Paul%20Klee.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Klee%201911.jpg"
     },
     {
-      "id": "Q76626135",
+      "id": "Q76626781",
       "artistId": "paul-klee",
       "artistName": "Paul Klee",
       "reviewStatus": "generated",
-      "title": "Group of Masks",
-      "date": "1939",
+      "title": "Colors from a Distance",
+      "date": "1932",
       "type": "Painting",
       "attribution": "Accepted",
       "locationId": "israel-museum-jerusalem",
@@ -714,7 +758,9 @@
       "country": "Israel",
       "lat": 31.7725,
       "lon": 35.204166666,
-      "source": "http://www.wikidata.org/entity/Q76626135"
+      "source": "http://www.wikidata.org/entity/Q76626781",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Colors%20from%20a%20Distance%2C%201932%20-%20Paul%20Klee.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Klee%201911.jpg"
     },
     {
       "id": "Q76629806",
@@ -731,15 +777,17 @@
       "country": "Israel",
       "lat": 31.7725,
       "lon": 35.204166666,
-      "source": "http://www.wikidata.org/entity/Q76629806"
+      "source": "http://www.wikidata.org/entity/Q76629806",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Klee%201911.jpg"
     },
     {
-      "id": "Q76627196",
-      "artistId": "paul-klee",
-      "artistName": "Paul Klee",
+      "id": "Q28797058",
+      "artistId": "paul-signac",
+      "artistName": "Paul Signac",
       "reviewStatus": "generated",
-      "title": "Wieder Karneval",
-      "date": "1925",
+      "title": "The Tugboat, Canal in Samois",
+      "date": "1901",
       "type": "Painting",
       "attribution": "Accepted",
       "locationId": "israel-museum-jerusalem",
@@ -748,7 +796,28 @@
       "country": "Israel",
       "lat": 31.7725,
       "lon": 35.204166666,
-      "source": "http://www.wikidata.org/entity/Q76627196"
+      "source": "http://www.wikidata.org/entity/Q28797058",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Signac%20-%20The%20Tugboat%2C%20Canal%20in%20Samois%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Seurat%20Paul%20Signac.jpg"
+    },
+    {
+      "id": "Q9019417",
+      "artistId": "peter-paul-rubens",
+      "artistName": "Peter Paul Rubens",
+      "reviewStatus": "generated",
+      "title": "The Death of Adonis",
+      "date": "1614",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "israel-museum-jerusalem",
+      "location": "Israel Museum",
+      "city": "Jerusalem",
+      "country": "Israel",
+      "lat": 31.7725,
+      "lon": 35.204166666,
+      "source": "http://www.wikidata.org/entity/Q9019417",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Paul%20Rubens%2C%20The%20Death%20of%20Adonis%2C%20ca.%201614.%20The%20Israel%20Museum%2C%20Jerusalem.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Peter%20Paul%20Rubens%20-%20Portrait%20of%20the%20Artist%20-%20Google%20Art%20Project.jpg"
     },
     {
       "id": "Q28810347",
@@ -765,7 +834,9 @@
       "country": "Israel",
       "lat": 31.7725,
       "lon": 35.204166666,
-      "source": "http://www.wikidata.org/entity/Q28810347"
+      "source": "http://www.wikidata.org/entity/Q28810347",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre%20Auguste%20Renoir%20-%20Portrait%20of%20Mme.%20Paulin%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre%20Auguste%20Renoir%2C%20uncropped%20image.jpg"
     },
     {
       "id": "Q28810349",
@@ -782,41 +853,9 @@
       "country": "Israel",
       "lat": 31.7725,
       "lon": 35.204166666,
-      "source": "http://www.wikidata.org/entity/Q28810349"
-    },
-    {
-      "id": "Q102255508",
-      "artistId": "piet-mondrian",
-      "artistName": "Piet Mondrian",
-      "reviewStatus": "generated",
-      "title": "Farmstead with willows on the water I",
-      "date": "1902",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "israel-museum-jerusalem",
-      "location": "Israel Museum",
-      "city": "Jerusalem",
-      "country": "Israel",
-      "lat": 31.7725,
-      "lon": 35.204166666,
-      "source": "http://www.wikidata.org/entity/Q102255508"
-    },
-    {
-      "id": "Q102254119",
-      "artistId": "piet-mondrian",
-      "artistName": "Piet Mondrian",
-      "reviewStatus": "generated",
-      "title": "Farmyard in the Achterhoek",
-      "date": "1898",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "israel-museum-jerusalem",
-      "location": "Israel Museum",
-      "city": "Jerusalem",
-      "country": "Israel",
-      "lat": 31.7725,
-      "lon": 35.204166666,
-      "source": "http://www.wikidata.org/entity/Q102254119"
+      "source": "http://www.wikidata.org/entity/Q28810349",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre%20Auguste%20Renoir%20-%20Woman%20in%20a%20Flowered%20Hat%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre%20Auguste%20Renoir%2C%20uncropped%20image.jpg"
     },
     {
       "id": "Q102256008",
@@ -833,7 +872,9 @@
       "country": "Israel",
       "lat": 31.7725,
       "lon": 35.204166666,
-      "source": "http://www.wikidata.org/entity/Q102256008"
+      "source": "http://www.wikidata.org/entity/Q102256008",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Piet%20Mondriaan.jpg"
     },
     {
       "id": "Q102254359",
@@ -850,15 +891,17 @@
       "country": "Israel",
       "lat": 31.7725,
       "lon": 35.204166666,
-      "source": "http://www.wikidata.org/entity/Q102254359"
+      "source": "http://www.wikidata.org/entity/Q102254359",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Piet%20Mondriaan%20-%20Portret%20van%20Egbert%20Kuipers%20%281828-1892%29%20-%20A113%20-%20Piet%20Mondrian%2C%20catalogue%20raisonn%C3%A9.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Piet%20Mondriaan.jpg"
     },
     {
-      "id": "Q1923232",
-      "artistId": "rene-magritte",
-      "artistName": "René Magritte",
+      "id": "Q102256140",
+      "artistId": "piet-mondrian",
+      "artistName": "Piet Mondrian",
       "reviewStatus": "generated",
-      "title": "The Castle of the Pyrenees",
-      "date": "1959",
+      "title": "Willow grove near the water with chickens",
+      "date": "1905",
       "type": "Painting",
       "attribution": "Accepted",
       "locationId": "israel-museum-jerusalem",
@@ -867,7 +910,28 @@
       "country": "Israel",
       "lat": 31.7725,
       "lon": 35.204166666,
-      "source": "http://www.wikidata.org/entity/Q1923232"
+      "source": "http://www.wikidata.org/entity/Q102256140",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Piet%20Mondriaan%20-%20Willow%20grove%20near%20the%20water%20with%20chickens%20-%20A469%20-%20Piet%20Mondrian%2C%20catalogue%20raisonn%C3%A9.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Piet%20Mondriaan.jpg"
+    },
+    {
+      "id": "Q102255608",
+      "artistId": "piet-mondrian",
+      "artistName": "Piet Mondrian",
+      "reviewStatus": "generated",
+      "title": "Willow grove, trunks leaning left II",
+      "date": "1902",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "israel-museum-jerusalem",
+      "location": "Israel Museum",
+      "city": "Jerusalem",
+      "country": "Israel",
+      "lat": 31.7725,
+      "lon": 35.204166666,
+      "source": "http://www.wikidata.org/entity/Q102255608",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Piet%20Mondriaan%20-%20Willow%20grove%2C%20trunks%20leaning%20left%20II%20-%20A351%20-%20Piet%20Mondrian%2C%20catalogue%20raisonn%C3%A9.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Piet%20Mondriaan.jpg"
     },
     {
       "id": "Q76630307",
@@ -884,58 +948,9 @@
       "country": "Israel",
       "lat": 31.7725,
       "lon": 35.204166666,
-      "source": "http://www.wikidata.org/entity/Q76630307"
-    },
-    {
-      "id": "Q76626535",
-      "artistId": "rene-magritte",
-      "artistName": "René Magritte",
-      "reviewStatus": "generated",
-      "title": "The Seers (Les voyantes)",
-      "date": "1930",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "israel-museum-jerusalem",
-      "location": "Israel Museum",
-      "city": "Jerusalem",
-      "country": "Israel",
-      "lat": 31.7725,
-      "lon": 35.204166666,
-      "source": "http://www.wikidata.org/entity/Q76626535"
-    },
-    {
-      "id": "Q76625674",
-      "artistId": "wassily-kandinsky",
-      "artistName": "Wassily Kandinsky",
-      "reviewStatus": "generated",
-      "title": "Even More",
-      "date": "1933",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "israel-museum-jerusalem",
-      "location": "Israel Museum",
-      "city": "Jerusalem",
-      "country": "Israel",
-      "lat": 31.7725,
-      "lon": 35.204166666,
-      "source": "http://www.wikidata.org/entity/Q76625674"
-    },
-    {
-      "id": "Q80173868",
-      "artistId": "wassily-kandinsky",
-      "artistName": "Wassily Kandinsky",
-      "reviewStatus": "generated",
-      "title": "Strange",
-      "date": "1929",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "israel-museum-jerusalem",
-      "location": "Israel Museum",
-      "city": "Jerusalem",
-      "country": "Israel",
-      "lat": 31.7725,
-      "lon": 35.204166666,
-      "source": "http://www.wikidata.org/entity/Q80173868"
+      "source": "http://www.wikidata.org/entity/Q76630307",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg"
     },
     {
       "id": "Q133280089",
@@ -952,7 +967,9 @@
       "country": "Israel",
       "lat": 32.0775,
       "lon": 34.786666666,
-      "source": "http://www.wikidata.org/entity/Q133280089"
+      "source": "http://www.wikidata.org/entity/Q133280089",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1885%20Sisley%20Countryside%20near%20Moret%20Tel%20Aviv%20Museum%20of%20Art%20anagoria.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20110.jpg"
     },
     {
       "id": "Q124724865",
@@ -969,24 +986,9 @@
       "country": "Israel",
       "lat": 32.0775,
       "lon": 34.786666666,
-      "source": "http://www.wikidata.org/entity/Q124724865"
-    },
-    {
-      "id": "Q124724864",
-      "artistId": "alfred-sisley",
-      "artistName": "Alfred Sisley",
-      "reviewStatus": "generated",
-      "title": "Untitled record",
-      "date": "1884",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "tel-aviv-museum-of-art-tel-aviv",
-      "location": "Tel Aviv Museum of Art",
-      "city": "Tel Aviv",
-      "country": "Israel",
-      "lat": 32.0775,
-      "lon": 34.786666666,
-      "source": "http://www.wikidata.org/entity/Q124724864"
+      "source": "http://www.wikidata.org/entity/Q124724865",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1890%20Sisley%20The%20Banks%20of%20Orvanne%20Tel%20Aviv%20Museum%20of%20Art%20anagoria.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20110.jpg"
     },
     {
       "id": "Q124724866",
@@ -1003,7 +1005,28 @@
       "country": "Israel",
       "lat": 32.0775,
       "lon": 34.786666666,
-      "source": "http://www.wikidata.org/entity/Q124724866"
+      "source": "http://www.wikidata.org/entity/Q124724866",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20110.jpg"
+    },
+    {
+      "id": "Q124724864",
+      "artistId": "alfred-sisley",
+      "artistName": "Alfred Sisley",
+      "reviewStatus": "generated",
+      "title": "Untitled record",
+      "date": "1884",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "tel-aviv-museum-of-art-tel-aviv",
+      "location": "Tel Aviv Museum of Art",
+      "city": "Tel Aviv",
+      "country": "Israel",
+      "lat": 32.0775,
+      "lon": 34.786666666,
+      "source": "http://www.wikidata.org/entity/Q124724864",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20110.jpg"
     },
     {
       "id": "Q124724867",
@@ -1020,7 +1043,9 @@
       "country": "Israel",
       "lat": 32.0775,
       "lon": 34.786666666,
-      "source": "http://www.wikidata.org/entity/Q124724867"
+      "source": "http://www.wikidata.org/entity/Q124724867",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gaston%20Modot%20with%20hat%20by%20Amedeo%20Modigliani.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Amedeo%20Modigliani%201918%20restored.jpg"
     },
     {
       "id": "Q124724870",
@@ -1037,7 +1062,9 @@
       "country": "Israel",
       "lat": 32.0775,
       "lon": 34.786666666,
-      "source": "http://www.wikidata.org/entity/Q124724870"
+      "source": "http://www.wikidata.org/entity/Q124724870",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1880%20Morisot%20On%20the%20Island%20Tel%20Aviv%20Museum%20of%20Art%20anagoria.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Morisot%20berthe%20photo.jpg"
     },
     {
       "id": "Q133566729",
@@ -1054,7 +1081,9 @@
       "country": "Israel",
       "lat": 32.0775,
       "lon": 34.786666666,
-      "source": "http://www.wikidata.org/entity/Q133566729"
+      "source": "http://www.wikidata.org/entity/Q133566729",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1880%20Morisot%20Young%20Girl%20in%20a%20Mantelet%20Tel%20Aviv%20Museum%20of%20Art%20anagoria.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Morisot%20berthe%20photo.jpg"
     },
     {
       "id": "Q124724872",
@@ -1071,7 +1100,9 @@
       "country": "Israel",
       "lat": 32.0775,
       "lon": 34.786666666,
-      "source": "http://www.wikidata.org/entity/Q124724872"
+      "source": "http://www.wikidata.org/entity/Q124724872",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1882%20Pissarro%2C%20Camille%20Afternoon%20Break%20Tel%20Aviv%20Museum%20of%20Art%20anagoria.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg"
     },
     {
       "id": "Q133757411",
@@ -1088,7 +1119,9 @@
       "country": "Israel",
       "lat": 32.0775,
       "lon": 34.786666666,
-      "source": "http://www.wikidata.org/entity/Q133757411"
+      "source": "http://www.wikidata.org/entity/Q133757411",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1902%20Pissarro%2C%20Camille%20Sous-bois%20%C3%A0%20Moret%20Tel%20Aviv%20Museum%20of%20Art%20anagoria.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg"
     },
     {
       "id": "Q21727211",
@@ -1105,7 +1138,9 @@
       "country": "Israel",
       "lat": 32.0775,
       "lon": 34.786666666,
-      "source": "http://www.wikidata.org/entity/Q21727211"
+      "source": "http://www.wikidata.org/entity/Q21727211",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Pissarro%20-%20Rue%20L%C2%B4Hermitage%20%282%29%20-%201866-68.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg"
     },
     {
       "id": "Q133566515",
@@ -1122,7 +1157,9 @@
       "country": "Israel",
       "lat": 32.0775,
       "lon": 34.786666666,
-      "source": "http://www.wikidata.org/entity/Q133566515"
+      "source": "http://www.wikidata.org/entity/Q133566515",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1867%20Pissarro%2C%20C%20Chemin%20de%20l%27Excluse%20and%20Pontoise%20Bridge%20Tel%20Aviv%20Museum%20of%20Art%20anagoria.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg"
     },
     {
       "id": "Q131384512",
@@ -1139,7 +1176,9 @@
       "country": "Israel",
       "lat": 32.0775,
       "lon": 34.786666666,
-      "source": "http://www.wikidata.org/entity/Q131384512"
+      "source": "http://www.wikidata.org/entity/Q131384512",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1898%20Pissarro%2C%20C%20The%20Old%20Mill%20in%20Knokke%20Tel%20Aviv%20Museum%20of%20Art%20anagoria.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg"
     },
     {
       "id": "Q124724871",
@@ -1156,7 +1195,9 @@
       "country": "Israel",
       "lat": 32.0775,
       "lon": 34.786666666,
-      "source": "http://www.wikidata.org/entity/Q124724871"
+      "source": "http://www.wikidata.org/entity/Q124724871",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1894%20Pissarro%2C%20Camille%20Pink%20House%20Knokke%2C%20Tel%20Aviv%20Museum%20of%20Art%20anagoria.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg"
     },
     {
       "id": "Q133280055",
@@ -1173,7 +1214,9 @@
       "country": "Israel",
       "lat": 32.0775,
       "lon": 34.786666666,
-      "source": "http://www.wikidata.org/entity/Q133280055"
+      "source": "http://www.wikidata.org/entity/Q133280055",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1897%20Pissarro%2C%20Camille%20Rue%20d%27Amsterdam%20and%20Gare%20St.-Lazare%20Tel%20Aviv%20Museum%20of%20Art%20anagoria.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg"
     },
     {
       "id": "Q105416251",
@@ -1190,7 +1233,9 @@
       "country": "Israel",
       "lat": 32.0775,
       "lon": 34.786666666,
-      "source": "http://www.wikidata.org/entity/Q105416251"
+      "source": "http://www.wikidata.org/entity/Q105416251",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/5299498896%200cebeb4344%20o%20w1621.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%201899%20Nadar%20crop.jpg"
     },
     {
       "id": "Q49446122",
@@ -1207,7 +1252,28 @@
       "country": "Israel",
       "lat": 32.0775,
       "lon": 34.786666666,
-      "source": "http://www.wikidata.org/entity/Q49446122"
+      "source": "http://www.wikidata.org/entity/Q49446122",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1889%20Monet%20Grainstack%20at%20Giverny%20Tel%20Aviv%20Museum%20of%20Art%20anagoria.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%201899%20Nadar%20crop.jpg"
+    },
+    {
+      "id": "Q49469903",
+      "artistId": "monet",
+      "artistName": "Claude Monet",
+      "reviewStatus": "generated",
+      "title": "Three Trees in Grey Weather",
+      "date": "1891",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "tel-aviv-museum-of-art-tel-aviv",
+      "location": "Tel Aviv Museum of Art",
+      "city": "Tel Aviv",
+      "country": "Israel",
+      "lat": 32.0775,
+      "lon": 34.786666666,
+      "source": "http://www.wikidata.org/entity/Q49469903",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Three%20Trees%20in%20Grey%20Weather%201891%20Claude%20Monet.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%201899%20Nadar%20crop.jpg"
     },
     {
       "id": "Q105416238",
@@ -1224,7 +1290,9 @@
       "country": "Israel",
       "lat": 32.0775,
       "lon": 34.786666666,
-      "source": "http://www.wikidata.org/entity/Q105416238"
+      "source": "http://www.wikidata.org/entity/Q105416238",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Monet%20-%20Wildenstein%201996%2C%20886.png",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%201899%20Nadar%20crop.jpg"
     },
     {
       "id": "Q124724884",
@@ -1241,7 +1309,9 @@
       "country": "Israel",
       "lat": 32.0775,
       "lon": 34.786666666,
-      "source": "http://www.wikidata.org/entity/Q124724884"
+      "source": "http://www.wikidata.org/entity/Q124724884",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1889%20Degas%20Ballet%20Scene%20Tel%20Aviv%20Museum%20of%20Art%20anagoria.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20self%20portrait%201855FXD.jpg"
     },
     {
       "id": "Q124724883",
@@ -1258,41 +1328,9 @@
       "country": "Israel",
       "lat": 32.0775,
       "lon": 34.786666666,
-      "source": "http://www.wikidata.org/entity/Q124724883"
-    },
-    {
-      "id": "Q124724887",
-      "artistId": "edouard-vuillard",
-      "artistName": "Édouard Vuillard",
-      "reviewStatus": "generated",
-      "title": "Untitled record",
-      "date": "1900",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "tel-aviv-museum-of-art-tel-aviv",
-      "location": "Tel Aviv Museum of Art",
-      "city": "Tel Aviv",
-      "country": "Israel",
-      "lat": 32.0775,
-      "lon": 34.786666666,
-      "source": "http://www.wikidata.org/entity/Q124724887"
-    },
-    {
-      "id": "Q124724888",
-      "artistId": "edouard-vuillard",
-      "artistName": "Édouard Vuillard",
-      "reviewStatus": "generated",
-      "title": "Untitled record",
-      "date": "1917",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "tel-aviv-museum-of-art-tel-aviv",
-      "location": "Tel Aviv Museum of Art",
-      "city": "Tel Aviv",
-      "country": "Israel",
-      "lat": 32.0775,
-      "lon": 34.786666666,
-      "source": "http://www.wikidata.org/entity/Q124724888"
+      "source": "http://www.wikidata.org/entity/Q124724883",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Two%20dancers%20by%20Edgar%20Degas.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20self%20portrait%201855FXD.jpg"
     },
     {
       "id": "Q124724890",
@@ -1309,7 +1347,9 @@
       "country": "Israel",
       "lat": 32.0775,
       "lon": 34.786666666,
-      "source": "http://www.wikidata.org/entity/Q124724890"
+      "source": "http://www.wikidata.org/entity/Q124724890",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Vuillard%20-%20Salomon%20and%20Cogeval%2C%20VII-247.png",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Self-Portrait%2C%20Aged%2021%20A21192.jpg"
     },
     {
       "id": "Q124724885",
@@ -1326,7 +1366,28 @@
       "country": "Israel",
       "lat": 32.0775,
       "lon": 34.786666666,
-      "source": "http://www.wikidata.org/entity/Q124724885"
+      "source": "http://www.wikidata.org/entity/Q124724885",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Vuillard%20-%20Salomon%20and%20Cogeval%2C%20XII-286.png",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Self-Portrait%2C%20Aged%2021%20A21192.jpg"
+    },
+    {
+      "id": "Q124724887",
+      "artistId": "edouard-vuillard",
+      "artistName": "Édouard Vuillard",
+      "reviewStatus": "generated",
+      "title": "Untitled record",
+      "date": "1900",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "tel-aviv-museum-of-art-tel-aviv",
+      "location": "Tel Aviv Museum of Art",
+      "city": "Tel Aviv",
+      "country": "Israel",
+      "lat": 32.0775,
+      "lon": 34.786666666,
+      "source": "http://www.wikidata.org/entity/Q124724887",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Vuillard%20-%20Salomon%20and%20Cogeval%2C%20VIII-013.png",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Self-Portrait%2C%20Aged%2021%20A21192.jpg"
     },
     {
       "id": "Q124724886",
@@ -1343,15 +1404,17 @@
       "country": "Israel",
       "lat": 32.0775,
       "lon": 34.786666666,
-      "source": "http://www.wikidata.org/entity/Q124724886"
+      "source": "http://www.wikidata.org/entity/Q124724886",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Vuillard%20-%20Salomon%20and%20Cogeval%2C%20VI-051.png",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Self-Portrait%2C%20Aged%2021%20A21192.jpg"
     },
     {
-      "id": "Q124724898",
-      "artistId": "georges-braque",
-      "artistName": "Georges Braque",
+      "id": "Q124724888",
+      "artistId": "edouard-vuillard",
+      "artistName": "Édouard Vuillard",
       "reviewStatus": "generated",
       "title": "Untitled record",
-      "date": "1931",
+      "date": "1917",
       "type": "Painting",
       "attribution": "Accepted",
       "locationId": "tel-aviv-museum-of-art-tel-aviv",
@@ -1360,24 +1423,9 @@
       "country": "Israel",
       "lat": 32.0775,
       "lon": 34.786666666,
-      "source": "http://www.wikidata.org/entity/Q124724898"
-    },
-    {
-      "id": "Q124724899",
-      "artistId": "georges-braque",
-      "artistName": "Georges Braque",
-      "reviewStatus": "generated",
-      "title": "Untitled record",
-      "date": "1911",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "tel-aviv-museum-of-art-tel-aviv",
-      "location": "Tel Aviv Museum of Art",
-      "city": "Tel Aviv",
-      "country": "Israel",
-      "lat": 32.0775,
-      "lon": 34.786666666,
-      "source": "http://www.wikidata.org/entity/Q124724899"
+      "source": "http://www.wikidata.org/entity/Q124724888",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Vuillard%2C%20Square.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Self-Portrait%2C%20Aged%2021%20A21192.jpg"
     },
     {
       "id": "Q60675160",
@@ -1394,7 +1442,47 @@
       "country": "Israel",
       "lat": 32.0775,
       "lon": 34.786666666,
-      "source": "http://www.wikidata.org/entity/Q60675160"
+      "source": "http://www.wikidata.org/entity/Q60675160",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Braque%2C%201908%2C%20photograph%20published%20in%20Gelett%20Burgess%2C%20The%20Wild%20Men%20of%20Paris%2C%20Architectural%20Record%2C%20May%201910.jpg"
+    },
+    {
+      "id": "Q124724898",
+      "artistId": "georges-braque",
+      "artistName": "Georges Braque",
+      "reviewStatus": "generated",
+      "title": "Untitled record",
+      "date": "1931",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "tel-aviv-museum-of-art-tel-aviv",
+      "location": "Tel Aviv Museum of Art",
+      "city": "Tel Aviv",
+      "country": "Israel",
+      "lat": 32.0775,
+      "lon": 34.786666666,
+      "source": "http://www.wikidata.org/entity/Q124724898",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Braque%2C%201908%2C%20photograph%20published%20in%20Gelett%20Burgess%2C%20The%20Wild%20Men%20of%20Paris%2C%20Architectural%20Record%2C%20May%201910.jpg"
+    },
+    {
+      "id": "Q124724899",
+      "artistId": "georges-braque",
+      "artistName": "Georges Braque",
+      "reviewStatus": "generated",
+      "title": "Untitled record",
+      "date": "1911",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "tel-aviv-museum-of-art-tel-aviv",
+      "location": "Tel Aviv Museum of Art",
+      "city": "Tel Aviv",
+      "country": "Israel",
+      "lat": 32.0775,
+      "lon": 34.786666666,
+      "source": "http://www.wikidata.org/entity/Q124724899",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Braque%2C%201908%2C%20photograph%20published%20in%20Gelett%20Burgess%2C%20The%20Wild%20Men%20of%20Paris%2C%20Architectural%20Record%2C%20May%201910.jpg"
     },
     {
       "id": "Q124724902",
@@ -1411,7 +1499,9 @@
       "country": "Israel",
       "lat": 32.0775,
       "lon": 34.786666666,
-      "source": "http://www.wikidata.org/entity/Q124724902"
+      "source": "http://www.wikidata.org/entity/Q124724902",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg"
     },
     {
       "id": "Q98955374",
@@ -1428,7 +1518,9 @@
       "country": "Israel",
       "lat": 32.0775,
       "lon": 34.786666666,
-      "source": "http://www.wikidata.org/entity/Q98955374"
+      "source": "http://www.wikidata.org/entity/Q98955374",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Friedericke%20Maria%20Beer.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustav%20Klimt%201912.jpg"
     },
     {
       "id": "Q124724908",
@@ -1445,24 +1537,9 @@
       "country": "Israel",
       "lat": 32.0775,
       "lon": 34.786666666,
-      "source": "http://www.wikidata.org/entity/Q124724908"
-    },
-    {
-      "id": "Q124724907",
-      "artistId": "henri-matisse",
-      "artistName": "Henri Matisse",
-      "reviewStatus": "generated",
-      "title": "Untitled record",
-      "date": "1922",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "tel-aviv-museum-of-art-tel-aviv",
-      "location": "Tel Aviv Museum of Art",
-      "city": "Tel Aviv",
-      "country": "Israel",
-      "lat": 32.0775,
-      "lon": 34.786666666,
-      "source": "http://www.wikidata.org/entity/Q124724907"
+      "source": "http://www.wikidata.org/entity/Q124724908",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Photolautrec.jpg"
     },
     {
       "id": "Q124724906",
@@ -1479,7 +1556,28 @@
       "country": "Israel",
       "lat": 32.0775,
       "lon": 34.786666666,
-      "source": "http://www.wikidata.org/entity/Q124724906"
+      "source": "http://www.wikidata.org/entity/Q124724906",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Henri%20Matisse%201933%20May%2020.jpg"
+    },
+    {
+      "id": "Q124724907",
+      "artistId": "henri-matisse",
+      "artistName": "Henri Matisse",
+      "reviewStatus": "generated",
+      "title": "Untitled record",
+      "date": "1922",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "tel-aviv-museum-of-art-tel-aviv",
+      "location": "Tel Aviv Museum of Art",
+      "city": "Tel Aviv",
+      "country": "Israel",
+      "lat": 32.0775,
+      "lon": 34.786666666,
+      "source": "http://www.wikidata.org/entity/Q124724907",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Matisse%20-%20Woman%20with%20Gladiola%20%281922%29%20%28cropped%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Henri%20Matisse%201933%20May%2020.jpg"
     },
     {
       "id": "Q135208808",
@@ -1496,7 +1594,9 @@
       "country": "Israel",
       "lat": 32.0775,
       "lon": 34.786666666,
-      "source": "http://www.wikidata.org/entity/Q135208808"
+      "source": "http://www.wikidata.org/entity/Q135208808",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Shagal%20Choumoff.jpg"
     },
     {
       "id": "Q3964348",
@@ -1513,7 +1613,9 @@
       "country": "Israel",
       "lat": 32.0775,
       "lon": 34.786666666,
-      "source": "http://www.wikidata.org/entity/Q3964348"
+      "source": "http://www.wikidata.org/entity/Q3964348",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Shagal%20Choumoff.jpg"
     },
     {
       "id": "Q135208804",
@@ -1530,7 +1632,9 @@
       "country": "Israel",
       "lat": 32.0775,
       "lon": 34.786666666,
-      "source": "http://www.wikidata.org/entity/Q135208804"
+      "source": "http://www.wikidata.org/entity/Q135208804",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Shagal%20Choumoff.jpg"
     },
     {
       "id": "Q135208799",
@@ -1547,7 +1651,9 @@
       "country": "Israel",
       "lat": 32.0775,
       "lon": 34.786666666,
-      "source": "http://www.wikidata.org/entity/Q135208799"
+      "source": "http://www.wikidata.org/entity/Q135208799",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Shagal%20Choumoff.jpg"
     },
     {
       "id": "Q62567056",
@@ -1564,7 +1670,9 @@
       "country": "Israel",
       "lat": 32.0775,
       "lon": 34.786666666,
-      "source": "http://www.wikidata.org/entity/Q62567056"
+      "source": "http://www.wikidata.org/entity/Q62567056",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Shagal%20Choumoff.jpg"
     },
     {
       "id": "Q133854180",
@@ -1581,7 +1689,9 @@
       "country": "Israel",
       "lat": 32.0775,
       "lon": 34.786666666,
-      "source": "http://www.wikidata.org/entity/Q133854180"
+      "source": "http://www.wikidata.org/entity/Q133854180",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1908%20Cassat%20Mother%20Rose%20Tela%20Aviv%20Museum%20of%20Art%20anagoria.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg"
     },
     {
       "id": "Q105416204",
@@ -1598,7 +1708,9 @@
       "country": "Israel",
       "lat": 32.0775,
       "lon": 34.786666666,
-      "source": "http://www.wikidata.org/entity/Q105416204"
+      "source": "http://www.wikidata.org/entity/Q105416204",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/C%C3%A9zanne%20-%20FWN%20161.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul-Cezanne.jpg"
     },
     {
       "id": "Q105416205",
@@ -1615,7 +1727,9 @@
       "country": "Israel",
       "lat": 32.0775,
       "lon": 34.786666666,
-      "source": "http://www.wikidata.org/entity/Q105416205"
+      "source": "http://www.wikidata.org/entity/Q105416205",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/C%C3%A9zanne%20-%20FWN%20644.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul-Cezanne.jpg"
     },
     {
       "id": "Q97690272",
@@ -1632,7 +1746,9 @@
       "country": "Israel",
       "lat": 32.0775,
       "lon": 34.786666666,
-      "source": "http://www.wikidata.org/entity/Q97690272"
+      "source": "http://www.wikidata.org/entity/Q97690272",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gauguin%201892%20Contes%20barbares.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Gauguin%201891.png"
     },
     {
       "id": "Q133420652",
@@ -1649,7 +1765,9 @@
       "country": "Israel",
       "lat": 32.0775,
       "lon": 34.786666666,
-      "source": "http://www.wikidata.org/entity/Q133420652"
+      "source": "http://www.wikidata.org/entity/Q133420652",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1932%20Signac%20Concarneau%20Tel%20Aviv%20Museum%20of%20Art%20anagoria.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Seurat%20Paul%20Signac.jpg"
     },
     {
       "id": "Q124724920",
@@ -1666,7 +1784,9 @@
       "country": "Israel",
       "lat": 32.0775,
       "lon": 34.786666666,
-      "source": "http://www.wikidata.org/entity/Q124724920"
+      "source": "http://www.wikidata.org/entity/Q124724920",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1903%20Signac%20Pont%20Mirabeau%20Tel%20Aviv%20Museum%20of%20Art%20anagoria.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Seurat%20Paul%20Signac.jpg"
     },
     {
       "id": "Q133854159",
@@ -1683,15 +1803,17 @@
       "country": "Israel",
       "lat": 32.0775,
       "lon": 34.786666666,
-      "source": "http://www.wikidata.org/entity/Q133854159"
+      "source": "http://www.wikidata.org/entity/Q133854159",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1907%20Signac%20The%20Old%20Port%20at%20Marseille%20Tel%20Aviv%20Museum%20of%20Art%20anagoria.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Seurat%20Paul%20Signac.jpg"
     },
     {
-      "id": "Q124724924",
-      "artistId": "pierre-bonnard",
-      "artistName": "Pierre Bonnard",
+      "id": "Q26221200",
+      "artistId": "van-gogh",
+      "artistName": "Vincent van Gogh",
       "reviewStatus": "generated",
-      "title": "Untitled record",
-      "date": "1913",
+      "title": "Shepherdess, The (after Millet)",
+      "date": "1889",
       "type": "Painting",
       "attribution": "Accepted",
       "locationId": "tel-aviv-museum-of-art-tel-aviv",
@@ -1700,75 +1822,9 @@
       "country": "Israel",
       "lat": 32.0775,
       "lon": 34.786666666,
-      "source": "http://www.wikidata.org/entity/Q124724924"
-    },
-    {
-      "id": "Q124724926",
-      "artistId": "pierre-bonnard",
-      "artistName": "Pierre Bonnard",
-      "reviewStatus": "generated",
-      "title": "Untitled record",
-      "date": "1915",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "tel-aviv-museum-of-art-tel-aviv",
-      "location": "Tel Aviv Museum of Art",
-      "city": "Tel Aviv",
-      "country": "Israel",
-      "lat": 32.0775,
-      "lon": 34.786666666,
-      "source": "http://www.wikidata.org/entity/Q124724926"
-    },
-    {
-      "id": "Q124724923",
-      "artistId": "pierre-bonnard",
-      "artistName": "Pierre Bonnard",
-      "reviewStatus": "generated",
-      "title": "Untitled record",
-      "date": "1918",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "tel-aviv-museum-of-art-tel-aviv",
-      "location": "Tel Aviv Museum of Art",
-      "city": "Tel Aviv",
-      "country": "Israel",
-      "lat": 32.0775,
-      "lon": 34.786666666,
-      "source": "http://www.wikidata.org/entity/Q124724923"
-    },
-    {
-      "id": "Q124724921",
-      "artistId": "pierre-bonnard",
-      "artistName": "Pierre Bonnard",
-      "reviewStatus": "generated",
-      "title": "Untitled record",
-      "date": "1905",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "tel-aviv-museum-of-art-tel-aviv",
-      "location": "Tel Aviv Museum of Art",
-      "city": "Tel Aviv",
-      "country": "Israel",
-      "lat": 32.0775,
-      "lon": 34.786666666,
-      "source": "http://www.wikidata.org/entity/Q124724921"
-    },
-    {
-      "id": "Q124724922",
-      "artistId": "pierre-bonnard",
-      "artistName": "Pierre Bonnard",
-      "reviewStatus": "generated",
-      "title": "Untitled record",
-      "date": "1920",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "tel-aviv-museum-of-art-tel-aviv",
-      "location": "Tel Aviv Museum of Art",
-      "city": "Tel Aviv",
-      "country": "Israel",
-      "lat": 32.0775,
-      "lon": 34.786666666,
-      "source": "http://www.wikidata.org/entity/Q124724922"
+      "source": "http://www.wikidata.org/entity/Q26221200",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Van%20Gogh%20-%20Die%20Sch%C3%A4ferin%20%28nach%20Millet%29.jpeg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Self-portrait%20-%20Vincent%20van%20Gogh.jpg"
     },
     {
       "id": "Q124724937",
@@ -1785,7 +1841,9 @@
       "country": "Israel",
       "lat": 32.0775,
       "lon": 34.786666666,
-      "source": "http://www.wikidata.org/entity/Q124724937"
+      "source": "http://www.wikidata.org/entity/Q124724937",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Wassily%20Kandinsky-Untitled%20Improvisation-Tel%20Aviv%20museum%20of%20art.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Wassily%20kandinsky.jpg"
     }
   ]
 }

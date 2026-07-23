@@ -17,7 +17,9 @@
       "country": "Luxembourg",
       "lat": 49.611944444,
       "lon": 6.133055555,
-      "source": "http://www.wikidata.org/entity/Q115496172"
+      "source": "http://www.wikidata.org/entity/Q115496172",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Turnerlux1%20w.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%20auto-retrato.jpg"
     },
     {
       "id": "Q112227480",
@@ -34,7 +36,9 @@
       "country": "Luxembourg",
       "lat": 49.611944444,
       "lon": 6.133055555,
-      "source": "http://www.wikidata.org/entity/Q112227480"
+      "source": "http://www.wikidata.org/entity/Q112227480",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20l%27Ancien%20-%20La%20Charit%C3%A9.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20d.%20%C3%84.%20063.jpg"
     },
     {
       "id": "Q92082384",
@@ -51,7 +55,9 @@
       "country": "Luxembourg",
       "lat": 49.61305556,
       "lon": 6.1225,
-      "source": "http://www.wikidata.org/entity/Q92082384"
+      "source": "http://www.wikidata.org/entity/Q92082384",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Eug%C3%A8ne%20Delacroix%20-%20Jeune%20Turc.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Autoportrait%20-%20Eug%C3%A8ne%20Delacroix%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20RF%2025.jpg"
     }
   ]
 }

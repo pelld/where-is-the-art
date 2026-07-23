@@ -17,7 +17,9 @@
       "country": "Guernsey",
       "lat": 49.458967,
       "lon": -2.540845,
-      "source": "http://www.wikidata.org/entity/Q119864036"
+      "source": "http://www.wikidata.org/entity/Q119864036",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Murillo%20%281617-1682%29%20%28school%20of%29%20-%20The%20Visitation%20-%20GUELI%20%2C%20GMAG%201973%20-%20Guernsey%20Museum%20and%20Art%20Gallery.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg"
     }
   ]
 }

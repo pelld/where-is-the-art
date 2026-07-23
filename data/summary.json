@@ -2,7 +2,7 @@
   {
     "id": "gwen-john",
     "status": "complete",
-    "records": 90,
+    "records": 89,
     "locations": 29,
     "defaultLocationId": "art-gallery-of-south-australia-adelaide"
   },
@@ -16,8 +16,8 @@
   {
     "id": "tamara-de-lempicka",
     "status": "complete",
-    "records": 29,
-    "locations": 14,
+    "records": 28,
+    "locations": 13,
     "defaultLocationId": "grimaldi-castle-museum-cagnes-sur-mer"
   }
 ]

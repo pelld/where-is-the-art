@@ -17,10 +17,11 @@
       "source": "http://www.wikidata.org/entity/Q123550677",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hilma-af-Klint-uncropped.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q436267",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -41,10 +42,11 @@
       "source": "http://www.wikidata.org/entity/Q123538239",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Tree%20of%20Knowledge%20No.%201%2C%20Hilma%20af%20Klint%2C%201913-1915%2C%20Glenstone%202023.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hilma-af-Klint-uncropped.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q436267",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -65,10 +67,11 @@
       "source": "http://www.wikidata.org/entity/Q124038989",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Tree%20of%20Knowledge%20No.%202%2C%20Hilma%20af%20Klint%2C%201913-1915%2C%20Glenstone%202023.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hilma-af-Klint-uncropped.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q436267",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -89,10 +92,11 @@
       "source": "http://www.wikidata.org/entity/Q104904758",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Portr%C3%A4tt%20-%20Sj%C3%B6historiska%20museet%20-%20O%2011963.tif",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hilma-af-Klint-uncropped.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q436267",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     }

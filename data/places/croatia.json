@@ -17,7 +17,9 @@
       "country": "Croatia",
       "lat": 45.8091203,
       "lon": 15.9785136,
-      "source": "http://www.wikidata.org/entity/Q21232254"
+      "source": "http://www.wikidata.org/entity/Q21232254",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Angelico%20-%20Stigmatizacija%20svetoga%20Franje%20Asi%C5%A1koga%20i%20smrt%20svetoga%20Petra%20Mu%C4%8Denika%2C%201430.-1440.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Fra%20Angelico%20portrait.jpg"
     }
   ]
 }

@@ -17,7 +17,9 @@
       "country": "Mexico",
       "lat": 19.355143,
       "lon": -99.162525,
-      "source": "http://www.wikidata.org/entity/Q8773940"
+      "source": "http://www.wikidata.org/entity/Q8773940",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Frida%20Kahlo%2C%20by%20Guillermo%20Kahlo%20%28cropped%29.jpg"
     },
     {
       "id": "Q106811218",
@@ -34,7 +36,9 @@
       "country": "Mexico",
       "lat": 19.355143,
       "lon": -99.162525,
-      "source": "http://www.wikidata.org/entity/Q106811218"
+      "source": "http://www.wikidata.org/entity/Q106811218",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Frida%20Kahlo%2C%20by%20Guillermo%20Kahlo%20%28cropped%29.jpg"
     },
     {
       "id": "Q17629443",
@@ -51,7 +55,9 @@
       "country": "Mexico",
       "lat": 19.355143,
       "lon": -99.162525,
-      "source": "http://www.wikidata.org/entity/Q17629443"
+      "source": "http://www.wikidata.org/entity/Q17629443",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Frida%20Kahlo%2C%20by%20Guillermo%20Kahlo%20%28cropped%29.jpg"
     },
     {
       "id": "Q70244519",
@@ -68,7 +74,9 @@
       "country": "Mexico",
       "lat": 19.43726,
       "lon": -99.14321,
-      "source": "http://www.wikidata.org/entity/Q70244519"
+      "source": "http://www.wikidata.org/entity/Q70244519",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/ZuberberanMayer.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Francisco%20de%20Zurbar%C3%A1n%20autoportrait.jpg"
     },
     {
       "id": "Q140578434",
@@ -85,7 +93,28 @@
       "country": "Mexico",
       "lat": 19.43638889,
       "lon": -99.13944444,
-      "source": "http://www.wikidata.org/entity/Q140578434"
+      "source": "http://www.wikidata.org/entity/Q140578434",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Rivera%20-%20After%20the%20Storm%20%28The%20Grounded%20Ship%29%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Rivera%20-%20Google%20Art%20Project%20%28cropped%29.jpg"
+    },
+    {
+      "id": "Q129255773",
+      "artistId": "anthony-van-dyck",
+      "artistName": "Anthony van Dyck",
+      "reviewStatus": "generated",
+      "title": "Head of a bearded Man",
+      "date": "1650",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "museo-nacional-de-san-carlos-cuauhtemoc",
+      "location": "Museo Nacional de San Carlos",
+      "city": "Cuauhtémoc",
+      "country": "Mexico",
+      "lat": 19.43804,
+      "lon": -99.1519,
+      "source": "http://www.wikidata.org/entity/Q129255773",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Antoon%20van%20Dyck%20-%20Cabe%C3%A7a%20de%20homem%20barbado.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Anthony%20van%20Dyck%20-%20Self-portrait.jpg"
     },
     {
       "id": "Q91063454",
@@ -102,7 +131,9 @@
       "country": "Mexico",
       "lat": 19.43804,
       "lon": -99.1519,
-      "source": "http://www.wikidata.org/entity/Q91063454"
+      "source": "http://www.wikidata.org/entity/Q91063454",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20Cena%20de%20Ema%C3%BAs%20-%201639%20-%20Francisco%20de%20Zurbar%C3%A1n%20-%20Museo%20Nacional%20de%20San%20Carlos.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Francisco%20de%20Zurbar%C3%A1n%20autoportrait.jpg"
     },
     {
       "id": "Q113612727",
@@ -119,24 +150,9 @@
       "country": "Mexico",
       "lat": 19.43804,
       "lon": -99.1519,
-      "source": "http://www.wikidata.org/entity/Q113612727"
-    },
-    {
-      "id": "Q16685337",
-      "artistId": "diego-rivera",
-      "artistName": "Diego Rivera",
-      "reviewStatus": "generated",
-      "title": "The History of Mexico",
-      "date": "1929",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "national-palace-cuauhtemoc",
-      "location": "National Palace",
-      "city": "Cuauhtémoc",
-      "country": "Mexico",
-      "lat": 19.4325,
-      "lon": -99.131388888,
-      "source": "http://www.wikidata.org/entity/Q16685337"
+      "source": "http://www.wikidata.org/entity/Q113612727",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Zurbar%C3%A1n%20-%20Meditaci%C3%B3n%20de%20la%20Magdalena.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Francisco%20de%20Zurbar%C3%A1n%20autoportrait.jpg"
     },
     {
       "id": "Q105530002",
@@ -153,7 +169,9 @@
       "country": "Mexico",
       "lat": 19.435277777,
       "lon": -99.141388888,
-      "source": "http://www.wikidata.org/entity/Q105530002"
+      "source": "http://www.wikidata.org/entity/Q105530002",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mural.%20El%20hombre%20en%20el%20cruce%20de%20caminos.%20Diego%20rivera%20%281934%29.JPG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Rivera%20-%20Google%20Art%20Project%20%28cropped%29.jpg"
     },
     {
       "id": "Q104640981",
@@ -170,15 +188,36 @@
       "country": "Mexico",
       "lat": 19.433086,
       "lon": -99.128844,
-      "source": "http://www.wikidata.org/entity/Q104640981"
+      "source": "http://www.wikidata.org/entity/Q104640981",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Greco%20-%20Saint%20Francis%20receiving%20the%20Stigmata%2C%20Alberto%20Pani%2C%20Mexico%20City.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Greco%20-%20Portrait%20of%20a%20Man%20-%20WGA10554.jpg"
     },
     {
-      "id": "Q118190557",
+      "id": "Q61745465",
+      "artistId": "diego-rivera",
+      "artistName": "Diego Rivera",
+      "reviewStatus": "generated",
+      "title": "Untitled record",
+      "date": "1967",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "collection-unknown-mexico-city",
+      "location": "Collection unknown",
+      "city": "Mexico City",
+      "country": "Mexico",
+      "lat": 19.42036,
+      "lon": -99.18204,
+      "source": "http://www.wikidata.org/entity/Q61745465",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Rivera%20-%20Google%20Art%20Project%20%28cropped%29.jpg"
+    },
+    {
+      "id": "Q28339146",
       "artistId": "frida-kahlo",
       "artistName": "Frida Kahlo",
       "reviewStatus": "generated",
-      "title": "Henry Ford Hospital",
-      "date": "1932",
+      "title": "A Few Small Nips",
+      "date": "1935",
       "type": "Painting",
       "attribution": "Accepted",
       "locationId": "museo-dolores-olmedo-mexico-city",
@@ -187,7 +226,9 @@
       "country": "Mexico",
       "lat": 19.266,
       "lon": -99.126024,
-      "source": "http://www.wikidata.org/entity/Q118190557"
+      "source": "http://www.wikidata.org/entity/Q28339146",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Frida%20Kahlo%2C%20by%20Guillermo%20Kahlo%20%28cropped%29.jpg"
     },
     {
       "id": "Q21056477",
@@ -204,7 +245,9 @@
       "country": "Mexico",
       "lat": 19.266,
       "lon": -99.126024,
-      "source": "http://www.wikidata.org/entity/Q21056477"
+      "source": "http://www.wikidata.org/entity/Q21056477",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Frida%20Kahlo%2C%20by%20Guillermo%20Kahlo%20%28cropped%29.jpg"
     },
     {
       "id": "Q6135245",
@@ -221,7 +264,9 @@
       "country": "Mexico",
       "lat": 19.43604,
       "lon": -99.14685,
-      "source": "http://www.wikidata.org/entity/Q6135245"
+      "source": "http://www.wikidata.org/entity/Q6135245",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Kid%20-%20Diego%20Rivera.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Rivera%20-%20Google%20Art%20Project%20%28cropped%29.jpg"
     },
     {
       "id": "Q18224593",
@@ -238,7 +283,9 @@
       "country": "Mexico",
       "lat": 19.44066,
       "lon": -99.20462,
-      "source": "http://www.wikidata.org/entity/Q18224593"
+      "source": "http://www.wikidata.org/entity/Q18224593",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Typographer%20%28Pedro%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Amedeo%20Modigliani%201918%20restored.jpg"
     },
     {
       "id": "Q18222829",
@@ -255,7 +302,9 @@
       "country": "Mexico",
       "lat": 19.44066,
       "lon": -99.20462,
-      "source": "http://www.wikidata.org/entity/Q18222829"
+      "source": "http://www.wikidata.org/entity/Q18222829",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Amedeo%20Modigliani%201918%20restored.jpg"
     },
     {
       "id": "Q18711755",
@@ -272,7 +321,9 @@
       "country": "Mexico",
       "lat": 19.44066,
       "lon": -99.20462,
-      "source": "http://www.wikidata.org/entity/Q18711755"
+      "source": "http://www.wikidata.org/entity/Q18711755",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/3415%20Mar%C3%ADa%20Magdalena%20como%20melancol%C3%ADa.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Artemisia%20Gentileschi%20Selfportrait%20Martyr.jpg"
     },
     {
       "id": "Q27830965",
@@ -289,7 +340,9 @@
       "country": "Mexico",
       "lat": 19.44066,
       "lon": -99.20462,
-      "source": "http://www.wikidata.org/entity/Q27830965"
+      "source": "http://www.wikidata.org/entity/Q27830965",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Saint%20Apollonia%20by%20Artemisia%20Gentileschi%20ca.%201642-1644.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Artemisia%20Gentileschi%20Selfportrait%20Martyr.jpg"
     },
     {
       "id": "Q27862974",
@@ -306,7 +359,9 @@
       "country": "Mexico",
       "lat": 19.44066,
       "lon": -99.20462,
-      "source": "http://www.wikidata.org/entity/Q27862974"
+      "source": "http://www.wikidata.org/entity/Q27862974",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Saint%20Lucy%20by%20Artemisia%20Gentileschi%20ca.%201642-1644.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Artemisia%20Gentileschi%20Selfportrait%20Martyr.jpg"
     },
     {
       "id": "Q131542819",
@@ -323,7 +378,9 @@
       "country": "Mexico",
       "lat": 19.44066,
       "lon": -99.20462,
-      "source": "http://www.wikidata.org/entity/Q131542819"
+      "source": "http://www.wikidata.org/entity/Q131542819",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Perez%20Murillo%20-%20Ecce%20Homo.JPG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg"
     },
     {
       "id": "Q24569472",
@@ -340,7 +397,9 @@
       "country": "Mexico",
       "lat": 19.44066,
       "lon": -99.20462,
-      "source": "http://www.wikidata.org/entity/Q24569472"
+      "source": "http://www.wikidata.org/entity/Q24569472",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Murillo%20-%20Immaculada%20Concepci%C3%B3n%2C%20c.%201670.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg"
     },
     {
       "id": "Q131537857",
@@ -357,7 +416,9 @@
       "country": "Mexico",
       "lat": 19.44066,
       "lon": -99.20462,
-      "source": "http://www.wikidata.org/entity/Q131537857"
+      "source": "http://www.wikidata.org/entity/Q131537857",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Murillo%20-%20Retrato%20de%20un%20caballero.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg"
     },
     {
       "id": "Q131537854",
@@ -374,7 +435,9 @@
       "country": "Mexico",
       "lat": 19.44066,
       "lon": -99.20462,
-      "source": "http://www.wikidata.org/entity/Q131537854"
+      "source": "http://www.wikidata.org/entity/Q131537854",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Murillo%20-%20Tres%20%C3%81ngeles%20Ni%C3%B1os.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg"
     },
     {
       "id": "Q130287438",
@@ -391,7 +454,9 @@
       "country": "Mexico",
       "lat": 19.44066,
       "lon": -99.20462,
-      "source": "http://www.wikidata.org/entity/Q130287438"
+      "source": "http://www.wikidata.org/entity/Q130287438",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro%20-%20Pissarro%20and%20Durand-Ruel%20Snollaerts%2C%20168.png",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg"
     },
     {
       "id": "Q22673755",
@@ -408,7 +473,9 @@
       "country": "Mexico",
       "lat": 19.44066,
       "lon": -99.20462,
-      "source": "http://www.wikidata.org/entity/Q22673755"
+      "source": "http://www.wikidata.org/entity/Q22673755",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%27Statue%20of%20Henry%20IV%2C%20Beginning%20of%20Spring%20%28First%20Series%29%27%20%281901%29%20by%20Camille%20Pissarro%20-%20Museo%20Soumaya%20-%20Mexico%202024.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg"
     },
     {
       "id": "Q18224556",
@@ -425,7 +492,9 @@
       "country": "Mexico",
       "lat": 19.44066,
       "lon": -99.20462,
-      "source": "http://www.wikidata.org/entity/Q18224556"
+      "source": "http://www.wikidata.org/entity/Q18224556",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%27Landscape%20at%20Giverny%27%20%281887%29%20by%20Claude%20Monet%20-%20Museo%20Soumaya%20-%20Mexico%202024.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%201899%20Nadar%20crop.jpg"
     },
     {
       "id": "Q28131286",
@@ -442,7 +511,9 @@
       "country": "Mexico",
       "lat": 19.44066,
       "lon": -99.20462,
-      "source": "http://www.wikidata.org/entity/Q28131286"
+      "source": "http://www.wikidata.org/entity/Q28131286",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/3607%20Paisaje%20en%20Port-Villez.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%201899%20Nadar%20crop.jpg"
     },
     {
       "id": "Q17266577",
@@ -459,7 +530,9 @@
       "country": "Mexico",
       "lat": 19.44066,
       "lon": -99.20462,
-      "source": "http://www.wikidata.org/entity/Q17266577"
+      "source": "http://www.wikidata.org/entity/Q17266577",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Montaje%20de%20R%C3%ADo%20Juchit%C3%A1n%20en%20el%20Museo%20Soumaya.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Rivera%20-%20Google%20Art%20Project%20%28cropped%29.jpg"
     },
     {
       "id": "Q130297866",
@@ -476,7 +549,9 @@
       "country": "Mexico",
       "lat": 19.44066,
       "lon": -99.20462,
-      "source": "http://www.wikidata.org/entity/Q130297866"
+      "source": "http://www.wikidata.org/entity/Q130297866",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%27Houses%20along%20a%20Cliff%27%20%281880-1890%29%20by%20Edgar%20Degas%20-%20Museo%20Soumaya%20-%20Mexico%202024.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20self%20portrait%201855FXD.jpg"
     },
     {
       "id": "Q117112742",
@@ -493,7 +568,9 @@
       "country": "Mexico",
       "lat": 19.44066,
       "lon": -99.20462,
-      "source": "http://www.wikidata.org/entity/Q117112742"
+      "source": "http://www.wikidata.org/entity/Q117112742",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%27Seaside%20Landscape%27%20%28ca.%201895-1898%29%20by%20Edgar%20Degas%20-%20Museo%20Soumaya%20-%20Mexico%202024.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20self%20portrait%201855FXD.jpg"
     },
     {
       "id": "Q130287441",
@@ -510,7 +587,9 @@
       "country": "Mexico",
       "lat": 19.44066,
       "lon": -99.20462,
-      "source": "http://www.wikidata.org/entity/Q130287441"
+      "source": "http://www.wikidata.org/entity/Q130287441",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20-%20Woman%20Washing%2C%20c.%201906.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20self%20portrait%201855FXD.jpg"
     },
     {
       "id": "Q17266597",
@@ -527,7 +606,9 @@
       "country": "Mexico",
       "lat": 19.44066,
       "lon": -99.20462,
-      "source": "http://www.wikidata.org/entity/Q17266597"
+      "source": "http://www.wikidata.org/entity/Q17266597",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mujer%20ba%C3%B1%C3%A1ndose%20Edgar%20Degas.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20self%20portrait%201855FXD.jpg"
     },
     {
       "id": "Q76563341",
@@ -544,7 +625,9 @@
       "country": "Mexico",
       "lat": 19.44066,
       "lon": -99.20462,
-      "source": "http://www.wikidata.org/entity/Q76563341"
+      "source": "http://www.wikidata.org/entity/Q76563341",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mujer%20ba%C3%B1%C3%A1ndose%20Edgar%20Degas.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20self%20portrait%201855FXD.jpg"
     },
     {
       "id": "Q126710515",
@@ -561,7 +644,9 @@
       "country": "Mexico",
       "lat": 19.44066,
       "lon": -99.20462,
-      "source": "http://www.wikidata.org/entity/Q126710515"
+      "source": "http://www.wikidata.org/entity/Q126710515",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20-%20Woman%20Washing%2C%20c.%201906.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20self%20portrait%201855FXD.jpg"
     },
     {
       "id": "Q21050281",
@@ -578,7 +663,9 @@
       "country": "Mexico",
       "lat": 19.44066,
       "lon": -99.20462,
-      "source": "http://www.wikidata.org/entity/Q21050281"
+      "source": "http://www.wikidata.org/entity/Q21050281",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Manet%20-%20Young%20Girl%20in%20a%20Brown%20Hat.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Manet%2C%20en%20buste%2C%20de%20face%20-%20Nadar.jpg"
     },
     {
       "id": "Q130297850",
@@ -595,7 +682,9 @@
       "country": "Mexico",
       "lat": 19.44066,
       "lon": -99.20462,
-      "source": "http://www.wikidata.org/entity/Q130297850"
+      "source": "http://www.wikidata.org/entity/Q130297850",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%27Married%20Life%27%20%281896%29%20by%20%C3%89douard%20Vuillard%20-%20Museo%20Soumaya%20-%20Mexico%202024.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Self-Portrait%2C%20Aged%2021%20A21192.jpg"
     },
     {
       "id": "Q18221011",
@@ -612,7 +701,9 @@
       "country": "Mexico",
       "lat": 19.44066,
       "lon": -99.20462,
-      "source": "http://www.wikidata.org/entity/Q18221011"
+      "source": "http://www.wikidata.org/entity/Q18221011",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/7222%20Adoraci%C3%B3n%20de%20los%20Reyes%20Magos.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Greco%20-%20Portrait%20of%20a%20Man%20-%20WGA10554.jpg"
     },
     {
       "id": "Q113128946",
@@ -629,7 +720,9 @@
       "country": "Mexico",
       "lat": 19.44066,
       "lon": -99.20462,
-      "source": "http://www.wikidata.org/entity/Q113128946"
+      "source": "http://www.wikidata.org/entity/Q113128946",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Greco%20-%20Cristo%20en%20la%20cruz%2C%20en%20un%20paisaje%20con%20jinetes.JPG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Greco%20-%20Portrait%20of%20a%20Man%20-%20WGA10554.jpg"
     },
     {
       "id": "Q104530817",
@@ -646,7 +739,9 @@
       "country": "Mexico",
       "lat": 19.44066,
       "lon": -99.20462,
-      "source": "http://www.wikidata.org/entity/Q104530817"
+      "source": "http://www.wikidata.org/entity/Q104530817",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/3468%20San%20Francisco%20y%20el%20Hermano%20Le%C3%B3n%20meditando%20sobre%20la%20muerte.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Greco%20-%20Portrait%20of%20a%20Man%20-%20WGA10554.jpg"
     },
     {
       "id": "Q104530016",
@@ -663,7 +758,9 @@
       "country": "Mexico",
       "lat": 19.44066,
       "lon": -99.20462,
-      "source": "http://www.wikidata.org/entity/Q104530016"
+      "source": "http://www.wikidata.org/entity/Q104530016",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Greco%20-%20La%20Sagrada%20Familia%2C%20c.%201610-11.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Greco%20-%20Portrait%20of%20a%20Man%20-%20WGA10554.jpg"
     },
     {
       "id": "Q104530548",
@@ -680,7 +777,9 @@
       "country": "Mexico",
       "lat": 19.44066,
       "lon": -99.20462,
-      "source": "http://www.wikidata.org/entity/Q104530548"
+      "source": "http://www.wikidata.org/entity/Q104530548",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/7033.1%20Magdalena%20penitente.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Greco%20-%20Portrait%20of%20a%20Man%20-%20WGA10554.jpg"
     },
     {
       "id": "Q18223938",
@@ -697,7 +796,9 @@
       "country": "Mexico",
       "lat": 19.44066,
       "lon": -99.20462,
-      "source": "http://www.wikidata.org/entity/Q18223938"
+      "source": "http://www.wikidata.org/entity/Q18223938",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Las%20l%C3%A1grimas%20de%20san%20Pedro%20Soumaya%2004%20%28cropped%29.JPG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Greco%20-%20Portrait%20of%20a%20Man%20-%20WGA10554.jpg"
     },
     {
       "id": "Q24934064",
@@ -714,7 +815,9 @@
       "country": "Mexico",
       "lat": 19.44066,
       "lon": -99.20462,
-      "source": "http://www.wikidata.org/entity/Q24934064"
+      "source": "http://www.wikidata.org/entity/Q24934064",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Autoportrait%20-%20Eug%C3%A8ne%20Delacroix%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20RF%2025.jpg"
     },
     {
       "id": "Q21710978",
@@ -731,7 +834,9 @@
       "country": "Mexico",
       "lat": 19.44066,
       "lon": -99.20462,
-      "source": "http://www.wikidata.org/entity/Q21710978"
+      "source": "http://www.wikidata.org/entity/Q21710978",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Autoportrait%20-%20Eug%C3%A8ne%20Delacroix%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20RF%2025.jpg"
     },
     {
       "id": "Q18224893",
@@ -748,7 +853,9 @@
       "country": "Mexico",
       "lat": 19.44066,
       "lon": -99.20462,
-      "source": "http://www.wikidata.org/entity/Q18224893"
+      "source": "http://www.wikidata.org/entity/Q18224893",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%27Saint%20Francis%20of%20Assisi%20in%20Ecstasy%27%20%28ca%201638%29%20by%20Francisco%20de%20Zurbar%C3%A1n%20-%20Museo%20Soumaya%20-%20Mexico%202024.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Francisco%20de%20Zurbar%C3%A1n%20autoportrait.jpg"
     },
     {
       "id": "Q76563339",
@@ -765,7 +872,9 @@
       "country": "Mexico",
       "lat": 19.44066,
       "lon": -99.20462,
-      "source": "http://www.wikidata.org/entity/Q76563339"
+      "source": "http://www.wikidata.org/entity/Q76563339",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustave%20Courbet%2C%20photograph%20Atelier%20Nadar%2C%20c.%201860s.jpg"
     },
     {
       "id": "Q130297859",
@@ -782,7 +891,9 @@
       "country": "Mexico",
       "lat": 19.44066,
       "lon": -99.20462,
-      "source": "http://www.wikidata.org/entity/Q130297859"
+      "source": "http://www.wikidata.org/entity/Q130297859",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%27At%20the%20Ball%20in%20the%20Moulin%20de%20la%20Galette%27%20%28ca.%201889%29%20by%20Henri%20de%20Toulouse-Lautrec%20-%20Museo%20Soumaya%20-%20Mexico%202024.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Photolautrec.jpg"
     },
     {
       "id": "Q130297861",
@@ -799,7 +910,9 @@
       "country": "Mexico",
       "lat": 19.44066,
       "lon": -99.20462,
-      "source": "http://www.wikidata.org/entity/Q130297861"
+      "source": "http://www.wikidata.org/entity/Q130297861",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%27Bust%20of%20Mademoiselle%20Marcelle%20Lender%27%20%28ca.%201895%29%20by%20Henri%20de%20Toulouse-Lautrec%20-%20Museo%20Soumaya%20-%20Mexico%202024.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Photolautrec.jpg"
     },
     {
       "id": "Q130297862",
@@ -816,7 +929,47 @@
       "country": "Mexico",
       "lat": 19.44066,
       "lon": -99.20462,
-      "source": "http://www.wikidata.org/entity/Q130297862"
+      "source": "http://www.wikidata.org/entity/Q130297862",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%27Woman%20in%20Prayer%27%20%281882%29%20by%20Henri%20de%20Toulouse-Lautrec%20-%20Museo%20Soumaya%20-%20Mexico%202024.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Photolautrec.jpg"
+    },
+    {
+      "id": "Q25412604",
+      "artistId": "honore-daumier",
+      "artistName": "Honoré Daumier",
+      "reviewStatus": "generated",
+      "title": "The Legislative Belly",
+      "date": "1834",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "museo-soumaya-mexico-city",
+      "location": "Museo Soumaya",
+      "city": "Mexico City",
+      "country": "Mexico",
+      "lat": 19.44066,
+      "lon": -99.20462,
+      "source": "http://www.wikidata.org/entity/Q25412604",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Honore%20Daumier-Nadar.jpg"
+    },
+    {
+      "id": "Q25412603",
+      "artistId": "honore-daumier",
+      "artistName": "Honoré Daumier",
+      "reviewStatus": "generated",
+      "title": "Untitled record",
+      "date": "1854",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "museo-soumaya-mexico-city",
+      "location": "Museo Soumaya",
+      "city": "Mexico City",
+      "country": "Mexico",
+      "lat": 19.44066,
+      "lon": -99.20462,
+      "source": "http://www.wikidata.org/entity/Q25412603",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Honore%20Daumier-Nadar.jpg"
     },
     {
       "id": "Q130297864",
@@ -833,7 +986,9 @@
       "country": "Mexico",
       "lat": 19.44066,
       "lon": -99.20462,
-      "source": "http://www.wikidata.org/entity/Q130297864"
+      "source": "http://www.wikidata.org/entity/Q130297864",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%27Head%20of%20Joan%20of%20Arc%20in%20Ecstasy%27%20%28ca%201850%29%20by%20Jean-Auguste-Dominique%20Ingres%20-%20Museo%20Soumaya%20-%20Mexico%202024.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%2C%20Self-portrait.jpg"
     },
     {
       "id": "Q76563345",
@@ -850,7 +1005,9 @@
       "country": "Mexico",
       "lat": 19.44066,
       "lon": -99.20462,
-      "source": "http://www.wikidata.org/entity/Q76563345"
+      "source": "http://www.wikidata.org/entity/Q76563345",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%20-%20Paolo%20and%20Francesca.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%2C%20Self-portrait.jpg"
     },
     {
       "id": "Q76563331",
@@ -867,7 +1024,9 @@
       "country": "Mexico",
       "lat": 19.44066,
       "lon": -99.20462,
-      "source": "http://www.wikidata.org/entity/Q76563331"
+      "source": "http://www.wikidata.org/entity/Q76563331",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste-Camille%20Corot%20c1850.png"
     },
     {
       "id": "Q18177864",
@@ -884,7 +1043,9 @@
       "country": "Mexico",
       "lat": 19.44066,
       "lon": -99.20462,
-      "source": "http://www.wikidata.org/entity/Q18177864"
+      "source": "http://www.wikidata.org/entity/Q18177864",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Corot%20-%20Gisors%2C%20c.%201873.JPG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste-Camille%20Corot%20c1850.png"
     },
     {
       "id": "Q18643763",
@@ -901,7 +1062,9 @@
       "country": "Mexico",
       "lat": 19.44066,
       "lon": -99.20462,
-      "source": "http://www.wikidata.org/entity/Q18643763"
+      "source": "http://www.wikidata.org/entity/Q18643763",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20%28I%29%20-%20Adam%20und%20Eva%20%28Museo%20Soumaya%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20d.%20%C3%84.%20063.jpg"
     },
     {
       "id": "Q21711773",
@@ -918,7 +1081,9 @@
       "country": "Mexico",
       "lat": 19.44066,
       "lon": -99.20462,
-      "source": "http://www.wikidata.org/entity/Q21711773"
+      "source": "http://www.wikidata.org/entity/Q21711773",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20%28I%29%20-%20Die%20Anbetung%20des%20Jesuskindes%20durch%20Johannes%20den%20T%C3%A4ufer.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20d.%20%C3%84.%20063.jpg"
     },
     {
       "id": "Q18419843",
@@ -935,7 +1100,9 @@
       "country": "Mexico",
       "lat": 19.44066,
       "lon": -99.20462,
-      "source": "http://www.wikidata.org/entity/Q18419843"
+      "source": "http://www.wikidata.org/entity/Q18419843",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20%28I%29%20-%20Lucretia%20%28Museo%20Soumaya%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20d.%20%C3%84.%20063.jpg"
     },
     {
       "id": "Q18203234",
@@ -952,7 +1119,9 @@
       "country": "Mexico",
       "lat": 19.44066,
       "lon": -99.20462,
-      "source": "http://www.wikidata.org/entity/Q18203234"
+      "source": "http://www.wikidata.org/entity/Q18203234",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Marion%20et%20Valabr%C3%A8gue%20partant%20pour%20le%20motif%2C%20par%20Paul%20C%C3%A9zanne.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul-Cezanne.jpg"
     },
     {
       "id": "Q47009609",
@@ -969,7 +1138,9 @@
       "country": "Mexico",
       "lat": 19.44066,
       "lon": -99.20462,
-      "source": "http://www.wikidata.org/entity/Q47009609"
+      "source": "http://www.wikidata.org/entity/Q47009609",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20de%20femme%20au%20grand%20chapeau%20par%20Pierre%20Bonnard%20%28mus%C3%A9e%20Soumaya%2C%20Mexico%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Self-portrait-1889.jpg"
     },
     {
       "id": "Q130297854",
@@ -986,7 +1157,9 @@
       "country": "Mexico",
       "lat": 19.44066,
       "lon": -99.20462,
-      "source": "http://www.wikidata.org/entity/Q130297854"
+      "source": "http://www.wikidata.org/entity/Q130297854",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%27Terrace%20by%20the%20Sea%27%20%28ca%201910%29%20by%20Pierre%20Bonnard%20-%20Museo%20Soumaya%20-%20Mexico%202024.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Self-portrait-1889.jpg"
     },
     {
       "id": "Q18203143",
@@ -1003,7 +1176,9 @@
       "country": "Mexico",
       "lat": 19.44066,
       "lon": -99.20462,
-      "source": "http://www.wikidata.org/entity/Q18203143"
+      "source": "http://www.wikidata.org/entity/Q18203143",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre%20Auguste%20Renoir%2C%20uncropped%20image.jpg"
     },
     {
       "id": "Q18203153",
@@ -1020,7 +1195,9 @@
       "country": "Mexico",
       "lat": 19.44066,
       "lon": -99.20462,
-      "source": "http://www.wikidata.org/entity/Q18203153"
+      "source": "http://www.wikidata.org/entity/Q18203153",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%27Nude%20Woman%20Seating%27%20%281890-1900%29%20by%20Pierre-Auguste%20Renoir%20-%20Museo%20Soumaya%20-%20Mexico%202024.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre%20Auguste%20Renoir%2C%20uncropped%20image.jpg"
     },
     {
       "id": "Q18418958",
@@ -1037,7 +1214,9 @@
       "country": "Mexico",
       "lat": 19.44066,
       "lon": -99.20462,
-      "source": "http://www.wikidata.org/entity/Q18418958"
+      "source": "http://www.wikidata.org/entity/Q18418958",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Retrato%20de%20una%20ni%C3%B1a%20-%20Renoir%2C%201880.JPG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre%20Auguste%20Renoir%2C%20uncropped%20image.jpg"
     },
     {
       "id": "Q27655534",
@@ -1054,24 +1233,9 @@
       "country": "Mexico",
       "lat": 19.44066,
       "lon": -99.20462,
-      "source": "http://www.wikidata.org/entity/Q27655534"
-    },
-    {
-      "id": "Q18203264",
-      "artistId": "pierre-auguste-renoir",
-      "artistName": "Pierre-Auguste Renoir",
-      "reviewStatus": "generated",
-      "title": "Untitled record",
-      "date": "1912",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "museo-soumaya-mexico-city",
-      "location": "Museo Soumaya",
-      "city": "Mexico City",
-      "country": "Mexico",
-      "lat": 19.44066,
-      "lon": -99.20462,
-      "source": "http://www.wikidata.org/entity/Q18203264"
+      "source": "http://www.wikidata.org/entity/Q27655534",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/50594%20%C3%89tudes%20de%20paysages%20et%20nus.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre%20Auguste%20Renoir%2C%20uncropped%20image.jpg"
     },
     {
       "id": "Q18203195",
@@ -1088,7 +1252,28 @@
       "country": "Mexico",
       "lat": 19.44066,
       "lon": -99.20462,
-      "source": "http://www.wikidata.org/entity/Q18203195"
+      "source": "http://www.wikidata.org/entity/Q18203195",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Retrato%20de%20Jean%20Renoir.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre%20Auguste%20Renoir%2C%20uncropped%20image.jpg"
+    },
+    {
+      "id": "Q18203264",
+      "artistId": "pierre-auguste-renoir",
+      "artistName": "Pierre-Auguste Renoir",
+      "reviewStatus": "generated",
+      "title": "Untitled record",
+      "date": "1912",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "museo-soumaya-mexico-city",
+      "location": "Museo Soumaya",
+      "city": "Mexico City",
+      "country": "Mexico",
+      "lat": 19.44066,
+      "lon": -99.20462,
+      "source": "http://www.wikidata.org/entity/Q18203264",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Renoir%20-%20La%20casa%20de%20Colletes%20en%20Cagnes.JPG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre%20Auguste%20Renoir%2C%20uncropped%20image.jpg"
     },
     {
       "id": "Q131690508",
@@ -1105,7 +1290,9 @@
       "country": "Mexico",
       "lat": 19.44066,
       "lon": -99.20462,
-      "source": "http://www.wikidata.org/entity/Q131690508"
+      "source": "http://www.wikidata.org/entity/Q131690508",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%27Madonna%20and%20Child%27%20%281477%29%20by%20Sandro%20Boticelli%20-%20Museo%20Soumaya%20-%20Mexico%202024.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sandro%20Botticelli%20Self-portrait%20ca%201475.jpg"
     },
     {
       "id": "Q131613737",
@@ -1122,7 +1309,9 @@
       "country": "Mexico",
       "lat": 19.44066,
       "lon": -99.20462,
-      "source": "http://www.wikidata.org/entity/Q131613737"
+      "source": "http://www.wikidata.org/entity/Q131613737",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sandro%20Botticelli%20y%20taller%20-%20La%20Virgen%20adorando%20al%20ni%C3%B1o%20Jes%C3%BAs%20y%20San%20Juan%20Bautista%2C%20c.%201480-90.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sandro%20Botticelli%20Self-portrait%20ca%201475.jpg"
     },
     {
       "id": "Q21705935",
@@ -1139,7 +1328,9 @@
       "country": "Mexico",
       "lat": 19.44066,
       "lon": -99.20462,
-      "source": "http://www.wikidata.org/entity/Q21705935"
+      "source": "http://www.wikidata.org/entity/Q21705935",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20Virgen%20y%20el%20Ni%C3%B1o%20en%20un%20nicho%20%28Sandro%20Botticelli%29%20%2802%29.JPG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sandro%20Botticelli%20Self-portrait%20ca%201475.jpg"
     },
     {
       "id": "Q24522662",
@@ -1156,7 +1347,9 @@
       "country": "Mexico",
       "lat": 19.44066,
       "lon": -99.20462,
-      "source": "http://www.wikidata.org/entity/Q24522662"
+      "source": "http://www.wikidata.org/entity/Q24522662",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%27Madonna%20and%20Child%20with%20the%20Crown%20of%20Thorns%20and%20Three%20Nails%27%20%281480s%29%20by%20Sandro%20Boticelli%20-%20Museo%20Soumaya%20-%20Mexico%202024.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sandro%20Botticelli%20Self-portrait%20ca%201475.jpg"
     },
     {
       "id": "Q18203184",
@@ -1173,7 +1366,9 @@
       "country": "Mexico",
       "lat": 19.44066,
       "lon": -99.20462,
-      "source": "http://www.wikidata.org/entity/Q18203184"
+      "source": "http://www.wikidata.org/entity/Q18203184",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/31040%20Llanto%20por%20Cristo%20muerto.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Tintoretto%20-%20Self-Portrait%20as%20a%20Young%20Man%2C%20ca.%201548%2C%20CAI.103%20%28cropped%29.jpg"
     },
     {
       "id": "Q131613873",
@@ -1190,7 +1385,9 @@
       "country": "Mexico",
       "lat": 19.44066,
       "lon": -99.20462,
-      "source": "http://www.wikidata.org/entity/Q131613873"
+      "source": "http://www.wikidata.org/entity/Q131613873",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Tintoretto%20-%20Self-Portrait%20as%20a%20Young%20Man%2C%20ca.%201548%2C%20CAI.103%20%28cropped%29.jpg"
     },
     {
       "id": "Q123747291",
@@ -1207,7 +1404,9 @@
       "country": "Mexico",
       "lat": 19.44066,
       "lon": -99.20462,
-      "source": "http://www.wikidata.org/entity/Q123747291"
+      "source": "http://www.wikidata.org/entity/Q123747291",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%27The%20Crucifixion%27%20%28ca%201550%29%20by%20Tintoretto%20-%20Museo%20Soumaya%20-%20Mexico%202024.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Tintoretto%20-%20Self-Portrait%20as%20a%20Young%20Man%2C%20ca.%201548%2C%20CAI.103%20%28cropped%29.jpg"
     },
     {
       "id": "Q123905131",
@@ -1224,7 +1423,47 @@
       "country": "Mexico",
       "lat": 19.44066,
       "lon": -99.20462,
-      "source": "http://www.wikidata.org/entity/Q123905131"
+      "source": "http://www.wikidata.org/entity/Q123905131",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Tiziano%20Vecellio%20-%20Posible%20retrato%20de%20Jan%20van%20Haanen%20-%203424%20-%20Museo%20Soumaya.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Vecellio%20di%20Gregorio%20Tiziano%20-%20autoritratto.jpg"
+    },
+    {
+      "id": "Q5179827",
+      "artistId": "van-gogh",
+      "artistName": "Vincent van Gogh",
+      "reviewStatus": "generated",
+      "title": "Cows in the Meadow",
+      "date": "1883",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "museo-soumaya-mexico-city",
+      "location": "Museo Soumaya",
+      "city": "Mexico City",
+      "country": "Mexico",
+      "lat": 19.44066,
+      "lon": -99.20462,
+      "source": "http://www.wikidata.org/entity/Q5179827",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Vincent%20van%20Gogh%20-%20Cows%20in%20the%20Meadow%20%281883%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Self-portrait%20-%20Vincent%20van%20Gogh.jpg"
+    },
+    {
+      "id": "Q7158466",
+      "artistId": "van-gogh",
+      "artistName": "Vincent van Gogh",
+      "reviewStatus": "generated",
+      "title": "Peatery in Drenthe",
+      "date": "1883",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "museo-soumaya-mexico-city",
+      "location": "Museo Soumaya",
+      "city": "Mexico City",
+      "country": "Mexico",
+      "lat": 19.44066,
+      "lon": -99.20462,
+      "source": "http://www.wikidata.org/entity/Q7158466",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Van%20Gogh%20-%20Paisaje%20en%20Drenthe%2C%201883.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Self-portrait%20-%20Vincent%20van%20Gogh.jpg"
     },
     {
       "id": "Q19677293",
@@ -1241,7 +1480,9 @@
       "country": "Mexico",
       "lat": 19.44066,
       "lon": -99.20462,
-      "source": "http://www.wikidata.org/entity/Q19677293"
+      "source": "http://www.wikidata.org/entity/Q19677293",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%27Cottage%20with%20a%20Peasant%20Coming%20Back%20Home%27%20%281885%29%20by%20Vincent%20Van%20Gogh%20-%20Museo%20Soumaya%20-%20Mexico%202024.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Self-portrait%20-%20Vincent%20van%20Gogh.jpg"
     },
     {
       "id": "Q18203251",
@@ -1258,7 +1499,28 @@
       "country": "Mexico",
       "lat": 19.44066,
       "lon": -99.20462,
-      "source": "http://www.wikidata.org/entity/Q18203251"
+      "source": "http://www.wikidata.org/entity/Q18203251",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%27Shepherd%20with%20a%20Flock%20of%20Sheep%27%20%281884%29%20by%20Vincent%20Van%20Gogh%20-%20Museo%20Soumaya%20-%20Mexico%202024.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Self-portrait%20-%20Vincent%20van%20Gogh.jpg"
+    },
+    {
+      "id": "Q16685337",
+      "artistId": "diego-rivera",
+      "artistName": "Diego Rivera",
+      "reviewStatus": "generated",
+      "title": "The History of Mexico",
+      "date": "1929",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "national-palace-mexico-city",
+      "location": "National Palace",
+      "city": "Mexico City",
+      "country": "Mexico",
+      "lat": 19.4325,
+      "lon": -99.131388888,
+      "source": "http://www.wikidata.org/entity/Q16685337",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Palacio%20Nacional%20Murals%20view.JPG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Rivera%20-%20Google%20Art%20Project%20%28cropped%29.jpg"
     },
     {
       "id": "Q3232010",
@@ -1275,15 +1537,17 @@
       "country": "Mexico",
       "lat": 19.42274,
       "lon": -99.17954,
-      "source": "http://www.wikidata.org/entity/Q3232010"
+      "source": "http://www.wikidata.org/entity/Q3232010",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Frida%20Kahlo%2C%20by%20Guillermo%20Kahlo%20%28cropped%29.jpg"
     },
     {
-      "id": "Q28339146",
+      "id": "Q118190557",
       "artistId": "frida-kahlo",
       "artistName": "Frida Kahlo",
       "reviewStatus": "generated",
-      "title": "A Few Small Nips",
-      "date": "1935",
+      "title": "Henry Ford Hospital",
+      "date": "1932",
       "type": "Painting",
       "attribution": "Accepted",
       "locationId": "museo-dolores-olmedo-xochimilco",
@@ -1292,7 +1556,9 @@
       "country": "Mexico",
       "lat": 19.266,
       "lon": -99.126024,
-      "source": "http://www.wikidata.org/entity/Q28339146"
+      "source": "http://www.wikidata.org/entity/Q118190557",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Frida%20Kahlo%2C%20by%20Guillermo%20Kahlo%20%28cropped%29.jpg"
     }
   ]
 }

@@ -17,7 +17,9 @@
       "country": "Qatar",
       "lat": 25.29936,
       "lon": 51.5465,
-      "source": "http://www.wikidata.org/entity/Q3222585"
+      "source": "http://www.wikidata.org/entity/Q3222585",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustave%20Courbet%20-%20Le%20D%C3%A9sesp%C3%A9r%C3%A9%20%281843%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustave%20Courbet%2C%20photograph%20Atelier%20Nadar%2C%20c.%201860s.jpg"
     }
   ]
 }

@@ -17,7 +17,9 @@
       "country": "Portugal",
       "lat": 38.7075,
       "lon": -9.197777777,
-      "source": "http://www.wikidata.org/entity/Q20050452"
+      "source": "http://www.wikidata.org/entity/Q20050452",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Santa%20Face%2C%20El%20Greco%2C%20s%C3%A9c.%20XVII%2C%20Pal%C3%A1cio%20Nacional%20da%20Ajuda%2001.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Greco%20-%20Portrait%20of%20a%20Man%20-%20WGA10554.jpg"
     },
     {
       "id": "Q123560193",
@@ -34,7 +36,9 @@
       "country": "Portugal",
       "lat": 38.736666666,
       "lon": -9.154166666,
-      "source": "http://www.wikidata.org/entity/Q123560193"
+      "source": "http://www.wikidata.org/entity/Q123560193",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Boats%20by%20Claude%20Monet.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%201899%20Nadar%20crop.jpg"
     },
     {
       "id": "Q10335777",
@@ -51,7 +55,9 @@
       "country": "Portugal",
       "lat": 38.736666666,
       "lon": -9.154166666,
-      "source": "http://www.wikidata.org/entity/Q10335777"
+      "source": "http://www.wikidata.org/entity/Q10335777",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Still%20Life%20with%20Melon%20Claude%20Monet.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%201899%20Nadar%20crop.jpg"
     },
     {
       "id": "Q74260844",
@@ -68,7 +74,9 @@
       "country": "Portugal",
       "lat": 38.736666666,
       "lon": -9.154166666,
-      "source": "http://www.wikidata.org/entity/Q74260844"
+      "source": "http://www.wikidata.org/entity/Q74260844",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20monet%2C%20il%20disgelo%2C%201880.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%201899%20Nadar%20crop.jpg"
     },
     {
       "id": "Q74260863",
@@ -85,7 +93,9 @@
       "country": "Portugal",
       "lat": 38.736666666,
       "lon": -9.154166666,
-      "source": "http://www.wikidata.org/entity/Q74260863"
+      "source": "http://www.wikidata.org/entity/Q74260863",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Henri%20Michel-L%C3%A9vy%20by%20Edgar%20Degas.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20self%20portrait%201855FXD.jpg"
     },
     {
       "id": "Q74260859",
@@ -102,7 +112,9 @@
       "country": "Portugal",
       "lat": 38.736666666,
       "lon": -9.154166666,
-      "source": "http://www.wikidata.org/entity/Q74260859"
+      "source": "http://www.wikidata.org/entity/Q74260859",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Self%20portrait%20or%20Degas%20Saluant%2C%20Edgar%20Degas.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20self%20portrait%201855FXD.jpg"
     },
     {
       "id": "Q3231193",
@@ -119,7 +131,9 @@
       "country": "Portugal",
       "lat": 38.736666666,
       "lon": -9.154166666,
-      "source": "http://www.wikidata.org/entity/Q3231193"
+      "source": "http://www.wikidata.org/entity/Q3231193",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Boy%20Blowing%20Bubbles%20Edouard%20Manet.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Manet%2C%20en%20buste%2C%20de%20face%20-%20Nadar.jpg"
     },
     {
       "id": "Q64787037",
@@ -136,7 +150,9 @@
       "country": "Portugal",
       "lat": 38.736666666,
       "lon": -9.154166666,
-      "source": "http://www.wikidata.org/entity/Q64787037"
+      "source": "http://www.wikidata.org/entity/Q64787037",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Boy%20with%20Cherries%20Edouard%20Manet.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Manet%2C%20en%20buste%2C%20de%20face%20-%20Nadar.jpg"
     },
     {
       "id": "Q74260902",
@@ -153,7 +169,9 @@
       "country": "Portugal",
       "lat": 38.736666666,
       "lon": -9.154166666,
-      "source": "http://www.wikidata.org/entity/Q74260902"
+      "source": "http://www.wikidata.org/entity/Q74260902",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Fran%C3%A7ois%20boucher%2C%20cupido%20e%20le%20tre%20grazie%2C%201738.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Boucher%20par%20Gustav%20Lundberg%201741.jpg"
     },
     {
       "id": "Q25445077",
@@ -170,7 +188,9 @@
       "country": "Portugal",
       "lat": 38.736666666,
       "lon": -9.154166666,
-      "source": "http://www.wikidata.org/entity/Q25445077"
+      "source": "http://www.wikidata.org/entity/Q25445077",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Quillebeuf%20Mouth%20of%20the%20Seine%20by%20Joseph%20Mallord%20William%20Turner.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%20auto-retrato.jpg"
     },
     {
       "id": "Q25445073",
@@ -187,7 +207,9 @@
       "country": "Portugal",
       "lat": 38.736666666,
       "lon": -9.154166666,
-      "source": "http://www.wikidata.org/entity/Q25445073"
+      "source": "http://www.wikidata.org/entity/Q25445073",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Shipwreck%20of%20the%20Minotaur%20William%20Turner.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%20auto-retrato.jpg"
     },
     {
       "id": "Q74260846",
@@ -204,7 +226,9 @@
       "country": "Portugal",
       "lat": 38.736666666,
       "lon": -9.154166666,
-      "source": "http://www.wikidata.org/entity/Q74260846"
+      "source": "http://www.wikidata.org/entity/Q74260846",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Bridges%20of%20Mantes%20Jean-Baptiste%20Camille%20Corot.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste-Camille%20Corot%20c1850.png"
     },
     {
       "id": "Q74260854",
@@ -221,7 +245,9 @@
       "country": "Portugal",
       "lat": 38.736666666,
       "lon": -9.154166666,
-      "source": "http://www.wikidata.org/entity/Q74260854"
+      "source": "http://www.wikidata.org/entity/Q74260854",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Venice%20from%20the%20Dogana%20Jean-Baptiste%20Camille%20Corot%201834.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste-Camille%20Corot%20c1850.png"
     },
     {
       "id": "Q74260852",
@@ -238,7 +264,9 @@
       "country": "Portugal",
       "lat": 38.736666666,
       "lon": -9.154166666,
-      "source": "http://www.wikidata.org/entity/Q74260852"
+      "source": "http://www.wikidata.org/entity/Q74260852",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/A%20Road%20at%20Ville%20d%27Avray%20Jean-Baptiste%20Camille%20Corot%201874.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste-Camille%20Corot%20c1850.png"
     },
     {
       "id": "Q74260893",
@@ -255,7 +283,9 @@
       "country": "Portugal",
       "lat": 38.736666666,
       "lon": -9.154166666,
-      "source": "http://www.wikidata.org/entity/Q74260893"
+      "source": "http://www.wikidata.org/entity/Q74260893",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-honor%C3%A9%20fragonard%2C%20l%27isola%20dell%27amore%2C%201770%20ca.%2001.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Honor%C3%A9%20Fragonard%20self-portrait.jpg"
     },
     {
       "id": "Q131331018",
@@ -272,7 +302,9 @@
       "country": "Portugal",
       "lat": 38.736666666,
       "lon": -9.154166666,
-      "source": "http://www.wikidata.org/entity/Q131331018"
+      "source": "http://www.wikidata.org/entity/Q131331018",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Singer%20Sargent%20-%20Santa%20Maria%20della%20Salute%2C%20Venice%2C%20FCG%2001.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Singer%20Sargent%201903.jpg"
     },
     {
       "id": "Q74260926",
@@ -289,7 +321,9 @@
       "country": "Portugal",
       "lat": 38.736666666,
       "lon": -9.154166666,
-      "source": "http://www.wikidata.org/entity/Q74260926"
+      "source": "http://www.wikidata.org/entity/Q74260926",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Stocking%20Mary%20Cassatt.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg"
     },
     {
       "id": "Q3842247",
@@ -306,7 +340,9 @@
       "country": "Portugal",
       "lat": 38.736666666,
       "lon": -9.154166666,
-      "source": "http://www.wikidata.org/entity/Q3842247"
+      "source": "http://www.wikidata.org/entity/Q3842247",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Madame%20Monet%20Reading%20Le%20Figaro.png",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre%20Auguste%20Renoir%2C%20uncropped%20image.jpg"
     },
     {
       "id": "Q3610098",
@@ -323,7 +359,9 @@
       "country": "Portugal",
       "lat": 38.736666666,
       "lon": -9.154166666,
-      "source": "http://www.wikidata.org/entity/Q3610098"
+      "source": "http://www.wikidata.org/entity/Q3610098",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pallas%20Athena%20by%20Rembrandt%20Museu%20Calouste%20Gulbenkian%201488.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20van%20Rijn%20-%20Self-Portrait%20-%20Google%20Art%20Project.jpg"
     },
     {
       "id": "Q122536332",
@@ -340,7 +378,9 @@
       "country": "Portugal",
       "lat": 38.736666666,
       "lon": -9.154166666,
-      "source": "http://www.wikidata.org/entity/Q122536332"
+      "source": "http://www.wikidata.org/entity/Q122536332",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mrs.%20Lowndes-Stone%2C%20c.%201775%2C%20by%20Thomas%20Gainsborough%2C%20full%20length.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Gainsborough%20by%20Thomas%20Gainsborough.jpg"
     },
     {
       "id": "Q139494050",
@@ -357,7 +397,9 @@
       "country": "Portugal",
       "lat": 38.736666666,
       "lon": -9.154166666,
-      "source": "http://www.wikidata.org/entity/Q139494050"
+      "source": "http://www.wikidata.org/entity/Q139494050",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Miss%20Philadelphia%20Rowley%20by%20Thomas%20Gainsborough%2C%20Arte%20%26%20Moda%2C%20Funda%C3%A7%C3%A3o%20Calouste%20Gulbenkian%2007.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Gainsborough%20by%20Thomas%20Gainsborough.jpg"
     },
     {
       "id": "Q115171478",
@@ -374,7 +416,9 @@
       "country": "Portugal",
       "lat": 38.732552,
       "lon": -9.146449,
-      "source": "http://www.wikidata.org/entity/Q115171478"
+      "source": "http://www.wikidata.org/entity/Q115171478",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Courbet%20Arvoredo%20CmAG%2001.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustave%20Courbet%2C%20photograph%20Atelier%20Nadar%2C%20c.%201860s.jpg"
     },
     {
       "id": "Q115118947",
@@ -391,7 +435,9 @@
       "country": "Portugal",
       "lat": 38.732552,
       "lon": -9.146449,
-      "source": "http://www.wikidata.org/entity/Q115118947"
+      "source": "http://www.wikidata.org/entity/Q115118947",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Narciso%20Gustave%20Courbet%2001.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustave%20Courbet%2C%20photograph%20Atelier%20Nadar%2C%20c.%201860s.jpg"
     },
     {
       "id": "Q62129152",
@@ -408,7 +454,9 @@
       "country": "Portugal",
       "lat": 38.7053,
       "lon": -9.16072,
-      "source": "http://www.wikidata.org/entity/Q62129152"
+      "source": "http://www.wikidata.org/entity/Q62129152",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Anthony%20van%20Dyck%20-%20Portrait%20of%20Lucas%20Vorsterman%20the%20Elder.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Anthony%20van%20Dyck%20-%20Self-portrait.jpg"
     },
     {
       "id": "Q131541131",
@@ -425,7 +473,9 @@
       "country": "Portugal",
       "lat": 38.7053,
       "lon": -9.16072,
-      "source": "http://www.wikidata.org/entity/Q131541131"
+      "source": "http://www.wikidata.org/entity/Q131541131",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Murillo%20-%20Casamiento%20m%C3%ADstico%20de%20Santa%20Catalina.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg"
     },
     {
       "id": "Q86925615",
@@ -442,7 +492,9 @@
       "country": "Portugal",
       "lat": 38.7053,
       "lon": -9.16072,
-      "source": "http://www.wikidata.org/entity/Q86925615"
+      "source": "http://www.wikidata.org/entity/Q86925615",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Francisco%20de%20Zurbar%C3%A1n%20-%20S%C3%A3o%20Tiago%20Maior.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Francisco%20de%20Zurbar%C3%A1n%20autoportrait.jpg"
     },
     {
       "id": "Q86925758",
@@ -459,7 +511,9 @@
       "country": "Portugal",
       "lat": 38.7053,
       "lon": -9.16072,
-      "source": "http://www.wikidata.org/entity/Q86925758"
+      "source": "http://www.wikidata.org/entity/Q86925758",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Francisco%20de%20zurbaran%20e%20bottega%2C%20apostoli%2C%201633%2C%20andrea.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Francisco%20de%20Zurbar%C3%A1n%20autoportrait.jpg"
     },
     {
       "id": "Q86926369",
@@ -476,7 +530,9 @@
       "country": "Portugal",
       "lat": 38.7053,
       "lon": -9.16072,
-      "source": "http://www.wikidata.org/entity/Q86926369"
+      "source": "http://www.wikidata.org/entity/Q86926369",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Francisco%20de%20Zurbar%C3%A1n%20-%20S%C3%A3o%20Bartolomeu.JPG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Francisco%20de%20Zurbar%C3%A1n%20autoportrait.jpg"
     },
     {
       "id": "Q86926373",
@@ -493,7 +549,9 @@
       "country": "Portugal",
       "lat": 38.7053,
       "lon": -9.16072,
-      "source": "http://www.wikidata.org/entity/Q86926373"
+      "source": "http://www.wikidata.org/entity/Q86926373",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Francisco%20de%20zurbaran%20e%20bottega%2C%20apostoli%2C%201633%2C%20giacomo%20minore.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Francisco%20de%20Zurbar%C3%A1n%20autoportrait.jpg"
     },
     {
       "id": "Q86925520",
@@ -510,7 +568,9 @@
       "country": "Portugal",
       "lat": 38.7053,
       "lon": -9.16072,
-      "source": "http://www.wikidata.org/entity/Q86925520"
+      "source": "http://www.wikidata.org/entity/Q86925520",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Francisco%20de%20zurbaran%20e%20bottega%2C%20apostoli%2C%201633%2C%20giovanni%20evangelista.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Francisco%20de%20Zurbar%C3%A1n%20autoportrait.jpg"
     },
     {
       "id": "Q86926463",
@@ -527,7 +587,9 @@
       "country": "Portugal",
       "lat": 38.7053,
       "lon": -9.16072,
-      "source": "http://www.wikidata.org/entity/Q86926463"
+      "source": "http://www.wikidata.org/entity/Q86926463",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Francisco%20de%20zurbaran%20e%20bottega%2C%20apostoli%2C%201633%2C%20giuda%20taddeo.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Francisco%20de%20Zurbar%C3%A1n%20autoportrait.jpg"
     },
     {
       "id": "Q86925510",
@@ -544,7 +606,9 @@
       "country": "Portugal",
       "lat": 38.7053,
       "lon": -9.16072,
-      "source": "http://www.wikidata.org/entity/Q86925510"
+      "source": "http://www.wikidata.org/entity/Q86925510",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Francisco%20de%20zurbaran%20e%20bottega%2C%20apostoli%2C%201633%2C%20paolo.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Francisco%20de%20Zurbar%C3%A1n%20autoportrait.jpg"
     },
     {
       "id": "Q86924689",
@@ -561,7 +625,9 @@
       "country": "Portugal",
       "lat": 38.7053,
       "lon": -9.16072,
-      "source": "http://www.wikidata.org/entity/Q86924689"
+      "source": "http://www.wikidata.org/entity/Q86924689",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Francisco%20de%20zurbaran%20e%20bottega%2C%20apostoli%2C%201633%2C%20pietro%20%28cropped%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Francisco%20de%20Zurbar%C3%A1n%20autoportrait.jpg"
     },
     {
       "id": "Q86926161",
@@ -578,7 +644,9 @@
       "country": "Portugal",
       "lat": 38.7053,
       "lon": -9.16072,
-      "source": "http://www.wikidata.org/entity/Q86926161"
+      "source": "http://www.wikidata.org/entity/Q86926161",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Francisco%20de%20zurbaran%20e%20bottega%2C%20apostoli%2C%201633%2C%20filippo.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Francisco%20de%20Zurbar%C3%A1n%20autoportrait.jpg"
     },
     {
       "id": "Q86926410",
@@ -595,7 +663,9 @@
       "country": "Portugal",
       "lat": 38.7053,
       "lon": -9.16072,
-      "source": "http://www.wikidata.org/entity/Q86926410"
+      "source": "http://www.wikidata.org/entity/Q86926410",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Francisco%20de%20zurbaran%20e%20bottega%2C%20apostoli%2C%201633%2C%20simone.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Francisco%20de%20Zurbar%C3%A1n%20autoportrait.jpg"
     },
     {
       "id": "Q55418032",
@@ -612,7 +682,9 @@
       "country": "Portugal",
       "lat": 38.7053,
       "lon": -9.16072,
-      "source": "http://www.wikidata.org/entity/Q55418032"
+      "source": "http://www.wikidata.org/entity/Q55418032",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Francisco%20de%20Zurbar%C3%A1n%20-%20Tears%20of%20St%20Peter%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Francisco%20de%20Zurbar%C3%A1n%20autoportrait.jpg"
     },
     {
       "id": "Q96250508",
@@ -629,7 +701,9 @@
       "country": "Portugal",
       "lat": 38.7053,
       "lon": -9.16072,
-      "source": "http://www.wikidata.org/entity/Q96250508"
+      "source": "http://www.wikidata.org/entity/Q96250508",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20e%20Betsab%C3%A9%20%28c.%201750%3F%29%20-%20Fran%C3%A7ois%20Boucher.png",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Boucher%20par%20Gustav%20Lundberg%201741.jpg"
     },
     {
       "id": "Q17390181",
@@ -646,7 +720,9 @@
       "country": "Portugal",
       "lat": 38.7053,
       "lon": -9.16072,
-      "source": "http://www.wikidata.org/entity/Q17390181"
+      "source": "http://www.wikidata.org/entity/Q17390181",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Deposicao%20Cristo%20Tumulo-Tie.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Tiepolo%2C%20Giovanni%20Battista%20-%20Fresken%20Treppenhaus%20des%20W%C3%BCrzburger%20Residenzschlosses%2C%20Szenen%20zur%20Apotheose%20des%20F%C3%BCrstbischofs%2C%20Detail%20Giovanni%20Battista%20Tiepolo%20-%201750-1753.jpg"
     },
     {
       "id": "Q60629002",
@@ -663,7 +739,9 @@
       "country": "Portugal",
       "lat": 38.7053,
       "lon": -9.16072,
-      "source": "http://www.wikidata.org/entity/Q60629002"
+      "source": "http://www.wikidata.org/entity/Q60629002",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Flight%20into%20Egypt%20%28Giambattista%20Tiepolo%29%20%28cropped%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Tiepolo%2C%20Giovanni%20Battista%20-%20Fresken%20Treppenhaus%20des%20W%C3%BCrzburger%20Residenzschlosses%2C%20Szenen%20zur%20Apotheose%20des%20F%C3%BCrstbischofs%2C%20Detail%20Giovanni%20Battista%20Tiepolo%20-%201750-1753.jpg"
     },
     {
       "id": "Q96003056",
@@ -680,7 +758,9 @@
       "country": "Portugal",
       "lat": 38.7053,
       "lon": -9.16072,
-      "source": "http://www.wikidata.org/entity/Q96003056"
+      "source": "http://www.wikidata.org/entity/Q96003056",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Giambattista%20tiepolo%2C%20trionfo%20delle%20arti%2C%201730%20ca%2002.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Tiepolo%2C%20Giovanni%20Battista%20-%20Fresken%20Treppenhaus%20des%20W%C3%BCrzburger%20Residenzschlosses%2C%20Szenen%20zur%20Apotheose%20des%20F%C3%BCrstbischofs%2C%20Detail%20Giovanni%20Battista%20Tiepolo%20-%201750-1753.jpg"
     },
     {
       "id": "Q96348139",
@@ -697,7 +777,9 @@
       "country": "Portugal",
       "lat": 38.7053,
       "lon": -9.16072,
-      "source": "http://www.wikidata.org/entity/Q96348139"
+      "source": "http://www.wikidata.org/entity/Q96348139",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustave%20courbet%2C%20paesaggio%20innevato%2C%201868%20b.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustave%20Courbet%2C%20photograph%20Atelier%20Nadar%2C%20c.%201860s.jpg"
     },
     {
       "id": "Q96241771",
@@ -714,7 +796,9 @@
       "country": "Portugal",
       "lat": 38.7053,
       "lon": -9.16072,
-      "source": "http://www.wikidata.org/entity/Q96241771"
+      "source": "http://www.wikidata.org/entity/Q96241771",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustave%20Courbet%20-%20Man%20with%20Pipe%2002.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustave%20Courbet%2C%20photograph%20Atelier%20Nadar%2C%20c.%201860s.jpg"
     },
     {
       "id": "Q1217288",
@@ -731,7 +815,9 @@
       "country": "Portugal",
       "lat": 38.7053,
       "lon": -9.16072,
-      "source": "http://www.wikidata.org/entity/Q1217288"
+      "source": "http://www.wikidata.org/entity/Q1217288",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Temptation%20of%20Saint%20Anthony.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg"
     },
     {
       "id": "Q96250528",
@@ -748,7 +834,9 @@
       "country": "Portugal",
       "lat": 38.7053,
       "lon": -9.16072,
-      "source": "http://www.wikidata.org/entity/Q96250528"
+      "source": "http://www.wikidata.org/entity/Q96250528",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Honor%C3%A9%20Fragonard%20-%20Duas%20irm%C3%A3s.JPG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Honor%C3%A9%20Fragonard%20self-portrait.jpg"
     },
     {
       "id": "Q30005234",
@@ -765,7 +853,9 @@
       "country": "Portugal",
       "lat": 38.7053,
       "lon": -9.16072,
-      "source": "http://www.wikidata.org/entity/Q30005234"
+      "source": "http://www.wikidata.org/entity/Q30005234",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Salome%20by%20Lucas%20Cranach%20the%20Elder%20-%201st%20third%20of%2016th%20century%20-%20oil%20on%20oak.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20d.%20%C3%84.%20063.jpg"
     },
     {
       "id": "Q96354815",
@@ -782,7 +872,9 @@
       "country": "Portugal",
       "lat": 38.7053,
       "lon": -9.16072,
-      "source": "http://www.wikidata.org/entity/Q96354815"
+      "source": "http://www.wikidata.org/entity/Q96354815",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Imitatore%20di%20cranach%20il%20vecchio%2C%20santa%20caterina%20d%27alessandria%2C%20xvi%20secolo%20circa%20b.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20d.%20%C3%84.%20063.jpg"
     },
     {
       "id": "Q63110871",
@@ -799,7 +891,9 @@
       "country": "Portugal",
       "lat": 38.7053,
       "lon": -9.16072,
-      "source": "http://www.wikidata.org/entity/Q63110871"
+      "source": "http://www.wikidata.org/entity/Q63110871",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rafael%20-%20Milagre%20de%20Santo%20Eus%C3%A9bio%20de%20Cremona-1.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Raffaello%20Sanzio.jpg"
     },
     {
       "id": "Q77971865",
@@ -816,7 +910,9 @@
       "country": "Portugal",
       "lat": 38.73722,
       "lon": -9.15417,
-      "source": "http://www.wikidata.org/entity/Q77971865"
+      "source": "http://www.wikidata.org/entity/Q77971865",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/River%20Flood%20Jean%20Baptiste%20Camile%20Corot.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste-Camille%20Corot%20c1850.png"
     }
   ]
 }

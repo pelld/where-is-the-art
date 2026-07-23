@@ -17,10 +17,11 @@
       "source": "http://www.wikidata.org/entity/Q698510",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%20-%20Big%20Fish%20Eat%20Little%20Fish%2C%201556%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%20-%20The%20Painter%20and%20the%20Buyer%2C%20ca.%201566%20-%20Google%20Art%20Project.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q43270",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -41,10 +42,11 @@
       "source": "http://www.wikidata.org/entity/Q18686393",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%20-%20Desidia%20%28Sloth%29%2C%201557%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%20-%20The%20Painter%20and%20the%20Buyer%2C%20ca.%201566%20-%20Google%20Art%20Project.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q43270",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -65,10 +67,11 @@
       "source": "http://www.wikidata.org/entity/Q18686388",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%20-%20Spring%2C%201565%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%20-%20The%20Painter%20and%20the%20Buyer%2C%20ca.%201566%20-%20Google%20Art%20Project.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q43270",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -80,19 +83,20 @@
       "attribution": "Accepted",
       "artistId": "pieter-bruegel-the-elder",
       "artistName": "Pieter Bruegel the Elder",
-      "locationId": "albertina-innere-stadt",
+      "locationId": "albertina-vienna",
       "location": "Albertina",
-      "city": "Innere Stadt",
+      "city": "Vienna",
       "country": "Austria",
       "lat": 48.204561111,
       "lon": 16.368319444,
       "source": "http://www.wikidata.org/entity/Q131374497",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20%28I%29%2C%20The%20Last%20Judgment%2C%20drawing%20in%20the%20Albertina.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%20-%20The%20Painter%20and%20the%20Buyer%2C%20ca.%201566%20-%20Google%20Art%20Project.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q43270",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -104,19 +108,20 @@
       "attribution": "Accepted",
       "artistId": "pieter-bruegel-the-elder",
       "artistName": "Pieter Bruegel the Elder",
-      "locationId": "albertina-vienna",
+      "locationId": "albertina-innere-stadt",
       "location": "Albertina",
-      "city": "Vienna",
+      "city": "Innere Stadt",
       "country": "Austria",
       "lat": 48.204561111,
       "lon": 16.368319444,
       "source": "http://www.wikidata.org/entity/Q1887184",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%20-%20The%20Painter%20and%20the%20Buyer%2C%20ca.%201566%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%20-%20The%20Painter%20and%20the%20Buyer%2C%20ca.%201566%20-%20Google%20Art%20Project.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q43270",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -128,19 +133,20 @@
       "attribution": "Accepted",
       "artistId": "pieter-bruegel-the-elder",
       "artistName": "Pieter Bruegel the Elder",
-      "locationId": "bavarian-state-painting-collections-munich",
-      "location": "Bavarian State Painting Collections",
+      "locationId": "alte-pinakothek-munich",
+      "location": "Alte Pinakothek",
       "city": "Munich",
       "country": "Germany",
-      "lat": 48.149583,
-      "lon": 11.571776,
+      "lat": 48.148291,
+      "lon": 11.569985,
       "source": "http://www.wikidata.org/entity/Q3985190",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%20-%20Portrait%20of%20an%20old%20woman.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%20-%20The%20Painter%20and%20the%20Buyer%2C%20ca.%201566%20-%20Google%20Art%20Project.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q43270",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -161,10 +167,11 @@
       "source": "http://www.wikidata.org/entity/Q556553",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20d.%20%C3%84.%20%281525-1569%29%20-%20Das%20Schlaraffenland%20-%208940%20-%20Bavarian%20State%20Painting%20Collections.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%20-%20The%20Painter%20and%20the%20Buyer%2C%20ca.%201566%20-%20Google%20Art%20Project.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q43270",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -185,10 +192,11 @@
       "source": "http://www.wikidata.org/entity/Q131358454",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Avarice%20by%20Pieter%20Bruegel%20the%20Elder%201556.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%20-%20The%20Painter%20and%20the%20Buyer%2C%20ca.%201566%20-%20Google%20Art%20Project.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q43270",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -209,10 +217,11 @@
       "source": "http://www.wikidata.org/entity/Q65511676",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20van%20der%20Heyden%20after%20Pieter%20Bruegel%20the%20Elder%2C%20Avarice%2C%20published%201558%2C%20NGA%2047628.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%20-%20The%20Painter%20and%20the%20Buyer%2C%20ca.%201566%20-%20Google%20Art%20Project.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q43270",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -233,10 +242,11 @@
       "source": "http://www.wikidata.org/entity/Q65511678",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20van%20der%20Heyden%20after%20Pieter%20Bruegel%20the%20Elder%2C%20Gluttony%2C%20published%201558%2C%20NGA%2047630.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%20-%20The%20Painter%20and%20the%20Buyer%2C%20ca.%201566%20-%20Google%20Art%20Project.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q43270",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -257,10 +267,11 @@
       "source": "http://www.wikidata.org/entity/Q64619644",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%2C%20Landscape%20with%20the%20Penitence%20of%20Saint%20Jerome%2C%201553%2C%20NGA%2053379.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%20-%20The%20Painter%20and%20the%20Buyer%2C%20ca.%201566%20-%20Google%20Art%20Project.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q43270",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -281,10 +292,11 @@
       "source": "http://www.wikidata.org/entity/Q65511679",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20van%20der%20Heyden%20after%20Pieter%20Bruegel%20the%20Elder%2C%20Lust%2C%20published%201558%2C%20NGA%2047631.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%20-%20The%20Painter%20and%20the%20Buyer%2C%20ca.%201566%20-%20Google%20Art%20Project.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q43270",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -305,10 +317,11 @@
       "source": "http://www.wikidata.org/entity/Q64619645",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%2C%20Peasants%20and%20Cattle%20near%20a%20Farmhouse%2C%20c.%201553-1554%2C%20NGA%2053822.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%20-%20The%20Painter%20and%20the%20Buyer%2C%20ca.%201566%20-%20Google%20Art%20Project.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q43270",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -329,10 +342,11 @@
       "source": "http://www.wikidata.org/entity/Q65511680",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20van%20der%20Heyden%20after%20Pieter%20Bruegel%20the%20Elder%2C%20Pride%2C%20published%201558%2C%20NGA%2047632.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%20-%20The%20Painter%20and%20the%20Buyer%2C%20ca.%201566%20-%20Google%20Art%20Project.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q43270",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -353,10 +367,11 @@
       "source": "http://www.wikidata.org/entity/Q64619646",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%2C%20The%20Bagpipe%20Player%2C%20c.%201562%2C%20NGA%2075819.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%20-%20The%20Painter%20and%20the%20Buyer%2C%20ca.%201566%20-%20Google%20Art%20Project.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q43270",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -377,10 +392,11 @@
       "source": "http://www.wikidata.org/entity/Q65576227",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%2C%20The%20Rabbit%20Hunters%2C%201566%2C%20NGA%2053148.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%20-%20The%20Painter%20and%20the%20Buyer%2C%20ca.%201566%20-%20Google%20Art%20Project.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q43270",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -401,10 +417,11 @@
       "source": "http://www.wikidata.org/entity/Q65511675",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20van%20der%20Heyden%20after%20Pieter%20Bruegel%20the%20Elder%2C%20Anger%2C%20published%201558%2C%20NGA%2047627.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%20-%20The%20Painter%20and%20the%20Buyer%2C%20ca.%201566%20-%20Google%20Art%20Project.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q43270",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -420,15 +437,16 @@
       "location": "Courtauld Gallery",
       "city": "City of Westminster",
       "country": "United Kingdom",
-      "lat": 51.511568,
-      "lon": -0.117712,
+      "lat": 51.51083333,
+      "lon": -0.11722222,
       "source": "http://www.wikidata.org/entity/Q1803755",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20der%20%C3%84ltere%20-%20Landschaft%20mit%20der%20Flucht%20nach%20%C3%84gypten.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%20-%20The%20Painter%20and%20the%20Buyer%2C%20ca.%201566%20-%20Google%20Art%20Project.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q43270",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -449,10 +467,11 @@
       "source": "http://www.wikidata.org/entity/Q9355649",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%20-%20The%20Fair%20at%20Hoboken%20-%20WGA03527.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%20-%20The%20Painter%20and%20the%20Buyer%2C%20ca.%201566%20-%20Google%20Art%20Project.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q43270",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -473,10 +492,11 @@
       "source": "http://www.wikidata.org/entity/Q1087244",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20%28I%29%20-%20Christ%20and%20the%20woman%20taken%20in%20adultery.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%20-%20The%20Painter%20and%20the%20Buyer%2C%20ca.%201566%20-%20Google%20Art%20Project.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q43270",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -497,10 +517,11 @@
       "source": "http://www.wikidata.org/entity/Q3702434",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%20-%20The%20Wedding%20Dance%20-%2030.374%20-%20Detroit%20Institute%20of%20Arts.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%20-%20The%20Painter%20and%20the%20Buyer%2C%20ca.%201566%20-%20Google%20Art%20Project.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q43270",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -521,10 +542,11 @@
       "source": "http://www.wikidata.org/entity/Q131358621",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%2C%20Gula%2C%201557%2C%20collection%20Fondation%20Custodia%2C%20inv.%20466.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%20-%20The%20Painter%20and%20the%20Buyer%2C%20ca.%201566%20-%20Google%20Art%20Project.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q43270",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -545,10 +567,11 @@
       "source": "http://www.wikidata.org/entity/Q137796207",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20I%20-%20Landscape%20with%20Rabbit%20Hunt.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%20-%20The%20Painter%20and%20the%20Buyer%2C%20ca.%201566%20-%20Google%20Art%20Project.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q43270",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -569,10 +592,11 @@
       "source": "http://www.wikidata.org/entity/Q131358283",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%2C%20Superbia%2C%201557%2C%20collection%20Fondation%20Custodia%2C%20inv.%20465.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%20-%20The%20Painter%20and%20the%20Buyer%2C%20ca.%201566%20-%20Google%20Art%20Project.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q43270",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -593,10 +617,11 @@
       "source": "http://www.wikidata.org/entity/Q111644838",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20d.%20%C3%84.%20Brueghel%20%281525-1569%29%20-%20Kreuztragung%20-%201746%20-%20F%C3%BChrermuseum.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%20-%20The%20Painter%20and%20the%20Buyer%2C%20ca.%201566%20-%20Google%20Art%20Project.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q43270",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -612,15 +637,16 @@
       "location": "Galleria Doria Pamphilj",
       "city": "Rome",
       "country": "Italy",
-      "lat": 41.897915,
-      "lon": 12.481639,
+      "lat": 41.897669,
+      "lon": 12.481145,
       "source": "http://www.wikidata.org/entity/Q4009224",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bruegel%20%E2%80%94%20Naval%20Battle%20in%20the%20Gulf%20of%20Naples.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%20-%20The%20Painter%20and%20the%20Buyer%2C%20ca.%201566%20-%20Google%20Art%20Project.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q43270",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -641,10 +667,11 @@
       "source": "http://www.wikidata.org/entity/Q533619",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20%28der%20%C3%84ltere%29%20%28ca.%201525%20-%201569%29%20-%20Die%20niederl%C3%A4ndischen%20Sprichw%C3%B6rter%20-%201720%20-%20Gem%C3%A4ldegalerie.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%20-%20The%20Painter%20and%20the%20Buyer%2C%20ca.%201566%20-%20Google%20Art%20Project.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q43270",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -665,10 +692,11 @@
       "source": "http://www.wikidata.org/entity/Q231953",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20%28der%20%C3%84ltere%29%20%28ca.%201525%20-%201569%29%20-%20Zwei%20angekettete%20Affen%20-%202077%20-%20Gem%C3%A4ldegalerie.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%20-%20The%20Painter%20and%20the%20Buyer%2C%20ca.%201566%20-%20Google%20Art%20Project.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q43270",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -689,10 +717,11 @@
       "source": "http://www.wikidata.org/entity/Q110192896",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bruegel%2C%20Pieter%20%28I%29%20-%20Summer%20-%20Hamburger%20Kunsthalle.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%20-%20The%20Painter%20and%20the%20Buyer%2C%20ca.%201566%20-%20Google%20Art%20Project.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q43270",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -713,10 +742,11 @@
       "source": "http://www.wikidata.org/entity/Q1122842",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Die%20Elster%20auf%20dem%20Galgen.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%20-%20The%20Painter%20and%20the%20Buyer%2C%20ca.%201566%20-%20Google%20Art%20Project.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q43270",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -737,10 +767,11 @@
       "source": "http://www.wikidata.org/entity/Q697332",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%20-%20Children%E2%80%99s%20Games%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%20-%20The%20Painter%20and%20the%20Buyer%2C%20ca.%201566%20-%20Google%20Art%20Project.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q43270",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -761,10 +792,11 @@
       "source": "http://www.wikidata.org/entity/Q665337",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Conversion%20of%20Paul%20%28Bruegel%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%20-%20The%20Painter%20and%20the%20Buyer%2C%20ca.%201566%20-%20Google%20Art%20Project.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q43270",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -776,19 +808,20 @@
       "attribution": "Accepted",
       "artistId": "pieter-bruegel-the-elder",
       "artistName": "Pieter Bruegel the Elder",
-      "locationId": "kunsthistorisches-museum-vienna",
+      "locationId": "kunsthistorisches-museum-innere-stadt",
       "location": "Kunsthistorisches Museum",
-      "city": "Vienna",
+      "city": "Innere Stadt",
       "country": "Austria",
       "lat": 48.203880555,
       "lon": 16.3616,
       "source": "http://www.wikidata.org/entity/Q689236",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20d.%20%C3%84.%20066.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%20-%20The%20Painter%20and%20the%20Buyer%2C%20ca.%201566%20-%20Google%20Art%20Project.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q43270",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -809,10 +842,11 @@
       "source": "http://www.wikidata.org/entity/Q698219",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Gloomy%20Day%20%28Bruegel%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%20-%20The%20Painter%20and%20the%20Buyer%2C%20ca.%201566%20-%20Google%20Art%20Project.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q43270",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -824,19 +858,20 @@
       "attribution": "Accepted",
       "artistId": "pieter-bruegel-the-elder",
       "artistName": "Pieter Bruegel the Elder",
-      "locationId": "kunsthistorisches-museum-innere-stadt",
+      "locationId": "kunsthistorisches-museum-vienna",
       "location": "Kunsthistorisches Museum",
-      "city": "Innere Stadt",
+      "city": "Vienna",
       "country": "Austria",
       "lat": 48.203880555,
       "lon": 16.3616,
       "source": "http://www.wikidata.org/entity/Q500985",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%20-%20Hunters%20in%20the%20Snow%20%28Winter%29%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%20-%20The%20Painter%20and%20the%20Buyer%2C%20ca.%201566%20-%20Google%20Art%20Project.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q43270",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -857,10 +892,11 @@
       "source": "http://www.wikidata.org/entity/Q666982",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20d.%20%C3%84.%20036.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%20-%20The%20Painter%20and%20the%20Buyer%2C%20ca.%201566%20-%20Google%20Art%20Project.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q43270",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -881,10 +917,11 @@
       "source": "http://www.wikidata.org/entity/Q95562",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20The%20Peasant%20Dance.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%20-%20The%20Painter%20and%20the%20Buyer%2C%20ca.%201566%20-%20Google%20Art%20Project.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q43270",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -905,10 +942,11 @@
       "source": "http://www.wikidata.org/entity/Q603751",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%20-%20Peasant%20Wedding%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%20-%20The%20Painter%20and%20the%20Buyer%2C%20ca.%201566%20-%20Google%20Art%20Project.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q43270",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -929,10 +967,11 @@
       "source": "http://www.wikidata.org/entity/Q686107",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20d.%20%C3%84.%20007b.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%20-%20The%20Painter%20and%20the%20Buyer%2C%20ca.%201566%20-%20Google%20Art%20Project.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q43270",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -944,19 +983,20 @@
       "attribution": "Accepted",
       "artistId": "pieter-bruegel-the-elder",
       "artistName": "Pieter Bruegel the Elder",
-      "locationId": "kunsthistorisches-museum-vienna",
+      "locationId": "kunsthistorisches-museum-innere-stadt",
       "location": "Kunsthistorisches Museum",
-      "city": "Vienna",
+      "city": "Innere Stadt",
       "country": "Austria",
       "lat": 48.203880555,
       "lon": 16.3616,
       "source": "http://www.wikidata.org/entity/Q698254",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20d.%20%C3%84.%2C%20%2C%20Kunsthistorisches%20Museum%20Wien%2C%20Gem%C3%A4ldegalerie%20-%20Heimkehr%20der%20Herde%20%28Herbst%29%20-%20GG%201018%20-%20Kunsthistorisches%20Museum.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%20-%20The%20Painter%20and%20the%20Buyer%2C%20ca.%201566%20-%20Google%20Art%20Project.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q43270",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -977,10 +1017,11 @@
       "source": "http://www.wikidata.org/entity/Q3976754",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20d.%20%C3%84.%20Selbstmord%20Sauls.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%20-%20The%20Painter%20and%20the%20Buyer%2C%20ca.%201566%20-%20Google%20Art%20Project.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q43270",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1001,10 +1042,11 @@
       "source": "http://www.wikidata.org/entity/Q15293656",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20d.%20%C3%84.%2C%20Kunsthistorisches%20Museum%20Wien%2C%20Gem%C3%A4ldegalerie%20-%20Turmbau%20zu%20Babel%20-%20GG%201026%20-%20Kunsthistorisches%20Museum.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%20-%20The%20Painter%20and%20the%20Buyer%2C%20ca.%201566%20-%20Google%20Art%20Project.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q43270",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1025,10 +1067,11 @@
       "source": "http://www.wikidata.org/entity/Q137795086",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Brueghel%20-%20Flemish%20landscape%20with%20church.jpeg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%20-%20The%20Painter%20and%20the%20Buyer%2C%20ca.%201566%20-%20Google%20Art%20Project.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q43270",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1049,10 +1092,11 @@
       "source": "http://www.wikidata.org/entity/Q118843028",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20%28der%20%C3%84ltere%29%20-%20S%C3%BCdliche%20H%C3%BCgellandschaft%20mit%20Klosteranlage%2C%20KdZ%205537.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%20-%20The%20Painter%20and%20the%20Buyer%2C%20ca.%201566%20-%20Google%20Art%20Project.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q43270",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1073,10 +1117,36 @@
       "source": "http://www.wikidata.org/entity/Q114353237",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Brueghel%20the%20Elder%20-%20The%20Beekeepers%20and%20the%20Birdnester%2C%20c1568%20-%20Kupferstichkabinett%20Berlin.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%20-%20The%20Painter%20and%20the%20Buyer%2C%20ca.%201566%20-%20Google%20Art%20Project.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q43270",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q56604898",
+      "title": "Ice Skating before the St. George's Gate, Antwerp",
+      "date": "1558",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "pieter-bruegel-the-elder",
+      "artistName": "Pieter Bruegel the Elder",
+      "locationId": "metropolitan-museum-of-art-manhattan",
+      "location": "Metropolitan Museum of Art",
+      "city": "Manhattan",
+      "country": "United States",
+      "lat": 40.779444444,
+      "lon": -73.963333333,
+      "source": "http://www.wikidata.org/entity/Q56604898",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Skating%20before%20the%20St.%20George%27s%20Gate%2C%20Antwerp%20MET%20DP818326.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%20-%20The%20Painter%20and%20the%20Buyer%2C%20ca.%201566%20-%20Google%20Art%20Project.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q43270",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1097,10 +1167,11 @@
       "source": "http://www.wikidata.org/entity/Q776175",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder-%20The%20Harvesters%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%20-%20The%20Painter%20and%20the%20Buyer%2C%20ca.%201566%20-%20Google%20Art%20Project.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q43270",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1121,10 +1192,11 @@
       "source": "http://www.wikidata.org/entity/Q124383595",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Musea%20Brugge%2C%20HUB%2C%202014%20GRO0025%20III.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%20-%20The%20Painter%20and%20the%20Buyer%2C%20ca.%201566%20-%20Google%20Art%20Project.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q43270",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1145,34 +1217,11 @@
       "source": "http://www.wikidata.org/entity/Q123666581",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Musea%20Brugge%2C%20HUB%2C%202014%20GRO0027%20III.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%20-%20The%20Painter%20and%20the%20Buyer%2C%20ca.%201566%20-%20Google%20Art%20Project.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q43270",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q123666574",
-      "title": "Temperance",
-      "date": "1560",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "pieter-bruegel-the-elder",
-      "artistName": "Pieter Bruegel the Elder",
-      "locationId": "musea-brugge-bruges",
-      "location": "Musea Brugge",
-      "city": "Bruges",
-      "country": "Belgium",
-      "lat": 51.205287,
-      "lon": 3.226531,
-      "source": "http://www.wikidata.org/entity/Q123666574",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Musea%20Brugge%2C%20HUB%2C%202014%20GRO0024%20III%20%28cropped%29.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q43270",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1193,10 +1242,11 @@
       "source": "http://www.wikidata.org/entity/Q124383594",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Musea%20Brugge%2C%20HUB%2C%202014%20GRO0022%20III.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%20-%20The%20Painter%20and%20the%20Buyer%2C%20ca.%201566%20-%20Google%20Art%20Project.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q43270",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1217,10 +1267,11 @@
       "source": "http://www.wikidata.org/entity/Q123666579",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Musea%20Brugge%2C%20HUB%2C%202014%20GRO0026%20III.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%20-%20The%20Painter%20and%20the%20Buyer%2C%20ca.%201566%20-%20Google%20Art%20Project.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q43270",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1241,10 +1292,11 @@
       "source": "http://www.wikidata.org/entity/Q123666570",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Musea%20Brugge%2C%20HUB%2C%202014%20GRO0023%20III.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%20-%20The%20Painter%20and%20the%20Buyer%2C%20ca.%201566%20-%20Google%20Art%20Project.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q43270",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1265,34 +1317,11 @@
       "source": "http://www.wikidata.org/entity/Q123562098",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%20-%20The%20Painter%20and%20the%20Buyer%2C%20ca.%201566%20-%20Google%20Art%20Project.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q43270",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q123569654",
-      "title": "Untitled record",
-      "date": "1556",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "pieter-bruegel-the-elder",
-      "artistName": "Pieter Bruegel the Elder",
-      "locationId": "musee-des-beaux-arts-de-rennes-rennes",
-      "location": "Musée des Beaux-Arts de Rennes",
-      "city": "Rennes",
-      "country": "France",
-      "lat": 48.109444,
-      "lon": -1.675,
-      "source": "http://www.wikidata.org/entity/Q123569654",
-      "image": "",
-      "externalImage": "",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q43270",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1313,17 +1342,18 @@
       "source": "http://www.wikidata.org/entity/Q123570219",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%20-%20The%20Painter%20and%20the%20Buyer%2C%20ca.%201566%20-%20Google%20Art%20Project.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q43270",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
     {
-      "id": "Q123511660",
+      "id": "Q123508140",
       "title": "Untitled record",
-      "date": "1565",
+      "date": "1556",
       "type": "Painting",
       "attribution": "Accepted",
       "artistId": "pieter-bruegel-the-elder",
@@ -1334,13 +1364,14 @@
       "country": "France",
       "lat": 48.109444,
       "lon": -1.675,
-      "source": "http://www.wikidata.org/entity/Q123511660",
+      "source": "http://www.wikidata.org/entity/Q123508140",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%20-%20The%20Painter%20and%20the%20Buyer%2C%20ca.%201566%20-%20Google%20Art%20Project.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q43270",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1361,10 +1392,36 @@
       "source": "http://www.wikidata.org/entity/Q123511950",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%20-%20The%20Painter%20and%20the%20Buyer%2C%20ca.%201566%20-%20Google%20Art%20Project.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q43270",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q123511660",
+      "title": "Untitled record",
+      "date": "1565",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "pieter-bruegel-the-elder",
+      "artistName": "Pieter Bruegel the Elder",
+      "locationId": "musee-des-beaux-arts-de-rennes-rennes",
+      "location": "Musée des Beaux-Arts de Rennes",
+      "city": "Rennes",
+      "country": "France",
+      "lat": 48.109444,
+      "lon": -1.675,
+      "source": "http://www.wikidata.org/entity/Q123511660",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%20-%20The%20Painter%20and%20the%20Buyer%2C%20ca.%201566%20-%20Google%20Art%20Project.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q43270",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1385,10 +1442,11 @@
       "source": "http://www.wikidata.org/entity/Q644856",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Triumph%20of%20Death%20by%20Pieter%20Bruegel%20the%20Elder.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%20-%20The%20Painter%20and%20the%20Buyer%2C%20ca.%201566%20-%20Google%20Art%20Project.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q43270",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1409,10 +1467,11 @@
       "source": "http://www.wikidata.org/entity/Q1198007",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20vino%20de%20la%20fiesta%20de%20San%20Mart%C3%ADn%20%28Pieter%20Brueghel%20el%20Viejo%29%20%28restaurada%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%20-%20The%20Painter%20and%20the%20Buyer%2C%20ca.%201566%20-%20Google%20Art%20Project.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q43270",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1433,10 +1492,11 @@
       "source": "http://www.wikidata.org/entity/Q1192570",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bruegel%2C%20Pieter%20%28I%29%20-%20Blind%20leading%20the%20blind%20Google%20Art%20Project.jpeg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%20-%20The%20Painter%20and%20the%20Buyer%2C%20ca.%201566%20-%20Google%20Art%20Project.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q43270",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1457,10 +1517,11 @@
       "source": "http://www.wikidata.org/entity/Q2059447",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20d.%20%C3%84.%20035-2.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%20-%20The%20Painter%20and%20the%20Buyer%2C%20ca.%201566%20-%20Google%20Art%20Project.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q43270",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1481,10 +1542,11 @@
       "source": "http://www.wikidata.org/entity/Q19973439",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%20-%20Caritas%20%28Charity%29%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%20-%20The%20Painter%20and%20the%20Buyer%2C%20ca.%201566%20-%20Google%20Art%20Project.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q43270",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1505,10 +1567,11 @@
       "source": "http://www.wikidata.org/entity/Q29910207",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20%28I%29%20-%20One%20of%20the%20Seven%20Virtues%20Fortitudo%20%28Fortitude%29%2C%20N%20189%20%28PK%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%20-%20The%20Painter%20and%20the%20Buyer%2C%20ca.%201566%20-%20Google%20Art%20Project.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q43270",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1529,10 +1592,11 @@
       "source": "http://www.wikidata.org/entity/Q29909662",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20%28I%29%20-%20Mountain%20Landscape%20with%20a%20Mule%20Caravan%2C%20N%20146%20%28PK%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%20-%20The%20Painter%20and%20the%20Buyer%2C%20ca.%201566%20-%20Google%20Art%20Project.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q43270",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1553,10 +1617,11 @@
       "source": "http://www.wikidata.org/entity/Q29909652",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20%28I%29%20-%20Mountain%20Landscape%20with%20the%20Journey%20to%20Emmaus%2C%20N%2086%20%28PK%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%20-%20The%20Painter%20and%20the%20Buyer%2C%20ca.%201566%20-%20Google%20Art%20Project.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q43270",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1577,10 +1642,11 @@
       "source": "http://www.wikidata.org/entity/Q47534075",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%20-%20The%20Painter%20and%20the%20Buyer%2C%20ca.%201566%20-%20Google%20Art%20Project.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q43270",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1601,10 +1667,11 @@
       "source": "http://www.wikidata.org/entity/Q29910208",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20%28I%29%20-%20One%20of%20the%20Seven%20Virtues%20Temperantia%20%28Temperance%29%2C%20MB%20331%20%28PK%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%20-%20The%20Painter%20and%20the%20Buyer%2C%20ca.%201566%20-%20Google%20Art%20Project.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q43270",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1625,10 +1692,11 @@
       "source": "http://www.wikidata.org/entity/Q29910059",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bruegel%20-%20The%20Resurrection%20of%20Christ%2C%20circa%201562.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%20-%20The%20Painter%20and%20the%20Buyer%2C%20ca.%201566%20-%20Google%20Art%20Project.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q43270",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1649,10 +1717,11 @@
       "source": "http://www.wikidata.org/entity/Q15295671",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%20-%20The%20Tower%20of%20Babel%20%28Rotterdam%29%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%20-%20The%20Painter%20and%20the%20Buyer%2C%20ca.%201566%20-%20Google%20Art%20Project.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q43270",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1673,10 +1742,11 @@
       "source": "http://www.wikidata.org/entity/Q29910332",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20%28I%29%20-%20View%20of%20Reggio%20di%20Calabria%20on%20the%20Strait%20of%20Messina%2C%20N%20191%20%28PK%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%20-%20The%20Painter%20and%20the%20Buyer%2C%20ca.%201566%20-%20Google%20Art%20Project.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q43270",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1697,10 +1767,11 @@
       "source": "http://www.wikidata.org/entity/Q47534622",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%20-%20The%20Painter%20and%20the%20Buyer%2C%20ca.%201566%20-%20Google%20Art%20Project.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q43270",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1721,10 +1792,11 @@
       "source": "http://www.wikidata.org/entity/Q1211030",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Winterthur%20The%20Adoration%20of%20the%20Magi%20in%20the%20Snow%20027%204f%20ZS%20Breugel%20EKP%20crop.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%20-%20The%20Painter%20and%20the%20Buyer%2C%20ca.%201566%20-%20Google%20Art%20Project.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q43270",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1745,10 +1817,11 @@
       "source": "http://www.wikidata.org/entity/Q80869",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Dulle%20Griet%2C%20by%20Pieter%20Brueghel%20%28I%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%20-%20The%20Painter%20and%20the%20Buyer%2C%20ca.%201566%20-%20Google%20Art%20Project.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q43270",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1769,10 +1842,11 @@
       "source": "http://www.wikidata.org/entity/Q3712512",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%20-%20Twelve%20Proverbs%20-%20WGA03372.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%20-%20The%20Painter%20and%20the%20Buyer%2C%20ca.%201566%20-%20Google%20Art%20Project.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q43270",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1793,41 +1867,18 @@
       "source": "http://www.wikidata.org/entity/Q257048",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%20-%20The%20Sermon%20of%20Saint%20John%20the%20Baptist.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%20-%20The%20Painter%20and%20the%20Buyer%2C%20ca.%201566%20-%20Google%20Art%20Project.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q43270",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q56604898",
-      "title": "Ice Skating before the St. George's Gate, Antwerp",
-      "date": "1558",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "pieter-bruegel-the-elder",
-      "artistName": "Pieter Bruegel the Elder",
-      "locationId": "museum-plantin-moretus-antwerp",
-      "location": "Museum Plantin-Moretus",
-      "city": "Antwerp",
-      "country": "Belgium",
-      "lat": 51.218294444,
-      "lon": 4.398163888,
-      "source": "http://www.wikidata.org/entity/Q56604898",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Skating%20before%20the%20St.%20George%27s%20Gate%2C%20Antwerp%20MET%20DP818326.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q43270",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
     {
       "id": "Q4680634",
       "title": "The Adoration of the Kings",
-      "date": "1563",
+      "date": "1564",
       "type": "Painting",
       "attribution": "Accepted",
       "artistId": "pieter-bruegel-the-elder",
@@ -1841,10 +1892,11 @@
       "source": "http://www.wikidata.org/entity/Q4680634",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Anbetung%20der%20K%C3%B6nige%20%28Bruegel%2C%201564%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%20-%20The%20Painter%20and%20the%20Buyer%2C%20ca.%201566%20-%20Google%20Art%20Project.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q43270",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1865,10 +1917,11 @@
       "source": "http://www.wikidata.org/entity/Q126901377",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%20-%201552%20-%20Pastoral%20Landscape.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%20-%20The%20Painter%20and%20the%20Buyer%2C%20ca.%201566%20-%20Google%20Art%20Project.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q43270",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1889,10 +1942,11 @@
       "source": "http://www.wikidata.org/entity/Q26926955",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%20-%20The%20Painter%20and%20the%20Buyer%2C%20ca.%201566%20-%20Google%20Art%20Project.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q43270",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1913,10 +1967,11 @@
       "source": "http://www.wikidata.org/entity/Q130213487",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%2C%20Brook%20with%20a%20fisherman%20and%20a%20watermill%2C%20c.1554.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%20-%20The%20Painter%20and%20the%20Buyer%2C%20ca.%201566%20-%20Google%20Art%20Project.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q43270",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1937,10 +1992,11 @@
       "source": "http://www.wikidata.org/entity/Q22814403",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Justicia%20by%20Pieter%20Bruegel%20the%20Elder.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%20-%20The%20Painter%20and%20the%20Buyer%2C%20ca.%201566%20-%20Google%20Art%20Project.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q43270",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1961,10 +2017,11 @@
       "source": "http://www.wikidata.org/entity/Q22814441",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Luxuria%20by%20Pieter%20Bruegel%20the%20Elder.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%20-%20The%20Painter%20and%20the%20Buyer%2C%20ca.%201566%20-%20Google%20Art%20Project.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q43270",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1985,17 +2042,43 @@
       "source": "http://www.wikidata.org/entity/Q130213525",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Faith%20%28Fides%29%20by%20Pieter%20Bruegel%20I%2C%201559.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%20-%20The%20Painter%20and%20the%20Buyer%2C%20ca.%201566%20-%20Google%20Art%20Project.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q43270",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q123666574",
+      "title": "Temperance",
+      "date": "1560",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "pieter-bruegel-the-elder",
+      "artistName": "Pieter Bruegel the Elder",
+      "locationId": "royal-library-of-belgium-brussels",
+      "location": "Royal Library of Belgium",
+      "city": "Brussels",
+      "country": "Belgium",
+      "lat": 50.843333,
+      "lon": 4.356389,
+      "source": "http://www.wikidata.org/entity/Q123666574",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Musea%20Brugge%2C%20HUB%2C%202014%20GRO0024%20III%20%28cropped%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%20-%20The%20Painter%20and%20the%20Buyer%2C%20ca.%201566%20-%20Google%20Art%20Project.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q43270",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
     {
       "id": "Q22076691",
       "title": "Landscape with Pilgrims",
-      "date": "1556",
+      "date": "1540",
       "type": "Painting",
       "attribution": "Accepted",
       "artistId": "pieter-bruegel-the-elder",
@@ -2009,10 +2092,11 @@
       "source": "http://www.wikidata.org/entity/Q22076691",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Landschap%20met%20pelgrims%2C%20Pieter%20Bruegel%20I%2C%20Koninklijk%20Museum%20voor%20Schone%20Kunsten%20Antwerpen%2C%205098.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%20-%20The%20Painter%20and%20the%20Buyer%2C%20ca.%201566%20-%20Google%20Art%20Project.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q43270",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2033,10 +2117,11 @@
       "source": "http://www.wikidata.org/entity/Q3605524",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Anbetung%20der%20K%C3%B6nige%20%28Bruegel%2C%20um%201564%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%20-%20The%20Painter%20and%20the%20Buyer%2C%20ca.%201566%20-%20Google%20Art%20Project.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q43270",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2057,10 +2142,11 @@
       "source": "http://www.wikidata.org/entity/Q130123210",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20-%20De%20Voorzichtigheid%20-%20Kunstcollecties%20Koninklijke%20Musea%20voor%20Schone%20Kunsten%20van%20Belgi%C3%AB.webp",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%20-%20The%20Painter%20and%20the%20Buyer%2C%20ca.%201566%20-%20Google%20Art%20Project.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q43270",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2081,10 +2167,11 @@
       "source": "http://www.wikidata.org/entity/Q594406",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%20-%20The%20Fall%20of%20the%20Rebel%20Angels%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%20-%20The%20Painter%20and%20the%20Buyer%2C%20ca.%201566%20-%20Google%20Art%20Project.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q43270",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2105,10 +2192,11 @@
       "source": "http://www.wikidata.org/entity/Q375216",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%20-%20The%20Numbering%20at%20Bethlehem%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%20-%20The%20Painter%20and%20the%20Buyer%2C%20ca.%201566%20-%20Google%20Art%20Project.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q43270",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2129,10 +2217,11 @@
       "source": "http://www.wikidata.org/entity/Q873639",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bruegel%2C%20Pieter%20%28I%29%20-%20Winterlandschap%20met%20schaatsers%20en%20vogelknip%2C%201565.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%20-%20The%20Painter%20and%20the%20Buyer%2C%20ca.%201566%20-%20Google%20Art%20Project.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q43270",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2153,10 +2242,11 @@
       "source": "http://www.wikidata.org/entity/Q131360043",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20%28der%20%C3%84ltere%29%20-%20Spes%2C%20KdZ%20715.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%20-%20The%20Painter%20and%20the%20Buyer%2C%20ca.%201566%20-%20Google%20Art%20Project.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q43270",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2177,10 +2267,11 @@
       "source": "http://www.wikidata.org/entity/Q20426804",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20d.%C3%86.%20-%20The%20Strife%20of%20Lent%20with%20Shrove-Tide%20-%20KMS1639%20-%20Statens%20Museum%20for%20Kunst.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%20-%20The%20Painter%20and%20the%20Buyer%2C%20ca.%201566%20-%20Google%20Art%20Project.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q43270",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2201,10 +2292,11 @@
       "source": "http://www.wikidata.org/entity/Q19857193",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20de%20Oude%20-%20De%20drie%20soldaten.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%20-%20The%20Painter%20and%20the%20Buyer%2C%20ca.%201566%20-%20Google%20Art%20Project.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q43270",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2225,10 +2317,11 @@
       "source": "http://www.wikidata.org/entity/Q1434332",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20d.%20%C3%84.%20030.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%20-%20The%20Painter%20and%20the%20Buyer%2C%20ca.%201566%20-%20Google%20Art%20Project.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q43270",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2249,10 +2342,11 @@
       "source": "http://www.wikidata.org/entity/Q3863232",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%20-%20Death%20of%20the%20Virgin%20-%20WGA03468.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%20-%20The%20Painter%20and%20the%20Buyer%2C%20ca.%201566%20-%20Google%20Art%20Project.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q43270",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     }

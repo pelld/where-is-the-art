@@ -17,7 +17,9 @@
       "country": "Slovenia",
       "lat": 45.803360516,
       "lon": 15.166842576,
-      "source": "http://www.wikidata.org/entity/Q28004358"
+      "source": "http://www.wikidata.org/entity/Q28004358",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Tintoretto%20st%20nicholas.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Tintoretto%20-%20Self-Portrait%20as%20a%20Young%20Man%2C%20ca.%201548%2C%20CAI.103%20%28cropped%29.jpg"
     }
   ]
 }

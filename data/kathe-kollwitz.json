@@ -17,10 +17,11 @@
       "source": "http://www.wikidata.org/entity/Q22049133",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Kaethe%20Kollwitz%20-%20Frau%20mit%20totem%20Kind.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -41,10 +42,11 @@
       "source": "http://www.wikidata.org/entity/Q65022736",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -65,10 +67,11 @@
       "source": "http://www.wikidata.org/entity/Q65022747",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -89,10 +92,11 @@
       "source": "http://www.wikidata.org/entity/Q64591947",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -113,10 +117,11 @@
       "source": "http://www.wikidata.org/entity/Q65080420",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -137,10 +142,11 @@
       "source": "http://www.wikidata.org/entity/Q65022825",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -161,10 +167,11 @@
       "source": "http://www.wikidata.org/entity/Q76559041",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -185,10 +192,11 @@
       "source": "http://www.wikidata.org/entity/Q64591939",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -209,15 +217,16 @@
       "source": "http://www.wikidata.org/entity/Q65022887",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
     {
-      "id": "Q77013323",
+      "id": "Q74897458",
       "title": "Betendes Mädchen (Girl Praying)",
       "date": "1892",
       "type": "Painting",
@@ -230,13 +239,14 @@
       "country": "United States",
       "lat": 38.891388888,
       "lon": -77.02,
-      "source": "http://www.wikidata.org/entity/Q77013323",
+      "source": "http://www.wikidata.org/entity/Q74897458",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -257,10 +267,11 @@
       "source": "http://www.wikidata.org/entity/Q65022732",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -281,10 +292,11 @@
       "source": "http://www.wikidata.org/entity/Q65022790",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -305,10 +317,11 @@
       "source": "http://www.wikidata.org/entity/Q65022737",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -329,34 +342,11 @@
       "source": "http://www.wikidata.org/entity/Q64591941",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q65022886",
-      "title": "Conspiracy (Beratung)",
-      "date": "1895",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "kathe-kollwitz",
-      "artistName": "Käthe Kollwitz",
-      "locationId": "collection-unknown-washington-d-c",
-      "location": "Collection unknown",
-      "city": "Washington, D.C.",
-      "country": "United States",
-      "lat": 38.891388888,
-      "lon": -77.02,
-      "source": "http://www.wikidata.org/entity/Q65022886",
-      "image": "",
-      "externalImage": "",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -377,10 +367,36 @@
       "source": "http://www.wikidata.org/entity/Q65022881",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q65022886",
+      "title": "Conspiracy (Beratung)",
+      "date": "1895",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "kathe-kollwitz",
+      "artistName": "Käthe Kollwitz",
+      "locationId": "collection-unknown-washington-d-c",
+      "location": "Collection unknown",
+      "city": "Washington, D.C.",
+      "country": "United States",
+      "lat": 38.891388888,
+      "lon": -77.02,
+      "source": "http://www.wikidata.org/entity/Q65022886",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q142472",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -401,10 +417,11 @@
       "source": "http://www.wikidata.org/entity/Q65022868",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -425,10 +442,11 @@
       "source": "http://www.wikidata.org/entity/Q65022769",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -449,10 +467,11 @@
       "source": "http://www.wikidata.org/entity/Q65022750",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -473,10 +492,11 @@
       "source": "http://www.wikidata.org/entity/Q65022756",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -497,10 +517,11 @@
       "source": "http://www.wikidata.org/entity/Q65022753",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -521,10 +542,11 @@
       "source": "http://www.wikidata.org/entity/Q76556657",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -545,10 +567,11 @@
       "source": "http://www.wikidata.org/entity/Q65022754",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -569,10 +592,11 @@
       "source": "http://www.wikidata.org/entity/Q65022755",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -593,10 +617,11 @@
       "source": "http://www.wikidata.org/entity/Q65022819",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -617,10 +642,11 @@
       "source": "http://www.wikidata.org/entity/Q64591953",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -641,15 +667,16 @@
       "source": "http://www.wikidata.org/entity/Q65022764",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
     {
-      "id": "Q65022884",
+      "id": "Q65022883",
       "title": "Despair (Not)",
       "date": "1897",
       "type": "Painting",
@@ -662,18 +689,19 @@
       "country": "United States",
       "lat": 38.891388888,
       "lon": -77.02,
-      "source": "http://www.wikidata.org/entity/Q65022884",
+      "source": "http://www.wikidata.org/entity/Q65022883",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
     {
-      "id": "Q65510633",
+      "id": "Q65510632",
       "title": "Female Nude (Frauenakt)",
       "date": "1910",
       "type": "Painting",
@@ -686,13 +714,14 @@
       "country": "United States",
       "lat": 38.891388888,
       "lon": -77.02,
-      "source": "http://www.wikidata.org/entity/Q65510633",
+      "source": "http://www.wikidata.org/entity/Q65510632",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -713,10 +742,11 @@
       "source": "http://www.wikidata.org/entity/Q65022889",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -737,10 +767,11 @@
       "source": "http://www.wikidata.org/entity/Q64591949",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -761,10 +792,11 @@
       "source": "http://www.wikidata.org/entity/Q65022793",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -785,15 +817,16 @@
       "source": "http://www.wikidata.org/entity/Q65080381",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
     {
-      "id": "Q65022863",
+      "id": "Q65022862",
       "title": "Hamburg Pub (Hamburger Kneipe)",
       "date": "1901",
       "type": "Painting",
@@ -806,13 +839,14 @@
       "country": "United States",
       "lat": 38.891388888,
       "lon": -77.02,
-      "source": "http://www.wikidata.org/entity/Q65022863",
+      "source": "http://www.wikidata.org/entity/Q65022862",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -833,10 +867,11 @@
       "source": "http://www.wikidata.org/entity/Q64591934",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -857,10 +892,11 @@
       "source": "http://www.wikidata.org/entity/Q65022853",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -881,10 +917,11 @@
       "source": "http://www.wikidata.org/entity/Q76556660",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -905,10 +942,11 @@
       "source": "http://www.wikidata.org/entity/Q65022758",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -929,10 +967,11 @@
       "source": "http://www.wikidata.org/entity/Q63854714",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -953,10 +992,11 @@
       "source": "http://www.wikidata.org/entity/Q65022838",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -977,15 +1017,16 @@
       "source": "http://www.wikidata.org/entity/Q65080435",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
     {
-      "id": "Q65080437",
+      "id": "Q65022749",
       "title": "Memorial to Karl Liebknecht (Gedenkblatt fur Karl Liebknecht)",
       "date": "1919",
       "type": "Painting",
@@ -998,13 +1039,14 @@
       "country": "United States",
       "lat": 38.891388888,
       "lon": -77.02,
-      "source": "http://www.wikidata.org/entity/Q65080437",
+      "source": "http://www.wikidata.org/entity/Q65022749",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1025,10 +1067,11 @@
       "source": "http://www.wikidata.org/entity/Q64591950",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1049,10 +1092,11 @@
       "source": "http://www.wikidata.org/entity/Q65022759",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1073,10 +1117,11 @@
       "source": "http://www.wikidata.org/entity/Q65022777",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1097,10 +1142,11 @@
       "source": "http://www.wikidata.org/entity/Q65080411",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1121,10 +1167,11 @@
       "source": "http://www.wikidata.org/entity/Q65022776",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1145,10 +1192,11 @@
       "source": "http://www.wikidata.org/entity/Q65022846",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1169,15 +1217,16 @@
       "source": "http://www.wikidata.org/entity/Q65022920",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
     {
-      "id": "Q64591955",
+      "id": "Q64591957",
       "title": "Nude",
       "date": "1910",
       "type": "Painting",
@@ -1190,13 +1239,14 @@
       "country": "United States",
       "lat": 38.891388888,
       "lon": -77.02,
-      "source": "http://www.wikidata.org/entity/Q64591955",
+      "source": "http://www.wikidata.org/entity/Q64591957",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1217,10 +1267,11 @@
       "source": "http://www.wikidata.org/entity/Q64591938",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1241,10 +1292,11 @@
       "source": "http://www.wikidata.org/entity/Q74882566",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1265,10 +1317,11 @@
       "source": "http://www.wikidata.org/entity/Q65022787",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1289,10 +1342,11 @@
       "source": "http://www.wikidata.org/entity/Q64591960",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1313,10 +1367,11 @@
       "source": "http://www.wikidata.org/entity/Q65022918",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1337,10 +1392,11 @@
       "source": "http://www.wikidata.org/entity/Q65080440",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1361,10 +1417,11 @@
       "source": "http://www.wikidata.org/entity/Q64591954",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1385,10 +1442,11 @@
       "source": "http://www.wikidata.org/entity/Q65022890",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1409,10 +1467,11 @@
       "source": "http://www.wikidata.org/entity/Q65080443",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1433,10 +1492,11 @@
       "source": "http://www.wikidata.org/entity/Q65022768",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1457,10 +1517,11 @@
       "source": "http://www.wikidata.org/entity/Q65022765",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1481,10 +1542,11 @@
       "source": "http://www.wikidata.org/entity/Q65022842",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1505,10 +1567,11 @@
       "source": "http://www.wikidata.org/entity/Q65080449",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1529,10 +1592,11 @@
       "source": "http://www.wikidata.org/entity/Q64591961",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1553,63 +1617,16 @@
       "source": "http://www.wikidata.org/entity/Q65080445",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
     {
-      "id": "Q65022799",
-      "title": "Self-Portrait (Selbstbildnis)",
-      "date": "1934",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "kathe-kollwitz",
-      "artistName": "Käthe Kollwitz",
-      "locationId": "collection-unknown-washington-d-c",
-      "location": "Collection unknown",
-      "city": "Washington, D.C.",
-      "country": "United States",
-      "lat": 38.891388888,
-      "lon": -77.02,
-      "source": "http://www.wikidata.org/entity/Q65022799",
-      "image": "",
-      "externalImage": "",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q65022843",
-      "title": "Self-Portrait (Selbstbildnis)",
-      "date": "1912",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "kathe-kollwitz",
-      "artistName": "Käthe Kollwitz",
-      "locationId": "collection-unknown-washington-d-c",
-      "location": "Collection unknown",
-      "city": "Washington, D.C.",
-      "country": "United States",
-      "lat": 38.891388888,
-      "lon": -77.02,
-      "source": "http://www.wikidata.org/entity/Q65022843",
-      "image": "",
-      "externalImage": "",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q65080448",
+      "id": "Q65022745",
       "title": "Self-Portrait (Selbstbildnis)",
       "date": "1924",
       "type": "Painting",
@@ -1622,13 +1639,14 @@
       "country": "United States",
       "lat": 38.891388888,
       "lon": -77.02,
-      "source": "http://www.wikidata.org/entity/Q65080448",
+      "source": "http://www.wikidata.org/entity/Q65022745",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1649,10 +1667,61 @@
       "source": "http://www.wikidata.org/entity/Q65510628",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q65022843",
+      "title": "Self-Portrait (Selbstbildnis)",
+      "date": "1912",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "kathe-kollwitz",
+      "artistName": "Käthe Kollwitz",
+      "locationId": "collection-unknown-washington-d-c",
+      "location": "Collection unknown",
+      "city": "Washington, D.C.",
+      "country": "United States",
+      "lat": 38.891388888,
+      "lon": -77.02,
+      "source": "http://www.wikidata.org/entity/Q65022843",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q142472",
+        "retrieved": "2026-07-23",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q65022799",
+      "title": "Self-Portrait (Selbstbildnis)",
+      "date": "1934",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "kathe-kollwitz",
+      "artistName": "Käthe Kollwitz",
+      "locationId": "collection-unknown-washington-d-c",
+      "location": "Collection unknown",
+      "city": "Washington, D.C.",
+      "country": "United States",
+      "lat": 38.891388888,
+      "lon": -77.02,
+      "source": "http://www.wikidata.org/entity/Q65022799",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q142472",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1673,10 +1742,11 @@
       "source": "http://www.wikidata.org/entity/Q65022821",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1697,10 +1767,11 @@
       "source": "http://www.wikidata.org/entity/Q74067182",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1721,10 +1792,11 @@
       "source": "http://www.wikidata.org/entity/Q65022791",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1745,10 +1817,11 @@
       "source": "http://www.wikidata.org/entity/Q64591962",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1769,10 +1842,11 @@
       "source": "http://www.wikidata.org/entity/Q65022767",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1793,34 +1867,11 @@
       "source": "http://www.wikidata.org/entity/Q65022813",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q65022892",
-      "title": "Self-Portrait in Profile (Selbstbildnis im Profil)",
-      "date": "1927",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "kathe-kollwitz",
-      "artistName": "Käthe Kollwitz",
-      "locationId": "collection-unknown-washington-d-c",
-      "location": "Collection unknown",
-      "city": "Washington, D.C.",
-      "country": "United States",
-      "lat": 38.891388888,
-      "lon": -77.02,
-      "source": "http://www.wikidata.org/entity/Q65022892",
-      "image": "",
-      "externalImage": "",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1841,10 +1892,36 @@
       "source": "http://www.wikidata.org/entity/Q65022817",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q65022892",
+      "title": "Self-Portrait in Profile (Selbstbildnis im Profil)",
+      "date": "1927",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "kathe-kollwitz",
+      "artistName": "Käthe Kollwitz",
+      "locationId": "collection-unknown-washington-d-c",
+      "location": "Collection unknown",
+      "city": "Washington, D.C.",
+      "country": "United States",
+      "lat": 38.891388888,
+      "lon": -77.02,
+      "source": "http://www.wikidata.org/entity/Q65022892",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q142472",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1865,10 +1942,11 @@
       "source": "http://www.wikidata.org/entity/Q65080413",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1889,10 +1967,11 @@
       "source": "http://www.wikidata.org/entity/Q65510629",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1913,10 +1992,11 @@
       "source": "http://www.wikidata.org/entity/Q65022848",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1937,10 +2017,11 @@
       "source": "http://www.wikidata.org/entity/Q64591936",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1961,10 +2042,11 @@
       "source": "http://www.wikidata.org/entity/Q65022860",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1985,10 +2067,11 @@
       "source": "http://www.wikidata.org/entity/Q65022823",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2009,10 +2092,11 @@
       "source": "http://www.wikidata.org/entity/Q65022766",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2033,10 +2117,11 @@
       "source": "http://www.wikidata.org/entity/Q64591959",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2057,10 +2142,11 @@
       "source": "http://www.wikidata.org/entity/Q64591933",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2081,10 +2167,11 @@
       "source": "http://www.wikidata.org/entity/Q65510630",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2105,10 +2192,11 @@
       "source": "http://www.wikidata.org/entity/Q65510631",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2129,10 +2217,11 @@
       "source": "http://www.wikidata.org/entity/Q65022815",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2153,10 +2242,11 @@
       "source": "http://www.wikidata.org/entity/Q74897463",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2177,10 +2267,11 @@
       "source": "http://www.wikidata.org/entity/Q64591951",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2201,10 +2292,11 @@
       "source": "http://www.wikidata.org/entity/Q64591945",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2225,10 +2317,11 @@
       "source": "http://www.wikidata.org/entity/Q65022865",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2249,10 +2342,11 @@
       "source": "http://www.wikidata.org/entity/Q65022738",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2273,10 +2367,11 @@
       "source": "http://www.wikidata.org/entity/Q65022757",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2297,10 +2392,11 @@
       "source": "http://www.wikidata.org/entity/Q65022762",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2321,10 +2417,11 @@
       "source": "http://www.wikidata.org/entity/Q74897466",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2345,10 +2442,11 @@
       "source": "http://www.wikidata.org/entity/Q65022866",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2369,10 +2467,11 @@
       "source": "http://www.wikidata.org/entity/Q65022809",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2393,10 +2492,11 @@
       "source": "http://www.wikidata.org/entity/Q65022871",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2417,10 +2517,11 @@
       "source": "http://www.wikidata.org/entity/Q64591946",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2441,10 +2542,11 @@
       "source": "http://www.wikidata.org/entity/Q63860934",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2465,10 +2567,11 @@
       "source": "http://www.wikidata.org/entity/Q64591943",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2489,10 +2592,11 @@
       "source": "http://www.wikidata.org/entity/Q65022907",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2513,10 +2617,11 @@
       "source": "http://www.wikidata.org/entity/Q65022778",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2537,15 +2642,16 @@
       "source": "http://www.wikidata.org/entity/Q76346981",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
     {
-      "id": "Q65080403",
+      "id": "Q65022912",
       "title": "The People (Das Volk)",
       "date": "1922",
       "type": "Painting",
@@ -2558,13 +2664,14 @@
       "country": "United States",
       "lat": 38.891388888,
       "lon": -77.02,
-      "source": "http://www.wikidata.org/entity/Q65080403",
+      "source": "http://www.wikidata.org/entity/Q65022912",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2585,10 +2692,11 @@
       "source": "http://www.wikidata.org/entity/Q74067253",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2609,10 +2717,11 @@
       "source": "http://www.wikidata.org/entity/Q65022740",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2633,15 +2742,16 @@
       "source": "http://www.wikidata.org/entity/Q65022916",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
     {
-      "id": "Q65080408",
+      "id": "Q65080417",
       "title": "The Sacrifice (Das Opfer)",
       "date": "1922",
       "type": "Painting",
@@ -2654,13 +2764,14 @@
       "country": "United States",
       "lat": 38.891388888,
       "lon": -77.02,
-      "source": "http://www.wikidata.org/entity/Q65080408",
+      "source": "http://www.wikidata.org/entity/Q65080417",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2681,10 +2792,11 @@
       "source": "http://www.wikidata.org/entity/Q65022872",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2705,10 +2817,11 @@
       "source": "http://www.wikidata.org/entity/Q64591952",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2729,10 +2842,11 @@
       "source": "http://www.wikidata.org/entity/Q65022729",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2753,10 +2867,11 @@
       "source": "http://www.wikidata.org/entity/Q65022773",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2777,10 +2892,11 @@
       "source": "http://www.wikidata.org/entity/Q65080409",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2801,34 +2917,11 @@
       "source": "http://www.wikidata.org/entity/Q74897462",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q65022914",
-      "title": "The Widow I (Die Witwe I)",
-      "date": "1922",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "kathe-kollwitz",
-      "artistName": "Käthe Kollwitz",
-      "locationId": "collection-unknown-washington-d-c",
-      "location": "Collection unknown",
-      "city": "Washington, D.C.",
-      "country": "United States",
-      "lat": 38.891388888,
-      "lon": -77.02,
-      "source": "http://www.wikidata.org/entity/Q65022914",
-      "image": "",
-      "externalImage": "",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2849,10 +2942,36 @@
       "source": "http://www.wikidata.org/entity/Q65022772",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q65022908",
+      "title": "The Widow I (Die Witwe I)",
+      "date": "1922",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "kathe-kollwitz",
+      "artistName": "Käthe Kollwitz",
+      "locationId": "collection-unknown-washington-d-c",
+      "location": "Collection unknown",
+      "city": "Washington, D.C.",
+      "country": "United States",
+      "lat": 38.891388888,
+      "lon": -77.02,
+      "source": "http://www.wikidata.org/entity/Q65022908",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q142472",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2873,10 +2992,11 @@
       "source": "http://www.wikidata.org/entity/Q65022910",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2897,10 +3017,11 @@
       "source": "http://www.wikidata.org/entity/Q64591958",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2921,10 +3042,11 @@
       "source": "http://www.wikidata.org/entity/Q64591956",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2945,10 +3067,11 @@
       "source": "http://www.wikidata.org/entity/Q65022744",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2969,10 +3092,11 @@
       "source": "http://www.wikidata.org/entity/Q65022731",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2993,10 +3117,11 @@
       "source": "http://www.wikidata.org/entity/Q65022801",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3017,10 +3142,11 @@
       "source": "http://www.wikidata.org/entity/Q64591942",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3041,10 +3167,11 @@
       "source": "http://www.wikidata.org/entity/Q64591944",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3065,10 +3192,11 @@
       "source": "http://www.wikidata.org/entity/Q65022743",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3089,10 +3217,11 @@
       "source": "http://www.wikidata.org/entity/Q64591935",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3113,10 +3242,11 @@
       "source": "http://www.wikidata.org/entity/Q65022760",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3137,10 +3267,11 @@
       "source": "http://www.wikidata.org/entity/Q65022869",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3161,15 +3292,16 @@
       "source": "http://www.wikidata.org/entity/Q65022850",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
     {
-      "id": "Q65022752",
+      "id": "Q65022746",
       "title": "Woman Entrusting Herself to Death (Frau vertraut sich dem Tode an)",
       "date": "1934",
       "type": "Painting",
@@ -3182,13 +3314,14 @@
       "country": "United States",
       "lat": 38.891388888,
       "lon": -77.02,
-      "source": "http://www.wikidata.org/entity/Q65022752",
+      "source": "http://www.wikidata.org/entity/Q65022746",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3209,10 +3342,11 @@
       "source": "http://www.wikidata.org/entity/Q65022840",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3233,10 +3367,11 @@
       "source": "http://www.wikidata.org/entity/Q65022739",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3257,10 +3392,11 @@
       "source": "http://www.wikidata.org/entity/Q65022852",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3281,10 +3417,11 @@
       "source": "http://www.wikidata.org/entity/Q65022788",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3305,10 +3442,11 @@
       "source": "http://www.wikidata.org/entity/Q65080418",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3329,10 +3467,11 @@
       "source": "http://www.wikidata.org/entity/Q65022797",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3353,10 +3492,11 @@
       "source": "http://www.wikidata.org/entity/Q65022763",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3377,10 +3517,11 @@
       "source": "http://www.wikidata.org/entity/Q65022770",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3401,10 +3542,11 @@
       "source": "http://www.wikidata.org/entity/Q65022774",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3425,10 +3567,11 @@
       "source": "http://www.wikidata.org/entity/Q55039094",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Relief%20in%20the%20Currier%20Museum%20of%20Art%20WP%2020180527%20036.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3444,15 +3587,16 @@
       "location": "Herzliya Museum of Contemporary Art",
       "city": "Herzliya",
       "country": "Israel",
-      "lat": 32.162,
-      "lon": 34.843552777,
+      "lat": 32.1619,
+      "lon": 34.8441,
       "source": "http://www.wikidata.org/entity/Q92547973",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3473,10 +3617,11 @@
       "source": "http://www.wikidata.org/entity/Q22049132",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%27Battlefield%27%2C%20by%20K%C3%A4the%20Kollwitz%2C%20Honolulu%20Museum%20of%20Art.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3497,10 +3642,11 @@
       "source": "http://www.wikidata.org/entity/Q22049135",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Kaethe%20Kollwitz%20-%20Mutter%20mit%20Zwillingen-2.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3521,15 +3667,16 @@
       "source": "http://www.wikidata.org/entity/Q22049139",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Skulptur%20Fr%C3%B6belstr%2017%20%28Prenz%29%20Mutter%20mit%20zwei%20Kindern%20K%C3%A4the%20Kollwitz%201937.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
     {
-      "id": "Q137665405",
+      "id": "Q137664769",
       "title": "Untitled record",
       "date": "1889",
       "type": "Painting",
@@ -3542,13 +3689,14 @@
       "country": "Germany",
       "lat": 50.93665,
       "lon": 6.94671944,
-      "source": "http://www.wikidata.org/entity/Q137665405",
+      "source": "http://www.wikidata.org/entity/Q137664769",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Biergarten%20mit%20Figuren%2C%20K%C3%A4the%20Kollwitz%20%28K%C3%A4the%20Kollwitz%20Museum%20K%C3%B6ln%29.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Else%20Rautenberg%2C%20K%C3%A4the%20Kollwitz%20%28K%C3%A4the-Kollwitz-Museum%20K%C3%B6ln%29%20%28no%20frame%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3569,34 +3717,11 @@
       "source": "http://www.wikidata.org/entity/Q138338148",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Self-portrait%20bust%20%28K%C3%A4the%20Kollwitz%29%20LACMA.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q27615657",
-      "title": "Untitled record",
-      "date": "1938",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "kathe-kollwitz",
-      "artistName": "Käthe Kollwitz",
-      "locationId": "middelheim-museum-antwerp",
-      "location": "Middelheim Museum",
-      "city": "Antwerp",
-      "country": "Belgium",
-      "lat": 51.181389,
-      "lon": 4.413468,
-      "source": "http://www.wikidata.org/entity/Q27615657",
-      "image": "",
-      "externalImage": "",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3617,10 +3742,36 @@
       "source": "http://www.wikidata.org/entity/Q27615648",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q27615657",
+      "title": "Untitled record",
+      "date": "1938",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "kathe-kollwitz",
+      "artistName": "Käthe Kollwitz",
+      "locationId": "middelheim-museum-antwerp",
+      "location": "Middelheim Museum",
+      "city": "Antwerp",
+      "country": "Belgium",
+      "lat": 51.181389,
+      "lon": 4.413468,
+      "source": "http://www.wikidata.org/entity/Q27615657",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q142472",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3641,10 +3792,11 @@
       "source": "http://www.wikidata.org/entity/Q29910812",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3665,10 +3817,11 @@
       "source": "http://www.wikidata.org/entity/Q22251068",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/De%20carmagnole%20K%C3%A4the%20Kollwitz%20MSK%20Gent%202009-AB.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3689,10 +3842,11 @@
       "source": "http://www.wikidata.org/entity/Q105728291",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Kollwitz%20Whetting%20the%20scythe.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3713,10 +3867,11 @@
       "source": "http://www.wikidata.org/entity/Q27951197",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Zeichnung%20zu%20Volks%20by%20K%C3%A4the%20Kollwitz%2C%201921.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3737,10 +3892,11 @@
       "source": "http://www.wikidata.org/entity/Q131613039",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Kollwitz%20-%20Liebespaar%20II.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3761,10 +3917,11 @@
       "source": "http://www.wikidata.org/entity/Q125399053",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/K%C3%A4the%20Kollwitz%2C%20Not%20%28Mis%C3%A8re%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3785,10 +3942,11 @@
       "source": "http://www.wikidata.org/entity/Q125399043",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/K%C3%A4the%20Kollwitz%2C%20Betende%20Frau%20%28Femme%20en%20pri%C3%A8re%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3809,10 +3967,11 @@
       "source": "http://www.wikidata.org/entity/Q103297795",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Brot%21%20%28Bread%21%29%20-%20Vanderbilt%20Fine%20Arts%20Gallery%20-%201977.011.tif",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3833,15 +3992,16 @@
       "source": "http://www.wikidata.org/entity/Q103300447",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gefallen%20%28Killed%20in%20Action%2C%20or%20News%20from%20the%20Front%29%20-%20Vanderbilt%20Fine%20Arts%20Gallery%20-%201992.333.tif",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
     {
-      "id": "Q104032326",
+      "id": "Q104032329",
       "title": "Selbstbildnis (Self-Portrait)",
       "date": "1921",
       "type": "Painting",
@@ -3854,13 +4014,14 @@
       "country": "United States",
       "lat": 36.145833,
       "lon": -86.801389,
-      "source": "http://www.wikidata.org/entity/Q104032326",
+      "source": "http://www.wikidata.org/entity/Q104032329",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Selbstbildnis%20%28Self-Portrait%29%20-%20Vanderbilt%20Fine%20Arts%20Gallery%20-%201970.032.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Selbstbildnis%20%28Self-Portrait%29%20-%20Vanderbilt%20Fine%20Arts%20Gallery%20-%201979.0353P.lg.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3881,10 +4042,11 @@
       "source": "http://www.wikidata.org/entity/Q103310463",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3905,10 +4067,11 @@
       "source": "http://www.wikidata.org/entity/Q102977559",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Zertretene%20-%20Leichnam%20und%20Frauenakt%20am%20Pfahl%20%28The%20Downtrodden%20-%20Corpse%20and%20Nude%20Woman%20at%20a%20Post%29%20-%20Vanderbilt%20Fine%20Arts%20Gallery%20-%201966.003.tif",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3929,10 +4092,11 @@
       "source": "http://www.wikidata.org/entity/Q131613001",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3953,10 +4117,11 @@
       "source": "http://www.wikidata.org/entity/Q62061526",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%27Die%20Gefangenen%27%20%28The%20Prisoners%29%20by%20K%C3%A4the%20Kollwitz%2C%20Honolulu%20Museum%20of%20Art.JPG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q142472",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     }

@@ -3,23 +3,6 @@
   "country": "Slovakia",
   "artworks": [
     {
-      "id": "Q51199695",
-      "artistId": "paolo-veronese",
-      "artistName": "Paolo Veronese",
-      "reviewStatus": "generated",
-      "title": "Untitled record",
-      "date": "1750",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "bratislava-city-gallery-bratislava",
-      "location": "Bratislava City Gallery",
-      "city": "Bratislava",
-      "country": "Slovakia",
-      "lat": 48.144825,
-      "lon": 17.107822,
-      "source": "http://www.wikidata.org/entity/Q51199695"
-    },
-    {
       "id": "Q51273362",
       "artistId": "paolo-veronese",
       "artistName": "Paolo Veronese",
@@ -34,7 +17,28 @@
       "country": "Slovakia",
       "lat": 48.144825,
       "lon": 17.107822,
-      "source": "http://www.wikidata.org/entity/Q51273362"
+      "source": "http://www.wikidata.org/entity/Q51273362",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Veronese%20-%20AUTORITRATTO%20%282%29%20-%20Museo%20dell%27Ermitage.jpg"
+    },
+    {
+      "id": "Q51199695",
+      "artistId": "paolo-veronese",
+      "artistName": "Paolo Veronese",
+      "reviewStatus": "generated",
+      "title": "Untitled record",
+      "date": "1750",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "bratislava-city-gallery-bratislava",
+      "location": "Bratislava City Gallery",
+      "city": "Bratislava",
+      "country": "Slovakia",
+      "lat": 48.144825,
+      "lon": 17.107822,
+      "source": "http://www.wikidata.org/entity/Q51199695",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Veronese%20-%20AUTORITRATTO%20%282%29%20-%20Museo%20dell%27Ermitage.jpg"
     },
     {
       "id": "Q51279981",
@@ -51,7 +55,9 @@
       "country": "Slovakia",
       "lat": 48.144825,
       "lon": 17.107822,
-      "source": "http://www.wikidata.org/entity/Q51279981"
+      "source": "http://www.wikidata.org/entity/Q51279981",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Painter%20and%20His%20Pug%20by%20William%20Hogarth.jpg"
     },
     {
       "id": "Q51303098",
@@ -68,7 +74,9 @@
       "country": "Slovakia",
       "lat": 48.14,
       "lon": 17.108611111,
-      "source": "http://www.wikidata.org/entity/Q51303098"
+      "source": "http://www.wikidata.org/entity/Q51303098",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Fran%C3%A7ois%20Boucher%20%E2%80%93%20autor%20predlohy%20-%20Diana%20a%20Callisto%20-%20O%203122%20-%20Slovak%20National%20Gallery.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Boucher%20par%20Gustav%20Lundberg%201741.jpg"
     },
     {
       "id": "Q51219449",
@@ -85,7 +93,9 @@
       "country": "Slovakia",
       "lat": 48.14,
       "lon": 17.108611111,
-      "source": "http://www.wikidata.org/entity/Q51219449"
+      "source": "http://www.wikidata.org/entity/Q51219449",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ilya%20Repin%20%281909%29.jpg"
     },
     {
       "id": "Q50750764",
@@ -102,7 +112,9 @@
       "country": "Slovakia",
       "lat": 48.14,
       "lon": 17.108611111,
-      "source": "http://www.wikidata.org/entity/Q50750764"
+      "source": "http://www.wikidata.org/entity/Q50750764",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Nezn%C3%A1my%20majster%20-%20Miss%20Collot%20-%20O%204205%20-%20Slovak%20National%20Gallery.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Painter%20and%20His%20Pug%20by%20William%20Hogarth.jpg"
     }
   ]
 }

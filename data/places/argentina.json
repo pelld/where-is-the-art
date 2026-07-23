@@ -17,7 +17,9 @@
       "country": "Argentina",
       "lat": -34.599619,
       "lon": -58.364956,
-      "source": "http://www.wikidata.org/entity/Q20819142"
+      "source": "http://www.wikidata.org/entity/Q20819142",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/J.%20M.%20W.%20Turner%20-%20Juliet%20and%20her%20Nurse%20%281836%29%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%20auto-retrato.jpg"
     },
     {
       "id": "Q116869013",
@@ -34,7 +36,9 @@
       "country": "Argentina",
       "lat": -34.599619,
       "lon": -58.364956,
-      "source": "http://www.wikidata.org/entity/Q116869013"
+      "source": "http://www.wikidata.org/entity/Q116869013",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Shagal%20Choumoff.jpg"
     },
     {
       "id": "Q21606628",
@@ -51,7 +55,9 @@
       "country": "Argentina",
       "lat": -34.577111,
       "lon": -58.403593,
-      "source": "http://www.wikidata.org/entity/Q21606628"
+      "source": "http://www.wikidata.org/entity/Q21606628",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ram%C3%B3nG%C3%B3mezdelaSerna.JPG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Rivera%20-%20Google%20Art%20Project%20%28cropped%29.jpg"
     },
     {
       "id": "Q123536691",
@@ -68,7 +74,9 @@
       "country": "Argentina",
       "lat": -34.582,
       "lon": -58.4015,
-      "source": "http://www.wikidata.org/entity/Q123536691"
+      "source": "http://www.wikidata.org/entity/Q123536691",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Manet%20-%20Portrait%20de%20l%27abb%C3%A9%20Hurel.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Manet%2C%20en%20buste%2C%20de%20face%20-%20Nadar.jpg"
     },
     {
       "id": "Q102255376",
@@ -85,7 +93,9 @@
       "country": "Argentina",
       "lat": -34.582,
       "lon": -58.4015,
-      "source": "http://www.wikidata.org/entity/Q102255376"
+      "source": "http://www.wikidata.org/entity/Q102255376",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Greco%20-%20Jes%C3%BAs%20con%20la%20Cruz%20a%20cuestas.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Greco%20-%20Portrait%20of%20a%20Man%20-%20WGA10554.jpg"
     },
     {
       "id": "Q18177857",
@@ -102,7 +112,9 @@
       "country": "Argentina",
       "lat": -34.582,
       "lon": -58.4015,
-      "source": "http://www.wikidata.org/entity/Q18177857"
+      "source": "http://www.wikidata.org/entity/Q18177857",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Baptiste%20Camille%20Corot%20-%20Vista%20del%20Castel%20Sant%27Angelo.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste-Camille%20Corot%20c1850.png"
     },
     {
       "id": "Q123536592",
@@ -119,7 +131,9 @@
       "country": "Argentina",
       "lat": -34.582,
       "lon": -58.4015,
-      "source": "http://www.wikidata.org/entity/Q123536592"
+      "source": "http://www.wikidata.org/entity/Q123536592",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Honor%C3%A9%20Fragonard%20-%20El%20sacrificio%20de%20la%20rosa.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Honor%C3%A9%20Fragonard%20self-portrait.jpg"
     },
     {
       "id": "Q19820343",
@@ -136,7 +150,9 @@
       "country": "Argentina",
       "lat": -34.583986,
       "lon": -58.39297,
-      "source": "http://www.wikidata.org/entity/Q19820343"
+      "source": "http://www.wikidata.org/entity/Q19820343",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Alfred%20Sisley%20-%20Point%20du%20jour%2C%201878.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20110.jpg"
     },
     {
       "id": "Q19820378",
@@ -153,7 +169,9 @@
       "country": "Argentina",
       "lat": -34.583986,
       "lon": -58.39297,
-      "source": "http://www.wikidata.org/entity/Q19820378"
+      "source": "http://www.wikidata.org/entity/Q19820378",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Effet%20de%20neige%20%C3%A0%20Louveciennes%20-%20Alfred%20Sisley.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20110.jpg"
     },
     {
       "id": "Q27954795",
@@ -170,7 +188,9 @@
       "country": "Argentina",
       "lat": -34.583986,
       "lon": -58.39297,
-      "source": "http://www.wikidata.org/entity/Q27954795"
+      "source": "http://www.wikidata.org/entity/Q27954795",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Alfred%20Sisley%20-%20Bords%20de%20Riviere%2C%201874.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20110.jpg"
     },
     {
       "id": "Q27953704",
@@ -187,7 +207,9 @@
       "country": "Argentina",
       "lat": -34.583986,
       "lon": -58.39297,
-      "source": "http://www.wikidata.org/entity/Q27953704"
+      "source": "http://www.wikidata.org/entity/Q27953704",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Modigliani%20-%20Figura%20de%20mujer.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Amedeo%20Modigliani%201918%20restored.jpg"
     },
     {
       "id": "Q27953674",
@@ -204,7 +226,9 @@
       "country": "Argentina",
       "lat": -34.583986,
       "lon": -58.39297,
-      "source": "http://www.wikidata.org/entity/Q27953674"
+      "source": "http://www.wikidata.org/entity/Q27953674",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Modigliani%20-%20Busto%20de%20mulher.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Amedeo%20Modigliani%201918%20restored.jpg"
     },
     {
       "id": "Q27953753",
@@ -221,7 +245,9 @@
       "country": "Argentina",
       "lat": -34.583986,
       "lon": -58.39297,
-      "source": "http://www.wikidata.org/entity/Q27953753"
+      "source": "http://www.wikidata.org/entity/Q27953753",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Modigliani%20-%20Ceroni%2C%20204.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Amedeo%20Modigliani%201918%20restored.jpg"
     },
     {
       "id": "Q27954346",
@@ -238,7 +264,9 @@
       "country": "Argentina",
       "lat": -34.583986,
       "lon": -58.39297,
-      "source": "http://www.wikidata.org/entity/Q27954346"
+      "source": "http://www.wikidata.org/entity/Q27954346",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Berthe%20Morisot%20-%20La%20Coiffure%2C%201894.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Morisot%20berthe%20photo.jpg"
     },
     {
       "id": "Q21567482",
@@ -255,7 +283,9 @@
       "country": "Argentina",
       "lat": -34.583986,
       "lon": -58.39297,
-      "source": "http://www.wikidata.org/entity/Q21567482"
+      "source": "http://www.wikidata.org/entity/Q21567482",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Pissarro%20-%20Prairies%20du%20Valhermeil%20pres%20Pantoise.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg"
     },
     {
       "id": "Q21705999",
@@ -272,7 +302,9 @@
       "country": "Argentina",
       "lat": -34.583986,
       "lon": -58.39297,
-      "source": "http://www.wikidata.org/entity/Q21705999"
+      "source": "http://www.wikidata.org/entity/Q21705999",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Pissarro%20-%20Femme%20aux%20champs%2C%201882.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg"
     },
     {
       "id": "Q21552842",
@@ -289,7 +321,9 @@
       "country": "Argentina",
       "lat": -34.583986,
       "lon": -58.39297,
-      "source": "http://www.wikidata.org/entity/Q21552842"
+      "source": "http://www.wikidata.org/entity/Q21552842",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Pissarro%20-%20Chemin%20a%20L%27Hermitage%2C%201874.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg"
     },
     {
       "id": "Q27953819",
@@ -306,7 +340,9 @@
       "country": "Argentina",
       "lat": -34.583986,
       "lon": -58.39297,
-      "source": "http://www.wikidata.org/entity/Q27953819"
+      "source": "http://www.wikidata.org/entity/Q27953819",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Monet%20Seine.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%201899%20Nadar%20crop.jpg"
     },
     {
       "id": "Q27953870",
@@ -323,7 +359,9 @@
       "country": "Argentina",
       "lat": -34.583986,
       "lon": -58.39297,
-      "source": "http://www.wikidata.org/entity/Q27953870"
+      "source": "http://www.wikidata.org/entity/Q27953870",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Le%20Pont%20d%60%20Argenteuil%20-%20Claude%20Monet.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%201899%20Nadar%20crop.jpg"
     },
     {
       "id": "Q27954675",
@@ -340,7 +378,9 @@
       "country": "Argentina",
       "lat": -34.583986,
       "lon": -58.39297,
-      "source": "http://www.wikidata.org/entity/Q27954675"
+      "source": "http://www.wikidata.org/entity/Q27954675",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Composici%C3%B3n%20con%20reloj%2C%20Diego%20Rivera%2C%201914.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Rivera%20-%20Google%20Art%20Project%20%28cropped%29.jpg"
     },
     {
       "id": "Q27950725",
@@ -357,7 +397,9 @@
       "country": "Argentina",
       "lat": -34.583986,
       "lon": -58.39297,
-      "source": "http://www.wikidata.org/entity/Q27950725"
+      "source": "http://www.wikidata.org/entity/Q27950725",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Danseuse%20en%20blanc%20-%20Edgar%20Degas.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20self%20portrait%201855FXD.jpg"
     },
     {
       "id": "Q27950720",
@@ -374,7 +416,9 @@
       "country": "Argentina",
       "lat": -34.583986,
       "lon": -58.39297,
-      "source": "http://www.wikidata.org/entity/Q27950720"
+      "source": "http://www.wikidata.org/entity/Q27950720",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Arlequin%20danse%20-%20Edgar%20Degas.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20self%20portrait%201855FXD.jpg"
     },
     {
       "id": "Q27950719",
@@ -391,7 +435,9 @@
       "country": "Argentina",
       "lat": -34.583986,
       "lon": -58.39297,
-      "source": "http://www.wikidata.org/entity/Q27950719"
+      "source": "http://www.wikidata.org/entity/Q27950719",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Retrato%20de%20Diego%20Martelli%20-%20Edgar%20Degas.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20self%20portrait%201855FXD.jpg"
     },
     {
       "id": "Q27950727",
@@ -408,7 +454,9 @@
       "country": "Argentina",
       "lat": -34.583986,
       "lon": -58.39297,
-      "source": "http://www.wikidata.org/entity/Q27950727"
+      "source": "http://www.wikidata.org/entity/Q27950727",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Danseuse%20debout%20-%20Edgar%20Degas.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20self%20portrait%201855FXD.jpg"
     },
     {
       "id": "Q27950721",
@@ -425,7 +473,9 @@
       "country": "Argentina",
       "lat": -34.583986,
       "lon": -58.39297,
-      "source": "http://www.wikidata.org/entity/Q27950721"
+      "source": "http://www.wikidata.org/entity/Q27950721",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20-%20Deux%20danseuses%20jaunes%20et%20roses%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20self%20portrait%201855FXD.jpg"
     },
     {
       "id": "Q27950723",
@@ -442,7 +492,9 @@
       "country": "Argentina",
       "lat": -34.583986,
       "lon": -58.39297,
-      "source": "http://www.wikidata.org/entity/Q27950723"
+      "source": "http://www.wikidata.org/entity/Q27950723",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20Toilette%20apres%20le%20bain%20-%20Edgar%20Degas.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20self%20portrait%201855FXD.jpg"
     },
     {
       "id": "Q27950726",
@@ -459,7 +511,9 @@
       "country": "Argentina",
       "lat": -34.583986,
       "lon": -58.39297,
-      "source": "http://www.wikidata.org/entity/Q27950726"
+      "source": "http://www.wikidata.org/entity/Q27950726",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Preparatifs%20de%20Ballet%20-%20Edgar%20Degas.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20self%20portrait%201855FXD.jpg"
     },
     {
       "id": "Q3088614",
@@ -476,7 +530,9 @@
       "country": "Argentina",
       "lat": -34.583986,
       "lon": -58.39297,
-      "source": "http://www.wikidata.org/entity/Q3088614"
+      "source": "http://www.wikidata.org/entity/Q3088614",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Edouard%20Manet%20Die%20ueberraschte%20Nymphe.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Manet%2C%20en%20buste%2C%20de%20face%20-%20Nadar.jpg"
     },
     {
       "id": "Q27951330",
@@ -493,7 +549,9 @@
       "country": "Argentina",
       "lat": -34.583986,
       "lon": -58.39297,
-      "source": "http://www.wikidata.org/entity/Q27951330"
+      "source": "http://www.wikidata.org/entity/Q27951330",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Manet%2C%20%C3%89douard%20-%20Portrait%20d%27Ernest%20Hosched%C3%A9%20et%20sa%20fille%20Marthe%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Manet%2C%20en%20buste%2C%20de%20face%20-%20Nadar.jpg"
     },
     {
       "id": "Q27955120",
@@ -510,7 +568,9 @@
       "country": "Argentina",
       "lat": -34.583986,
       "lon": -58.39297,
-      "source": "http://www.wikidata.org/entity/Q27955120"
+      "source": "http://www.wikidata.org/entity/Q27955120",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Femme%20en%20rouge%2C%20dos%20%C3%A0%20la%20fen%C3%AAtre%20-%20%C3%89douard%20Vuillard.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Self-Portrait%2C%20Aged%2021%20A21192.jpg"
     },
     {
       "id": "Q27951124",
@@ -527,7 +587,9 @@
       "country": "Argentina",
       "lat": -34.583986,
       "lon": -58.39297,
-      "source": "http://www.wikidata.org/entity/Q27951124"
+      "source": "http://www.wikidata.org/entity/Q27951124",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Greco%20-%20Jes%C3%BAs%20en%20el%20Huerto%20de%20los%20Olivos%2C%201600-1607.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Greco%20-%20Portrait%20of%20a%20Man%20-%20WGA10554.jpg"
     },
     {
       "id": "Q27955286",
@@ -544,7 +606,9 @@
       "country": "Argentina",
       "lat": -34.583986,
       "lon": -58.39297,
-      "source": "http://www.wikidata.org/entity/Q27955286"
+      "source": "http://www.wikidata.org/entity/Q27955286",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/San%20Francisco%20en%20meditaci%C3%B3n%20-%20Tit.%20Ant.%20Monje%20meditando.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Francisco%20de%20Zurbar%C3%A1n%20autoportrait.jpg"
     },
     {
       "id": "Q27951102",
@@ -561,7 +625,9 @@
       "country": "Argentina",
       "lat": -34.583986,
       "lon": -58.39297,
-      "source": "http://www.wikidata.org/entity/Q27951102"
+      "source": "http://www.wikidata.org/entity/Q27951102",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Francisco%20Jos%C3%A9%20de%20GOYA%20Y%20Lucientes%20-%20Aparici%C3%B3n%20de%20San%20Isidoro%20al%20Rey%20Fernando%20el%20Santo%20ante%20los%20muros%20de%20Sevilla%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Vicente%20L%C3%B3pez%20Porta%C3%B1a%20-%20el%20pintor%20Francisco%20de%20Goya.jpg"
     },
     {
       "id": "Q27951106",
@@ -578,7 +644,9 @@
       "country": "Argentina",
       "lat": -34.583986,
       "lon": -58.39297,
-      "source": "http://www.wikidata.org/entity/Q27951106"
+      "source": "http://www.wikidata.org/entity/Q27951106",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Incendio%20de%20un%20hospital%20-%20Francisco%20de%20Goya.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Vicente%20L%C3%B3pez%20Porta%C3%B1a%20-%20el%20pintor%20Francisco%20de%20Goya.jpg"
     },
     {
       "id": "Q27951108",
@@ -595,7 +663,9 @@
       "country": "Argentina",
       "lat": -34.583986,
       "lon": -58.39297,
-      "source": "http://www.wikidata.org/entity/Q27951108"
+      "source": "http://www.wikidata.org/entity/Q27951108",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Fiesta%20popular%20bajo%20un%20puente%20-%20Francisco%20Jos%C3%A9%20de%20Goya%20y%20Lucientes.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Vicente%20L%C3%B3pez%20Porta%C3%B1a%20-%20el%20pintor%20Francisco%20de%20Goya.jpg"
     },
     {
       "id": "Q27951107",
@@ -612,10 +682,12 @@
       "country": "Argentina",
       "lat": -34.583986,
       "lon": -58.39297,
-      "source": "http://www.wikidata.org/entity/Q27951107"
+      "source": "http://www.wikidata.org/entity/Q27951107",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Escena%20de%20disciplinantes%2C%20Francisco%20de%20Goya.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Vicente%20L%C3%B3pez%20Porta%C3%B1a%20-%20el%20pintor%20Francisco%20de%20Goya.jpg"
     },
     {
-      "id": "Q114397698",
+      "id": "Q114800247",
       "artistId": "francisco-goya",
       "artistName": "Francisco Goya",
       "reviewStatus": "generated",
@@ -629,7 +701,9 @@
       "country": "Argentina",
       "lat": -34.583986,
       "lon": -58.39297,
-      "source": "http://www.wikidata.org/entity/Q114397698"
+      "source": "http://www.wikidata.org/entity/Q114800247",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Escena%20de%20bandidos%20por%20Francisco%20de%20Goya.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Vicente%20L%C3%B3pez%20Porta%C3%B1a%20-%20el%20pintor%20Francisco%20de%20Goya.jpg"
     },
     {
       "id": "Q27951105",
@@ -646,7 +720,9 @@
       "country": "Argentina",
       "lat": -34.583986,
       "lon": -58.39297,
-      "source": "http://www.wikidata.org/entity/Q27951105"
+      "source": "http://www.wikidata.org/entity/Q27951105",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Escena%20de%20guerra%20-%20Francisco%20de%20Goya.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Vicente%20L%C3%B3pez%20Porta%C3%B1a%20-%20el%20pintor%20Francisco%20de%20Goya.jpg"
     },
     {
       "id": "Q27954900",
@@ -663,7 +739,9 @@
       "country": "Argentina",
       "lat": -34.583986,
       "lon": -58.39297,
-      "source": "http://www.wikidata.org/entity/Q27954900"
+      "source": "http://www.wikidata.org/entity/Q27954900",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sacrificio%20de%20Melquisedec.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Tiepolo%2C%20Giovanni%20Battista%20-%20Fresken%20Treppenhaus%20des%20W%C3%BCrzburger%20Residenzschlosses%2C%20Szenen%20zur%20Apotheose%20des%20F%C3%BCrstbischofs%2C%20Detail%20Giovanni%20Battista%20Tiepolo%20-%201750-1753.jpg"
     },
     {
       "id": "Q27954897",
@@ -680,7 +758,9 @@
       "country": "Argentina",
       "lat": -34.583986,
       "lon": -58.39297,
-      "source": "http://www.wikidata.org/entity/Q27954897"
+      "source": "http://www.wikidata.org/entity/Q27954897",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Giovanni%20Battista%20Tiepolo%20-%20Los%20hebreos%20recogiendo%20el%20man%C3%A1%20en%20el%20desierto%20%28boceto%29%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Tiepolo%2C%20Giovanni%20Battista%20-%20Fresken%20Treppenhaus%20des%20W%C3%BCrzburger%20Residenzschlosses%2C%20Szenen%20zur%20Apotheose%20des%20F%C3%BCrstbischofs%2C%20Detail%20Giovanni%20Battista%20Tiepolo%20-%201750-1753.jpg"
     },
     {
       "id": "Q27950671",
@@ -697,24 +777,9 @@
       "country": "Argentina",
       "lat": -34.583986,
       "lon": -58.39297,
-      "source": "http://www.wikidata.org/entity/Q27950671"
-    },
-    {
-      "id": "Q27950668",
-      "artistId": "gustave-courbet",
-      "artistName": "Gustave Courbet",
-      "reviewStatus": "generated",
-      "title": "Untitled record",
-      "date": "Date unknown",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "national-museum-of-fine-arts-argentina-buenos-aires",
-      "location": "National Museum of Fine Arts, Argentina",
-      "city": "Buenos Aires",
-      "country": "Argentina",
-      "lat": -34.583986,
-      "lon": -58.39297,
-      "source": "http://www.wikidata.org/entity/Q27950668"
+      "source": "http://www.wikidata.org/entity/Q27950671",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Julieta%20Courbet%20a%20la%20edad%20de%20diez%20a%C3%B1os%20-%20Gustave%20Courbet.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustave%20Courbet%2C%20photograph%20Atelier%20Nadar%2C%20c.%201860s.jpg"
     },
     {
       "id": "Q27950673",
@@ -731,7 +796,28 @@
       "country": "Argentina",
       "lat": -34.583986,
       "lon": -58.39297,
-      "source": "http://www.wikidata.org/entity/Q27950673"
+      "source": "http://www.wikidata.org/entity/Q27950673",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rocas%20-%20Gustave%20Courbet.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustave%20Courbet%2C%20photograph%20Atelier%20Nadar%2C%20c.%201860s.jpg"
+    },
+    {
+      "id": "Q27950668",
+      "artistId": "gustave-courbet",
+      "artistName": "Gustave Courbet",
+      "reviewStatus": "generated",
+      "title": "Untitled record",
+      "date": "Date unknown",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "national-museum-of-fine-arts-argentina-buenos-aires",
+      "location": "National Museum of Fine Arts, Argentina",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "lat": -34.583986,
+      "lon": -58.39297,
+      "source": "http://www.wikidata.org/entity/Q27950668",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mer%20Orageuse%20-%20Gustave%20Courbet.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustave%20Courbet%2C%20photograph%20Atelier%20Nadar%2C%20c.%201860s.jpg"
     },
     {
       "id": "Q27950672",
@@ -748,7 +834,9 @@
       "country": "Argentina",
       "lat": -34.583986,
       "lon": -58.39297,
-      "source": "http://www.wikidata.org/entity/Q27950672"
+      "source": "http://www.wikidata.org/entity/Q27950672",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Marina%20-%20Gustave%20Courbet.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustave%20Courbet%2C%20photograph%20Atelier%20Nadar%2C%20c.%201860s.jpg"
     },
     {
       "id": "Q27954929",
@@ -765,7 +853,9 @@
       "country": "Argentina",
       "lat": -34.583986,
       "lon": -58.39297,
-      "source": "http://www.wikidata.org/entity/Q27954929"
+      "source": "http://www.wikidata.org/entity/Q27954929",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Toulouse-Lautrec%2C%20Henri%20de%20-%20Portrait%20de%20Suzanne%20Valadon%20%28Madame%20Suzanne%20Valadon%2C%20artiste%20peintre%29%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Photolautrec.jpg"
     },
     {
       "id": "Q27954931",
@@ -782,7 +872,9 @@
       "country": "Argentina",
       "lat": -34.583986,
       "lon": -58.39297,
-      "source": "http://www.wikidata.org/entity/Q27954931"
+      "source": "http://www.wikidata.org/entity/Q27954931",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Toulouse-Lautrec%20-%20En%20observation%2C%201901.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Photolautrec.jpg"
     },
     {
       "id": "Q27954713",
@@ -799,7 +891,28 @@
       "country": "Argentina",
       "lat": -34.583986,
       "lon": -58.39297,
-      "source": "http://www.wikidata.org/entity/Q27954713"
+      "source": "http://www.wikidata.org/entity/Q27954713",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20du%20p%C3%A8re%20de%20l%27artiste%20-%20Henri%20Rousseau.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg"
+    },
+    {
+      "id": "Q18669871",
+      "artistId": "honore-daumier",
+      "artistName": "Honoré Daumier",
+      "reviewStatus": "generated",
+      "title": "Untitled record",
+      "date": "1900",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "national-museum-of-fine-arts-argentina-buenos-aires",
+      "location": "National Museum of Fine Arts, Argentina",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "lat": -34.583986,
+      "lon": -58.39297,
+      "source": "http://www.wikidata.org/entity/Q18669871",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Honor%C3%A9%20Daumier%20-%20Les%20Amateurs%20d%E2%80%99estampes.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Honore%20Daumier-Nadar.jpg"
     },
     {
       "id": "Q18177859",
@@ -816,10 +929,12 @@
       "country": "Argentina",
       "lat": -34.583986,
       "lon": -58.39297,
-      "source": "http://www.wikidata.org/entity/Q18177859"
+      "source": "http://www.wikidata.org/entity/Q18177859",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Corot%20-%20Ultimos%20rayos%20de%20sol%20tr%C3%A1s%20la%20torre.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste-Camille%20Corot%20c1850.png"
     },
     {
-      "id": "Q18177861",
+      "id": "Q18177860",
       "artistId": "jean-baptiste-camille-corot",
       "artistName": "Jean-Baptiste-Camille Corot",
       "reviewStatus": "generated",
@@ -833,7 +948,9 @@
       "country": "Argentina",
       "lat": -34.583986,
       "lon": -58.39297,
-      "source": "http://www.wikidata.org/entity/Q18177861"
+      "source": "http://www.wikidata.org/entity/Q18177860",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Corot%20-%20Ville%20d%27Avray%20%28Paysage%20et%20figures%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste-Camille%20Corot%20c1850.png"
     },
     {
       "id": "Q18177858",
@@ -850,7 +967,9 @@
       "country": "Argentina",
       "lat": -34.583986,
       "lon": -58.39297,
-      "source": "http://www.wikidata.org/entity/Q18177858"
+      "source": "http://www.wikidata.org/entity/Q18177858",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Corot%20-%20Paysage%20bois%C3%A9%20en%20vue%20d%27un%20village%2C%201860-70.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste-Camille%20Corot%20c1850.png"
     },
     {
       "id": "Q27953612",
@@ -867,7 +986,9 @@
       "country": "Argentina",
       "lat": -34.583986,
       "lon": -58.39297,
-      "source": "http://www.wikidata.org/entity/Q27953612"
+      "source": "http://www.wikidata.org/entity/Q27953612",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Retrato%20de%20Pauline%20Virginie%20-%20Jean-Fran%C3%A7ois%20Millet.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-FrancoisMillet%28Nadar%29.jpg"
     },
     {
       "id": "Q27951197",
@@ -884,7 +1005,9 @@
       "country": "Argentina",
       "lat": -34.583986,
       "lon": -58.39297,
-      "source": "http://www.wikidata.org/entity/Q27951197"
+      "source": "http://www.wikidata.org/entity/Q27951197",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Zeichnung%20zu%20Volks%20by%20K%C3%A4the%20Kollwitz%2C%201921.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg"
     },
     {
       "id": "Q27950676",
@@ -901,7 +1024,9 @@
       "country": "Argentina",
       "lat": -34.583986,
       "lon": -58.39297,
-      "source": "http://www.wikidata.org/entity/Q27950676"
+      "source": "http://www.wikidata.org/entity/Q27950676",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20-%20Crucifixi%C3%B3n%20de%20Cristo%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20d.%20%C3%84.%20063.jpg"
     },
     {
       "id": "Q27950615",
@@ -918,7 +1043,9 @@
       "country": "Argentina",
       "lat": -34.583986,
       "lon": -58.39297,
-      "source": "http://www.wikidata.org/entity/Q27950615"
+      "source": "http://www.wikidata.org/entity/Q27950615",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Shagal%20Choumoff.jpg"
     },
     {
       "id": "Q27950541",
@@ -935,7 +1062,9 @@
       "country": "Argentina",
       "lat": -34.583986,
       "lon": -58.39297,
-      "source": "http://www.wikidata.org/entity/Q27950541"
+      "source": "http://www.wikidata.org/entity/Q27950541",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20matrimonio%20m%C3%ADstico%20de%20Santa%20Catalina%20-%20Paolo%20Caliari%20%28Atribu%C3%ADdo%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Veronese%20-%20AUTORITRATTO%20%282%29%20-%20Museo%20dell%27Ermitage.jpg"
     },
     {
       "id": "Q27951004",
@@ -952,7 +1081,9 @@
       "country": "Argentina",
       "lat": -34.583986,
       "lon": -58.39297,
-      "source": "http://www.wikidata.org/entity/Q27951004"
+      "source": "http://www.wikidata.org/entity/Q27951004",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ba%C3%B1istas%20en%20Breta%C3%B1a%20-%20Paul%20Gauguin.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Gauguin%201891.png"
     },
     {
       "id": "Q27951003",
@@ -969,7 +1100,9 @@
       "country": "Argentina",
       "lat": -34.583986,
       "lon": -58.39297,
-      "source": "http://www.wikidata.org/entity/Q27951003"
+      "source": "http://www.wikidata.org/entity/Q27951003",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gauguin%2C%20Paul%20-%20Vahine%20no%20te%20miti%20%28Femme%20a%20la%20mer%29%20%28Mujer%20del%20mar%29.%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Gauguin%201891.png"
     },
     {
       "id": "Q27951195",
@@ -986,7 +1119,9 @@
       "country": "Argentina",
       "lat": -34.583986,
       "lon": -58.39297,
-      "source": "http://www.wikidata.org/entity/Q27951195"
+      "source": "http://www.wikidata.org/entity/Q27951195",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ruehende%20Schiffe%20by%20Paul%20Klee%2C%201927.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Klee%201911.jpg"
     },
     {
       "id": "Q27954660",
@@ -1003,7 +1138,9 @@
       "country": "Argentina",
       "lat": -34.583986,
       "lon": -58.39297,
-      "source": "http://www.wikidata.org/entity/Q27954660"
+      "source": "http://www.wikidata.org/entity/Q27954660",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Renoir%20-%20Mo%C3%A7a%20com%20chap%C3%A9u%20verde.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre%20Auguste%20Renoir%2C%20uncropped%20image.jpg"
     },
     {
       "id": "Q27954661",
@@ -1020,7 +1157,28 @@
       "country": "Argentina",
       "lat": -34.583986,
       "lon": -58.39297,
-      "source": "http://www.wikidata.org/entity/Q27954661"
+      "source": "http://www.wikidata.org/entity/Q27954661",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Peches%20et%20cerises%20-%20Pierre-Auguste%20Renoir.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre%20Auguste%20Renoir%2C%20uncropped%20image.jpg"
+    },
+    {
+      "id": "Q21531808",
+      "artistId": "rembrandt",
+      "artistName": "Rembrandt",
+      "reviewStatus": "generated",
+      "title": "Young Woman with a Gold Chain",
+      "date": "1634",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "national-museum-of-fine-arts-argentina-buenos-aires",
+      "location": "National Museum of Fine Arts, Argentina",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "lat": -34.583986,
+      "lon": -58.39297,
+      "source": "http://www.wikidata.org/entity/Q21531808",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Harmensz%20van%20Rijn%20REMBRANDT%20y%20Taller%20-%20Retrato%20de%20mujer%20joven%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20van%20Rijn%20-%20Self-Portrait%20-%20Google%20Art%20Project.jpg"
     },
     {
       "id": "Q27950490",
@@ -1037,7 +1195,9 @@
       "country": "Argentina",
       "lat": -34.583986,
       "lon": -58.39297,
-      "source": "http://www.wikidata.org/entity/Q27950490"
+      "source": "http://www.wikidata.org/entity/Q27950490",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Caballos%20pastando%20-%20Marie%20Rosalie%20Bonheur.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Andr%C3%A9%20Adolphe-Eug%C3%A8ne%20Disd%C3%A9ri%20%28French%20-%20%28Rosa%20Bonheur%29%20-%20Google%20Art%20Project.jpg"
     },
     {
       "id": "Q27950492",
@@ -1054,7 +1214,9 @@
       "country": "Argentina",
       "lat": -34.583986,
       "lon": -58.39297,
-      "source": "http://www.wikidata.org/entity/Q27950492"
+      "source": "http://www.wikidata.org/entity/Q27950492",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20trilla%20-%20Marie%20Rosalie%20Bonheur.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Andr%C3%A9%20Adolphe-Eug%C3%A8ne%20Disd%C3%A9ri%20%28French%20-%20%28Rosa%20Bonheur%29%20-%20Google%20Art%20Project.jpg"
     },
     {
       "id": "Q27954679",
@@ -1071,7 +1233,9 @@
       "country": "Argentina",
       "lat": -34.583986,
       "lon": -58.39297,
-      "source": "http://www.wikidata.org/entity/Q27954679"
+      "source": "http://www.wikidata.org/entity/Q27954679",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Martirio%20de%20San%20Pedro.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Tintoretto%20-%20Self-Portrait%20as%20a%20Young%20Man%2C%20ca.%201548%2C%20CAI.103%20%28cropped%29.jpg"
     },
     {
       "id": "Q27954677",
@@ -1088,7 +1252,9 @@
       "country": "Argentina",
       "lat": -34.583986,
       "lon": -58.39297,
-      "source": "http://www.wikidata.org/entity/Q27954677"
+      "source": "http://www.wikidata.org/entity/Q27954677",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Tintoretto%20-%20Natividad%2C%20s.%20XVI.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Tintoretto%20-%20Self-Portrait%20as%20a%20Young%20Man%2C%20ca.%201548%2C%20CAI.103%20%28cropped%29.jpg"
     },
     {
       "id": "Q27954980",
@@ -1105,7 +1271,9 @@
       "country": "Argentina",
       "lat": -34.583986,
       "lon": -58.39297,
-      "source": "http://www.wikidata.org/entity/Q27954980"
+      "source": "http://www.wikidata.org/entity/Q27954980",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Secretario%20-%20Tiziano.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Vecellio%20di%20Gregorio%20Tiziano%20-%20autoritratto.jpg"
     },
     {
       "id": "Q27951187",
@@ -1122,7 +1290,9 @@
       "country": "Argentina",
       "lat": -34.583986,
       "lon": -58.39297,
-      "source": "http://www.wikidata.org/entity/Q27951187"
+      "source": "http://www.wikidata.org/entity/Q27951187",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Kandinsky%20-%20Kreis%20%28Mit%20bruan%29%2C%201929.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Wassily%20kandinsky.jpg"
     },
     {
       "id": "Q104629781",
@@ -1139,7 +1309,9 @@
       "country": "Argentina",
       "lat": -38.010416666,
       "lon": -57.535694444,
-      "source": "http://www.wikidata.org/entity/Q104629781"
+      "source": "http://www.wikidata.org/entity/Q104629781",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Greco%20-%20Wethey%2C%20Cat.%20no.%20258.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Greco%20-%20Portrait%20of%20a%20Man%20-%20WGA10554.jpg"
     },
     {
       "id": "Q19820455",
@@ -1156,7 +1328,9 @@
       "country": "Argentina",
       "lat": -32.9539,
       "lon": -60.6566,
-      "source": "http://www.wikidata.org/entity/Q19820455"
+      "source": "http://www.wikidata.org/entity/Q19820455",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Alfred%20Sisley%20-%20Village%20de%20Saint%20Mamm%C3%A8s%2C%20c.%201898.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20110.jpg"
     },
     {
       "id": "Q55582991",
@@ -1173,7 +1347,9 @@
       "country": "Argentina",
       "lat": -32.9539,
       "lon": -60.6566,
-      "source": "http://www.wikidata.org/entity/Q55582991"
+      "source": "http://www.wikidata.org/entity/Q55582991",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Francisco%20de%20Goya%20%28atribuido%29%20-%20Palomas%20y%20pollos.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Vicente%20L%C3%B3pez%20Porta%C3%B1a%20-%20el%20pintor%20Francisco%20de%20Goya.jpg"
     }
   ]
 }

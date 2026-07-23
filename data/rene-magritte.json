@@ -17,10 +17,11 @@
       "source": "http://www.wikidata.org/entity/Q115902270",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -41,10 +42,11 @@
       "source": "http://www.wikidata.org/entity/Q20268456",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -65,17 +67,18 @@
       "source": "http://www.wikidata.org/entity/Q20263348",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
     {
       "id": "Q20273697",
       "title": "The Eye",
-      "date": "1935",
+      "date": "1932",
       "type": "Painting",
       "attribution": "Accepted",
       "artistId": "rene-magritte",
@@ -89,10 +92,11 @@
       "source": "http://www.wikidata.org/entity/Q20273697",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -113,10 +117,11 @@
       "source": "http://www.wikidata.org/entity/Q62589031",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -137,10 +142,11 @@
       "source": "http://www.wikidata.org/entity/Q7805163",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -152,19 +158,20 @@
       "attribution": "Accepted",
       "artistId": "rene-magritte",
       "artistName": "René Magritte",
-      "locationId": "barber-institute-of-fine-arts-birmingham",
+      "locationId": "barber-institute-of-fine-arts-edgbaston",
       "location": "Barber Institute of Fine Arts",
-      "city": "Birmingham",
+      "city": "Edgbaston",
       "country": "United Kingdom",
       "lat": 52.450331,
       "lon": -1.927827,
       "source": "http://www.wikidata.org/entity/Q80989482",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -185,10 +192,11 @@
       "source": "http://www.wikidata.org/entity/Q30072602",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -209,34 +217,11 @@
       "source": "http://www.wikidata.org/entity/Q30072920",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q30070959",
-      "title": "Untitled record",
-      "date": "1942",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "rene-magritte",
-      "artistName": "René Magritte",
-      "locationId": "bavarian-state-painting-collections-munich",
-      "location": "Bavarian State Painting Collections",
-      "city": "Munich",
-      "country": "Germany",
-      "lat": 48.149583,
-      "lon": 11.571776,
-      "source": "http://www.wikidata.org/entity/Q30070959",
-      "image": "",
-      "externalImage": "",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -257,10 +242,36 @@
       "source": "http://www.wikidata.org/entity/Q29899112",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q62959263",
+      "title": "Untitled record",
+      "date": "1942",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "rene-magritte",
+      "artistName": "René Magritte",
+      "locationId": "bavarian-state-painting-collections-munich",
+      "location": "Bavarian State Painting Collections",
+      "city": "Munich",
+      "country": "Germany",
+      "lat": 48.149583,
+      "lon": 11.571776,
+      "source": "http://www.wikidata.org/entity/Q62959263",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q7836",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -281,10 +292,11 @@
       "source": "http://www.wikidata.org/entity/Q77471560",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -305,10 +317,11 @@
       "source": "http://www.wikidata.org/entity/Q42882017",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -329,10 +342,11 @@
       "source": "http://www.wikidata.org/entity/Q28146274",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -353,10 +367,11 @@
       "source": "http://www.wikidata.org/entity/Q124630705",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -377,10 +392,11 @@
       "source": "http://www.wikidata.org/entity/Q60476836",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -401,10 +417,11 @@
       "source": "http://www.wikidata.org/entity/Q60476845",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -425,10 +442,11 @@
       "source": "http://www.wikidata.org/entity/Q75425951",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -449,10 +467,11 @@
       "source": "http://www.wikidata.org/entity/Q75125447",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -473,10 +492,11 @@
       "source": "http://www.wikidata.org/entity/Q64620334",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -497,10 +517,11 @@
       "source": "http://www.wikidata.org/entity/Q2409478",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -521,10 +542,11 @@
       "source": "http://www.wikidata.org/entity/Q2292041",
       "image": "",
       "externalImage": "http://www.wikidata.org/.well-known/genid/bc27e616b2eec2b9a6eefda6ab7a3a7c",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -545,10 +567,11 @@
       "source": "http://www.wikidata.org/entity/Q64620333",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -569,10 +592,11 @@
       "source": "http://www.wikidata.org/entity/Q64620332",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -593,34 +617,11 @@
       "source": "http://www.wikidata.org/entity/Q79032165",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q29912445",
-      "title": "Untitled record",
-      "date": "1967",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "rene-magritte",
-      "artistName": "René Magritte",
-      "locationId": "cultural-heritage-agency-of-the-netherlands-art-collection-location-un",
-      "location": "Cultural Heritage Agency of the Netherlands Art Collection",
-      "city": "Location unknown",
-      "country": "Country unknown",
-      "lat": 52.038333,
-      "lon": 4.334167,
-      "source": "http://www.wikidata.org/entity/Q29912445",
-      "image": "",
-      "externalImage": "",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -641,10 +642,11 @@
       "source": "http://www.wikidata.org/entity/Q60683937",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -665,106 +667,11 @@
       "source": "http://www.wikidata.org/entity/Q18670023",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q61983479",
-      "title": "Untitled record",
-      "date": "1950",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "rene-magritte",
-      "artistName": "René Magritte",
-      "locationId": "french-community-belgium",
-      "location": "French Community",
-      "city": "Belgium",
-      "country": "Belgium",
-      "lat": 50.846705687,
-      "lon": 4.362086636,
-      "source": "http://www.wikidata.org/entity/Q61983479",
-      "image": "",
-      "externalImage": "",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q61983650",
-      "title": "Untitled record",
-      "date": "1965",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "rene-magritte",
-      "artistName": "René Magritte",
-      "locationId": "french-community-belgium",
-      "location": "French Community",
-      "city": "Belgium",
-      "country": "Belgium",
-      "lat": 50.846705687,
-      "lon": 4.362086636,
-      "source": "http://www.wikidata.org/entity/Q61983650",
-      "image": "",
-      "externalImage": "",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q62039382",
-      "title": "Untitled record",
-      "date": "1927",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "rene-magritte",
-      "artistName": "René Magritte",
-      "locationId": "french-community-belgium",
-      "location": "French Community",
-      "city": "Belgium",
-      "country": "Belgium",
-      "lat": 50.846705687,
-      "lon": 4.362086636,
-      "source": "http://www.wikidata.org/entity/Q62039382",
-      "image": "",
-      "externalImage": "",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q62055837",
-      "title": "Untitled record",
-      "date": "1937",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "rene-magritte",
-      "artistName": "René Magritte",
-      "locationId": "french-community-belgium",
-      "location": "French Community",
-      "city": "Belgium",
-      "country": "Belgium",
-      "lat": 50.846705687,
-      "lon": 4.362086636,
-      "source": "http://www.wikidata.org/entity/Q62055837",
-      "image": "",
-      "externalImage": "",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -785,10 +692,111 @@
       "source": "http://www.wikidata.org/entity/Q62057019",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q62055837",
+      "title": "Untitled record",
+      "date": "1937",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "rene-magritte",
+      "artistName": "René Magritte",
+      "locationId": "french-community-belgium",
+      "location": "French Community",
+      "city": "Belgium",
+      "country": "Belgium",
+      "lat": 50.846705687,
+      "lon": 4.362086636,
+      "source": "http://www.wikidata.org/entity/Q62055837",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q7836",
+        "retrieved": "2026-07-23",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q61983479",
+      "title": "Untitled record",
+      "date": "1950",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "rene-magritte",
+      "artistName": "René Magritte",
+      "locationId": "french-community-belgium",
+      "location": "French Community",
+      "city": "Belgium",
+      "country": "Belgium",
+      "lat": 50.846705687,
+      "lon": 4.362086636,
+      "source": "http://www.wikidata.org/entity/Q61983479",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q7836",
+        "retrieved": "2026-07-23",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q61983650",
+      "title": "Untitled record",
+      "date": "1965",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "rene-magritte",
+      "artistName": "René Magritte",
+      "locationId": "french-community-belgium",
+      "location": "French Community",
+      "city": "Belgium",
+      "country": "Belgium",
+      "lat": 50.846705687,
+      "lon": 4.362086636,
+      "source": "http://www.wikidata.org/entity/Q61983650",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q7836",
+        "retrieved": "2026-07-23",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q62039382",
+      "title": "Untitled record",
+      "date": "1927",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "rene-magritte",
+      "artistName": "René Magritte",
+      "locationId": "french-community-belgium",
+      "location": "French Community",
+      "city": "Belgium",
+      "country": "Belgium",
+      "lat": 50.846705687,
+      "lon": 4.362086636,
+      "source": "http://www.wikidata.org/entity/Q62039382",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q7836",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -809,10 +817,11 @@
       "source": "http://www.wikidata.org/entity/Q62057042",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -833,10 +842,11 @@
       "source": "http://www.wikidata.org/entity/Q21675906",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -857,10 +867,11 @@
       "source": "http://www.wikidata.org/entity/Q115309387",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -881,10 +892,11 @@
       "source": "http://www.wikidata.org/entity/Q124172724",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -905,10 +917,11 @@
       "source": "http://www.wikidata.org/entity/Q124172725",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -929,10 +942,11 @@
       "source": "http://www.wikidata.org/entity/Q76626247",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -947,16 +961,17 @@
       "locationId": "israel-museum-jerusalem",
       "location": "Israel Museum",
       "city": "Jerusalem",
-      "country": "Israel",
+      "country": "Palestine",
       "lat": 31.7725,
       "lon": 35.204166666,
       "source": "http://www.wikidata.org/entity/Q1923232",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -977,10 +992,11 @@
       "source": "http://www.wikidata.org/entity/Q76626861",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1001,10 +1017,11 @@
       "source": "http://www.wikidata.org/entity/Q76630307",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1019,16 +1036,17 @@
       "locationId": "israel-museum-jerusalem",
       "location": "Israel Museum",
       "city": "Jerusalem",
-      "country": "Israel",
+      "country": "Palestine",
       "lat": 31.7725,
       "lon": 35.204166666,
       "source": "http://www.wikidata.org/entity/Q76626535",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1049,10 +1067,11 @@
       "source": "http://www.wikidata.org/entity/Q74592977",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1073,10 +1092,61 @@
       "source": "http://www.wikidata.org/entity/Q62057590",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q131585600",
+      "title": "Untitled record",
+      "date": "1928",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "rene-magritte",
+      "artistName": "René Magritte",
+      "locationId": "kunsthaus-zurich-district-1",
+      "location": "Kunsthaus Zürich",
+      "city": "District 1",
+      "country": "Switzerland",
+      "lat": 47.370277777,
+      "lon": 8.548055555,
+      "source": "http://www.wikidata.org/entity/Q131585600",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q7836",
+        "retrieved": "2026-07-23",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q131585422",
+      "title": "Untitled record",
+      "date": "1956",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "rene-magritte",
+      "artistName": "René Magritte",
+      "locationId": "kunsthaus-zurich-zurich",
+      "location": "Kunsthaus Zürich",
+      "city": "Zurich",
+      "country": "Switzerland",
+      "lat": 47.370277777,
+      "lon": 8.548055555,
+      "source": "http://www.wikidata.org/entity/Q131585422",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q7836",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1097,58 +1167,11 @@
       "source": "http://www.wikidata.org/entity/Q131585604",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q131585600",
-      "title": "Untitled record",
-      "date": "1928",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "rene-magritte",
-      "artistName": "René Magritte",
-      "locationId": "kunsthaus-zurich-zurich",
-      "location": "Kunsthaus Zürich",
-      "city": "Zurich",
-      "country": "Switzerland",
-      "lat": 47.370277777,
-      "lon": 8.548055555,
-      "source": "http://www.wikidata.org/entity/Q131585600",
-      "image": "",
-      "externalImage": "",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q131585422",
-      "title": "Untitled record",
-      "date": "1956",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "rene-magritte",
-      "artistName": "René Magritte",
-      "locationId": "kunsthaus-zurich-district-1",
-      "location": "Kunsthaus Zürich",
-      "city": "District 1",
-      "country": "Switzerland",
-      "lat": 47.370277777,
-      "lon": 8.548055555,
-      "source": "http://www.wikidata.org/entity/Q131585422",
-      "image": "",
-      "externalImage": "",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1169,10 +1192,11 @@
       "source": "http://www.wikidata.org/entity/Q60621514",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1193,10 +1217,11 @@
       "source": "http://www.wikidata.org/entity/Q133822904",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1217,10 +1242,11 @@
       "source": "http://www.wikidata.org/entity/Q61971951",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1241,10 +1267,11 @@
       "source": "http://www.wikidata.org/entity/Q60683835",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1265,10 +1292,11 @@
       "source": "http://www.wikidata.org/entity/Q136748018",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1289,58 +1317,11 @@
       "source": "http://www.wikidata.org/entity/Q136748015",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q61985845",
-      "title": "Untitled record",
-      "date": "1943",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "rene-magritte",
-      "artistName": "René Magritte",
-      "locationId": "liege-fine-arts-museum-liege",
-      "location": "Liege Fine Arts Museum",
-      "city": "Liège",
-      "country": "Belgium",
-      "lat": 50.64623,
-      "lon": 5.58037,
-      "source": "http://www.wikidata.org/entity/Q61985845",
-      "image": "",
-      "externalImage": "",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q61983044",
-      "title": "Untitled record",
-      "date": "1927",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "rene-magritte",
-      "artistName": "René Magritte",
-      "locationId": "liege-fine-arts-museum-liege",
-      "location": "Liege Fine Arts Museum",
-      "city": "Liège",
-      "country": "Belgium",
-      "lat": 50.64623,
-      "lon": 5.58037,
-      "source": "http://www.wikidata.org/entity/Q61983044",
-      "image": "",
-      "externalImage": "",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1361,10 +1342,61 @@
       "source": "http://www.wikidata.org/entity/Q107493326",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q61983044",
+      "title": "Untitled record",
+      "date": "1927",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "rene-magritte",
+      "artistName": "René Magritte",
+      "locationId": "liege-fine-arts-museum-liege",
+      "location": "Liege Fine Arts Museum",
+      "city": "Liège",
+      "country": "Belgium",
+      "lat": 50.64623,
+      "lon": 5.58037,
+      "source": "http://www.wikidata.org/entity/Q61983044",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q7836",
+        "retrieved": "2026-07-23",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q61985845",
+      "title": "Untitled record",
+      "date": "1943",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "rene-magritte",
+      "artistName": "René Magritte",
+      "locationId": "liege-fine-arts-museum-liege",
+      "location": "Liege Fine Arts Museum",
+      "city": "Liège",
+      "country": "Belgium",
+      "lat": 50.64623,
+      "lon": 5.58037,
+      "source": "http://www.wikidata.org/entity/Q61985845",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q7836",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1385,10 +1417,11 @@
       "source": "http://www.wikidata.org/entity/Q3223911",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1409,10 +1442,11 @@
       "source": "http://www.wikidata.org/entity/Q1061035",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Magritte%20treachery.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1433,10 +1467,11 @@
       "source": "http://www.wikidata.org/entity/Q69460555",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1457,10 +1492,11 @@
       "source": "http://www.wikidata.org/entity/Q96216714",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1481,10 +1517,11 @@
       "source": "http://www.wikidata.org/entity/Q663481",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1505,10 +1542,11 @@
       "source": "http://www.wikidata.org/entity/Q60617709",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1529,10 +1567,11 @@
       "source": "http://www.wikidata.org/entity/Q113640872",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1553,10 +1592,11 @@
       "source": "http://www.wikidata.org/entity/Q7747550",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1577,10 +1617,11 @@
       "source": "http://www.wikidata.org/entity/Q7750821",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1601,82 +1642,11 @@
       "source": "http://www.wikidata.org/entity/Q15355687",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q60619567",
-      "title": "Untitled record",
-      "date": "1937",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "rene-magritte",
-      "artistName": "René Magritte",
-      "locationId": "menil-collection-houston",
-      "location": "Menil Collection",
-      "city": "Houston",
-      "country": "United States",
-      "lat": 29.73734,
-      "lon": -95.39851,
-      "source": "http://www.wikidata.org/entity/Q60619567",
-      "image": "",
-      "externalImage": "",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q60617267",
-      "title": "Untitled record",
-      "date": "1966",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "rene-magritte",
-      "artistName": "René Magritte",
-      "locationId": "menil-collection-houston",
-      "location": "Menil Collection",
-      "city": "Houston",
-      "country": "United States",
-      "lat": 29.73734,
-      "lon": -95.39851,
-      "source": "http://www.wikidata.org/entity/Q60617267",
-      "image": "",
-      "externalImage": "",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q60644498",
-      "title": "Untitled record",
-      "date": "1962",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "rene-magritte",
-      "artistName": "René Magritte",
-      "locationId": "menil-collection-houston",
-      "location": "Menil Collection",
-      "city": "Houston",
-      "country": "United States",
-      "lat": 29.73734,
-      "lon": -95.39851,
-      "source": "http://www.wikidata.org/entity/Q60644498",
-      "image": "",
-      "externalImage": "",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1697,10 +1667,11 @@
       "source": "http://www.wikidata.org/entity/Q113997229",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1721,10 +1692,86 @@
       "source": "http://www.wikidata.org/entity/Q113641790",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q113995520",
+      "title": "Untitled record",
+      "date": "1937",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "rene-magritte",
+      "artistName": "René Magritte",
+      "locationId": "menil-collection-houston",
+      "location": "Menil Collection",
+      "city": "Houston",
+      "country": "United States",
+      "lat": 29.73734,
+      "lon": -95.39851,
+      "source": "http://www.wikidata.org/entity/Q113995520",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q7836",
+        "retrieved": "2026-07-23",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q60617267",
+      "title": "Untitled record",
+      "date": "1966",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "rene-magritte",
+      "artistName": "René Magritte",
+      "locationId": "menil-collection-houston",
+      "location": "Menil Collection",
+      "city": "Houston",
+      "country": "United States",
+      "lat": 29.73734,
+      "lon": -95.39851,
+      "source": "http://www.wikidata.org/entity/Q60617267",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q7836",
+        "retrieved": "2026-07-23",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q60644498",
+      "title": "Untitled record",
+      "date": "1962",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "rene-magritte",
+      "artistName": "René Magritte",
+      "locationId": "menil-collection-houston",
+      "location": "Menil Collection",
+      "city": "Houston",
+      "country": "United States",
+      "lat": 29.73734,
+      "lon": -95.39851,
+      "source": "http://www.wikidata.org/entity/Q60644498",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q7836",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1745,10 +1792,11 @@
       "source": "http://www.wikidata.org/entity/Q126119787",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1769,10 +1817,11 @@
       "source": "http://www.wikidata.org/entity/Q20189784",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1793,10 +1842,11 @@
       "source": "http://www.wikidata.org/entity/Q20891069",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1817,10 +1867,11 @@
       "source": "http://www.wikidata.org/entity/Q134430825",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1841,10 +1892,11 @@
       "source": "http://www.wikidata.org/entity/Q56305200",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1865,58 +1917,11 @@
       "source": "http://www.wikidata.org/entity/Q22251569",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q22242154",
-      "title": "Untitled record",
-      "date": "1920",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "rene-magritte",
-      "artistName": "René Magritte",
-      "locationId": "mu-zee-kunstmuseum-aan-zee-ostend",
-      "location": "Mu.ZEE - Kunstmuseum aan Zee",
-      "city": "Ostend",
-      "country": "Belgium",
-      "lat": 51.22561,
-      "lon": 2.91456,
-      "source": "http://www.wikidata.org/entity/Q22242154",
-      "image": "",
-      "externalImage": "",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q123849299",
-      "title": "Untitled record",
-      "date": "1927",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "rene-magritte",
-      "artistName": "René Magritte",
-      "locationId": "mu-zee-kunstmuseum-aan-zee-ostend",
-      "location": "Mu.ZEE - Kunstmuseum aan Zee",
-      "city": "Ostend",
-      "country": "Belgium",
-      "lat": 51.22561,
-      "lon": 2.91456,
-      "source": "http://www.wikidata.org/entity/Q123849299",
-      "image": "",
-      "externalImage": "",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1937,10 +1942,61 @@
       "source": "http://www.wikidata.org/entity/Q123849298",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q22242154",
+      "title": "Untitled record",
+      "date": "1920",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "rene-magritte",
+      "artistName": "René Magritte",
+      "locationId": "mu-zee-kunstmuseum-aan-zee-ostend",
+      "location": "Mu.ZEE - Kunstmuseum aan Zee",
+      "city": "Ostend",
+      "country": "Belgium",
+      "lat": 51.22561,
+      "lon": 2.91456,
+      "source": "http://www.wikidata.org/entity/Q22242154",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q7836",
+        "retrieved": "2026-07-23",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q123849300",
+      "title": "Untitled record",
+      "date": "1927",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "rene-magritte",
+      "artistName": "René Magritte",
+      "locationId": "mu-zee-kunstmuseum-aan-zee-ostend",
+      "location": "Mu.ZEE - Kunstmuseum aan Zee",
+      "city": "Ostend",
+      "country": "Belgium",
+      "lat": 51.22561,
+      "lon": 2.91456,
+      "source": "http://www.wikidata.org/entity/Q123849300",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q7836",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1961,10 +2017,11 @@
       "source": "http://www.wikidata.org/entity/Q123664332",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1985,10 +2042,11 @@
       "source": "http://www.wikidata.org/entity/Q124383959",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2009,10 +2067,11 @@
       "source": "http://www.wikidata.org/entity/Q124383961",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2033,10 +2092,36 @@
       "source": "http://www.wikidata.org/entity/Q131849565",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q62056971",
+      "title": "Untitled record",
+      "date": "1948",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "rene-magritte",
+      "artistName": "René Magritte",
+      "locationId": "musee-des-beaux-arts-de-charleroi-location-unknown",
+      "location": "Musée des beaux-arts de Charleroi",
+      "city": "Location unknown",
+      "country": "Belgium",
+      "lat": 50.412222222,
+      "lon": 4.453083333,
+      "source": "http://www.wikidata.org/entity/Q62056971",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q7836",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2057,10 +2142,11 @@
       "source": "http://www.wikidata.org/entity/Q60323977",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2081,10 +2167,11 @@
       "source": "http://www.wikidata.org/entity/Q60428580",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2105,10 +2192,11 @@
       "source": "http://www.wikidata.org/entity/Q60433952",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2129,15 +2217,16 @@
       "source": "http://www.wikidata.org/entity/Q60150578",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
     {
-      "id": "Q60152777",
+      "id": "Q60152331",
       "title": "Untitled record",
       "date": "1927",
       "type": "Painting",
@@ -2150,61 +2239,14 @@
       "country": "France",
       "lat": 48.86063847,
       "lon": 2.352277186,
-      "source": "http://www.wikidata.org/entity/Q60152777",
+      "source": "http://www.wikidata.org/entity/Q60152331",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q60315444",
-      "title": "Untitled record",
-      "date": "1928",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "rene-magritte",
-      "artistName": "René Magritte",
-      "locationId": "musee-national-d-art-moderne-quartier-saint-merri",
-      "location": "Musée National d'Art Moderne",
-      "city": "Quartier Saint-Merri",
-      "country": "France",
-      "lat": 48.86063847,
-      "lon": 2.352277186,
-      "source": "http://www.wikidata.org/entity/Q60315444",
-      "image": "",
-      "externalImage": "",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q60324052",
-      "title": "Untitled record",
-      "date": "1926",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "rene-magritte",
-      "artistName": "René Magritte",
-      "locationId": "musee-national-d-art-moderne-quartier-saint-merri",
-      "location": "Musée National d'Art Moderne",
-      "city": "Quartier Saint-Merri",
-      "country": "France",
-      "lat": 48.86063847,
-      "lon": 2.352277186,
-      "source": "http://www.wikidata.org/entity/Q60324052",
-      "image": "",
-      "externalImage": "",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2225,10 +2267,61 @@
       "source": "http://www.wikidata.org/entity/Q60431383",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q60324052",
+      "title": "Untitled record",
+      "date": "1926",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "rene-magritte",
+      "artistName": "René Magritte",
+      "locationId": "musee-national-d-art-moderne-quartier-saint-merri",
+      "location": "Musée National d'Art Moderne",
+      "city": "Quartier Saint-Merri",
+      "country": "France",
+      "lat": 48.86063847,
+      "lon": 2.352277186,
+      "source": "http://www.wikidata.org/entity/Q60324052",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q7836",
+        "retrieved": "2026-07-23",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q60315444",
+      "title": "Untitled record",
+      "date": "1928",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "rene-magritte",
+      "artistName": "René Magritte",
+      "locationId": "musee-national-d-art-moderne-quartier-saint-merri",
+      "location": "Musée National d'Art Moderne",
+      "city": "Quartier Saint-Merri",
+      "country": "France",
+      "lat": 48.86063847,
+      "lon": 2.352277186,
+      "source": "http://www.wikidata.org/entity/Q60315444",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q7836",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2249,10 +2342,11 @@
       "source": "http://www.wikidata.org/entity/Q27659027",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2273,10 +2367,11 @@
       "source": "http://www.wikidata.org/entity/Q27659006",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2297,10 +2392,11 @@
       "source": "http://www.wikidata.org/entity/Q19925381",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2321,10 +2417,11 @@
       "source": "http://www.wikidata.org/entity/Q29856164",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2345,10 +2442,11 @@
       "source": "http://www.wikidata.org/entity/Q19924925",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2369,10 +2467,11 @@
       "source": "http://www.wikidata.org/entity/Q2022606",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2393,10 +2492,11 @@
       "source": "http://www.wikidata.org/entity/Q12797191",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2417,10 +2517,36 @@
       "source": "http://www.wikidata.org/entity/Q19926048",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q29910624",
+      "title": "Untitled record",
+      "date": "1939",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "rene-magritte",
+      "artistName": "René Magritte",
+      "locationId": "museum-boijmans-van-beuningen-rotterdam",
+      "location": "Museum Boijmans Van Beuningen",
+      "city": "Rotterdam",
+      "country": "Netherlands",
+      "lat": 51.914215,
+      "lon": 4.473341,
+      "source": "http://www.wikidata.org/entity/Q29910624",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q7836",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2441,17 +2567,18 @@
       "source": "http://www.wikidata.org/entity/Q29910626",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
     {
-      "id": "Q29910701",
+      "id": "Q29912445",
       "title": "Untitled record",
-      "date": "1939",
+      "date": "1967",
       "type": "Painting",
       "attribution": "Accepted",
       "artistId": "rene-magritte",
@@ -2462,13 +2589,14 @@
       "country": "Netherlands",
       "lat": 51.914215,
       "lon": 4.473341,
-      "source": "http://www.wikidata.org/entity/Q29910701",
+      "source": "http://www.wikidata.org/entity/Q29912445",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2489,10 +2617,11 @@
       "source": "http://www.wikidata.org/entity/Q62055542",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2513,10 +2642,11 @@
       "source": "http://www.wikidata.org/entity/Q131585866",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2537,10 +2667,11 @@
       "source": "http://www.wikidata.org/entity/Q133047314",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2561,10 +2692,11 @@
       "source": "http://www.wikidata.org/entity/Q21679904",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2585,10 +2717,11 @@
       "source": "http://www.wikidata.org/entity/Q22252748",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2609,10 +2742,11 @@
       "source": "http://www.wikidata.org/entity/Q28093985",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2633,10 +2767,11 @@
       "source": "http://www.wikidata.org/entity/Q125216549",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2657,10 +2792,11 @@
       "source": "http://www.wikidata.org/entity/Q62041300",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2681,10 +2817,11 @@
       "source": "http://www.wikidata.org/entity/Q3203498",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2705,34 +2842,11 @@
       "source": "http://www.wikidata.org/entity/Q61985340",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q61983490",
-      "title": "Untitled record",
-      "date": "1925",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "rene-magritte",
-      "artistName": "René Magritte",
-      "locationId": "museum-of-ixelles-ixelles",
-      "location": "Museum of Ixelles",
-      "city": "Ixelles",
-      "country": "Belgium",
-      "lat": 50.831611,
-      "lon": 4.372301,
-      "source": "http://www.wikidata.org/entity/Q61983490",
-      "image": "",
-      "externalImage": "",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2753,10 +2867,36 @@
       "source": "http://www.wikidata.org/entity/Q62055799",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q61983490",
+      "title": "Untitled record",
+      "date": "1925",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "rene-magritte",
+      "artistName": "René Magritte",
+      "locationId": "museum-of-ixelles-ixelles",
+      "location": "Museum of Ixelles",
+      "city": "Ixelles",
+      "country": "Belgium",
+      "lat": 50.831611,
+      "lon": 4.372301,
+      "source": "http://www.wikidata.org/entity/Q61983490",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q7836",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2772,15 +2912,16 @@
       "location": "Museum of Modern Art",
       "city": "Manhattan",
       "country": "United States",
-      "lat": 40.761444444,
-      "lon": -73.977611111,
+      "lat": 40.761666666,
+      "lon": -73.9775,
       "source": "http://www.wikidata.org/entity/Q19885207",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2796,15 +2937,16 @@
       "location": "Museum of Modern Art",
       "city": "Manhattan",
       "country": "United States",
-      "lat": 40.761666666,
-      "lon": -73.9775,
+      "lat": 40.761444444,
+      "lon": -73.977611111,
       "source": "http://www.wikidata.org/entity/Q19887265",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2825,10 +2967,11 @@
       "source": "http://www.wikidata.org/entity/Q19883991",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2849,10 +2992,11 @@
       "source": "http://www.wikidata.org/entity/Q19883989",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2873,10 +3017,11 @@
       "source": "http://www.wikidata.org/entity/Q3230453",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2892,15 +3037,16 @@
       "location": "Museum of Modern Art",
       "city": "Manhattan",
       "country": "United States",
-      "lat": 40.761666666,
-      "lon": -73.9775,
+      "lat": 40.761444444,
+      "lon": -73.977611111,
       "source": "http://www.wikidata.org/entity/Q3818801",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2916,15 +3062,16 @@
       "location": "Museum of Modern Art",
       "city": "Manhattan",
       "country": "United States",
-      "lat": 40.761666666,
-      "lon": -73.9775,
+      "lat": 40.761444444,
+      "lon": -73.977611111,
       "source": "http://www.wikidata.org/entity/Q2918824",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2945,10 +3092,11 @@
       "source": "http://www.wikidata.org/entity/Q62055672",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2969,10 +3117,11 @@
       "source": "http://www.wikidata.org/entity/Q115431346",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2993,10 +3142,11 @@
       "source": "http://www.wikidata.org/entity/Q113459787",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3017,10 +3167,11 @@
       "source": "http://www.wikidata.org/entity/Q27955488",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3041,10 +3192,11 @@
       "source": "http://www.wikidata.org/entity/Q27973998",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3065,10 +3217,11 @@
       "source": "http://www.wikidata.org/entity/Q27955521",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3089,10 +3242,11 @@
       "source": "http://www.wikidata.org/entity/Q27955526",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3104,19 +3258,20 @@
       "attribution": "Accepted",
       "artistId": "rene-magritte",
       "artistName": "René Magritte",
-      "locationId": "national-gallery-of-australia-australian-capital-territory",
+      "locationId": "national-gallery-of-australia-canberra",
       "location": "National Gallery of Australia",
-      "city": "Australian Capital Territory",
+      "city": "Canberra",
       "country": "Australia",
       "lat": -35.300277777,
       "lon": 149.136388888,
       "source": "http://www.wikidata.org/entity/Q31195260",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3137,10 +3292,11 @@
       "source": "http://www.wikidata.org/entity/Q4359242",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3161,10 +3317,11 @@
       "source": "http://www.wikidata.org/entity/Q20405508",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3185,34 +3342,11 @@
       "source": "http://www.wikidata.org/entity/Q7731980",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q107450348",
-      "title": "Untitled record",
-      "date": "1928",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "rene-magritte",
-      "artistName": "René Magritte",
-      "locationId": "neue-nationalgalerie-bezirk-mitte",
-      "location": "Neue Nationalgalerie",
-      "city": "Bezirk Mitte",
-      "country": "Germany",
-      "lat": 52.506944444,
-      "lon": 13.367777777,
-      "source": "http://www.wikidata.org/entity/Q107450348",
-      "image": "",
-      "externalImage": "",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3233,17 +3367,18 @@
       "source": "http://www.wikidata.org/entity/Q107450983",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
     {
-      "id": "Q107450981",
+      "id": "Q107450348",
       "title": "Untitled record",
-      "date": "1926",
+      "date": "1928",
       "type": "Painting",
       "attribution": "Accepted",
       "artistId": "rene-magritte",
@@ -3254,13 +3389,14 @@
       "country": "Germany",
       "lat": 52.506944444,
       "lon": 13.367777777,
-      "source": "http://www.wikidata.org/entity/Q107450981",
+      "source": "http://www.wikidata.org/entity/Q107450348",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3281,10 +3417,36 @@
       "source": "http://www.wikidata.org/entity/Q107450980",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q107450981",
+      "title": "Untitled record",
+      "date": "1926",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "rene-magritte",
+      "artistName": "René Magritte",
+      "locationId": "neue-nationalgalerie-bezirk-mitte",
+      "location": "Neue Nationalgalerie",
+      "city": "Bezirk Mitte",
+      "country": "Germany",
+      "lat": 52.506944444,
+      "lon": 13.367777777,
+      "source": "http://www.wikidata.org/entity/Q107450981",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q7836",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3305,10 +3467,11 @@
       "source": "http://www.wikidata.org/entity/Q60618750",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3329,10 +3492,11 @@
       "source": "http://www.wikidata.org/entity/Q134430789",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3353,10 +3517,11 @@
       "source": "http://www.wikidata.org/entity/Q52707966",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3377,34 +3542,36 @@
       "source": "http://www.wikidata.org/entity/Q62035738",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
     {
-      "id": "Q62056971",
-      "title": "Untitled record",
-      "date": "1948",
+      "id": "Q19882743",
+      "title": "Empire of Light",
+      "date": "1954",
       "type": "Painting",
       "attribution": "Accepted",
       "artistId": "rene-magritte",
       "artistName": "René Magritte",
-      "locationId": "palais-des-beaux-arts-de-charleroi-location-unknown",
-      "location": "Palais des Beaux Arts de Charleroi",
-      "city": "Location unknown",
-      "country": "Belgium",
-      "lat": 50.413744,
-      "lon": 4.442806,
-      "source": "http://www.wikidata.org/entity/Q62056971",
+      "locationId": "peggy-guggenheim-collection-venice",
+      "location": "Peggy Guggenheim Collection",
+      "city": "Venice",
+      "country": "Italy",
+      "lat": 45.430821,
+      "lon": 12.331537,
+      "source": "http://www.wikidata.org/entity/Q19882743",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3425,10 +3592,11 @@
       "source": "http://www.wikidata.org/entity/Q2600695",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3444,15 +3612,16 @@
       "location": "Peggy Guggenheim Collection",
       "city": "Venice",
       "country": "Italy",
-      "lat": 45.43083,
-      "lon": 12.33154,
+      "lat": 45.430821,
+      "lon": 12.331537,
       "source": "http://www.wikidata.org/entity/Q19882741",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3473,10 +3642,11 @@
       "source": "http://www.wikidata.org/entity/Q20816604",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3497,10 +3667,11 @@
       "source": "http://www.wikidata.org/entity/Q134430435",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3521,10 +3692,11 @@
       "source": "http://www.wikidata.org/entity/Q134430472",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3545,10 +3717,11 @@
       "source": "http://www.wikidata.org/entity/Q134430454",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3569,58 +3742,11 @@
       "source": "http://www.wikidata.org/entity/Q22043538",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q21647913",
-      "title": "Untitled record",
-      "date": "1930",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "rene-magritte",
-      "artistName": "René Magritte",
-      "locationId": "royal-museum-of-fine-arts-antwerp-antwerp",
-      "location": "Royal Museum of Fine Arts Antwerp",
-      "city": "Antwerp",
-      "country": "Belgium",
-      "lat": 51.208819,
-      "lon": 4.394349,
-      "source": "http://www.wikidata.org/entity/Q21647913",
-      "image": "",
-      "externalImage": "",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q21649078",
-      "title": "Untitled record",
-      "date": "1967",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "rene-magritte",
-      "artistName": "René Magritte",
-      "locationId": "royal-museum-of-fine-arts-antwerp-antwerp",
-      "location": "Royal Museum of Fine Arts Antwerp",
-      "city": "Antwerp",
-      "country": "Belgium",
-      "lat": 51.208819,
-      "lon": 4.394349,
-      "source": "http://www.wikidata.org/entity/Q21649078",
-      "image": "",
-      "externalImage": "",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3641,10 +3767,61 @@
       "source": "http://www.wikidata.org/entity/Q21622209",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q21649078",
+      "title": "Untitled record",
+      "date": "1967",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "rene-magritte",
+      "artistName": "René Magritte",
+      "locationId": "royal-museum-of-fine-arts-antwerp-antwerp",
+      "location": "Royal Museum of Fine Arts Antwerp",
+      "city": "Antwerp",
+      "country": "Belgium",
+      "lat": 51.208819,
+      "lon": 4.394349,
+      "source": "http://www.wikidata.org/entity/Q21649078",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q7836",
+        "retrieved": "2026-07-23",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q21647913",
+      "title": "Untitled record",
+      "date": "1930",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "rene-magritte",
+      "artistName": "René Magritte",
+      "locationId": "royal-museum-of-fine-arts-antwerp-antwerp",
+      "location": "Royal Museum of Fine Arts Antwerp",
+      "city": "Antwerp",
+      "country": "Belgium",
+      "lat": 51.208819,
+      "lon": 4.394349,
+      "source": "http://www.wikidata.org/entity/Q21647913",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q7836",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3665,10 +3842,11 @@
       "source": "http://www.wikidata.org/entity/Q53133903",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3689,130 +3867,11 @@
       "source": "http://www.wikidata.org/entity/Q60683811",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q60643308",
-      "title": "Untitled record",
-      "date": "1948",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "rene-magritte",
-      "artistName": "René Magritte",
-      "locationId": "royal-museums-of-fine-arts-of-belgium-brussels-capital-region",
-      "location": "Royal Museums of Fine Arts of Belgium",
-      "city": "Brussels-Capital Region",
-      "country": "Belgium",
-      "lat": 50.84168,
-      "lon": 4.358238,
-      "source": "http://www.wikidata.org/entity/Q60643308",
-      "image": "",
-      "externalImage": "",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q60683922",
-      "title": "Untitled record",
-      "date": "1936",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "rene-magritte",
-      "artistName": "René Magritte",
-      "locationId": "royal-museums-of-fine-arts-of-belgium-brussels-capital-region",
-      "location": "Royal Museums of Fine Arts of Belgium",
-      "city": "Brussels-Capital Region",
-      "country": "Belgium",
-      "lat": 50.84168,
-      "lon": 4.358238,
-      "source": "http://www.wikidata.org/entity/Q60683922",
-      "image": "",
-      "externalImage": "",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q62055493",
-      "title": "Untitled record",
-      "date": "1927",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "rene-magritte",
-      "artistName": "René Magritte",
-      "locationId": "royal-museums-of-fine-arts-of-belgium-brussels-capital-region",
-      "location": "Royal Museums of Fine Arts of Belgium",
-      "city": "Brussels-Capital Region",
-      "country": "Belgium",
-      "lat": 50.84168,
-      "lon": 4.358238,
-      "source": "http://www.wikidata.org/entity/Q62055493",
-      "image": "",
-      "externalImage": "",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q63242008",
-      "title": "Untitled record",
-      "date": "1962",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "rene-magritte",
-      "artistName": "René Magritte",
-      "locationId": "royal-museums-of-fine-arts-of-belgium-brussels-capital-region",
-      "location": "Royal Museums of Fine Arts of Belgium",
-      "city": "Brussels-Capital Region",
-      "country": "Belgium",
-      "lat": 50.84168,
-      "lon": 4.358238,
-      "source": "http://www.wikidata.org/entity/Q63242008",
-      "image": "",
-      "externalImage": "",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q63213539",
-      "title": "Untitled record",
-      "date": "1929",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "rene-magritte",
-      "artistName": "René Magritte",
-      "locationId": "royal-museums-of-fine-arts-of-belgium-brussels-capital-region",
-      "location": "Royal Museums of Fine Arts of Belgium",
-      "city": "Brussels-Capital Region",
-      "country": "Belgium",
-      "lat": 50.84168,
-      "lon": 4.358238,
-      "source": "http://www.wikidata.org/entity/Q63213539",
-      "image": "",
-      "externalImage": "",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3833,10 +3892,86 @@
       "source": "http://www.wikidata.org/entity/Q63226091",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q63242008",
+      "title": "Untitled record",
+      "date": "1962",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "rene-magritte",
+      "artistName": "René Magritte",
+      "locationId": "royal-museums-of-fine-arts-of-belgium-brussels-capital-region",
+      "location": "Royal Museums of Fine Arts of Belgium",
+      "city": "Brussels-Capital Region",
+      "country": "Belgium",
+      "lat": 50.84168,
+      "lon": 4.358238,
+      "source": "http://www.wikidata.org/entity/Q63242008",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q7836",
+        "retrieved": "2026-07-23",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q63213539",
+      "title": "Untitled record",
+      "date": "1929",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "rene-magritte",
+      "artistName": "René Magritte",
+      "locationId": "royal-museums-of-fine-arts-of-belgium-brussels-capital-region",
+      "location": "Royal Museums of Fine Arts of Belgium",
+      "city": "Brussels-Capital Region",
+      "country": "Belgium",
+      "lat": 50.84168,
+      "lon": 4.358238,
+      "source": "http://www.wikidata.org/entity/Q63213539",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q7836",
+        "retrieved": "2026-07-23",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q63224855",
+      "title": "Untitled record",
+      "date": "1927",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "rene-magritte",
+      "artistName": "René Magritte",
+      "locationId": "royal-museums-of-fine-arts-of-belgium-brussels-capital-region",
+      "location": "Royal Museums of Fine Arts of Belgium",
+      "city": "Brussels-Capital Region",
+      "country": "Belgium",
+      "lat": 50.84168,
+      "lon": 4.358238,
+      "source": "http://www.wikidata.org/entity/Q63224855",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q7836",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3857,10 +3992,61 @@
       "source": "http://www.wikidata.org/entity/Q63213915",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q60644591",
+      "title": "Untitled record",
+      "date": "1948",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "rene-magritte",
+      "artistName": "René Magritte",
+      "locationId": "royal-museums-of-fine-arts-of-belgium-brussels-capital-region",
+      "location": "Royal Museums of Fine Arts of Belgium",
+      "city": "Brussels-Capital Region",
+      "country": "Belgium",
+      "lat": 50.84168,
+      "lon": 4.358238,
+      "source": "http://www.wikidata.org/entity/Q60644591",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q7836",
+        "retrieved": "2026-07-23",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q60683922",
+      "title": "Untitled record",
+      "date": "1936",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "rene-magritte",
+      "artistName": "René Magritte",
+      "locationId": "royal-museums-of-fine-arts-of-belgium-brussels-capital-region",
+      "location": "Royal Museums of Fine Arts of Belgium",
+      "city": "Brussels-Capital Region",
+      "country": "Belgium",
+      "lat": 50.84168,
+      "lon": 4.358238,
+      "source": "http://www.wikidata.org/entity/Q60683922",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q7836",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3881,10 +4067,11 @@
       "source": "http://www.wikidata.org/entity/Q78734761",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3905,10 +4092,11 @@
       "source": "http://www.wikidata.org/entity/Q86856810",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3929,10 +4117,11 @@
       "source": "http://www.wikidata.org/entity/Q50320014",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3953,10 +4142,11 @@
       "source": "http://www.wikidata.org/entity/Q107447902",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3977,10 +4167,11 @@
       "source": "http://www.wikidata.org/entity/Q107447905",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -4001,10 +4192,11 @@
       "source": "http://www.wikidata.org/entity/Q20540627",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -4020,39 +4212,16 @@
       "location": "Smithsonian American Art Museum",
       "city": "Washington, D.C.",
       "country": "United States",
-      "lat": 38.897861,
-      "lon": -77.022942,
+      "lat": 38.897777777,
+      "lon": -77.023333333,
       "source": "http://www.wikidata.org/entity/Q20540630",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q19882743",
-      "title": "Empire of Light",
-      "date": "1954",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "rene-magritte",
-      "artistName": "René Magritte",
-      "locationId": "solomon-r-guggenheim-museum-manhattan",
-      "location": "Solomon R. Guggenheim Museum",
-      "city": "Manhattan",
-      "country": "United States",
-      "lat": 40.783055555,
-      "lon": -73.958888888,
-      "source": "http://www.wikidata.org/entity/Q19882743",
-      "image": "",
-      "externalImage": "",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -4073,10 +4242,11 @@
       "source": "http://www.wikidata.org/entity/Q132621743",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -4097,10 +4267,11 @@
       "source": "http://www.wikidata.org/entity/Q132616720",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -4121,10 +4292,11 @@
       "source": "http://www.wikidata.org/entity/Q104522244",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -4145,10 +4317,11 @@
       "source": "http://www.wikidata.org/entity/Q60617868",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -4169,10 +4342,11 @@
       "source": "http://www.wikidata.org/entity/Q17635049",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -4193,10 +4367,11 @@
       "source": "http://www.wikidata.org/entity/Q79889856",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -4217,10 +4392,11 @@
       "source": "http://www.wikidata.org/entity/Q134430878",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -4241,10 +4417,11 @@
       "source": "http://www.wikidata.org/entity/Q124462830",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -4265,10 +4442,11 @@
       "source": "http://www.wikidata.org/entity/Q134430600",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -4289,10 +4467,11 @@
       "source": "http://www.wikidata.org/entity/Q7763206",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -4313,10 +4492,11 @@
       "source": "http://www.wikidata.org/entity/Q49214596",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -4337,10 +4517,11 @@
       "source": "http://www.wikidata.org/entity/Q49214631",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -4361,10 +4542,11 @@
       "source": "http://www.wikidata.org/entity/Q135417932",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -4385,10 +4567,11 @@
       "source": "http://www.wikidata.org/entity/Q135427170",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q7836",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     }

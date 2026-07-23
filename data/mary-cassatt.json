@@ -17,10 +17,11 @@
       "source": "http://www.wikidata.org/entity/Q20268831",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%20-%20After%20the%20Bullfight%20-%201969.332%20-%20Art%20Institute%20of%20Chicago.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -40,11 +41,12 @@
       "lon": -87.623888888,
       "source": "http://www.wikidata.org/entity/Q20270963",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%20-%20On%20a%20Balcony%20-%201938.18%20-%20Art%20Institute%20of%20Chicago.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%20-%20On%20a%20Balcony%20-%201878-1879%20-%20High%20Res.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -65,10 +67,11 @@
       "source": "http://www.wikidata.org/entity/Q3172226",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%20-%20The%20Child%27s%20Bath%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -89,10 +92,11 @@
       "source": "http://www.wikidata.org/entity/Q124254571",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -113,10 +117,11 @@
       "source": "http://www.wikidata.org/entity/Q124254572",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -137,10 +142,11 @@
       "source": "http://www.wikidata.org/entity/Q123537464",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -161,10 +167,11 @@
       "source": "http://www.wikidata.org/entity/Q123537463",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -185,10 +192,11 @@
       "source": "http://www.wikidata.org/entity/Q123537462",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -209,10 +217,11 @@
       "source": "http://www.wikidata.org/entity/Q28126420",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%20-%20Woman%20with%20Nude%20Boy%20at%20Her%20Left%20-%20BF323%20-%20Barnes%20Foundation.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -224,19 +233,20 @@
       "attribution": "Accepted",
       "artistId": "mary-cassatt",
       "artistName": "Mary Cassatt",
-      "locationId": "barnes-foundation-merion-station",
+      "locationId": "barnes-foundation-philadelphia",
       "location": "Barnes Foundation",
-      "city": "Merion Station",
+      "city": "Philadelphia",
       "country": "United States",
       "lat": 39.960643,
       "lon": -75.172808,
       "source": "http://www.wikidata.org/entity/Q28126419",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -257,10 +267,11 @@
       "source": "http://www.wikidata.org/entity/Q28796904",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%20-%20Woman%20Sitting%20with%20a%20Child%20in%20Her%20Arms%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -281,10 +292,11 @@
       "source": "http://www.wikidata.org/entity/Q18519125",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20an%20Elderly%20Lady%20in%20a%20Bonnet%20-%20Red%20Background%20by%20Mary%20Cassatt.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -305,10 +317,11 @@
       "source": "http://www.wikidata.org/entity/Q106874695",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Barefoot%20Child%20by%20Mary%20Cassatt%2C%201897%2C%20pastel.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -329,10 +342,11 @@
       "source": "http://www.wikidata.org/entity/Q3713900",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Brooklyn%20Museum%20-%20La%20Toilette%20-%20Mary%20Cassatt.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -353,10 +367,11 @@
       "source": "http://www.wikidata.org/entity/Q135114097",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Brooklyn%20Museum%20-%20Woman%20in%20a%20Red%20Bodice%20and%20Her%20Child%20-%20Mary%20Cassatt%20-%20overall.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -377,10 +392,11 @@
       "source": "http://www.wikidata.org/entity/Q74260926",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Stocking%20Mary%20Cassatt.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -401,10 +417,11 @@
       "source": "http://www.wikidata.org/entity/Q42877953",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jeunes%20Femmes%20cueillant%20des%20fruits%2C%20par%20Mary%20Cassatt.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -425,10 +442,11 @@
       "source": "http://www.wikidata.org/entity/Q73190644",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Family%20Painting%20Mary%20Cassatt.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -449,10 +467,11 @@
       "source": "http://www.wikidata.org/entity/Q46952136",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mother%20and%20Child%20by%20Mary%20Cassatt%2C%20Cincinnati%20Art%20Museum.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -473,10 +492,11 @@
       "source": "http://www.wikidata.org/entity/Q116783543",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Child%20with%20Red%20Hat%2C%20Mary%20Cassatt.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -497,10 +517,11 @@
       "source": "http://www.wikidata.org/entity/Q104773595",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Offering%20the%20Panal%20to%20the%20Bullfighter%2C%20Mary%20Cassatt.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -521,10 +542,11 @@
       "source": "http://www.wikidata.org/entity/Q116783531",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%2C%20Portrait%20of%20Mrs.%20Cyrus%20J.%20Lawrence%20with%20her%20Grandson%20R.%20Lawrence%20Oakley%2C%20c.%201898%2C%20Pastel%20on%20tan%20paper.%20Clark%20Art%20Institute%2C%201973.36.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -545,10 +567,11 @@
       "source": "http://www.wikidata.org/entity/Q60781135",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -569,10 +592,11 @@
       "source": "http://www.wikidata.org/entity/Q60760446",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Clevelandart%201941.71.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -593,10 +617,11 @@
       "source": "http://www.wikidata.org/entity/Q60762397",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Clevelandart%201988.36.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -617,10 +642,11 @@
       "source": "http://www.wikidata.org/entity/Q60753230",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Clevelandart%201941.72.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -641,10 +667,11 @@
       "source": "http://www.wikidata.org/entity/Q60755307",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Clevelandart%201941.73.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -665,10 +692,11 @@
       "source": "http://www.wikidata.org/entity/Q60753980",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Clevelandart%201966.176.b.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -689,10 +717,11 @@
       "source": "http://www.wikidata.org/entity/Q98504163",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -713,15 +742,16 @@
       "source": "http://www.wikidata.org/entity/Q123781302",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%28Bemberg%20Foundation%29%20-%20%27Portrait%20of%20a%20Young%20Woman%20in%20a%20White%20Hat%27%20by%20Mary%20Cassatt%20%281879%29%20Oil%20on%20canvas.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
     {
-      "id": "Q65081041",
+      "id": "Q65081081",
       "title": "A Portrait of the Artist's Mother",
       "date": "1889",
       "type": "Painting",
@@ -734,13 +764,14 @@
       "country": "United States",
       "lat": 38.891388888,
       "lon": -77.02,
-      "source": "http://www.wikidata.org/entity/Q65081041",
+      "source": "http://www.wikidata.org/entity/Q65081081",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%2C%20A%20Portrait%20of%20the%20Artist%27s%20Mother%2C%20c.%201889-1890%2C%20NGA%2033348.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%2C%20A%20Portrait%20of%20the%20Artist%27s%20Mother%2C%20c.%201889-1890%2C%20NGA%2036921.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -761,15 +792,16 @@
       "source": "http://www.wikidata.org/entity/Q65081067",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%2C%20Afternoon%20Promenade%2C%20c.%201881%2C%20NGA%2033774.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
     {
-      "id": "Q64960339",
+      "id": "Q74882453",
       "title": "Afternoon Tea Party",
       "date": "1890",
       "type": "Painting",
@@ -782,13 +814,14 @@
       "country": "United States",
       "lat": 38.891388888,
       "lon": -77.02,
-      "source": "http://www.wikidata.org/entity/Q64960339",
+      "source": "http://www.wikidata.org/entity/Q74882453",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%2C%20Afternoon%20Tea%20Party%2C%201890-1891%2C%20NGA%205919.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%2C%20Afternoon%20Tea%20Party%2C%201890-1891%2C%20NGA%2071033.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -809,10 +842,11 @@
       "source": "http://www.wikidata.org/entity/Q65081075",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%2C%20Before%20the%20Fireplace%20%28No.%201%29%2C%20c.%201882%2C%20NGA%2036920.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -833,10 +867,11 @@
       "source": "http://www.wikidata.org/entity/Q20189811",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%2C%20Child%20in%20a%20Straw%20Hat%2C%20c.%201886%2C%20NGA%2061367.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -857,10 +892,11 @@
       "source": "http://www.wikidata.org/entity/Q64607678",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%2C%20Child%20Seated%20on%20a%20Sofa%2C%20c.%201883%2C%20NGA%2052287.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -881,10 +917,11 @@
       "source": "http://www.wikidata.org/entity/Q20189683",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Children%20Playing%20on%20the%20Beach%20A14816.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -905,10 +942,11 @@
       "source": "http://www.wikidata.org/entity/Q46630198",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%20-%20Eddy%20Cassatt%20%28Edward%20Buchanan%20Cassatt%29%20-%202015.41.1%20-%20National%20Gallery%20of%20Art.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -929,10 +967,11 @@
       "source": "http://www.wikidata.org/entity/Q64960357",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%2C%20Gathering%20Fruit%2C%20c.%201893%2C%20NGA%205930.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -953,15 +992,16 @@
       "source": "http://www.wikidata.org/entity/Q3633620",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%20-%20Girl%20Arranging%20Her%20Hair%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
     {
-      "id": "Q64960351",
+      "id": "Q65511206",
       "title": "In the Omnibus",
       "date": "1890",
       "type": "Painting",
@@ -974,13 +1014,14 @@
       "country": "United States",
       "lat": 38.891388888,
       "lon": -77.02,
-      "source": "http://www.wikidata.org/entity/Q64960351",
+      "source": "http://www.wikidata.org/entity/Q65511206",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%2C%20In%20the%20Omnibus%2C%201890-1891%2C%20NGA%205927.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%2C%20In%20the%20Omnibus%2C%201890-1891%2C%20NGA%2046725.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1001,10 +1042,11 @@
       "source": "http://www.wikidata.org/entity/Q64607649",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1025,10 +1067,11 @@
       "source": "http://www.wikidata.org/entity/Q64607651",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%2C%20In%20the%20Omnibus%20%28verso%29%2C%20c.%201891%2C%20NGA%2034695.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1049,10 +1092,11 @@
       "source": "http://www.wikidata.org/entity/Q65081012",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%2C%20In%20the%20Opera%20Box%20%28No.%203%29%2C%20c.%201880%2C%20NGA%2033337.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1073,10 +1117,11 @@
       "source": "http://www.wikidata.org/entity/Q64607623",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%2C%20In%20the%20Opera%20Box%20%28No.%203%29%20%28recto%29%2C%201880%2C%20NGA%2033339.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1097,10 +1142,11 @@
       "source": "http://www.wikidata.org/entity/Q64607625",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%2C%20In%20the%20Opera%20Box%20%28verso%29%2C%201880%2C%20NGA%2033340.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1121,15 +1167,16 @@
       "source": "http://www.wikidata.org/entity/Q65081086",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%2C%20Interior%20-%20On%20the%20Sofa%2C%20c.%201883%2C%20NGA%2036923.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
     {
-      "id": "Q64960319",
+      "id": "Q77011698",
       "title": "Kneeling in an Armchair",
       "date": "1903",
       "type": "Painting",
@@ -1142,13 +1189,14 @@
       "country": "United States",
       "lat": 38.891388888,
       "lon": -77.02,
-      "source": "http://www.wikidata.org/entity/Q64960319",
+      "source": "http://www.wikidata.org/entity/Q77011698",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%2C%20Kneeling%20in%20an%20Armchair%2C%20c.%201903%2C%20NGA%201065.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%2C%20Kneeling%20in%20an%20Armchair%2C%20c.%201903%2C%20NGA%20182466.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1169,10 +1217,11 @@
       "source": "http://www.wikidata.org/entity/Q65081066",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%2C%20Lady%20in%20Black%2C%20in%20a%20Loge%2C%20Facing%20Right%2C%20c.%201880%2C%20NGA%2033773.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1193,10 +1242,11 @@
       "source": "http://www.wikidata.org/entity/Q3640080",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Cassat%20-%20Blue%20Armchair%20NGA.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1217,10 +1267,11 @@
       "source": "http://www.wikidata.org/entity/Q65081073",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%2C%20Lydia%20and%20Her%20Mother%20at%20Tea%2C%201882%2C%20NGA%2036919.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1241,10 +1292,11 @@
       "source": "http://www.wikidata.org/entity/Q65081033",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%2C%20Lydia%20at%20Afternoon%20Tea%2C%201882%2C%20NGA%2033344.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1265,10 +1317,11 @@
       "source": "http://www.wikidata.org/entity/Q64960388",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%2C%20Margot%20in%20a%20Floppy%20Bonnet%20Leaning%20against%20a%20Chair%2C%20c.%201902%2C%20NGA%205944.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1289,15 +1342,16 @@
       "source": "http://www.wikidata.org/entity/Q64607684",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%2C%20Margot%20Leaning%20against%20Reine%27s%20Knee%2C%20c.%201902%2C%20NGA%2074274.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
     {
-      "id": "Q65081035",
+      "id": "Q65511211",
       "title": "Maternal Caress",
       "date": "1890",
       "type": "Painting",
@@ -1310,13 +1364,14 @@
       "country": "United States",
       "lat": 38.891388888,
       "lon": -77.02,
-      "source": "http://www.wikidata.org/entity/Q65081035",
+      "source": "http://www.wikidata.org/entity/Q65511211",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%2C%20Maternal%20Caress%2C%201890-1891%2C%20NGA%2033345.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%2C%20Maternal%20Caress%2C%201890-1891%2C%20NGA%2046730.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1337,10 +1392,11 @@
       "source": "http://www.wikidata.org/entity/Q64960323",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%2C%20Maternal%20Caress%2C%20c.%201891%2C%20NGA%201068.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1361,10 +1417,11 @@
       "source": "http://www.wikidata.org/entity/Q65081029",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%2C%20Mimi%20as%20a%20Brunette%2C%20c.%201889%2C%20NGA%2033342.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1385,15 +1442,16 @@
       "source": "http://www.wikidata.org/entity/Q65081027",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%2C%20Mimi%20Holding%20a%20Japanese%20Fan%2C%20c.%201889%2C%20NGA%2033341.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
     {
-      "id": "Q64960367",
+      "id": "Q65511210",
       "title": "Mother's Kiss",
       "date": "1890",
       "type": "Painting",
@@ -1406,18 +1464,19 @@
       "country": "United States",
       "lat": 38.891388888,
       "lon": -77.02,
-      "source": "http://www.wikidata.org/entity/Q64960367",
+      "source": "http://www.wikidata.org/entity/Q65511210",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%2C%20Mother%27s%20Kiss%2C%201890-1891%2C%20NGA%205934.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%2C%20Mother%27s%20Kiss%2C%201890-1891%2C%20NGA%2046729.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
     {
-      "id": "Q64960343",
+      "id": "Q65362405",
       "title": "Peasant Mother and Child",
       "date": "1894",
       "type": "Painting",
@@ -1430,13 +1489,14 @@
       "country": "United States",
       "lat": 38.891388888,
       "lon": -77.02,
-      "source": "http://www.wikidata.org/entity/Q64960343",
+      "source": "http://www.wikidata.org/entity/Q65362405",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%2C%20Peasant%20Mother%20and%20Child%2C%20c.%201894%2C%20NGA%205922.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%2C%20Peasant%20Mother%20and%20Child%2C%20c.%201894%2C%20NGA%2042956.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1457,10 +1517,11 @@
       "source": "http://www.wikidata.org/entity/Q20189881",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%20-%20Portrait%20of%20an%20Elderly%20Lady%20-%201963.10.7%20-%20National%20Gallery%20of%20Art.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1481,10 +1542,11 @@
       "source": "http://www.wikidata.org/entity/Q75868733",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Madame%20X%20Dressed%20for%20the%20Matinee%20by%20Mary%20Cassatt.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1505,10 +1567,11 @@
       "source": "http://www.wikidata.org/entity/Q38366524",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Reine%20LeFebvre%20Holding%20a%20Nude%20Baby%2C%201902-1903%2C%20by%20Mary%20Cassatt%20%281844-1926%29%20-%20Worcester%20Art%20Museum%20-%20IMG%207611.JPG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1529,10 +1592,11 @@
       "source": "http://www.wikidata.org/entity/Q65081038",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%2C%20Preparing%20Bill%20for%20an%20Outing%2C%20c.%201889%2C%20NGA%2033347.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1553,10 +1617,11 @@
       "source": "http://www.wikidata.org/entity/Q64960377",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%2C%20Quietude%2C%20c.%201891%2C%20NGA%205940.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1577,10 +1642,11 @@
       "source": "http://www.wikidata.org/entity/Q64960381",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%2C%20Reine%20and%20Margot%20Seated%20on%20a%20Sofa%20%28No.%202%29%2C%20c.%201902%2C%20NGA%205941.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1601,10 +1667,11 @@
       "source": "http://www.wikidata.org/entity/Q64960385",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%2C%20Repose%2C%20c.%201890%2C%20NGA%205943.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1625,10 +1692,11 @@
       "source": "http://www.wikidata.org/entity/Q64607680",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%2C%20Sara%20Wearing%20a%20Bonnet%20and%20Coat%2C%20c.%201904-1906%2C%20NGA%2057658.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1649,10 +1717,11 @@
       "source": "http://www.wikidata.org/entity/Q64512835",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%20-%20Simone%20in%20a%20Blue%20Bonnet%20-%2060.095%20-%20Rhode%20Island%20School%20of%20Design%20Museum.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1673,10 +1742,11 @@
       "source": "http://www.wikidata.org/entity/Q64607686",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%2C%20Smiling%20Margot%20Wearing%20a%20Ruffled%20Bonnet%2C%20c.%201902%2C%20NGA%2074275.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1697,10 +1767,11 @@
       "source": "http://www.wikidata.org/entity/Q64607659",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%2C%20Susan%20on%20a%20Balcony%20Holding%20a%20Dog%20%28recto%29%2C%20c.%201883%2C%20NGA%2042952.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1721,10 +1792,11 @@
       "source": "http://www.wikidata.org/entity/Q64607673",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%2C%20Susan%20on%20a%20Balcony%20Holding%20a%20Dog%20%28verso%29%2C%20c.%201883%2C%20NGA%2042953.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1745,10 +1817,11 @@
       "source": "http://www.wikidata.org/entity/Q65575000",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%2C%20Tea%2C%20c.%201890%2C%20NGA%2052898.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1769,10 +1842,11 @@
       "source": "http://www.wikidata.org/entity/Q116783653",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Cassatt%20-%20Telling%20Fortunes%2C%20ca.%201881%2C%202017.13.2.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1793,15 +1867,16 @@
       "source": "http://www.wikidata.org/entity/Q65362432",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%2C%20The%20Banjo%20Lesson%2C%20c.%201893%2C%20NGA%2045972.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
     {
-      "id": "Q64960331",
+      "id": "Q65511204",
       "title": "The Bath",
       "date": "1890",
       "type": "Painting",
@@ -1814,13 +1889,14 @@
       "country": "United States",
       "lat": 38.891388888,
       "lon": -77.02,
-      "source": "http://www.wikidata.org/entity/Q64960331",
+      "source": "http://www.wikidata.org/entity/Q65511204",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%2C%20The%20Bath%2C%201890-1891%2C%20NGA%205914.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%2C%20The%20Bath%2C%201890-1891%2C%20NGA%2046723.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1841,10 +1917,11 @@
       "source": "http://www.wikidata.org/entity/Q64607643",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%2C%20The%20Bath%20%28recto%29%2C%201890-1891%2C%20NGA%2034691.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1865,10 +1942,11 @@
       "source": "http://www.wikidata.org/entity/Q64607645",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%2C%20The%20Bath%20%28verso%29%2C%201890-1891%2C%20NGA%2034692.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1889,10 +1967,11 @@
       "source": "http://www.wikidata.org/entity/Q64607682",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%2C%20The%20Black%20Hat%2C%20c.%201890%2C%20NGA%2066479.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1913,10 +1992,11 @@
       "source": "http://www.wikidata.org/entity/Q15876324",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%20-%20The%20Boating%20Party%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1937,34 +2017,11 @@
       "source": "http://www.wikidata.org/entity/Q64960320",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%2C%20The%20Caress%2C%20c.%201891%2C%20NGA%201066.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q64960340",
-      "title": "The Coiffure",
-      "date": "1890",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "mary-cassatt",
-      "artistName": "Mary Cassatt",
-      "locationId": "collection-unknown-washington-d-c",
-      "location": "Collection unknown",
-      "city": "Washington, D.C.",
-      "country": "United States",
-      "lat": 38.891388888,
-      "lon": -77.02,
-      "source": "http://www.wikidata.org/entity/Q64960340",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%2C%20The%20Coiffure%2C%201890-1891%2C%20NGA%205920.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1985,10 +2042,36 @@
       "source": "http://www.wikidata.org/entity/Q64607647",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%2C%20The%20Coiffure%2C%201891%2C%20NGA%2034693.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q65511213",
+      "title": "The Coiffure",
+      "date": "1890",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "mary-cassatt",
+      "artistName": "Mary Cassatt",
+      "locationId": "collection-unknown-washington-d-c",
+      "location": "Collection unknown",
+      "city": "Washington, D.C.",
+      "country": "United States",
+      "lat": 38.891388888,
+      "lon": -77.02,
+      "source": "http://www.wikidata.org/entity/Q65511213",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%2C%20The%20Coiffure%2C%201890-1891%2C%20NGA%2046732.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q173223",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2009,10 +2092,11 @@
       "source": "http://www.wikidata.org/entity/Q65081071",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%2C%20The%20Corner%20of%20the%20Sofa%20%28No.%203%29%2C%20c.%201879%2C%20NGA%2033775.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2033,15 +2117,16 @@
       "source": "http://www.wikidata.org/entity/Q64960383",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%2C%20The%20Crocheting%20Lesson%2C%20c.%201902%2C%20NGA%205942.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
     {
-      "id": "Q65081010",
+      "id": "Q65511208",
       "title": "The Fitting",
       "date": "1890",
       "type": "Painting",
@@ -2054,13 +2139,14 @@
       "country": "United States",
       "lat": 38.891388888,
       "lon": -77.02,
-      "source": "http://www.wikidata.org/entity/Q65081010",
+      "source": "http://www.wikidata.org/entity/Q65511208",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%2C%20The%20Fitting%2C%201890-1891%2C%20NGA%2033336.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%2C%20The%20Fitting%2C%201890-1891%2C%20NGA%2046727.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2081,10 +2167,11 @@
       "source": "http://www.wikidata.org/entity/Q64607655",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%2C%20The%20Fitting%20%28recto%29%2C%201890-1891%2C%20NGA%2042949.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2105,15 +2192,16 @@
       "source": "http://www.wikidata.org/entity/Q64607657",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%2C%20The%20Fitting%20%28verso%29%2C%201890-1891%2C%20NGA%2042950.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
     {
-      "id": "Q64960372",
+      "id": "Q65511205",
       "title": "The Lamp",
       "date": "1890",
       "type": "Painting",
@@ -2126,18 +2214,19 @@
       "country": "United States",
       "lat": 38.891388888,
       "lon": -77.02,
-      "source": "http://www.wikidata.org/entity/Q64960372",
+      "source": "http://www.wikidata.org/entity/Q65511205",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%2C%20The%20Lamp%2C%201890-1891%2C%20NGA%205937.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%2C%20The%20Lamp%2C%201890-1891%2C%20NGA%2046724.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
     {
-      "id": "Q64960374",
+      "id": "Q77008383",
       "title": "The Letter",
       "date": "1890",
       "type": "Painting",
@@ -2150,13 +2239,14 @@
       "country": "United States",
       "lat": 38.891388888,
       "lon": -77.02,
-      "source": "http://www.wikidata.org/entity/Q64960374",
+      "source": "http://www.wikidata.org/entity/Q77008383",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%2C%20The%20Letter%2C%201890-1891%2C%20NGA%205938.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%2C%20The%20Letter%2C%201890-1891%2C%20NGA%20168826.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2177,10 +2267,11 @@
       "source": "http://www.wikidata.org/entity/Q3766193",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Cassat%20-%20The%20Loge%20NGA.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2201,10 +2292,11 @@
       "source": "http://www.wikidata.org/entity/Q64607627",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%2C%20The%20Loge%20%28recto%29%2C%201882%2C%20NGA%2034594.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2225,10 +2317,11 @@
       "source": "http://www.wikidata.org/entity/Q64607631",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%2C%20The%20Loge%20%28verso%29%2C%201882%2C%20NGA%2034595.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2249,15 +2342,16 @@
       "source": "http://www.wikidata.org/entity/Q64960321",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%2C%20The%20Mirror%2C%20c.%201891%2C%20NGA%201067.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
     {
-      "id": "Q65362402",
+      "id": "Q64607676",
       "title": "The Picture Book (No. 1)",
       "date": "1901",
       "type": "Painting",
@@ -2270,13 +2364,14 @@
       "country": "United States",
       "lat": 38.891388888,
       "lon": -77.02,
-      "source": "http://www.wikidata.org/entity/Q65362402",
+      "source": "http://www.wikidata.org/entity/Q64607676",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%2C%20The%20Picture%20Book%20%28No.%201%29%2C%20c.%201901%2C%20NGA%2042955.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%2C%20The%20Picture%20Book%20%28No.%201%29%2C%20c.%201901%2C%20NGA%2042954.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2297,10 +2392,11 @@
       "source": "http://www.wikidata.org/entity/Q65081065",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2321,10 +2417,11 @@
       "source": "http://www.wikidata.org/entity/Q65362414",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%2C%20Under%20the%20Horse-Chestnut%20Tree%2C%201896-1897%2C%20NGA%2045970.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2345,10 +2442,11 @@
       "source": "http://www.wikidata.org/entity/Q65362400",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%2C%20View%20of%20Venice%2C%201887%2C%20NGA%2042951.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2369,15 +2467,16 @@
       "source": "http://www.wikidata.org/entity/Q65575002",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%2C%20Waiting%2C%20c.%201879%2C%20NGA%2055829.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
     {
-      "id": "Q65081059",
+      "id": "Q65081090",
       "title": "Woman Bathing",
       "date": "1890",
       "type": "Painting",
@@ -2390,13 +2489,14 @@
       "country": "United States",
       "lat": 38.891388888,
       "lon": -77.02,
-      "source": "http://www.wikidata.org/entity/Q65081059",
+      "source": "http://www.wikidata.org/entity/Q65081090",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%2C%20Woman%20Bathing%2C%201890-1891%2C%20NGA%2033350.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%2C%20Woman%20Bathing%2C%201890-1891%2C%20NGA%2037077.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2417,10 +2517,11 @@
       "source": "http://www.wikidata.org/entity/Q20188845",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%20-%20Woman%20with%20a%20Fan%20-%20NGA%201963.10.95%20%281759%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2441,10 +2542,11 @@
       "source": "http://www.wikidata.org/entity/Q20190284",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%2C%20Woman%20with%20a%20Red%20Zinnia%2C%201891%2C%20NGA%2046574.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2465,10 +2567,11 @@
       "source": "http://www.wikidata.org/entity/Q20190957",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mother%20and%20Child%20-%20Cassatt%201905.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2489,10 +2592,11 @@
       "source": "http://www.wikidata.org/entity/Q20189677",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Young%20Girl%20at%20a%20Window.JPG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2513,10 +2617,11 @@
       "source": "http://www.wikidata.org/entity/Q79005115",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2537,10 +2642,11 @@
       "source": "http://www.wikidata.org/entity/Q17003464",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%20-%20Gardner%20%28Cassatt%29%20Held%20by%20his%20Mother%20-%20C-HM%201898-6-29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2561,10 +2667,11 @@
       "source": "http://www.wikidata.org/entity/Q103946454",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%20-%20The%20Reader%20-%20promised%20gift%2039%20the-reader%20-%20Crystal%20Bridges%20Museum%20of%20American%20Art.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2585,10 +2692,11 @@
       "source": "http://www.wikidata.org/entity/Q125391264",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2609,10 +2717,11 @@
       "source": "http://www.wikidata.org/entity/Q67563889",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%27Portrait%20of%20a%20Woman%27%20by%20Mary%20Cassatt%2C%20Dayton%20Art%20Institute.JPG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2633,10 +2742,11 @@
       "source": "http://www.wikidata.org/entity/Q64572506",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%20-%20Alexander%20J.%20Cassatt%20-%201986.60%20-%20Detroit%20Institute%20of%20Arts.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2657,10 +2767,11 @@
       "source": "http://www.wikidata.org/entity/Q64576143",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%20-%20In%20the%20Garden%20-%2022.6%20-%20Detroit%20Institute%20of%20Arts.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2681,10 +2792,11 @@
       "source": "http://www.wikidata.org/entity/Q64575102",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%20-%20Women%20Admiring%20a%20Child%20-%2008.8%20-%20Detroit%20Institute%20of%20Arts.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2705,10 +2817,11 @@
       "source": "http://www.wikidata.org/entity/Q20198230",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%20-%20Mrs.%20Robert%20S.%20Cassatt%2C%20the%20Artist%27s%20Mother%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2729,10 +2842,11 @@
       "source": "http://www.wikidata.org/entity/Q138302110",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%20-%20Lydia%20at%20a%20Tapestry%20Frame%20%281881%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2753,10 +2867,11 @@
       "source": "http://www.wikidata.org/entity/Q86089509",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2777,10 +2892,11 @@
       "source": "http://www.wikidata.org/entity/Q77470390",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2801,10 +2917,11 @@
       "source": "http://www.wikidata.org/entity/Q79289695",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Cassatt%20Mary%20Portrait%20of%20an%20Italian%20Lady%201878.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2825,10 +2942,11 @@
       "source": "http://www.wikidata.org/entity/Q133699409",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2849,10 +2967,11 @@
       "source": "http://www.wikidata.org/entity/Q56243397",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%20-%20Summertime%20-%201894.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2873,10 +2992,11 @@
       "source": "http://www.wikidata.org/entity/Q106874603",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%20-%20Woman%20on%20a%20Striped%20Sofa%20with%20a%20Dog%20-%201961.159%20-%20Fogg%20Museum.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2897,10 +3017,11 @@
       "source": "http://www.wikidata.org/entity/Q84729430",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%20-%20Sara%20Handing%20a%20Toy%20to%20the%20Baby%20-%20Hill-Stead%20Museum.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2921,10 +3042,11 @@
       "source": "http://www.wikidata.org/entity/Q84267914",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%20-%20%27The%20Child%27s%20Caress%27%2C%20oil%20on%20canvas%2C%20c.%201890%2C%20Honolulu%20Academy%20of%20Arts.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2945,10 +3067,11 @@
       "source": "http://www.wikidata.org/entity/Q87842493",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Cassatt%20sisters.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2960,19 +3083,20 @@
       "attribution": "Accepted",
       "artistId": "mary-cassatt",
       "artistName": "Mary Cassatt",
-      "locationId": "kunsthaus-zurich-zurich",
+      "locationId": "kunsthaus-zurich-district-1",
       "location": "Kunsthaus Zürich",
-      "city": "Zurich",
+      "city": "District 1",
       "country": "Switzerland",
       "lat": 47.370277777,
       "lon": 8.548055555,
       "source": "http://www.wikidata.org/entity/Q131585919",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%20-%20Sleepy%20Thomas%20Sucking%20His%20Thumb%20-%2011%20-%20Foundation%20E.G.%20B%C3%BChrle%20Collection.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2993,10 +3117,11 @@
       "source": "http://www.wikidata.org/entity/Q20881318",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%20-%20Mother%20About%20to%20Wash%20Her%20Sleepy%20Child%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3017,10 +3142,11 @@
       "source": "http://www.wikidata.org/entity/Q20879243",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Woman%20and%20Child%20LACMA%20AC1996.164.1.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3041,10 +3167,11 @@
       "source": "http://www.wikidata.org/entity/Q89373229",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%20-%20Mother%20daughter%20and%20son%20-%201913.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3065,10 +3192,11 @@
       "source": "http://www.wikidata.org/entity/Q98224604",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3089,10 +3217,11 @@
       "source": "http://www.wikidata.org/entity/Q98224470",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3113,10 +3242,11 @@
       "source": "http://www.wikidata.org/entity/Q98224448",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3137,10 +3267,11 @@
       "source": "http://www.wikidata.org/entity/Q19925483",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denise%20at%20Her%20Dressing%20Table%20MET%20DP136101.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3161,10 +3292,11 @@
       "source": "http://www.wikidata.org/entity/Q98224592",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3185,10 +3317,11 @@
       "source": "http://www.wikidata.org/entity/Q98224453",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3209,10 +3342,11 @@
       "source": "http://www.wikidata.org/entity/Q126119226",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3233,10 +3367,11 @@
       "source": "http://www.wikidata.org/entity/Q19925426",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lady%20at%20the%20Tea%20Table%20MET%20DT516.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3257,10 +3392,11 @@
       "source": "http://www.wikidata.org/entity/Q17008188",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassat%20-%20Lilacs%20in%20a%20Window%20-%20MMA%201997.207.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3281,10 +3417,11 @@
       "source": "http://www.wikidata.org/entity/Q20170951",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lydia%20Crocheting%20in%20the%20Garden%20at%20Marly%20MET%20DP165250.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3305,39 +3442,16 @@
       "source": "http://www.wikidata.org/entity/Q98224451",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
     {
-      "id": "Q98224591",
-      "title": "Mother and Child",
-      "date": "Date unknown",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "mary-cassatt",
-      "artistName": "Mary Cassatt",
-      "locationId": "metropolitan-museum-of-art-manhattan",
-      "location": "Metropolitan Museum of Art",
-      "city": "Manhattan",
-      "country": "United States",
-      "lat": 40.779444444,
-      "lon": -73.963333333,
-      "source": "http://www.wikidata.org/entity/Q98224591",
-      "image": "",
-      "externalImage": "",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q98224461",
+      "id": "Q98224463",
       "title": "Mother and Child",
       "date": "1914",
       "type": "Painting",
@@ -3350,37 +3464,14 @@
       "country": "United States",
       "lat": 40.779444444,
       "lon": -73.963333333,
-      "source": "http://www.wikidata.org/entity/Q98224461",
+      "source": "http://www.wikidata.org/entity/Q98224463",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q98224466",
-      "title": "Mother and Child",
-      "date": "1906",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "mary-cassatt",
-      "artistName": "Mary Cassatt",
-      "locationId": "metropolitan-museum-of-art-manhattan",
-      "location": "Metropolitan Museum of Art",
-      "city": "Manhattan",
-      "country": "United States",
-      "lat": 40.779444444,
-      "lon": -73.963333333,
-      "source": "http://www.wikidata.org/entity/Q98224466",
-      "image": "",
-      "externalImage": "",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3401,10 +3492,61 @@
       "source": "http://www.wikidata.org/entity/Q98224458",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q98224591",
+      "title": "Mother and Child",
+      "date": "Date unknown",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "mary-cassatt",
+      "artistName": "Mary Cassatt",
+      "locationId": "metropolitan-museum-of-art-manhattan",
+      "location": "Metropolitan Museum of Art",
+      "city": "Manhattan",
+      "country": "United States",
+      "lat": 40.779444444,
+      "lon": -73.963333333,
+      "source": "http://www.wikidata.org/entity/Q98224591",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q173223",
+        "retrieved": "2026-07-23",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q98224466",
+      "title": "Mother and Child",
+      "date": "1906",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "mary-cassatt",
+      "artistName": "Mary Cassatt",
+      "locationId": "metropolitan-museum-of-art-manhattan",
+      "location": "Metropolitan Museum of Art",
+      "city": "Manhattan",
+      "country": "United States",
+      "lat": 40.779444444,
+      "lon": -73.963333333,
+      "source": "http://www.wikidata.org/entity/Q98224466",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q173223",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3425,10 +3567,11 @@
       "source": "http://www.wikidata.org/entity/Q19930620",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mother%20and%20Child%20%28Baby%20Getting%20Up%20from%20His%20Nap%29%20MET%20DT2028.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3449,10 +3592,11 @@
       "source": "http://www.wikidata.org/entity/Q20170935",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Cassat1.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3473,10 +3617,11 @@
       "source": "http://www.wikidata.org/entity/Q19924732",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mother%20and%20Child%20with%20a%20Rose%20Scarf%20MET%20DT7251.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3497,10 +3642,11 @@
       "source": "http://www.wikidata.org/entity/Q83560146",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3521,10 +3667,11 @@
       "source": "http://www.wikidata.org/entity/Q83560148",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3545,10 +3692,11 @@
       "source": "http://www.wikidata.org/entity/Q98224467",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3569,10 +3717,11 @@
       "source": "http://www.wikidata.org/entity/Q83559896",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3593,10 +3742,11 @@
       "source": "http://www.wikidata.org/entity/Q98224468",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3617,10 +3767,11 @@
       "source": "http://www.wikidata.org/entity/Q19925616",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20a%20Young%20Girl%20MET%20DT2026.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3641,10 +3792,11 @@
       "source": "http://www.wikidata.org/entity/Q98225097",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3665,10 +3817,11 @@
       "source": "http://www.wikidata.org/entity/Q98225099",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3689,10 +3842,11 @@
       "source": "http://www.wikidata.org/entity/Q19924628",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%20-%20Portrait%20of%20the%20Artist%20-%20MMA%201975.319.1.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3713,10 +3867,11 @@
       "source": "http://www.wikidata.org/entity/Q19930489",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%20-%20Childhood%20in%20a%20Garden%20-%201901.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3737,10 +3892,11 @@
       "source": "http://www.wikidata.org/entity/Q12859910",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Cassatt%20Mary%20The%20Cup%20of%20Tea%201880.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3761,10 +3917,11 @@
       "source": "http://www.wikidata.org/entity/Q29384752",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Woman%20Bathing%20%28La%20Toilette%29%20MET%20dp16.2.2.R.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3785,10 +3942,11 @@
       "source": "http://www.wikidata.org/entity/Q98224472",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3809,10 +3967,11 @@
       "source": "http://www.wikidata.org/entity/Q98224456",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3833,10 +3992,11 @@
       "source": "http://www.wikidata.org/entity/Q19924621",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Young%20Mother%20Sewing%20MET%20DP139632.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3857,10 +4017,11 @@
       "source": "http://www.wikidata.org/entity/Q130520930",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%2C%20Susan%20assise%20dans%20un%20jardin%2C%20environ%201882-83.png",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3881,10 +4042,11 @@
       "source": "http://www.wikidata.org/entity/Q17491792",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%20-%20Girl%20in%20the%20Garden%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3905,10 +4067,11 @@
       "source": "http://www.wikidata.org/entity/Q67070514",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Louise-Aurore%20Villeboeuf%2C%20enfant.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3929,10 +4092,11 @@
       "source": "http://www.wikidata.org/entity/Q130365648",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3953,10 +4117,11 @@
       "source": "http://www.wikidata.org/entity/Q18822396",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20CASSATT%2C%20Portrait%20de%20fillette.JPG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3977,10 +4142,11 @@
       "source": "http://www.wikidata.org/entity/Q131460416",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassat%20-%20Portrait%20de%20jeune%20femme%2002.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -4001,10 +4167,11 @@
       "source": "http://www.wikidata.org/entity/Q81726378",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%2C%20Automne%2C%20portrait%20de%20Lydia%20Cassatt%2C%201880%2C%20ppp706%2C%20Petit%20Palais.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -4025,10 +4192,11 @@
       "source": "http://www.wikidata.org/entity/Q104445859",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%20-%20Le%20bain%20-%20PPP742%20-%20Mus%C3%A9e%20des%20Beaux-Arts%20de%20la%20ville%20de%20Paris.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -4049,10 +4217,11 @@
       "source": "http://www.wikidata.org/entity/Q104445703",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%20-%20La%20musique%20%28music%20party%29%20-%20PPP3737%20-%20Mus%C3%A9e%20des%20Beaux-Arts%20de%20la%20ville%20de%20Paris.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -4073,10 +4242,11 @@
       "source": "http://www.wikidata.org/entity/Q67609616",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Cassatt%20L%27Enfant%20bleu.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -4097,10 +4267,11 @@
       "source": "http://www.wikidata.org/entity/Q20774729",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Stevenson%20Cassatt%20-%20Caresse%20Maternelle%20-%201970.252%20-%20Museum%20of%20Fine%20Arts.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -4121,10 +4292,11 @@
       "source": "http://www.wikidata.org/entity/Q20774737",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Stevenson%20Cassatt%20-%20Ellen%20Mary%20in%20a%20White%20Coat%20-%201982.630%20-%20Museum%20of%20Fine%20Arts.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -4145,10 +4317,11 @@
       "source": "http://www.wikidata.org/entity/Q3796141",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%20-%20The%20Tea%20-%20MFA%20Boston%2042.178.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -4169,10 +4342,11 @@
       "source": "http://www.wikidata.org/entity/Q20774722",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Stevenson%20Cassatt%20-%20Head%20of%20a%20Young%20Girl%20-%2027.497%20-%20Museum%20of%20Fine%20Arts.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -4193,10 +4367,11 @@
       "source": "http://www.wikidata.org/entity/Q14915747",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Stevenson%20Cassatt%20-%20In%20the%20Loge%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -4217,10 +4392,11 @@
       "source": "http://www.wikidata.org/entity/Q20774726",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%2C%201876%20-%20Mrs%20Duffee%20seated%20on%20a%20striped%20sofa%2C%20reading.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -4241,10 +4417,11 @@
       "source": "http://www.wikidata.org/entity/Q28037114",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%20-%20Children%20in%20a%20Garden%20%28The%20Nurse%29%20-%202001.471%20-%20Museum%20of%20Fine%20Arts%2C%20Houston.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -4265,10 +4442,11 @@
       "source": "http://www.wikidata.org/entity/Q28042441",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%20-%20Susan%20Comforting%20the%20Baby%20-%2074.136%20-%20Museum%20of%20Fine%20Arts%2C%20Houston.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -4289,10 +4467,11 @@
       "source": "http://www.wikidata.org/entity/Q71176888",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%20-%20Woman%20holding%20a%20chil%20-%20Belgrade.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -4313,10 +4492,11 @@
       "source": "http://www.wikidata.org/entity/Q28796404",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Stevenson%20Cassatt%20-%20Mary%20Cassatt%20Self-Portrait%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -4337,10 +4517,11 @@
       "source": "http://www.wikidata.org/entity/Q137698002",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%20-%20Baby%27s%20First%20Caress.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -4361,10 +4542,11 @@
       "source": "http://www.wikidata.org/entity/Q82119515",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mother%20and%20Child%20in%20the%20Conservatory%20by%20Mary%20Cassatt.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -4385,10 +4567,11 @@
       "source": "http://www.wikidata.org/entity/Q133856009",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -4409,10 +4592,11 @@
       "source": "http://www.wikidata.org/entity/Q20860244",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -4433,10 +4617,11 @@
       "source": "http://www.wikidata.org/entity/Q20860249",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -4457,10 +4642,11 @@
       "source": "http://www.wikidata.org/entity/Q113659104",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Stevenson%20Cassatt%2C%20American%20-%20A%20Woman%20and%20a%20Girl%20Driving%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -4472,19 +4658,20 @@
       "attribution": "Accepted",
       "artistId": "mary-cassatt",
       "artistName": "Mary Cassatt",
-      "locationId": "philadelphia-museum-of-art-philadelphia-county",
+      "locationId": "philadelphia-museum-of-art-philadelphia",
       "location": "Philadelphia Museum of Art",
-      "city": "Philadelphia County",
+      "city": "Philadelphia",
       "country": "United States",
       "lat": 39.965833333,
       "lon": -75.181388888,
       "source": "http://www.wikidata.org/entity/Q20808579",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -4505,10 +4692,11 @@
       "source": "http://www.wikidata.org/entity/Q20808580",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -4529,10 +4717,11 @@
       "source": "http://www.wikidata.org/entity/Q20808581",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Maternal%20Caress%20PMA%286%29%20%2815535882880%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -4553,10 +4742,11 @@
       "source": "http://www.wikidata.org/entity/Q20808583",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -4577,10 +4767,11 @@
       "source": "http://www.wikidata.org/entity/Q20808585",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Cassat2.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -4601,10 +4792,11 @@
       "source": "http://www.wikidata.org/entity/Q20808586",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%20-%20Portrait%20of%20Alexander%20J.%20Cassatt%20and%20His%20Son%2C%20Robert%20Kelso%20Cassatt%20-%20PMA%20W1959-1-1.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -4616,19 +4808,20 @@
       "attribution": "Accepted",
       "artistId": "mary-cassatt",
       "artistName": "Mary Cassatt",
-      "locationId": "philadelphia-museum-of-art-philadelphia-county",
+      "locationId": "philadelphia-museum-of-art-philadelphia",
       "location": "Philadelphia Museum of Art",
-      "city": "Philadelphia County",
+      "city": "Philadelphia",
       "country": "United States",
       "lat": 39.965833333,
       "lon": -75.181388888,
       "source": "http://www.wikidata.org/entity/Q15130000",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Stevenson%20Cassatt%2C%20American%20-%20Woman%20with%20a%20Pearl%20Necklace%20in%20a%20Loge%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -4649,10 +4842,11 @@
       "source": "http://www.wikidata.org/entity/Q124759914",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -4673,10 +4867,11 @@
       "source": "http://www.wikidata.org/entity/Q84263726",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Helene%20is%20Restless%2C%20by%20Mary%20Cassatt%2C%20c.%201890%2C%20oil%20on%20canvas%20-%20Portland%20Museum%20of%20Art%20-%20Portland%2C%20Maine%20-%20DSC04283.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -4697,10 +4892,11 @@
       "source": "http://www.wikidata.org/entity/Q106769546",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%20-%20Little%20Girl%20in%20a%20Large%20Red%20Hat%20-%202021-12%20-%20Princeton%20University%20Art%20Museum.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -4721,10 +4917,11 @@
       "source": "http://www.wikidata.org/entity/Q133730666",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -4745,10 +4942,11 @@
       "source": "http://www.wikidata.org/entity/Q86856808",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Simone%20in%20a%20Blue%20Bonnet%20%28No.%201%29%20by%20Mary%20Cassatt%2C%20San%20Diego%20Museum%20of%20Art.JPG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -4760,19 +4958,20 @@
       "attribution": "Accepted",
       "artistId": "mary-cassatt",
       "artistName": "Mary Cassatt",
-      "locationId": "santa-barbara-museum-of-art-santa-barbara",
+      "locationId": "santa-barbara-museum-of-art-santa-barbara-county",
       "location": "Santa Barbara Museum of Art",
-      "city": "Santa Barbara",
+      "city": "Santa Barbara County",
       "country": "United States",
       "lat": 34.4228,
       "lon": -119.703,
       "source": "http://www.wikidata.org/entity/Q70145062",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -4793,10 +4992,11 @@
       "source": "http://www.wikidata.org/entity/Q86382242",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%20-%20Portrait%20of%20Alexander%20J.%20Cassatt%20-%20Seattle%20Art%20Museum.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -4808,19 +5008,20 @@
       "attribution": "Accepted",
       "artistId": "mary-cassatt",
       "artistName": "Mary Cassatt",
-      "locationId": "shelburne-museum-shelburne-village-historic-district",
+      "locationId": "shelburne-museum-shelburne",
       "location": "Shelburne Museum",
-      "city": "Shelburne Village Historic District",
+      "city": "Shelburne",
       "country": "United States",
       "lat": 44.3727,
       "lon": -73.2322,
       "source": "http://www.wikidata.org/entity/Q115898808",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%20-%20Louisine%20Havemeyer.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -4841,10 +5042,11 @@
       "source": "http://www.wikidata.org/entity/Q138007638",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Cassatt%20Electra%20Havemeyer%20and%20mother.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -4856,19 +5058,20 @@
       "attribution": "Accepted",
       "artistId": "mary-cassatt",
       "artistName": "Mary Cassatt",
-      "locationId": "shelburne-museum-shelburne-village-historic-district",
+      "locationId": "shelburne-museum-shelburne",
       "location": "Shelburne Museum",
-      "city": "Shelburne Village Historic District",
+      "city": "Shelburne",
       "country": "United States",
       "lat": 44.3727,
       "lon": -73.2322,
       "source": "http://www.wikidata.org/entity/Q79868521",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%20-%20Louisine%20Havemeyer%20and%20Her%20Daughter%20Electra.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -4889,10 +5092,11 @@
       "source": "http://www.wikidata.org/entity/Q138302118",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Cassatthavemeyer.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -4913,10 +5117,11 @@
       "source": "http://www.wikidata.org/entity/Q20486529",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%20-%20Sara%20in%20a%20Green%20Bonnet%20-%201929.6.11%20-%20Smithsonian%20American%20Art%20Museum.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -4932,15 +5137,16 @@
       "location": "Smithsonian American Art Museum",
       "city": "Washington, D.C.",
       "country": "United States",
-      "lat": 38.897861,
-      "lon": -77.022942,
+      "lat": 38.897777777,
+      "lon": -77.023333333,
       "source": "http://www.wikidata.org/entity/Q20539870",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%20-%20Spanish%20Dancer%20Wearing%20a%20Lace%20Mantilla%20-%201967.40%20-%20Smithsonian%20American%20Art%20Museum.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -4961,10 +5167,11 @@
       "source": "http://www.wikidata.org/entity/Q20486515",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%20-%20The%20Caress%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -4985,10 +5192,11 @@
       "source": "http://www.wikidata.org/entity/Q115612269",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%27The%20Child%27%20by%20Mary%20Cassatt%2C%20Speed%20Art%20Museum.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -5009,10 +5217,11 @@
       "source": "http://www.wikidata.org/entity/Q133854180",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1908%20Cassat%20Mother%20Rose%20Tela%20Aviv%20Museum%20of%20Art%20anagoria.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -5033,10 +5242,11 @@
       "source": "http://www.wikidata.org/entity/Q113957838",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Breakfast%20in%20Bed%20%281897%29%20by%20Mary%20Cassatt%2C%20Huntington%20Library.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -5057,10 +5267,11 @@
       "source": "http://www.wikidata.org/entity/Q113957840",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Cassatt%20Mary%20Fillette%20au%20Grand%20Chapeau%201908.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -5081,10 +5292,11 @@
       "source": "http://www.wikidata.org/entity/Q113957839",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%20-%20Fran%C3%A7oise%20Holding%20a%20Little%20Dog%20-%201906%20-%2026.124.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -5105,10 +5317,11 @@
       "source": "http://www.wikidata.org/entity/Q64547284",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -5124,15 +5337,16 @@
       "location": "Tokyo Fuji Art Museum",
       "city": "Yanomachi",
       "country": "Japan",
-      "lat": 35.686455,
-      "lon": 139.329493,
+      "lat": 35.686304,
+      "lon": 139.329079,
       "source": "http://www.wikidata.org/entity/Q79889805",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -5148,15 +5362,16 @@
       "location": "Tokyo Fuji Art Museum",
       "city": "Yanomachi",
       "country": "Japan",
-      "lat": 35.686455,
-      "lon": 139.329493,
+      "lat": 35.686304,
+      "lon": 139.329079,
       "source": "http://www.wikidata.org/entity/Q79889804",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -5177,10 +5392,11 @@
       "source": "http://www.wikidata.org/entity/Q103299160",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denise%20Holding%20Her%20Child%20-%20Vanderbilt%20Fine%20Arts%20Gallery%20-%201980.017.tif",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -5201,10 +5417,11 @@
       "source": "http://www.wikidata.org/entity/Q103307889",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sara%20Smiling%20-%20Vanderbilt%20Fine%20Arts%20Gallery%20-%201979.0692P.tif",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -5225,10 +5442,11 @@
       "source": "http://www.wikidata.org/entity/Q30150281",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/VMFA%2075-18%20v1%20TF%20x%20conflict-20131119-162201-668x1024.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -5249,10 +5467,11 @@
       "source": "http://www.wikidata.org/entity/Q87367856",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -5273,10 +5492,11 @@
       "source": "http://www.wikidata.org/entity/Q124680559",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -5297,10 +5517,11 @@
       "source": "http://www.wikidata.org/entity/Q116213364",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Cassatt%20Mary%20-%20Sara%20mit%20einem%20dunklen%20Haeubchen.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -5321,10 +5542,11 @@
       "source": "http://www.wikidata.org/entity/Q138001916",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Cassatt%20Mary%20Mother%20and%20Child%201890.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q173223",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     }

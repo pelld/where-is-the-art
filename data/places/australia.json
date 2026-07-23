@@ -15,26 +15,11 @@
       "location": "Art Gallery of South Australia",
       "city": "Adelaide",
       "country": "Australia",
-      "lat": -34.920555555,
-      "lon": 138.603888888,
-      "source": "http://www.wikidata.org/entity/Q28801501"
-    },
-    {
-      "id": "Q66765300",
-      "artistId": "anthony-van-dyck",
-      "artistName": "Anthony van Dyck",
-      "reviewStatus": "generated",
-      "title": "A wooded ridge",
-      "date": "Date unknown",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "art-gallery-of-south-australia-adelaide",
-      "location": "Art Gallery of South Australia",
-      "city": "Adelaide",
-      "country": "Australia",
-      "lat": -34.920555555,
-      "lon": 138.603888888,
-      "source": "http://www.wikidata.org/entity/Q66765300"
+      "lat": -34.920643,
+      "lon": 138.603942,
+      "source": "http://www.wikidata.org/entity/Q28801501",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Anthony%20VAN%20Dyck%20-%20A%20married%20couple%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Anthony%20van%20Dyck%20-%20Self-portrait.jpg"
     },
     {
       "id": "Q96475384",
@@ -51,7 +36,9 @@
       "country": "Australia",
       "lat": -34.920555555,
       "lon": 138.603888888,
-      "source": "http://www.wikidata.org/entity/Q96475384"
+      "source": "http://www.wikidata.org/entity/Q96475384",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro%20-%20Pissarro%20and%20Durand-Ruel%20Snollaerts%2C%20829.png",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg"
     },
     {
       "id": "Q66765298",
@@ -66,9 +53,11 @@
       "location": "Art Gallery of South Australia",
       "city": "Adelaide",
       "country": "Australia",
-      "lat": -34.920555555,
-      "lon": 138.603888888,
-      "source": "http://www.wikidata.org/entity/Q66765298"
+      "lat": -34.920643,
+      "lon": 138.603942,
+      "source": "http://www.wikidata.org/entity/Q66765298",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Vicente%20L%C3%B3pez%20Porta%C3%B1a%20-%20el%20pintor%20Francisco%20de%20Goya.jpg"
     },
     {
       "id": "Q104245405",
@@ -83,9 +72,11 @@
       "location": "Art Gallery of South Australia",
       "city": "Adelaide",
       "country": "Australia",
-      "lat": -34.920643,
-      "lon": 138.603942,
-      "source": "http://www.wikidata.org/entity/Q104245405"
+      "lat": -34.920555555,
+      "lon": 138.603888888,
+      "source": "http://www.wikidata.org/entity/Q104245405",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Self-portrait%20%281900%29.jpg"
     },
     {
       "id": "Q115494734",
@@ -100,9 +91,11 @@
       "location": "Art Gallery of South Australia",
       "city": "Adelaide",
       "country": "Australia",
-      "lat": -34.920555555,
-      "lon": 138.603888888,
-      "source": "http://www.wikidata.org/entity/Q115494734"
+      "lat": -34.920643,
+      "lon": 138.603942,
+      "source": "http://www.wikidata.org/entity/Q115494734",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Turner%20Alnwick%20Castle.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%20auto-retrato.jpg"
     },
     {
       "id": "Q28802989",
@@ -119,7 +112,9 @@
       "country": "Australia",
       "lat": -34.920555555,
       "lon": 138.603888888,
-      "source": "http://www.wikidata.org/entity/Q28802989"
+      "source": "http://www.wikidata.org/entity/Q28802989",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste%20C.%20Corot%20-%20The%20fisherman-%20evening%20effect%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste-Camille%20Corot%20c1850.png"
     },
     {
       "id": "Q96482700",
@@ -134,9 +129,11 @@
       "location": "Art Gallery of South Australia",
       "city": "Adelaide",
       "country": "Australia",
-      "lat": -34.920555555,
-      "lon": 138.603888888,
-      "source": "http://www.wikidata.org/entity/Q96482700"
+      "lat": -34.920643,
+      "lon": 138.603942,
+      "source": "http://www.wikidata.org/entity/Q96482700",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Corot%20-%20Woodland%20glade%2C%20c.1840-45%2C%200.1471.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste-Camille%20Corot%20c1850.png"
     },
     {
       "id": "Q61038660",
@@ -151,9 +148,11 @@
       "location": "Art Gallery of South Australia",
       "city": "Adelaide",
       "country": "Australia",
-      "lat": -34.920643,
-      "lon": 138.603942,
-      "source": "http://www.wikidata.org/entity/Q61038660"
+      "lat": -34.920555555,
+      "lon": 138.603888888,
+      "source": "http://www.wikidata.org/entity/Q61038660",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Katsushika%20Hokusai%20-%20Lost-love%20shell%20%28Katashigai%29%20-%20from%20the%20series%20%27A%20shell-matching%20game%20with%20Genroku%20thirty-six%20linked...%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hokusai%20as%20an%20old%20man.jpg"
     },
     {
       "id": "Q61039078",
@@ -170,7 +169,9 @@
       "country": "Australia",
       "lat": -34.920555555,
       "lon": 138.603888888,
-      "source": "http://www.wikidata.org/entity/Q61039078"
+      "source": "http://www.wikidata.org/entity/Q61039078",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Katsushika%20Hokusai%20-%20Myriad%20grasses%20shell%20%28Chigusagai%29%20-%20from%20the%20series%20%27A%20shell-matching%20game%20with%20Genroku%20thirty-six%20l...%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hokusai%20as%20an%20old%20man.jpg"
     },
     {
       "id": "Q28797223",
@@ -187,7 +188,9 @@
       "country": "Australia",
       "lat": -34.920555555,
       "lon": 138.603888888,
-      "source": "http://www.wikidata.org/entity/Q28797223"
+      "source": "http://www.wikidata.org/entity/Q28797223",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Gainsborough%20-%20Madame%20Lebrun%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Gainsborough%20by%20Thomas%20Gainsborough.jpg"
     },
     {
       "id": "Q104211610",
@@ -204,7 +207,9 @@
       "country": "Australia",
       "lat": -34.920555555,
       "lon": 138.603888888,
-      "source": "http://www.wikidata.org/entity/Q104211610"
+      "source": "http://www.wikidata.org/entity/Q104211610",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Roger%20Fry%20Vanessa%20Bell.jpg"
     },
     {
       "id": "Q104224426",
@@ -221,7 +226,9 @@
       "country": "Australia",
       "lat": -34.920555555,
       "lon": 138.603888888,
-      "source": "http://www.wikidata.org/entity/Q104224426"
+      "source": "http://www.wikidata.org/entity/Q104224426",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Roger%20Fry%20Vanessa%20Bell.jpg"
     },
     {
       "id": "Q104285378",
@@ -238,7 +245,9 @@
       "country": "Australia",
       "lat": -34.920555555,
       "lon": 138.603888888,
-      "source": "http://www.wikidata.org/entity/Q104285378"
+      "source": "http://www.wikidata.org/entity/Q104285378",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Roger%20Fry%20Vanessa%20Bell.jpg"
     },
     {
       "id": "Q28797261",
@@ -255,7 +264,9 @@
       "country": "Australia",
       "lat": -34.920555555,
       "lon": 138.603888888,
-      "source": "http://www.wikidata.org/entity/Q28797261"
+      "source": "http://www.wikidata.org/entity/Q28797261",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Hogarth%20-%20William%20FitzHerbert%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Painter%20and%20His%20Pug%20by%20William%20Hogarth.jpg"
     },
     {
       "id": "Q50713335",
@@ -272,24 +283,9 @@
       "country": "Australia",
       "lat": -35.300277777,
       "lon": 149.136388888,
-      "source": "http://www.wikidata.org/entity/Q50713335"
-    },
-    {
-      "id": "Q28796170",
-      "artistId": "gustave-courbet",
-      "artistName": "Gustave Courbet",
-      "reviewStatus": "generated",
-      "title": "Study for Les Demoiselles des bords de la Seine (Été) on the banks of the Seine (Summer)",
-      "date": "1856",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "national-gallery-of-australia-australian-capital-territory",
-      "location": "National Gallery of Australia",
-      "city": "Australian Capital Territory",
-      "country": "Australia",
-      "lat": -35.300277777,
-      "lon": 149.136388888,
-      "source": "http://www.wikidata.org/entity/Q28796170"
+      "source": "http://www.wikidata.org/entity/Q50713335",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Monet%20-%20Nymph%C3%A9as%20%28Waterlilies%29%2C%20c.1914-17.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%201899%20Nadar%20crop.jpg"
     },
     {
       "id": "Q50706289",
@@ -306,92 +302,9 @@
       "country": "Australia",
       "lat": -35.300277777,
       "lon": 149.136388888,
-      "source": "http://www.wikidata.org/entity/Q50706289"
-    },
-    {
-      "id": "Q50706259",
-      "artistId": "henri-matisse",
-      "artistName": "Henri Matisse",
-      "reviewStatus": "generated",
-      "title": "Océanie, la mer [Oceania the sea]",
-      "date": "1946",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "national-gallery-of-australia-australian-capital-territory",
-      "location": "National Gallery of Australia",
-      "city": "Australian Capital Territory",
-      "country": "Australia",
-      "lat": -35.300277777,
-      "lon": 149.136388888,
-      "source": "http://www.wikidata.org/entity/Q50706259"
-    },
-    {
-      "id": "Q50706224",
-      "artistId": "henri-matisse",
-      "artistName": "Henri Matisse",
-      "reviewStatus": "generated",
-      "title": "Océanie, le ciel [Oceania, the sky]",
-      "date": "1946",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "national-gallery-of-australia-australian-capital-territory",
-      "location": "National Gallery of Australia",
-      "city": "Australian Capital Territory",
-      "country": "Australia",
-      "lat": -35.300277777,
-      "lon": 149.136388888,
-      "source": "http://www.wikidata.org/entity/Q50706224"
-    },
-    {
-      "id": "Q118108051",
-      "artistId": "james-mcneill-whistler",
-      "artistName": "James McNeill Whistler",
-      "reviewStatus": "generated",
-      "title": "Upright Venice",
-      "date": "1850",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "national-gallery-of-australia-australian-capital-territory",
-      "location": "National Gallery of Australia",
-      "city": "Australian Capital Territory",
-      "country": "Australia",
-      "lat": -35.300277777,
-      "lon": 149.136388888,
-      "source": "http://www.wikidata.org/entity/Q118108051"
-    },
-    {
-      "id": "Q50701137",
-      "artistId": "kazimir-malevich",
-      "artistName": "Kazimir Malevich",
-      "reviewStatus": "generated",
-      "title": "Stroyuschiysya dom",
-      "date": "1910",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "national-gallery-of-australia-australian-capital-territory",
-      "location": "National Gallery of Australia",
-      "city": "Australian Capital Territory",
-      "country": "Australia",
-      "lat": -35.300277777,
-      "lon": 149.136388888,
-      "source": "http://www.wikidata.org/entity/Q50701137"
-    },
-    {
-      "id": "Q50643443",
-      "artistId": "paul-cezanne",
-      "artistName": "Paul Cézanne",
-      "reviewStatus": "generated",
-      "title": "L'Après-midi à Naples [Afternoon in Naples]",
-      "date": "1875",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "national-gallery-of-australia-australian-capital-territory",
-      "location": "National Gallery of Australia",
-      "city": "Australian Capital Territory",
-      "country": "Australia",
-      "lat": -35.300277777,
-      "lon": 149.136388888,
-      "source": "http://www.wikidata.org/entity/Q50643443"
+      "source": "http://www.wikidata.org/entity/Q50706289",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Henri%20Matisse%201933%20May%2020.jpg"
     },
     {
       "id": "Q50733457",
@@ -408,7 +321,9 @@
       "country": "Australia",
       "lat": -35.300277777,
       "lon": 149.136388888,
-      "source": "http://www.wikidata.org/entity/Q50733457"
+      "source": "http://www.wikidata.org/entity/Q50733457",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Peter%20Paul%20Rubens%20-%20Portrait%20of%20the%20Artist%20-%20Google%20Art%20Project.jpg"
     },
     {
       "id": "Q50634109",
@@ -425,24 +340,9 @@
       "country": "Australia",
       "lat": -35.300277777,
       "lon": 149.136388888,
-      "source": "http://www.wikidata.org/entity/Q50634109"
-    },
-    {
-      "id": "Q31195260",
-      "artistId": "rene-magritte",
-      "artistName": "René Magritte",
-      "reviewStatus": "generated",
-      "title": "The Lovers",
-      "date": "1928",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "national-gallery-of-australia-australian-capital-territory",
-      "location": "National Gallery of Australia",
-      "city": "Australian Capital Territory",
-      "country": "Australia",
-      "lat": -35.300277777,
-      "lon": 149.136388888,
-      "source": "http://www.wikidata.org/entity/Q31195260"
+      "source": "http://www.wikidata.org/entity/Q50634109",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Self-portrait-1889.jpg"
     },
     {
       "id": "Q124445376",
@@ -459,7 +359,9 @@
       "country": "Australia",
       "lat": -27.4726,
       "lon": 153.01828,
-      "source": "http://www.wikidata.org/entity/Q124445376"
+      "source": "http://www.wikidata.org/entity/Q124445376",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro%20-%20La%20lessive%20%C3%A0%20%C3%89ragny%20%28Washing%20day%20at%20%C3%89ragny%20%29%201901.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg"
     },
     {
       "id": "Q96483562",
@@ -476,7 +378,9 @@
       "country": "Australia",
       "lat": -27.4726,
       "lon": 153.01828,
-      "source": "http://www.wikidata.org/entity/Q96483562"
+      "source": "http://www.wikidata.org/entity/Q96483562",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20self%20portrait%201855FXD.jpg"
     },
     {
       "id": "Q96483565",
@@ -493,7 +397,9 @@
       "country": "Australia",
       "lat": -27.4726,
       "lon": 153.01828,
-      "source": "http://www.wikidata.org/entity/Q96483565"
+      "source": "http://www.wikidata.org/entity/Q96483565",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Vuillard%20-%20Le%20salon%20des%20Hessel%20c.1905.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Self-Portrait%2C%20Aged%2021%20A21192.jpg"
     },
     {
       "id": "Q124445378",
@@ -510,7 +416,9 @@
       "country": "Australia",
       "lat": -27.4726,
       "lon": 153.01828,
-      "source": "http://www.wikidata.org/entity/Q124445378"
+      "source": "http://www.wikidata.org/entity/Q124445378",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Photolautrec.jpg"
     },
     {
       "id": "Q50735017",
@@ -527,7 +435,9 @@
       "country": "Australia",
       "lat": -35.300277777,
       "lon": 149.136388888,
-      "source": "http://www.wikidata.org/entity/Q50735017"
+      "source": "http://www.wikidata.org/entity/Q50735017",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Alfred%20Sisley%20-%20Un%20sentier%20aux%20Sablons%20%28A%20path%20at%20Les%20Sablons%29%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20110.jpg"
     },
     {
       "id": "Q48610629",
@@ -544,7 +454,9 @@
       "country": "Australia",
       "lat": -35.300277777,
       "lon": 149.136388888,
-      "source": "http://www.wikidata.org/entity/Q48610629"
+      "source": "http://www.wikidata.org/entity/Q48610629",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%20-%20Meules%2C%20milieu%20du%20jour%20%28Haystacks%2C%20midday%29%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%201899%20Nadar%20crop.jpg"
     },
     {
       "id": "Q50750304",
@@ -561,7 +473,9 @@
       "country": "Australia",
       "lat": -35.300277777,
       "lon": 149.136388888,
-      "source": "http://www.wikidata.org/entity/Q50750304"
+      "source": "http://www.wikidata.org/entity/Q50750304",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Vuillard%20-%20A%20l%27Op%C3%A9ra%20%28At%20the%20Opera%29%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Self-Portrait%2C%20Aged%2021%20A21192.jpg"
     },
     {
       "id": "Q50734518",
@@ -578,7 +492,9 @@
       "country": "Australia",
       "lat": -35.300277777,
       "lon": 149.136388888,
-      "source": "http://www.wikidata.org/entity/Q50734518"
+      "source": "http://www.wikidata.org/entity/Q50734518",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%20-%20Study%20for%20Le%20Bec%20du%20Hoc%2C%20Grandcamp%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg"
     },
     {
       "id": "Q50739015",
@@ -595,15 +511,17 @@
       "country": "Australia",
       "lat": -35.300277777,
       "lon": 149.136388888,
-      "source": "http://www.wikidata.org/entity/Q50739015"
+      "source": "http://www.wikidata.org/entity/Q50739015",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Tiepolo%2C%20Giovanni%20Battista%20-%20Fresken%20Treppenhaus%20des%20W%C3%BCrzburger%20Residenzschlosses%2C%20Szenen%20zur%20Apotheose%20des%20F%C3%BCrstbischofs%2C%20Detail%20Giovanni%20Battista%20Tiepolo%20-%201750-1753.jpg"
     },
     {
-      "id": "Q50755197",
-      "artistId": "james-mcneill-whistler",
-      "artistName": "James McNeill Whistler",
+      "id": "Q28796170",
+      "artistId": "gustave-courbet",
+      "artistName": "Gustave Courbet",
       "reviewStatus": "generated",
-      "title": "Harmony in Blue and Pearl: The Sands, Dieppe",
-      "date": "1885",
+      "title": "Study for Les Demoiselles des bords de la Seine (Été) on the banks of the Seine (Summer)",
+      "date": "1856",
       "type": "Painting",
       "attribution": "Accepted",
       "locationId": "national-gallery-of-australia-canberra",
@@ -612,7 +530,85 @@
       "country": "Australia",
       "lat": -35.300277777,
       "lon": 149.136388888,
-      "source": "http://www.wikidata.org/entity/Q50755197"
+      "source": "http://www.wikidata.org/entity/Q28796170",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustave%20Courbet%20-%20Study%20for%20Les%20Demoiselles%20des%20bords%20de%20la%20Seine%20%28%C3%89t%C3%A9%29%20%28Girls%20on%20the%20banks%20of%20the%20Seine%20%28Summer%29%29%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustave%20Courbet%2C%20photograph%20Atelier%20Nadar%2C%20c.%201860s.jpg"
+    },
+    {
+      "id": "Q50706259",
+      "artistId": "henri-matisse",
+      "artistName": "Henri Matisse",
+      "reviewStatus": "generated",
+      "title": "Océanie, la mer [Oceania the sea]",
+      "date": "1946",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "national-gallery-of-australia-canberra",
+      "location": "National Gallery of Australia",
+      "city": "Canberra",
+      "country": "Australia",
+      "lat": -35.300277777,
+      "lon": 149.136388888,
+      "source": "http://www.wikidata.org/entity/Q50706259",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Henri%20Matisse%201933%20May%2020.jpg"
+    },
+    {
+      "id": "Q50706224",
+      "artistId": "henri-matisse",
+      "artistName": "Henri Matisse",
+      "reviewStatus": "generated",
+      "title": "Océanie, le ciel [Oceania, the sky]",
+      "date": "1946",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "national-gallery-of-australia-canberra",
+      "location": "National Gallery of Australia",
+      "city": "Canberra",
+      "country": "Australia",
+      "lat": -35.300277777,
+      "lon": 149.136388888,
+      "source": "http://www.wikidata.org/entity/Q50706224",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Henri%20Matisse%201933%20May%2020.jpg"
+    },
+    {
+      "id": "Q50701137",
+      "artistId": "kazimir-malevich",
+      "artistName": "Kazimir Malevich",
+      "reviewStatus": "generated",
+      "title": "Stroyuschiysya dom",
+      "date": "1910",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "national-gallery-of-australia-canberra",
+      "location": "National Gallery of Australia",
+      "city": "Canberra",
+      "country": "Australia",
+      "lat": -35.300277777,
+      "lon": 149.136388888,
+      "source": "http://www.wikidata.org/entity/Q50701137",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Kasimir%20Malevich%20-%20Stroyuschiysya%20dom%20%28House%20under%20construction%29%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg"
+    },
+    {
+      "id": "Q50643443",
+      "artistId": "paul-cezanne",
+      "artistName": "Paul Cézanne",
+      "reviewStatus": "generated",
+      "title": "L'Après-midi à Naples [Afternoon in Naples]",
+      "date": "1875",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "national-gallery-of-australia-canberra",
+      "location": "National Gallery of Australia",
+      "city": "Canberra",
+      "country": "Australia",
+      "lat": -35.300277777,
+      "lon": 149.136388888,
+      "source": "http://www.wikidata.org/entity/Q50643443",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20C%C3%A9zanne%20-%20L%27Apr%C3%A8s-midi%20%C3%A0%20Naples%20-%20Google%20Art%20Project%2C%20edited.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul-Cezanne.jpg"
     },
     {
       "id": "Q130333695",
@@ -629,7 +625,9 @@
       "country": "Australia",
       "lat": -35.300277777,
       "lon": 149.136388888,
-      "source": "http://www.wikidata.org/entity/Q130333695"
+      "source": "http://www.wikidata.org/entity/Q130333695",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Le%20Toit%20bleu.png",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Gauguin%201891.png"
     },
     {
       "id": "Q20656524",
@@ -646,7 +644,28 @@
       "country": "Australia",
       "lat": -35.300277777,
       "lon": 149.136388888,
-      "source": "http://www.wikidata.org/entity/Q20656524"
+      "source": "http://www.wikidata.org/entity/Q20656524",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Paul%20Rubens%20-%20Self-portrait%20%281623%2C%20NGA%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Peter%20Paul%20Rubens%20-%20Portrait%20of%20the%20Artist%20-%20Google%20Art%20Project.jpg"
+    },
+    {
+      "id": "Q31195260",
+      "artistId": "rene-magritte",
+      "artistName": "René Magritte",
+      "reviewStatus": "generated",
+      "title": "The Lovers",
+      "date": "1928",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "national-gallery-of-australia-canberra",
+      "location": "National Gallery of Australia",
+      "city": "Canberra",
+      "country": "Australia",
+      "lat": -35.300277777,
+      "lon": 149.136388888,
+      "source": "http://www.wikidata.org/entity/Q31195260",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg"
     },
     {
       "id": "Q20414757",
@@ -663,7 +682,9 @@
       "country": "Australia",
       "lat": -37.8225,
       "lon": 144.968888888,
-      "source": "http://www.wikidata.org/entity/Q20414757"
+      "source": "http://www.wikidata.org/entity/Q20414757",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sisley%20-%20Haystacks-At-Moret%2C-Morning-Light%2C-1891.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20110.jpg"
     },
     {
       "id": "Q20421210",
@@ -680,7 +701,9 @@
       "country": "Australia",
       "lat": -37.8225,
       "lon": 144.968888888,
-      "source": "http://www.wikidata.org/entity/Q20421210"
+      "source": "http://www.wikidata.org/entity/Q20421210",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sisley%20-%20The-Loing-And-The-Slopes-Behind-St.-Nicaise%2C-February-Afternoon%2C-1890.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20110.jpg"
     },
     {
       "id": "Q21152580",
@@ -697,7 +720,9 @@
       "country": "Australia",
       "lat": -37.8225,
       "lon": 144.968888888,
-      "source": "http://www.wikidata.org/entity/Q21152580"
+      "source": "http://www.wikidata.org/entity/Q21152580",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Amedeo%20Modigliani%20-%20Caryatid%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Amedeo%20Modigliani%201918%20restored.jpg"
     },
     {
       "id": "Q20422164",
@@ -714,7 +739,9 @@
       "country": "Australia",
       "lat": -37.8225,
       "lon": 144.968888888,
-      "source": "http://www.wikidata.org/entity/Q20422164"
+      "source": "http://www.wikidata.org/entity/Q20422164",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Amedeo%20modigliani%2C%20ritratto%20del%20pittore%20manuel%20humbert%2C%201916.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Amedeo%20Modigliani%201918%20restored.jpg"
     },
     {
       "id": "Q3937650",
@@ -731,7 +758,9 @@
       "country": "Australia",
       "lat": -37.8225,
       "lon": 144.968888888,
-      "source": "http://www.wikidata.org/entity/Q3937650"
+      "source": "http://www.wikidata.org/entity/Q3937650",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Philip%20Herbert%2C%204th%20Earl%20of%20Pembroke.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Anthony%20van%20Dyck%20-%20Self-portrait.jpg"
     },
     {
       "id": "Q20424870",
@@ -748,7 +777,9 @@
       "country": "Australia",
       "lat": -37.8225,
       "lon": 144.968888888,
-      "source": "http://www.wikidata.org/entity/Q20424870"
+      "source": "http://www.wikidata.org/entity/Q20424870",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Anthony%20van%20Dyck%20Rachel%20de%20Ruvigny.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Anthony%20van%20Dyck%20-%20Self-portrait.jpg"
     },
     {
       "id": "Q20422153",
@@ -765,7 +796,9 @@
       "country": "Australia",
       "lat": -37.8225,
       "lon": 144.968888888,
-      "source": "http://www.wikidata.org/entity/Q20422153"
+      "source": "http://www.wikidata.org/entity/Q20422153",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20-%20The%20Immaculate%20Conception%20Fd105349.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg"
     },
     {
       "id": "Q20426003",
@@ -782,7 +815,9 @@
       "country": "Australia",
       "lat": -37.8225,
       "lon": 144.968888888,
-      "source": "http://www.wikidata.org/entity/Q20426003"
+      "source": "http://www.wikidata.org/entity/Q20426003",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Pissarro%20-%20Boulevard%20Montmartre%2C%20morning%2C%20cloudy%20weather%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg"
     },
     {
       "id": "Q20422721",
@@ -799,7 +834,9 @@
       "country": "Australia",
       "lat": -37.8225,
       "lon": 144.968888888,
-      "source": "http://www.wikidata.org/entity/Q20422721"
+      "source": "http://www.wikidata.org/entity/Q20422721",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Pissarro%20-%20The%20banks%20of%20the%20Viosne%20at%20Osny%20in%20grey%20weather%2C%20winter%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg"
     },
     {
       "id": "Q20414899",
@@ -816,7 +853,9 @@
       "country": "Australia",
       "lat": -37.8225,
       "lon": 144.968888888,
-      "source": "http://www.wikidata.org/entity/Q20414899"
+      "source": "http://www.wikidata.org/entity/Q20414899",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%20-%20Rough%20weather%20at%20%C3%89tretat%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%201899%20Nadar%20crop.jpg"
     },
     {
       "id": "Q20421336",
@@ -833,7 +872,9 @@
       "country": "Australia",
       "lat": -37.8225,
       "lon": 144.968888888,
-      "source": "http://www.wikidata.org/entity/Q20421336"
+      "source": "http://www.wikidata.org/entity/Q20421336",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%20-%20V%C3%A9theuil%20-%20Google%20Art%20Project%20%28427751%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%201899%20Nadar%20crop.jpg"
     },
     {
       "id": "Q20426227",
@@ -850,7 +891,9 @@
       "country": "Australia",
       "lat": -37.8225,
       "lon": 144.968888888,
-      "source": "http://www.wikidata.org/entity/Q20426227"
+      "source": "http://www.wikidata.org/entity/Q20426227",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Correggio%2C%20Madonna%20and%20Child%20with%20infant%20St%20John%20the%20Baptist%201514%E2%80%9315.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Antonio%20Allegri%20da%20Correggio.jpg"
     },
     {
       "id": "Q20421292",
@@ -867,7 +910,9 @@
       "country": "Australia",
       "lat": -37.8225,
       "lon": 144.968888888,
-      "source": "http://www.wikidata.org/entity/Q20421292"
+      "source": "http://www.wikidata.org/entity/Q20421292",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Degas%20-%20Portrait%20of%20a%20woman%20%28Portrait%20de%20femme%29%2C%20c.%201876-1880.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20self%20portrait%201855FXD.jpg"
     },
     {
       "id": "Q20423282",
@@ -884,7 +929,9 @@
       "country": "Australia",
       "lat": -37.8225,
       "lon": 144.968888888,
-      "source": "http://www.wikidata.org/entity/Q20423282"
+      "source": "http://www.wikidata.org/entity/Q20423282",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Edouard%20Manet%20027.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Manet%2C%20en%20buste%2C%20de%20face%20-%20Nadar.jpg"
     },
     {
       "id": "Q20424998",
@@ -901,7 +948,9 @@
       "country": "Australia",
       "lat": -37.8225,
       "lon": 144.968888888,
-      "source": "http://www.wikidata.org/entity/Q20424998"
+      "source": "http://www.wikidata.org/entity/Q20424998",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%88douard%20Manet%20-%20The%20melon.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Manet%2C%20en%20buste%2C%20de%20face%20-%20Nadar.jpg"
     },
     {
       "id": "Q20425542",
@@ -918,7 +967,9 @@
       "country": "Australia",
       "lat": -37.8225,
       "lon": 144.968888888,
-      "source": "http://www.wikidata.org/entity/Q20425542"
+      "source": "http://www.wikidata.org/entity/Q20425542",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Manet%20-%20The%20ship%27s%20deck%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Manet%2C%20en%20buste%2C%20de%20face%20-%20Nadar.jpg"
     },
     {
       "id": "Q20422104",
@@ -935,7 +986,9 @@
       "country": "Australia",
       "lat": -37.8225,
       "lon": 144.968888888,
-      "source": "http://www.wikidata.org/entity/Q20422104"
+      "source": "http://www.wikidata.org/entity/Q20422104",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Vuillard%20-%20Mme%20Bonnard%20with%20her%20dog%20at%20rue%20Drouai%2C%201907.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Self-Portrait%2C%20Aged%2021%20A21192.jpg"
     },
     {
       "id": "Q20421714",
@@ -952,7 +1005,9 @@
       "country": "Australia",
       "lat": -37.8225,
       "lon": 144.968888888,
-      "source": "http://www.wikidata.org/entity/Q20421714"
+      "source": "http://www.wikidata.org/entity/Q20421714",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Vuillard%20-%20The%20doors%2C%201894.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Self-Portrait%2C%20Aged%2021%20A21192.jpg"
     },
     {
       "id": "Q20421808",
@@ -969,7 +1024,9 @@
       "country": "Australia",
       "lat": -37.8225,
       "lon": 144.968888888,
-      "source": "http://www.wikidata.org/entity/Q20421808"
+      "source": "http://www.wikidata.org/entity/Q20421808",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Greco%20-%20Portrait%20of%20a%20cardinal%2C%20c.%201600-1605.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Greco%20-%20Portrait%20of%20a%20Man%20-%20WGA10554.jpg"
     },
     {
       "id": "Q20420991",
@@ -986,7 +1043,9 @@
       "country": "Australia",
       "lat": -37.8225,
       "lon": 144.968888888,
-      "source": "http://www.wikidata.org/entity/Q20420991"
+      "source": "http://www.wikidata.org/entity/Q20420991",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Delacroix%20-%20The%20confession%20of%20the%20Giaour%2C%20c.%201825-1840.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Autoportrait%20-%20Eug%C3%A8ne%20Delacroix%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20RF%2025.jpg"
     },
     {
       "id": "Q20407936",
@@ -1003,7 +1062,9 @@
       "country": "Australia",
       "lat": -37.8225,
       "lon": 144.968888888,
-      "source": "http://www.wikidata.org/entity/Q20407936"
+      "source": "http://www.wikidata.org/entity/Q20407936",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Boucher%20par%20Gustav%20Lundberg%201741.jpg"
     },
     {
       "id": "Q20406993",
@@ -1020,7 +1081,9 @@
       "country": "Australia",
       "lat": -37.8225,
       "lon": 144.968888888,
-      "source": "http://www.wikidata.org/entity/Q20406993"
+      "source": "http://www.wikidata.org/entity/Q20406993",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Boucher%20par%20Gustav%20Lundberg%201741.jpg"
     },
     {
       "id": "Q18167078",
@@ -1037,7 +1100,9 @@
       "country": "Australia",
       "lat": -37.8225,
       "lon": 144.968888888,
-      "source": "http://www.wikidata.org/entity/Q18167078"
+      "source": "http://www.wikidata.org/entity/Q18167078",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Giambattista%20Tiepolo%20-%20The%20Banquet%20of%20Cleopatra%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Tiepolo%2C%20Giovanni%20Battista%20-%20Fresken%20Treppenhaus%20des%20W%C3%BCrzburger%20Residenzschlosses%2C%20Szenen%20zur%20Apotheose%20des%20F%C3%BCrstbischofs%2C%20Detail%20Giovanni%20Battista%20Tiepolo%20-%201750-1753.jpg"
     },
     {
       "id": "Q20411664",
@@ -1054,7 +1119,9 @@
       "country": "Australia",
       "lat": -37.8225,
       "lon": 144.968888888,
-      "source": "http://www.wikidata.org/entity/Q20411664"
+      "source": "http://www.wikidata.org/entity/Q20411664",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Tiepolo%2C%20Giovanni%20Battista%20-%20Fresken%20Treppenhaus%20des%20W%C3%BCrzburger%20Residenzschlosses%2C%20Szenen%20zur%20Apotheose%20des%20F%C3%BCrstbischofs%2C%20Detail%20Giovanni%20Battista%20Tiepolo%20-%201750-1753.jpg"
     },
     {
       "id": "Q20424939",
@@ -1071,7 +1138,9 @@
       "country": "Australia",
       "lat": -37.8225,
       "lon": 144.968888888,
-      "source": "http://www.wikidata.org/entity/Q20424939"
+      "source": "http://www.wikidata.org/entity/Q20424939",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Courbet%20-%20The%20wave%2C%20c.%201872.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustave%20Courbet%2C%20photograph%20Atelier%20Nadar%2C%20c.%201860s.jpg"
     },
     {
       "id": "Q20425216",
@@ -1088,7 +1157,9 @@
       "country": "Australia",
       "lat": -37.8225,
       "lon": 144.968888888,
-      "source": "http://www.wikidata.org/entity/Q20425216"
+      "source": "http://www.wikidata.org/entity/Q20425216",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Courbet%20-%20Winter%2C%20c.%201872-1873.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustave%20Courbet%2C%20photograph%20Atelier%20Nadar%2C%20c.%201860s.jpg"
     },
     {
       "id": "Q20421749",
@@ -1105,7 +1176,9 @@
       "country": "Australia",
       "lat": -37.8225,
       "lon": 144.968888888,
-      "source": "http://www.wikidata.org/entity/Q20421749"
+      "source": "http://www.wikidata.org/entity/Q20421749",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20The%20friends%2C%20c.%201898-1899%2C%201737-4.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Self-portrait%20%281900%29.jpg"
     },
     {
       "id": "Q20422080",
@@ -1122,24 +1195,9 @@
       "country": "Australia",
       "lat": -37.8225,
       "lon": 144.968888888,
-      "source": "http://www.wikidata.org/entity/Q20422080"
-    },
-    {
-      "id": "Q65073089",
-      "artistId": "henri-de-toulouse-lautrec",
-      "artistName": "Henri de Toulouse-Lautrec",
-      "reviewStatus": "generated",
-      "title": "Jane Avril",
-      "date": "1893",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "national-gallery-of-victoria-city-of-melbourne",
-      "location": "National Gallery of Victoria",
-      "city": "City of Melbourne",
-      "country": "Australia",
-      "lat": -37.8225,
-      "lon": 144.968888888,
-      "source": "http://www.wikidata.org/entity/Q65073089"
+      "source": "http://www.wikidata.org/entity/Q20422080",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20The%20nun%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Self-portrait%20%281900%29.jpg"
     },
     {
       "id": "Q20421904",
@@ -1156,7 +1214,28 @@
       "country": "Australia",
       "lat": -37.8225,
       "lon": 144.968888888,
-      "source": "http://www.wikidata.org/entity/Q20421904"
+      "source": "http://www.wikidata.org/entity/Q20421904",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Matisse%20-%20Carra%2C%20289.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Henri%20Matisse%201933%20May%2020.jpg"
+    },
+    {
+      "id": "Q20425371",
+      "artistId": "honore-daumier",
+      "artistName": "Honoré Daumier",
+      "reviewStatus": "generated",
+      "title": "Don Quixote reading",
+      "date": "1867",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "national-gallery-of-victoria-city-of-melbourne",
+      "location": "National Gallery of Victoria",
+      "city": "City of Melbourne",
+      "country": "Australia",
+      "lat": -37.8225,
+      "lon": 144.968888888,
+      "source": "http://www.wikidata.org/entity/Q20425371",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Daumier%20-%20Don%20Quixote%20reading%2C%20c.%201867.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Honore%20Daumier-Nadar.jpg"
     },
     {
       "id": "Q20398033",
@@ -1173,7 +1252,9 @@
       "country": "Australia",
       "lat": -37.8225,
       "lon": 144.968888888,
-      "source": "http://www.wikidata.org/entity/Q20398033"
+      "source": "http://www.wikidata.org/entity/Q20398033",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%20auto-retrato.jpg"
     },
     {
       "id": "Q20407353",
@@ -1190,7 +1271,9 @@
       "country": "Australia",
       "lat": -37.8225,
       "lon": 144.968888888,
-      "source": "http://www.wikidata.org/entity/Q20407353"
+      "source": "http://www.wikidata.org/entity/Q20407353",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/J.%20M.%20W.%20Turner%20-%20A%20mountain%20scene%2C%20Val%20d%27Aosta%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%20auto-retrato.jpg"
     },
     {
       "id": "Q20410826",
@@ -1207,7 +1290,9 @@
       "country": "Australia",
       "lat": -37.8225,
       "lon": 144.968888888,
-      "source": "http://www.wikidata.org/entity/Q20410826"
+      "source": "http://www.wikidata.org/entity/Q20410826",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Turner%20-%20Walton%20bridges%2C%20c.%201806%2C%20981-3.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%20auto-retrato.jpg"
     },
     {
       "id": "Q20426698",
@@ -1224,7 +1309,9 @@
       "country": "Australia",
       "lat": -37.8225,
       "lon": 144.968888888,
-      "source": "http://www.wikidata.org/entity/Q20426698"
+      "source": "http://www.wikidata.org/entity/Q20426698",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Auguste-Dominique%20Ingres%20-%20Virgin%20of%20the%20Adoption%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%2C%20Self-portrait.jpg"
     },
     {
       "id": "Q20425161",
@@ -1241,7 +1328,9 @@
       "country": "Australia",
       "lat": -37.8225,
       "lon": 144.968888888,
-      "source": "http://www.wikidata.org/entity/Q20425161"
+      "source": "http://www.wikidata.org/entity/Q20425161",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Corot%20-%20Landscape%20sketch%2C%20c.%201855-1860.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste-Camille%20Corot%20c1850.png"
     },
     {
       "id": "Q20425889",
@@ -1258,7 +1347,9 @@
       "country": "Australia",
       "lat": -37.8225,
       "lon": 144.968888888,
-      "source": "http://www.wikidata.org/entity/Q20425889"
+      "source": "http://www.wikidata.org/entity/Q20425889",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Corot%20-%20Sketch%20at%20Scheveningen%2C%201854.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste-Camille%20Corot%20c1850.png"
     },
     {
       "id": "Q20422915",
@@ -1275,7 +1366,9 @@
       "country": "Australia",
       "lat": -37.8225,
       "lon": 144.968888888,
-      "source": "http://www.wikidata.org/entity/Q20422915"
+      "source": "http://www.wikidata.org/entity/Q20422915",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Corot%20-%20The%20bent%20tree%2C%201855-1860.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste-Camille%20Corot%20c1850.png"
     },
     {
       "id": "Q20422992",
@@ -1292,7 +1385,9 @@
       "country": "Australia",
       "lat": -37.8225,
       "lon": 144.968888888,
-      "source": "http://www.wikidata.org/entity/Q20422992"
+      "source": "http://www.wikidata.org/entity/Q20422992",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Corot.%20View%20of%20the%20Quay%20of%20the%20Schiavoni%2C%201834.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste-Camille%20Corot%20c1850.png"
     },
     {
       "id": "Q20424351",
@@ -1309,7 +1404,9 @@
       "country": "Australia",
       "lat": -37.8225,
       "lon": 144.968888888,
-      "source": "http://www.wikidata.org/entity/Q20424351"
+      "source": "http://www.wikidata.org/entity/Q20424351",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-FrancoisMillet%28Nadar%29.jpg"
     },
     {
       "id": "Q20421180",
@@ -1326,7 +1423,9 @@
       "country": "Australia",
       "lat": -37.8225,
       "lon": 144.968888888,
-      "source": "http://www.wikidata.org/entity/Q20421180"
+      "source": "http://www.wikidata.org/entity/Q20421180",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Constable%20-%20Wolken-Studie.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Constable%20by%20Daniel%20Gardner%2C%201796.JPG"
     },
     {
       "id": "Q20423949",
@@ -1343,7 +1442,9 @@
       "country": "Australia",
       "lat": -37.8225,
       "lon": 144.968888888,
-      "source": "http://www.wikidata.org/entity/Q20423949"
+      "source": "http://www.wikidata.org/entity/Q20423949",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Constable%20-%20Keswick%2C%20lake%2C%20c.%201807%2C%202031-3.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Constable%20by%20Daniel%20Gardner%2C%201796.JPG"
     },
     {
       "id": "Q20422062",
@@ -1360,7 +1461,9 @@
       "country": "Australia",
       "lat": -37.8225,
       "lon": 144.968888888,
-      "source": "http://www.wikidata.org/entity/Q20422062"
+      "source": "http://www.wikidata.org/entity/Q20422062",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Constable%20-%20Study%20of%20A%20boat%20passing%20a%20lock%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Constable%20by%20Daniel%20Gardner%2C%201796.JPG"
     },
     {
       "id": "Q20412554",
@@ -1377,7 +1480,9 @@
       "country": "Australia",
       "lat": -37.8225,
       "lon": 144.968888888,
-      "source": "http://www.wikidata.org/entity/Q20412554"
+      "source": "http://www.wikidata.org/entity/Q20412554",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Constable%20-%20The%20Quarters%20behind%20Alresford%20Hall%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Constable%20by%20Daniel%20Gardner%2C%201796.JPG"
     },
     {
       "id": "Q20421029",
@@ -1394,7 +1499,9 @@
       "country": "Australia",
       "lat": -37.8225,
       "lon": 144.968888888,
-      "source": "http://www.wikidata.org/entity/Q20421029"
+      "source": "http://www.wikidata.org/entity/Q20421029",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Constable%20by%20Daniel%20Gardner%2C%201796.JPG"
     },
     {
       "id": "Q20414628",
@@ -1411,7 +1518,9 @@
       "country": "Australia",
       "lat": -37.8225,
       "lon": 144.968888888,
-      "source": "http://www.wikidata.org/entity/Q20414628"
+      "source": "http://www.wikidata.org/entity/Q20414628",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sargent%20-%20Autumn%20leaves%2C%201913%2C%20586-2.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Singer%20Sargent%201903.jpg"
     },
     {
       "id": "Q20437958",
@@ -1428,7 +1537,9 @@
       "country": "Australia",
       "lat": -37.8225,
       "lon": 144.968888888,
-      "source": "http://www.wikidata.org/entity/Q20437958"
+      "source": "http://www.wikidata.org/entity/Q20437958",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sargent%20-%20General%20Sir%20William%20Birdwood%2C%201920%2C%201303-3.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Singer%20Sargent%201903.jpg"
     },
     {
       "id": "Q20425331",
@@ -1445,7 +1556,9 @@
       "country": "Australia",
       "lat": -37.8225,
       "lon": 144.968888888,
-      "source": "http://www.wikidata.org/entity/Q20425331"
+      "source": "http://www.wikidata.org/entity/Q20425331",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sargent%20-%20Hospital%20at%20Granada%2C%201912%2C%201337-3.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Singer%20Sargent%201903.jpg"
     },
     {
       "id": "Q134528987",
@@ -1462,7 +1575,9 @@
       "country": "Australia",
       "lat": -37.8225,
       "lon": 144.968888888,
-      "source": "http://www.wikidata.org/entity/Q134528987"
+      "source": "http://www.wikidata.org/entity/Q134528987",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mystic%20marriage%20of%20Saint%20Catherine%2C%20by%20Lavinia%20Fontana.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lavinia%20Fontana%20-%20Autoritratto%20%28ca.%201577-85%29.jpg"
     },
     {
       "id": "Q50389775",
@@ -1479,7 +1594,9 @@
       "country": "Australia",
       "lat": -37.8225,
       "lon": 144.968888888,
-      "source": "http://www.wikidata.org/entity/Q50389775"
+      "source": "http://www.wikidata.org/entity/Q50389775",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Shagal%20Choumoff.jpg"
     },
     {
       "id": "Q16599926",
@@ -1496,7 +1613,9 @@
       "country": "Australia",
       "lat": -37.8225,
       "lon": 144.968888888,
-      "source": "http://www.wikidata.org/entity/Q16599926"
+      "source": "http://www.wikidata.org/entity/Q16599926",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Uccello%20-%20St%20George%20slaying%20the%20dragon%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Cinq%20ma%C3%AEtres%20de%20la%20Renaissance%20florentine%20-%20Uccello%20%28Louvre%29.jpg"
     },
     {
       "id": "Q20416298",
@@ -1513,7 +1632,9 @@
       "country": "Australia",
       "lat": -37.8225,
       "lon": 144.968888888,
-      "source": "http://www.wikidata.org/entity/Q20416298"
+      "source": "http://www.wikidata.org/entity/Q20416298",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/C%C3%A9zanne%20-%20FWN%20175.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul-Cezanne.jpg"
     },
     {
       "id": "Q20422159",
@@ -1530,7 +1651,9 @@
       "country": "Australia",
       "lat": -37.8225,
       "lon": 144.968888888,
-      "source": "http://www.wikidata.org/entity/Q20422159"
+      "source": "http://www.wikidata.org/entity/Q20422159",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Signac%20-%20Gasometers%20at%20Clichy%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Seurat%20Paul%20Signac.jpg"
     },
     {
       "id": "Q20422126",
@@ -1547,7 +1670,9 @@
       "country": "Australia",
       "lat": -37.8225,
       "lon": 144.968888888,
-      "source": "http://www.wikidata.org/entity/Q20422126"
+      "source": "http://www.wikidata.org/entity/Q20422126",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Peter%20Paul%20Rubens%20-%20Portrait%20of%20the%20Artist%20-%20Google%20Art%20Project.jpg"
     },
     {
       "id": "Q20420857",
@@ -1564,7 +1689,9 @@
       "country": "Australia",
       "lat": -37.8225,
       "lon": 144.968888888,
-      "source": "http://www.wikidata.org/entity/Q20420857"
+      "source": "http://www.wikidata.org/entity/Q20420857",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Peter%20Paul%20Rubens%20-%20Portrait%20of%20the%20Artist%20-%20Google%20Art%20Project.jpg"
     },
     {
       "id": "Q20422160",
@@ -1581,7 +1708,9 @@
       "country": "Australia",
       "lat": -37.8225,
       "lon": 144.968888888,
-      "source": "http://www.wikidata.org/entity/Q20422160"
+      "source": "http://www.wikidata.org/entity/Q20422160",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Siesta%201900.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Self-portrait-1889.jpg"
     },
     {
       "id": "Q20405729",
@@ -1598,7 +1727,9 @@
       "country": "Australia",
       "lat": -37.8225,
       "lon": 144.968888888,
-      "source": "http://www.wikidata.org/entity/Q20405729"
+      "source": "http://www.wikidata.org/entity/Q20405729",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Renoir%20-%20The%20guitar%20player%2C%20c.%201896.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre%20Auguste%20Renoir%2C%20uncropped%20image.jpg"
     },
     {
       "id": "Q20426041",
@@ -1615,7 +1746,28 @@
       "country": "Australia",
       "lat": -37.8225,
       "lon": 144.968888888,
-      "source": "http://www.wikidata.org/entity/Q20426041"
+      "source": "http://www.wikidata.org/entity/Q20426041",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Renoir%20-%20Young%20woman%20seated%2C%20with%20neck%20and%20shoulders%20uncovered%2C%201891.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre%20Auguste%20Renoir%2C%20uncropped%20image.jpg"
+    },
+    {
+      "id": "Q20422149",
+      "artistId": "rembrandt",
+      "artistName": "Rembrandt",
+      "reviewStatus": "generated",
+      "title": "Portrait of a white-haired man",
+      "date": "1667",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "national-gallery-of-victoria-city-of-melbourne",
+      "location": "National Gallery of Victoria",
+      "city": "City of Melbourne",
+      "country": "Australia",
+      "lat": -37.8225,
+      "lon": 144.968888888,
+      "source": "http://www.wikidata.org/entity/Q20422149",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20Harmensz.%20van%20Rijn%20-%20Portrait%20of%20a%20white-haired%20man%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20van%20Rijn%20-%20Self-Portrait%20-%20Google%20Art%20Project.jpg"
     },
     {
       "id": "Q20422215",
@@ -1632,7 +1784,28 @@
       "country": "Australia",
       "lat": -37.8225,
       "lon": 144.968888888,
-      "source": "http://www.wikidata.org/entity/Q20422215"
+      "source": "http://www.wikidata.org/entity/Q20422215",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20by%20studio%20of%20Rembrandt.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20van%20Rijn%20-%20Self-Portrait%20-%20Google%20Art%20Project.jpg"
+    },
+    {
+      "id": "Q9247900",
+      "artistId": "rembrandt",
+      "artistName": "Rembrandt",
+      "reviewStatus": "generated",
+      "title": "Two Old Men Disputing",
+      "date": "1628",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "national-gallery-of-victoria-city-of-melbourne",
+      "location": "National Gallery of Victoria",
+      "city": "City of Melbourne",
+      "country": "Australia",
+      "lat": -37.8225,
+      "lon": 144.968888888,
+      "source": "http://www.wikidata.org/entity/Q9247900",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20Two%20old%20men%20disputing%201628.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20van%20Rijn%20-%20Self-Portrait%20-%20Google%20Art%20Project.jpg"
     },
     {
       "id": "Q20405508",
@@ -1649,7 +1822,9 @@
       "country": "Australia",
       "lat": -37.8225,
       "lon": 144.968888888,
-      "source": "http://www.wikidata.org/entity/Q20405508"
+      "source": "http://www.wikidata.org/entity/Q20405508",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg"
     },
     {
       "id": "Q124630670",
@@ -1666,7 +1841,9 @@
       "country": "Australia",
       "lat": -37.8225,
       "lon": 144.968888888,
-      "source": "http://www.wikidata.org/entity/Q124630670"
+      "source": "http://www.wikidata.org/entity/Q124630670",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Suzanne%20valadon%20nu%20a%20la%20draperie115931%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%28Barcelona%29%20Autoretrat%20al%20mirall%20-%20by%20Suzanne%20Valadon.jpg"
     },
     {
       "id": "Q20422100",
@@ -1683,7 +1860,9 @@
       "country": "Australia",
       "lat": -37.8225,
       "lon": 144.968888888,
-      "source": "http://www.wikidata.org/entity/Q20422100"
+      "source": "http://www.wikidata.org/entity/Q20422100",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Gainsborough%20by%20Thomas%20Gainsborough.jpg"
     },
     {
       "id": "Q20421011",
@@ -1700,7 +1879,9 @@
       "country": "Australia",
       "lat": -37.8225,
       "lon": 144.968888888,
-      "source": "http://www.wikidata.org/entity/Q20421011"
+      "source": "http://www.wikidata.org/entity/Q20421011",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Gainsborough%20-%20Elizabeth%20Wrottesly%20-%20WGA08406.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Gainsborough%20by%20Thomas%20Gainsborough.jpg"
     },
     {
       "id": "Q20425798",
@@ -1717,7 +1898,9 @@
       "country": "Australia",
       "lat": -37.8225,
       "lon": 144.968888888,
-      "source": "http://www.wikidata.org/entity/Q20425798"
+      "source": "http://www.wikidata.org/entity/Q20425798",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Gainsborough%20-%20An%20officer%20of%20the%204th%20Regiment%20of%20Foot%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Gainsborough%20by%20Thomas%20Gainsborough.jpg"
     },
     {
       "id": "Q20418495",
@@ -1734,7 +1917,9 @@
       "country": "Australia",
       "lat": -37.8225,
       "lon": 144.968888888,
-      "source": "http://www.wikidata.org/entity/Q20418495"
+      "source": "http://www.wikidata.org/entity/Q20418495",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/CharlesWolfranCornwall.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Gainsborough%20by%20Thomas%20Gainsborough.jpg"
     },
     {
       "id": "Q20422678",
@@ -1751,7 +1936,9 @@
       "country": "Australia",
       "lat": -37.8225,
       "lon": 144.968888888,
-      "source": "http://www.wikidata.org/entity/Q20422678"
+      "source": "http://www.wikidata.org/entity/Q20422678",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jacopo%20Tintoretto%20-%20Doge%20Pietro%20Loredano%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Tintoretto%20-%20Self-Portrait%20as%20a%20Young%20Man%2C%20ca.%201548%2C%20CAI.103%20%28cropped%29.jpg"
     },
     {
       "id": "Q20423120",
@@ -1768,15 +1955,17 @@
       "country": "Australia",
       "lat": -37.8225,
       "lon": 144.968888888,
-      "source": "http://www.wikidata.org/entity/Q20423120"
+      "source": "http://www.wikidata.org/entity/Q20423120",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Titian%20-%20A%20monk%20with%20a%20book%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Vecellio%20di%20Gregorio%20Tiziano%20-%20autoritratto.jpg"
     },
     {
-      "id": "Q28796598",
-      "artistId": "william-blake",
-      "artistName": "William Blake",
+      "id": "Q26220176",
+      "artistId": "van-gogh",
+      "artistName": "Vincent van Gogh",
       "reviewStatus": "generated",
-      "title": "Antaeus setting down Dante and Virgil in the Last Circle of Hell",
-      "date": "1824",
+      "title": "Portrait of a male person",
+      "date": "1887",
       "type": "Painting",
       "attribution": "Accepted",
       "locationId": "national-gallery-of-victoria-city-of-melbourne",
@@ -1785,7 +1974,9 @@
       "country": "Australia",
       "lat": -37.8225,
       "lon": 144.968888888,
-      "source": "http://www.wikidata.org/entity/Q28796598"
+      "source": "http://www.wikidata.org/entity/Q26220176",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Van%20Gogh%20-%20Bildnis%20eines%20Mannes.jpeg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Self-portrait%20-%20Vincent%20van%20Gogh.jpg"
     },
     {
       "id": "Q23693193",
@@ -1802,7 +1993,28 @@
       "country": "Australia",
       "lat": -37.8225,
       "lon": 144.968888888,
-      "source": "http://www.wikidata.org/entity/Q23693193"
+      "source": "http://www.wikidata.org/entity/Q23693193",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20by%20Thomas%20Phillips.jpg"
+    },
+    {
+      "id": "Q28796598",
+      "artistId": "william-blake",
+      "artistName": "William Blake",
+      "reviewStatus": "generated",
+      "title": "Antaeus setting down Dante and Virgil in the Last Circle of Hell",
+      "date": "1824",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "national-gallery-of-victoria-city-of-melbourne",
+      "location": "National Gallery of Victoria",
+      "city": "City of Melbourne",
+      "country": "Australia",
+      "lat": -37.8225,
+      "lon": 144.968888888,
+      "source": "http://www.wikidata.org/entity/Q28796598",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20-%20Antaeus%20setting%20down%20Dante%20and%20Virgil%20in%20the%20Last%20Circle%20of%20Hell%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20by%20Thomas%20Phillips.jpg"
     },
     {
       "id": "Q28796599",
@@ -1819,7 +2031,9 @@
       "country": "Australia",
       "lat": -37.8225,
       "lon": 144.968888888,
-      "source": "http://www.wikidata.org/entity/Q28796599"
+      "source": "http://www.wikidata.org/entity/Q28796599",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20-%20Dante%20running%20from%20the%20three%20beasts%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20by%20Thomas%20Phillips.jpg"
     },
     {
       "id": "Q28796608",
@@ -1836,7 +2050,9 @@
       "country": "Australia",
       "lat": -37.8225,
       "lon": 144.968888888,
-      "source": "http://www.wikidata.org/entity/Q28796608"
+      "source": "http://www.wikidata.org/entity/Q28796608",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20-%20St%20Peter%20and%20St%20James%20with%20Dante%20and%20Beatrice%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20by%20Thomas%20Phillips.jpg"
     },
     {
       "id": "Q23691676",
@@ -1853,7 +2069,9 @@
       "country": "Australia",
       "lat": -37.8225,
       "lon": 144.968888888,
-      "source": "http://www.wikidata.org/entity/Q23691676"
+      "source": "http://www.wikidata.org/entity/Q23691676",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20by%20Thomas%20Phillips.jpg"
     },
     {
       "id": "Q28798267",
@@ -1870,7 +2088,9 @@
       "country": "Australia",
       "lat": -37.8225,
       "lon": 144.968888888,
-      "source": "http://www.wikidata.org/entity/Q28798267"
+      "source": "http://www.wikidata.org/entity/Q28798267",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20-%20The%20schismatics%20and%20sowers%20of%20discord-%20Mahomet%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20by%20Thomas%20Phillips.jpg"
     },
     {
       "id": "Q95000015",
@@ -1887,7 +2107,9 @@
       "country": "Australia",
       "lat": -31.950588341,
       "lon": 115.860943334,
-      "source": "http://www.wikidata.org/entity/Q95000015"
+      "source": "http://www.wikidata.org/entity/Q95000015",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Self-Portrait%2C%20Aged%2021%20A21192.jpg"
     },
     {
       "id": "Q20482980",
@@ -1904,7 +2126,9 @@
       "country": "Australia",
       "lat": -33.868611111,
       "lon": 151.217222222,
-      "source": "http://www.wikidata.org/entity/Q20482980"
+      "source": "http://www.wikidata.org/entity/Q20482980",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Pissarro%20-%20Peasants%27%20houses%2C%20Eragny%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg"
     },
     {
       "id": "Q20463803",
@@ -1921,7 +2145,9 @@
       "country": "Australia",
       "lat": -33.868611111,
       "lon": 151.217222222,
-      "source": "http://www.wikidata.org/entity/Q20463803"
+      "source": "http://www.wikidata.org/entity/Q20463803",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%20-%20Port-Goulphar%2C%20Belle-%C3%8Ele%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%201899%20Nadar%20crop.jpg"
     },
     {
       "id": "Q20488902",
@@ -1938,7 +2164,9 @@
       "country": "Australia",
       "lat": -33.868611111,
       "lon": 151.217222222,
-      "source": "http://www.wikidata.org/entity/Q20488902"
+      "source": "http://www.wikidata.org/entity/Q20488902",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Self-Portrait%2C%20Aged%2021%20A21192.jpg"
     },
     {
       "id": "Q20537372",
@@ -1955,7 +2183,9 @@
       "country": "Australia",
       "lat": -33.868611111,
       "lon": 151.217222222,
-      "source": "http://www.wikidata.org/entity/Q20537372"
+      "source": "http://www.wikidata.org/entity/Q20537372",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Eug%C3%A8ne%20Delacroix%20-%20Angelica%20and%20the%20wounded%20Medoro%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Autoportrait%20-%20Eug%C3%A8ne%20Delacroix%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20RF%2025.jpg"
     },
     {
       "id": "Q20434356",
@@ -1972,7 +2202,9 @@
       "country": "Australia",
       "lat": -33.868611111,
       "lon": 151.217222222,
-      "source": "http://www.wikidata.org/entity/Q20434356"
+      "source": "http://www.wikidata.org/entity/Q20434356",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Fran%C3%A7ois%20Boucher%20-%20A%20young%20lady%20holding%20a%20pug%20dog%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Boucher%20par%20Gustav%20Lundberg%201741.jpg"
     },
     {
       "id": "Q20438325",
@@ -1989,7 +2221,9 @@
       "country": "Australia",
       "lat": -33.868611111,
       "lon": 151.217222222,
-      "source": "http://www.wikidata.org/entity/Q20438325"
+      "source": "http://www.wikidata.org/entity/Q20438325",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Braque%2C%201908%2C%20photograph%20published%20in%20Gelett%20Burgess%2C%20The%20Wild%20Men%20of%20Paris%2C%20Architectural%20Record%2C%20May%201910.jpg"
     },
     {
       "id": "Q20438370",
@@ -2006,7 +2240,9 @@
       "country": "Australia",
       "lat": -33.868611111,
       "lon": 151.217222222,
-      "source": "http://www.wikidata.org/entity/Q20438370"
+      "source": "http://www.wikidata.org/entity/Q20438370",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Braque%2C%201908%2C%20photograph%20published%20in%20Gelett%20Burgess%2C%20The%20Wild%20Men%20of%20Paris%2C%20Architectural%20Record%2C%20May%201910.jpg"
     },
     {
       "id": "Q20488113",
@@ -2023,7 +2259,9 @@
       "country": "Australia",
       "lat": -33.868611111,
       "lon": 151.217222222,
-      "source": "http://www.wikidata.org/entity/Q20488113"
+      "source": "http://www.wikidata.org/entity/Q20488113",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Tiepolo%2C%20Giovanni%20Battista%20-%20Fresken%20Treppenhaus%20des%20W%C3%BCrzburger%20Residenzschlosses%2C%20Szenen%20zur%20Apotheose%20des%20F%C3%BCrstbischofs%2C%20Detail%20Giovanni%20Battista%20Tiepolo%20-%201750-1753.jpg"
     },
     {
       "id": "Q20536629",
@@ -2040,7 +2278,9 @@
       "country": "Australia",
       "lat": -33.868611111,
       "lon": 151.217222222,
-      "source": "http://www.wikidata.org/entity/Q20536629"
+      "source": "http://www.wikidata.org/entity/Q20536629",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustave%20Courbet%20-%20Landscape%20with%20stag%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustave%20Courbet%2C%20photograph%20Atelier%20Nadar%2C%20c.%201860s.jpg"
     },
     {
       "id": "Q20536536",
@@ -2057,7 +2297,9 @@
       "country": "Australia",
       "lat": -33.868611111,
       "lon": 151.217222222,
-      "source": "http://www.wikidata.org/entity/Q20536536"
+      "source": "http://www.wikidata.org/entity/Q20536536",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Attrib.%20Jean-Baptiste-Camille%20Corot%20-%20Le%20vieux%20pont%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste-Camille%20Corot%20c1850.png"
     },
     {
       "id": "Q20535914",
@@ -2074,7 +2316,9 @@
       "country": "Australia",
       "lat": -33.868611111,
       "lon": 151.217222222,
-      "source": "http://www.wikidata.org/entity/Q20535914"
+      "source": "http://www.wikidata.org/entity/Q20535914",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Constable%20-%20Landscape%20with%20goatherd%20and%20goats%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Constable%20by%20Daniel%20Gardner%2C%201796.JPG"
     },
     {
       "id": "Q600379",
@@ -2091,7 +2335,9 @@
       "country": "Australia",
       "lat": -33.868611111,
       "lon": 151.217222222,
-      "source": "http://www.wikidata.org/entity/Q600379"
+      "source": "http://www.wikidata.org/entity/Q600379",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20C%C3%A9zanne%20-%20Banks%20of%20the%20Marne%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul-Cezanne.jpg"
     },
     {
       "id": "Q20487149",
@@ -2108,7 +2354,9 @@
       "country": "Australia",
       "lat": -33.868611111,
       "lon": 151.217222222,
-      "source": "http://www.wikidata.org/entity/Q20487149"
+      "source": "http://www.wikidata.org/entity/Q20487149",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Peter%20Paul%20Rubens%20-%20Constantius%20appoints%20Constantine%20as%20his%20successor%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Peter%20Paul%20Rubens%20-%20Portrait%20of%20the%20Artist%20-%20Google%20Art%20Project.jpg"
     },
     {
       "id": "Q20433905",
@@ -2125,7 +2373,9 @@
       "country": "Australia",
       "lat": -33.868611111,
       "lon": 151.217222222,
-      "source": "http://www.wikidata.org/entity/Q20433905"
+      "source": "http://www.wikidata.org/entity/Q20433905",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Self-portrait-1889.jpg"
     },
     {
       "id": "Q20433945",
@@ -2142,7 +2392,9 @@
       "country": "Australia",
       "lat": -33.868611111,
       "lon": 151.217222222,
-      "source": "http://www.wikidata.org/entity/Q20433945"
+      "source": "http://www.wikidata.org/entity/Q20433945",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The-last-self-portrait-1945.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Self-portrait-1889.jpg"
     },
     {
       "id": "Q20442254",
@@ -2159,7 +2411,9 @@
       "country": "Australia",
       "lat": -33.868611111,
       "lon": 151.217222222,
-      "source": "http://www.wikidata.org/entity/Q20442254"
+      "source": "http://www.wikidata.org/entity/Q20442254",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Gainsborough%20-%20The%20Reverend%20Samuel%20Kilderbee%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Gainsborough%20by%20Thomas%20Gainsborough.jpg"
     },
     {
       "id": "Q20442391",
@@ -2176,7 +2430,9 @@
       "country": "Australia",
       "lat": -33.868611111,
       "lon": 151.217222222,
-      "source": "http://www.wikidata.org/entity/Q20442391"
+      "source": "http://www.wikidata.org/entity/Q20442391",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Vincent%20van%20Gogh%20-%20Head%20of%20a%20peasant%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Self-portrait%20-%20Vincent%20van%20Gogh.jpg"
     },
     {
       "id": "Q20442928",
@@ -2193,7 +2449,9 @@
       "country": "Australia",
       "lat": -33.868611111,
       "lon": 151.217222222,
-      "source": "http://www.wikidata.org/entity/Q20442928"
+      "source": "http://www.wikidata.org/entity/Q20442928",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Hogarth%20-%20Dr%20Benjamin%20Hoadly%2C%20MD%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Painter%20and%20His%20Pug%20by%20William%20Hogarth.jpg"
     }
   ]
 }

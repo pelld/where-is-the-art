@@ -3,159 +3,6 @@
   "country": "Brazil",
   "artworks": [
     {
-      "id": "Q3665754",
-      "artistId": "amedeo-modigliani",
-      "artistName": "Amedeo Modigliani",
-      "reviewStatus": "generated",
-      "title": "Chakoska",
-      "date": "1917",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "sao-paulo-museum-of-art-bela-vista-district",
-      "location": "São Paulo Museum of Art",
-      "city": "Bela Vista District",
-      "country": "Brazil",
-      "lat": -23.561111111,
-      "lon": -46.655833333,
-      "source": "http://www.wikidata.org/entity/Q3665754"
-    },
-    {
-      "id": "Q3937606",
-      "artistId": "amedeo-modigliani",
-      "artistName": "Amedeo Modigliani",
-      "reviewStatus": "generated",
-      "title": "Portrait of Léopold Zborowski",
-      "date": "1917",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "sao-paulo-museum-of-art-bela-vista-district",
-      "location": "São Paulo Museum of Art",
-      "city": "Bela Vista District",
-      "country": "Brazil",
-      "lat": -23.561111111,
-      "lon": -46.655833333,
-      "source": "http://www.wikidata.org/entity/Q3937606"
-    },
-    {
-      "id": "Q49876179",
-      "artistId": "anthony-van-dyck",
-      "artistName": "Anthony van Dyck",
-      "reviewStatus": "generated",
-      "title": "Portrait of a man, possibly William Howard, Viscount of Stafford",
-      "date": "1640",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "sao-paulo-museum-of-art-bela-vista-district",
-      "location": "São Paulo Museum of Art",
-      "city": "Bela Vista District",
-      "country": "Brazil",
-      "lat": -23.561111111,
-      "lon": -46.655833333,
-      "source": "http://www.wikidata.org/entity/Q49876179"
-    },
-    {
-      "id": "Q131542203",
-      "artistId": "bartolome-esteban-murillo",
-      "artistName": "Bartolomé Esteban Murillo",
-      "reviewStatus": "generated",
-      "title": "Heilige Katharina von Alexandrien",
-      "date": "1650",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "sao-paulo-museum-of-art-bela-vista-district",
-      "location": "São Paulo Museum of Art",
-      "city": "Bela Vista District",
-      "country": "Brazil",
-      "lat": -23.561111111,
-      "lon": -46.655833333,
-      "source": "http://www.wikidata.org/entity/Q131542203"
-    },
-    {
-      "id": "Q49875935",
-      "artistId": "bartolome-esteban-murillo",
-      "artistName": "Bartolomé Esteban Murillo",
-      "reviewStatus": "generated",
-      "title": "Untitled record",
-      "date": "Date unknown",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "sao-paulo-museum-of-art-bela-vista-district",
-      "location": "São Paulo Museum of Art",
-      "city": "Bela Vista District",
-      "country": "Brazil",
-      "lat": -23.561111111,
-      "lon": -46.655833333,
-      "source": "http://www.wikidata.org/entity/Q49875935"
-    },
-    {
-      "id": "Q4931530",
-      "artistId": "monet",
-      "artistName": "Claude Monet",
-      "reviewStatus": "generated",
-      "title": "Boating on the River Epte",
-      "date": "1890",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "sao-paulo-museum-of-art-bela-vista-district",
-      "location": "São Paulo Museum of Art",
-      "city": "Bela Vista District",
-      "country": "Brazil",
-      "lat": -23.561111111,
-      "lon": -46.655833333,
-      "source": "http://www.wikidata.org/entity/Q4931530"
-    },
-    {
-      "id": "Q49864671",
-      "artistId": "monet",
-      "artistName": "Claude Monet",
-      "reviewStatus": "generated",
-      "title": "The Japanese Bridge",
-      "date": "1920",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "sao-paulo-museum-of-art-bela-vista-district",
-      "location": "São Paulo Museum of Art",
-      "city": "Bela Vista District",
-      "country": "Brazil",
-      "lat": -23.561111111,
-      "lon": -46.655833333,
-      "source": "http://www.wikidata.org/entity/Q49864671"
-    },
-    {
-      "id": "Q49859482",
-      "artistId": "diego-rivera",
-      "artistName": "Diego Rivera",
-      "reviewStatus": "generated",
-      "title": "Untitled record",
-      "date": "1947",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "sao-paulo-museum-of-art-bela-vista-district",
-      "location": "São Paulo Museum of Art",
-      "city": "Bela Vista District",
-      "country": "Brazil",
-      "lat": -23.561111111,
-      "lon": -46.655833333,
-      "source": "http://www.wikidata.org/entity/Q49859482"
-    },
-    {
-      "id": "Q105444396",
-      "artistId": "edgar-degas",
-      "artistName": "Edgar Degas",
-      "reviewStatus": "generated",
-      "title": "The Little Dancer Aged Fourteen",
-      "date": "1880",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "sao-paulo-museum-of-art-bela-vista-district",
-      "location": "São Paulo Museum of Art",
-      "city": "Bela Vista District",
-      "country": "Brazil",
-      "lat": -23.561111111,
-      "lon": -46.655833333,
-      "source": "http://www.wikidata.org/entity/Q105444396"
-    },
-    {
       "id": "Q49868914",
       "artistId": "edgar-degas",
       "artistName": "Edgar Degas",
@@ -170,58 +17,9 @@
       "country": "Brazil",
       "lat": -23.561111111,
       "lon": -46.655833333,
-      "source": "http://www.wikidata.org/entity/Q49868914"
-    },
-    {
-      "id": "Q49871791",
-      "artistId": "eugene-delacroix",
-      "artistName": "Eugène Delacroix",
-      "reviewStatus": "generated",
-      "title": "The Summer - Diana surprised by Actaeon",
-      "date": "1850",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "sao-paulo-museum-of-art-bela-vista-district",
-      "location": "São Paulo Museum of Art",
-      "city": "Bela Vista District",
-      "country": "Brazil",
-      "lat": -23.561111111,
-      "lon": -46.655833333,
-      "source": "http://www.wikidata.org/entity/Q49871791"
-    },
-    {
-      "id": "Q49873216",
-      "artistId": "francisco-goya",
-      "artistName": "Francisco Goya",
-      "reviewStatus": "generated",
-      "title": "Juan Antonio Llorente",
-      "date": "1850",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "sao-paulo-museum-of-art-bela-vista-district",
-      "location": "São Paulo Museum of Art",
-      "city": "Bela Vista District",
-      "country": "Brazil",
-      "lat": -23.561111111,
-      "lon": -46.655833333,
-      "source": "http://www.wikidata.org/entity/Q49873216"
-    },
-    {
-      "id": "Q49874550",
-      "artistId": "francois-boucher",
-      "artistName": "François Boucher",
-      "reviewStatus": "generated",
-      "title": "Untitled record",
-      "date": "1750",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "sao-paulo-museum-of-art-bela-vista-district",
-      "location": "São Paulo Museum of Art",
-      "city": "Bela Vista District",
-      "country": "Brazil",
-      "lat": -23.561111111,
-      "lon": -46.655833333,
-      "source": "http://www.wikidata.org/entity/Q49874550"
+      "source": "http://www.wikidata.org/entity/Q49868914",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20self%20portrait%201855FXD.jpg"
     },
     {
       "id": "Q49874590",
@@ -238,75 +36,9 @@
       "country": "Brazil",
       "lat": -23.561111111,
       "lon": -46.655833333,
-      "source": "http://www.wikidata.org/entity/Q49874590"
-    },
-    {
-      "id": "Q49871221",
-      "artistId": "gustave-courbet",
-      "artistName": "Gustave Courbet",
-      "reviewStatus": "generated",
-      "title": "Portrait de Juliette Courbet",
-      "date": "1873",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "sao-paulo-museum-of-art-bela-vista-district",
-      "location": "São Paulo Museum of Art",
-      "city": "Bela Vista District",
-      "country": "Brazil",
-      "lat": -23.561111111,
-      "lon": -46.655833333,
-      "source": "http://www.wikidata.org/entity/Q49871221"
-    },
-    {
-      "id": "Q49871258",
-      "artistId": "gustave-courbet",
-      "artistName": "Gustave Courbet",
-      "reviewStatus": "generated",
-      "title": "Zélie Courbet",
-      "date": "1847",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "sao-paulo-museum-of-art-bela-vista-district",
-      "location": "São Paulo Museum of Art",
-      "city": "Bela Vista District",
-      "country": "Brazil",
-      "lat": -23.561111111,
-      "lon": -46.655833333,
-      "source": "http://www.wikidata.org/entity/Q49871258"
-    },
-    {
-      "id": "Q49869388",
-      "artistId": "henri-de-toulouse-lautrec",
-      "artistName": "Henri de Toulouse-Lautrec",
-      "reviewStatus": "generated",
-      "title": "Monsieur Louis Pascal visto de costa",
-      "date": "Date unknown",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "sao-paulo-museum-of-art-bela-vista-district",
-      "location": "São Paulo Museum of Art",
-      "city": "Bela Vista District",
-      "country": "Brazil",
-      "lat": -23.561111111,
-      "lon": -46.655833333,
-      "source": "http://www.wikidata.org/entity/Q49869388"
-    },
-    {
-      "id": "Q49869569",
-      "artistId": "henri-de-toulouse-lautrec",
-      "artistName": "Henri de Toulouse-Lautrec",
-      "reviewStatus": "generated",
-      "title": "Mulheres se penteando - duas mulheres em camisola",
-      "date": "1891",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "sao-paulo-museum-of-art-bela-vista-district",
-      "location": "São Paulo Museum of Art",
-      "city": "Bela Vista District",
-      "country": "Brazil",
-      "lat": -23.561111111,
-      "lon": -46.655833333,
-      "source": "http://www.wikidata.org/entity/Q49869569"
+      "source": "http://www.wikidata.org/entity/Q49874590",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Boucher%20par%20Gustav%20Lundberg%201741.jpg"
     },
     {
       "id": "Q49869782",
@@ -323,7 +55,9 @@
       "country": "Brazil",
       "lat": -23.561111111,
       "lon": -46.655833333,
-      "source": "http://www.wikidata.org/entity/Q49869782"
+      "source": "http://www.wikidata.org/entity/Q49869782",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Photolautrec.jpg"
     },
     {
       "id": "Q49869515",
@@ -340,75 +74,9 @@
       "country": "Brazil",
       "lat": -23.561111111,
       "lon": -46.655833333,
-      "source": "http://www.wikidata.org/entity/Q49869515"
-    },
-    {
-      "id": "Q49869220",
-      "artistId": "henri-de-toulouse-lautrec",
-      "artistName": "Henri de Toulouse-Lautrec",
-      "reviewStatus": "generated",
-      "title": "Paul Viaud em almirante do século XVIII",
-      "date": "1901",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "sao-paulo-museum-of-art-bela-vista-district",
-      "location": "São Paulo Museum of Art",
-      "city": "Bela Vista District",
-      "country": "Brazil",
-      "lat": -23.561111111,
-      "lon": -46.655833333,
-      "source": "http://www.wikidata.org/entity/Q49869220"
-    },
-    {
-      "id": "Q49869464",
-      "artistId": "henri-de-toulouse-lautrec",
-      "artistName": "Henri de Toulouse-Lautrec",
-      "reviewStatus": "generated",
-      "title": "The Wheel",
-      "date": "1893",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "sao-paulo-museum-of-art-bela-vista-district",
-      "location": "São Paulo Museum of Art",
-      "city": "Bela Vista District",
-      "country": "Brazil",
-      "lat": -23.561111111,
-      "lon": -46.655833333,
-      "source": "http://www.wikidata.org/entity/Q49869464"
-    },
-    {
-      "id": "Q1852892",
-      "artistId": "hieronymus-bosch",
-      "artistName": "Hieronymus Bosch",
-      "reviewStatus": "generated",
-      "title": "The Temptations of St. Anthony (Hieronymus Bosch, São Paulo)",
-      "date": "1500",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "sao-paulo-museum-of-art-bela-vista-district",
-      "location": "São Paulo Museum of Art",
-      "city": "Bela Vista District",
-      "country": "Brazil",
-      "lat": -23.561111111,
-      "lon": -46.655833333,
-      "source": "http://www.wikidata.org/entity/Q1852892"
-    },
-    {
-      "id": "Q49871736",
-      "artistId": "honore-daumier",
-      "artistName": "Honoré Daumier",
-      "reviewStatus": "generated",
-      "title": "Untitled record",
-      "date": "Date unknown",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "sao-paulo-museum-of-art-bela-vista-district",
-      "location": "São Paulo Museum of Art",
-      "city": "Bela Vista District",
-      "country": "Brazil",
-      "lat": -23.561111111,
-      "lon": -46.655833333,
-      "source": "http://www.wikidata.org/entity/Q49871736"
+      "source": "http://www.wikidata.org/entity/Q49869515",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Photolautrec.jpg"
     },
     {
       "id": "Q123784523",
@@ -425,49 +93,17 @@
       "country": "Brazil",
       "lat": -23.561111111,
       "lon": -46.655833333,
-      "source": "http://www.wikidata.org/entity/Q123784523"
+      "source": "http://www.wikidata.org/entity/Q123784523",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20auguste%20dominique%20ingres%20-%20a%20virgem%20do%20v%C3%A9u%20azul%2001.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%2C%20Self-portrait.jpg"
     },
     {
-      "id": "Q18177636",
-      "artistId": "jean-baptiste-camille-corot",
-      "artistName": "Jean-Baptiste-Camille Corot",
-      "reviewStatus": "generated",
-      "title": "Landscape with Peasant Girl",
-      "date": "1861",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "sao-paulo-museum-of-art-bela-vista-district",
-      "location": "São Paulo Museum of Art",
-      "city": "Bela Vista District",
-      "country": "Brazil",
-      "lat": -23.561111111,
-      "lon": -46.655833333,
-      "source": "http://www.wikidata.org/entity/Q18177636"
-    },
-    {
-      "id": "Q18177618",
-      "artistId": "jean-baptiste-camille-corot",
-      "artistName": "Jean-Baptiste-Camille Corot",
-      "reviewStatus": "generated",
-      "title": "Laurent-Denis Sennegon",
-      "date": "1842",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "sao-paulo-museum-of-art-bela-vista-district",
-      "location": "São Paulo Museum of Art",
-      "city": "Bela Vista District",
-      "country": "Brazil",
-      "lat": -23.561111111,
-      "lon": -46.655833333,
-      "source": "http://www.wikidata.org/entity/Q18177618"
-    },
-    {
-      "id": "Q49870553",
+      "id": "Q31702677",
       "artistId": "paul-cezanne",
       "artistName": "Paul Cézanne",
       "reviewStatus": "generated",
-      "title": "The Large Pine",
-      "date": "1888",
+      "title": "Scipio the Negro",
+      "date": "1867",
       "type": "Painting",
       "attribution": "Accepted",
       "locationId": "sao-paulo-museum-of-art-bela-vista-district",
@@ -476,92 +112,9 @@
       "country": "Brazil",
       "lat": -23.561111111,
       "lon": -46.655833333,
-      "source": "http://www.wikidata.org/entity/Q49870553"
-    },
-    {
-      "id": "Q49863664",
-      "artistId": "pierre-bonnard",
-      "artistName": "Pierre Bonnard",
-      "reviewStatus": "generated",
-      "title": "Untitled record",
-      "date": "Date unknown",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "sao-paulo-museum-of-art-bela-vista-district",
-      "location": "São Paulo Museum of Art",
-      "city": "Bela Vista District",
-      "country": "Brazil",
-      "lat": -23.561111111,
-      "lon": -46.655833333,
-      "source": "http://www.wikidata.org/entity/Q49863664"
-    },
-    {
-      "id": "Q49867277",
-      "artistId": "pierre-auguste-renoir",
-      "artistName": "Pierre-Auguste Renoir",
-      "reviewStatus": "generated",
-      "title": "Girl with Spikes - Girl with Flowers",
-      "date": "1888",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "sao-paulo-museum-of-art-bela-vista-district",
-      "location": "São Paulo Museum of Art",
-      "city": "Bela Vista District",
-      "country": "Brazil",
-      "lat": -23.561111111,
-      "lon": -46.655833333,
-      "source": "http://www.wikidata.org/entity/Q49867277"
-    },
-    {
-      "id": "Q7232339",
-      "artistId": "rembrandt",
-      "artistName": "Rembrandt",
-      "reviewStatus": "generated",
-      "title": "Portrait of a Young Man with a Golden Chain",
-      "date": "1635",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "sao-paulo-museum-of-art-bela-vista-district",
-      "location": "São Paulo Museum of Art",
-      "city": "Bela Vista District",
-      "country": "Brazil",
-      "lat": -23.561111111,
-      "lon": -46.655833333,
-      "source": "http://www.wikidata.org/entity/Q7232339"
-    },
-    {
-      "id": "Q49873763",
-      "artistId": "thomas-gainsborough",
-      "artistName": "Thomas Gainsborough",
-      "reviewStatus": "generated",
-      "title": "Francis Rawdon, 1st Marquess of Hasting and 2nd Earl of Moira",
-      "date": "1783",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "sao-paulo-museum-of-art-bela-vista-district",
-      "location": "São Paulo Museum of Art",
-      "city": "Bela Vista District",
-      "country": "Brazil",
-      "lat": -23.561111111,
-      "lon": -46.655833333,
-      "source": "http://www.wikidata.org/entity/Q49873763"
-    },
-    {
-      "id": "Q17519249",
-      "artistId": "van-gogh",
-      "artistName": "Vincent van Gogh",
-      "reviewStatus": "generated",
-      "title": "L'Arlésienne",
-      "date": "1890",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "sao-paulo-museum-of-art-bela-vista-district",
-      "location": "São Paulo Museum of Art",
-      "city": "Bela Vista District",
-      "country": "Brazil",
-      "lat": -23.561111111,
-      "lon": -46.655833333,
-      "source": "http://www.wikidata.org/entity/Q17519249"
+      "source": "http://www.wikidata.org/entity/Q31702677",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20C%C3%A9zanne%20-%20Le%20N%C3%A8gre%20Scipion%20-%20MASP.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul-Cezanne.jpg"
     },
     {
       "id": "Q131422005",
@@ -578,7 +131,28 @@
       "country": "Brazil",
       "lat": -22.908798032,
       "lon": -43.175731376,
-      "source": "http://www.wikidata.org/entity/Q131422005"
+      "source": "http://www.wikidata.org/entity/Q131422005",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Tiepolo%2C%20Giovanni%20Battista%20-%20Fresken%20Treppenhaus%20des%20W%C3%BCrzburger%20Residenzschlosses%2C%20Szenen%20zur%20Apotheose%20des%20F%C3%BCrstbischofs%2C%20Detail%20Giovanni%20Battista%20Tiepolo%20-%201750-1753.jpg"
+    },
+    {
+      "id": "Q65080745",
+      "artistId": "lucas-cranach-the-elder",
+      "artistName": "Lucas Cranach the Elder",
+      "reviewStatus": "generated",
+      "title": "Christ Taken Captive",
+      "date": "1509",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "national-library-of-brazil-centro",
+      "location": "National Library of Brazil",
+      "city": "Centro",
+      "country": "Brazil",
+      "lat": -22.909723,
+      "lon": -43.175501,
+      "source": "http://www.wikidata.org/entity/Q65080745",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20the%20Elder%2C%20Christ%20Taken%20Captive%2C%20in%20or%20before%201509%2C%20NGA%2037080.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20d.%20%C3%84.%20063.jpg"
     },
     {
       "id": "Q108028133",
@@ -595,7 +169,9 @@
       "country": "Brazil",
       "lat": -30.0291,
       "lon": -51.2317,
-      "source": "http://www.wikidata.org/entity/Q108028133"
+      "source": "http://www.wikidata.org/entity/Q108028133",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rosa%20Bonheur%20-%20O%20pequeno%20lago%20na%20plan%C3%ADcie%20e%20rebanho%20de%20carneiros.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Andr%C3%A9%20Adolphe-Eug%C3%A8ne%20Disd%C3%A9ri%20%28French%20-%20%28Rosa%20Bonheur%29%20-%20Google%20Art%20Project.jpg"
     },
     {
       "id": "Q22348239",
@@ -612,7 +188,9 @@
       "country": "Brazil",
       "lat": -22.975510442,
       "lon": -43.198345977,
-      "source": "http://www.wikidata.org/entity/Q22348239"
+      "source": "http://www.wikidata.org/entity/Q22348239",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Neve%20em%20Eragny%2C%20Casa%20Museu%20Eva%20Klabin.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg"
     },
     {
       "id": "Q134529013",
@@ -629,7 +207,47 @@
       "country": "Brazil",
       "lat": -22.975510442,
       "lon": -43.198345977,
-      "source": "http://www.wikidata.org/entity/Q134529013"
+      "source": "http://www.wikidata.org/entity/Q134529013",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Botticelli%20%28atribui%C3%A7%C3%A3o%29%20-%20Madona%20com%20Menino%20e%20S%C3%A3o%20Jo%C3%A3o%20Batista.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sandro%20Botticelli%20Self-portrait%20ca%201475.jpg"
+    },
+    {
+      "id": "Q105636963",
+      "artistId": "berthe-morisot",
+      "artistName": "Berthe Morisot",
+      "reviewStatus": "generated",
+      "title": "Woman with a Child in a Boat",
+      "date": "1892",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "museu-da-chacara-do-ceu-rio-de-janeiro",
+      "location": "Museu da Chácara do Céu",
+      "city": "Rio de Janeiro",
+      "country": "Brazil",
+      "lat": -22.91749,
+      "lon": -43.18288,
+      "source": "http://www.wikidata.org/entity/Q105636963",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Berthe%20Morisot%20-%20Mulher%20com%20crian%C3%A7a%20num%20bote.JPG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Morisot%20berthe%20photo.jpg"
+    },
+    {
+      "id": "Q124300784",
+      "artistId": "rosa-bonheur",
+      "artistName": "Rosa Bonheur",
+      "reviewStatus": "generated",
+      "title": "The Hay Harvest",
+      "date": "1900",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "museu-da-chacara-do-ceu-rio-de-janeiro",
+      "location": "Museu da Chácara do Céu",
+      "city": "Rio de Janeiro",
+      "country": "Brazil",
+      "lat": -22.91749,
+      "lon": -43.18288,
+      "source": "http://www.wikidata.org/entity/Q124300784",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rosa%20Bonheur%20-%20A%20Colheita%20do%20Feno.JPG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Andr%C3%A9%20Adolphe-Eug%C3%A8ne%20Disd%C3%A9ri%20%28French%20-%20%28Rosa%20Bonheur%29%20-%20Google%20Art%20Project.jpg"
     },
     {
       "id": "Q124157327",
@@ -646,14 +264,16 @@
       "country": "Brazil",
       "lat": -22.908798032,
       "lon": -43.175731376,
-      "source": "http://www.wikidata.org/entity/Q124157327"
+      "source": "http://www.wikidata.org/entity/Q124157327",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Alfred%20Sisley%20-%20Ventania%2C%201897.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20110.jpg"
     },
     {
-      "id": "Q65080745",
+      "id": "Q65080754",
       "artistId": "lucas-cranach-the-elder",
       "artistName": "Lucas Cranach the Elder",
       "reviewStatus": "generated",
-      "title": "Christ Taken Captive",
+      "title": "The Crucifixion",
       "date": "1509",
       "type": "Painting",
       "attribution": "Accepted",
@@ -663,24 +283,9 @@
       "country": "Brazil",
       "lat": -22.909723,
       "lon": -43.175501,
-      "source": "http://www.wikidata.org/entity/Q65080745"
-    },
-    {
-      "id": "Q105636963",
-      "artistId": "berthe-morisot",
-      "artistName": "Berthe Morisot",
-      "reviewStatus": "generated",
-      "title": "Woman with a Child in a Boat",
-      "date": "1892",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "museu-da-chacara-do-ceu-santa-teresa",
-      "location": "Museu da Chácara do Céu",
-      "city": "Santa Teresa",
-      "country": "Brazil",
-      "lat": -22.91749,
-      "lon": -43.18288,
-      "source": "http://www.wikidata.org/entity/Q105636963"
+      "source": "http://www.wikidata.org/entity/Q65080754",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20-%20The%20Passion-%20Crucifixion%20-%201967.26%20-%20Cleveland%20Museum%20of%20Art.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20d.%20%C3%84.%20063.jpg"
     },
     {
       "id": "Q22159211",
@@ -697,24 +302,9 @@
       "country": "Brazil",
       "lat": -22.91749,
       "lon": -43.18288,
-      "source": "http://www.wikidata.org/entity/Q22159211"
-    },
-    {
-      "id": "Q124300784",
-      "artistId": "rosa-bonheur",
-      "artistName": "Rosa Bonheur",
-      "reviewStatus": "generated",
-      "title": "The Hay Harvest",
-      "date": "1900",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "museu-da-chacara-do-ceu-santa-teresa",
-      "location": "Museu da Chácara do Céu",
-      "city": "Santa Teresa",
-      "country": "Brazil",
-      "lat": -22.91749,
-      "lon": -43.18288,
-      "source": "http://www.wikidata.org/entity/Q124300784"
+      "source": "http://www.wikidata.org/entity/Q22159211",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Courbet-castromaya.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustave%20Courbet%2C%20photograph%20Atelier%20Nadar%2C%20c.%201860s.jpg"
     },
     {
       "id": "Q3630728",
@@ -731,7 +321,28 @@
       "country": "Brazil",
       "lat": -23.588888888,
       "lon": -46.651111111,
-      "source": "http://www.wikidata.org/entity/Q3630728"
+      "source": "http://www.wikidata.org/entity/Q3630728",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Amedeo%20Modigliani%20053.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Amedeo%20Modigliani%201918%20restored.jpg"
+    },
+    {
+      "id": "Q3665754",
+      "artistId": "amedeo-modigliani",
+      "artistName": "Amedeo Modigliani",
+      "reviewStatus": "generated",
+      "title": "Chakoska",
+      "date": "1917",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "sao-paulo-museum-of-art-sao-paulo",
+      "location": "São Paulo Museum of Art",
+      "city": "São Paulo",
+      "country": "Brazil",
+      "lat": -23.561111111,
+      "lon": -46.655833333,
+      "source": "http://www.wikidata.org/entity/Q3665754",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Amedeo%20modigliani%20-%20chakoska%2005.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Amedeo%20Modigliani%201918%20restored.jpg"
     },
     {
       "id": "Q3937599",
@@ -748,7 +359,9 @@
       "country": "Brazil",
       "lat": -23.561111111,
       "lon": -46.655833333,
-      "source": "http://www.wikidata.org/entity/Q3937599"
+      "source": "http://www.wikidata.org/entity/Q3937599",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Amedeo%20modigliani%20-%20retrato%20de%20madame%20hanka%20zborowska%2002.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Amedeo%20Modigliani%201918%20restored.jpg"
     },
     {
       "id": "Q20487624",
@@ -765,7 +378,28 @@
       "country": "Brazil",
       "lat": -23.561111111,
       "lon": -46.655833333,
-      "source": "http://www.wikidata.org/entity/Q20487624"
+      "source": "http://www.wikidata.org/entity/Q20487624",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Amedeo%20modigliani%20-%20retrato%20de%20diego%20rivera%2002.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Amedeo%20Modigliani%201918%20restored.jpg"
+    },
+    {
+      "id": "Q3937606",
+      "artistId": "amedeo-modigliani",
+      "artistName": "Amedeo Modigliani",
+      "reviewStatus": "generated",
+      "title": "Portrait of Léopold Zborowski",
+      "date": "1917",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "sao-paulo-museum-of-art-sao-paulo",
+      "location": "São Paulo Museum of Art",
+      "city": "São Paulo",
+      "country": "Brazil",
+      "lat": -23.561111111,
+      "lon": -46.655833333,
+      "source": "http://www.wikidata.org/entity/Q3937606",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Amedeo%20modigliani%20-%20retrato%20de%20leopoldo%20zborowski%2003.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Amedeo%20Modigliani%201918%20restored.jpg"
     },
     {
       "id": "Q3937760",
@@ -782,7 +416,9 @@
       "country": "Brazil",
       "lat": -23.561111111,
       "lon": -46.655833333,
-      "source": "http://www.wikidata.org/entity/Q3937760"
+      "source": "http://www.wikidata.org/entity/Q3937760",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Amedeo%20Modigliani%20022.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Amedeo%20Modigliani%201918%20restored.jpg"
     },
     {
       "id": "Q15974352",
@@ -799,15 +435,17 @@
       "country": "Brazil",
       "lat": -23.561111111,
       "lon": -46.655833333,
-      "source": "http://www.wikidata.org/entity/Q15974352"
+      "source": "http://www.wikidata.org/entity/Q15974352",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Amedeo%20modigliani%20-%20ren%C3%A9e%2005.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Amedeo%20Modigliani%201918%20restored.jpg"
     },
     {
-      "id": "Q49876248",
-      "artistId": "anthony-van-dyck",
-      "artistName": "Anthony van Dyck",
+      "id": "Q131542203",
+      "artistId": "bartolome-esteban-murillo",
+      "artistName": "Bartolomé Esteban Murillo",
       "reviewStatus": "generated",
-      "title": "Portrait of Marquise Lomellini, with her children at prayer",
-      "date": "1623",
+      "title": "Heilige Katharina von Alexandrien",
+      "date": "1650",
       "type": "Painting",
       "attribution": "Accepted",
       "locationId": "sao-paulo-museum-of-art-sao-paulo",
@@ -816,7 +454,85 @@
       "country": "Brazil",
       "lat": -23.561111111,
       "lon": -46.655833333,
-      "source": "http://www.wikidata.org/entity/Q49876248"
+      "source": "http://www.wikidata.org/entity/Q131542203",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20esteban%20murillo%20-%20santa%20catarina%20de%20alexandria%2001.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg"
+    },
+    {
+      "id": "Q49875935",
+      "artistId": "bartolome-esteban-murillo",
+      "artistName": "Bartolomé Esteban Murillo",
+      "reviewStatus": "generated",
+      "title": "Untitled record",
+      "date": "Date unknown",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "sao-paulo-museum-of-art-sao-paulo",
+      "location": "São Paulo Museum of Art",
+      "city": "São Paulo",
+      "country": "Brazil",
+      "lat": -23.561111111,
+      "lon": -46.655833333,
+      "source": "http://www.wikidata.org/entity/Q49875935",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg"
+    },
+    {
+      "id": "Q4931530",
+      "artistId": "monet",
+      "artistName": "Claude Monet",
+      "reviewStatus": "generated",
+      "title": "Boating on the River Epte",
+      "date": "1890",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "sao-paulo-museum-of-art-sao-paulo",
+      "location": "São Paulo Museum of Art",
+      "city": "São Paulo",
+      "country": "Brazil",
+      "lat": -23.561111111,
+      "lon": -46.655833333,
+      "source": "http://www.wikidata.org/entity/Q4931530",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Monet%20-%20canoaepte01.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%201899%20Nadar%20crop.jpg"
+    },
+    {
+      "id": "Q49864671",
+      "artistId": "monet",
+      "artistName": "Claude Monet",
+      "reviewStatus": "generated",
+      "title": "The Japanese Bridge",
+      "date": "1920",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "sao-paulo-museum-of-art-sao-paulo",
+      "location": "São Paulo Museum of Art",
+      "city": "São Paulo",
+      "country": "Brazil",
+      "lat": -23.561111111,
+      "lon": -46.655833333,
+      "source": "http://www.wikidata.org/entity/Q49864671",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Monet%20-%20Ponte%20Japonesa.JPG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%201899%20Nadar%20crop.jpg"
+    },
+    {
+      "id": "Q49859482",
+      "artistId": "diego-rivera",
+      "artistName": "Diego Rivera",
+      "reviewStatus": "generated",
+      "title": "Untitled record",
+      "date": "1947",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "sao-paulo-museum-of-art-sao-paulo",
+      "location": "São Paulo Museum of Art",
+      "city": "São Paulo",
+      "country": "Brazil",
+      "lat": -23.561111111,
+      "lon": -46.655833333,
+      "source": "http://www.wikidata.org/entity/Q49859482",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Rivera%20-%20Google%20Art%20Project%20%28cropped%29.jpg"
     },
     {
       "id": "Q49859584",
@@ -833,7 +549,9 @@
       "country": "Brazil",
       "lat": -23.561111111,
       "lon": -46.655833333,
-      "source": "http://www.wikidata.org/entity/Q49859584"
+      "source": "http://www.wikidata.org/entity/Q49859584",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Rivera%20-%20Google%20Art%20Project%20%28cropped%29.jpg"
     },
     {
       "id": "Q4556666",
@@ -850,7 +568,9 @@
       "country": "Brazil",
       "lat": -23.561111111,
       "lon": -46.655833333,
-      "source": "http://www.wikidata.org/entity/Q4556666"
+      "source": "http://www.wikidata.org/entity/Q4556666",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20the%20Count-Duke%20of%20Olivares%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Vel%C3%A1zquez%20Autorretrato%2045%20x%2038%20cm%20-%20Colecci%C3%B3n%20Real%20Academia%20de%20Bellas%20Artes%20de%20San%20Carlos%20-%20Museo%20de%20Bellas%20Artes%20de%20Valencia.jpg"
     },
     {
       "id": "Q47368309",
@@ -867,7 +587,28 @@
       "country": "Brazil",
       "lat": -23.561111111,
       "lon": -46.655833333,
-      "source": "http://www.wikidata.org/entity/Q47368309"
+      "source": "http://www.wikidata.org/entity/Q47368309",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Degas%20-%20Quatro%20Bailarinas%20em%20Cena.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20self%20portrait%201855FXD.jpg"
+    },
+    {
+      "id": "Q105444396",
+      "artistId": "edgar-degas",
+      "artistName": "Edgar Degas",
+      "reviewStatus": "generated",
+      "title": "The Little Dancer Aged Fourteen",
+      "date": "1880",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "sao-paulo-museum-of-art-sao-paulo",
+      "location": "São Paulo Museum of Art",
+      "city": "São Paulo",
+      "country": "Brazil",
+      "lat": -23.561111111,
+      "lon": -46.655833333,
+      "source": "http://www.wikidata.org/entity/Q105444396",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20-%20Bailarina%20de%20Quatorze%20Anos%2001.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20self%20portrait%201855FXD.jpg"
     },
     {
       "id": "Q49869022",
@@ -884,7 +625,9 @@
       "country": "Brazil",
       "lat": -23.561111111,
       "lon": -46.655833333,
-      "source": "http://www.wikidata.org/entity/Q49869022"
+      "source": "http://www.wikidata.org/entity/Q49869022",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Degas%20-%20Mulher%20Enxugando%20o%20Bra%C3%A7o%20Esquerdo.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20self%20portrait%201855FXD.jpg"
     },
     {
       "id": "Q43293932",
@@ -901,7 +644,9 @@
       "country": "Brazil",
       "lat": -23.561111111,
       "lon": -46.655833333,
-      "source": "http://www.wikidata.org/entity/Q43293932"
+      "source": "http://www.wikidata.org/entity/Q43293932",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bathers%20on%20the%20Seine-Academy%2C%20by%20Edouard%20Manet%2C%201874-1876%2C%20oil%20on%20canvas%20-%20Museu%20de%20Arte%20de%20S%C3%A3o%20Paulo%20-%20DSC07159.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Manet%2C%20en%20buste%2C%20de%20face%20-%20Nadar.jpg"
     },
     {
       "id": "Q3399437",
@@ -918,7 +663,9 @@
       "country": "Brazil",
       "lat": -23.561111111,
       "lon": -46.655833333,
-      "source": "http://www.wikidata.org/entity/Q3399437"
+      "source": "http://www.wikidata.org/entity/Q3399437",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Manet%20-%20Pertuiset%2C%20le%20chasseur%20de%20lions.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Manet%2C%20en%20buste%2C%20de%20face%20-%20Nadar.jpg"
     },
     {
       "id": "Q43294256",
@@ -935,7 +682,9 @@
       "country": "Brazil",
       "lat": -23.561111111,
       "lon": -46.655833333,
-      "source": "http://www.wikidata.org/entity/Q43294256"
+      "source": "http://www.wikidata.org/entity/Q43294256",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Artist%2C%20Portrait%20of%20Marcellin%20Desboutin%2C%20by%20Edouard%20Manet%2C%201875%2C%20oil%20on%20canvas%20-%20Museu%20de%20Arte%20de%20S%C3%A3o%20Paulo%20-%20DSC07193.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Manet%2C%20en%20buste%2C%20de%20face%20-%20Nadar.jpg"
     },
     {
       "id": "Q43293677",
@@ -952,7 +701,9 @@
       "country": "Brazil",
       "lat": -23.561111111,
       "lon": -46.655833333,
-      "source": "http://www.wikidata.org/entity/Q43293677"
+      "source": "http://www.wikidata.org/entity/Q43293677",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Amazon%2C%20Portrait%20of%20Marie%20Lefebure%2C%20by%20Edouard%20Manet%2C%201870-1875%2C%20oil%20on%20canvas%20-%20Museu%20de%20Arte%20de%20S%C3%A3o%20Paulo%20-%20DSC07170.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Manet%2C%20en%20buste%2C%20de%20face%20-%20Nadar.jpg"
     },
     {
       "id": "Q49864919",
@@ -969,24 +720,9 @@
       "country": "Brazil",
       "lat": -23.561111111,
       "lon": -46.655833333,
-      "source": "http://www.wikidata.org/entity/Q49864919"
-    },
-    {
-      "id": "Q49864801",
-      "artistId": "edouard-vuillard",
-      "artistName": "Édouard Vuillard",
-      "reviewStatus": "generated",
-      "title": "Untitled record",
-      "date": "1920",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "sao-paulo-museum-of-art-sao-paulo",
-      "location": "São Paulo Museum of Art",
-      "city": "São Paulo",
-      "country": "Brazil",
-      "lat": -23.561111111,
-      "lon": -46.655833333,
-      "source": "http://www.wikidata.org/entity/Q49864801"
+      "source": "http://www.wikidata.org/entity/Q49864919",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Flowered%20Dress%2C%20by%20Edouard%20Vuillard%2C%201891%2C%20oil%20on%20canvas%20-%20Museu%20de%20Arte%20de%20S%C3%A3o%20Paulo%20-%20DSC07358.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Self-Portrait%2C%20Aged%2021%20A21192.jpg"
     },
     {
       "id": "Q49864847",
@@ -1003,7 +739,28 @@
       "country": "Brazil",
       "lat": -23.561111111,
       "lon": -46.655833333,
-      "source": "http://www.wikidata.org/entity/Q49864847"
+      "source": "http://www.wikidata.org/entity/Q49864847",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Yvonne%20Printemps%20and%20Sacha%20Guitry%2C%20by%20Edouard%20Vuillard%2C%20c.%201917%2C%20oil%20on%20paper%20on%20canvas%20-%20Museu%20de%20Arte%20de%20S%C3%A3o%20Paulo%20-%20DSC07350.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Self-Portrait%2C%20Aged%2021%20A21192.jpg"
+    },
+    {
+      "id": "Q49864801",
+      "artistId": "edouard-vuillard",
+      "artistName": "Édouard Vuillard",
+      "reviewStatus": "generated",
+      "title": "Untitled record",
+      "date": "1920",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "sao-paulo-museum-of-art-sao-paulo",
+      "location": "São Paulo Museum of Art",
+      "city": "São Paulo",
+      "country": "Brazil",
+      "lat": -23.561111111,
+      "lon": -46.655833333,
+      "source": "http://www.wikidata.org/entity/Q49864801",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Princess%20Bibesco%2C%20by%20Edouard%20Vuillard%2C%20c.%201920%2C%20oil%20on%20cardboard%20-%20Museu%20de%20Arte%20de%20S%C3%A3o%20Paulo%20-%20DSC07363.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Self-Portrait%2C%20Aged%2021%20A21192.jpg"
     },
     {
       "id": "Q10396382",
@@ -1020,7 +777,9 @@
       "country": "Brazil",
       "lat": -23.561111111,
       "lon": -46.655833333,
-      "source": "http://www.wikidata.org/entity/Q10396382"
+      "source": "http://www.wikidata.org/entity/Q10396382",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Greco%20-%20S%C3%A3o%20Francisco.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Greco%20-%20Portrait%20of%20a%20Man%20-%20WGA10554.jpg"
     },
     {
       "id": "Q5395006",
@@ -1037,7 +796,9 @@
       "country": "Brazil",
       "lat": -23.561111111,
       "lon": -46.655833333,
-      "source": "http://www.wikidata.org/entity/Q5395006"
+      "source": "http://www.wikidata.org/entity/Q5395006",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Greco%20-%20Anuncia%C3%A7%C3%A3o.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Greco%20-%20Portrait%20of%20a%20Man%20-%20WGA10554.jpg"
     },
     {
       "id": "Q49871824",
@@ -1054,7 +815,9 @@
       "country": "Brazil",
       "lat": -23.561111111,
       "lon": -46.655833333,
-      "source": "http://www.wikidata.org/entity/Q49871824"
+      "source": "http://www.wikidata.org/entity/Q49871824",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Eug%C3%A8ne%20Delacroix%20-%20Four%20Seasons%2C%20Autumn%20-%20Baccus%20and%20Ariadne%20%28MASP%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Autoportrait%20-%20Eug%C3%A8ne%20Delacroix%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20RF%2025.jpg"
     },
     {
       "id": "Q49871766",
@@ -1071,7 +834,28 @@
       "country": "Brazil",
       "lat": -23.561111111,
       "lon": -46.655833333,
-      "source": "http://www.wikidata.org/entity/Q49871766"
+      "source": "http://www.wikidata.org/entity/Q49871766",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Eug%C3%A8ne%20Delacroix%20-%20Four%20Seasons%2C%20Spring%20-%20Eurydice%20bitten%20by%20a%20serpent%20while%20picking%20flowers%20%28MASP%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Autoportrait%20-%20Eug%C3%A8ne%20Delacroix%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20RF%2025.jpg"
+    },
+    {
+      "id": "Q49871791",
+      "artistId": "eugene-delacroix",
+      "artistName": "Eugène Delacroix",
+      "reviewStatus": "generated",
+      "title": "The Summer - Diana surprised by Actaeon",
+      "date": "1850",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "sao-paulo-museum-of-art-sao-paulo",
+      "location": "São Paulo Museum of Art",
+      "city": "São Paulo",
+      "country": "Brazil",
+      "lat": -23.561111111,
+      "lon": -46.655833333,
+      "source": "http://www.wikidata.org/entity/Q49871791",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Eug%C3%A8ne%20Delacroix%20-%20Four%20Seasons%2C%20Summer%20-%20Diana%20surprised%20by%20Actaeon%20%28MASP%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Autoportrait%20-%20Eug%C3%A8ne%20Delacroix%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20RF%2025.jpg"
     },
     {
       "id": "Q49871847",
@@ -1088,7 +872,9 @@
       "country": "Brazil",
       "lat": -23.561111111,
       "lon": -46.655833333,
-      "source": "http://www.wikidata.org/entity/Q49871847"
+      "source": "http://www.wikidata.org/entity/Q49871847",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Eug%C3%A8ne%20Delacroix%20-%20Four%20Seasons%2C%20Winter%20-%20Juno%20beseeches%20to%20destroy%20Eneas%27%20Fleet%20%28MASP%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Autoportrait%20-%20Eug%C3%A8ne%20Delacroix%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20RF%2025.jpg"
     },
     {
       "id": "Q49876466",
@@ -1105,7 +891,28 @@
       "country": "Brazil",
       "lat": -23.561111111,
       "lon": -46.655833333,
-      "source": "http://www.wikidata.org/entity/Q49876466"
+      "source": "http://www.wikidata.org/entity/Q49876466",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Francisco%20de%20Zurbar%C3%A1n%20-%20Sto%20Antonio%20de%20Padua.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Francisco%20de%20Zurbar%C3%A1n%20autoportrait.jpg"
+    },
+    {
+      "id": "Q49873216",
+      "artistId": "francisco-goya",
+      "artistName": "Francisco Goya",
+      "reviewStatus": "generated",
+      "title": "Juan Antonio Llorente",
+      "date": "1850",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "sao-paulo-museum-of-art-sao-paulo",
+      "location": "São Paulo Museum of Art",
+      "city": "São Paulo",
+      "country": "Brazil",
+      "lat": -23.561111111,
+      "lon": -46.655833333,
+      "source": "http://www.wikidata.org/entity/Q49873216",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Francisco%20goya%2C%20ritratto%20di%20don%20juan%20antonio%20llorente%2C%201809-13%2C%2002.JPG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Vicente%20L%C3%B3pez%20Porta%C3%B1a%20-%20el%20pintor%20Francisco%20de%20Goya.jpg"
     },
     {
       "id": "Q11735638",
@@ -1122,7 +929,9 @@
       "country": "Brazil",
       "lat": -23.561111111,
       "lon": -46.655833333,
-      "source": "http://www.wikidata.org/entity/Q11735638"
+      "source": "http://www.wikidata.org/entity/Q11735638",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Goya%20-%20cardealvallabriga01.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Vicente%20L%C3%B3pez%20Porta%C3%B1a%20-%20el%20pintor%20Francisco%20de%20Goya.jpg"
     },
     {
       "id": "Q49873242",
@@ -1139,7 +948,9 @@
       "country": "Brazil",
       "lat": -23.561111111,
       "lon": -46.655833333,
-      "source": "http://www.wikidata.org/entity/Q49873242"
+      "source": "http://www.wikidata.org/entity/Q49873242",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Goya%20-%20Fernando%20VII.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Vicente%20L%C3%B3pez%20Porta%C3%B1a%20-%20el%20pintor%20Francisco%20de%20Goya.jpg"
     },
     {
       "id": "Q49873351",
@@ -1156,7 +967,28 @@
       "country": "Brazil",
       "lat": -23.561111111,
       "lon": -46.655833333,
-      "source": "http://www.wikidata.org/entity/Q49873351"
+      "source": "http://www.wikidata.org/entity/Q49873351",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Goya%20-%20Condessa%20de%20Casa%20Flores.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Vicente%20L%C3%B3pez%20Porta%C3%B1a%20-%20el%20pintor%20Francisco%20de%20Goya.jpg"
+    },
+    {
+      "id": "Q49874550",
+      "artistId": "francois-boucher",
+      "artistName": "François Boucher",
+      "reviewStatus": "generated",
+      "title": "Untitled record",
+      "date": "1750",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "sao-paulo-museum-of-art-sao-paulo",
+      "location": "São Paulo Museum of Art",
+      "city": "São Paulo",
+      "country": "Brazil",
+      "lat": -23.561111111,
+      "lon": -46.655833333,
+      "source": "http://www.wikidata.org/entity/Q49874550",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Boucher%20par%20Gustav%20Lundberg%201741.jpg"
     },
     {
       "id": "Q6728393",
@@ -1173,7 +1005,47 @@
       "country": "Brazil",
       "lat": -23.561111111,
       "lon": -46.655833333,
-      "source": "http://www.wikidata.org/entity/Q6728393"
+      "source": "http://www.wikidata.org/entity/Q6728393",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Giovanni%20Bellini%20Madonna%20Willys.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Portr%C3%A6t%20af%20den%20venezianske%20maler%20Giovanni%20Bellini.jpg"
+    },
+    {
+      "id": "Q49871221",
+      "artistId": "gustave-courbet",
+      "artistName": "Gustave Courbet",
+      "reviewStatus": "generated",
+      "title": "Portrait de Juliette Courbet",
+      "date": "1873",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "sao-paulo-museum-of-art-sao-paulo",
+      "location": "São Paulo Museum of Art",
+      "city": "São Paulo",
+      "country": "Brazil",
+      "lat": -23.561111111,
+      "lon": -46.655833333,
+      "source": "http://www.wikidata.org/entity/Q49871221",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustave%20Courbet%20-%20Juliette%20Courbet.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustave%20Courbet%2C%20photograph%20Atelier%20Nadar%2C%20c.%201860s.jpg"
+    },
+    {
+      "id": "Q49871258",
+      "artistId": "gustave-courbet",
+      "artistName": "Gustave Courbet",
+      "reviewStatus": "generated",
+      "title": "Zélie Courbet",
+      "date": "1847",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "sao-paulo-museum-of-art-sao-paulo",
+      "location": "São Paulo Museum of Art",
+      "city": "São Paulo",
+      "country": "Brazil",
+      "lat": -23.561111111,
+      "lon": -46.655833333,
+      "source": "http://www.wikidata.org/entity/Q49871258",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustave%20Courbet%20-%20Z%C3%A9lie%20Courbet.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustave%20Courbet%2C%20photograph%20Atelier%20Nadar%2C%20c.%201860s.jpg"
     },
     {
       "id": "Q49877743",
@@ -1190,7 +1062,9 @@
       "country": "Brazil",
       "lat": -23.561111111,
       "lon": -46.655833333,
-      "source": "http://www.wikidata.org/entity/Q49877743"
+      "source": "http://www.wikidata.org/entity/Q49877743",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Holbein%20-%20henryhoward01.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hans%20Holbein%20the%20Younger%2C%20self-portrait.jpg"
     },
     {
       "id": "Q49869319",
@@ -1207,7 +1081,9 @@
       "country": "Brazil",
       "lat": -23.561111111,
       "lon": -46.655833333,
-      "source": "http://www.wikidata.org/entity/Q49869319"
+      "source": "http://www.wikidata.org/entity/Q49869319",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Photolautrec.jpg"
     },
     {
       "id": "Q49869714",
@@ -1224,7 +1100,9 @@
       "country": "Brazil",
       "lat": -23.561111111,
       "lon": -46.655833333,
-      "source": "http://www.wikidata.org/entity/Q49869714"
+      "source": "http://www.wikidata.org/entity/Q49869714",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Toulouse-Lautrec%20-%20Ad%C3%A8le%20de%20Toulouse-Lautrec.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Photolautrec.jpg"
     },
     {
       "id": "Q6022118",
@@ -1241,7 +1119,47 @@
       "country": "Brazil",
       "lat": -23.561111111,
       "lon": -46.655833333,
-      "source": "http://www.wikidata.org/entity/Q6022118"
+      "source": "http://www.wikidata.org/entity/Q6022118",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Toulouse-Lautrec%20-%20Monsieur%20Fourcade.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Photolautrec.jpg"
+    },
+    {
+      "id": "Q49869388",
+      "artistId": "henri-de-toulouse-lautrec",
+      "artistName": "Henri de Toulouse-Lautrec",
+      "reviewStatus": "generated",
+      "title": "Monsieur Louis Pascal visto de costa",
+      "date": "Date unknown",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "sao-paulo-museum-of-art-sao-paulo",
+      "location": "São Paulo Museum of Art",
+      "city": "São Paulo",
+      "country": "Brazil",
+      "lat": -23.561111111,
+      "lon": -46.655833333,
+      "source": "http://www.wikidata.org/entity/Q49869388",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Photolautrec.jpg"
+    },
+    {
+      "id": "Q49869569",
+      "artistId": "henri-de-toulouse-lautrec",
+      "artistName": "Henri de Toulouse-Lautrec",
+      "reviewStatus": "generated",
+      "title": "Mulheres se penteando - duas mulheres em camisola",
+      "date": "1891",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "sao-paulo-museum-of-art-sao-paulo",
+      "location": "São Paulo Museum of Art",
+      "city": "São Paulo",
+      "country": "Brazil",
+      "lat": -23.561111111,
+      "lon": -46.655833333,
+      "source": "http://www.wikidata.org/entity/Q49869569",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Photolautrec.jpg"
     },
     {
       "id": "Q49869146",
@@ -1258,7 +1176,47 @@
       "country": "Brazil",
       "lat": -23.561111111,
       "lon": -46.655833333,
-      "source": "http://www.wikidata.org/entity/Q49869146"
+      "source": "http://www.wikidata.org/entity/Q49869146",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20de%20toulouse-laurtrec%2C%20ritratto%20di%20octave%20raquin%2C%201901.JPG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Photolautrec.jpg"
+    },
+    {
+      "id": "Q49869220",
+      "artistId": "henri-de-toulouse-lautrec",
+      "artistName": "Henri de Toulouse-Lautrec",
+      "reviewStatus": "generated",
+      "title": "Paul Viaud em almirante do século XVIII",
+      "date": "1901",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "sao-paulo-museum-of-art-sao-paulo",
+      "location": "São Paulo Museum of Art",
+      "city": "São Paulo",
+      "country": "Brazil",
+      "lat": -23.561111111,
+      "lon": -46.655833333,
+      "source": "http://www.wikidata.org/entity/Q49869220",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Toulouse-Lautrec%20-%20Paul%20Viaud.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Photolautrec.jpg"
+    },
+    {
+      "id": "Q49869464",
+      "artistId": "henri-de-toulouse-lautrec",
+      "artistName": "Henri de Toulouse-Lautrec",
+      "reviewStatus": "generated",
+      "title": "The Wheel",
+      "date": "1893",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "sao-paulo-museum-of-art-sao-paulo",
+      "location": "São Paulo Museum of Art",
+      "city": "São Paulo",
+      "country": "Brazil",
+      "lat": -23.561111111,
+      "lon": -46.655833333,
+      "source": "http://www.wikidata.org/entity/Q49869464",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Photolautrec.jpg"
     },
     {
       "id": "Q49865658",
@@ -1275,7 +1233,9 @@
       "country": "Brazil",
       "lat": -23.561111111,
       "lon": -46.655833333,
-      "source": "http://www.wikidata.org/entity/Q49865658"
+      "source": "http://www.wikidata.org/entity/Q49865658",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Le%20Torse%20en%20pl%C3%A2tre%2C%20par%20Henri%20Matisse.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Henri%20Matisse%201933%20May%2020.jpg"
     },
     {
       "id": "Q49865751",
@@ -1292,7 +1252,47 @@
       "country": "Brazil",
       "lat": -23.561111111,
       "lon": -46.655833333,
-      "source": "http://www.wikidata.org/entity/Q49865751"
+      "source": "http://www.wikidata.org/entity/Q49865751",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20matisse%2C%20paesaggio%20bretone%20%28il%20villaggio%20di%20belle-ile%29%2C%201897-98%2C%2001.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Henri%20Matisse%201933%20May%2020.jpg"
+    },
+    {
+      "id": "Q1852892",
+      "artistId": "hieronymus-bosch",
+      "artistName": "Hieronymus Bosch",
+      "reviewStatus": "generated",
+      "title": "The Temptations of St. Anthony (Hieronymus Bosch, São Paulo)",
+      "date": "1500",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "sao-paulo-museum-of-art-sao-paulo",
+      "location": "São Paulo Museum of Art",
+      "city": "São Paulo",
+      "country": "Brazil",
+      "lat": -23.561111111,
+      "lon": -46.655833333,
+      "source": "http://www.wikidata.org/entity/Q1852892",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bosch%20-%20tentacoesstoantao01.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg"
+    },
+    {
+      "id": "Q49871736",
+      "artistId": "honore-daumier",
+      "artistName": "Honoré Daumier",
+      "reviewStatus": "generated",
+      "title": "Untitled record",
+      "date": "Date unknown",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "sao-paulo-museum-of-art-sao-paulo",
+      "location": "São Paulo Museum of Art",
+      "city": "São Paulo",
+      "country": "Brazil",
+      "lat": -23.561111111,
+      "lon": -46.655833333,
+      "source": "http://www.wikidata.org/entity/Q49871736",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Honore%20Daumier-Nadar.jpg"
     },
     {
       "id": "Q49872775",
@@ -1309,7 +1309,9 @@
       "country": "Brazil",
       "lat": -23.561111111,
       "lon": -46.655833333,
-      "source": "http://www.wikidata.org/entity/Q49872775"
+      "source": "http://www.wikidata.org/entity/Q49872775",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%2C%20Caernarfon%20Castle%20%281830-1835%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%20auto-retrato.jpg"
     },
     {
       "id": "Q49871590",
@@ -1326,7 +1328,9 @@
       "country": "Brazil",
       "lat": -23.561111111,
       "lon": -46.655833333,
-      "source": "http://www.wikidata.org/entity/Q49871590"
+      "source": "http://www.wikidata.org/entity/Q49871590",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20auguste%20dominique%20ingres%20-%20ang%C3%A9lica%20acorrentada%2001.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%2C%20Self-portrait.jpg"
     },
     {
       "id": "Q49871655",
@@ -1343,7 +1347,9 @@
       "country": "Brazil",
       "lat": -23.561111111,
       "lon": -46.655833333,
-      "source": "http://www.wikidata.org/entity/Q49871655"
+      "source": "http://www.wikidata.org/entity/Q49871655",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20auguste%20dominique%20ingres%20-%20cristo%20aben%C3%A7oador%2001.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%2C%20Self-portrait.jpg"
     },
     {
       "id": "Q49871702",
@@ -1360,7 +1366,9 @@
       "country": "Brazil",
       "lat": -23.561111111,
       "lon": -46.655833333,
-      "source": "http://www.wikidata.org/entity/Q49871702"
+      "source": "http://www.wikidata.org/entity/Q49871702",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-auguste-dominique%20ingres%2C%20madonna%20del%20velo%20azzurro%2C%201827%2C%2001.JPG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%2C%20Self-portrait.jpg"
     },
     {
       "id": "Q18177652",
@@ -1377,7 +1385,47 @@
       "country": "Brazil",
       "lat": -23.561111111,
       "lon": -46.655833333,
-      "source": "http://www.wikidata.org/entity/Q18177652"
+      "source": "http://www.wikidata.org/entity/Q18177652",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gypsy%20Girl%20with%20Mandolin%2C%20by%20Jean-Baptiste-Camille%20Corot.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste-Camille%20Corot%20c1850.png"
+    },
+    {
+      "id": "Q18177636",
+      "artistId": "jean-baptiste-camille-corot",
+      "artistName": "Jean-Baptiste-Camille Corot",
+      "reviewStatus": "generated",
+      "title": "Landscape with Peasant Girl",
+      "date": "1861",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "sao-paulo-museum-of-art-sao-paulo",
+      "location": "São Paulo Museum of Art",
+      "city": "São Paulo",
+      "country": "Brazil",
+      "lat": -23.561111111,
+      "lon": -46.655833333,
+      "source": "http://www.wikidata.org/entity/Q18177636",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Corot%20-%20paisagem%20com%20camponesa.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste-Camille%20Corot%20c1850.png"
+    },
+    {
+      "id": "Q18177618",
+      "artistId": "jean-baptiste-camille-corot",
+      "artistName": "Jean-Baptiste-Camille Corot",
+      "reviewStatus": "generated",
+      "title": "Laurent-Denis Sennegon",
+      "date": "1842",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "sao-paulo-museum-of-art-sao-paulo",
+      "location": "São Paulo Museum of Art",
+      "city": "São Paulo",
+      "country": "Brazil",
+      "lat": -23.561111111,
+      "lon": -46.655833333,
+      "source": "http://www.wikidata.org/entity/Q18177618",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Corot%20-%20laurent%20denis%20sennegon.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste-Camille%20Corot%20c1850.png"
     },
     {
       "id": "Q18177653",
@@ -1394,7 +1442,9 @@
       "country": "Brazil",
       "lat": -23.561111111,
       "lon": -46.655833333,
-      "source": "http://www.wikidata.org/entity/Q18177653"
+      "source": "http://www.wikidata.org/entity/Q18177653",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Corot%20-%20rosas%20num%20copo.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste-Camille%20Corot%20c1850.png"
     },
     {
       "id": "Q18177654",
@@ -1411,7 +1461,9 @@
       "country": "Brazil",
       "lat": -23.561111111,
       "lon": -46.655833333,
-      "source": "http://www.wikidata.org/entity/Q18177654"
+      "source": "http://www.wikidata.org/entity/Q18177654",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Corot%20-%20jovem%20de%20ombro%20nu.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste-Camille%20Corot%20c1850.png"
     },
     {
       "id": "Q20087649",
@@ -1428,7 +1480,9 @@
       "country": "Brazil",
       "lat": -23.561111111,
       "lon": -46.655833333,
-      "source": "http://www.wikidata.org/entity/Q20087649"
+      "source": "http://www.wikidata.org/entity/Q20087649",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%2C%20Jean%20Sim%C3%A9on%20-%20Godefroy%2C%20Auguste%20Gabriel%20-%20Museu%20de%20Arte%20de%20S%C3%A3o%20Paulo%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg"
     },
     {
       "id": "Q49874063",
@@ -1445,7 +1499,9 @@
       "country": "Brazil",
       "lat": -23.561111111,
       "lon": -46.655833333,
-      "source": "http://www.wikidata.org/entity/Q49874063"
+      "source": "http://www.wikidata.org/entity/Q49874063",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20honor%C3%A9%20fragonard%20-%20a%20educa%C3%A7%C3%A3o%20faz%20tudo.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Honor%C3%A9%20Fragonard%20self-portrait.jpg"
     },
     {
       "id": "Q49874014",
@@ -1462,7 +1518,9 @@
       "country": "Brazil",
       "lat": -23.561111111,
       "lon": -46.655833333,
-      "source": "http://www.wikidata.org/entity/Q49874014"
+      "source": "http://www.wikidata.org/entity/Q49874014",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20honor%C3%A9%20fragonard%20-%20retrato%20condessa%20turpin%20de%20criss%C3%A9.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Honor%C3%A9%20Fragonard%20self-portrait.jpg"
     },
     {
       "id": "Q19896707",
@@ -1479,7 +1537,9 @@
       "country": "Brazil",
       "lat": -23.561111111,
       "lon": -46.655833333,
-      "source": "http://www.wikidata.org/entity/Q19896707"
+      "source": "http://www.wikidata.org/entity/Q19896707",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20constable%2C%20cattedrale%20di%20salisbury%20vista%20dal%20giardino%20del%20vescovo%2C%201821-22%2C%2001.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Constable%20by%20Daniel%20Gardner%2C%201796.JPG"
     },
     {
       "id": "Q49877820",
@@ -1496,7 +1556,9 @@
       "country": "Brazil",
       "lat": -23.561111111,
       "lon": -46.655833333,
-      "source": "http://www.wikidata.org/entity/Q49877820"
+      "source": "http://www.wikidata.org/entity/Q49877820",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Retrato%20de%20jovem%20aristocrata%20-%20um%20jovem%20noivo%20da%20fam%C3%ADlia%20Rava%2C%201539.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20d.%20%C3%84.%20063.jpg"
     },
     {
       "id": "Q49864530",
@@ -1513,7 +1575,9 @@
       "country": "Brazil",
       "lat": -23.561111111,
       "lon": -46.655833333,
-      "source": "http://www.wikidata.org/entity/Q49864530"
+      "source": "http://www.wikidata.org/entity/Q49864530",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Shagal%20Choumoff.jpg"
     },
     {
       "id": "Q49870534",
@@ -1530,7 +1594,9 @@
       "country": "Brazil",
       "lat": -23.561111111,
       "lon": -46.655833333,
-      "source": "http://www.wikidata.org/entity/Q49870534"
+      "source": "http://www.wikidata.org/entity/Q49870534",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20C%C3%A9zanne%20-%20Madame%20C%C3%A9zanne%20em%20Vermelho.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul-Cezanne.jpg"
     },
     {
       "id": "Q3898001",
@@ -1547,7 +1613,9 @@
       "country": "Brazil",
       "lat": -23.561111111,
       "lon": -46.655833333,
-      "source": "http://www.wikidata.org/entity/Q3898001"
+      "source": "http://www.wikidata.org/entity/Q3898001",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Alexis%20Reading%20a%20Manuscript%20to%20Zola%2C%20by%20Paul%20Cezanne%2C%201869-1870%2C%20oil%20on%20canvas%20-%20Museu%20de%20Arte%20de%20S%C3%A3o%20Paulo%20-%20DSC07151.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul-Cezanne.jpg"
     },
     {
       "id": "Q49870571",
@@ -1564,15 +1632,17 @@
       "country": "Brazil",
       "lat": -23.561111111,
       "lon": -46.655833333,
-      "source": "http://www.wikidata.org/entity/Q49870571"
+      "source": "http://www.wikidata.org/entity/Q49870571",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20C%C3%A9zanne%20-%20Rochedos%20em%20L%27Estaque.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul-Cezanne.jpg"
     },
     {
-      "id": "Q31702677",
+      "id": "Q49870553",
       "artistId": "paul-cezanne",
       "artistName": "Paul Cézanne",
       "reviewStatus": "generated",
-      "title": "Scipio the Negro",
-      "date": "1867",
+      "title": "The Large Pine",
+      "date": "1888",
       "type": "Painting",
       "attribution": "Accepted",
       "locationId": "sao-paulo-museum-of-art-sao-paulo",
@@ -1581,7 +1651,9 @@
       "country": "Brazil",
       "lat": -23.561111111,
       "lon": -46.655833333,
-      "source": "http://www.wikidata.org/entity/Q31702677"
+      "source": "http://www.wikidata.org/entity/Q49870553",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20C%C3%A9zanne%20-%20O%20Grande%20Pinheiro.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul-Cezanne.jpg"
     },
     {
       "id": "Q49870347",
@@ -1598,7 +1670,9 @@
       "country": "Brazil",
       "lat": -23.561111111,
       "lon": -46.655833333,
-      "source": "http://www.wikidata.org/entity/Q49870347"
+      "source": "http://www.wikidata.org/entity/Q49870347",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gauguin%20-%20Pobre%20Pescador.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Gauguin%201891.png"
     },
     {
       "id": "Q5479918",
@@ -1615,7 +1689,9 @@
       "country": "Brazil",
       "lat": -23.561111111,
       "lon": -46.655833333,
-      "source": "http://www.wikidata.org/entity/Q5479918"
+      "source": "http://www.wikidata.org/entity/Q5479918",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gauguin%20-%20Auto-retrato%20%28Perto%20do%20G%C3%B3lgota%29.JPG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Gauguin%201891.png"
     },
     {
       "id": "Q138296403",
@@ -1632,7 +1708,28 @@
       "country": "Brazil",
       "lat": -23.561111111,
       "lon": -46.655833333,
-      "source": "http://www.wikidata.org/entity/Q138296403"
+      "source": "http://www.wikidata.org/entity/Q138296403",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Klee%20-%20Circo%20Ambulante.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Klee%201911.jpg"
+    },
+    {
+      "id": "Q49863664",
+      "artistId": "pierre-bonnard",
+      "artistName": "Pierre Bonnard",
+      "reviewStatus": "generated",
+      "title": "Untitled record",
+      "date": "Date unknown",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "sao-paulo-museum-of-art-sao-paulo",
+      "location": "São Paulo Museum of Art",
+      "city": "São Paulo",
+      "country": "Brazil",
+      "lat": -23.561111111,
+      "lon": -46.655833333,
+      "source": "http://www.wikidata.org/entity/Q49863664",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Self-portrait-1889.jpg"
     },
     {
       "id": "Q49866955",
@@ -1649,7 +1746,9 @@
       "country": "Brazil",
       "lat": -23.561111111,
       "lon": -46.655833333,
-      "source": "http://www.wikidata.org/entity/Q49866955"
+      "source": "http://www.wikidata.org/entity/Q49866955",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bather%20Drying%20her%20Right%20Arm%2C%20Large%20Sitting%20Nude%2C%20by%20Pierre-Auguste%20Renoir%2C%201912%2C%20oil%20on%20canvas%20-%20Museu%20de%20Arte%20de%20S%C3%A3o%20Paulo%20-%20DSC07260.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre%20Auguste%20Renoir%2C%20uncropped%20image.jpg"
     },
     {
       "id": "Q49867018",
@@ -1666,7 +1765,9 @@
       "country": "Brazil",
       "lat": -23.561111111,
       "lon": -46.655833333,
-      "source": "http://www.wikidata.org/entity/Q49867018"
+      "source": "http://www.wikidata.org/entity/Q49867018",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bather%20Drying%20her%20Right%20Leg%2C%20by%20Pierre-Auguste%20Renoir%2C%20c.%201910%2C%20oil%20on%20canvas%20-%20Museu%20de%20Arte%20de%20S%C3%A3o%20Paulo%20-%20DSC07265.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre%20Auguste%20Renoir%2C%20uncropped%20image.jpg"
     },
     {
       "id": "Q49867627",
@@ -1683,7 +1784,9 @@
       "country": "Brazil",
       "lat": -23.561111111,
       "lon": -46.655833333,
-      "source": "http://www.wikidata.org/entity/Q49867627"
+      "source": "http://www.wikidata.org/entity/Q49867627",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20Baigneuse%20au%20griffon%2C%20par%20Auguste%20Renoir.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre%20Auguste%20Renoir%2C%20uncropped%20image.jpg"
     },
     {
       "id": "Q49867149",
@@ -1700,7 +1803,28 @@
       "country": "Brazil",
       "lat": -23.561111111,
       "lon": -46.655833333,
-      "source": "http://www.wikidata.org/entity/Q49867149"
+      "source": "http://www.wikidata.org/entity/Q49867149",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Renoir%20-%20Quatro%20Cabe%C3%A7as.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre%20Auguste%20Renoir%2C%20uncropped%20image.jpg"
+    },
+    {
+      "id": "Q49867277",
+      "artistId": "pierre-auguste-renoir",
+      "artistName": "Pierre-Auguste Renoir",
+      "reviewStatus": "generated",
+      "title": "Girl with Spikes - Girl with Flowers",
+      "date": "1888",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "sao-paulo-museum-of-art-sao-paulo",
+      "location": "São Paulo Museum of Art",
+      "city": "São Paulo",
+      "country": "Brazil",
+      "lat": -23.561111111,
+      "lon": -46.655833333,
+      "source": "http://www.wikidata.org/entity/Q49867277",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Girl%20with%20Flowers%2C%20by%20Pierre-Auguste%20Renoir%2C%201888%2C%20oil%20on%20canvas%20-%20Museu%20de%20Arte%20de%20S%C3%A3o%20Paulo%20-%20DSC07224.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre%20Auguste%20Renoir%2C%20uncropped%20image.jpg"
     },
     {
       "id": "Q49867559",
@@ -1717,7 +1841,9 @@
       "country": "Brazil",
       "lat": -23.561111111,
       "lon": -46.655833333,
-      "source": "http://www.wikidata.org/entity/Q49867559"
+      "source": "http://www.wikidata.org/entity/Q49867559",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lady%20Smiling%2C%20Portrait%20of%20Alphonsine%20Fournaise%2C%20by%20Pierre-Auguste%20Renoir%2C%201875%2C%20oil%20on%20canvas%20-%20Museu%20de%20Arte%20de%20S%C3%A3o%20Paulo%20-%20DSC07253.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre%20Auguste%20Renoir%2C%20uncropped%20image.jpg"
     },
     {
       "id": "Q49867414",
@@ -1734,7 +1860,9 @@
       "country": "Brazil",
       "lat": -23.561111111,
       "lon": -46.655833333,
-      "source": "http://www.wikidata.org/entity/Q49867414"
+      "source": "http://www.wikidata.org/entity/Q49867414",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Marthe%20Berard%2C%20by%20Pierre-Auguste%20Renoir%2C%201879%2C%20oil%20on%20canvas%20-%20Museu%20de%20Arte%20de%20S%C3%A3o%20Paulo%20-%20DSC07220.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre%20Auguste%20Renoir%2C%20uncropped%20image.jpg"
     },
     {
       "id": "Q6251405",
@@ -1751,7 +1879,9 @@
       "country": "Brazil",
       "lat": -23.561111111,
       "lon": -46.655833333,
-      "source": "http://www.wikidata.org/entity/Q6251405"
+      "source": "http://www.wikidata.org/entity/Q6251405",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Renoir%20Mlles%20Cahen%20d%20Anvers.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre%20Auguste%20Renoir%2C%20uncropped%20image.jpg"
     },
     {
       "id": "Q49867071",
@@ -1768,7 +1898,9 @@
       "country": "Brazil",
       "lat": -23.561111111,
       "lon": -46.655833333,
-      "source": "http://www.wikidata.org/entity/Q49867071"
+      "source": "http://www.wikidata.org/entity/Q49867071",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Claude%20Renoir%2C%20by%20Pierre-Auguste%20Renoir%2C%20c.%201908%2C%20oil%20on%20canvas%20-%20Museu%20de%20Arte%20de%20S%C3%A3o%20Paulo%20-%20DSC07269.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre%20Auguste%20Renoir%2C%20uncropped%20image.jpg"
     },
     {
       "id": "Q49867204",
@@ -1785,7 +1917,9 @@
       "country": "Brazil",
       "lat": -23.561111111,
       "lon": -46.655833333,
-      "source": "http://www.wikidata.org/entity/Q49867204"
+      "source": "http://www.wikidata.org/entity/Q49867204",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Renoir%20-%20Retrato%20de%20Coco.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre%20Auguste%20Renoir%2C%20uncropped%20image.jpg"
     },
     {
       "id": "Q49867494",
@@ -1802,7 +1936,9 @@
       "country": "Brazil",
       "lat": -23.561111111,
       "lon": -46.655833333,
-      "source": "http://www.wikidata.org/entity/Q49867494"
+      "source": "http://www.wikidata.org/entity/Q49867494",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20the%20Countess%20of%20Pourtales%2C%20by%20Pierre-Auguste%20Renoir%2C%201877%2C%20oil%20on%20canvas%20-%20Museu%20de%20Arte%20de%20S%C3%A3o%20Paulo%20-%20DSC07248.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre%20Auguste%20Renoir%2C%20uncropped%20image.jpg"
     },
     {
       "id": "Q49867702",
@@ -1819,7 +1955,9 @@
       "country": "Brazil",
       "lat": -23.561111111,
       "lon": -46.655833333,
-      "source": "http://www.wikidata.org/entity/Q49867702"
+      "source": "http://www.wikidata.org/entity/Q49867702",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20-%20Le%20peintre%20Jules%20Le%20Coeur%20et%20ses%20chiens%20dans%20la%20for%C3%AAt%20de%20Fontainebleau%20%281866%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre%20Auguste%20Renoir%2C%20uncropped%20image.jpg"
     },
     {
       "id": "Q677682",
@@ -1836,7 +1974,28 @@
       "country": "Brazil",
       "lat": -23.561111111,
       "lon": -46.655833333,
-      "source": "http://www.wikidata.org/entity/Q677682"
+      "source": "http://www.wikidata.org/entity/Q677682",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rafael%20-%20ressureicaocristo01.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Raffaello%20Sanzio.jpg"
+    },
+    {
+      "id": "Q7232339",
+      "artistId": "rembrandt",
+      "artistName": "Rembrandt",
+      "reviewStatus": "generated",
+      "title": "Portrait of a Young Man with a Golden Chain",
+      "date": "1635",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "sao-paulo-museum-of-art-sao-paulo",
+      "location": "São Paulo Museum of Art",
+      "city": "São Paulo",
+      "country": "Brazil",
+      "lat": -23.561111111,
+      "lon": -46.655833333,
+      "source": "http://www.wikidata.org/entity/Q7232339",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20-%20autoretrato01.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20van%20Rijn%20-%20Self-Portrait%20-%20Google%20Art%20Project.jpg"
     },
     {
       "id": "Q3213785",
@@ -1853,7 +2012,9 @@
       "country": "Brazil",
       "lat": -23.561111111,
       "lon": -46.655833333,
-      "source": "http://www.wikidata.org/entity/Q3213785"
+      "source": "http://www.wikidata.org/entity/Q3213785",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sandro%20botticelli%20e%20bottega%2C%20madonna%20col%20bambino%20e%20san%20giovannino%20in%20un%20tondo%2C%201490-1500%20ca.%2001.JPG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sandro%20Botticelli%20Self-portrait%20ca%201475.jpg"
     },
     {
       "id": "Q49865582",
@@ -1870,7 +2031,9 @@
       "country": "Brazil",
       "lat": -23.561111111,
       "lon": -46.655833333,
-      "source": "http://www.wikidata.org/entity/Q49865582"
+      "source": "http://www.wikidata.org/entity/Q49865582",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Suzanne%20Valadon%20-%20Nus.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%28Barcelona%29%20Autoretrat%20al%20mirall%20-%20by%20Suzanne%20Valadon.jpg"
     },
     {
       "id": "Q49873868",
@@ -1887,7 +2050,28 @@
       "country": "Brazil",
       "lat": -23.561111111,
       "lon": -46.655833333,
-      "source": "http://www.wikidata.org/entity/Q49873868"
+      "source": "http://www.wikidata.org/entity/Q49873868",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Gainsborough%20-%20Drinkstone%20Park.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Gainsborough%20by%20Thomas%20Gainsborough.jpg"
+    },
+    {
+      "id": "Q49873763",
+      "artistId": "thomas-gainsborough",
+      "artistName": "Thomas Gainsborough",
+      "reviewStatus": "generated",
+      "title": "Francis Rawdon, 1st Marquess of Hasting and 2nd Earl of Moira",
+      "date": "1783",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "sao-paulo-museum-of-art-sao-paulo",
+      "location": "São Paulo Museum of Art",
+      "city": "São Paulo",
+      "country": "Brazil",
+      "lat": -23.561111111,
+      "lon": -46.655833333,
+      "source": "http://www.wikidata.org/entity/Q49873763",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Gainsborough%20-%20Francis%20Rawdon.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Gainsborough%20by%20Thomas%20Gainsborough.jpg"
     },
     {
       "id": "Q49873810",
@@ -1904,7 +2088,9 @@
       "country": "Brazil",
       "lat": -23.561111111,
       "lon": -46.655833333,
-      "source": "http://www.wikidata.org/entity/Q49873810"
+      "source": "http://www.wikidata.org/entity/Q49873810",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Gainsborough%20-%20Retrato%20de%20Senhora%20John%20Bolton.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Gainsborough%20by%20Thomas%20Gainsborough.jpg"
     },
     {
       "id": "Q49877537",
@@ -1921,7 +2107,9 @@
       "country": "Brazil",
       "lat": -23.561111111,
       "lon": -46.655833333,
-      "source": "http://www.wikidata.org/entity/Q49877537"
+      "source": "http://www.wikidata.org/entity/Q49877537",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Tintoretto%20-%20ecce%20homo%20masp.JPG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Tintoretto%20-%20Self-Portrait%20as%20a%20Young%20Man%2C%20ca.%201548%2C%20CAI.103%20%28cropped%29.jpg"
     },
     {
       "id": "Q122155250",
@@ -1938,7 +2126,9 @@
       "country": "Brazil",
       "lat": -23.561111111,
       "lon": -46.655833333,
-      "source": "http://www.wikidata.org/entity/Q122155250"
+      "source": "http://www.wikidata.org/entity/Q122155250",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Tintoretto%20-%20ecce%20homo%20masp.JPG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Tintoretto%20-%20Self-Portrait%20as%20a%20Young%20Man%2C%20ca.%201548%2C%20CAI.103%20%28cropped%29.jpg"
     },
     {
       "id": "Q49877451",
@@ -1955,7 +2145,9 @@
       "country": "Brazil",
       "lat": -23.561111111,
       "lon": -46.655833333,
-      "source": "http://www.wikidata.org/entity/Q49877451"
+      "source": "http://www.wikidata.org/entity/Q49877451",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jacopo%20Tintoretto%20Lamenta%C3%A7%C3%A3o%20sobre%20o%20Cristo%20morto.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Tintoretto%20-%20Self-Portrait%20as%20a%20Young%20Man%2C%20ca.%201548%2C%20CAI.103%20%28cropped%29.jpg"
     },
     {
       "id": "Q7422486",
@@ -1972,58 +2164,9 @@
       "country": "Brazil",
       "lat": -23.561111111,
       "lon": -46.655833333,
-      "source": "http://www.wikidata.org/entity/Q7422486"
-    },
-    {
-      "id": "Q11815452",
-      "artistId": "van-gogh",
-      "artistName": "Vincent van Gogh",
-      "reviewStatus": "generated",
-      "title": "Landscape with Couple Walking and Crescent Moon",
-      "date": "1890",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "sao-paulo-museum-of-art-sao-paulo",
-      "location": "São Paulo Museum of Art",
-      "city": "São Paulo",
-      "country": "Brazil",
-      "lat": -23.561111111,
-      "lon": -46.655833333,
-      "source": "http://www.wikidata.org/entity/Q11815452"
-    },
-    {
-      "id": "Q10339083",
-      "artistId": "van-gogh",
-      "artistName": "Vincent van Gogh",
-      "reviewStatus": "generated",
-      "title": "The Schoolboy",
-      "date": "1888",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "sao-paulo-museum-of-art-sao-paulo",
-      "location": "São Paulo Museum of Art",
-      "city": "São Paulo",
-      "country": "Brazil",
-      "lat": -23.561111111,
-      "lon": -46.655833333,
-      "source": "http://www.wikidata.org/entity/Q10339083"
-    },
-    {
-      "id": "Q26221212",
-      "artistId": "van-gogh",
-      "artistName": "Vincent van Gogh",
-      "reviewStatus": "generated",
-      "title": "The Stone Bench in the Garden of Saint-Paul Hospital",
-      "date": "1889",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "sao-paulo-museum-of-art-sao-paulo",
-      "location": "São Paulo Museum of Art",
-      "city": "São Paulo",
-      "country": "Brazil",
-      "lat": -23.561111111,
-      "lon": -46.655833333,
-      "source": "http://www.wikidata.org/entity/Q26221212"
+      "source": "http://www.wikidata.org/entity/Q7422486",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Retrato%20do%20cardeal%20Cristoforo%20Madruzzo%2C%201552.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Vecellio%20di%20Gregorio%20Tiziano%20-%20autoritratto.jpg"
     },
     {
       "id": "Q76322977",
@@ -2040,7 +2183,9 @@
       "country": "Brazil",
       "lat": -23.57361111,
       "lon": -46.67555556,
-      "source": "http://www.wikidata.org/entity/Q76322977"
+      "source": "http://www.wikidata.org/entity/Q76322977",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Shagal%20Choumoff.jpg"
     },
     {
       "id": "Q76322976",
@@ -2057,7 +2202,9 @@
       "country": "Brazil",
       "lat": -23.57361111,
       "lon": -46.67555556,
-      "source": "http://www.wikidata.org/entity/Q76322976"
+      "source": "http://www.wikidata.org/entity/Q76322976",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Shagal%20Choumoff.jpg"
     },
     {
       "id": "Q20355492",
@@ -2074,7 +2221,9 @@
       "country": "Brazil",
       "lat": -12.408611111,
       "lon": -55.935,
-      "source": "http://www.wikidata.org/entity/Q20355492"
+      "source": "http://www.wikidata.org/entity/Q20355492",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Int%C3%A9rieur%20au%20violon%2C%20par%20Henri%20Matisse.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Henri%20Matisse%201933%20May%2020.jpg"
     }
   ]
 }

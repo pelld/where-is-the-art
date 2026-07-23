@@ -15,9 +15,11 @@
       "location": "State Art Museum of Uzbekistan",
       "city": "Tashkent",
       "country": "Uzbekistan",
-      "lat": 41.302758333,
-      "lon": 69.277844444,
-      "source": "http://www.wikidata.org/entity/Q123697121"
+      "lat": 41.325896,
+      "lon": 69.282777,
+      "source": "http://www.wikidata.org/entity/Q123697121",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%A0%D0%B5%D0%BF%D0%B8%D0%BD%20%D0%BF%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82%20%D0%9D%20%D0%98%20%D0%A0%D0%B5%D0%BF%D0%B8%D0%BD%D0%BE%D0%B9.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ilya%20Repin%20%281909%29.jpg"
     }
   ]
 }

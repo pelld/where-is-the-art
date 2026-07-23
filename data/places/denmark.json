@@ -17,7 +17,9 @@
       "country": "Denmark",
       "lat": 57.2425,
       "lon": 10.3354,
-      "source": "http://www.wikidata.org/entity/Q117912283"
+      "source": "http://www.wikidata.org/entity/Q117912283",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%27The%20Madman%27%20by%20Francisco%20Goya.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Vicente%20L%C3%B3pez%20Porta%C3%B1a%20-%20el%20pintor%20Francisco%20de%20Goya.jpg"
     },
     {
       "id": "Q47500913",
@@ -34,7 +36,9 @@
       "country": "Denmark",
       "lat": 55.6725,
       "lon": 12.571944444,
-      "source": "http://www.wikidata.org/entity/Q47500913"
+      "source": "http://www.wikidata.org/entity/Q47500913",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Le%20Bac%20de%20l%27%C3%AEle%20de%20la%20Loge%2C%20inondation.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20110.jpg"
     },
     {
       "id": "Q76424049",
@@ -51,7 +55,9 @@
       "country": "Denmark",
       "lat": 55.6725,
       "lon": 12.571944444,
-      "source": "http://www.wikidata.org/entity/Q76424049"
+      "source": "http://www.wikidata.org/entity/Q76424049",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Berthe%20Morisot%20-%20Paysanne%20%C3%A9tendant%20du%20linge.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Morisot%20berthe%20photo.jpg"
     },
     {
       "id": "Q76424051",
@@ -68,7 +74,9 @@
       "country": "Denmark",
       "lat": 55.6725,
       "lon": 12.571944444,
-      "source": "http://www.wikidata.org/entity/Q76424051"
+      "source": "http://www.wikidata.org/entity/Q76424051",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Morisot%20-%20julie-manet-and-her-nurse.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Morisot%20berthe%20photo.jpg"
     },
     {
       "id": "Q121493721",
@@ -85,7 +93,9 @@
       "country": "Denmark",
       "lat": 55.6725,
       "lon": 12.571944444,
-      "source": "http://www.wikidata.org/entity/Q121493721"
+      "source": "http://www.wikidata.org/entity/Q121493721",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Berthe%20Morisot%20-%20Young%20Girl%20Braiding%20her%20Hair.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Morisot%20berthe%20photo.jpg"
     },
     {
       "id": "Q76424017",
@@ -102,7 +112,9 @@
       "country": "Denmark",
       "lat": 55.6725,
       "lon": 12.571944444,
-      "source": "http://www.wikidata.org/entity/Q76424017"
+      "source": "http://www.wikidata.org/entity/Q76424017",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro%2C%20Portrait%20of%20Nini%2C%201884%2C%20Ny%20Carlsberg%20Glyptotek%2C%20Copenhagen%20%2835584609384%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg"
     },
     {
       "id": "Q76424019",
@@ -119,7 +131,9 @@
       "country": "Denmark",
       "lat": 55.6725,
       "lon": 12.571944444,
-      "source": "http://www.wikidata.org/entity/Q76424019"
+      "source": "http://www.wikidata.org/entity/Q76424019",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg"
     },
     {
       "id": "Q76424008",
@@ -136,7 +150,47 @@
       "country": "Denmark",
       "lat": 55.6725,
       "lon": 12.571944444,
-      "source": "http://www.wikidata.org/entity/Q76424008"
+      "source": "http://www.wikidata.org/entity/Q76424008",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Monet%2C%20Cottage%20on%20the%20Cliffs%20near%20Varangeville%2C%20c.%201896%2C%20Ny%20Carlsberg%20Glyptotek%2C%20Copenhagen%20%2836251613942%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%201899%20Nadar%20crop.jpg"
+    },
+    {
+      "id": "Q50697742",
+      "artistId": "monet",
+      "artistName": "Claude Monet",
+      "reviewStatus": "generated",
+      "title": "Flood at Giverny",
+      "date": "1896",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "ny-carlsberg-glyptotek-copenhagen-municipality",
+      "location": "Ny Carlsberg Glyptotek",
+      "city": "Copenhagen Municipality",
+      "country": "Denmark",
+      "lat": 55.6725,
+      "lon": 12.571944444,
+      "source": "http://www.wikidata.org/entity/Q50697742",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Flood%20at%20Giverny%20by%20Claude%20Monet%2C%201896%20-%20Ny%20Carlsberg%20Glyptotek%20-%20Copenhagen%20-%20DSC09463.JPG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%201899%20Nadar%20crop.jpg"
+    },
+    {
+      "id": "Q50697726",
+      "artistId": "monet",
+      "artistName": "Claude Monet",
+      "reviewStatus": "generated",
+      "title": "Shadows on the Sea. The Cliffs at Pourville",
+      "date": "1882",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "ny-carlsberg-glyptotek-copenhagen-municipality",
+      "location": "Ny Carlsberg Glyptotek",
+      "city": "Copenhagen Municipality",
+      "country": "Denmark",
+      "lat": 55.6725,
+      "lon": 12.571944444,
+      "source": "http://www.wikidata.org/entity/Q50697726",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%20-%20Shadows%20on%20the%20Sea.%20The%20Cliffs%20at%20Pourville%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%201899%20Nadar%20crop.jpg"
     },
     {
       "id": "Q76424010",
@@ -153,7 +207,28 @@
       "country": "Denmark",
       "lat": 55.6725,
       "lon": 12.571944444,
-      "source": "http://www.wikidata.org/entity/Q76424010"
+      "source": "http://www.wikidata.org/entity/Q76424010",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Monet%20-%20Wildenstein%201996%2C%20108.png",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%201899%20Nadar%20crop.jpg"
+    },
+    {
+      "id": "Q50697752",
+      "artistId": "monet",
+      "artistName": "Claude Monet",
+      "reviewStatus": "generated",
+      "title": "Under the lemon trees",
+      "date": "1884",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "ny-carlsberg-glyptotek-copenhagen-municipality",
+      "location": "Ny Carlsberg Glyptotek",
+      "city": "Copenhagen Municipality",
+      "country": "Denmark",
+      "lat": 55.6725,
+      "lon": 12.571944444,
+      "source": "http://www.wikidata.org/entity/Q50697752",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Monet%20-%20Unter%20Zitronenb%C3%A4umen.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%201899%20Nadar%20crop.jpg"
     },
     {
       "id": "Q76424013",
@@ -170,7 +245,28 @@
       "country": "Denmark",
       "lat": 55.6725,
       "lon": 12.571944444,
-      "source": "http://www.wikidata.org/entity/Q76424013"
+      "source": "http://www.wikidata.org/entity/Q76424013",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Monet%20-%20Wildenstein%201996%2C%201086.png",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%201899%20Nadar%20crop.jpg"
+    },
+    {
+      "id": "Q50697763",
+      "artistId": "monet",
+      "artistName": "Claude Monet",
+      "reviewStatus": "generated",
+      "title": "Windmill and Boats near Zaandam",
+      "date": "1871",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "ny-carlsberg-glyptotek-copenhagen-municipality",
+      "location": "Ny Carlsberg Glyptotek",
+      "city": "Copenhagen Municipality",
+      "country": "Denmark",
+      "lat": 55.6725,
+      "lon": 12.571944444,
+      "source": "http://www.wikidata.org/entity/Q50697763",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Windmill%20and%20Boats%20near%20Zaandam%2C%20Holland%2C%20by%20Claude%20Monet%2C%201871%20-%20Ny%20Carlsberg%20Glyptotek%20-%20Copenhagen%20-%20DSC09437.JPG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%201899%20Nadar%20crop.jpg"
     },
     {
       "id": "Q76424021",
@@ -187,7 +283,9 @@
       "country": "Denmark",
       "lat": 55.6725,
       "lon": 12.571944444,
-      "source": "http://www.wikidata.org/entity/Q76424021"
+      "source": "http://www.wikidata.org/entity/Q76424021",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Germain%20Hilaire%20Degas%20079.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20self%20portrait%201855FXD.jpg"
     },
     {
       "id": "Q76424023",
@@ -204,7 +302,9 @@
       "country": "Denmark",
       "lat": 55.6725,
       "lon": 12.571944444,
-      "source": "http://www.wikidata.org/entity/Q76424023"
+      "source": "http://www.wikidata.org/entity/Q76424023",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Germain%20Hilaire%20Degas%20075.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20self%20portrait%201855FXD.jpg"
     },
     {
       "id": "Q76424031",
@@ -221,7 +321,9 @@
       "country": "Denmark",
       "lat": 55.6725,
       "lon": 12.571944444,
-      "source": "http://www.wikidata.org/entity/Q76424031"
+      "source": "http://www.wikidata.org/entity/Q76424031",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20self%20portrait%201855FXD.jpg"
     },
     {
       "id": "Q76424029",
@@ -238,7 +340,9 @@
       "country": "Denmark",
       "lat": 55.6725,
       "lon": 12.571944444,
-      "source": "http://www.wikidata.org/entity/Q76424029"
+      "source": "http://www.wikidata.org/entity/Q76424029",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20self%20portrait%201855FXD.jpg"
     },
     {
       "id": "Q76424027",
@@ -255,7 +359,9 @@
       "country": "Denmark",
       "lat": 55.6725,
       "lon": 12.571944444,
-      "source": "http://www.wikidata.org/entity/Q76424027"
+      "source": "http://www.wikidata.org/entity/Q76424027",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Degas%2C%20Two%20Dancers%2C%201898%2C%20Ny%20Carlsberg%20Glyptotek%2C%20Copenhagen%20%281%29%20%2836420027845%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20self%20portrait%201855FXD.jpg"
     },
     {
       "id": "Q76424014",
@@ -272,7 +378,9 @@
       "country": "Denmark",
       "lat": 55.6725,
       "lon": 12.571944444,
-      "source": "http://www.wikidata.org/entity/Q76424014"
+      "source": "http://www.wikidata.org/entity/Q76424014",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mademoiselle%20Isabelle%20Lemonnier%20by%20%C3%89douard%20Manet%2C%201879-1882%20-%20Ny%20Carlsberg%20Glyptotek%20-%20Copenhagen%20-%20DSC09422.JPG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Manet%2C%20en%20buste%2C%20de%20face%20-%20Nadar.jpg"
     },
     {
       "id": "Q1192090",
@@ -289,7 +397,28 @@
       "country": "Denmark",
       "lat": 55.6725,
       "lon": 12.571944444,
-      "source": "http://www.wikidata.org/entity/Q1192090"
+      "source": "http://www.wikidata.org/entity/Q1192090",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Manet%20-%20The%20Absinthe%20Drinker%2C%201859.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Manet%2C%20en%20buste%2C%20de%20face%20-%20Nadar.jpg"
+    },
+    {
+      "id": "Q20267393",
+      "artistId": "edouard-manet",
+      "artistName": "Édouard Manet",
+      "reviewStatus": "generated",
+      "title": "The Execution of Emperor Maximilian",
+      "date": "1867",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "ny-carlsberg-glyptotek-copenhagen-municipality",
+      "location": "Ny Carlsberg Glyptotek",
+      "city": "Copenhagen Municipality",
+      "country": "Denmark",
+      "lat": 55.6725,
+      "lon": 12.571944444,
+      "source": "http://www.wikidata.org/entity/Q20267393",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Manet%20-%20L%27ex%C3%A9cution%20de%20Maximilien%20%28Copenhagen%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Manet%2C%20en%20buste%2C%20de%20face%20-%20Nadar.jpg"
     },
     {
       "id": "Q76424102",
@@ -306,7 +435,9 @@
       "country": "Denmark",
       "lat": 55.6725,
       "lon": 12.571944444,
-      "source": "http://www.wikidata.org/entity/Q76424102"
+      "source": "http://www.wikidata.org/entity/Q76424102",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Self-Portrait%2C%20Aged%2021%20A21192.jpg"
     },
     {
       "id": "Q76424100",
@@ -323,7 +454,9 @@
       "country": "Denmark",
       "lat": 55.6725,
       "lon": 12.571944444,
-      "source": "http://www.wikidata.org/entity/Q76424100"
+      "source": "http://www.wikidata.org/entity/Q76424100",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Self-Portrait%2C%20Aged%2021%20A21192.jpg"
     },
     {
       "id": "Q76424079",
@@ -340,7 +473,9 @@
       "country": "Denmark",
       "lat": 55.6725,
       "lon": 12.571944444,
-      "source": "http://www.wikidata.org/entity/Q76424079"
+      "source": "http://www.wikidata.org/entity/Q76424079",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Autoportrait%20-%20Eug%C3%A8ne%20Delacroix%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20RF%2025.jpg"
     },
     {
       "id": "Q76424080",
@@ -357,7 +492,9 @@
       "country": "Denmark",
       "lat": 55.6725,
       "lon": 12.571944444,
-      "source": "http://www.wikidata.org/entity/Q76424080"
+      "source": "http://www.wikidata.org/entity/Q76424080",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Delacroix%20-%20Hercules%20Throwing%20King%20Diomedes%20to%20his%20Man-eating%20Horses.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Autoportrait%20-%20Eug%C3%A8ne%20Delacroix%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20RF%2025.jpg"
     },
     {
       "id": "Q76424077",
@@ -374,7 +511,9 @@
       "country": "Denmark",
       "lat": 55.6725,
       "lon": 12.571944444,
-      "source": "http://www.wikidata.org/entity/Q76424077"
+      "source": "http://www.wikidata.org/entity/Q76424077",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lioness%20by%20Eug%C3%A8ne%20Delacroix%2C%201832%20-%20Ny%20Carlsberg%20Glyptotek%20-%20Copenhagen%20-%20DSC09399.JPG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Autoportrait%20-%20Eug%C3%A8ne%20Delacroix%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20RF%2025.jpg"
     },
     {
       "id": "Q76424084",
@@ -391,7 +530,9 @@
       "country": "Denmark",
       "lat": 55.6725,
       "lon": 12.571944444,
-      "source": "http://www.wikidata.org/entity/Q76424084"
+      "source": "http://www.wikidata.org/entity/Q76424084",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Autoportrait%20-%20Eug%C3%A8ne%20Delacroix%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20RF%2025.jpg"
     },
     {
       "id": "Q76424083",
@@ -408,7 +549,9 @@
       "country": "Denmark",
       "lat": 55.6725,
       "lon": 12.571944444,
-      "source": "http://www.wikidata.org/entity/Q76424083"
+      "source": "http://www.wikidata.org/entity/Q76424083",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Eug%C3%A8ne%20Delacroix%20-%20Death%20of%20Charles%20the%20Bold%20at%20the%20Battle%20of%20Nancy.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Autoportrait%20-%20Eug%C3%A8ne%20Delacroix%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20RF%2025.jpg"
     },
     {
       "id": "Q76424057",
@@ -425,7 +568,9 @@
       "country": "Denmark",
       "lat": 55.6725,
       "lon": 12.571944444,
-      "source": "http://www.wikidata.org/entity/Q76424057"
+      "source": "http://www.wikidata.org/entity/Q76424057",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Selfportrait%20by%20Gustave%20Courbet%201850-1853.png",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustave%20Courbet%2C%20photograph%20Atelier%20Nadar%2C%20c.%201860s.jpg"
     },
     {
       "id": "Q76424060",
@@ -442,7 +587,9 @@
       "country": "Denmark",
       "lat": 55.6725,
       "lon": 12.571944444,
-      "source": "http://www.wikidata.org/entity/Q76424060"
+      "source": "http://www.wikidata.org/entity/Q76424060",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustave%20Courbet%2C%20photograph%20Atelier%20Nadar%2C%20c.%201860s.jpg"
     },
     {
       "id": "Q76424056",
@@ -459,7 +606,9 @@
       "country": "Denmark",
       "lat": 55.6725,
       "lon": 12.571944444,
-      "source": "http://www.wikidata.org/entity/Q76424056"
+      "source": "http://www.wikidata.org/entity/Q76424056",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustave%20Courbet%20-%20Three%20English%20Girls%20at%20a%20Window%20-%20WGA05472.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustave%20Courbet%2C%20photograph%20Atelier%20Nadar%2C%20c.%201860s.jpg"
     },
     {
       "id": "Q76424088",
@@ -476,7 +625,9 @@
       "country": "Denmark",
       "lat": 55.6725,
       "lon": 12.571944444,
-      "source": "http://www.wikidata.org/entity/Q76424088"
+      "source": "http://www.wikidata.org/entity/Q76424088",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20the%20Painter%20Suzanne%20Valadon%2C%20by%20Henri%20de%20Toulouse-Lautrec%2C%201885%20-%20Ny%20Carlsberg%20Glyptotek%20-%20Copenhagen%20-%20DSC09473.JPG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Photolautrec.jpg"
     },
     {
       "id": "Q76424087",
@@ -493,7 +644,9 @@
       "country": "Denmark",
       "lat": 55.6725,
       "lon": 12.571944444,
-      "source": "http://www.wikidata.org/entity/Q76424087"
+      "source": "http://www.wikidata.org/entity/Q76424087",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Monsieur%20Delaporte%20in%20the%20Jardin%20de%20Paris%2C%20by%20Henri%20de%20Toulouse-Lautrec%2C%201893%20-%20Ny%20Carlsberg%20Glyptotek%20-%20Copenhagen%20-%20DSC09471.JPG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Photolautrec.jpg"
     },
     {
       "id": "Q76424121",
@@ -510,7 +663,9 @@
       "country": "Denmark",
       "lat": 55.6725,
       "lon": 12.571944444,
-      "source": "http://www.wikidata.org/entity/Q76424121"
+      "source": "http://www.wikidata.org/entity/Q76424121",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Am%C3%A9d%C3%A9e%20Mercure%20de%20Turenne%20d%27Aynac%20%281776-1852%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Self%20Portrait.jpg"
     },
     {
       "id": "Q76424067",
@@ -527,7 +682,9 @@
       "country": "Denmark",
       "lat": 55.6725,
       "lon": 12.571944444,
-      "source": "http://www.wikidata.org/entity/Q76424067"
+      "source": "http://www.wikidata.org/entity/Q76424067",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste-Camille%20Corot%20c1850.png"
     },
     {
       "id": "Q76424064",
@@ -544,7 +701,9 @@
       "country": "Denmark",
       "lat": 55.6725,
       "lon": 12.571944444,
-      "source": "http://www.wikidata.org/entity/Q76424064"
+      "source": "http://www.wikidata.org/entity/Q76424064",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste-Camille%20Corot%20c1850.png"
     },
     {
       "id": "Q50430616",
@@ -561,7 +720,9 @@
       "country": "Denmark",
       "lat": 55.6725,
       "lon": 12.571944444,
-      "source": "http://www.wikidata.org/entity/Q50430616"
+      "source": "http://www.wikidata.org/entity/Q50430616",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Corot%20-%20M%C3%A9lancolie%20-%20Ny%20Carlsberg.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste-Camille%20Corot%20c1850.png"
     },
     {
       "id": "Q76424061",
@@ -578,7 +739,9 @@
       "country": "Denmark",
       "lat": 55.6725,
       "lon": 12.571944444,
-      "source": "http://www.wikidata.org/entity/Q76424061"
+      "source": "http://www.wikidata.org/entity/Q76424061",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste-Camille%20Corot%20c1850.png"
     },
     {
       "id": "Q76424071",
@@ -595,7 +758,9 @@
       "country": "Denmark",
       "lat": 55.6725,
       "lon": 12.571944444,
-      "source": "http://www.wikidata.org/entity/Q76424071"
+      "source": "http://www.wikidata.org/entity/Q76424071",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste-Camille%20Corot%20c1850.png"
     },
     {
       "id": "Q76424068",
@@ -612,7 +777,9 @@
       "country": "Denmark",
       "lat": 55.6725,
       "lon": 12.571944444,
-      "source": "http://www.wikidata.org/entity/Q76424068"
+      "source": "http://www.wikidata.org/entity/Q76424068",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste-Camille%20Corot%20c1850.png"
     },
     {
       "id": "Q18178175",
@@ -629,7 +796,9 @@
       "country": "Denmark",
       "lat": 55.6725,
       "lon": 12.571944444,
-      "source": "http://www.wikidata.org/entity/Q18178175"
+      "source": "http://www.wikidata.org/entity/Q18178175",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste-Camille%20Corot%20c1850.png"
     },
     {
       "id": "Q76424072",
@@ -646,7 +815,9 @@
       "country": "Denmark",
       "lat": 55.6725,
       "lon": 12.571944444,
-      "source": "http://www.wikidata.org/entity/Q76424072"
+      "source": "http://www.wikidata.org/entity/Q76424072",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste-Camille%20Corot%20c1850.png"
     },
     {
       "id": "Q76424075",
@@ -663,7 +834,9 @@
       "country": "Denmark",
       "lat": 55.6725,
       "lon": 12.571944444,
-      "source": "http://www.wikidata.org/entity/Q76424075"
+      "source": "http://www.wikidata.org/entity/Q76424075",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste-Camille%20Corot%20c1850.png"
     },
     {
       "id": "Q3823264",
@@ -680,7 +853,9 @@
       "country": "Denmark",
       "lat": 55.6725,
       "lon": 12.571944444,
-      "source": "http://www.wikidata.org/entity/Q3823264"
+      "source": "http://www.wikidata.org/entity/Q3823264",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Death-and-the-woodcutter-jean-francois-millet3.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-FrancoisMillet%28Nadar%29.jpg"
     },
     {
       "id": "Q63871494",
@@ -697,7 +872,9 @@
       "country": "Denmark",
       "lat": 55.6725,
       "lon": 12.571944444,
-      "source": "http://www.wikidata.org/entity/Q63871494"
+      "source": "http://www.wikidata.org/entity/Q63871494",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/C%C3%A9zanne%20au%20chapeau%20melon%2C%20par%20Paul%20C%C3%A9zanne%2C%20esquisse%2C%20York.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul-Cezanne.jpg"
     },
     {
       "id": "Q64213082",
@@ -705,7 +882,7 @@
       "artistName": "Paul Cézanne",
       "reviewStatus": "generated",
       "title": "Compotier, assiette et pommes (Still Life with Apples in a Bowl)",
-      "date": "1879",
+      "date": "1882",
       "type": "Painting",
       "attribution": "Accepted",
       "locationId": "ny-carlsberg-glyptotek-copenhagen-municipality",
@@ -714,7 +891,9 @@
       "country": "Denmark",
       "lat": 55.6725,
       "lon": 12.571944444,
-      "source": "http://www.wikidata.org/entity/Q64213082"
+      "source": "http://www.wikidata.org/entity/Q64213082",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Compotier%2C%20assiette%20et%20pommes%2C%20par%20Paul%20C%C3%A9zanne.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul-Cezanne.jpg"
     },
     {
       "id": "Q4247390",
@@ -731,7 +910,9 @@
       "country": "Denmark",
       "lat": 55.6725,
       "lon": 12.571944444,
-      "source": "http://www.wikidata.org/entity/Q4247390"
+      "source": "http://www.wikidata.org/entity/Q4247390",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/C%C3%A9zanne%20Women%20Bathing.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul-Cezanne.jpg"
     },
     {
       "id": "Q124973446",
@@ -748,7 +929,9 @@
       "country": "Denmark",
       "lat": 55.6725,
       "lon": 12.571944444,
-      "source": "http://www.wikidata.org/entity/Q124973446"
+      "source": "http://www.wikidata.org/entity/Q124973446",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gauguin%201893%20Apatarao.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Gauguin%201891.png"
     },
     {
       "id": "Q4182317",
@@ -765,7 +948,9 @@
       "country": "Denmark",
       "lat": 55.6725,
       "lon": 12.571944444,
-      "source": "http://www.wikidata.org/entity/Q4182317"
+      "source": "http://www.wikidata.org/entity/Q4182317",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gauguin%20Arearea%20no%20varua%20ino.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Gauguin%201891.png"
     },
     {
       "id": "Q117708677",
@@ -782,7 +967,9 @@
       "country": "Denmark",
       "lat": 55.6725,
       "lon": 12.571944444,
-      "source": "http://www.wikidata.org/entity/Q117708677"
+      "source": "http://www.wikidata.org/entity/Q117708677",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gauguin%20Bretonnes%20au%20Tournant%20d%27une%20Route.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Gauguin%201891.png"
     },
     {
       "id": "Q76424040",
@@ -799,7 +986,9 @@
       "country": "Denmark",
       "lat": 55.6725,
       "lon": 12.571944444,
-      "source": "http://www.wikidata.org/entity/Q76424040"
+      "source": "http://www.wikidata.org/entity/Q76424040",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Gauguin%20088.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Gauguin%201891.png"
     },
     {
       "id": "Q124973444",
@@ -816,7 +1005,28 @@
       "country": "Denmark",
       "lat": 55.6725,
       "lon": 12.571944444,
-      "source": "http://www.wikidata.org/entity/Q124973444"
+      "source": "http://www.wikidata.org/entity/Q124973444",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gauguin%20Fa%27aara.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Gauguin%201891.png"
+    },
+    {
+      "id": "Q19869305",
+      "artistId": "paul-gauguin",
+      "artistName": "Paul Gauguin",
+      "reviewStatus": "generated",
+      "title": "Figures in a Garden",
+      "date": "1881",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "ny-carlsberg-glyptotek-copenhagen-municipality",
+      "location": "Ny Carlsberg Glyptotek",
+      "city": "Copenhagen Municipality",
+      "country": "Denmark",
+      "lat": 55.6725,
+      "lon": 12.571944444,
+      "source": "http://www.wikidata.org/entity/Q19869305",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Figures%20in%20a%20Garden%20by%20Paul%20Gauguin%2C%201881%20-%20Ny%20Carlsberg%20Glyptotek%20-%20Copenhagen%20-%20DSC09419.JPG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Gauguin%201891.png"
     },
     {
       "id": "Q76424035",
@@ -833,7 +1043,28 @@
       "country": "Denmark",
       "lat": 55.6725,
       "lon": 12.571944444,
-      "source": "http://www.wikidata.org/entity/Q76424035"
+      "source": "http://www.wikidata.org/entity/Q76424035",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Gauguin%20014.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Gauguin%201891.png"
+    },
+    {
+      "id": "Q20267654",
+      "artistId": "paul-gauguin",
+      "artistName": "Paul Gauguin",
+      "reviewStatus": "generated",
+      "title": "Garden in Snow",
+      "date": "1879",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "ny-carlsberg-glyptotek-copenhagen-municipality",
+      "location": "Ny Carlsberg Glyptotek",
+      "city": "Copenhagen Municipality",
+      "country": "Denmark",
+      "lat": 55.6725,
+      "lon": 12.571944444,
+      "source": "http://www.wikidata.org/entity/Q20267654",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gauguin%20Jardin%20sous%20la%20neige%20II.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Gauguin%201891.png"
     },
     {
       "id": "Q76424044",
@@ -850,7 +1081,28 @@
       "country": "Denmark",
       "lat": 55.6725,
       "lon": 12.571944444,
-      "source": "http://www.wikidata.org/entity/Q76424044"
+      "source": "http://www.wikidata.org/entity/Q76424044",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Gauguin%20005.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Gauguin%201891.png"
+    },
+    {
+      "id": "Q20539596",
+      "artistId": "paul-gauguin",
+      "artistName": "Paul Gauguin",
+      "reviewStatus": "generated",
+      "title": "Landscape from Pont-Aven, Brittany",
+      "date": "1888",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "ny-carlsberg-glyptotek-copenhagen-municipality",
+      "location": "Ny Carlsberg Glyptotek",
+      "city": "Copenhagen Municipality",
+      "country": "Denmark",
+      "lat": 55.6725,
+      "lon": 12.571944444,
+      "source": "http://www.wikidata.org/entity/Q20539596",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Gauguin%20076.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Gauguin%201891.png"
     },
     {
       "id": "Q124973447",
@@ -867,7 +1119,9 @@
       "country": "Denmark",
       "lat": 55.6725,
       "lon": 12.571944444,
-      "source": "http://www.wikidata.org/entity/Q124973447"
+      "source": "http://www.wikidata.org/entity/Q124973447",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gauguin%201892%20Village%20tahitienne%20avec%20la%20femme%20en%20marche.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Gauguin%201891.png"
     },
     {
       "id": "Q35713882",
@@ -884,7 +1138,9 @@
       "country": "Denmark",
       "lat": 55.6725,
       "lon": 12.571944444,
-      "source": "http://www.wikidata.org/entity/Q35713882"
+      "source": "http://www.wikidata.org/entity/Q35713882",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Landscape%20from%20Viroflay%20by%20Paul%20Gauguin%2C%201875%20-%20Ny%20Carlsberg%20Glyptotek%20-%20Copenhagen%20-%20DSC09397.JPG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Gauguin%201891.png"
     },
     {
       "id": "Q76424037",
@@ -901,7 +1157,9 @@
       "country": "Denmark",
       "lat": 55.6725,
       "lon": 12.571944444,
-      "source": "http://www.wikidata.org/entity/Q76424037"
+      "source": "http://www.wikidata.org/entity/Q76424037",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Landscape%20Study%20by%20Paul%20Gauguin%2C%20Ny%20Carlsberg%20Glyptotek%20MIN%203101.JPG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Gauguin%201891.png"
     },
     {
       "id": "Q76424043",
@@ -918,7 +1176,9 @@
       "country": "Denmark",
       "lat": 55.6725,
       "lon": 12.571944444,
-      "source": "http://www.wikidata.org/entity/Q76424043"
+      "source": "http://www.wikidata.org/entity/Q76424043",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Gauguin%20094.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Gauguin%201891.png"
     },
     {
       "id": "Q76424046",
@@ -935,7 +1195,28 @@
       "country": "Denmark",
       "lat": 55.6725,
       "lon": 12.571944444,
-      "source": "http://www.wikidata.org/entity/Q76424046"
+      "source": "http://www.wikidata.org/entity/Q76424046",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sailing%20Vessel%20in%20Moonlight%20by%20Paul%20Gauguin%2C%201878.JPG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Gauguin%201891.png"
+    },
+    {
+      "id": "Q20354289",
+      "artistId": "paul-gauguin",
+      "artistName": "Paul Gauguin",
+      "reviewStatus": "generated",
+      "title": "Still Life with Flowers",
+      "date": "1882",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "ny-carlsberg-glyptotek-copenhagen-municipality",
+      "location": "Ny Carlsberg Glyptotek",
+      "city": "Copenhagen Municipality",
+      "country": "Denmark",
+      "lat": 55.6725,
+      "lon": 12.571944444,
+      "source": "http://www.wikidata.org/entity/Q20354289",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gauguin%20Fleurs%20et%20livre%20japonais.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Gauguin%201891.png"
     },
     {
       "id": "Q76424034",
@@ -952,7 +1233,28 @@
       "country": "Denmark",
       "lat": 55.6725,
       "lon": 12.571944444,
-      "source": "http://www.wikidata.org/entity/Q76424034"
+      "source": "http://www.wikidata.org/entity/Q76424034",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Still%20Life%20with%20Onion%20and%20Japanese%20Woodcut%20by%20Paul%20Gauguin%2C%201889%20-%20Ny%20Carlsberg%20Glyptotek%20-%20Copenhagen%20-%20DSC09468.JPG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Gauguin%201891.png"
+    },
+    {
+      "id": "Q4528214",
+      "artistId": "paul-gauguin",
+      "artistName": "Paul Gauguin",
+      "reviewStatus": "generated",
+      "title": "Study of a Nude",
+      "date": "1880",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "ny-carlsberg-glyptotek-copenhagen-municipality",
+      "location": "Ny Carlsberg Glyptotek",
+      "city": "Copenhagen Municipality",
+      "country": "Denmark",
+      "lat": 55.6725,
+      "lon": 12.571944444,
+      "source": "http://www.wikidata.org/entity/Q4528214",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Gauguin%20001.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Gauguin%201891.png"
     },
     {
       "id": "Q4179482",
@@ -969,7 +1271,9 @@
       "country": "Denmark",
       "lat": 55.6725,
       "lon": 12.571944444,
-      "source": "http://www.wikidata.org/entity/Q4179482"
+      "source": "http://www.wikidata.org/entity/Q4179482",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Gauguin%20-%20Tahitian%20Woman%20with%20a%20Flower%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Gauguin%201891.png"
     },
     {
       "id": "Q37206699",
@@ -986,7 +1290,9 @@
       "country": "Denmark",
       "lat": 55.6725,
       "lon": 12.571944444,
-      "source": "http://www.wikidata.org/entity/Q37206699"
+      "source": "http://www.wikidata.org/entity/Q37206699",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Gauguin%20-%20The%20Queen%27s%20Mill.JPG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Gauguin%201891.png"
     },
     {
       "id": "Q111355225",
@@ -1003,7 +1309,9 @@
       "country": "Denmark",
       "lat": 55.6725,
       "lon": 12.571944444,
-      "source": "http://www.wikidata.org/entity/Q111355225"
+      "source": "http://www.wikidata.org/entity/Q111355225",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gauguin%20-%20Bildnis%20zweier%20Kinder%20-%201890.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Gauguin%201891.png"
     },
     {
       "id": "Q35712813",
@@ -1020,7 +1328,9 @@
       "country": "Denmark",
       "lat": 55.6725,
       "lon": 12.571944444,
-      "source": "http://www.wikidata.org/entity/Q35712813"
+      "source": "http://www.wikidata.org/entity/Q35712813",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gauguin%201874%20Maisons%20au%20bord%20de%20l%27eau.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Gauguin%201891.png"
     },
     {
       "id": "Q76424090",
@@ -1037,7 +1347,9 @@
       "country": "Denmark",
       "lat": 55.6725,
       "lon": 12.571944444,
-      "source": "http://www.wikidata.org/entity/Q76424090"
+      "source": "http://www.wikidata.org/entity/Q76424090",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Seurat%20Paul%20Signac.jpg"
     },
     {
       "id": "Q76424098",
@@ -1054,7 +1366,9 @@
       "country": "Denmark",
       "lat": 55.6725,
       "lon": 12.571944444,
-      "source": "http://www.wikidata.org/entity/Q76424098"
+      "source": "http://www.wikidata.org/entity/Q76424098",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Self-portrait-1889.jpg"
     },
     {
       "id": "Q76424093",
@@ -1071,7 +1385,66 @@
       "country": "Denmark",
       "lat": 55.6725,
       "lon": 12.571944444,
-      "source": "http://www.wikidata.org/entity/Q76424093"
+      "source": "http://www.wikidata.org/entity/Q76424093",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Self-portrait-1889.jpg"
+    },
+    {
+      "id": "Q76424096",
+      "artistId": "pierre-bonnard",
+      "artistName": "Pierre Bonnard",
+      "reviewStatus": "generated",
+      "title": "Standing Nude in Interior",
+      "date": "1908",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "ny-carlsberg-glyptotek-copenhagen-municipality",
+      "location": "Ny Carlsberg Glyptotek",
+      "city": "Copenhagen Municipality",
+      "country": "Denmark",
+      "lat": 55.6725,
+      "lon": 12.571944444,
+      "source": "http://www.wikidata.org/entity/Q76424096",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Self-portrait-1889.jpg"
+    },
+    {
+      "id": "Q76424094",
+      "artistId": "pierre-bonnard",
+      "artistName": "Pierre Bonnard",
+      "reviewStatus": "generated",
+      "title": "The Dining Room",
+      "date": "1925",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "ny-carlsberg-glyptotek-copenhagen-municipality",
+      "location": "Ny Carlsberg Glyptotek",
+      "city": "Copenhagen Municipality",
+      "country": "Denmark",
+      "lat": 55.6725,
+      "lon": 12.571944444,
+      "source": "http://www.wikidata.org/entity/Q76424094",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Dining%20Room%2C%20Vernon%20by%20Pierre%20Bonnard%2C%20c.%201925.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Self-portrait-1889.jpg"
+    },
+    {
+      "id": "Q11747755",
+      "artistId": "van-gogh",
+      "artistName": "Vincent van Gogh",
+      "reviewStatus": "generated",
+      "title": "Mountainous Landscape Behind Saint-Paul Hospital",
+      "date": "1889",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "ny-carlsberg-glyptotek-copenhagen-municipality",
+      "location": "Ny Carlsberg Glyptotek",
+      "city": "Copenhagen Municipality",
+      "country": "Denmark",
+      "lat": 55.6725,
+      "lon": 12.571944444,
+      "source": "http://www.wikidata.org/entity/Q11747755",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Vincent%20van%20Gogh%20-%20Landscape%20from%20Saint-R%C3%A9my%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Self-portrait%20-%20Vincent%20van%20Gogh.jpg"
     },
     {
       "id": "Q4396696",
@@ -1088,15 +1461,55 @@
       "country": "Denmark",
       "lat": 55.6725,
       "lon": 12.571944444,
-      "source": "http://www.wikidata.org/entity/Q4396696"
+      "source": "http://www.wikidata.org/entity/Q4396696",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pink%20Roses%20van%20Gogh.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Self-portrait%20-%20Vincent%20van%20Gogh.jpg"
     },
     {
-      "id": "Q114760348",
-      "artistId": "tintoretto",
-      "artistName": "Tintoretto",
+      "id": "Q26220181",
+      "artistId": "van-gogh",
+      "artistName": "Vincent van Gogh",
       "reviewStatus": "generated",
-      "title": "Presentation of the Christ-child in the Temple with the baptism of Christ on the far right",
-      "date": "1619",
+      "title": "Pont du Carrousel and the Louvre",
+      "date": "1886",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "ny-carlsberg-glyptotek-copenhagen-municipality",
+      "location": "Ny Carlsberg Glyptotek",
+      "city": "Copenhagen Municipality",
+      "country": "Denmark",
+      "lat": 55.6725,
+      "lon": 12.571944444,
+      "source": "http://www.wikidata.org/entity/Q26220181",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Vincent%20van%20Gogh%20-%20Pont%20du%20Carrousel%20and%20the%20Louvre.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Self-portrait%20-%20Vincent%20van%20Gogh.jpg"
+    },
+    {
+      "id": "Q26220204",
+      "artistId": "van-gogh",
+      "artistName": "Vincent van Gogh",
+      "reviewStatus": "generated",
+      "title": "Portrait of Julien Tanguy",
+      "date": "1887",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "ny-carlsberg-glyptotek-copenhagen-municipality",
+      "location": "Ny Carlsberg Glyptotek",
+      "city": "Copenhagen Municipality",
+      "country": "Denmark",
+      "lat": 55.6725,
+      "lon": 12.571944444,
+      "source": "http://www.wikidata.org/entity/Q26220204",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Van%20Gogh%20-%20Bildnis%20P%C3%A8re%20Tanguy.jpeg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Self-portrait%20-%20Vincent%20van%20Gogh.jpg"
+    },
+    {
+      "id": "Q20355649",
+      "artistId": "peter-paul-rubens",
+      "artistName": "Peter Paul Rubens",
+      "reviewStatus": "generated",
+      "title": "Sleeping Venus with Cupid Watched by Satyrs",
+      "date": "1616",
       "type": "Painting",
       "attribution": "Accepted",
       "locationId": "rosenborg-castle-copenhagen-municipality",
@@ -1105,7 +1518,9 @@
       "country": "Denmark",
       "lat": 55.68566,
       "lon": 12.57748,
-      "source": "http://www.wikidata.org/entity/Q114760348"
+      "source": "http://www.wikidata.org/entity/Q20355649",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Paul%20Rubens%20-%20Sleeping%20Venus%20with%20Cupid%20Watched%20by%20Satyrs%20-%20KMS13%20-%20Statens%20Museum%20for%20Kunst.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Peter%20Paul%20Rubens%20-%20Portrait%20of%20the%20Artist%20-%20Google%20Art%20Project.jpg"
     },
     {
       "id": "Q16652256",
@@ -1122,7 +1537,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q16652256"
+      "source": "http://www.wikidata.org/entity/Q16652256",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Alfred%20Sisley%20043.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20110.jpg"
     },
     {
       "id": "Q4062416",
@@ -1139,7 +1556,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q4062416"
+      "source": "http://www.wikidata.org/entity/Q4062416",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Alice%20%28Amedeo%20Modigliani%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Amedeo%20Modigliani%201918%20restored.jpg"
     },
     {
       "id": "Q20537459",
@@ -1156,7 +1575,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20537459"
+      "source": "http://www.wikidata.org/entity/Q20537459",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Amedeo%20Modigliani%20-%20Self-Portrait%20as%20Pierrot%20-%20KMSr88%20-%20Statens%20Museum%20for%20Kunst.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Amedeo%20Modigliani%201918%20restored.jpg"
     },
     {
       "id": "Q20468055",
@@ -1173,7 +1594,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20468055"
+      "source": "http://www.wikidata.org/entity/Q20468055",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Anthony%20van%20Dyck%20-%20King%20Charles%20I%20of%20England%20-%20KMSsp239%20-%20Statens%20Museum%20for%20Kunst.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Anthony%20van%20Dyck%20-%20Self-portrait.jpg"
     },
     {
       "id": "Q20272812",
@@ -1190,7 +1613,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20272812"
+      "source": "http://www.wikidata.org/entity/Q20272812",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Anthony%20van%20Dyck%20-%20Portr%C3%A6t%20af%20en%20kvinde%20som%20Flora%20-%20KMSsp241%20-%20Statens%20Museum%20for%20Kunst.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Anthony%20van%20Dyck%20-%20Self-portrait.jpg"
     },
     {
       "id": "Q20550656",
@@ -1207,7 +1632,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20550656"
+      "source": "http://www.wikidata.org/entity/Q20550656",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Anthony%20van%20Dyck%20-%20Portrait%20of%20a%20Man%20-%20KMS3264%20-%20Statens%20Museum%20for%20Kunst.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Anthony%20van%20Dyck%20-%20Self-portrait.jpg"
     },
     {
       "id": "Q20428778",
@@ -1224,7 +1651,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20428778"
+      "source": "http://www.wikidata.org/entity/Q20428778",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Anthony%20van%20Dyck%20-%20Portrait%20of%20a%20Mathematician%20-%20KMSsp245%20-%20Statens%20Museum%20for%20Kunst.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Anthony%20van%20Dyck%20-%20Self-portrait.jpg"
     },
     {
       "id": "Q20354378",
@@ -1241,7 +1670,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20354378"
+      "source": "http://www.wikidata.org/entity/Q20354378",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Anthony%20van%20Dyck%20-%20Portrait%20of%20Cornelis%20van%20Poelenburgh%20-%20KMS3224%20-%20Statens%20Museum%20for%20Kunst.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Anthony%20van%20Dyck%20-%20Self-portrait.jpg"
     },
     {
       "id": "Q20540222",
@@ -1258,7 +1689,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20540222"
+      "source": "http://www.wikidata.org/entity/Q20540222",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Anthony%20van%20Dyck%20-%20Self-portrait.jpg"
     },
     {
       "id": "Q20354803",
@@ -1275,7 +1708,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20354803"
+      "source": "http://www.wikidata.org/entity/Q20354803",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Anthony%20van%20Dyck%20-%20Queen%20Henrietta%20Maria%20of%20England%20-%20KMSsp240%20-%20Statens%20Museum%20for%20Kunst.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Anthony%20van%20Dyck%20-%20Self-portrait.jpg"
     },
     {
       "id": "Q20437565",
@@ -1292,7 +1727,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20437565"
+      "source": "http://www.wikidata.org/entity/Q20437565",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Anthony%20van%20Dyck%20-%20Sketch%20for%20The%20Supper%20at%20Emmaus%20-%20KMS3223%20-%20Statens%20Museum%20for%20Kunst.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Anthony%20van%20Dyck%20-%20Self-portrait.jpg"
     },
     {
       "id": "Q20267431",
@@ -1309,7 +1746,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20267431"
+      "source": "http://www.wikidata.org/entity/Q20267431",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Anthony%20van%20Dyck%20-%20St%20Sebastian%20Being%20Tended%20by%20Two%20Angels%20-%20KMSsp238%20-%20Statens%20Museum%20for%20Kunst.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Anthony%20van%20Dyck%20-%20Self-portrait.jpg"
     },
     {
       "id": "Q20354538",
@@ -1326,7 +1765,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20354538"
+      "source": "http://www.wikidata.org/entity/Q20354538",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Anthony%20van%20Dyck%20-%20Study%20Head%20of%20a%20Young%20Man%20Looking%20Upwards.%20St%20Sebastian%20-%20KMS3222%20-%20Statens%20Museum%20for%20Kunst.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Anthony%20van%20Dyck%20-%20Self-portrait.jpg"
     },
     {
       "id": "Q20268679",
@@ -1343,7 +1784,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20268679"
+      "source": "http://www.wikidata.org/entity/Q20268679",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Anthony%20van%20Dyck%20-%20The%20Entombment%20of%20Christ%20-%20KMSsp243%20-%20Statens%20Museum%20for%20Kunst.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Anthony%20van%20Dyck%20-%20Self-portrait.jpg"
     },
     {
       "id": "Q20476526",
@@ -1360,7 +1803,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20476526"
+      "source": "http://www.wikidata.org/entity/Q20476526",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Anthony%20van%20Dyck%20-%20The%20Mystic%20Marriage%20of%20St%20Catherine%20of%20Alexandria%20-%20KMSsp237%20-%20Statens%20Museum%20for%20Kunst.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Anthony%20van%20Dyck%20-%20Self-portrait.jpg"
     },
     {
       "id": "Q20354979",
@@ -1377,7 +1822,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20354979"
+      "source": "http://www.wikidata.org/entity/Q20354979",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Caspar%20Netscher%20-%20Time%20Clipping%20Cupid%27s%20Wings%20-%20KMS3225%20-%20Statens%20Museum%20for%20Kunst.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Anthony%20van%20Dyck%20-%20Self-portrait.jpg"
     },
     {
       "id": "Q20268113",
@@ -1394,7 +1841,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20268113"
+      "source": "http://www.wikidata.org/entity/Q20268113",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Anthony%20van%20Dyck%20-%20Virgin%20and%20Child%20with%20Saint%20Francis%20-%20KMSsp242%20-%20Statens%20Museum%20for%20Kunst.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Anthony%20van%20Dyck%20-%20Self-portrait.jpg"
     },
     {
       "id": "Q20536939",
@@ -1411,7 +1860,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20536939"
+      "source": "http://www.wikidata.org/entity/Q20536939",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg"
     },
     {
       "id": "Q20475167",
@@ -1428,7 +1879,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20475167"
+      "source": "http://www.wikidata.org/entity/Q20475167",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Portr%C3%A6t%20af%20maleren%20Fritz%20Melbye.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg"
     },
     {
       "id": "Q20355549",
@@ -1445,7 +1898,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20355549"
+      "source": "http://www.wikidata.org/entity/Q20355549",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Selvportr%C3%A6t%20Camille%20Pissarro%201852-1854.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg"
     },
     {
       "id": "Q20422165",
@@ -1462,7 +1917,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20422165"
+      "source": "http://www.wikidata.org/entity/Q20422165",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The-raised-tarrace-of-the-pont-neuf-and-statue-of-henri-iv-1901.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg"
     },
     {
       "id": "Q20354652",
@@ -1479,7 +1936,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20354652"
+      "source": "http://www.wikidata.org/entity/Q20354652",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Pissarro%20024.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg"
     },
     {
       "id": "Q28484759",
@@ -1496,7 +1955,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q28484759"
+      "source": "http://www.wikidata.org/entity/Q28484759",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Caspar%20David%20Friedrich%2C%20Efter%20stormen%2C%201817%2C%20KMS8817%2C%20Statens%20Museum%20for%20Kunst.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Caspar%20David%20Friedrich%2C%20Selvportr%C3%A6t%2C%201800%2C%20KKSgb5006%2C%20Statens%20Museum%20for%20Kunst.jpg"
     },
     {
       "id": "Q20422063",
@@ -1513,7 +1974,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20422063"
+      "source": "http://www.wikidata.org/entity/Q20422063",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Caspar%20David%20Friedrich%2C%20Selvportr%C3%A6t%2C%201800%2C%20KKSgb5006%2C%20Statens%20Museum%20for%20Kunst.jpg"
     },
     {
       "id": "Q130544178",
@@ -1530,7 +1993,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q130544178"
+      "source": "http://www.wikidata.org/entity/Q130544178",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Caspar%20David%20Friedrich%2C%20Landskab%20med%20vippebro%20og%20ruin%20i%20m%C3%A5neskin%2C%20%2C%20KKSgb6485%2C%20Statens%20Museum%20for%20Kunst.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Caspar%20David%20Friedrich%2C%20Selvportr%C3%A6t%2C%201800%2C%20KKSgb5006%2C%20Statens%20Museum%20for%20Kunst.jpg"
     },
     {
       "id": "Q20355201",
@@ -1547,7 +2012,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20355201"
+      "source": "http://www.wikidata.org/entity/Q20355201",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Caspar%20David%20Friedrich%2C%20Selvportr%C3%A6t%2C%201800%2C%20KKSgb5006%2C%20Statens%20Museum%20for%20Kunst.jpg"
     },
     {
       "id": "Q131286349",
@@ -1564,7 +2031,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q131286349"
+      "source": "http://www.wikidata.org/entity/Q131286349",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Caspar%20David%20Friedrich%2C%20Klippeformation%20og%20planter%2C%20%2C%20KKS1972-38-34%2C%20Statens%20Museum%20for%20Kunst.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Caspar%20David%20Friedrich%2C%20Selvportr%C3%A6t%2C%201800%2C%20KKSgb5006%2C%20Statens%20Museum%20for%20Kunst.jpg"
     },
     {
       "id": "Q20355177",
@@ -1581,7 +2050,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20355177"
+      "source": "http://www.wikidata.org/entity/Q20355177",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Caspar%20David%20Friedrich%2C%20Selvportr%C3%A6t%2C%201800%2C%20KKSgb5006%2C%20Statens%20Museum%20for%20Kunst.jpg"
     },
     {
       "id": "Q20656489",
@@ -1598,7 +2069,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20656489"
+      "source": "http://www.wikidata.org/entity/Q20656489",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Caspardavidfriedrich%20self1.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Caspar%20David%20Friedrich%2C%20Selvportr%C3%A6t%2C%201800%2C%20KKSgb5006%2C%20Statens%20Museum%20for%20Kunst.jpg"
     },
     {
       "id": "Q20268826",
@@ -1615,7 +2088,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20268826"
+      "source": "http://www.wikidata.org/entity/Q20268826",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Caspar%20David%20Friedrich%2C%20Selvportr%C3%A6t%2C%201800%2C%20KKSgb5006%2C%20Statens%20Museum%20for%20Kunst.jpg"
     },
     {
       "id": "Q20433254",
@@ -1632,7 +2107,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20433254"
+      "source": "http://www.wikidata.org/entity/Q20433254",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Antonio%20Correggio%20-%20The%20Betrothal%20of%20Saint%20Catharine%20-%20KMSsp72%20-%20Statens%20Museum%20for%20Kunst.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Antonio%20Allegri%20da%20Correggio.jpg"
     },
     {
       "id": "Q20440148",
@@ -1649,7 +2126,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20440148"
+      "source": "http://www.wikidata.org/entity/Q20440148",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Rivera%20-%20Google%20Art%20Project%20%28cropped%29.jpg"
     },
     {
       "id": "Q20421086",
@@ -1666,7 +2145,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20421086"
+      "source": "http://www.wikidata.org/entity/Q20421086",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Rivera%20-%20Google%20Art%20Project%20%28cropped%29.jpg"
     },
     {
       "id": "Q20355068",
@@ -1683,7 +2164,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20355068"
+      "source": "http://www.wikidata.org/entity/Q20355068",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Isabella%20von%20Bourbon%20by%20Diego%20Vel%C3%A1zquez%20-%202.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Vel%C3%A1zquez%20Autorretrato%2045%20x%2038%20cm%20-%20Colecci%C3%B3n%20Real%20Academia%20de%20Bellas%20Artes%20de%20San%20Carlos%20-%20Museo%20de%20Bellas%20Artes%20de%20Valencia.jpg"
     },
     {
       "id": "Q20275980",
@@ -1700,7 +2183,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20275980"
+      "source": "http://www.wikidata.org/entity/Q20275980",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Isabel%20de%20Borb%C3%B3n%2C%20from%20Statens%20Museum%20for%20Kunst%2C%20by%20Diego%20Vel%C3%A1zquez.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Vel%C3%A1zquez%20Autorretrato%2045%20x%2038%20cm%20-%20Colecci%C3%B3n%20Real%20Academia%20de%20Bellas%20Artes%20de%20San%20Carlos%20-%20Museo%20de%20Bellas%20Artes%20de%20Valencia.jpg"
     },
     {
       "id": "Q20392265",
@@ -1717,24 +2202,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20392265"
-    },
-    {
-      "id": "Q20267393",
-      "artistId": "edouard-manet",
-      "artistName": "Édouard Manet",
-      "reviewStatus": "generated",
-      "title": "The Execution of Emperor Maximilian",
-      "date": "1867",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "statens-museum-for-kunst-copenhagen-municipality",
-      "location": "Statens Museum for Kunst",
-      "city": "Copenhagen Municipality",
-      "country": "Denmark",
-      "lat": 55.68889,
-      "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20267393"
+      "source": "http://www.wikidata.org/entity/Q20392265",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Degas%2C%20Village%20Street%2C%20Saint-Valery-sur-Somme%2C%201896-98%2C%20Ny%20Carlsberg%20Glyptotek%2C%20Copenhagen.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20self%20portrait%201855FXD.jpg"
     },
     {
       "id": "Q18889691",
@@ -1751,7 +2221,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q18889691"
+      "source": "http://www.wikidata.org/entity/Q18889691",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Munch%20-%20Portrait%20of%20Professor%20Daniel%20Jacobson%2C%201908%2C%20KMS4179a.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Edvard%20Munch%201933-2.jpg"
     },
     {
       "id": "Q18889712",
@@ -1768,24 +2240,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q18889712"
-    },
-    {
-      "id": "Q18890631",
-      "artistId": "edvard-munch",
-      "artistName": "Edvard Munch",
-      "reviewStatus": "generated",
-      "title": "Olga Buhre",
-      "date": "1891",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "statens-museum-for-kunst-copenhagen-municipality",
-      "location": "Statens Museum for Kunst",
-      "city": "Copenhagen Municipality",
-      "country": "Denmark",
-      "lat": 55.68889,
-      "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q18890631"
+      "source": "http://www.wikidata.org/entity/Q18889712",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Edvard%20Munch%2C%20D%C3%B8dskamp.JPG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Edvard%20Munch%201933-2.jpg"
     },
     {
       "id": "Q18891504",
@@ -1802,7 +2259,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q18891504"
+      "source": "http://www.wikidata.org/entity/Q18891504",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Munch%20-%20Workers%20returning%20home.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Edvard%20Munch%201933-2.jpg"
     },
     {
       "id": "Q11824955",
@@ -1819,7 +2278,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q11824955"
+      "source": "http://www.wikidata.org/entity/Q11824955",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mandsportr%C3%A6t%20%28Portr%C3%A6t%20af%20arkitekten%20Andrea%20Palladio%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Greco%20-%20Portrait%20of%20a%20Man%20-%20WGA10554.jpg"
     },
     {
       "id": "Q20536722",
@@ -1836,7 +2297,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20536722"
+      "source": "http://www.wikidata.org/entity/Q20536722",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ubekendt%20Italiensk%201500-tallet%20KMS1979%20-%20Portrait%20of%20a%20Man%20-%20KMS1979%20-%20Statens%20Museum%20for%20Kunst.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Greco%20-%20Portrait%20of%20a%20Man%20-%20WGA10554.jpg"
     },
     {
       "id": "Q20468620",
@@ -1853,7 +2316,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20468620"
+      "source": "http://www.wikidata.org/entity/Q20468620",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Autoportrait%20-%20Eug%C3%A8ne%20Delacroix%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20RF%2025.jpg"
     },
     {
       "id": "Q20440373",
@@ -1870,7 +2335,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20440373"
+      "source": "http://www.wikidata.org/entity/Q20440373",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Guglielmi%20Gregorio%20-%20The%20Rest%20of%20the%20Holy%20Family%20during%20the%20Flight%20into%20Egypt%20-%20KMS4518%20-%20Statens%20Museum%20for%20Kunst.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Boucher%20par%20Gustav%20Lundberg%201741.jpg"
     },
     {
       "id": "Q20392166",
@@ -1887,7 +2354,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20392166"
+      "source": "http://www.wikidata.org/entity/Q20392166",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Braque%2C%201908%2C%20photograph%20published%20in%20Gelett%20Burgess%2C%20The%20Wild%20Men%20of%20Paris%2C%20Architectural%20Record%2C%20May%201910.jpg"
     },
     {
       "id": "Q20355278",
@@ -1904,7 +2373,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20355278"
+      "source": "http://www.wikidata.org/entity/Q20355278",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Braque%2C%201908%2C%20photograph%20published%20in%20Gelett%20Burgess%2C%20The%20Wild%20Men%20of%20Paris%2C%20Architectural%20Record%2C%20May%201910.jpg"
     },
     {
       "id": "Q20501064",
@@ -1921,7 +2392,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20501064"
+      "source": "http://www.wikidata.org/entity/Q20501064",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Braque%2C%201908%2C%20photograph%20published%20in%20Gelett%20Burgess%2C%20The%20Wild%20Men%20of%20Paris%2C%20Architectural%20Record%2C%20May%201910.jpg"
     },
     {
       "id": "Q20398696",
@@ -1938,7 +2411,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20398696"
+      "source": "http://www.wikidata.org/entity/Q20398696",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Braque%2C%201908%2C%20photograph%20published%20in%20Gelett%20Burgess%2C%20The%20Wild%20Men%20of%20Paris%2C%20Architectural%20Record%2C%20May%201910.jpg"
     },
     {
       "id": "Q20276402",
@@ -1955,7 +2430,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20276402"
+      "source": "http://www.wikidata.org/entity/Q20276402",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Braque%2C%201908%2C%20photograph%20published%20in%20Gelett%20Burgess%2C%20The%20Wild%20Men%20of%20Paris%2C%20Architectural%20Record%2C%20May%201910.jpg"
     },
     {
       "id": "Q20380465",
@@ -1972,7 +2449,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20380465"
+      "source": "http://www.wikidata.org/entity/Q20380465",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Braque%2C%201908%2C%20photograph%20published%20in%20Gelett%20Burgess%2C%20The%20Wild%20Men%20of%20Paris%2C%20Architectural%20Record%2C%20May%201910.jpg"
     },
     {
       "id": "Q20426820",
@@ -1989,7 +2468,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20426820"
+      "source": "http://www.wikidata.org/entity/Q20426820",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/GeorgesBraqueTreesAtEstaque.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Braque%2C%201908%2C%20photograph%20published%20in%20Gelett%20Burgess%2C%20The%20Wild%20Men%20of%20Paris%2C%20Architectural%20Record%2C%20May%201910.jpg"
     },
     {
       "id": "Q20491491",
@@ -2006,7 +2487,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20491491"
+      "source": "http://www.wikidata.org/entity/Q20491491",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Braque%2C%201908%2C%20photograph%20published%20in%20Gelett%20Burgess%2C%20The%20Wild%20Men%20of%20Paris%2C%20Architectural%20Record%2C%20May%201910.jpg"
     },
     {
       "id": "Q20547967",
@@ -2023,7 +2506,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20547967"
+      "source": "http://www.wikidata.org/entity/Q20547967",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ubekendt%20italiensk%20KMSsp139%20-%20David%20-%20KMSsp139%20-%20Statens%20Museum%20for%20Kunst.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Giorgione%20059.jpg"
     },
     {
       "id": "Q20440585",
@@ -2040,7 +2525,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20440585"
+      "source": "http://www.wikidata.org/entity/Q20440585",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Giorgione%20-%20Portrait%20of%20a%20Young%20Man%20-%20KMS553%20-%20Statens%20Museum%20for%20Kunst.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Giorgione%20059.jpg"
     },
     {
       "id": "Q20274890",
@@ -2057,7 +2544,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20274890"
+      "source": "http://www.wikidata.org/entity/Q20274890",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Giovanni%20Battista%20Tiepolo%20-%20Anthony%20Leading%20Cleopatra%20on%20board%20-%20DEP14%20-%20Statens%20Museum%20for%20Kunst.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Tiepolo%2C%20Giovanni%20Battista%20-%20Fresken%20Treppenhaus%20des%20W%C3%BCrzburger%20Residenzschlosses%2C%20Szenen%20zur%20Apotheose%20des%20F%C3%BCrstbischofs%2C%20Detail%20Giovanni%20Battista%20Tiepolo%20-%201750-1753.jpg"
     },
     {
       "id": "Q20354549",
@@ -2074,7 +2563,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20354549"
+      "source": "http://www.wikidata.org/entity/Q20354549",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Giovanni%20Battista%20Tiepolo%20-%20Apollo%20and%20Marsyas%20-%20KMS4548%20-%20Statens%20Museum%20for%20Kunst.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Tiepolo%2C%20Giovanni%20Battista%20-%20Fresken%20Treppenhaus%20des%20W%C3%BCrzburger%20Residenzschlosses%2C%20Szenen%20zur%20Apotheose%20des%20F%C3%BCrstbischofs%2C%20Detail%20Giovanni%20Battista%20Tiepolo%20-%201750-1753.jpg"
     },
     {
       "id": "Q20268263",
@@ -2091,7 +2582,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20268263"
+      "source": "http://www.wikidata.org/entity/Q20268263",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Giovanni%20Battista%20Tiepolo%20-%20Latinus%20Offering%20his%20Daughter%20Lavinia%20to%20Aeneas%20in%20Matrimony%20-%20KMS4201%20-%20Statens%20Museum%20for%20Kunst.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Tiepolo%2C%20Giovanni%20Battista%20-%20Fresken%20Treppenhaus%20des%20W%C3%BCrzburger%20Residenzschlosses%2C%20Szenen%20zur%20Apotheose%20des%20F%C3%BCrstbischofs%2C%20Detail%20Giovanni%20Battista%20Tiepolo%20-%201750-1753.jpg"
     },
     {
       "id": "Q20269489",
@@ -2108,7 +2601,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20269489"
+      "source": "http://www.wikidata.org/entity/Q20269489",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Giovanni%20Battista%20Tiepolo%20-%20The%20Brazen%20Serpent%20-%20KMS6683%20-%20Statens%20Museum%20for%20Kunst.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Tiepolo%2C%20Giovanni%20Battista%20-%20Fresken%20Treppenhaus%20des%20W%C3%BCrzburger%20Residenzschlosses%2C%20Szenen%20zur%20Apotheose%20des%20F%C3%BCrstbischofs%2C%20Detail%20Giovanni%20Battista%20Tiepolo%20-%201750-1753.jpg"
     },
     {
       "id": "Q20273707",
@@ -2125,7 +2620,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20273707"
+      "source": "http://www.wikidata.org/entity/Q20273707",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustave%20Courbet%20-%20Fighting%20Stags%20in%20a%20Forest%20-%20KMS1957%20-%20Statens%20Museum%20for%20Kunst.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustave%20Courbet%2C%20photograph%20Atelier%20Nadar%2C%20c.%201860s.jpg"
     },
     {
       "id": "Q20394456",
@@ -2142,7 +2639,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20394456"
+      "source": "http://www.wikidata.org/entity/Q20394456",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustave%20Courbet%20-%20The%20Interior%20of%20a%20Forest%20-%20KMS3436%20-%20Statens%20Museum%20for%20Kunst.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustave%20Courbet%2C%20photograph%20Atelier%20Nadar%2C%20c.%201860s.jpg"
     },
     {
       "id": "Q20440670",
@@ -2159,7 +2658,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20440670"
+      "source": "http://www.wikidata.org/entity/Q20440670",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hans%20Holbein%20d.Y.%20-%20Portrait%20of%20a%20Man%20-%20KMSsp742%20-%20Statens%20Museum%20for%20Kunst.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hans%20Holbein%20the%20Younger%2C%20self-portrait.jpg"
     },
     {
       "id": "Q20355280",
@@ -2176,7 +2677,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20355280"
+      "source": "http://www.wikidata.org/entity/Q20355280",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20matisse%2C%20pesce%20rosso%2C%201912.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Henri%20Matisse%201933%20May%2020.jpg"
     },
     {
       "id": "Q2902188",
@@ -2193,7 +2696,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q2902188"
+      "source": "http://www.wikidata.org/entity/Q2902188",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20Raie%20verte%2C%20par%20Henri%20Matisse.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Henri%20Matisse%201933%20May%2020.jpg"
     },
     {
       "id": "Q20540070",
@@ -2210,7 +2715,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20540070"
+      "source": "http://www.wikidata.org/entity/Q20540070",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Matisse%20-%20Carra%2C%20059.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Henri%20Matisse%201933%20May%2020.jpg"
     },
     {
       "id": "Q20354554",
@@ -2227,7 +2734,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20354554"
+      "source": "http://www.wikidata.org/entity/Q20354554",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Le%20Luxe%20II%2C%20par%20Henri%20Matisse.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Henri%20Matisse%201933%20May%2020.jpg"
     },
     {
       "id": "Q20491656",
@@ -2244,7 +2753,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20491656"
+      "source": "http://www.wikidata.org/entity/Q20491656",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Nu%20%C3%A0%20l%27%C3%A9charpe%20blanche%2C%20par%20Henri%20Matisse.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Henri%20Matisse%201933%20May%2020.jpg"
     },
     {
       "id": "Q62937406",
@@ -2261,7 +2772,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q62937406"
+      "source": "http://www.wikidata.org/entity/Q62937406",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Baigneurs%2C%20par%20Henri%20Matisse.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Henri%20Matisse%201933%20May%2020.jpg"
     },
     {
       "id": "Q20380260",
@@ -2278,7 +2791,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20380260"
+      "source": "http://www.wikidata.org/entity/Q20380260",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20matisse%2C%20odalisca%2C%201923.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Henri%20Matisse%201933%20May%2020.jpg"
     },
     {
       "id": "Q20421015",
@@ -2295,7 +2810,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20421015"
+      "source": "http://www.wikidata.org/entity/Q20421015",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20matisse%2C%20odalisca%20con%20paravento%2C%201923.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Henri%20Matisse%201933%20May%2020.jpg"
     },
     {
       "id": "Q20267618",
@@ -2312,7 +2829,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20267618"
+      "source": "http://www.wikidata.org/entity/Q20267618",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Les%20Oignons%20roses%2C%20par%20Henri%20Matisse.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Henri%20Matisse%201933%20May%2020.jpg"
     },
     {
       "id": "Q20267260",
@@ -2329,7 +2848,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20267260"
+      "source": "http://www.wikidata.org/entity/Q20267260",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20matisse%2C%20place%20des%20lices%2C%20saint-tropez%2C%201904.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Henri%20Matisse%201933%20May%2020.jpg"
     },
     {
       "id": "Q7447987",
@@ -2346,7 +2867,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q7447987"
+      "source": "http://www.wikidata.org/entity/Q7447987",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Autoportrait%2C%20par%20Henri%20Matisse.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Henri%20Matisse%201933%20May%2020.jpg"
     },
     {
       "id": "Q20440219",
@@ -2363,7 +2886,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20440219"
+      "source": "http://www.wikidata.org/entity/Q20440219",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Henri%20Matisse%201933%20May%2020.jpg"
     },
     {
       "id": "Q20354103",
@@ -2380,7 +2905,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20354103"
+      "source": "http://www.wikidata.org/entity/Q20354103",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20matisse%2C%20natura%20morta%20con%20schiaccianoci%2C%201916%20ca.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Henri%20Matisse%201933%20May%2020.jpg"
     },
     {
       "id": "Q20278258",
@@ -2397,7 +2924,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20278258"
+      "source": "http://www.wikidata.org/entity/Q20278258",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20matisse%2C%20strada%20ad%20arcueil%2C%201899.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Henri%20Matisse%201933%20May%2020.jpg"
     },
     {
       "id": "Q20380287",
@@ -2414,7 +2943,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20380287"
+      "source": "http://www.wikidata.org/entity/Q20380287",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20matisse%2C%20strada%20a%20biskra%2C%20algeria%2C%201906.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Henri%20Matisse%201933%20May%2020.jpg"
     },
     {
       "id": "Q20491209",
@@ -2431,7 +2962,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20491209"
+      "source": "http://www.wikidata.org/entity/Q20491209",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Henri%20Matisse%201933%20May%2020.jpg"
     },
     {
       "id": "Q136689591",
@@ -2448,7 +2981,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q136689591"
+      "source": "http://www.wikidata.org/entity/Q136689591",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20matisse%2C%20piccola%20testa%20di%20ragazza%2C%20marguerite%2C%201906.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Henri%20Matisse%201933%20May%2020.jpg"
     },
     {
       "id": "Q20355763",
@@ -2465,7 +3000,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20355763"
+      "source": "http://www.wikidata.org/entity/Q20355763",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20matisse%2C%20la%20camicetta%20verde%2C%201936.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Henri%20Matisse%201933%20May%2020.jpg"
     },
     {
       "id": "Q14528717",
@@ -2482,7 +3019,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q14528717"
+      "source": "http://www.wikidata.org/entity/Q14528717",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Matisse%20-%20Carra%2C%20P03.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Henri%20Matisse%201933%20May%2020.jpg"
     },
     {
       "id": "Q20392004",
@@ -2499,7 +3038,28 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20392004"
+      "source": "http://www.wikidata.org/entity/Q20392004",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20matisse%2C%20giovane%20donna%20che%20guarda%20il%20mare%20da%20una%20finestra%2C%20tempo%20burrascoso%2C%201928.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Henri%20Matisse%201933%20May%2020.jpg"
+    },
+    {
+      "id": "Q20354398",
+      "artistId": "honore-daumier",
+      "artistName": "Honoré Daumier",
+      "reviewStatus": "generated",
+      "title": "Don Quixote and Sancho Panza Resting Beneath a Tree",
+      "date": "1865",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "statens-museum-for-kunst-copenhagen-municipality",
+      "location": "Statens Museum for Kunst",
+      "city": "Copenhagen Municipality",
+      "country": "Denmark",
+      "lat": 55.68889,
+      "lon": 12.57861,
+      "source": "http://www.wikidata.org/entity/Q20354398",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Don%20Quixote%20and%20Sancho%20Panza%20Resting%20beneath%20a%20Tree%2C%20by%20Honor%C3%A9%20Daumier%2C%201865%20-%20Ny%20Carlsberg%20Glyptotek%20-%20Copenhagen%20-%20DSC09411.JPG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Honore%20Daumier-Nadar.jpg"
     },
     {
       "id": "Q20537076",
@@ -2516,7 +3076,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20537076"
+      "source": "http://www.wikidata.org/entity/Q20537076",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste-Camille%20Corot%20c1850.png"
     },
     {
       "id": "Q20492244",
@@ -2533,7 +3095,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20492244"
+      "source": "http://www.wikidata.org/entity/Q20492244",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Honor%C3%A9%20Fragonard%20-%20Portrait%20of%20a%20Lady%20-%20KMS6254%20-%20Statens%20Museum%20for%20Kunst.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Honor%C3%A9%20Fragonard%20self-portrait.jpg"
     },
     {
       "id": "Q20380926",
@@ -2550,7 +3114,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20380926"
+      "source": "http://www.wikidata.org/entity/Q20380926",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Constable%20-%20Study%20of%20a%20Windmill%20-%20KMS3095%20-%20Statens%20Museum%20for%20Kunst.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Constable%20by%20Daniel%20Gardner%2C%201796.JPG"
     },
     {
       "id": "Q20441019",
@@ -2567,7 +3133,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20441019"
+      "source": "http://www.wikidata.org/entity/Q20441019",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Constable%20-%20The%20Mill%20Stream%20-%20KMS3094%20-%20Statens%20Museum%20for%20Kunst.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Constable%20by%20Daniel%20Gardner%2C%201796.JPG"
     },
     {
       "id": "Q20278608",
@@ -2584,7 +3152,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20278608"
+      "source": "http://www.wikidata.org/entity/Q20278608",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20d.%C3%84.%20-%20Christ%20Blessing%20the%20Children%20-%20KMS2087%20-%20Statens%20Museum%20for%20Kunst.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20d.%20%C3%84.%20063.jpg"
     },
     {
       "id": "Q20392135",
@@ -2601,7 +3171,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20392135"
+      "source": "http://www.wikidata.org/entity/Q20392135",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20d.%C3%86.%20-%20Hercules%20with%20Omphale%20-%20KMSsp727%20-%20Statens%20Museum%20for%20Kunst.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20d.%20%C3%84.%20063.jpg"
     },
     {
       "id": "Q4289290",
@@ -2618,7 +3190,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q4289290"
+      "source": "http://www.wikidata.org/entity/Q4289290",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20d.%20%C3%84.%20034.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20d.%20%C3%84.%20063.jpg"
     },
     {
       "id": "Q20492706",
@@ -2635,7 +3209,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20492706"
+      "source": "http://www.wikidata.org/entity/Q20492706",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20d.%C3%84.%20-%20Bildnis%20einer%20Frau%2C%201534%20%28Statens%20Museum%20for%20Kunst%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20d.%20%C3%84.%20063.jpg"
     },
     {
       "id": "Q20354522",
@@ -2652,7 +3228,28 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20354522"
+      "source": "http://www.wikidata.org/entity/Q20354522",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20d.%C3%84.%20-%20Bildnis%20eines%20Mannes%2C%201534%20%28Statens%20Museum%20for%20Kunst%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20d.%20%C3%84.%20063.jpg"
+    },
+    {
+      "id": "Q20475852",
+      "artistId": "lucas-cranach-the-elder",
+      "artistName": "Lucas Cranach the Elder",
+      "reviewStatus": "generated",
+      "title": "Portrait of a Young Woman. Princess Emily of Saxony?",
+      "date": "1537",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "statens-museum-for-kunst-copenhagen-municipality",
+      "location": "Statens Museum for Kunst",
+      "city": "Copenhagen Municipality",
+      "country": "Denmark",
+      "lat": 55.68889,
+      "lon": 12.57861,
+      "source": "http://www.wikidata.org/entity/Q20475852",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20d.%C3%84.%20-%20Bildnis%20einer%20jungen%20Frau%20%28Statens%20Museum%20for%20Kunst%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20d.%20%C3%84.%20063.jpg"
     },
     {
       "id": "Q20441173",
@@ -2669,7 +3266,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20441173"
+      "source": "http://www.wikidata.org/entity/Q20441173",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Martin%20Luther%20by%20Lucas%20Cranach%20the%20Elder%20-%20Statens%20Museum%20for%20Kunst%20-%20DSC08170.JPG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20d.%20%C3%84.%20063.jpg"
     },
     {
       "id": "Q20275962",
@@ -2686,7 +3285,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20275962"
+      "source": "http://www.wikidata.org/entity/Q20275962",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20d.%C3%84.%20-%20Bildnis%20Barbara%20von%20Sachsen%20%28Statens%20Museum%20for%20Kunst%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20d.%20%C3%84.%20063.jpg"
     },
     {
       "id": "Q20268337",
@@ -2703,7 +3304,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20268337"
+      "source": "http://www.wikidata.org/entity/Q20268337",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20d.%C3%84.%20-%20Portr%C3%A4t%20des%20Kurf%C3%BCrsten%20Johann%20Friedrich%20des%20Gro%C3%9Fm%C3%BCtigen%20von%20Sachsen%20%28Statens%20Museum%20for%20Kunst%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20d.%20%C3%84.%20063.jpg"
     },
     {
       "id": "Q20355103",
@@ -2720,7 +3323,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20355103"
+      "source": "http://www.wikidata.org/entity/Q20355103",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20d.%C3%86.%20-%20Portrait%20of%20the%20Elector%20John%20the%20Steadfast%20of%20Saxony%20%281468-1532%29%20-%20KMSsp729%20-%20Statens%20Museum%20for%20Kunst.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20d.%20%C3%84.%20063.jpg"
     },
     {
       "id": "Q20354079",
@@ -2737,7 +3342,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20354079"
+      "source": "http://www.wikidata.org/entity/Q20354079",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20d.%C3%84.%20-%20Sibylle%2C%20Kurf%C3%BCrstin%20von%20Sachsen%20%28Statens%20Museum%20for%20Kunst%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20d.%20%C3%84.%20063.jpg"
     },
     {
       "id": "Q20537625",
@@ -2754,7 +3361,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20537625"
+      "source": "http://www.wikidata.org/entity/Q20537625",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Korsf%C3%A6stelsen.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20d.%20%C3%84.%20063.jpg"
     },
     {
       "id": "Q20392001",
@@ -2771,7 +3380,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20392001"
+      "source": "http://www.wikidata.org/entity/Q20392001",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Elector%20Frederic%20the%20Wise%20of%20Saxony%20with%20Saints%20Ursula%20and%20Genevieve%20by%20Lucas%20Cranach%20the%20Elder%20-%20Statens%20Museum%20for%20Kunst%20-%20DSC08166.JPG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20d.%20%C3%84.%20063.jpg"
     },
     {
       "id": "Q20278181",
@@ -2788,7 +3399,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20278181"
+      "source": "http://www.wikidata.org/entity/Q20278181",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20d.%C3%84.%20-%20Das%20Urteil%20des%20Paris%20%28Statens%20Museum%20for%20Kunst%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20d.%20%C3%84.%20063.jpg"
     },
     {
       "id": "Q20354953",
@@ -2805,7 +3418,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20354953"
+      "source": "http://www.wikidata.org/entity/Q20354953",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20d.%C3%84.%20-%20Die%20Hirschjagd%20des%20Kurf%C3%BCrsten%20Friedrich%20des%20Weisen%20von%20Sachsen%20%28Statens%20Museum%20for%20Kunst%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20d.%20%C3%84.%20063.jpg"
     },
     {
       "id": "Q20434340",
@@ -2822,7 +3437,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20434340"
+      "source": "http://www.wikidata.org/entity/Q20434340",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20the%20Elder%20-%20Venus%20with%20Cupid%20Stealing%20Honey%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20d.%20%C3%84.%20063.jpg"
     },
     {
       "id": "Q20552282",
@@ -2839,7 +3456,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20552282"
+      "source": "http://www.wikidata.org/entity/Q20552282",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20d.%C3%84.%20-%20Madonna%20mit%20dem%20Jesuskind%20und%20dem%20heiligen%20Johannes%20%28ca.1512-14%2C%20Statens%20Museum%20for%20Kunst%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20d.%20%C3%84.%20063.jpg"
     },
     {
       "id": "Q20267833",
@@ -2856,7 +3475,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20267833"
+      "source": "http://www.wikidata.org/entity/Q20267833",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20%28I%29%20-%20Madonna%20und%20Kind%20mit%20den%20Heiligen%20Katharina%20und%20Barbara%20%28Statens%20Museum%20for%20Kunst%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20d.%20%C3%84.%20063.jpg"
     },
     {
       "id": "Q20440865",
@@ -2873,7 +3494,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20440865"
+      "source": "http://www.wikidata.org/entity/Q20440865",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Veronese%20-%20The%20Marriage%20of%20St%20Catharine%20-%20KMSsp149%20-%20Statens%20Museum%20for%20Kunst.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Veronese%20-%20AUTORITRATTO%20%282%29%20-%20Museo%20dell%27Ermitage.jpg"
     },
     {
       "id": "Q20538879",
@@ -2890,7 +3513,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20538879"
+      "source": "http://www.wikidata.org/entity/Q20538879",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Veronese%20-%20The%20Judgment%20of%20Solomon%20-%20KMSst275%20-%20Statens%20Museum%20for%20Kunst.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Veronese%20-%20AUTORITRATTO%20%282%29%20-%20Museo%20dell%27Ermitage.jpg"
     },
     {
       "id": "Q3937595",
@@ -2907,7 +3532,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q3937595"
+      "source": "http://www.wikidata.org/entity/Q3937595",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Portr%C3%A6t%20af%20Lorenzo%20Cybo.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Parmigianino%20Selfportrait.jpg"
     },
     {
       "id": "Q20491291",
@@ -2924,24 +3551,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20491291"
-    },
-    {
-      "id": "Q19869305",
-      "artistId": "paul-gauguin",
-      "artistName": "Paul Gauguin",
-      "reviewStatus": "generated",
-      "title": "Figures in a Garden",
-      "date": "1881",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "statens-museum-for-kunst-copenhagen-municipality",
-      "location": "Statens Museum for Kunst",
-      "city": "Copenhagen Municipality",
-      "country": "Denmark",
-      "lat": 55.68889,
-      "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q19869305"
+      "source": "http://www.wikidata.org/entity/Q20491291",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/PaulGauguin-1885-Coast%20at%20Dieppe.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Gauguin%201891.png"
     },
     {
       "id": "Q48450971",
@@ -2958,75 +3570,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q48450971"
-    },
-    {
-      "id": "Q20267654",
-      "artistId": "paul-gauguin",
-      "artistName": "Paul Gauguin",
-      "reviewStatus": "generated",
-      "title": "Garden in Snow",
-      "date": "1879",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "statens-museum-for-kunst-copenhagen-municipality",
-      "location": "Statens Museum for Kunst",
-      "city": "Copenhagen Municipality",
-      "country": "Denmark",
-      "lat": 55.68889,
-      "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20267654"
-    },
-    {
-      "id": "Q20539596",
-      "artistId": "paul-gauguin",
-      "artistName": "Paul Gauguin",
-      "reviewStatus": "generated",
-      "title": "Landscape from Pont-Aven, Brittany",
-      "date": "1888",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "statens-museum-for-kunst-copenhagen-municipality",
-      "location": "Statens Museum for Kunst",
-      "city": "Copenhagen Municipality",
-      "country": "Denmark",
-      "lat": 55.68889,
-      "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20539596"
-    },
-    {
-      "id": "Q20354289",
-      "artistId": "paul-gauguin",
-      "artistName": "Paul Gauguin",
-      "reviewStatus": "generated",
-      "title": "Still Life with Flowers",
-      "date": "1882",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "statens-museum-for-kunst-copenhagen-municipality",
-      "location": "Statens Museum for Kunst",
-      "city": "Copenhagen Municipality",
-      "country": "Denmark",
-      "lat": 55.68889,
-      "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20354289"
-    },
-    {
-      "id": "Q4528214",
-      "artistId": "paul-gauguin",
-      "artistName": "Paul Gauguin",
-      "reviewStatus": "generated",
-      "title": "Study of a Nude",
-      "date": "1880",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "statens-museum-for-kunst-copenhagen-municipality",
-      "location": "Statens Museum for Kunst",
-      "city": "Copenhagen Municipality",
-      "country": "Denmark",
-      "lat": 55.68889,
-      "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q4528214"
+      "source": "http://www.wikidata.org/entity/Q48450971",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Gauguin%20108.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Gauguin%201891.png"
     },
     {
       "id": "Q20354835",
@@ -3043,7 +3589,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20354835"
+      "source": "http://www.wikidata.org/entity/Q20354835",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Paul%20Rubens%20-%20A%20Monk%20-%20KMS1426%20-%20Statens%20Museum%20for%20Kunst.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Peter%20Paul%20Rubens%20-%20Portrait%20of%20the%20Artist%20-%20Google%20Art%20Project.jpg"
     },
     {
       "id": "Q20538200",
@@ -3060,7 +3608,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20538200"
+      "source": "http://www.wikidata.org/entity/Q20538200",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Paul%20Rubens%20-%20Achilles%20among%20the%20Daughters%20of%20Lycomedes%20-%20KMS3581%20-%20Statens%20Museum%20for%20Kunst.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Peter%20Paul%20Rubens%20-%20Portrait%20of%20the%20Artist%20-%20Google%20Art%20Project.jpg"
     },
     {
       "id": "Q20278001",
@@ -3077,7 +3627,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20278001"
+      "source": "http://www.wikidata.org/entity/Q20278001",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Paul%20Rubens%20-%20Christ%20on%20the%20Cross%20-%20KMSsp186%20-%20Statens%20Museum%20for%20Kunst.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Peter%20Paul%20Rubens%20-%20Portrait%20of%20the%20Artist%20-%20Google%20Art%20Project.jpg"
     },
     {
       "id": "Q20278345",
@@ -3094,7 +3646,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20278345"
+      "source": "http://www.wikidata.org/entity/Q20278345",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Paul%20Rubens%20-%20Daniel%20in%20the%20Lions%27%20Den%20-%20KMSst384%20-%20Statens%20Museum%20for%20Kunst.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Peter%20Paul%20Rubens%20-%20Portrait%20of%20the%20Artist%20-%20Google%20Art%20Project.jpg"
     },
     {
       "id": "Q20411605",
@@ -3111,7 +3665,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20411605"
+      "source": "http://www.wikidata.org/entity/Q20411605",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Paul%20Rubens%20-%20Den%20of%20Lions%20-%20KMSst47%20-%20Statens%20Museum%20for%20Kunst.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Peter%20Paul%20Rubens%20-%20Portrait%20of%20the%20Artist%20-%20Google%20Art%20Project.jpg"
     },
     {
       "id": "Q20268382",
@@ -3128,7 +3684,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20268382"
+      "source": "http://www.wikidata.org/entity/Q20268382",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Paul%20Rubens%20-%20Dominican%20Friar%20-%20KMS3884%20-%20Statens%20Museum%20for%20Kunst.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Peter%20Paul%20Rubens%20-%20Portrait%20of%20the%20Artist%20-%20Google%20Art%20Project.jpg"
     },
     {
       "id": "Q20355669",
@@ -3145,7 +3703,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20355669"
+      "source": "http://www.wikidata.org/entity/Q20355669",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Paul%20Rubens%20-%20Head%20of%20a%20Woman%20-%20KMSsp193%20-%20Statens%20Museum%20for%20Kunst.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Peter%20Paul%20Rubens%20-%20Portrait%20of%20the%20Artist%20-%20Google%20Art%20Project.jpg"
     },
     {
       "id": "Q48450851",
@@ -3162,7 +3722,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q48450851"
+      "source": "http://www.wikidata.org/entity/Q48450851",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Paul%20Rubens%20-%20Hunting%20Party%20with%20Diana%20-%20KMS1030%20-%20Statens%20Museum%20for%20Kunst.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Peter%20Paul%20Rubens%20-%20Portrait%20of%20the%20Artist%20-%20Google%20Art%20Project.jpg"
     },
     {
       "id": "Q20355780",
@@ -3179,7 +3741,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20355780"
+      "source": "http://www.wikidata.org/entity/Q20355780",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Paul%20Rubens%20-%20Landscape%20with%20Huntsman%20and%20Stags%20-%20KMSsp196%20-%20Statens%20Museum%20for%20Kunst.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Peter%20Paul%20Rubens%20-%20Portrait%20of%20the%20Artist%20-%20Google%20Art%20Project.jpg"
     },
     {
       "id": "Q20441208",
@@ -3196,7 +3760,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20441208"
+      "source": "http://www.wikidata.org/entity/Q20441208",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Paul%20Rubens%20-%20Portrait%20of%20a%20Lady%20-%20KMS1413%20-%20Statens%20Museum%20for%20Kunst.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Peter%20Paul%20Rubens%20-%20Portrait%20of%20the%20Artist%20-%20Google%20Art%20Project.jpg"
     },
     {
       "id": "Q20536120",
@@ -3213,7 +3779,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20536120"
+      "source": "http://www.wikidata.org/entity/Q20536120",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Paul%20Rubens%20-%20Portrait%20of%20a%20Man%20-%20DEP11%20-%20Statens%20Museum%20for%20Kunst.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Peter%20Paul%20Rubens%20-%20Portrait%20of%20the%20Artist%20-%20Google%20Art%20Project.jpg"
     },
     {
       "id": "Q20354155",
@@ -3230,7 +3798,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20354155"
+      "source": "http://www.wikidata.org/entity/Q20354155",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Paul%20Rubens%20218.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Peter%20Paul%20Rubens%20-%20Portrait%20of%20the%20Artist%20-%20Google%20Art%20Project.jpg"
     },
     {
       "id": "Q20276228",
@@ -3247,7 +3817,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20276228"
+      "source": "http://www.wikidata.org/entity/Q20276228",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Paul%20Rubens%20-%20Portrait%20of%20Frans%20Francken%20-%20KMSsp199%20-%20Statens%20Museum%20for%20Kunst.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Peter%20Paul%20Rubens%20-%20Portrait%20of%20the%20Artist%20-%20Google%20Art%20Project.jpg"
     },
     {
       "id": "Q20379600",
@@ -3264,7 +3836,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20379600"
+      "source": "http://www.wikidata.org/entity/Q20379600",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Paul%20Rubens%20219.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Peter%20Paul%20Rubens%20-%20Portrait%20of%20the%20Artist%20-%20Google%20Art%20Project.jpg"
     },
     {
       "id": "Q20277173",
@@ -3281,24 +3855,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20277173"
-    },
-    {
-      "id": "Q20355649",
-      "artistId": "peter-paul-rubens",
-      "artistName": "Peter Paul Rubens",
-      "reviewStatus": "generated",
-      "title": "Sleeping Venus with Cupid Watched by Satyrs",
-      "date": "1616",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "statens-museum-for-kunst-copenhagen-municipality",
-      "location": "Statens Museum for Kunst",
-      "city": "Copenhagen Municipality",
-      "country": "Denmark",
-      "lat": 55.68889,
-      "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20355649"
+      "source": "http://www.wikidata.org/entity/Q20277173",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Paul%20Rubens%20-%20Matthaeus%20Yrsselius%20%281541-1629%29%2C%20Abbot%20of%20Sint-Michiel%27s%20Abbey%20in%20Antwerp%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Peter%20Paul%20Rubens%20-%20Portrait%20of%20the%20Artist%20-%20Google%20Art%20Project.jpg"
     },
     {
       "id": "Q20385494",
@@ -3315,7 +3874,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20385494"
+      "source": "http://www.wikidata.org/entity/Q20385494",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Paul%20Rubens%20-%20The%20Apostle%20Peter%20-%20KMSsp194%20-%20Statens%20Museum%20for%20Kunst.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Peter%20Paul%20Rubens%20-%20Portrait%20of%20the%20Artist%20-%20Google%20Art%20Project.jpg"
     },
     {
       "id": "Q20277656",
@@ -3332,7 +3893,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20277656"
+      "source": "http://www.wikidata.org/entity/Q20277656",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Paul%20Rubens%20-%20The%20Ascent%20to%20Calvary.%20The%20Bearing%20of%20the%20Cross%20-%20KMS1856%20-%20Statens%20Museum%20for%20Kunst.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Peter%20Paul%20Rubens%20-%20Portrait%20of%20the%20Artist%20-%20Google%20Art%20Project.jpg"
     },
     {
       "id": "Q20396156",
@@ -3349,7 +3912,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20396156"
+      "source": "http://www.wikidata.org/entity/Q20396156",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Salomons%20dom.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Peter%20Paul%20Rubens%20-%20Portrait%20of%20the%20Artist%20-%20Google%20Art%20Project.jpg"
     },
     {
       "id": "Q20267470",
@@ -3366,7 +3931,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20267470"
+      "source": "http://www.wikidata.org/entity/Q20267470",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Self-portrait-1889.jpg"
     },
     {
       "id": "Q20426804",
@@ -3383,7 +3950,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20426804"
+      "source": "http://www.wikidata.org/entity/Q20426804",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20d.%C3%86.%20-%20The%20Strife%20of%20Lent%20with%20Shrove-Tide%20-%20KMS1639%20-%20Statens%20Museum%20for%20Kunst.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%20-%20The%20Painter%20and%20the%20Buyer%2C%20ca.%201566%20-%20Google%20Art%20Project.jpg"
     },
     {
       "id": "Q20355399",
@@ -3400,7 +3969,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20355399"
+      "source": "http://www.wikidata.org/entity/Q20355399",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Raphael%20-%20St%20Cecilia%20-%20KMSst457%20-%20Statens%20Museum%20for%20Kunst.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Raffaello%20Sanzio.jpg"
     },
     {
       "id": "Q20425450",
@@ -3417,7 +3988,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20425450"
+      "source": "http://www.wikidata.org/entity/Q20425450",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Raphael%20-%20The%20Adoration%20of%20the%20Kings%20-%20KMSsp3%20-%20Statens%20Museum%20for%20Kunst.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Raffaello%20Sanzio.jpg"
     },
     {
       "id": "Q20268553",
@@ -3434,24 +4007,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20268553"
-    },
-    {
-      "id": "Q20537194",
-      "artistId": "rembrandt",
-      "artistName": "Rembrandt",
-      "reviewStatus": "generated",
-      "title": "A Young Woman Resting her Hands on the Picture Frame",
-      "date": "1640",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "statens-museum-for-kunst-copenhagen-municipality",
-      "location": "Statens Museum for Kunst",
-      "city": "Copenhagen Municipality",
-      "country": "Denmark",
-      "lat": 55.68889,
-      "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20537194"
+      "source": "http://www.wikidata.org/entity/Q20268553",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Raphael%20-%20Virgin%20and%20Child%20with%20the%20Infant%20St%20John%20-%20KMSst193%20-%20Statens%20Museum%20for%20Kunst.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Raffaello%20Sanzio.jpg"
     },
     {
       "id": "Q20389657",
@@ -3468,58 +4026,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20389657"
-    },
-    {
-      "id": "Q19973906",
-      "artistId": "rembrandt",
-      "artistName": "Rembrandt",
-      "reviewStatus": "generated",
-      "title": "Man in plumed beret",
-      "date": "1659",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "statens-museum-for-kunst-copenhagen-municipality",
-      "location": "Statens Museum for Kunst",
-      "city": "Copenhagen Municipality",
-      "country": "Denmark",
-      "lat": 55.68889,
-      "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q19973906"
-    },
-    {
-      "id": "Q20397433",
-      "artistId": "rembrandt",
-      "artistName": "Rembrandt",
-      "reviewStatus": "generated",
-      "title": "Study of an Old Man in Profile",
-      "date": "1630",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "statens-museum-for-kunst-copenhagen-municipality",
-      "location": "Statens Museum for Kunst",
-      "city": "Copenhagen Municipality",
-      "country": "Denmark",
-      "lat": 55.68889,
-      "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20397433"
-    },
-    {
-      "id": "Q20354424",
-      "artistId": "rembrandt",
-      "artistName": "Rembrandt",
-      "reviewStatus": "generated",
-      "title": "Young Man in a Pearl-trimmed Cap",
-      "date": "1650",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "statens-museum-for-kunst-copenhagen-municipality",
-      "location": "Statens Museum for Kunst",
-      "city": "Copenhagen Municipality",
-      "country": "Denmark",
-      "lat": 55.68889,
-      "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20354424"
+      "source": "http://www.wikidata.org/entity/Q20389657",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20follower%20-%20An%20Old%20Woman%20-%20KMS3885.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20van%20Rijn%20-%20Self-Portrait%20-%20Google%20Art%20Project.jpg"
     },
     {
       "id": "Q20354359",
@@ -3536,7 +4045,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20354359"
+      "source": "http://www.wikidata.org/entity/Q20354359",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rosa%20Bonheur%20-%20A%20Couching%20Sheep%20in%20a%20Stable%20-%20KMS3450%20-%20Statens%20Museum%20for%20Kunst.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Andr%C3%A9%20Adolphe-Eug%C3%A8ne%20Disd%C3%A9ri%20%28French%20-%20%28Rosa%20Bonheur%29%20-%20Google%20Art%20Project.jpg"
     },
     {
       "id": "Q20440842",
@@ -3553,7 +4064,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20440842"
+      "source": "http://www.wikidata.org/entity/Q20440842",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ubekendt%20italiensk%20KMSsp77%20-%20Virgin%20and%20Child%20-%20KMSsp77%20-%20Statens%20Museum%20for%20Kunst.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sofonisba%20Anguissola%2C%20Selvportr%C3%A6t%20ved%20staffeliet%2C%201556%2C%20Museum%20Castle%20in%20%C5%81a%C5%84cut.jpg"
     },
     {
       "id": "Q20425911",
@@ -3570,7 +4083,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20425911"
+      "source": "http://www.wikidata.org/entity/Q20425911",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Suzanne%20Valadon%2C%20For%C3%A5rsblomster%20i%20en%20vase%2C%201928%2C%20kmsr157%2C%20Statens%20Museum%20for%20Kunst.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%28Barcelona%29%20Autoretrat%20al%20mirall%20-%20by%20Suzanne%20Valadon.jpg"
     },
     {
       "id": "Q20355547",
@@ -3587,7 +4102,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20355547"
+      "source": "http://www.wikidata.org/entity/Q20355547",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Tintoretto%20-%20Portrait%20of%20a%20Man%20-%20KMS3267%20-%20Statens%20Museum%20for%20Kunst.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Tintoretto%20-%20Self-Portrait%20as%20a%20Young%20Man%2C%20ca.%201548%2C%20CAI.103%20%28cropped%29.jpg"
     },
     {
       "id": "Q3937402",
@@ -3604,7 +4121,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q3937402"
+      "source": "http://www.wikidata.org/entity/Q3937402",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Portr%C3%A6t%20af%20den%20venezianske%20maler%20Giovanni%20Bellini.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Vecellio%20di%20Gregorio%20Tiziano%20-%20autoritratto.jpg"
     },
     {
       "id": "Q20426993",
@@ -3621,24 +4140,9 @@
       "country": "Denmark",
       "lat": 55.68889,
       "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q20426993"
-    },
-    {
-      "id": "Q11747755",
-      "artistId": "van-gogh",
-      "artistName": "Vincent van Gogh",
-      "reviewStatus": "generated",
-      "title": "Mountainous Landscape Behind Saint-Paul Hospital",
-      "date": "1889",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "statens-museum-for-kunst-copenhagen-municipality",
-      "location": "Statens Museum for Kunst",
-      "city": "Copenhagen Municipality",
-      "country": "Denmark",
-      "lat": 55.68889,
-      "lon": 12.57861,
-      "source": "http://www.wikidata.org/entity/Q11747755"
+      "source": "http://www.wikidata.org/entity/Q20426993",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Willibald%20Imhoff.jpeg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Vecellio%20di%20Gregorio%20Tiziano%20-%20autoritratto.jpg"
     },
     {
       "id": "Q136101845",
@@ -3655,7 +4159,9 @@
       "country": "Denmark",
       "lat": 55.9269,
       "lon": 12.5107,
-      "source": "http://www.wikidata.org/entity/Q136101845"
+      "source": "http://www.wikidata.org/entity/Q136101845",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Suzanne%20et%20les%20Vieillards%2C%20par%20Artemisia%20Gentileschi%20%E2%80%93%20Nivaagaards%20Malerisamling.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Artemisia%20Gentileschi%20Selfportrait%20Martyr.jpg"
     },
     {
       "id": "Q75134876",
@@ -3672,7 +4178,9 @@
       "country": "Denmark",
       "lat": 55.9269,
       "lon": 12.5107,
-      "source": "http://www.wikidata.org/entity/Q75134876"
+      "source": "http://www.wikidata.org/entity/Q75134876",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Giovanni%20Bellini%20-%20Ritratto%20di%20giovane%20uomo%20%28Nivaagaard%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Portr%C3%A6t%20af%20den%20venezianske%20maler%20Giovanni%20Bellini.jpg"
     },
     {
       "id": "Q75135164",
@@ -3689,7 +4197,9 @@
       "country": "Denmark",
       "lat": 55.9269,
       "lon": 12.5107,
-      "source": "http://www.wikidata.org/entity/Q75135164"
+      "source": "http://www.wikidata.org/entity/Q75135164",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20den%20%C3%A6ldre%2C%20Caritas%20%28N%C3%A6stek%C3%A6rligheden%29%2C%201535%2C%200017NMK%2C%20Nivaagaards%20Malerisamling.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20d.%20%C3%84.%20063.jpg"
     },
     {
       "id": "Q75135163",
@@ -3706,24 +4216,9 @@
       "country": "Denmark",
       "lat": 55.9269,
       "lon": 12.5107,
-      "source": "http://www.wikidata.org/entity/Q75135163"
-    },
-    {
-      "id": "Q21596897",
-      "artistId": "rembrandt",
-      "artistName": "Rembrandt",
-      "reviewStatus": "generated",
-      "title": "Portrait of a 39-year-old Woman",
-      "date": "1632",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "nivaagaard-museum-fredensborg-municipality",
-      "location": "Nivaagaard Museum",
-      "city": "Fredensborg Municipality",
-      "country": "Denmark",
-      "lat": 55.9269,
-      "lon": 12.5107,
-      "source": "http://www.wikidata.org/entity/Q21596897"
+      "source": "http://www.wikidata.org/entity/Q75135163",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20d.%C3%86.%2C%20Madonna%20og%20Kristusbarnet%20med%20den%20lille%20Johannes%20D%C3%B8beren%20og%20engle%2C%20efter%201537%2C%200016NMK%2C%20Nivaagaards%20Malerisamling.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20d.%20%C3%84.%20063.jpg"
     },
     {
       "id": "Q21204021",
@@ -3740,7 +4235,9 @@
       "country": "Denmark",
       "lat": 55.9269,
       "lon": 12.5107,
-      "source": "http://www.wikidata.org/entity/Q21204021"
+      "source": "http://www.wikidata.org/entity/Q21204021",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sofonisba%20Anguissola%2C%20Portr%C3%A6tgruppe%20med%20kunstnerens%20fader%20Amilcare%20Anguissola%20og%20hendes%20s%C3%B8skende%20Minerva%20og%20Astrubale%2C%20ca.%201559%2C%200001NMK%2C%20Nivaagaards%20Malerisamling.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sofonisba%20Anguissola%2C%20Selvportr%C3%A6t%20ved%20staffeliet%2C%201556%2C%20Museum%20Castle%20in%20%C5%81a%C5%84cut.jpg"
     },
     {
       "id": "Q16589390",
@@ -3757,7 +4254,9 @@
       "country": "Denmark",
       "lat": 55.84477778,
       "lon": 12.05080556,
-      "source": "http://www.wikidata.org/entity/Q16589390"
+      "source": "http://www.wikidata.org/entity/Q16589390",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Adoration%20%281570%29%20El%20Greco.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Greco%20-%20Portrait%20of%20a%20Man%20-%20WGA10554.jpg"
     },
     {
       "id": "Q136784626",
@@ -3774,7 +4273,9 @@
       "country": "Denmark",
       "lat": 55.766944,
       "lon": 12.563333,
-      "source": "http://www.wikidata.org/entity/Q136784626"
+      "source": "http://www.wikidata.org/entity/Q136784626",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sisley%20-%20barges-on-the-loing-canal-spring-1896.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20110.jpg"
     },
     {
       "id": "Q19820358",
@@ -3791,7 +4292,9 @@
       "country": "Denmark",
       "lat": 55.766944,
       "lon": 12.563333,
-      "source": "http://www.wikidata.org/entity/Q19820358"
+      "source": "http://www.wikidata.org/entity/Q19820358",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Alfred%20Sisley%20037.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20110.jpg"
     },
     {
       "id": "Q19820320",
@@ -3808,7 +4311,9 @@
       "country": "Denmark",
       "lat": 55.766944,
       "lon": 12.563333,
-      "source": "http://www.wikidata.org/entity/Q19820320"
+      "source": "http://www.wikidata.org/entity/Q19820320",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Alfred%20Sisley%20-%20Inondation.%20Bords%20de%20la%20Seine%2C%20Bougival%20-%20Ordrupgaard.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20110.jpg"
     },
     {
       "id": "Q136413175",
@@ -3825,7 +4330,9 @@
       "country": "Denmark",
       "lat": 55.766944,
       "lon": 12.563333,
-      "source": "http://www.wikidata.org/entity/Q136413175"
+      "source": "http://www.wikidata.org/entity/Q136413175",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/September%20Morning%20near%20Saint-Mamm%C3%A8s%20and%20the%20Veneux-Nadon%20Hills%20%281884%29%20by%20Alfred%20Sisley.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20110.jpg"
     },
     {
       "id": "Q66250661",
@@ -3842,7 +4349,9 @@
       "country": "Denmark",
       "lat": 55.766944,
       "lon": 12.563333,
-      "source": "http://www.wikidata.org/entity/Q66250661"
+      "source": "http://www.wikidata.org/entity/Q66250661",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Alfred%20Sisley%20-%20Le%20garage%20des%20bateaux-mouches%20-%20Ordrupgaard.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20110.jpg"
     },
     {
       "id": "Q66250663",
@@ -3859,7 +4368,9 @@
       "country": "Denmark",
       "lat": 55.766944,
       "lon": 12.563333,
-      "source": "http://www.wikidata.org/entity/Q66250663"
+      "source": "http://www.wikidata.org/entity/Q66250663",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Alfred%20Sisley%20-%20D%C3%A9chargement%20des%20p%C3%A9niches%20%C3%A0%20Billancourt%20-%20Ordrupgaard.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20110.jpg"
     },
     {
       "id": "Q65966733",
@@ -3876,7 +4387,9 @@
       "country": "Denmark",
       "lat": 55.766944,
       "lon": 12.563333,
-      "source": "http://www.wikidata.org/entity/Q65966733"
+      "source": "http://www.wikidata.org/entity/Q65966733",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Morisot%20-%20Portrait%20de%20madame%20Hubard.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Morisot%20berthe%20photo.jpg"
     },
     {
       "id": "Q65966433",
@@ -3893,7 +4406,9 @@
       "country": "Denmark",
       "lat": 55.766944,
       "lon": 12.563333,
-      "source": "http://www.wikidata.org/entity/Q65966433"
+      "source": "http://www.wikidata.org/entity/Q65966433",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Berthe%20Morisot%20-%20Le%20corsage%20rouge%20-%20Ordrupgaard.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Morisot%20berthe%20photo.jpg"
     },
     {
       "id": "Q70207681",
@@ -3910,7 +4425,9 @@
       "country": "Denmark",
       "lat": 55.766944,
       "lon": 12.563333,
-      "source": "http://www.wikidata.org/entity/Q70207681"
+      "source": "http://www.wikidata.org/entity/Q70207681",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Pissarro%2C%20Landskab%20fra%20Antillerne%20rytter%20og%20%C3%A6sel%20p%C3%A5%20en%20vej%2C%201856%2C%20Ordrupgaard.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg"
     },
     {
       "id": "Q21235546",
@@ -3927,7 +4444,9 @@
       "country": "Denmark",
       "lat": 55.766944,
       "lon": 12.563333,
-      "source": "http://www.wikidata.org/entity/Q21235546"
+      "source": "http://www.wikidata.org/entity/Q21235546",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20Rue%20Saint-Honor%C3%A9%2C%20matin%2C%20effet%20de%20soleil.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg"
     },
     {
       "id": "Q21233173",
@@ -3944,7 +4463,9 @@
       "country": "Denmark",
       "lat": 55.766944,
       "lon": 12.563333,
-      "source": "http://www.wikidata.org/entity/Q21233173"
+      "source": "http://www.wikidata.org/entity/Q21233173",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro%20-%20Pissarro%20and%20Durand-Ruel%20Snollaerts%2C%20446.png",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg"
     },
     {
       "id": "Q21192436",
@@ -3961,7 +4482,9 @@
       "country": "Denmark",
       "lat": 55.766944,
       "lon": 12.563333,
-      "source": "http://www.wikidata.org/entity/Q21192436"
+      "source": "http://www.wikidata.org/entity/Q21192436",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Pissarro%20-%20Flowering%20Plum%20Tree%2C%20Eragny.JPG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg"
     },
     {
       "id": "Q57585934",
@@ -3978,7 +4501,9 @@
       "country": "Denmark",
       "lat": 55.766944,
       "lon": 12.563333,
-      "source": "http://www.wikidata.org/entity/Q57585934"
+      "source": "http://www.wikidata.org/entity/Q57585934",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Pissarro%2C%20Portr%C3%A6t%20af%20en%20dreng%2C%201852-1855.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg"
     },
     {
       "id": "Q21235025",
@@ -3995,7 +4520,9 @@
       "country": "Denmark",
       "lat": 55.766944,
       "lon": 12.563333,
-      "source": "http://www.wikidata.org/entity/Q21235025"
+      "source": "http://www.wikidata.org/entity/Q21235025",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rue%20Saint-Lazare%2C%20Effect%20of%20Sunlight.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg"
     },
     {
       "id": "Q21235201",
@@ -4012,7 +4539,9 @@
       "country": "Denmark",
       "lat": 55.766944,
       "lon": 12.563333,
-      "source": "http://www.wikidata.org/entity/Q21235201"
+      "source": "http://www.wikidata.org/entity/Q21235201",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro%20-%20Pissarro%20and%20Durand-Ruel%20Snollaerts%2C%201184.png",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg"
     },
     {
       "id": "Q21233409",
@@ -4029,7 +4558,28 @@
       "country": "Denmark",
       "lat": 55.766944,
       "lon": 12.563333,
-      "source": "http://www.wikidata.org/entity/Q21233409"
+      "source": "http://www.wikidata.org/entity/Q21233409",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro%20-%20Pissarro%20and%20Durand-Ruel%20Snollaerts%2C%201020.png",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg"
+    },
+    {
+      "id": "Q50434661",
+      "artistId": "monet",
+      "artistName": "Claude Monet",
+      "reviewStatus": "generated",
+      "title": "Pavé de Chailly in the Fontainebleau forest",
+      "date": "1865",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "ordrupgaard-gentofte-municipality",
+      "location": "Ordrupgaard",
+      "city": "Gentofte Municipality",
+      "country": "Denmark",
+      "lat": 55.766944,
+      "lon": 12.563333,
+      "source": "http://www.wikidata.org/entity/Q50434661",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Le%20Pav%C3%A9%20de%20Chailly%20in%20the%20Forest%20of%20Fontainebleau%20%28Monet%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%201899%20Nadar%20crop.jpg"
     },
     {
       "id": "Q103929408",
@@ -4046,7 +4596,9 @@
       "country": "Denmark",
       "lat": 55.766944,
       "lon": 12.563333,
-      "source": "http://www.wikidata.org/entity/Q103929408"
+      "source": "http://www.wikidata.org/entity/Q103929408",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Manet%20-%20Corbeille%20de%20poires%20%28RW%20354%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Manet%2C%20en%20buste%2C%20de%20face%20-%20Nadar.jpg"
     },
     {
       "id": "Q65966893",
@@ -4063,7 +4615,9 @@
       "country": "Denmark",
       "lat": 55.766944,
       "lon": 12.563333,
-      "source": "http://www.wikidata.org/entity/Q65966893"
+      "source": "http://www.wikidata.org/entity/Q65966893",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Manet%2C%20Femme%20%C3%A0%20la%20Jarreti%C3%A8re%20%281878%E2%80%931879%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Manet%2C%20en%20buste%2C%20de%20face%20-%20Nadar.jpg"
     },
     {
       "id": "Q132325846",
@@ -4080,7 +4634,9 @@
       "country": "Denmark",
       "lat": 55.766944,
       "lon": 12.563333,
-      "source": "http://www.wikidata.org/entity/Q132325846"
+      "source": "http://www.wikidata.org/entity/Q132325846",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Eug%C3%A8ne%20Delacroix%20-%20George%20Sand%20-%20WGA06193.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Autoportrait%20-%20Eug%C3%A8ne%20Delacroix%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20RF%2025.jpg"
     },
     {
       "id": "Q130948342",
@@ -4097,7 +4653,9 @@
       "country": "Denmark",
       "lat": 55.766944,
       "lon": 12.563333,
-      "source": "http://www.wikidata.org/entity/Q130948342"
+      "source": "http://www.wikidata.org/entity/Q130948342",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Delacroix%20hercule%26hesiode-copenhague.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Autoportrait%20-%20Eug%C3%A8ne%20Delacroix%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20RF%2025.jpg"
     },
     {
       "id": "Q4992187",
@@ -4114,7 +4672,9 @@
       "country": "Denmark",
       "lat": 55.766944,
       "lon": 12.563333,
-      "source": "http://www.wikidata.org/entity/Q4992187"
+      "source": "http://www.wikidata.org/entity/Q4992187",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/ChopinSandDelacroix.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Autoportrait%20-%20Eug%C3%A8ne%20Delacroix%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20RF%2025.jpg"
     },
     {
       "id": "Q104390695",
@@ -4131,24 +4691,9 @@
       "country": "Denmark",
       "lat": 55.766944,
       "lon": 12.563333,
-      "source": "http://www.wikidata.org/entity/Q104390695"
-    },
-    {
-      "id": "Q65966860",
-      "artistId": "gustave-courbet",
-      "artistName": "Gustave Courbet",
-      "reviewStatus": "generated",
-      "title": "Untitled record",
-      "date": "1866",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "ordrupgaard-gentofte-municipality",
-      "location": "Ordrupgaard",
-      "city": "Gentofte Municipality",
-      "country": "Denmark",
-      "lat": 55.766944,
-      "lon": 12.563333,
-      "source": "http://www.wikidata.org/entity/Q65966860"
+      "source": "http://www.wikidata.org/entity/Q104390695",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Delacroix%20-%20Ugolino%20and%20His%20Sons%20in%20the%20Tower%2C%201856-1860.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Autoportrait%20-%20Eug%C3%A8ne%20Delacroix%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20RF%2025.jpg"
     },
     {
       "id": "Q104152121",
@@ -4165,7 +4710,28 @@
       "country": "Denmark",
       "lat": 55.766944,
       "lon": 12.563333,
-      "source": "http://www.wikidata.org/entity/Q104152121"
+      "source": "http://www.wikidata.org/entity/Q104152121",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustave%20Courbet%2C%20photograph%20Atelier%20Nadar%2C%20c.%201860s.jpg"
+    },
+    {
+      "id": "Q65966860",
+      "artistId": "gustave-courbet",
+      "artistName": "Gustave Courbet",
+      "reviewStatus": "generated",
+      "title": "Untitled record",
+      "date": "1866",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "ordrupgaard-gentofte-municipality",
+      "location": "Ordrupgaard",
+      "city": "Gentofte Municipality",
+      "country": "Denmark",
+      "lat": 55.766944,
+      "lon": 12.563333,
+      "source": "http://www.wikidata.org/entity/Q65966860",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Le%20Change%2C%20%C3%A9pisode%20de%20chasse%20en%20Franche-Comt%C3%A9%20by%20Courbet.png",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustave%20Courbet%2C%20photograph%20Atelier%20Nadar%2C%20c.%201860s.jpg"
     },
     {
       "id": "Q41516330",
@@ -4182,24 +4748,9 @@
       "country": "Denmark",
       "lat": 55.766944,
       "lon": 12.563333,
-      "source": "http://www.wikidata.org/entity/Q41516330"
-    },
-    {
-      "id": "Q103933512",
-      "artistId": "jean-baptiste-camille-corot",
-      "artistName": "Jean-Baptiste-Camille Corot",
-      "reviewStatus": "generated",
-      "title": "The route landscape Côte-d'Or",
-      "date": "1850",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "ordrupgaard-gentofte-municipality",
-      "location": "Ordrupgaard",
-      "city": "Gentofte Municipality",
-      "country": "Denmark",
-      "lat": 55.766944,
-      "lon": 12.563333,
-      "source": "http://www.wikidata.org/entity/Q103933512"
+      "source": "http://www.wikidata.org/entity/Q41516330",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Corot%20-%20Hamlet%20and%20the%20Gravedigger%2C%20circa%201873-1874.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste-Camille%20Corot%20c1850.png"
     },
     {
       "id": "Q41515949",
@@ -4207,7 +4758,7 @@
       "artistName": "Jean-Baptiste-Camille Corot",
       "reviewStatus": "generated",
       "title": "The Windmill",
-      "date": "1835",
+      "date": "1842",
       "type": "Painting",
       "attribution": "Accepted",
       "locationId": "ordrupgaard-gentofte-municipality",
@@ -4216,7 +4767,9 @@
       "country": "Denmark",
       "lat": 55.766944,
       "lon": 12.563333,
-      "source": "http://www.wikidata.org/entity/Q41515949"
+      "source": "http://www.wikidata.org/entity/Q41515949",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Corot%20-%20The%20Windmill%2C%201835-40.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste-Camille%20Corot%20c1850.png"
     },
     {
       "id": "Q64485142",
@@ -4224,7 +4777,7 @@
       "artistName": "Paul Cézanne",
       "reviewStatus": "generated",
       "title": "Women bathing",
-      "date": "1894",
+      "date": "1896",
       "type": "Painting",
       "attribution": "Accepted",
       "locationId": "ordrupgaard-gentofte-municipality",
@@ -4233,7 +4786,9 @@
       "country": "Denmark",
       "lat": 55.766944,
       "lon": 12.563333,
-      "source": "http://www.wikidata.org/entity/Q64485142"
+      "source": "http://www.wikidata.org/entity/Q64485142",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Cezanne%20woman%20bathing.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul-Cezanne.jpg"
     },
     {
       "id": "Q103932667",
@@ -4250,7 +4805,9 @@
       "country": "Denmark",
       "lat": 55.766944,
       "lon": 12.563333,
-      "source": "http://www.wikidata.org/entity/Q103932667"
+      "source": "http://www.wikidata.org/entity/Q103932667",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gauguin%20Adam%20et%20%C3%88ve.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Gauguin%201891.png"
     },
     {
       "id": "Q115978453",
@@ -4267,7 +4824,9 @@
       "country": "Denmark",
       "lat": 55.766944,
       "lon": 12.563333,
-      "source": "http://www.wikidata.org/entity/Q115978453"
+      "source": "http://www.wikidata.org/entity/Q115978453",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gaugain%20Les%20arbres%20bleus.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Gauguin%201891.png"
     },
     {
       "id": "Q115978527",
@@ -4284,7 +4843,9 @@
       "country": "Denmark",
       "lat": 55.766944,
       "lon": 12.563333,
-      "source": "http://www.wikidata.org/entity/Q115978527"
+      "source": "http://www.wikidata.org/entity/Q115978527",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Gauguin%20-%20Chemin%20en%20bas%20de%20Pont-Aven%20%281888%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Gauguin%201891.png"
     },
     {
       "id": "Q97690662",
@@ -4301,7 +4862,9 @@
       "country": "Denmark",
       "lat": 55.766944,
       "lon": 12.563333,
-      "source": "http://www.wikidata.org/entity/Q97690662"
+      "source": "http://www.wikidata.org/entity/Q97690662",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Gauguin%20-%20Portrait%20de%20jeune%20fille%20Vaite%20Goupil%20%281896%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Gauguin%201891.png"
     },
     {
       "id": "Q104152900",
@@ -4318,7 +4881,9 @@
       "country": "Denmark",
       "lat": 55.766944,
       "lon": 12.563333,
-      "source": "http://www.wikidata.org/entity/Q104152900"
+      "source": "http://www.wikidata.org/entity/Q104152900",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Gauguin%20-%20Femme%20Tahitienne%20I%20%281898%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Gauguin%201891.png"
     },
     {
       "id": "Q103930831",
@@ -4335,7 +4900,9 @@
       "country": "Denmark",
       "lat": 55.766944,
       "lon": 12.563333,
-      "source": "http://www.wikidata.org/entity/Q103930831"
+      "source": "http://www.wikidata.org/entity/Q103930831",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/PaulGauguin-1881-The%20Little%20One%20is%20Dreaming.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Gauguin%201891.png"
     },
     {
       "id": "Q115978645",
@@ -4352,7 +4919,9 @@
       "country": "Denmark",
       "lat": 55.766944,
       "lon": 12.563333,
-      "source": "http://www.wikidata.org/entity/Q115978645"
+      "source": "http://www.wikidata.org/entity/Q115978645",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Gauguin%20-%20Vendanges%20%C3%A0%20Arles%20%281888%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Gauguin%201891.png"
     },
     {
       "id": "Q103930232",
@@ -4369,24 +4938,47 @@
       "country": "Denmark",
       "lat": 55.766944,
       "lon": 12.563333,
-      "source": "http://www.wikidata.org/entity/Q103930232"
+      "source": "http://www.wikidata.org/entity/Q103930232",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gauguin%201890%20Deux%20vases%20de%20fleurs.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Gauguin%201891.png"
     },
     {
-      "id": "Q65966881",
-      "artistId": "pierre-auguste-renoir",
-      "artistName": "Pierre-Auguste Renoir",
+      "id": "Q19973906",
+      "artistId": "rembrandt",
+      "artistName": "Rembrandt",
       "reviewStatus": "generated",
-      "title": "Portrait of Mme. Iscovesco",
-      "date": "1877",
+      "title": "Man in plumed beret",
+      "date": "1659",
       "type": "Painting",
       "attribution": "Accepted",
-      "locationId": "ordrupgaard-gentofte-municipality",
-      "location": "Ordrupgaard",
-      "city": "Gentofte Municipality",
+      "locationId": "frederiksborg-palace-hiller-d-municipality",
+      "location": "Frederiksborg Palace",
+      "city": "Hillerød Municipality",
       "country": "Denmark",
-      "lat": 55.766944,
-      "lon": 12.563333,
-      "source": "http://www.wikidata.org/entity/Q65966881"
+      "lat": 55.935,
+      "lon": 12.300833333,
+      "source": "http://www.wikidata.org/entity/Q19973906",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Skitse%20til%20Ridderen%20med%20falken%2C%20kendt%20som%20%22Korsridderen%22.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20van%20Rijn%20-%20Self-Portrait%20-%20Google%20Art%20Project.jpg"
+    },
+    {
+      "id": "Q114760348",
+      "artistId": "tintoretto",
+      "artistName": "Tintoretto",
+      "reviewStatus": "generated",
+      "title": "Presentation of the Christ-child in the Temple with the baptism of Christ on the far right",
+      "date": "1619",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "frederiksborg-palace-hiller-d-municipality",
+      "location": "Frederiksborg Palace",
+      "city": "Hillerød Municipality",
+      "country": "Denmark",
+      "lat": 55.935,
+      "lon": 12.300833333,
+      "source": "http://www.wikidata.org/entity/Q114760348",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Tintoretto%20-%20Self-Portrait%20as%20a%20Young%20Man%2C%20ca.%201548%2C%20CAI.103%20%28cropped%29.jpg"
     }
   ]
 }

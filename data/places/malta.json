@@ -17,7 +17,9 @@
       "country": "Malta",
       "lat": 35.896389,
       "lon": 14.511389,
-      "source": "http://www.wikidata.org/entity/Q114103599"
+      "source": "http://www.wikidata.org/entity/Q114103599",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Fran%C3%A7ois%20Boucher%20-%20Pan%20and%20Syrinx%2C%201743.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Boucher%20par%20Gustav%20Lundberg%201741.jpg"
     },
     {
       "id": "Q2727560",
@@ -34,7 +36,9 @@
       "country": "Malta",
       "lat": 35.897778,
       "lon": 14.512778,
-      "source": "http://www.wikidata.org/entity/Q2727560"
+      "source": "http://www.wikidata.org/entity/Q2727560",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20decapitaci%C3%B3n%20de%20San%20Juan%20Bautista%2C%20por%20Caravaggio.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bild-Ottavio%20Leoni%2C%20Caravaggio.jpg"
     }
   ]
 }

@@ -17,7 +17,9 @@
       "country": "Egypt",
       "lat": 30.0356,
       "lon": 31.2197,
-      "source": "http://www.wikidata.org/entity/Q131862740"
+      "source": "http://www.wikidata.org/entity/Q131862740",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Morisot%20berthe%20photo.jpg"
     },
     {
       "id": "Q84056413",
@@ -34,7 +36,9 @@
       "country": "Egypt",
       "lat": 30.0356,
       "lon": 31.2197,
-      "source": "http://www.wikidata.org/entity/Q84056413"
+      "source": "http://www.wikidata.org/entity/Q84056413",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro%20-%20Pissarro%20and%20Durand-Ruel%20Snollaerts%2C%20665.png",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg"
     },
     {
       "id": "Q84056584",
@@ -51,10 +55,12 @@
       "country": "Egypt",
       "lat": 30.0356,
       "lon": 31.2197,
-      "source": "http://www.wikidata.org/entity/Q84056584"
+      "source": "http://www.wikidata.org/entity/Q84056584",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro%20-%20Pissarro%20and%20Durand-Ruel%20Snollaerts%2C%201022.png",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg"
     },
     {
-      "id": "Q84056440",
+      "id": "Q84056635",
       "artistId": "camille-pissarro",
       "artistName": "Camille Pissarro",
       "reviewStatus": "generated",
@@ -68,7 +74,9 @@
       "country": "Egypt",
       "lat": 30.0356,
       "lon": 31.2197,
-      "source": "http://www.wikidata.org/entity/Q84056440"
+      "source": "http://www.wikidata.org/entity/Q84056635",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro%20-%20Pissarro%20and%20Durand-Ruel%20Snollaerts%2C%201177.png",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg"
     },
     {
       "id": "Q84056410",
@@ -85,7 +93,9 @@
       "country": "Egypt",
       "lat": 30.0356,
       "lon": 31.2197,
-      "source": "http://www.wikidata.org/entity/Q84056410"
+      "source": "http://www.wikidata.org/entity/Q84056410",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro%20-%20Pissarro%20and%20Durand-Ruel%20Snollaerts%2C%20345.png",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg"
     },
     {
       "id": "Q84056469",
@@ -102,7 +112,9 @@
       "country": "Egypt",
       "lat": 30.0356,
       "lon": 31.2197,
-      "source": "http://www.wikidata.org/entity/Q84056469"
+      "source": "http://www.wikidata.org/entity/Q84056469",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ugin%20Dela%20Croix%20A%20tiger%20near%20his%20den%20oil%20painting%20on%20toile%2027x55cm.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Autoportrait%20-%20Eug%C3%A8ne%20Delacroix%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20RF%2025.jpg"
     },
     {
       "id": "Q84056586",
@@ -119,7 +131,9 @@
       "country": "Egypt",
       "lat": 30.0356,
       "lon": 31.2197,
-      "source": "http://www.wikidata.org/entity/Q84056586"
+      "source": "http://www.wikidata.org/entity/Q84056586",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustave%20Courbet%2C%20photograph%20Atelier%20Nadar%2C%20c.%201860s.jpg"
     },
     {
       "id": "Q84056465",
@@ -136,7 +150,9 @@
       "country": "Egypt",
       "lat": 30.0356,
       "lon": 31.2197,
-      "source": "http://www.wikidata.org/entity/Q84056465"
+      "source": "http://www.wikidata.org/entity/Q84056465",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Le%20Chasseur%20Mar%C3%A9chal%20by%20Gustave%20Courbet.png",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustave%20Courbet%2C%20photograph%20Atelier%20Nadar%2C%20c.%201860s.jpg"
     },
     {
       "id": "Q84056473",
@@ -153,7 +169,9 @@
       "country": "Egypt",
       "lat": 30.0356,
       "lon": 31.2197,
-      "source": "http://www.wikidata.org/entity/Q84056473"
+      "source": "http://www.wikidata.org/entity/Q84056473",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Photolautrec.jpg"
     },
     {
       "id": "Q66821254",
@@ -170,7 +188,9 @@
       "country": "Egypt",
       "lat": 30.0356,
       "lon": 31.2197,
-      "source": "http://www.wikidata.org/entity/Q66821254"
+      "source": "http://www.wikidata.org/entity/Q66821254",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/JAD%20Ingres%20-%20Fatima%20en%20Odalisque%20-%20Mahmoud%20Khalil%20Museum%20Cairo.png",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%2C%20Self-portrait.jpg"
     },
     {
       "id": "Q66821137",
@@ -187,7 +207,9 @@
       "country": "Egypt",
       "lat": 30.0356,
       "lon": 31.2197,
-      "source": "http://www.wikidata.org/entity/Q66821137"
+      "source": "http://www.wikidata.org/entity/Q66821137",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gauguin%201889%20La%20Vie%20et%20la%20Mort.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Gauguin%201891.png"
     },
     {
       "id": "Q84056448",
@@ -204,7 +226,9 @@
       "country": "Egypt",
       "lat": 30.0356,
       "lon": 31.2197,
-      "source": "http://www.wikidata.org/entity/Q84056448"
+      "source": "http://www.wikidata.org/entity/Q84056448",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gauguin%201885%20La%20Sente%20du%20p%C3%A8re%20Jean.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Gauguin%201891.png"
     },
     {
       "id": "Q4118041",
@@ -221,7 +245,9 @@
       "country": "Egypt",
       "lat": 30.0356,
       "lon": 31.2197,
-      "source": "http://www.wikidata.org/entity/Q4118041"
+      "source": "http://www.wikidata.org/entity/Q4118041",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Van%20Gogh%20-%20Vase%20mit%20Pechnelken.jpeg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Self-portrait%20-%20Vincent%20van%20Gogh.jpg"
     }
   ]
 }

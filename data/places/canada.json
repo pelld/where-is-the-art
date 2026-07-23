@@ -3,23 +3,6 @@
   "country": "Canada",
   "artworks": [
     {
-      "id": "Q124654037",
-      "artistId": "edouard-vuillard",
-      "artistName": "Édouard Vuillard",
-      "reviewStatus": "generated",
-      "title": "Princess Elizabeth Bibesco",
-      "date": "1919",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "art-gallery-of-hamilton-hamilton",
-      "location": "Art Gallery of Hamilton",
-      "city": "Hamilton",
-      "country": "Canada",
-      "lat": 43.2575,
-      "lon": -79.872222222,
-      "source": "http://www.wikidata.org/entity/Q124654037"
-    },
-    {
       "id": "Q124654036",
       "artistId": "edouard-vuillard",
       "artistName": "Édouard Vuillard",
@@ -34,7 +17,28 @@
       "country": "Canada",
       "lat": 43.2575,
       "lon": -79.872222222,
-      "source": "http://www.wikidata.org/entity/Q124654036"
+      "source": "http://www.wikidata.org/entity/Q124654036",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Vuillard%20-%20Jeanne%20Raunay%20dans%20Iphigenie.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Self-Portrait%2C%20Aged%2021%20A21192.jpg"
+    },
+    {
+      "id": "Q124654038",
+      "artistId": "edouard-vuillard",
+      "artistName": "Édouard Vuillard",
+      "reviewStatus": "generated",
+      "title": "Woman Sitting Seen from Outside the Window",
+      "date": "1912",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "art-gallery-of-hamilton-hamilton",
+      "location": "Art Gallery of Hamilton",
+      "city": "Hamilton",
+      "country": "Canada",
+      "lat": 43.2575,
+      "lon": -79.872222222,
+      "source": "http://www.wikidata.org/entity/Q124654038",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Self-Portrait%2C%20Aged%2021%20A21192.jpg"
     },
     {
       "id": "Q52365481",
@@ -51,7 +55,9 @@
       "country": "Canada",
       "lat": 46.815,
       "lon": -71.201944444,
-      "source": "http://www.wikidata.org/entity/Q52365481"
+      "source": "http://www.wikidata.org/entity/Q52365481",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Saint-J%C3%A9r%C3%B4me%20par%20David.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Self%20Portrait.jpg"
     },
     {
       "id": "Q59562914",
@@ -68,7 +74,9 @@
       "country": "Canada",
       "lat": 46.798888888,
       "lon": -71.224719444,
-      "source": "http://www.wikidata.org/entity/Q59562914"
+      "source": "http://www.wikidata.org/entity/Q59562914",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Turner%20-%20Sc%C3%A8ne%20dans%20le%20Derbyshire.%20Les%20Hauteurs%20d%E2%80%99Abraham%2C%20Matlock%20Bath%2C%201827%20ou%20avant%2C%201959.579.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%20auto-retrato.jpg"
     },
     {
       "id": "Q59557832",
@@ -85,7 +93,9 @@
       "country": "Canada",
       "lat": 46.798888888,
       "lon": -71.224719444,
-      "source": "http://www.wikidata.org/entity/Q59557832"
+      "source": "http://www.wikidata.org/entity/Q59557832",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste-Camille%20Corot%20c1850.png"
     },
     {
       "id": "Q59558072",
@@ -102,7 +112,9 @@
       "country": "Canada",
       "lat": 46.798888888,
       "lon": -71.224719444,
-      "source": "http://www.wikidata.org/entity/Q59558072"
+      "source": "http://www.wikidata.org/entity/Q59558072",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste-Camille%20Corot%20c1850.png"
     },
     {
       "id": "Q59557956",
@@ -119,7 +131,9 @@
       "country": "Canada",
       "lat": 46.798888888,
       "lon": -71.224719444,
-      "source": "http://www.wikidata.org/entity/Q59557956"
+      "source": "http://www.wikidata.org/entity/Q59557956",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste-Camille%20Corot%20c1850.png"
     },
     {
       "id": "Q59554462",
@@ -136,7 +150,9 @@
       "country": "Canada",
       "lat": 46.798888888,
       "lon": -71.224719444,
-      "source": "http://www.wikidata.org/entity/Q59554462"
+      "source": "http://www.wikidata.org/entity/Q59554462",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre%20Auguste%20Renoir%2C%20uncropped%20image.jpg"
     },
     {
       "id": "Q59555663",
@@ -153,7 +169,9 @@
       "country": "Canada",
       "lat": 46.798888888,
       "lon": -71.224719444,
-      "source": "http://www.wikidata.org/entity/Q59555663"
+      "source": "http://www.wikidata.org/entity/Q59555663",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre%20Auguste%20Renoir%2C%20uncropped%20image.jpg"
     },
     {
       "id": "Q110857642",
@@ -170,7 +188,9 @@
       "country": "Canada",
       "lat": 45.9598,
       "lon": -66.6356,
-      "source": "http://www.wikidata.org/entity/Q110857642"
+      "source": "http://www.wikidata.org/entity/Q110857642",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20falaise%20de%20Penarth%2C%20le%20soir%2C%20temps%20orageux%2C%201897.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20110.jpg"
     },
     {
       "id": "Q110857252",
@@ -187,7 +207,9 @@
       "country": "Canada",
       "lat": 45.9598,
       "lon": -66.6356,
-      "source": "http://www.wikidata.org/entity/Q110857252"
+      "source": "http://www.wikidata.org/entity/Q110857252",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Delacroix%20-%20Lady%20Macbeth%20Sleepwalking%2C%201849-1850.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Autoportrait%20-%20Eug%C3%A8ne%20Delacroix%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20RF%2025.jpg"
     },
     {
       "id": "Q17014543",
@@ -204,7 +226,28 @@
       "country": "Canada",
       "lat": 45.9598,
       "lon": -66.6356,
-      "source": "http://www.wikidata.org/entity/Q17014543"
+      "source": "http://www.wikidata.org/entity/Q17014543",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Fountain%20of%20Indolence%20by%20J.%20M.%20W.%20Turner.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%20auto-retrato.jpg"
+    },
+    {
+      "id": "Q110835041",
+      "artistId": "jean-baptiste-camille-corot",
+      "artistName": "Jean-Baptiste-Camille Corot",
+      "reviewStatus": "generated",
+      "title": "Untitled record",
+      "date": "1855",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "winnipeg-art-gallery-manitoba",
+      "location": "Winnipeg Art Gallery",
+      "city": "Manitoba",
+      "country": "Canada",
+      "lat": 49.889444444,
+      "lon": -97.150555555,
+      "source": "http://www.wikidata.org/entity/Q110835041",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste-Camille%20Corot%20-%20Grands%20arbres%20dominant%20la%20berge%20d%27une%20rivi%C3%A8re%20%281855%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste-Camille%20Corot%20c1850.png"
     },
     {
       "id": "Q18522918",
@@ -221,7 +264,9 @@
       "country": "Canada",
       "lat": 45.4991495,
       "lon": -73.5797575,
-      "source": "http://www.wikidata.org/entity/Q18522918"
+      "source": "http://www.wikidata.org/entity/Q18522918",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Alfred%20Sisley%2C%20L%27automne%20-%20Bords%20de%20la%20Seine%20pres%20Bougival%20%28Autumn%20-%20Banks%20of%20the%20Seine%20near%20Bougival%29%2C%201873.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20110.jpg"
     },
     {
       "id": "Q124479010",
@@ -238,7 +283,9 @@
       "country": "Canada",
       "lat": 45.4991495,
       "lon": -73.5797575,
-      "source": "http://www.wikidata.org/entity/Q124479010"
+      "source": "http://www.wikidata.org/entity/Q124479010",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sisley%20-%20The-Plain-At-Veneux-Nadon.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20110.jpg"
     },
     {
       "id": "Q124479009",
@@ -255,7 +302,9 @@
       "country": "Canada",
       "lat": 45.4991495,
       "lon": -73.5797575,
-      "source": "http://www.wikidata.org/entity/Q124479009"
+      "source": "http://www.wikidata.org/entity/Q124479009",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sisley%20-%20The-Chemin-De-By-Through-Woods-At-Roches-Coutaut-St.-Martins-Summer-1880.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20110.jpg"
     },
     {
       "id": "Q124479019",
@@ -272,7 +321,9 @@
       "country": "Canada",
       "lat": 45.4991495,
       "lon": -73.5797575,
-      "source": "http://www.wikidata.org/entity/Q124479019"
+      "source": "http://www.wikidata.org/entity/Q124479019",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro%20-%20Dieppe%20le%20bassin%20Duquesne%20%C3%A0%20mar%C3%A9e%20basse%2C%20apr%C3%A8s-midi%2C%201902.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg"
     },
     {
       "id": "Q18522951",
@@ -289,7 +340,9 @@
       "country": "Canada",
       "lat": 45.4991495,
       "lon": -73.5797575,
-      "source": "http://www.wikidata.org/entity/Q18522951"
+      "source": "http://www.wikidata.org/entity/Q18522951",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro%20Vue%20de%20la%20cotonni%C3%A8re%20d%27Oissel.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg"
     },
     {
       "id": "Q74100944",
@@ -306,7 +359,9 @@
       "country": "Canada",
       "lat": 45.4991495,
       "lon": -73.5797575,
-      "source": "http://www.wikidata.org/entity/Q74100944"
+      "source": "http://www.wikidata.org/entity/Q74100944",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/MBAM%20Monet%20-%20Falaise%20de%20Pourville%2C%20le%20matin.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%201899%20Nadar%20crop.jpg"
     },
     {
       "id": "Q18523073",
@@ -323,7 +378,9 @@
       "country": "Canada",
       "lat": 45.4991495,
       "lon": -73.5797575,
-      "source": "http://www.wikidata.org/entity/Q18523073"
+      "source": "http://www.wikidata.org/entity/Q18523073",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20grande%20all%C3%A9e%20%C3%A0%20Giverny%20%28mus%C3%A9e%20des%20beaux-arts%20de%20Montr%C3%A9al%29%20%284086369799%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%201899%20Nadar%20crop.jpg"
     },
     {
       "id": "Q124479024",
@@ -340,7 +397,9 @@
       "country": "Canada",
       "lat": 45.4991495,
       "lon": -73.5797575,
-      "source": "http://www.wikidata.org/entity/Q124479024"
+      "source": "http://www.wikidata.org/entity/Q124479024",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Degas%20-%20At%20the%20Theatre.%20Woman%20Seated%20on%20the%20Balcony%2C%201877-1889.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20self%20portrait%201855FXD.jpg"
     },
     {
       "id": "Q124479026",
@@ -357,7 +416,9 @@
       "country": "Canada",
       "lat": 45.4991495,
       "lon": -73.5797575,
-      "source": "http://www.wikidata.org/entity/Q124479026"
+      "source": "http://www.wikidata.org/entity/Q124479026",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Vuillard%20-%20Salomon%20and%20Cogeval%2C%20IV-205.png",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Self-Portrait%2C%20Aged%2021%20A21192.jpg"
     },
     {
       "id": "Q16580556",
@@ -374,7 +435,9 @@
       "country": "Canada",
       "lat": 45.4991495,
       "lon": -73.5797575,
-      "source": "http://www.wikidata.org/entity/Q16580556"
+      "source": "http://www.wikidata.org/entity/Q16580556",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Greco%20-%20Portrait%20of%20a%20Gentleman%20from%20the%20Casa%20de%20Leiva%20-%20WGA10455.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Greco%20-%20Portrait%20of%20a%20Man%20-%20WGA10554.jpg"
     },
     {
       "id": "Q103947569",
@@ -391,7 +454,9 @@
       "country": "Canada",
       "lat": 45.4991495,
       "lon": -73.5797575,
-      "source": "http://www.wikidata.org/entity/Q103947569"
+      "source": "http://www.wikidata.org/entity/Q103947569",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Greco%20-%20Ecstasy%20of%20Saint%20Francis%2C%20Montreal.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Greco%20-%20Portrait%20of%20a%20Man%20-%20WGA10554.jpg"
     },
     {
       "id": "Q124479030",
@@ -408,7 +473,9 @@
       "country": "Canada",
       "lat": 45.4991495,
       "lon": -73.5797575,
-      "source": "http://www.wikidata.org/entity/Q124479030"
+      "source": "http://www.wikidata.org/entity/Q124479030",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Delacroix%20-%20Lioness%20and%20Lion%20in%20a%20Cave%2C%201856.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Autoportrait%20-%20Eug%C3%A8ne%20Delacroix%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20RF%2025.jpg"
     },
     {
       "id": "Q88384267",
@@ -425,7 +492,9 @@
       "country": "Canada",
       "lat": 45.4991495,
       "lon": -73.5797575,
-      "source": "http://www.wikidata.org/entity/Q88384267"
+      "source": "http://www.wikidata.org/entity/Q88384267",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20juez%20Altamirano%20por%20Goya.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Vicente%20L%C3%B3pez%20Porta%C3%B1a%20-%20el%20pintor%20Francisco%20de%20Goya.jpg"
     },
     {
       "id": "Q124479111",
@@ -442,7 +511,9 @@
       "country": "Canada",
       "lat": 45.4991495,
       "lon": -73.5797575,
-      "source": "http://www.wikidata.org/entity/Q124479111"
+      "source": "http://www.wikidata.org/entity/Q124479111",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Fran%C3%A7ois%20Boucher%2C%20The%20Assumption%20of%20the%20Virgin.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Boucher%20par%20Gustav%20Lundberg%201741.jpg"
     },
     {
       "id": "Q18522901",
@@ -459,7 +530,9 @@
       "country": "Canada",
       "lat": 45.4991495,
       "lon": -73.5797575,
-      "source": "http://www.wikidata.org/entity/Q18522901"
+      "source": "http://www.wikidata.org/entity/Q18522901",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Giovanni%20Battista%20Tiepolo%20002.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Tiepolo%2C%20Giovanni%20Battista%20-%20Fresken%20Treppenhaus%20des%20W%C3%BCrzburger%20Residenzschlosses%2C%20Szenen%20zur%20Apotheose%20des%20F%C3%BCrstbischofs%2C%20Detail%20Giovanni%20Battista%20Tiepolo%20-%201750-1753.jpg"
     },
     {
       "id": "Q124479049",
@@ -476,7 +549,9 @@
       "country": "Canada",
       "lat": 45.4991495,
       "lon": -73.5797575,
-      "source": "http://www.wikidata.org/entity/Q124479049"
+      "source": "http://www.wikidata.org/entity/Q124479049",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Courbet%20-%20The%20Brook%20of%20the%20Black%20Well%2C%20About%201855.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustave%20Courbet%2C%20photograph%20Atelier%20Nadar%2C%20c.%201860s.jpg"
     },
     {
       "id": "Q74421653",
@@ -493,7 +568,9 @@
       "country": "Canada",
       "lat": 45.4991495,
       "lon": -73.5797575,
-      "source": "http://www.wikidata.org/entity/Q74421653"
+      "source": "http://www.wikidata.org/entity/Q74421653",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Femme%20assise%2C%20le%20dos%20tourn%C3%A9%20vers%20la%20fen%C3%AAtre%20ouverte%2C%20par%20Henri%20Matisse.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Henri%20Matisse%201933%20May%2020.jpg"
     },
     {
       "id": "Q74420160",
@@ -510,7 +587,9 @@
       "country": "Canada",
       "lat": 45.4991495,
       "lon": -73.5797575,
-      "source": "http://www.wikidata.org/entity/Q74420160"
+      "source": "http://www.wikidata.org/entity/Q74420160",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/MBAM%20Matisse%20-%20Portrait%20de%20Lorette%20au%20turban.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Henri%20Matisse%201933%20May%2020.jpg"
     },
     {
       "id": "Q41516207",
@@ -527,7 +606,9 @@
       "country": "Canada",
       "lat": 45.4991495,
       "lon": -73.5797575,
-      "source": "http://www.wikidata.org/entity/Q41516207"
+      "source": "http://www.wikidata.org/entity/Q41516207",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Corot%20-%20L%27%C3%AEle%20heureuse%2C%20Vers%201865-1868.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste-Camille%20Corot%20c1850.png"
     },
     {
       "id": "Q134516019",
@@ -544,7 +625,9 @@
       "country": "Canada",
       "lat": 45.4991495,
       "lon": -73.5797575,
-      "source": "http://www.wikidata.org/entity/Q134516019"
+      "source": "http://www.wikidata.org/entity/Q134516019",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20Pr%C3%A9sentation%20de%20Marie%20au%20Temple%2C%20par%20Lavinia%20Fontana.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lavinia%20Fontana%20-%20Autoritratto%20%28ca.%201577-85%29.jpg"
     },
     {
       "id": "Q124479086",
@@ -561,7 +644,9 @@
       "country": "Canada",
       "lat": 45.4991495,
       "lon": -73.5797575,
-      "source": "http://www.wikidata.org/entity/Q124479086"
+      "source": "http://www.wikidata.org/entity/Q124479086",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/C%C3%A9zanne%20-%20FWN%2043.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul-Cezanne.jpg"
     },
     {
       "id": "Q18523127",
@@ -578,7 +663,9 @@
       "country": "Canada",
       "lat": 45.4991495,
       "lon": -73.5797575,
-      "source": "http://www.wikidata.org/entity/Q18523127"
+      "source": "http://www.wikidata.org/entity/Q18523127",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20signac%20cherbourg%20fort%20du%20roule.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Seurat%20Paul%20Signac.jpg"
     },
     {
       "id": "Q74419183",
@@ -595,7 +682,9 @@
       "country": "Canada",
       "lat": 45.4991495,
       "lon": -73.5797575,
-      "source": "http://www.wikidata.org/entity/Q74419183"
+      "source": "http://www.wikidata.org/entity/Q74419183",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/MBAM%20Signac%20-%20Samois%2C%20la%20berge%2C%20matin.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Seurat%20Paul%20Signac.jpg"
     },
     {
       "id": "Q18522944",
@@ -612,24 +701,9 @@
       "country": "Canada",
       "lat": 45.4991495,
       "lon": -73.5797575,
-      "source": "http://www.wikidata.org/entity/Q18522944"
-    },
-    {
-      "id": "Q59645403",
-      "artistId": "rembrandt",
-      "artistName": "Rembrandt",
-      "reviewStatus": "generated",
-      "title": "Jacob's death (Genesis 49:33)",
-      "date": "1621",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "montreal-museum-of-fine-arts-montreal",
-      "location": "Montreal Museum of Fine Arts",
-      "city": "Montreal",
-      "country": "Canada",
-      "lat": 45.4991495,
-      "lon": -73.5797575,
-      "source": "http://www.wikidata.org/entity/Q59645403"
+      "source": "http://www.wikidata.org/entity/Q18522944",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/T%C3%AAte%20de%20jeune%20fille%20napolitaine%20-%20P.A.%20Renoir%201881%20%28Head%20of%20a%20young%20neapolitan%20girl%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre%20Auguste%20Renoir%2C%20uncropped%20image.jpg"
     },
     {
       "id": "Q21561416",
@@ -646,7 +720,9 @@
       "country": "Canada",
       "lat": 45.4991495,
       "lon": -73.5797575,
-      "source": "http://www.wikidata.org/entity/Q21561416"
+      "source": "http://www.wikidata.org/entity/Q21561416",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt-%20landscape%20with%20cottages%20-%20stolen.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20van%20Rijn%20-%20Self-Portrait%20-%20Google%20Art%20Project.jpg"
     },
     {
       "id": "Q18522895",
@@ -663,7 +739,9 @@
       "country": "Canada",
       "lat": 45.4991495,
       "lon": -73.5797575,
-      "source": "http://www.wikidata.org/entity/Q18522895"
+      "source": "http://www.wikidata.org/entity/Q18522895",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20d%27une%20jeune%20femme%20par%20Rembrandt%20vers%201665.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20van%20Rijn%20-%20Self-Portrait%20-%20Google%20Art%20Project.jpg"
     },
     {
       "id": "Q123585683",
@@ -680,7 +758,9 @@
       "country": "Canada",
       "lat": 45.4991495,
       "lon": -73.5797575,
-      "source": "http://www.wikidata.org/entity/Q123585683"
+      "source": "http://www.wikidata.org/entity/Q123585683",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1954%201097%20IN1.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Tintoretto%20-%20Self-Portrait%20as%20a%20Young%20Man%2C%20ca.%201548%2C%20CAI.103%20%28cropped%29.jpg"
     },
     {
       "id": "Q102219837",
@@ -697,7 +777,9 @@
       "country": "Canada",
       "lat": 44.2253,
       "lon": -76.4964,
-      "source": "http://www.wikidata.org/entity/Q102219837"
+      "source": "http://www.wikidata.org/entity/Q102219837",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Adoration%20%281570%29%202%20El%20Greco.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Greco%20-%20Portrait%20of%20a%20Man%20-%20WGA10554.jpg"
     },
     {
       "id": "Q21857871",
@@ -714,7 +796,9 @@
       "country": "Canada",
       "lat": 44.2253,
       "lon": -76.4964,
-      "source": "http://www.wikidata.org/entity/Q21857871"
+      "source": "http://www.wikidata.org/entity/Q21857871",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20-%20Bredius%20425%20-%20Man%20Writing%20by%20Candlelight%20-%20c.1629%20Bader%20Collection.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20van%20Rijn%20-%20Self-Portrait%20-%20Google%20Art%20Project.jpg"
     },
     {
       "id": "Q21541657",
@@ -731,7 +815,9 @@
       "country": "Canada",
       "lat": 44.2253,
       "lon": -76.4964,
-      "source": "http://www.wikidata.org/entity/Q21541657"
+      "source": "http://www.wikidata.org/entity/Q21541657",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20-%20Head%20of%20a%20Bearded%20Old%20Man.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20van%20Rijn%20-%20Self-Portrait%20-%20Google%20Art%20Project.jpg"
     },
     {
       "id": "Q21523379",
@@ -748,7 +834,9 @@
       "country": "Canada",
       "lat": 44.2253,
       "lon": -76.4964,
-      "source": "http://www.wikidata.org/entity/Q21523379"
+      "source": "http://www.wikidata.org/entity/Q21523379",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20Lighting%20Study%20of%20an%20Old%20Man%20in%20Profile.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20van%20Rijn%20-%20Self-Portrait%20-%20Google%20Art%20Project.jpg"
     },
     {
       "id": "Q21416535",
@@ -765,7 +853,9 @@
       "country": "Canada",
       "lat": 44.2253,
       "lon": -76.4964,
-      "source": "http://www.wikidata.org/entity/Q21416535"
+      "source": "http://www.wikidata.org/entity/Q21416535",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Head%20of%20an%20Old%20Man%20in%20a%20Cap%2C%20by%20Rembrandt.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20van%20Rijn%20-%20Self-Portrait%20-%20Google%20Art%20Project.jpg"
     },
     {
       "id": "Q21523399",
@@ -782,15 +872,17 @@
       "country": "Canada",
       "lat": 44.2253,
       "lon": -76.4964,
-      "source": "http://www.wikidata.org/entity/Q21523399"
+      "source": "http://www.wikidata.org/entity/Q21523399",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20Lighting%20Study%20with%20an%20Old%20Man%20as%20a%20Model.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20van%20Rijn%20-%20Self-Portrait%20-%20Google%20Art%20Project.jpg"
     },
     {
-      "id": "Q124654038",
+      "id": "Q124654037",
       "artistId": "edouard-vuillard",
       "artistName": "Édouard Vuillard",
       "reviewStatus": "generated",
-      "title": "Woman Sitting Seen from Outside the Window",
-      "date": "1912",
+      "title": "Princess Elizabeth Bibesco",
+      "date": "1919",
       "type": "Painting",
       "attribution": "Accepted",
       "locationId": "art-gallery-of-hamilton-ontario",
@@ -799,7 +891,9 @@
       "country": "Canada",
       "lat": 43.2575,
       "lon": -79.872222222,
-      "source": "http://www.wikidata.org/entity/Q124654038"
+      "source": "http://www.wikidata.org/entity/Q124654037",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Vuillard%20-%20Salomon%20and%20Cogeval%2C%20XI-192.png",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Self-Portrait%2C%20Aged%2021%20A21192.jpg"
     },
     {
       "id": "Q21348758",
@@ -816,7 +910,9 @@
       "country": "Canada",
       "lat": 43.2627,
       "lon": -79.918,
-      "source": "http://www.wikidata.org/entity/Q21348758"
+      "source": "http://www.wikidata.org/entity/Q21348758",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Pissarro%20-%20Pommiers%20en%20fleurs.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg"
     },
     {
       "id": "Q82836135",
@@ -833,7 +929,9 @@
       "country": "Canada",
       "lat": 43.2627,
       "lon": -79.918,
-      "source": "http://www.wikidata.org/entity/Q82836135"
+      "source": "http://www.wikidata.org/entity/Q82836135",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Boucher%20par%20Gustav%20Lundberg%201741.jpg"
     },
     {
       "id": "Q82836146",
@@ -850,7 +948,9 @@
       "country": "Canada",
       "lat": 43.2627,
       "lon": -79.918,
-      "source": "http://www.wikidata.org/entity/Q82836146"
+      "source": "http://www.wikidata.org/entity/Q82836146",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustave%20Courbet%20-%20Environs%20d%27Ornans.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustave%20Courbet%2C%20photograph%20Atelier%20Nadar%2C%20c.%201860s.jpg"
     },
     {
       "id": "Q59506226",
@@ -867,7 +967,9 @@
       "country": "Canada",
       "lat": 45.429535,
       "lon": -75.698906,
-      "source": "http://www.wikidata.org/entity/Q59506226"
+      "source": "http://www.wikidata.org/entity/Q59506226",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sisley%20-%20the-slopes-of-bougival-1875.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20110.jpg"
     },
     {
       "id": "Q59507009",
@@ -884,7 +986,9 @@
       "country": "Canada",
       "lat": 45.429535,
       "lon": -75.698906,
-      "source": "http://www.wikidata.org/entity/Q59507009"
+      "source": "http://www.wikidata.org/entity/Q59507009",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sisley%20-%20Washerwomen%2C-Near-Champagne.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20110.jpg"
     },
     {
       "id": "Q63149158",
@@ -901,7 +1005,9 @@
       "country": "Canada",
       "lat": 45.429434,
       "lon": -75.698386,
-      "source": "http://www.wikidata.org/entity/Q63149158"
+      "source": "http://www.wikidata.org/entity/Q63149158",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Anthony%20van%20Dyck%20-%20Suffer%20Little%20Children%20to%20Come%20Unto%20Me%2C%20c.%201618%E2%80%9320.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Anthony%20van%20Dyck%20-%20Self-portrait.jpg"
     },
     {
       "id": "Q59518431",
@@ -918,7 +1024,9 @@
       "country": "Canada",
       "lat": 45.429434,
       "lon": -75.698386,
-      "source": "http://www.wikidata.org/entity/Q59518431"
+      "source": "http://www.wikidata.org/entity/Q59518431",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Anthony%20van%20Dyck%20-%20Self-portrait.jpg"
     },
     {
       "id": "Q11684158",
@@ -933,9 +1041,11 @@
       "location": "National Gallery of Canada",
       "city": "Ottawa",
       "country": "Canada",
-      "lat": 45.429434,
-      "lon": -75.698386,
-      "source": "http://www.wikidata.org/entity/Q11684158"
+      "lat": 45.429535,
+      "lon": -75.698906,
+      "source": "http://www.wikidata.org/entity/Q11684158",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Abraham.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg"
     },
     {
       "id": "Q59544844",
@@ -950,9 +1060,11 @@
       "location": "National Gallery of Canada",
       "city": "Ottawa",
       "country": "Canada",
-      "lat": 45.429434,
-      "lon": -75.698386,
-      "source": "http://www.wikidata.org/entity/Q59544844"
+      "lat": 45.429535,
+      "lon": -75.698906,
+      "source": "http://www.wikidata.org/entity/Q59544844",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20a%20Nobleman%20by%20Bartolom%C3%A9%20Esteban%20Murillo.jpeg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg"
     },
     {
       "id": "Q59503381",
@@ -969,7 +1081,9 @@
       "country": "Canada",
       "lat": 45.429434,
       "lon": -75.698386,
-      "source": "http://www.wikidata.org/entity/Q59503381"
+      "source": "http://www.wikidata.org/entity/Q59503381",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg"
     },
     {
       "id": "Q5407253",
@@ -986,7 +1100,9 @@
       "country": "Canada",
       "lat": 45.429434,
       "lon": -75.698386,
-      "source": "http://www.wikidata.org/entity/Q5407253"
+      "source": "http://www.wikidata.org/entity/Q5407253",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hay%20Harvest%20at%20%C3%89ragny%2C%201901%2C%20Camille%20Pissarro.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg"
     },
     {
       "id": "Q21684152",
@@ -1001,9 +1117,11 @@
       "location": "National Gallery of Canada",
       "city": "Ottawa",
       "country": "Canada",
-      "lat": 45.429434,
-      "lon": -75.698386,
-      "source": "http://www.wikidata.org/entity/Q21684152"
+      "lat": 45.429535,
+      "lon": -75.698906,
+      "source": "http://www.wikidata.org/entity/Q21684152",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Pissarro%20-%20Rue%20de%20L%C2%B4Hermitage%20%C3%A0%20Pontoise%20-%201875.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg"
     },
     {
       "id": "Q59534512",
@@ -1018,9 +1136,11 @@
       "location": "National Gallery of Canada",
       "city": "Ottawa",
       "country": "Canada",
-      "lat": 45.429434,
-      "lon": -75.698386,
-      "source": "http://www.wikidata.org/entity/Q59534512"
+      "lat": 45.429535,
+      "lon": -75.698906,
+      "source": "http://www.wikidata.org/entity/Q59534512",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro%20-%20Pissarro%20and%20Durand-Ruel%20Snollaerts%2C%20524.png",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg"
     },
     {
       "id": "Q59496505",
@@ -1035,9 +1155,11 @@
       "location": "National Gallery of Canada",
       "city": "Ottawa",
       "country": "Canada",
-      "lat": 45.429434,
-      "lon": -75.698386,
-      "source": "http://www.wikidata.org/entity/Q59496505"
+      "lat": 45.429535,
+      "lon": -75.698906,
+      "source": "http://www.wikidata.org/entity/Q59496505",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro%20-%20Pissarro%20and%20Durand-Ruel%20Snollaerts%2C%201124.png",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg"
     },
     {
       "id": "Q59504767",
@@ -1054,7 +1176,9 @@
       "country": "Canada",
       "lat": 45.429434,
       "lon": -75.698386,
-      "source": "http://www.wikidata.org/entity/Q59504767"
+      "source": "http://www.wikidata.org/entity/Q59504767",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Monet%20-%20Wildenstein%201996%2C%20663.png",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%201899%20Nadar%20crop.jpg"
     },
     {
       "id": "Q59526641",
@@ -1069,9 +1193,11 @@
       "location": "National Gallery of Canada",
       "city": "Ottawa",
       "country": "Canada",
-      "lat": 45.429434,
-      "lon": -75.698386,
-      "source": "http://www.wikidata.org/entity/Q59526641"
+      "lat": 45.429535,
+      "lon": -75.698906,
+      "source": "http://www.wikidata.org/entity/Q59526641",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%20-%20Jean-Pierre%20Hosched%C3%A9%20and%20Michel%20Monet%20on%20the%20Bank%20of%20the%20Epte.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%201899%20Nadar%20crop.jpg"
     },
     {
       "id": "Q22205287",
@@ -1088,7 +1214,9 @@
       "country": "Canada",
       "lat": 45.429434,
       "lon": -75.698386,
-      "source": "http://www.wikidata.org/entity/Q22205287"
+      "source": "http://www.wikidata.org/entity/Q22205287",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Monet%2C%20Claude%20-%20L%27Aiguille%20vue%20%C3%A0%20travers%20la%20Porte%20d%27Aval%20%281885-1886%29%20W%201049.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%201899%20Nadar%20crop.jpg"
     },
     {
       "id": "Q50769770",
@@ -1103,26 +1231,11 @@
       "location": "National Gallery of Canada",
       "city": "Ottawa",
       "country": "Canada",
-      "lat": 45.429434,
-      "lon": -75.698386,
-      "source": "http://www.wikidata.org/entity/Q50769770"
-    },
-    {
-      "id": "Q59530379",
-      "artistId": "monet",
-      "artistName": "Claude Monet",
-      "reviewStatus": "generated",
-      "title": "Waterloo Bridge: the Sun in a Fog",
-      "date": "1903",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "national-gallery-of-canada-ottawa",
-      "location": "National Gallery of Canada",
-      "city": "Ottawa",
-      "country": "Canada",
       "lat": 45.429535,
       "lon": -75.698906,
-      "source": "http://www.wikidata.org/entity/Q59530379"
+      "source": "http://www.wikidata.org/entity/Q50769770",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%20-%20Le%20Pont%20de%20Bois.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%201899%20Nadar%20crop.jpg"
     },
     {
       "id": "Q59526454",
@@ -1137,9 +1250,11 @@
       "location": "National Gallery of Canada",
       "city": "Ottawa",
       "country": "Canada",
-      "lat": 45.429535,
-      "lon": -75.698906,
-      "source": "http://www.wikidata.org/entity/Q59526454"
+      "lat": 45.429434,
+      "lon": -75.698386,
+      "source": "http://www.wikidata.org/entity/Q59526454",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20self%20portrait%201855FXD.jpg"
     },
     {
       "id": "Q59538147",
@@ -1154,9 +1269,11 @@
       "location": "National Gallery of Canada",
       "city": "Ottawa",
       "country": "Canada",
-      "lat": 45.429535,
-      "lon": -75.698906,
-      "source": "http://www.wikidata.org/entity/Q59538147"
+      "lat": 45.429434,
+      "lon": -75.698386,
+      "source": "http://www.wikidata.org/entity/Q59538147",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20self%20portrait%201855FXD.jpg"
     },
     {
       "id": "Q59541158",
@@ -1171,9 +1288,11 @@
       "location": "National Gallery of Canada",
       "city": "Ottawa",
       "country": "Canada",
-      "lat": 45.429535,
-      "lon": -75.698906,
-      "source": "http://www.wikidata.org/entity/Q59541158"
+      "lat": 45.429434,
+      "lon": -75.698386,
+      "source": "http://www.wikidata.org/entity/Q59541158",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20self%20portrait%201855FXD.jpg"
     },
     {
       "id": "Q119840132",
@@ -1188,9 +1307,11 @@
       "location": "National Gallery of Canada",
       "city": "Ottawa",
       "country": "Canada",
-      "lat": 45.429434,
-      "lon": -75.698386,
-      "source": "http://www.wikidata.org/entity/Q119840132"
+      "lat": 45.429535,
+      "lon": -75.698906,
+      "source": "http://www.wikidata.org/entity/Q119840132",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Vuillard%2C%20Le%20Salon%20de%20Madame%20Aron%2C%201911-12.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Self-Portrait%2C%20Aged%2021%20A21192.jpg"
     },
     {
       "id": "Q11838643",
@@ -1205,9 +1326,11 @@
       "location": "National Gallery of Canada",
       "city": "Ottawa",
       "country": "Canada",
-      "lat": 45.429434,
-      "lon": -75.698386,
-      "source": "http://www.wikidata.org/entity/Q11838643"
+      "lat": 45.429535,
+      "lon": -75.698906,
+      "source": "http://www.wikidata.org/entity/Q11838643",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Greco%20-%20St%20Francis%20holds%20a%20skull%20with%20brother%20Leo.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Greco%20-%20Portrait%20of%20a%20Man%20-%20WGA10554.jpg"
     },
     {
       "id": "Q59528187",
@@ -1222,9 +1345,11 @@
       "location": "National Gallery of Canada",
       "city": "Ottawa",
       "country": "Canada",
-      "lat": 45.429434,
-      "lon": -75.698386,
-      "source": "http://www.wikidata.org/entity/Q59528187"
+      "lat": 45.429535,
+      "lon": -75.698906,
+      "source": "http://www.wikidata.org/entity/Q59528187",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Christ%20%C3%A0%20la%20Colonne%20-%20Ottawa%20-%20Delacroix.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Autoportrait%20-%20Eug%C3%A8ne%20Delacroix%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20RF%2025.jpg"
     },
     {
       "id": "Q59511425",
@@ -1239,9 +1364,11 @@
       "location": "National Gallery of Canada",
       "city": "Ottawa",
       "country": "Canada",
-      "lat": 45.429434,
-      "lon": -75.698386,
-      "source": "http://www.wikidata.org/entity/Q59511425"
+      "lat": 45.429535,
+      "lon": -75.698906,
+      "source": "http://www.wikidata.org/entity/Q59511425",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Autoportrait%20-%20Eug%C3%A8ne%20Delacroix%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20RF%2025.jpg"
     },
     {
       "id": "Q59512244",
@@ -1256,9 +1383,11 @@
       "location": "National Gallery of Canada",
       "city": "Ottawa",
       "country": "Canada",
-      "lat": 45.429434,
-      "lon": -75.698386,
-      "source": "http://www.wikidata.org/entity/Q59512244"
+      "lat": 45.429535,
+      "lon": -75.698906,
+      "source": "http://www.wikidata.org/entity/Q59512244",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Judgement%20of%20Susannah%20by%20Fran%C3%A7ois%20Boucher.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Boucher%20par%20Gustav%20Lundberg%201741.jpg"
     },
     {
       "id": "Q59532263",
@@ -1275,7 +1404,9 @@
       "country": "Canada",
       "lat": 45.429535,
       "lon": -75.698906,
-      "source": "http://www.wikidata.org/entity/Q59532263"
+      "source": "http://www.wikidata.org/entity/Q59532263",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Braque%2C%201908%2C%20photograph%20published%20in%20Gelett%20Burgess%2C%20The%20Wild%20Men%20of%20Paris%2C%20Architectural%20Record%2C%20May%201910.jpg"
     },
     {
       "id": "Q59505922",
@@ -1292,7 +1423,9 @@
       "country": "Canada",
       "lat": 45.429434,
       "lon": -75.698386,
-      "source": "http://www.wikidata.org/entity/Q59505922"
+      "source": "http://www.wikidata.org/entity/Q59505922",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Braque%2C%201908%2C%20photograph%20published%20in%20Gelett%20Burgess%2C%20The%20Wild%20Men%20of%20Paris%2C%20Architectural%20Record%2C%20May%201910.jpg"
     },
     {
       "id": "Q59517105",
@@ -1307,9 +1440,11 @@
       "location": "National Gallery of Canada",
       "city": "Ottawa",
       "country": "Canada",
-      "lat": 45.429535,
-      "lon": -75.698906,
-      "source": "http://www.wikidata.org/entity/Q59517105"
+      "lat": 45.429434,
+      "lon": -75.698386,
+      "source": "http://www.wikidata.org/entity/Q59517105",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Tiepolo%2C%20Giovanni%20Battista%20-%20Fresken%20Treppenhaus%20des%20W%C3%BCrzburger%20Residenzschlosses%2C%20Szenen%20zur%20Apotheose%20des%20F%C3%BCrstbischofs%2C%20Detail%20Giovanni%20Battista%20Tiepolo%20-%201750-1753.jpg"
     },
     {
       "id": "Q134820272",
@@ -1324,9 +1459,11 @@
       "location": "National Gallery of Canada",
       "city": "Ottawa",
       "country": "Canada",
-      "lat": 45.429434,
-      "lon": -75.698386,
-      "source": "http://www.wikidata.org/entity/Q134820272"
+      "lat": 45.429535,
+      "lon": -75.698906,
+      "source": "http://www.wikidata.org/entity/Q134820272",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Giovanni%20Bellini%2C%20Follower%20of%20-%20Blessing%20Christ%2C%20c.%201500%2C%20328.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Portr%C3%A6t%20af%20den%20venezianske%20maler%20Giovanni%20Bellini.jpg"
     },
     {
       "id": "Q59498510",
@@ -1341,9 +1478,11 @@
       "location": "National Gallery of Canada",
       "city": "Ottawa",
       "country": "Canada",
-      "lat": 45.429535,
-      "lon": -75.698906,
-      "source": "http://www.wikidata.org/entity/Q59498510"
+      "lat": 45.429434,
+      "lon": -75.698386,
+      "source": "http://www.wikidata.org/entity/Q59498510",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Giovanni%20Bellini%2C%20Follower%20of%20-%20Blessing%20Christ%2C%20c.%201500%2C%20328.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Portr%C3%A6t%20af%20den%20venezianske%20maler%20Giovanni%20Bellini.jpg"
     },
     {
       "id": "Q59504306",
@@ -1358,9 +1497,11 @@
       "location": "National Gallery of Canada",
       "city": "Ottawa",
       "country": "Canada",
-      "lat": 45.429434,
-      "lon": -75.698386,
-      "source": "http://www.wikidata.org/entity/Q59504306"
+      "lat": 45.429535,
+      "lon": -75.698906,
+      "source": "http://www.wikidata.org/entity/Q59504306",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Blessing%20Christ%20Bellini%20Ottawa.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Portr%C3%A6t%20af%20den%20venezianske%20maler%20Giovanni%20Bellini.jpg"
     },
     {
       "id": "Q4311873",
@@ -1375,9 +1516,11 @@
       "location": "National Gallery of Canada",
       "city": "Ottawa",
       "country": "Canada",
-      "lat": 45.429434,
-      "lon": -75.698386,
-      "source": "http://www.wikidata.org/entity/Q4311873"
+      "lat": 45.429535,
+      "lon": -75.698906,
+      "source": "http://www.wikidata.org/entity/Q4311873",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Klimt%20-%20Hoffnung%20I%20-%201903.jpeg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Klimt.jpg"
     },
     {
       "id": "Q59505785",
@@ -1392,9 +1535,11 @@
       "location": "National Gallery of Canada",
       "city": "Ottawa",
       "country": "Canada",
-      "lat": 45.429535,
-      "lon": -75.698906,
-      "source": "http://www.wikidata.org/entity/Q59505785"
+      "lat": 45.429434,
+      "lon": -75.698386,
+      "source": "http://www.wikidata.org/entity/Q59505785",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustave%20Courbet%2C%20photograph%20Atelier%20Nadar%2C%20c.%201860s.jpg"
     },
     {
       "id": "Q59493402",
@@ -1409,9 +1554,11 @@
       "location": "National Gallery of Canada",
       "city": "Ottawa",
       "country": "Canada",
-      "lat": 45.429535,
-      "lon": -75.698906,
-      "source": "http://www.wikidata.org/entity/Q59493402"
+      "lat": 45.429434,
+      "lon": -75.698386,
+      "source": "http://www.wikidata.org/entity/Q59493402",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustave%20Courbet%2C%20photograph%20Atelier%20Nadar%2C%20c.%201860s.jpg"
     },
     {
       "id": "Q59504919",
@@ -1426,9 +1573,11 @@
       "location": "National Gallery of Canada",
       "city": "Ottawa",
       "country": "Canada",
-      "lat": 45.429535,
-      "lon": -75.698906,
-      "source": "http://www.wikidata.org/entity/Q59504919"
+      "lat": 45.429434,
+      "lon": -75.698386,
+      "source": "http://www.wikidata.org/entity/Q59504919",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustave%20Courbet%2C%20photograph%20Atelier%20Nadar%2C%20c.%201860s.jpg"
     },
     {
       "id": "Q59537998",
@@ -1443,9 +1592,11 @@
       "location": "National Gallery of Canada",
       "city": "Ottawa",
       "country": "Canada",
-      "lat": 45.429535,
-      "lon": -75.698906,
-      "source": "http://www.wikidata.org/entity/Q59537998"
+      "lat": 45.429434,
+      "lon": -75.698386,
+      "source": "http://www.wikidata.org/entity/Q59537998",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustave%20Courbet%2C%20photograph%20Atelier%20Nadar%2C%20c.%201860s.jpg"
     },
     {
       "id": "Q59537972",
@@ -1460,9 +1611,11 @@
       "location": "National Gallery of Canada",
       "city": "Ottawa",
       "country": "Canada",
-      "lat": 45.429434,
-      "lon": -75.698386,
-      "source": "http://www.wikidata.org/entity/Q59537972"
+      "lat": 45.429535,
+      "lon": -75.698906,
+      "source": "http://www.wikidata.org/entity/Q59537972",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Femme%20aux%20gants%20by%20Courbet.png",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustave%20Courbet%2C%20photograph%20Atelier%20Nadar%2C%20c.%201860s.jpg"
     },
     {
       "id": "Q59508474",
@@ -1477,9 +1630,11 @@
       "location": "National Gallery of Canada",
       "city": "Ottawa",
       "country": "Canada",
-      "lat": 45.429434,
-      "lon": -75.698386,
-      "source": "http://www.wikidata.org/entity/Q59508474"
+      "lat": 45.429535,
+      "lon": -75.698906,
+      "source": "http://www.wikidata.org/entity/Q59508474",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Young%20Woman%20in%20a%20Grey%20Cloak%2C%20c.%201920-1924%2C%204924.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Self-portrait%20%281900%29.jpg"
     },
     {
       "id": "Q59508074",
@@ -1494,9 +1649,11 @@
       "location": "National Gallery of Canada",
       "city": "Ottawa",
       "country": "Canada",
-      "lat": 45.429535,
-      "lon": -75.698906,
-      "source": "http://www.wikidata.org/entity/Q59508074"
+      "lat": 45.429434,
+      "lon": -75.698386,
+      "source": "http://www.wikidata.org/entity/Q59508074",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hans%20Holbein%20the%20Younger%2C%20self-portrait.jpg"
     },
     {
       "id": "Q59539366",
@@ -1511,9 +1668,11 @@
       "location": "National Gallery of Canada",
       "city": "Ottawa",
       "country": "Canada",
-      "lat": 45.429535,
-      "lon": -75.698906,
-      "source": "http://www.wikidata.org/entity/Q59539366"
+      "lat": 45.429434,
+      "lon": -75.698386,
+      "source": "http://www.wikidata.org/entity/Q59539366",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Henri%20Matisse%201933%20May%2020.jpg"
     },
     {
       "id": "Q17611626",
@@ -1528,9 +1687,49 @@
       "location": "National Gallery of Canada",
       "city": "Ottawa",
       "country": "Canada",
+      "lat": 45.429535,
+      "lon": -75.698906,
+      "source": "http://www.wikidata.org/entity/Q17611626",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Odalisque%20on%20yellow%2C%20Henri%20Matisse%2C%201926.webp",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Henri%20Matisse%201933%20May%2020.jpg"
+    },
+    {
+      "id": "Q59505456",
+      "artistId": "honore-daumier",
+      "artistName": "Honoré Daumier",
+      "reviewStatus": "generated",
+      "title": "Man on a Rope",
+      "date": "1859",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "national-gallery-of-canada-ottawa",
+      "location": "National Gallery of Canada",
+      "city": "Ottawa",
+      "country": "Canada",
       "lat": 45.429434,
       "lon": -75.698386,
-      "source": "http://www.wikidata.org/entity/Q17611626"
+      "source": "http://www.wikidata.org/entity/Q59505456",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Honore%20Daumier-Nadar.jpg"
+    },
+    {
+      "id": "Q3796150",
+      "artistId": "honore-daumier",
+      "artistName": "Honoré Daumier",
+      "reviewStatus": "generated",
+      "title": "The Third-Class Carriage",
+      "date": "1863",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "national-gallery-of-canada-ottawa",
+      "location": "National Gallery of Canada",
+      "city": "Ottawa",
+      "country": "Canada",
+      "lat": 45.429535,
+      "lon": -75.698906,
+      "source": "http://www.wikidata.org/entity/Q3796150",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Honor%C3%A9%20Daumier%20034.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Honore%20Daumier-Nadar.jpg"
     },
     {
       "id": "Q59530262",
@@ -1547,7 +1746,9 @@
       "country": "Canada",
       "lat": 45.429535,
       "lon": -75.698906,
-      "source": "http://www.wikidata.org/entity/Q59530262"
+      "source": "http://www.wikidata.org/entity/Q59530262",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%20auto-retrato.jpg"
     },
     {
       "id": "Q59504310",
@@ -1564,7 +1765,9 @@
       "country": "Canada",
       "lat": 45.429535,
       "lon": -75.698906,
-      "source": "http://www.wikidata.org/entity/Q59504310"
+      "source": "http://www.wikidata.org/entity/Q59504310",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%20auto-retrato.jpg"
     },
     {
       "id": "Q59499140",
@@ -1579,9 +1782,11 @@
       "location": "National Gallery of Canada",
       "city": "Ottawa",
       "country": "Canada",
-      "lat": 45.429535,
-      "lon": -75.698906,
-      "source": "http://www.wikidata.org/entity/Q59499140"
+      "lat": 45.429434,
+      "lon": -75.698386,
+      "source": "http://www.wikidata.org/entity/Q59499140",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%20auto-retrato.jpg"
     },
     {
       "id": "Q59493931",
@@ -1598,24 +1803,9 @@
       "country": "Canada",
       "lat": 45.429434,
       "lon": -75.698386,
-      "source": "http://www.wikidata.org/entity/Q59493931"
-    },
-    {
-      "id": "Q59537259",
-      "artistId": "james-mcneill-whistler",
-      "artistName": "James McNeill Whistler",
-      "reviewStatus": "generated",
-      "title": "Lillie in our Alley (The Lady of Lyme Regis)",
-      "date": "1898",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "national-gallery-of-canada-ottawa",
-      "location": "National Gallery of Canada",
-      "city": "Ottawa",
-      "country": "Canada",
-      "lat": 45.429434,
-      "lon": -75.698386,
-      "source": "http://www.wikidata.org/entity/Q59537259"
+      "source": "http://www.wikidata.org/entity/Q59493931",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jacques-Louis%20David%20-%20Pierre%20S%C3%A9riziat.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Self%20Portrait.jpg"
     },
     {
       "id": "Q59527946",
@@ -1632,7 +1822,9 @@
       "country": "Canada",
       "lat": 45.429434,
       "lon": -75.698386,
-      "source": "http://www.wikidata.org/entity/Q59527946"
+      "source": "http://www.wikidata.org/entity/Q59527946",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste-Camille%20Corot%20c1850.png"
     },
     {
       "id": "Q59523073",
@@ -1649,7 +1841,9 @@
       "country": "Canada",
       "lat": 45.429535,
       "lon": -75.698906,
-      "source": "http://www.wikidata.org/entity/Q59523073"
+      "source": "http://www.wikidata.org/entity/Q59523073",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Corot%20-%20Auvers%20%E2%80%93%20Sloping%20Road%2C%201865%2C%20775.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste-Camille%20Corot%20c1850.png"
     },
     {
       "id": "Q41515801",
@@ -1664,9 +1858,11 @@
       "location": "National Gallery of Canada",
       "city": "Ottawa",
       "country": "Canada",
-      "lat": 45.429434,
-      "lon": -75.698386,
-      "source": "http://www.wikidata.org/entity/Q41515801"
+      "lat": 45.429535,
+      "lon": -75.698906,
+      "source": "http://www.wikidata.org/entity/Q41515801",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Corot%20-%20The%20Bridge%20at%20Narni%2C%201827.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste-Camille%20Corot%20c1850.png"
     },
     {
       "id": "Q59500433",
@@ -1681,9 +1877,11 @@
       "location": "National Gallery of Canada",
       "city": "Ottawa",
       "country": "Canada",
-      "lat": 45.429434,
-      "lon": -75.698386,
-      "source": "http://www.wikidata.org/entity/Q59500433"
+      "lat": 45.429535,
+      "lon": -75.698906,
+      "source": "http://www.wikidata.org/entity/Q59500433",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Corot%20-%20Imitator%20of%20-%20The%20Fisherman%2C%20c.%201850-1875%2C%203653.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste-Camille%20Corot%20c1850.png"
     },
     {
       "id": "Q52289225",
@@ -1700,7 +1898,9 @@
       "country": "Canada",
       "lat": 45.429434,
       "lon": -75.698386,
-      "source": "http://www.wikidata.org/entity/Q52289225"
+      "source": "http://www.wikidata.org/entity/Q52289225",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20governess.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg"
     },
     {
       "id": "Q59549970",
@@ -1715,9 +1915,11 @@
       "location": "National Gallery of Canada",
       "city": "Ottawa",
       "country": "Canada",
-      "lat": 45.429535,
-      "lon": -75.698906,
-      "source": "http://www.wikidata.org/entity/Q59549970"
+      "lat": 45.429434,
+      "lon": -75.698386,
+      "source": "http://www.wikidata.org/entity/Q59549970",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg"
     },
     {
       "id": "Q59508527",
@@ -1732,9 +1934,11 @@
       "location": "National Gallery of Canada",
       "city": "Ottawa",
       "country": "Canada",
-      "lat": 45.429535,
-      "lon": -75.698906,
-      "source": "http://www.wikidata.org/entity/Q59508527"
+      "lat": 45.429434,
+      "lon": -75.698386,
+      "source": "http://www.wikidata.org/entity/Q59508527",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg"
     },
     {
       "id": "Q59507014",
@@ -1749,9 +1953,11 @@
       "location": "National Gallery of Canada",
       "city": "Ottawa",
       "country": "Canada",
-      "lat": 45.429434,
-      "lon": -75.698386,
-      "source": "http://www.wikidata.org/entity/Q59507014"
+      "lat": 45.429535,
+      "lon": -75.698906,
+      "source": "http://www.wikidata.org/entity/Q59507014",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Oedipus-taken-down-from-the-tree-1847.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-FrancoisMillet%28Nadar%29.jpg"
     },
     {
       "id": "Q59419682",
@@ -1766,9 +1972,11 @@
       "location": "National Gallery of Canada",
       "city": "Ottawa",
       "country": "Canada",
-      "lat": 45.429434,
-      "lon": -75.698386,
-      "source": "http://www.wikidata.org/entity/Q59419682"
+      "lat": 45.429535,
+      "lon": -75.698906,
+      "source": "http://www.wikidata.org/entity/Q59419682",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Millet%20by%20Romain%20Rolland%20-%20The%20Pig-Killers.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-FrancoisMillet%28Nadar%29.jpg"
     },
     {
       "id": "Q59537936",
@@ -1785,7 +1993,9 @@
       "country": "Canada",
       "lat": 45.429535,
       "lon": -75.698906,
-      "source": "http://www.wikidata.org/entity/Q59537936"
+      "source": "http://www.wikidata.org/entity/Q59537936",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Constable%20by%20Daniel%20Gardner%2C%201796.JPG"
     },
     {
       "id": "Q59543134",
@@ -1802,7 +2012,9 @@
       "country": "Canada",
       "lat": 45.429434,
       "lon": -75.698386,
-      "source": "http://www.wikidata.org/entity/Q59543134"
+      "source": "http://www.wikidata.org/entity/Q59543134",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Constable%20by%20Daniel%20Gardner%2C%201796.JPG"
     },
     {
       "id": "Q59510847",
@@ -1817,9 +2029,11 @@
       "location": "National Gallery of Canada",
       "city": "Ottawa",
       "country": "Canada",
-      "lat": 45.429434,
-      "lon": -75.698386,
-      "source": "http://www.wikidata.org/entity/Q59510847"
+      "lat": 45.429535,
+      "lon": -75.698906,
+      "source": "http://www.wikidata.org/entity/Q59510847",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sargent%20-%20Lake%20Louise%2C%201916%2C%2039765.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Singer%20Sargent%201903.jpg"
     },
     {
       "id": "Q63147129",
@@ -1827,7 +2041,7 @@
       "artistName": "Lucas Cranach the Elder",
       "reviewStatus": "generated",
       "title": "Christ and the Adulteress",
-      "date": "1532",
+      "date": "1600",
       "type": "Painting",
       "attribution": "Accepted",
       "locationId": "national-gallery-of-canada-ottawa",
@@ -1836,7 +2050,9 @@
       "country": "Canada",
       "lat": 45.429535,
       "lon": -75.698906,
-      "source": "http://www.wikidata.org/entity/Q63147129"
+      "source": "http://www.wikidata.org/entity/Q63147129",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20d.%C3%84.%20-%20Christus%20und%20die%20Ehebrecherin%20%28Mus%C3%A9e%20des%20beaux-arts%20du%20Canada%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20d.%20%C3%84.%20063.jpg"
     },
     {
       "id": "Q59506027",
@@ -1851,9 +2067,11 @@
       "location": "National Gallery of Canada",
       "city": "Ottawa",
       "country": "Canada",
-      "lat": 45.429434,
-      "lon": -75.698386,
-      "source": "http://www.wikidata.org/entity/Q59506027"
+      "lat": 45.429535,
+      "lon": -75.698906,
+      "source": "http://www.wikidata.org/entity/Q59506027",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20d.%C3%84.%20-%20Venus%20%28Mus%C3%A9e%20des%20beaux-arts%20du%20Canada%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20d.%20%C3%84.%20063.jpg"
     },
     {
       "id": "Q59503959",
@@ -1868,9 +2086,11 @@
       "location": "National Gallery of Canada",
       "city": "Ottawa",
       "country": "Canada",
-      "lat": 45.429535,
-      "lon": -75.698906,
-      "source": "http://www.wikidata.org/entity/Q59503959"
+      "lat": 45.429434,
+      "lon": -75.698386,
+      "source": "http://www.wikidata.org/entity/Q59503959",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Shagal%20Choumoff.jpg"
     },
     {
       "id": "Q59492224",
@@ -1885,9 +2105,11 @@
       "location": "National Gallery of Canada",
       "city": "Ottawa",
       "country": "Canada",
-      "lat": 45.429535,
-      "lon": -75.698906,
-      "source": "http://www.wikidata.org/entity/Q59492224"
+      "lat": 45.429434,
+      "lon": -75.698386,
+      "source": "http://www.wikidata.org/entity/Q59492224",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Shagal%20Choumoff.jpg"
     },
     {
       "id": "Q5468794",
@@ -1902,9 +2124,11 @@
       "location": "National Gallery of Canada",
       "city": "Ottawa",
       "country": "Canada",
-      "lat": 45.429434,
-      "lon": -75.698386,
-      "source": "http://www.wikidata.org/entity/Q5468794"
+      "lat": 45.429535,
+      "lon": -75.698906,
+      "source": "http://www.wikidata.org/entity/Q5468794",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20C%C3%A9zanne%20-%20For%C3%AAt%20%281902-1904%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul-Cezanne.jpg"
     },
     {
       "id": "Q59537310",
@@ -1919,9 +2143,11 @@
       "location": "National Gallery of Canada",
       "city": "Ottawa",
       "country": "Canada",
-      "lat": 45.429434,
-      "lon": -75.698386,
-      "source": "http://www.wikidata.org/entity/Q59537310"
+      "lat": 45.429535,
+      "lon": -75.698906,
+      "source": "http://www.wikidata.org/entity/Q59537310",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20Vieille%20Route%20%C3%A0%20Auvers-sur-Oise%2C%20par%20Paul%20C%C3%A9zanne%2C%20FWN%2068.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul-Cezanne.jpg"
     },
     {
       "id": "Q59506269",
@@ -1936,9 +2162,11 @@
       "location": "National Gallery of Canada",
       "city": "Ottawa",
       "country": "Canada",
-      "lat": 45.429434,
-      "lon": -75.698386,
-      "source": "http://www.wikidata.org/entity/Q59506269"
+      "lat": 45.429535,
+      "lon": -75.698906,
+      "source": "http://www.wikidata.org/entity/Q59506269",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20C%C3%A9zanne%20-%20Prairie%20et%20ferme%20du%20Jas%20de%20Bouffan%20%281885-87%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul-Cezanne.jpg"
     },
     {
       "id": "Q59530115",
@@ -1953,9 +2181,11 @@
       "location": "National Gallery of Canada",
       "city": "Ottawa",
       "country": "Canada",
-      "lat": 45.429434,
-      "lon": -75.698386,
-      "source": "http://www.wikidata.org/entity/Q59530115"
+      "lat": 45.429535,
+      "lon": -75.698906,
+      "source": "http://www.wikidata.org/entity/Q59530115",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20de%20paysan%2C%20par%20Paul%20C%C3%A9zanne%2C%20FWN%20542.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul-Cezanne.jpg"
     },
     {
       "id": "Q59504499",
@@ -1970,9 +2200,11 @@
       "location": "National Gallery of Canada",
       "city": "Ottawa",
       "country": "Canada",
-      "lat": 45.429434,
-      "lon": -75.698386,
-      "source": "http://www.wikidata.org/entity/Q59504499"
+      "lat": 45.429535,
+      "lon": -75.698906,
+      "source": "http://www.wikidata.org/entity/Q59504499",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20de%20Gustave%20Boyer%2C%20par%20Paul%20C%C3%A9zanne%2C%20FWN%20428.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul-Cezanne.jpg"
     },
     {
       "id": "Q59530104",
@@ -1987,9 +2219,11 @@
       "location": "National Gallery of Canada",
       "city": "Ottawa",
       "country": "Canada",
-      "lat": 45.429434,
-      "lon": -75.698386,
-      "source": "http://www.wikidata.org/entity/Q59530104"
+      "lat": 45.429535,
+      "lon": -75.698906,
+      "source": "http://www.wikidata.org/entity/Q59530104",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Gauguin%20-%20Les%20carri%C3%A8res%20du%20Chou%2C%20pr%C3%A8s%20de%20Pontoise%20-%20II%20%281882%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Gauguin%201891.png"
     },
     {
       "id": "Q59505536",
@@ -2004,9 +2238,11 @@
       "location": "National Gallery of Canada",
       "city": "Ottawa",
       "country": "Canada",
-      "lat": 45.429434,
-      "lon": -75.698386,
-      "source": "http://www.wikidata.org/entity/Q59505536"
+      "lat": 45.429535,
+      "lon": -75.698906,
+      "source": "http://www.wikidata.org/entity/Q59505536",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gauguin%201886%20Vase%20aux%20capucines%20et%20fa%C3%AFence%20de%20Quimper.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Gauguin%201891.png"
     },
     {
       "id": "Q59530865",
@@ -2023,7 +2259,9 @@
       "country": "Canada",
       "lat": 45.429434,
       "lon": -75.698386,
-      "source": "http://www.wikidata.org/entity/Q59530865"
+      "source": "http://www.wikidata.org/entity/Q59530865",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Klee%201911.jpg"
     },
     {
       "id": "Q59506112",
@@ -2038,9 +2276,11 @@
       "location": "National Gallery of Canada",
       "city": "Ottawa",
       "country": "Canada",
-      "lat": 45.429535,
-      "lon": -75.698906,
-      "source": "http://www.wikidata.org/entity/Q59506112"
+      "lat": 45.429434,
+      "lon": -75.698386,
+      "source": "http://www.wikidata.org/entity/Q59506112",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Self-portrait-1889.jpg"
     },
     {
       "id": "Q59518391",
@@ -2055,9 +2295,11 @@
       "location": "National Gallery of Canada",
       "city": "Ottawa",
       "country": "Canada",
-      "lat": 45.429535,
-      "lon": -75.698906,
-      "source": "http://www.wikidata.org/entity/Q59518391"
+      "lat": 45.429434,
+      "lon": -75.698386,
+      "source": "http://www.wikidata.org/entity/Q59518391",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre%20Auguste%20Renoir%2C%20uncropped%20image.jpg"
     },
     {
       "id": "Q102258400",
@@ -2074,7 +2316,9 @@
       "country": "Canada",
       "lat": 45.429434,
       "lon": -75.698386,
-      "source": "http://www.wikidata.org/entity/Q102258400"
+      "source": "http://www.wikidata.org/entity/Q102258400",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Piet%20Mondriaan.jpg"
     },
     {
       "id": "Q59497656",
@@ -2091,7 +2335,9 @@
       "country": "Canada",
       "lat": 45.429434,
       "lon": -75.698386,
-      "source": "http://www.wikidata.org/entity/Q59497656"
+      "source": "http://www.wikidata.org/entity/Q59497656",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Piet%20Mondriaan.jpg"
     },
     {
       "id": "Q21451682",
@@ -2108,7 +2354,9 @@
       "country": "Canada",
       "lat": 45.429535,
       "lon": -75.698906,
-      "source": "http://www.wikidata.org/entity/Q21451682"
+      "source": "http://www.wikidata.org/entity/Q21451682",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20-%20A%20young%20woman%20at%20her%20toilet%20-%20National%20Gallery%20of%20Canada%2021015.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20van%20Rijn%20-%20Self-Portrait%20-%20Google%20Art%20Project.jpg"
     },
     {
       "id": "Q21481761",
@@ -2123,9 +2371,11 @@
       "location": "National Gallery of Canada",
       "city": "Ottawa",
       "country": "Canada",
-      "lat": 45.429434,
-      "lon": -75.698386,
-      "source": "http://www.wikidata.org/entity/Q21481761"
+      "lat": 45.429535,
+      "lon": -75.698906,
+      "source": "http://www.wikidata.org/entity/Q21481761",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20-%20Self-portrait%20with%20beret%2C%20gold%20chain%2C%20and%20cross.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20van%20Rijn%20-%20Self-Portrait%20-%20Google%20Art%20Project.jpg"
     },
     {
       "id": "Q21423346",
@@ -2140,9 +2390,11 @@
       "location": "National Gallery of Canada",
       "city": "Ottawa",
       "country": "Canada",
-      "lat": 45.429434,
-      "lon": -75.698386,
-      "source": "http://www.wikidata.org/entity/Q21423346"
+      "lat": 45.429535,
+      "lon": -75.698906,
+      "source": "http://www.wikidata.org/entity/Q21423346",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Follower%20of%20Rembrandt%20van%20Rijn%20001.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20van%20Rijn%20-%20Self-Portrait%20-%20Google%20Art%20Project.jpg"
     },
     {
       "id": "Q4359242",
@@ -2159,7 +2411,9 @@
       "country": "Canada",
       "lat": 45.429434,
       "lon": -75.698386,
-      "source": "http://www.wikidata.org/entity/Q4359242"
+      "source": "http://www.wikidata.org/entity/Q4359242",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg"
     },
     {
       "id": "Q59558273",
@@ -2174,9 +2428,11 @@
       "location": "National Gallery of Canada",
       "city": "Ottawa",
       "country": "Canada",
-      "lat": 45.429434,
-      "lon": -75.698386,
-      "source": "http://www.wikidata.org/entity/Q59558273"
+      "lat": 45.429535,
+      "lon": -75.698906,
+      "source": "http://www.wikidata.org/entity/Q59558273",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Filippino%20Lippi%20-%20Sandro%20Botticelli%2C%20Workshop%20of%20-%20Esther%20at%20the%20Palace%20Gate%2C%20from%20The%20Book%20of%20Esther%2C%20c.%201475%2C%206085.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sandro%20Botticelli%20Self-portrait%20ca%201475.jpg"
     },
     {
       "id": "Q59499410",
@@ -2193,7 +2449,9 @@
       "country": "Canada",
       "lat": 45.429535,
       "lon": -75.698906,
-      "source": "http://www.wikidata.org/entity/Q59499410"
+      "source": "http://www.wikidata.org/entity/Q59499410",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Botticelli%20-%20The%20Christ%20Child%20and%20the%20Infant%20John%20the%20Baptist%2C%20c.%201490.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sandro%20Botticelli%20Self-portrait%20ca%201475.jpg"
     },
     {
       "id": "Q59558810",
@@ -2208,9 +2466,11 @@
       "location": "National Gallery of Canada",
       "city": "Ottawa",
       "country": "Canada",
-      "lat": 45.429434,
-      "lon": -75.698386,
-      "source": "http://www.wikidata.org/entity/Q59558810"
+      "lat": 45.429535,
+      "lon": -75.698906,
+      "source": "http://www.wikidata.org/entity/Q59558810",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Botticelli%20-%20The%20Triumph%20of%20Mordecai%2C%20from%20The%20Book%20of%20Esther%2C%20c.%201475%2C%206086.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sandro%20Botticelli%20Self-portrait%20ca%201475.jpg"
     },
     {
       "id": "Q59505953",
@@ -2225,9 +2485,11 @@
       "location": "National Gallery of Canada",
       "city": "Ottawa",
       "country": "Canada",
-      "lat": 45.429434,
-      "lon": -75.698386,
-      "source": "http://www.wikidata.org/entity/Q59505953"
+      "lat": 45.429535,
+      "lon": -75.698906,
+      "source": "http://www.wikidata.org/entity/Q59505953",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ignatius%20Sancho%2C%201768.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Gainsborough%20by%20Thomas%20Gainsborough.jpg"
     },
     {
       "id": "Q59503198",
@@ -2244,7 +2506,9 @@
       "country": "Canada",
       "lat": 45.429434,
       "lon": -75.698386,
-      "source": "http://www.wikidata.org/entity/Q59503198"
+      "source": "http://www.wikidata.org/entity/Q59503198",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Gainsborough%20by%20Thomas%20Gainsborough.jpg"
     },
     {
       "id": "Q59511696",
@@ -2259,9 +2523,11 @@
       "location": "National Gallery of Canada",
       "city": "Ottawa",
       "country": "Canada",
-      "lat": 45.429434,
-      "lon": -75.698386,
-      "source": "http://www.wikidata.org/entity/Q59511696"
+      "lat": 45.429535,
+      "lon": -75.698906,
+      "source": "http://www.wikidata.org/entity/Q59511696",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Gainsborough%20-%20The%20Reverend%20William%20Stevens%20%281732-1800%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Gainsborough%20by%20Thomas%20Gainsborough.jpg"
     },
     {
       "id": "Q59526490",
@@ -2276,9 +2542,11 @@
       "location": "National Gallery of Canada",
       "city": "Ottawa",
       "country": "Canada",
-      "lat": 45.429535,
-      "lon": -75.698906,
-      "source": "http://www.wikidata.org/entity/Q59526490"
+      "lat": 45.429434,
+      "lon": -75.698386,
+      "source": "http://www.wikidata.org/entity/Q59526490",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Tintoretto%20-%20Self-Portrait%20as%20a%20Young%20Man%2C%20ca.%201548%2C%20CAI.103%20%28cropped%29.jpg"
     },
     {
       "id": "Q59508046",
@@ -2295,7 +2563,9 @@
       "country": "Canada",
       "lat": 45.429434,
       "lon": -75.698386,
-      "source": "http://www.wikidata.org/entity/Q59508046"
+      "source": "http://www.wikidata.org/entity/Q59508046",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Tintoretto%20-%20Self-Portrait%20as%20a%20Young%20Man%2C%20ca.%201548%2C%20CAI.103%20%28cropped%29.jpg"
     },
     {
       "id": "Q59543149",
@@ -2312,7 +2582,9 @@
       "country": "Canada",
       "lat": 45.429535,
       "lon": -75.698906,
-      "source": "http://www.wikidata.org/entity/Q59543149"
+      "source": "http://www.wikidata.org/entity/Q59543149",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Tintoretto%20-%20Self-Portrait%20as%20a%20Young%20Man%2C%20ca.%201548%2C%20CAI.103%20%28cropped%29.jpg"
     },
     {
       "id": "Q59499752",
@@ -2327,9 +2599,11 @@
       "location": "National Gallery of Canada",
       "city": "Ottawa",
       "country": "Canada",
-      "lat": 45.429434,
-      "lon": -75.698386,
-      "source": "http://www.wikidata.org/entity/Q59499752"
+      "lat": 45.429535,
+      "lon": -75.698906,
+      "source": "http://www.wikidata.org/entity/Q59499752",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Tiziano%20Vecellio%20%28called%20Titian%29%2C%20Daniele%20Barbaro%2C%201545.%20National%20Gallery%20of%20Canada.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Vecellio%20di%20Gregorio%20Tiziano%20-%20autoritratto.jpg"
     },
     {
       "id": "Q59537315",
@@ -2344,43 +2618,11 @@
       "location": "National Gallery of Canada",
       "city": "Ottawa",
       "country": "Canada",
-      "lat": 45.429434,
-      "lon": -75.698386,
-      "source": "http://www.wikidata.org/entity/Q59537315"
-    },
-    {
-      "id": "Q9371667",
-      "artistId": "van-gogh",
-      "artistName": "Vincent van Gogh",
-      "reviewStatus": "generated",
-      "title": "Bowl with Zinnias and Other Flowers",
-      "date": "1886",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "national-gallery-of-canada-ottawa",
-      "location": "National Gallery of Canada",
-      "city": "Ottawa",
-      "country": "Canada",
-      "lat": 45.429434,
-      "lon": -75.698386,
-      "source": "http://www.wikidata.org/entity/Q9371667"
-    },
-    {
-      "id": "Q11714093",
-      "artistId": "van-gogh",
-      "artistName": "Vincent van Gogh",
-      "reviewStatus": "generated",
-      "title": "Iris",
-      "date": "1889",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "national-gallery-of-canada-ottawa",
-      "location": "National Gallery of Canada",
-      "city": "Ottawa",
-      "country": "Canada",
       "lat": 45.429535,
       "lon": -75.698906,
-      "source": "http://www.wikidata.org/entity/Q11714093"
+      "source": "http://www.wikidata.org/entity/Q59537315",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Roger%20Fry%20Vanessa%20Bell.jpg"
     },
     {
       "id": "Q26221248",
@@ -2397,24 +2639,9 @@
       "country": "Canada",
       "lat": 45.429434,
       "lon": -75.698386,
-      "source": "http://www.wikidata.org/entity/Q26221248"
-    },
-    {
-      "id": "Q26220189",
-      "artistId": "van-gogh",
-      "artistName": "Vincent van Gogh",
-      "reviewStatus": "generated",
-      "title": "Vase with Zinnias and Geraniums",
-      "date": "1886",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "national-gallery-of-canada-ottawa",
-      "location": "National Gallery of Canada",
-      "city": "Ottawa",
-      "country": "Canada",
-      "lat": 45.429434,
-      "lon": -75.698386,
-      "source": "http://www.wikidata.org/entity/Q26220189"
+      "source": "http://www.wikidata.org/entity/Q26221248",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Vincent%20van%20Gogh%20-%20La%20mare%2C%201881%20%28Mus%C3%A9e%20des%20beaux-arts%20du%20Canada%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Self-portrait%20-%20Vincent%20van%20Gogh.jpg"
     },
     {
       "id": "Q59548447",
@@ -2429,9 +2656,11 @@
       "location": "National Gallery of Canada",
       "city": "Ottawa",
       "country": "Canada",
-      "lat": 45.429535,
-      "lon": -75.698906,
-      "source": "http://www.wikidata.org/entity/Q59548447"
+      "lat": 45.429434,
+      "lon": -75.698386,
+      "source": "http://www.wikidata.org/entity/Q59548447",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Painter%20and%20His%20Pug%20by%20William%20Hogarth.jpg"
     },
     {
       "id": "Q124433769",
@@ -2446,9 +2675,11 @@
       "location": "Art Gallery of Ontario",
       "city": "Toronto",
       "country": "Canada",
-      "lat": 43.653613,
-      "lon": -79.39278,
-      "source": "http://www.wikidata.org/entity/Q124433769"
+      "lat": 43.653611111,
+      "lon": -79.392777777,
+      "source": "http://www.wikidata.org/entity/Q124433769",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Saint-Mammes%20temps%20gris%20%281884%29%20by%20Alfred%20Sisley.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20110.jpg"
     },
     {
       "id": "Q111354101",
@@ -2465,7 +2696,9 @@
       "country": "Canada",
       "lat": 43.653613,
       "lon": -79.39278,
-      "source": "http://www.wikidata.org/entity/Q111354101"
+      "source": "http://www.wikidata.org/entity/Q111354101",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Vue%20de%20Marly-le-Roi%20Sisley.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20110.jpg"
     },
     {
       "id": "Q30094868",
@@ -2482,7 +2715,28 @@
       "country": "Canada",
       "lat": 43.653613,
       "lon": -79.39278,
-      "source": "http://www.wikidata.org/entity/Q30094868"
+      "source": "http://www.wikidata.org/entity/Q30094868",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Mrs.%20Hastings%201915%20Amedeo%20Modigliani.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Amedeo%20Modigliani%201918%20restored.jpg"
+    },
+    {
+      "id": "Q89279733",
+      "artistId": "anthony-van-dyck",
+      "artistName": "Anthony van Dyck",
+      "reviewStatus": "generated",
+      "title": "Daedalus and Icarus",
+      "date": "1634",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "art-gallery-of-ontario-toronto",
+      "location": "Art Gallery of Ontario",
+      "city": "Toronto",
+      "country": "Canada",
+      "lat": 43.653613,
+      "lon": -79.39278,
+      "source": "http://www.wikidata.org/entity/Q89279733",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Anthony%20van%20Dyck%20-%20Daedalus%20and%20Icarus%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Anthony%20van%20Dyck%20-%20Self-portrait.jpg"
     },
     {
       "id": "Q88665744",
@@ -2497,9 +2751,11 @@
       "location": "Art Gallery of Ontario",
       "city": "Toronto",
       "country": "Canada",
-      "lat": 43.653613,
-      "lon": -79.39278,
-      "source": "http://www.wikidata.org/entity/Q88665744"
+      "lat": 43.653611111,
+      "lon": -79.392777777,
+      "source": "http://www.wikidata.org/entity/Q88665744",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Van%20Dyck%20-%20Michel%20Le%20Blon%20c%201630-1635.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Anthony%20van%20Dyck%20-%20Self-portrait.jpg"
     },
     {
       "id": "Q278722",
@@ -2516,7 +2772,9 @@
       "country": "Canada",
       "lat": 43.653613,
       "lon": -79.39278,
-      "source": "http://www.wikidata.org/entity/Q278722"
+      "source": "http://www.wikidata.org/entity/Q278722",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro%20-%20Pont%20Boieldieu%20in%20Rouen%2C%20Rainy%20Weather.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg"
     },
     {
       "id": "Q124433771",
@@ -2533,7 +2791,9 @@
       "country": "Canada",
       "lat": 43.653613,
       "lon": -79.39278,
-      "source": "http://www.wikidata.org/entity/Q124433771"
+      "source": "http://www.wikidata.org/entity/Q124433771",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro%20-%20Peupliers%2C%20temps%20gris%2C%20%C3%89ragny%2C%201895.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg"
     },
     {
       "id": "Q124433772",
@@ -2550,7 +2810,28 @@
       "country": "Canada",
       "lat": 43.653613,
       "lon": -79.39278,
-      "source": "http://www.wikidata.org/entity/Q124433772"
+      "source": "http://www.wikidata.org/entity/Q124433772",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro%20-%20Printemps%2C%20temps%20gris%2C%20Eragny%2C%201895.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg"
+    },
+    {
+      "id": "Q50012973",
+      "artistId": "monet",
+      "artistName": "Claude Monet",
+      "reviewStatus": "generated",
+      "title": "Charing Cross Bridge, Fog",
+      "date": "1903",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "art-gallery-of-ontario-toronto",
+      "location": "Art Gallery of Ontario",
+      "city": "Toronto",
+      "country": "Canada",
+      "lat": 43.653613,
+      "lon": -79.39278,
+      "source": "http://www.wikidata.org/entity/Q50012973",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%20-%20Charing%20Cross%20Bridge%2C%20Fog.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%201899%20Nadar%20crop.jpg"
     },
     {
       "id": "Q116241564",
@@ -2567,7 +2848,9 @@
       "country": "Canada",
       "lat": 43.653613,
       "lon": -79.39278,
-      "source": "http://www.wikidata.org/entity/Q116241564"
+      "source": "http://www.wikidata.org/entity/Q116241564",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Monet%20-%20%C3%89tretat%2C%20L%27Aiguille%20et%20la%20Porte%20d%27Aval%2C%201885-1886.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%201899%20Nadar%20crop.jpg"
     },
     {
       "id": "Q116241579",
@@ -2582,9 +2865,11 @@
       "location": "Art Gallery of Ontario",
       "city": "Toronto",
       "country": "Canada",
-      "lat": 43.653613,
-      "lon": -79.39278,
-      "source": "http://www.wikidata.org/entity/Q116241579"
+      "lat": 43.653611111,
+      "lon": -79.392777777,
+      "source": "http://www.wikidata.org/entity/Q116241579",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Monet%20-%20V%C3%A9theuil%20in%20Summer%2C%201879.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%201899%20Nadar%20crop.jpg"
     },
     {
       "id": "Q116241580",
@@ -2601,24 +2886,9 @@
       "country": "Canada",
       "lat": 43.653613,
       "lon": -79.39278,
-      "source": "http://www.wikidata.org/entity/Q116241580"
-    },
-    {
-      "id": "Q116241576",
-      "artistId": "edouard-vuillard",
-      "artistName": "Édouard Vuillard",
-      "reviewStatus": "generated",
-      "title": "Untitled record",
-      "date": "1891",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "art-gallery-of-ontario-toronto",
-      "location": "Art Gallery of Ontario",
-      "city": "Toronto",
-      "country": "Canada",
-      "lat": 43.653613,
-      "lon": -79.39278,
-      "source": "http://www.wikidata.org/entity/Q116241576"
+      "source": "http://www.wikidata.org/entity/Q116241580",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Degas%20-%20Woman%20at%20Her%20Bath%2C%20c.%201895.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20self%20portrait%201855FXD.jpg"
     },
     {
       "id": "Q116241577",
@@ -2635,7 +2905,28 @@
       "country": "Canada",
       "lat": 43.653611111,
       "lon": -79.392777777,
-      "source": "http://www.wikidata.org/entity/Q116241577"
+      "source": "http://www.wikidata.org/entity/Q116241577",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Vuillard%20-%20The%20Widow%27s%20Visit%20or%20The%20Conversation%2C%201898.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Self-Portrait%2C%20Aged%2021%20A21192.jpg"
+    },
+    {
+      "id": "Q116241576",
+      "artistId": "edouard-vuillard",
+      "artistName": "Édouard Vuillard",
+      "reviewStatus": "generated",
+      "title": "Untitled record",
+      "date": "1891",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "art-gallery-of-ontario-toronto",
+      "location": "Art Gallery of Ontario",
+      "city": "Toronto",
+      "country": "Canada",
+      "lat": 43.653613,
+      "lon": -79.39278,
+      "source": "http://www.wikidata.org/entity/Q116241576",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Vuillard%20-%20The%20Staircase%20Landing%2C%20rue%20de%20Miromesnil%2C%201891.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Self-Portrait%2C%20Aged%2021%20A21192.jpg"
     },
     {
       "id": "Q116241571",
@@ -2652,7 +2943,9 @@
       "country": "Canada",
       "lat": 43.653613,
       "lon": -79.39278,
-      "source": "http://www.wikidata.org/entity/Q116241571"
+      "source": "http://www.wikidata.org/entity/Q116241571",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Fran%C3%A7ois%20Boucher%2C%20The%20Wooden%20Shoes%20%281768%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Boucher%20par%20Gustav%20Lundberg%201741.jpg"
     },
     {
       "id": "Q124433779",
@@ -2667,9 +2960,11 @@
       "location": "Art Gallery of Ontario",
       "city": "Toronto",
       "country": "Canada",
-      "lat": 43.653611111,
-      "lon": -79.392777777,
-      "source": "http://www.wikidata.org/entity/Q124433779"
+      "lat": 43.653613,
+      "lon": -79.39278,
+      "source": "http://www.wikidata.org/entity/Q124433779",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustave%20Courbet%2C%20photograph%20Atelier%20Nadar%2C%20c.%201860s.jpg"
     },
     {
       "id": "Q116241565",
@@ -2684,9 +2979,11 @@
       "location": "Art Gallery of Ontario",
       "city": "Toronto",
       "country": "Canada",
-      "lat": 43.653613,
-      "lon": -79.39278,
-      "source": "http://www.wikidata.org/entity/Q116241565"
+      "lat": 43.653611111,
+      "lon": -79.392777777,
+      "source": "http://www.wikidata.org/entity/Q116241565",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Sim%C3%A9on%20Chardin%20-%20Jar%20of%20Apricots%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg"
     },
     {
       "id": "Q3964972",
@@ -2701,9 +2998,11 @@
       "location": "Art Gallery of Ontario",
       "city": "Toronto",
       "country": "Canada",
-      "lat": 43.653611111,
-      "lon": -79.392777777,
-      "source": "http://www.wikidata.org/entity/Q3964972"
+      "lat": 43.653613,
+      "lon": -79.39278,
+      "source": "http://www.wikidata.org/entity/Q3964972",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Shagal%20Choumoff.jpg"
     },
     {
       "id": "Q64374464",
@@ -2718,60 +3017,30 @@
       "location": "Art Gallery of Ontario",
       "city": "Toronto",
       "country": "Canada",
-      "lat": 43.653611111,
-      "lon": -79.392777777,
-      "source": "http://www.wikidata.org/entity/Q64374464"
+      "lat": 43.653613,
+      "lon": -79.39278,
+      "source": "http://www.wikidata.org/entity/Q64374464",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20C%C3%A9zanne%20-%20Interior%20of%20a%20forest%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul-Cezanne.jpg"
     },
     {
-      "id": "Q116241588",
-      "artistId": "pierre-bonnard",
-      "artistName": "Pierre Bonnard",
+      "id": "Q15674230",
+      "artistId": "peter-paul-rubens",
+      "artistName": "Peter Paul Rubens",
       "reviewStatus": "generated",
-      "title": "Untitled record",
-      "date": "1917",
+      "title": "Massacre of the Innocents",
+      "date": "1611",
       "type": "Painting",
       "attribution": "Accepted",
       "locationId": "art-gallery-of-ontario-toronto",
       "location": "Art Gallery of Ontario",
       "city": "Toronto",
       "country": "Canada",
-      "lat": 43.653611111,
-      "lon": -79.392777777,
-      "source": "http://www.wikidata.org/entity/Q116241588"
-    },
-    {
-      "id": "Q116241569",
-      "artistId": "pierre-bonnard",
-      "artistName": "Pierre Bonnard",
-      "reviewStatus": "generated",
-      "title": "Untitled record",
-      "date": "1924",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "art-gallery-of-ontario-toronto",
-      "location": "Art Gallery of Ontario",
-      "city": "Toronto",
-      "country": "Canada",
-      "lat": 43.653611111,
-      "lon": -79.392777777,
-      "source": "http://www.wikidata.org/entity/Q116241569"
-    },
-    {
-      "id": "Q116241587",
-      "artistId": "pierre-bonnard",
-      "artistName": "Pierre Bonnard",
-      "reviewStatus": "generated",
-      "title": "Untitled record",
-      "date": "1933",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "art-gallery-of-ontario-toronto",
-      "location": "Art Gallery of Ontario",
-      "city": "Toronto",
-      "country": "Canada",
-      "lat": 43.653611111,
-      "lon": -79.392777777,
-      "source": "http://www.wikidata.org/entity/Q116241587"
+      "lat": 43.653613,
+      "lon": -79.39278,
+      "source": "http://www.wikidata.org/entity/Q15674230",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rubens%2C%20Peter%20Paul%20-%20Massacre%20of%20the%20Innocents%20-%20Art%20Gallery%20of%20Ontario.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Peter%20Paul%20Rubens%20-%20Portrait%20of%20the%20Artist%20-%20Google%20Art%20Project.jpg"
     },
     {
       "id": "Q102255788",
@@ -2788,7 +3057,9 @@
       "country": "Canada",
       "lat": 43.653611111,
       "lon": -79.392777777,
-      "source": "http://www.wikidata.org/entity/Q102255788"
+      "source": "http://www.wikidata.org/entity/Q102255788",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Piet%20Mondriaan.jpg"
     },
     {
       "id": "Q18225459",
@@ -2803,9 +3074,11 @@
       "location": "Art Gallery of Ontario",
       "city": "Toronto",
       "country": "Canada",
-      "lat": 43.653613,
-      "lon": -79.39278,
-      "source": "http://www.wikidata.org/entity/Q18225459"
+      "lat": 43.653611111,
+      "lon": -79.392777777,
+      "source": "http://www.wikidata.org/entity/Q18225459",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20Harmensz%20van%20Rijn%20-%20Portrait%20of%20a%20Lady%20with%20a%20Lap%20Dog%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20van%20Rijn%20-%20Self-Portrait%20-%20Google%20Art%20Project.jpg"
     },
     {
       "id": "Q7232330",
@@ -2820,9 +3093,11 @@
       "location": "Art Gallery of Ontario",
       "city": "Toronto",
       "country": "Canada",
-      "lat": 43.653611111,
-      "lon": -79.392777777,
-      "source": "http://www.wikidata.org/entity/Q7232330"
+      "lat": 43.653613,
+      "lon": -79.39278,
+      "source": "http://www.wikidata.org/entity/Q7232330",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20a%20Seated%20Woman%20with%20a%20Handkerchief.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20van%20Rijn%20-%20Self-Portrait%20-%20Google%20Art%20Project.jpg"
     },
     {
       "id": "Q124433800",
@@ -2837,9 +3112,11 @@
       "location": "Art Gallery of Ontario",
       "city": "Toronto",
       "country": "Canada",
-      "lat": 43.653613,
-      "lon": -79.39278,
-      "source": "http://www.wikidata.org/entity/Q124433800"
+      "lat": 43.653611111,
+      "lon": -79.392777777,
+      "source": "http://www.wikidata.org/entity/Q124433800",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Andr%C3%A9%20Adolphe-Eug%C3%A8ne%20Disd%C3%A9ri%20%28French%20-%20%28Rosa%20Bonheur%29%20-%20Google%20Art%20Project.jpg"
     },
     {
       "id": "Q124433801",
@@ -2854,9 +3131,11 @@
       "location": "Art Gallery of Ontario",
       "city": "Toronto",
       "country": "Canada",
-      "lat": 43.653611111,
-      "lon": -79.392777777,
-      "source": "http://www.wikidata.org/entity/Q124433801"
+      "lat": 43.653613,
+      "lon": -79.39278,
+      "source": "http://www.wikidata.org/entity/Q124433801",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%28Barcelona%29%20Autoretrat%20al%20mirall%20-%20by%20Suzanne%20Valadon.jpg"
     },
     {
       "id": "Q37145003",
@@ -2873,41 +3152,9 @@
       "country": "Canada",
       "lat": 43.653613,
       "lon": -79.39278,
-      "source": "http://www.wikidata.org/entity/Q37145003"
-    },
-    {
-      "id": "Q96002268",
-      "artistId": "tintoretto",
-      "artistName": "Tintoretto",
-      "reviewStatus": "generated",
-      "title": "Christ Washing the Disciples' Feet",
-      "date": "1540",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "art-gallery-of-ontario-toronto",
-      "location": "Art Gallery of Ontario",
-      "city": "Toronto",
-      "country": "Canada",
-      "lat": 43.653613,
-      "lon": -79.39278,
-      "source": "http://www.wikidata.org/entity/Q96002268"
-    },
-    {
-      "id": "Q110835041",
-      "artistId": "jean-baptiste-camille-corot",
-      "artistName": "Jean-Baptiste-Camille Corot",
-      "reviewStatus": "generated",
-      "title": "Untitled record",
-      "date": "1855",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "winnipeg-art-gallery-winnipeg",
-      "location": "Winnipeg Art Gallery",
-      "city": "Winnipeg",
-      "country": "Canada",
-      "lat": 49.889444444,
-      "lon": -97.150555555,
-      "source": "http://www.wikidata.org/entity/Q110835041"
+      "source": "http://www.wikidata.org/entity/Q37145003",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gainsborough-HarvestWagon1784.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Gainsborough%20by%20Thomas%20Gainsborough.jpg"
     }
   ]
 }

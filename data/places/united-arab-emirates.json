@@ -17,7 +17,9 @@
       "country": "United Arab Emirates",
       "lat": 24.533,
       "lon": 54.40001,
-      "source": "http://www.wikidata.org/entity/Q137925932"
+      "source": "http://www.wikidata.org/entity/Q137925932",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Alfred%20sisley%2C%20la%20strada%20per%20verri%C3%A8res%2C%201872.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20110.jpg"
     },
     {
       "id": "Q28128822",
@@ -34,7 +36,9 @@
       "country": "United Arab Emirates",
       "lat": 24.533,
       "lon": 54.40001,
-      "source": "http://www.wikidata.org/entity/Q28128822"
+      "source": "http://www.wikidata.org/entity/Q28128822",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%88douard%20Manet%20-%20The%20Bohemian.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Manet%2C%20en%20buste%2C%20de%20face%20-%20Nadar.jpg"
     },
     {
       "id": "Q132128325",
@@ -51,7 +55,9 @@
       "country": "United Arab Emirates",
       "lat": 24.533,
       "lon": 54.40001,
-      "source": "http://www.wikidata.org/entity/Q132128325"
+      "source": "http://www.wikidata.org/entity/Q132128325",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Wittgenstein%20Madonna%20by%20Giovanni%20Bellini.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Portr%C3%A6t%20af%20den%20venezianske%20maler%20Giovanni%20Bellini.jpg"
     },
     {
       "id": "Q56810578",
@@ -68,7 +74,9 @@
       "country": "United Arab Emirates",
       "lat": 24.533,
       "lon": 54.40001,
-      "source": "http://www.wikidata.org/entity/Q56810578"
+      "source": "http://www.wikidata.org/entity/Q56810578",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Corot%20-%20FONTAINEBLEAU.%20PINS%20ET%20BOULEAUX%20DANS%20LES%20ROCHERS%2C%20R483%20%28cropped%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste-Camille%20Corot%20c1850.png"
     },
     {
       "id": "Q132128905",
@@ -85,7 +93,9 @@
       "country": "United Arab Emirates",
       "lat": 24.533,
       "lon": 54.40001,
-      "source": "http://www.wikidata.org/entity/Q132128905"
+      "source": "http://www.wikidata.org/entity/Q132128905",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Les%20Marionnettes%2C%20par%20Jean-Honor%C3%A9%20Fragonard.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Honor%C3%A9%20Fragonard%20self-portrait.jpg"
     },
     {
       "id": "Q1892745",
@@ -102,7 +112,9 @@
       "country": "United Arab Emirates",
       "lat": 24.533,
       "lon": 54.40001,
-      "source": "http://www.wikidata.org/entity/Q1892745"
+      "source": "http://www.wikidata.org/entity/Q1892745",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Leonardo%20da%20Vinci%2C%20Salvator%20Mundi%2C%20c.1500%2C%20oil%20on%20walnut%2C%2045.4%20%C3%97%2065.6%20cm.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Francesco%20Melzi%20-%20Portrait%20of%20Leonardo.png"
     },
     {
       "id": "Q107343185",
@@ -119,7 +131,9 @@
       "country": "United Arab Emirates",
       "lat": 24.533,
       "lon": 54.40001,
-      "source": "http://www.wikidata.org/entity/Q107343185"
+      "source": "http://www.wikidata.org/entity/Q107343185",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gauguin%20Jeunes%20Lutteurs.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Gauguin%201891.png"
     },
     {
       "id": "Q102257724",
@@ -136,7 +150,28 @@
       "country": "United Arab Emirates",
       "lat": 24.533,
       "lon": 54.40001,
-      "source": "http://www.wikidata.org/entity/Q102257724"
+      "source": "http://www.wikidata.org/entity/Q102257724",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Piet%20Mondriaan%20-%20Composition%20with%20blue%2C%20red%2C%20yellow%2C%20and%20black%20-%20B142%20-%20Piet%20Mondrian%2C%20catalogue%20raisonn%C3%A9.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Piet%20Mondriaan.jpg"
+    },
+    {
+      "id": "Q21518246",
+      "artistId": "rembrandt",
+      "artistName": "Rembrandt",
+      "reviewStatus": "generated",
+      "title": "Head of Christ",
+      "date": "1648",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "louvre-abu-dhabi-abu-dhabi",
+      "location": "Louvre Abu Dhabi",
+      "city": "Abu Dhabi",
+      "country": "United Arab Emirates",
+      "lat": 24.533,
+      "lon": 54.40001,
+      "source": "http://www.wikidata.org/entity/Q21518246",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20Oil%20Study%20of%20Christ.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20van%20Rijn%20-%20Self-Portrait%20-%20Google%20Art%20Project.jpg"
     },
     {
       "id": "Q69460555",
@@ -153,7 +188,9 @@
       "country": "United Arab Emirates",
       "lat": 24.533,
       "lon": 54.40001,
-      "source": "http://www.wikidata.org/entity/Q69460555"
+      "source": "http://www.wikidata.org/entity/Q69460555",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg"
     },
     {
       "id": "Q139820447",
@@ -170,7 +207,9 @@
       "country": "United Arab Emirates",
       "lat": 24.533,
       "lon": 54.40001,
-      "source": "http://www.wikidata.org/entity/Q139820447"
+      "source": "http://www.wikidata.org/entity/Q139820447",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Tamara%20%C5%81empicka%20ssj%2020060914%20-%20cropped.jpg"
     }
   ]
 }

@@ -17,7 +17,9 @@
       "country": "Czech Republic",
       "lat": 49.195508,
       "lon": 16.604365,
-      "source": "http://www.wikidata.org/entity/Q3978273"
+      "source": "http://www.wikidata.org/entity/Q3978273",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Susanna%20and%20the%20Elders.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Artemisia%20Gentileschi%20Selfportrait%20Martyr.jpg"
     },
     {
       "id": "Q55410509",
@@ -34,7 +36,9 @@
       "country": "Czech Republic",
       "lat": 49.195508,
       "lon": 16.604365,
-      "source": "http://www.wikidata.org/entity/Q55410509"
+      "source": "http://www.wikidata.org/entity/Q55410509",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg"
     },
     {
       "id": "Q55410384",
@@ -51,7 +55,9 @@
       "country": "Czech Republic",
       "lat": 49.195508,
       "lon": 16.604365,
-      "source": "http://www.wikidata.org/entity/Q55410384"
+      "source": "http://www.wikidata.org/entity/Q55410384",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas-cranach-Piet%C3%A0%20beneath%20the%20Cross.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20d.%20%C3%84.%20063.jpg"
     },
     {
       "id": "Q55412086",
@@ -68,7 +74,9 @@
       "country": "Czech Republic",
       "lat": 49.195508,
       "lon": 16.604365,
-      "source": "http://www.wikidata.org/entity/Q55412086"
+      "source": "http://www.wikidata.org/entity/Q55412086",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20d.%20%C3%84.%20-%20Hl.%20Barbara%20%28Brno%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20d.%20%C3%84.%20063.jpg"
     },
     {
       "id": "Q55413890",
@@ -85,7 +93,9 @@
       "country": "Czech Republic",
       "lat": 49.195508,
       "lon": 16.604365,
-      "source": "http://www.wikidata.org/entity/Q55413890"
+      "source": "http://www.wikidata.org/entity/Q55413890",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20d.%20%C3%84.%20-%20Hl.%20Katharina%20%28Brno%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20d.%20%C3%84.%20063.jpg"
     },
     {
       "id": "Q55414049",
@@ -102,41 +112,28 @@
       "country": "Czech Republic",
       "lat": 49.195508,
       "lon": 16.604365,
-      "source": "http://www.wikidata.org/entity/Q55414049"
+      "source": "http://www.wikidata.org/entity/Q55414049",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Veronese%20-%20AUTORITRATTO%20%282%29%20-%20Museo%20dell%27Ermitage.jpg"
     },
     {
-      "id": "Q47010734",
-      "artistId": "lucas-cranach-the-elder",
-      "artistName": "Lucas Cranach the Elder",
+      "id": "Q111645357",
+      "artistId": "paolo-veronese",
+      "artistName": "Paolo Veronese",
       "reviewStatus": "generated",
-      "title": "Prague Altarpiece [central panel, fragment]: St Catherine and St Barbara with fragments of the figures of St Dorothea and St Margaret",
-      "date": "1520",
+      "title": "David with the Head of Goliath",
+      "date": "1557",
       "type": "Painting",
       "attribution": "Accepted",
-      "locationId": "prague-castle-picture-gallery-hradcany",
-      "location": "Prague Castle Picture Gallery",
+      "locationId": "prague-castle-hradcany",
+      "location": "Prague Castle",
       "city": "Hradčany",
       "country": "Czech Republic",
-      "lat": 50.0909,
-      "lon": 14.3984,
-      "source": "http://www.wikidata.org/entity/Q47010734"
-    },
-    {
-      "id": "Q18891261",
-      "artistId": "edvard-munch",
-      "artistName": "Edvard Munch",
-      "reviewStatus": "generated",
-      "title": "Trees by the Mediterranean",
-      "date": "1892",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "gallery-of-fine-arts-in-ostrava-moravska-ostrava",
-      "location": "Gallery of Fine Arts in Ostrava",
-      "city": "Moravská Ostrava",
-      "country": "Czech Republic",
-      "lat": 49.834049,
-      "lon": 18.286806,
-      "source": "http://www.wikidata.org/entity/Q18891261"
+      "lat": 50.09,
+      "lon": 14.4,
+      "source": "http://www.wikidata.org/entity/Q111645357",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Battista%20Farinato%20gen.%20Zelotti%20%281532-1592%29%20-%20David%20mit%20dem%20Haupt%20des%20Goliath%20-%202127%20-%20F%C3%BChrermuseum.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Veronese%20-%20AUTORITRATTO%20%282%29%20-%20Museo%20dell%27Ermitage.jpg"
     },
     {
       "id": "Q130581757",
@@ -153,7 +150,66 @@
       "country": "Czech Republic",
       "lat": 50.0798433,
       "lon": 14.4304172,
-      "source": "http://www.wikidata.org/entity/Q130581757"
+      "source": "http://www.wikidata.org/entity/Q130581757",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Veronese%20039.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Veronese%20-%20AUTORITRATTO%20%282%29%20-%20Museo%20dell%27Ermitage.jpg"
+    },
+    {
+      "id": "Q47010734",
+      "artistId": "lucas-cranach-the-elder",
+      "artistName": "Lucas Cranach the Elder",
+      "reviewStatus": "generated",
+      "title": "Prague Altarpiece [central panel, fragment]: St Catherine and St Barbara with fragments of the figures of St Dorothea and St Margaret",
+      "date": "1520",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "prague-castle-picture-gallery-prague-1",
+      "location": "Prague Castle Picture Gallery",
+      "city": "Prague 1",
+      "country": "Czech Republic",
+      "lat": 50.0909,
+      "lon": 14.3984,
+      "source": "http://www.wikidata.org/entity/Q47010734",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pra%C5%BEsk%C3%BD%20olt%C3%A1%C5%99%2C%20Sv.%20Kate%C5%99ina%20a%20sv.%20Barbora.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20d.%20%C3%84.%20063.jpg"
+    },
+    {
+      "id": "Q116962793",
+      "artistId": "lucas-cranach-the-elder",
+      "artistName": "Lucas Cranach the Elder",
+      "reviewStatus": "generated",
+      "title": "The Ill-Matched Lovers",
+      "date": "1531",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "prague-castle-picture-gallery-prague-1",
+      "location": "Prague Castle Picture Gallery",
+      "city": "Prague 1",
+      "country": "Czech Republic",
+      "lat": 50.0909,
+      "lon": 14.3984,
+      "source": "http://www.wikidata.org/entity/Q116962793",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Werkstatt%20Lucas%20Cranach%20der%20%C3%84ltere%20-%20The%20Ill-Matched%20Lovers%2C%20CZ%20OPH%20HS241%20FR285B.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20d.%20%C3%84.%20063.jpg"
+    },
+    {
+      "id": "Q111340569",
+      "artistId": "peter-paul-rubens",
+      "artistName": "Peter Paul Rubens",
+      "reviewStatus": "generated",
+      "title": "The Gathering of the Gods on Olympus",
+      "date": "1602",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "prague-castle-picture-gallery-prague-1",
+      "location": "Prague Castle Picture Gallery",
+      "city": "Prague 1",
+      "country": "Czech Republic",
+      "lat": 50.0909,
+      "lon": 14.3984,
+      "source": "http://www.wikidata.org/entity/Q111340569",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rubens-shromazdeni-pho102-kopriva-20150914-174044.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Peter%20Paul%20Rubens%20-%20Portrait%20of%20the%20Artist%20-%20Google%20Art%20Project.jpg"
     },
     {
       "id": "Q136459733",
@@ -170,7 +226,9 @@
       "country": "Czech Republic",
       "lat": 50.0909,
       "lon": 14.3984,
-      "source": "http://www.wikidata.org/entity/Q136459733"
+      "source": "http://www.wikidata.org/entity/Q136459733",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Tizian%20toaleta%20mlade%20zeny.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Vecellio%20di%20Gregorio%20Tiziano%20-%20autoritratto.jpg"
     }
   ]
 }

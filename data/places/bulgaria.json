@@ -3,12 +3,12 @@
   "country": "Bulgaria",
   "artworks": [
     {
-      "id": "Q131745279",
-      "artistId": "gustave-courbet",
-      "artistName": "Gustave Courbet",
+      "id": "Q131745278",
+      "artistId": "eugene-delacroix",
+      "artistName": "Eugène Delacroix",
       "reviewStatus": "generated",
       "title": "Untitled record",
-      "date": "1875",
+      "date": "1848",
       "type": "Painting",
       "attribution": "Accepted",
       "locationId": "national-gallery-for-foreign-art-sofia",
@@ -17,7 +17,9 @@
       "country": "Bulgaria",
       "lat": 42.696111,
       "lon": 23.334444,
-      "source": "http://www.wikidata.org/entity/Q131745279"
+      "source": "http://www.wikidata.org/entity/Q131745278",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Autoportrait%20-%20Eug%C3%A8ne%20Delacroix%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20RF%2025.jpg"
     },
     {
       "id": "Q131745283",
@@ -34,15 +36,17 @@
       "country": "Bulgaria",
       "lat": 42.696111,
       "lon": 23.334444,
-      "source": "http://www.wikidata.org/entity/Q131745283"
+      "source": "http://www.wikidata.org/entity/Q131745283",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%28Barcelona%29%20Autoretrat%20al%20mirall%20-%20by%20Suzanne%20Valadon.jpg"
     },
     {
-      "id": "Q131745278",
-      "artistId": "eugene-delacroix",
-      "artistName": "Eugène Delacroix",
+      "id": "Q131745279",
+      "artistId": "gustave-courbet",
+      "artistName": "Gustave Courbet",
       "reviewStatus": "generated",
       "title": "Untitled record",
-      "date": "1848",
+      "date": "1875",
       "type": "Painting",
       "attribution": "Accepted",
       "locationId": "national-gallery-for-foreign-art-stolichna-municipality",
@@ -51,7 +55,9 @@
       "country": "Bulgaria",
       "lat": 42.696111,
       "lon": 23.334444,
-      "source": "http://www.wikidata.org/entity/Q131745278"
+      "source": "http://www.wikidata.org/entity/Q131745279",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Courbet%20Landscape%20NGFA.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustave%20Courbet%2C%20photograph%20Atelier%20Nadar%2C%20c.%201860s.jpg"
     }
   ]
 }

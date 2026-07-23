@@ -3,40 +3,6 @@
   "country": "Colombia",
   "artworks": [
     {
-      "id": "Q108333696",
-      "artistId": "alfred-sisley",
-      "artistName": "Alfred Sisley",
-      "reviewStatus": "generated",
-      "title": "Untitled record",
-      "date": "1879",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "botero-museum-bogota",
-      "location": "Botero Museum",
-      "city": "Bogotá",
-      "country": "Colombia",
-      "lat": 4.596702536,
-      "lon": -74.073370905,
-      "source": "http://www.wikidata.org/entity/Q108333696"
-    },
-    {
-      "id": "Q22671950",
-      "artistId": "camille-pissarro",
-      "artistName": "Camille Pissarro",
-      "reviewStatus": "generated",
-      "title": "The Louvre, Foggy Morning",
-      "date": "1901",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "botero-museum-bogota",
-      "location": "Botero Museum",
-      "city": "Bogotá",
-      "country": "Colombia",
-      "lat": 4.596702536,
-      "lon": -74.073370905,
-      "source": "http://www.wikidata.org/entity/Q22671950"
-    },
-    {
       "id": "Q108333701",
       "artistId": "edgar-degas",
       "artistName": "Edgar Degas",
@@ -51,7 +17,9 @@
       "country": "Colombia",
       "lat": 4.596702536,
       "lon": -74.073370905,
-      "source": "http://www.wikidata.org/entity/Q108333701"
+      "source": "http://www.wikidata.org/entity/Q108333701",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20-%20Mujer%20en%20el%20ba%C3%B1o.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20self%20portrait%201855FXD.jpg"
     },
     {
       "id": "Q108333700",
@@ -68,15 +36,17 @@
       "country": "Colombia",
       "lat": 4.596702536,
       "lon": -74.073370905,
-      "source": "http://www.wikidata.org/entity/Q108333700"
+      "source": "http://www.wikidata.org/entity/Q108333700",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Toulouse-Lautrec%20-%20Bebedora%20de%20ajenjo%20en%20Grenelle.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Photolautrec.jpg"
     },
     {
-      "id": "Q18177917",
-      "artistId": "jean-baptiste-camille-corot",
-      "artistName": "Jean-Baptiste-Camille Corot",
+      "id": "Q108333703",
+      "artistId": "pierre-bonnard",
+      "artistName": "Pierre Bonnard",
       "reviewStatus": "generated",
-      "title": "Gypsy woman with tambourine",
-      "date": "1862",
+      "title": "Nude on the Chair",
+      "date": "1935",
       "type": "Painting",
       "attribution": "Accepted",
       "locationId": "botero-museum-bogota",
@@ -85,24 +55,9 @@
       "country": "Colombia",
       "lat": 4.596702536,
       "lon": -74.073370905,
-      "source": "http://www.wikidata.org/entity/Q18177917"
-    },
-    {
-      "id": "Q18177517",
-      "artistId": "jean-baptiste-camille-corot",
-      "artistName": "Jean-Baptiste-Camille Corot",
-      "reviewStatus": "generated",
-      "title": "Untitled record",
-      "date": "1871",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "botero-museum-bogota",
-      "location": "Botero Museum",
-      "city": "Bogotá",
-      "country": "Colombia",
-      "lat": 4.596702536,
-      "lon": -74.073370905,
-      "source": "http://www.wikidata.org/entity/Q18177517"
+      "source": "http://www.wikidata.org/entity/Q108333703",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre%20Bonnard%20Pierre%20Bonnard%20Nude%204.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Self-portrait-1889.jpg"
     },
     {
       "id": "Q66363872",
@@ -119,7 +74,47 @@
       "country": "Colombia",
       "lat": 4.596702536,
       "lon": -74.073370905,
-      "source": "http://www.wikidata.org/entity/Q66363872"
+      "source": "http://www.wikidata.org/entity/Q66363872",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Renoir%20-%20Vera%20Sergine%20Renoir%2C%201914.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre%20Auguste%20Renoir%2C%20uncropped%20image.jpg"
+    },
+    {
+      "id": "Q108333696",
+      "artistId": "alfred-sisley",
+      "artistName": "Alfred Sisley",
+      "reviewStatus": "generated",
+      "title": "Untitled record",
+      "date": "1879",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "botero-museum-la-candelaria",
+      "location": "Botero Museum",
+      "city": "La Candelaria",
+      "country": "Colombia",
+      "lat": 4.596702536,
+      "lon": -74.073370905,
+      "source": "http://www.wikidata.org/entity/Q108333696",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Alfred%20Sisley%20-%20El%20talud%20del%20ferrocarril%20en%20S%C3%A8vres.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20110.jpg"
+    },
+    {
+      "id": "Q22671950",
+      "artistId": "camille-pissarro",
+      "artistName": "Camille Pissarro",
+      "reviewStatus": "generated",
+      "title": "The Louvre, Foggy Morning",
+      "date": "1901",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "botero-museum-la-candelaria",
+      "location": "Botero Museum",
+      "city": "La Candelaria",
+      "country": "Colombia",
+      "lat": 4.596702536,
+      "lon": -74.073370905,
+      "source": "http://www.wikidata.org/entity/Q22671950",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Pissarro%20-%20Le%20Louvre%2C%20soleil%20couchant%2C%20gel%C3%A9e%20glanche%2C%202e%20s%C3%A9rie%20-%201402.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg"
     },
     {
       "id": "Q108333702",
@@ -136,15 +131,17 @@
       "country": "Colombia",
       "lat": 4.596702536,
       "lon": -74.073370905,
-      "source": "http://www.wikidata.org/entity/Q108333702"
+      "source": "http://www.wikidata.org/entity/Q108333702",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Vuillard%20-%20Retrato%20de%20Madame%20La%20Fontaine.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Self-Portrait%2C%20Aged%2021%20A21192.jpg"
     },
     {
-      "id": "Q108333703",
-      "artistId": "pierre-bonnard",
-      "artistName": "Pierre Bonnard",
+      "id": "Q18177917",
+      "artistId": "jean-baptiste-camille-corot",
+      "artistName": "Jean-Baptiste-Camille Corot",
       "reviewStatus": "generated",
-      "title": "Nude on the Chair",
-      "date": "1935",
+      "title": "Gypsy woman with tambourine",
+      "date": "1862",
       "type": "Painting",
       "attribution": "Accepted",
       "locationId": "botero-museum-la-candelaria",
@@ -153,7 +150,28 @@
       "country": "Colombia",
       "lat": 4.596702536,
       "lon": -74.073370905,
-      "source": "http://www.wikidata.org/entity/Q108333703"
+      "source": "http://www.wikidata.org/entity/Q18177917",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste%20Camille%20Corot%20-%20Gitana%20con%20pandereta%2C%20MB.JPG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste-Camille%20Corot%20c1850.png"
+    },
+    {
+      "id": "Q18177517",
+      "artistId": "jean-baptiste-camille-corot",
+      "artistName": "Jean-Baptiste-Camille Corot",
+      "reviewStatus": "generated",
+      "title": "Untitled record",
+      "date": "1871",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "botero-museum-la-candelaria",
+      "location": "Botero Museum",
+      "city": "La Candelaria",
+      "country": "Colombia",
+      "lat": 4.596702536,
+      "lon": -74.073370905,
+      "source": "http://www.wikidata.org/entity/Q18177517",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste%20Camille%20Corot%20-%20El%20peque%C3%B1o%20valle.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste-Camille%20Corot%20c1850.png"
     }
   ]
 }

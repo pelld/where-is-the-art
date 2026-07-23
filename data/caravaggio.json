@@ -17,10 +17,11 @@
       "source": "http://www.wikidata.org/entity/Q17992160",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Caravaggio%20I%20bari%20%28Mahon%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bild-Ottavio%20Leoni%2C%20Caravaggio.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -41,10 +42,11 @@
       "source": "http://www.wikidata.org/entity/Q131627548",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Caravaggioapollo.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bild-Ottavio%20Leoni%2C%20Caravaggio.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -65,10 +67,11 @@
       "source": "http://www.wikidata.org/entity/Q2713203",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Madonna%20di%20Loreto-Caravaggio%20%28c.1604-6%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bild-Ottavio%20Leoni%2C%20Caravaggio.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -88,35 +91,12 @@
       "lon": 11.571776,
       "source": "http://www.wikidata.org/entity/Q30095295",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Caravaggio%20%28Michelangelo%20Merisi%29%20%28%5E%29%20-%20Lautenspieler%20-%204868%20-%20Bavarian%20State%20Painting%20Collections.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Lute%20Player%2C%20Master%20of%20the%20Lute%20Player.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bild-Ottavio%20Leoni%2C%20Caravaggio.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q107443198",
-      "title": "The Holy Family with Child Saint John",
-      "date": "1603",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "caravaggio",
-      "artistName": "Caravaggio",
-      "locationId": "bode-museum-bezirk-mitte",
-      "location": "Bode Museum",
-      "city": "Bezirk Mitte",
-      "country": "Germany",
-      "lat": 52.521944444,
-      "lon": 13.394722222,
-      "source": "http://www.wikidata.org/entity/Q107443198",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Michelangelo%20Caravaggio%20055%20-%20color%20enhanced.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q42207",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -137,10 +117,11 @@
       "source": "http://www.wikidata.org/entity/Q16534183",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Fortune%20Teller-Caravaggio%20%28Rome%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bild-Ottavio%20Leoni%2C%20Caravaggio.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -161,10 +142,11 @@
       "source": "http://www.wikidata.org/entity/Q3223625",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Michelangelo%20Merisi%20da%20Caravaggio%2C%20Saint%20John%20the%20Baptist%20%28Youth%20with%20a%20Ram%29%20%28c.%201602%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bild-Ottavio%20Leoni%2C%20Caravaggio.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -185,10 +167,11 @@
       "source": "http://www.wikidata.org/entity/Q3221991",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Caravaggio%20-%20The%20Crucifixion%20of%20Saint%20Andrew%20-%201976.2%20-%20Cleveland%20Museum%20of%20Art.tiff",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bild-Ottavio%20Leoni%2C%20Caravaggio.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -209,10 +192,11 @@
       "source": "http://www.wikidata.org/entity/Q663133",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Caravaggio%20-%20The%20Cardsharps%20%281596-97%29%20Kimbell%20Art%20Museum.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bild-Ottavio%20Leoni%2C%20Caravaggio.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -233,34 +217,11 @@
       "source": "http://www.wikidata.org/entity/Q79035845",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Follower%20of%20Michelangelo%20Merisi%20da%20Caravaggio%20-%20The%20Vision%20of%20Saint%20Jerome%2C%201960.13.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bild-Ottavio%20Leoni%2C%20Caravaggio.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q577248",
-      "title": "Saint Matthew and the Angel",
-      "date": "1602",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "caravaggio",
-      "artistName": "Caravaggio",
-      "locationId": "contarelli-chapel-rome",
-      "location": "Contarelli Chapel",
-      "city": "Rome",
-      "country": "Italy",
-      "lat": 41.89944444,
-      "lon": 12.47472222,
-      "source": "http://www.wikidata.org/entity/Q577248",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Caravaggio%20%28Michelangelo%20Merisi%29%20%281571%20-%201610%29%20-%20The%20Evangelist%20Matthew%20-%20365%20-%20Gem%C3%A4ldegalerie.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q42207",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -281,10 +242,11 @@
       "source": "http://www.wikidata.org/entity/Q28108359",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/M.%20Merisi%20-%20Salome%20met%20het%20hoofd%20van%20Johannes%20de%20Doper%20-%20R5253%20-%20Cultural%20Heritage%20Agency%20of%20the%20Netherlands%20Art%20Collection.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bild-Ottavio%20Leoni%2C%20Caravaggio.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -305,10 +267,11 @@
       "source": "http://www.wikidata.org/entity/Q2734679",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Caravaggio%20%281571%E2%80%931610%29%2C%20Martha%20and%20Mary%20Magdalene%20%28The%20Conversion%20of%20the%20Magdalen%29%2C%20c.%201598.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bild-Ottavio%20Leoni%2C%20Caravaggio.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -329,10 +292,11 @@
       "source": "http://www.wikidata.org/entity/Q131543672",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Boy%20Bitten%20by%20a%20Lizard%20by%20Caravaggio%20%28Florence%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bild-Ottavio%20Leoni%2C%20Caravaggio.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -353,10 +317,11 @@
       "source": "http://www.wikidata.org/entity/Q102641148",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/CARAVAGGIO%2C%20A%20boy%20peeling%20fruit%20%281593%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bild-Ottavio%20Leoni%2C%20Caravaggio.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -377,10 +342,11 @@
       "source": "http://www.wikidata.org/entity/Q2610936",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Boy%20with%20a%20Basket%20of%20Fruit-Caravaggio%20%281593%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bild-Ottavio%20Leoni%2C%20Caravaggio.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -401,10 +367,11 @@
       "source": "http://www.wikidata.org/entity/Q2627056",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20with%20the%20Head%20of%20Goliath-Caravaggio%20%281610%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bild-Ottavio%20Leoni%2C%20Caravaggio.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -425,10 +392,11 @@
       "source": "http://www.wikidata.org/entity/Q2715302",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Madonna%20and%20Child%20with%20St.%20Anne-Caravaggio%20%28c.%201605-6%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bild-Ottavio%20Leoni%2C%20Caravaggio.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -449,10 +417,11 @@
       "source": "http://www.wikidata.org/entity/Q4924810",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Flowersandfruit.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bild-Ottavio%20Leoni%2C%20Caravaggio.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -473,10 +442,11 @@
       "source": "http://www.wikidata.org/entity/Q1460271",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pope%20Paul%20V.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bild-Ottavio%20Leoni%2C%20Caravaggio.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -497,10 +467,11 @@
       "source": "http://www.wikidata.org/entity/Q2715177",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Caravaggio%20-%20Saint%20Jerome%20-%20Galleria%20Borghese.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bild-Ottavio%20Leoni%2C%20Caravaggio.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -521,10 +492,11 @@
       "source": "http://www.wikidata.org/entity/Q9015206",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20the%20Baptist%20%28Galleria%20Borghese%29-Caravaggio%20%281610%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bild-Ottavio%20Leoni%2C%20Caravaggio.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -545,10 +517,11 @@
       "source": "http://www.wikidata.org/entity/Q2293936",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Young%20Sick%20Bacchus-Caravaggio%20%281593%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bild-Ottavio%20Leoni%2C%20Caravaggio.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -569,10 +542,11 @@
       "source": "http://www.wikidata.org/entity/Q2732274",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Penitent%20Magdalene-Caravaggio%20%281594-6%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bild-Ottavio%20Leoni%2C%20Caravaggio.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -593,10 +567,11 @@
       "source": "http://www.wikidata.org/entity/Q745098",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rest%20on%20the%20Flight%20into%20Egypt-Caravaggio%20%28c.1597%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bild-Ottavio%20Leoni%2C%20Caravaggio.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -612,15 +587,16 @@
       "location": "Galleria Doria Pamphilj",
       "city": "Rome",
       "country": "Italy",
-      "lat": 41.897915,
-      "lon": 12.481639,
+      "lat": 41.897669,
+      "lon": 12.481145,
       "source": "http://www.wikidata.org/entity/Q131613900",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Michelangelo%20Merisi%20da%20Caravaggio%2C%20Saint%20John%20the%20Baptist%20%28Youth%20with%20a%20Ram%29%20%28c.%201602%2C%20Yorck%20Project%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bild-Ottavio%20Leoni%2C%20Caravaggio.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -641,10 +617,11 @@
       "source": "http://www.wikidata.org/entity/Q2470123",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Judith%20Beheading%20Holofernes%20-%20Caravaggio.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bild-Ottavio%20Leoni%2C%20Caravaggio.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -665,10 +642,11 @@
       "source": "http://www.wikidata.org/entity/Q746716",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Caravaggio%20-%20Narciso%20%281597-1599%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bild-Ottavio%20Leoni%2C%20Caravaggio.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -689,10 +667,11 @@
       "source": "http://www.wikidata.org/entity/Q2734111",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Maffeo%20Barberini-Caravaggio%20%28c.%201598%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bild-Ottavio%20Leoni%2C%20Caravaggio.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -713,10 +692,11 @@
       "source": "http://www.wikidata.org/entity/Q2275353",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Caravaggio%20-%20San%20Francesco%20in%20meditazione%20%281606-1607%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bild-Ottavio%20Leoni%2C%20Caravaggio.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -737,10 +717,11 @@
       "source": "http://www.wikidata.org/entity/Q3463869",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Caravaggio%20-%20San%20Giovanni%20Battista%20%28Galleria%20Corsini%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bild-Ottavio%20Leoni%2C%20Caravaggio.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -761,10 +742,11 @@
       "source": "http://www.wikidata.org/entity/Q1113749",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Fra%20Antonio%20Martelli-Caravaggio%20%281610%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bild-Ottavio%20Leoni%2C%20Caravaggio.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -785,10 +767,11 @@
       "source": "http://www.wikidata.org/entity/Q2429754",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sleeping%20Cupid-Caravaggio%20%281608%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bild-Ottavio%20Leoni%2C%20Caravaggio.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -809,10 +792,11 @@
       "source": "http://www.wikidata.org/entity/Q3202347",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Toothpuller.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bild-Ottavio%20Leoni%2C%20Caravaggio.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -833,17 +817,18 @@
       "source": "http://www.wikidata.org/entity/Q474024",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Caravaggio%20-%20Cupid%20as%20Victor%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bild-Ottavio%20Leoni%2C%20Caravaggio.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
     {
       "id": "Q976354",
       "title": "Christ on the Mount of Olives",
-      "date": "1603",
+      "date": "1605",
       "type": "Painting",
       "attribution": "Accepted",
       "artistId": "caravaggio",
@@ -857,10 +842,11 @@
       "source": "http://www.wikidata.org/entity/Q976354",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Caravaggio%20%28Michelangelo%20Merisi%29%20%281571%20-%201610%29%20-%20Christ%20on%20the%20mount%20of%20olives%20-%20359%20-%20Gem%C3%A4ldegalerie.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bild-Ottavio%20Leoni%2C%20Caravaggio.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -881,17 +867,18 @@
       "source": "http://www.wikidata.org/entity/Q107437716",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bild-Ottavio%20Leoni%2C%20Caravaggio.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
     {
       "id": "Q2395137",
       "title": "Portrait of a Courtesan",
-      "date": "1590",
+      "date": "1601",
       "type": "Painting",
       "attribution": "Accepted",
       "artistId": "caravaggio",
@@ -905,10 +892,36 @@
       "source": "http://www.wikidata.org/entity/Q2395137",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Caravaggio%20%28Michelangelo%20Merisi%29%20%281571%20-%201610%29%20-%20Half-length%20portrait%20of%20a%20young%20woman%20-%20356%20-%20Gem%C3%A4ldegalerie.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bild-Ottavio%20Leoni%2C%20Caravaggio.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q577248",
+      "title": "Saint Matthew and the Angel",
+      "date": "1602",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "caravaggio",
+      "artistName": "Caravaggio",
+      "locationId": "gemaldegalerie-berlin-bezirk-mitte",
+      "location": "Gemäldegalerie Berlin",
+      "city": "Bezirk Mitte",
+      "country": "Germany",
+      "lat": 52.508611111,
+      "lon": 13.364722222,
+      "source": "http://www.wikidata.org/entity/Q577248",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Caravaggio%20%28Michelangelo%20Merisi%29%20%281571%20-%201610%29%20-%20The%20Evangelist%20Matthew%20-%20365%20-%20Gem%C3%A4ldegalerie.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bild-Ottavio%20Leoni%2C%20Caravaggio.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q42207",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -929,10 +942,36 @@
       "source": "http://www.wikidata.org/entity/Q107445146",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pittore%20caravaggesco%2C%20la%20guarigione%20di%20tobia%2C%201615-20%20ca.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bild-Ottavio%20Leoni%2C%20Caravaggio.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q107443198",
+      "title": "The Holy Family with Child Saint John",
+      "date": "1603",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "caravaggio",
+      "artistName": "Caravaggio",
+      "locationId": "gemaldegalerie-berlin-bezirk-mitte",
+      "location": "Gemäldegalerie Berlin",
+      "city": "Bezirk Mitte",
+      "country": "Germany",
+      "lat": 52.508611111,
+      "lon": 13.364722222,
+      "source": "http://www.wikidata.org/entity/Q107443198",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Michelangelo%20Caravaggio%20055%20-%20color%20enhanced.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bild-Ottavio%20Leoni%2C%20Caravaggio.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q42207",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -953,10 +992,11 @@
       "source": "http://www.wikidata.org/entity/Q55647084",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Michelangelo%20Caravaggio%20020.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bild-Ottavio%20Leoni%2C%20Caravaggio.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -977,10 +1017,11 @@
       "source": "http://www.wikidata.org/entity/Q2721037",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20with%20the%20Head%20of%20Goliath-Caravaggio%20%28c.1606-7%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bild-Ottavio%20Leoni%2C%20Caravaggio.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1001,10 +1042,11 @@
       "source": "http://www.wikidata.org/entity/Q698228",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Michelangelo%20Merisi%2C%20called%20Caravaggio%20-%20Madonna%20of%20the%20Rosary%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bild-Ottavio%20Leoni%2C%20Caravaggio.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1025,10 +1067,11 @@
       "source": "http://www.wikidata.org/entity/Q1117094",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Crowning%20with%20Thorns-Caravaggio%20%281602%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bild-Ottavio%20Leoni%2C%20Caravaggio.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1049,10 +1092,11 @@
       "source": "http://www.wikidata.org/entity/Q107493287",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bild-Ottavio%20Leoni%2C%20Caravaggio.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1073,10 +1117,11 @@
       "source": "http://www.wikidata.org/entity/Q2270778",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Denial%20of%20Saint%20Peter-Caravaggio%20%281610%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bild-Ottavio%20Leoni%2C%20Caravaggio.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1097,10 +1142,11 @@
       "source": "http://www.wikidata.org/entity/Q3212682",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Caravaggio%20-%20Holy%20Family%20with%20St.%20John%20the%20Baptist%20%28Met%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bild-Ottavio%20Leoni%2C%20Caravaggio.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1121,10 +1167,11 @@
       "source": "http://www.wikidata.org/entity/Q655705",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Musicians%20MET%20DP-687-001.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bild-Ottavio%20Leoni%2C%20Caravaggio.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1145,10 +1192,11 @@
       "source": "http://www.wikidata.org/entity/Q123569814",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bild-Ottavio%20Leoni%2C%20Caravaggio.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1169,10 +1217,11 @@
       "source": "http://www.wikidata.org/entity/Q931837",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Christ%20at%20the%20Column-Caravaggio%20%28c.%201607%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bild-Ottavio%20Leoni%2C%20Caravaggio.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1193,10 +1242,11 @@
       "source": "http://www.wikidata.org/entity/Q3463868",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Caravaggio-Baptist-Toledo.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bild-Ottavio%20Leoni%2C%20Caravaggio.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1217,10 +1267,11 @@
       "source": "http://www.wikidata.org/entity/Q2275371",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Saint%20Francis%20in%20Meditation-Caravaggio%20%28Cremona%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bild-Ottavio%20Leoni%2C%20Caravaggio.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1241,17 +1292,18 @@
       "source": "http://www.wikidata.org/entity/Q2270955",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20and%20Goliath%20by%20Caravaggio.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bild-Ottavio%20Leoni%2C%20Caravaggio.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
     {
       "id": "Q125869859",
       "title": "Ecce Homo",
-      "date": "1700",
+      "date": "1607",
       "type": "Painting",
       "attribution": "Accepted",
       "artistId": "caravaggio",
@@ -1265,10 +1317,11 @@
       "source": "http://www.wikidata.org/entity/Q125869859",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ecce%20homo%28Caravaggio%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bild-Ottavio%20Leoni%2C%20Caravaggio.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1289,10 +1342,11 @@
       "source": "http://www.wikidata.org/entity/Q2264942",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Flagellation%20of%20Christ-Caravaggio%20%281607%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bild-Ottavio%20Leoni%2C%20Caravaggio.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1313,10 +1367,11 @@
       "source": "http://www.wikidata.org/entity/Q1448728",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Caravaggio%20-%20The%20Annunciation.JPG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bild-Ottavio%20Leoni%2C%20Caravaggio.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1337,10 +1392,11 @@
       "source": "http://www.wikidata.org/entity/Q626791",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Caravaggio%20-%20Saint%20Jerome%20-%20Montserrat.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bild-Ottavio%20Leoni%2C%20Caravaggio.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1361,10 +1417,11 @@
       "source": "http://www.wikidata.org/entity/Q585437",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Caravaggio%20-%20Boy%20Bitten%20by%20a%20Lizard.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bild-Ottavio%20Leoni%2C%20Caravaggio.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1385,10 +1442,11 @@
       "source": "http://www.wikidata.org/entity/Q2318325",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Salome%20with%20the%20Head%20of%20John%20the%20Baptist-Caravaggio%20%281610%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bild-Ottavio%20Leoni%2C%20Caravaggio.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1409,10 +1467,11 @@
       "source": "http://www.wikidata.org/entity/Q318947",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Caravaggio%20-%20Supper%20at%20Emmaus%20-%20National%20Gallery%20London.jpeg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bild-Ottavio%20Leoni%2C%20Caravaggio.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1433,34 +1492,11 @@
       "source": "http://www.wikidata.org/entity/Q541376",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Caravaggio%20-%20The%20Taking%20of%20Christ%20restored.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bild-Ottavio%20Leoni%2C%20Caravaggio.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q102852946",
-      "title": "The Taking of Christ",
-      "date": "1700",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "caravaggio",
-      "artistName": "Caravaggio",
-      "locationId": "national-gallery-of-ireland-dublin-city",
-      "location": "National Gallery of Ireland",
-      "city": "Dublin City",
-      "country": "Ireland",
-      "lat": 53.34091,
-      "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q102852946",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Caravaggio%20-%20The%20Taking%20of%20Christ%20restored.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q42207",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1481,10 +1517,36 @@
       "source": "http://www.wikidata.org/entity/Q25796776",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Caravaggio%20-%20Taking%20of%20Christ%20-%20Odessa.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bild-Ottavio%20Leoni%2C%20Caravaggio.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q102852946",
+      "title": "The Taking of Christ",
+      "date": "1700",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "caravaggio",
+      "artistName": "Caravaggio",
+      "locationId": "odesa-museum-of-western-and-eastern-art-odesa",
+      "location": "Odesa Museum of Western and Eastern Art",
+      "city": "Odesa",
+      "country": "Ukraine",
+      "lat": 46.4826633,
+      "lon": 30.7432724,
+      "source": "http://www.wikidata.org/entity/Q102852946",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Caravaggio%20-%20The%20Taking%20of%20Christ%20restored.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bild-Ottavio%20Leoni%2C%20Caravaggio.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q42207",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1505,10 +1567,11 @@
       "source": "http://www.wikidata.org/entity/Q2325834",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Caravaggio%20%28Michelangelo%20Merisi%29%20-%20Ecce%20Homo%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bild-Ottavio%20Leoni%2C%20Caravaggio.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1529,10 +1592,11 @@
       "source": "http://www.wikidata.org/entity/Q16596970",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Pope%20Urban%20VIII-Caravaggio%20%28Maffeo%20Barberini%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bild-Ottavio%20Leoni%2C%20Caravaggio.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1553,10 +1617,11 @@
       "source": "http://www.wikidata.org/entity/Q1448701",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/CaravaggioCrowning01.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bild-Ottavio%20Leoni%2C%20Caravaggio.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1577,10 +1642,11 @@
       "source": "http://www.wikidata.org/entity/Q2270291",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Caravaggio%20-%20Natura%20morta%20con%20frutta%20%28collezione%20dell%E2%80%99Ambrosiana%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bild-Ottavio%20Leoni%2C%20Caravaggio.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1601,10 +1667,11 @@
       "source": "http://www.wikidata.org/entity/Q2097931",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Caravaggio%20%E2%80%94%20Supper%20at%20Emmaus.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bild-Ottavio%20Leoni%2C%20Caravaggio.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1625,10 +1692,11 @@
       "source": "http://www.wikidata.org/entity/Q1213151",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Entombment%20of%20Christ-Caravaggio%20%28c.1602-3%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bild-Ottavio%20Leoni%2C%20Caravaggio.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1649,10 +1717,11 @@
       "source": "http://www.wikidata.org/entity/Q2626595",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Seven%20Works%20of%20Mercy-Caravaggio%20%281607%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bild-Ottavio%20Leoni%2C%20Caravaggio.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1673,10 +1742,11 @@
       "source": "http://www.wikidata.org/entity/Q3226847",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sacrifice%20of%20Isaac-Caravaggio%20%28c.%201603%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bild-Ottavio%20Leoni%2C%20Caravaggio.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1697,10 +1767,11 @@
       "source": "http://www.wikidata.org/entity/Q2327715",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Adoration%20of%20the%20Shepherds-Caravaggio%20%281609%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bild-Ottavio%20Leoni%2C%20Caravaggio.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1716,15 +1787,16 @@
       "location": "Regional museum of Messina",
       "city": "Messina",
       "country": "Italy",
-      "lat": 38.2088,
-      "lon": 15.561121,
+      "lat": 38.217346,
+      "lon": 15.565041,
       "source": "http://www.wikidata.org/entity/Q2277635",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Michelangelo%20Caravaggio%20006.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bild-Ottavio%20Leoni%2C%20Caravaggio.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1745,10 +1817,11 @@
       "source": "http://www.wikidata.org/entity/Q2318957",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Salom%C3%A9%20con%20la%20cabeza%20del%20Bautista%20%28Caravaggio%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bild-Ottavio%20Leoni%2C%20Caravaggio.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1769,10 +1842,11 @@
       "source": "http://www.wikidata.org/entity/Q19331941",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Roma%20-%20San%20Luigi%20dei%20Francesi%208289.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bild-Ottavio%20Leoni%2C%20Caravaggio.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1793,10 +1867,11 @@
       "source": "http://www.wikidata.org/entity/Q969377",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Caravaggio%20%E2%80%94%20The%20Calling%20of%20Saint%20Matthew.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bild-Ottavio%20Leoni%2C%20Caravaggio.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1817,10 +1892,11 @@
       "source": "http://www.wikidata.org/entity/Q2337873",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Caravaggio%20-%20La%20inspiraci%C3%B3n%20de%20San%20Mateo%20%28San%20Luigi%20dei%20Francesi%2C%20Roma%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bild-Ottavio%20Leoni%2C%20Caravaggio.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1841,10 +1917,11 @@
       "source": "http://www.wikidata.org/entity/Q2419166",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Caravaggio%20incredulity.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bild-Ottavio%20Leoni%2C%20Caravaggio.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1865,10 +1942,11 @@
       "source": "http://www.wikidata.org/entity/Q1132479",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Burial%20of%20Saint%20Lucy-Caravaggio%20%281608%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bild-Ottavio%20Leoni%2C%20Caravaggio.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1889,10 +1967,11 @@
       "source": "http://www.wikidata.org/entity/Q2273517",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Conversion%20on%20the%20Way%20to%20Damascus-Caravaggio%20%28c.1600-1%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bild-Ottavio%20Leoni%2C%20Caravaggio.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1913,10 +1992,11 @@
       "source": "http://www.wikidata.org/entity/Q685916",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Crucifixion%20of%20Saint%20Peter-Caravaggio%20%28c.1600%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bild-Ottavio%20Leoni%2C%20Caravaggio.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1937,10 +2017,11 @@
       "source": "http://www.wikidata.org/entity/Q26766739",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Annibale%20Carracci%20e%20Caravaggio%2C%20Cappella%20Cerasi.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bild-Ottavio%20Leoni%2C%20Caravaggio.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1961,10 +2042,11 @@
       "source": "http://www.wikidata.org/entity/Q2727560",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20decapitaci%C3%B3n%20de%20San%20Juan%20Bautista%2C%20por%20Caravaggio.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bild-Ottavio%20Leoni%2C%20Caravaggio.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1985,10 +2067,11 @@
       "source": "http://www.wikidata.org/entity/Q104528133",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Caravaggio%20%28Nachfolger%29%20-%20Prophet%20mit%20Buch%20-%20467%20-%20Staatliche%20Kunsthalle%20Karlsruhe.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bild-Ottavio%20Leoni%2C%20Caravaggio.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2009,10 +2092,11 @@
       "source": "http://www.wikidata.org/entity/Q3463877",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Michelangelo%20Merisi%2C%20called%20Caravaggio%20-%20Saint%20John%20the%20Baptist%20in%20the%20Wilderness%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bild-Ottavio%20Leoni%2C%20Caravaggio.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2033,10 +2117,11 @@
       "source": "http://www.wikidata.org/entity/Q2370247",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Michelangelo%20Caravaggio%20020.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bild-Ottavio%20Leoni%2C%20Caravaggio.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2057,10 +2142,11 @@
       "source": "http://www.wikidata.org/entity/Q2627034",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Saint%20Catherine%20of%20Alexandria%20%28Caravaggio%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bild-Ottavio%20Leoni%2C%20Caravaggio.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2081,10 +2167,11 @@
       "source": "http://www.wikidata.org/entity/Q2011510",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Baco%2C%20por%20Caravaggio.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bild-Ottavio%20Leoni%2C%20Caravaggio.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2105,10 +2192,11 @@
       "source": "http://www.wikidata.org/entity/Q2293905",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Caravaggio%20-%20Medusa%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bild-Ottavio%20Leoni%2C%20Caravaggio.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2129,10 +2217,11 @@
       "source": "http://www.wikidata.org/entity/Q2284829",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sacrifice%20of%20Isaac-Caravaggio%20%28Uffizi%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bild-Ottavio%20Leoni%2C%20Caravaggio.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2153,10 +2242,11 @@
       "source": "http://www.wikidata.org/entity/Q1122537",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Caravaggio%20Jupiter%20Neptune%20Pluto.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bild-Ottavio%20Leoni%2C%20Caravaggio.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2177,10 +2267,11 @@
       "source": "http://www.wikidata.org/entity/Q2609235",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Saint%20Francis%20of%20Assisi%20in%20Ecstasy-Caravaggio%20%28c.1595%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bild-Ottavio%20Leoni%2C%20Caravaggio.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2201,10 +2292,11 @@
       "source": "http://www.wikidata.org/entity/Q120035767",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Caravaggio%20%281571-1610%29%20%28after%29%20-%20The%20Calling%20of%20Saints%20Peter%20and%20Andrew%20-%20101.0115%20-%20Weston%20Park.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bild-Ottavio%20Leoni%2C%20Caravaggio.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     }

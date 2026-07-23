@@ -17,10 +17,11 @@
       "source": "http://www.wikidata.org/entity/Q18599333",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Rivera%20-%20Google%20Art%20Project%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171128",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -41,10 +42,11 @@
       "source": "http://www.wikidata.org/entity/Q20274734",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Rivera%20-%20Google%20Art%20Project%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171128",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -65,10 +67,11 @@
       "source": "http://www.wikidata.org/entity/Q20276030",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Rivera%2C%20c.1915%2C%20Portrait%20of%20Marevna%2C%20oil%20on%20canvas%2C%20145.7%20x%20112.7%20cm%2C%20Art%20Institute%20of%20Chicago.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Rivera%20-%20Google%20Art%20Project%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171128",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -89,10 +92,11 @@
       "source": "http://www.wikidata.org/entity/Q20275462",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Rivera%20-%20Google%20Art%20Project%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171128",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -113,10 +117,11 @@
       "source": "http://www.wikidata.org/entity/Q77572701",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Rivera%20-%20Google%20Art%20Project%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171128",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -137,10 +142,11 @@
       "source": "http://www.wikidata.org/entity/Q77490339",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Rivera%20-%20Google%20Art%20Project%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171128",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -161,10 +167,11 @@
       "source": "http://www.wikidata.org/entity/Q46991529",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Rivera%20-%20Google%20Art%20Project%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171128",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -185,10 +192,11 @@
       "source": "http://www.wikidata.org/entity/Q20193626",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Rivera%20-%20Google%20Art%20Project%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171128",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -209,10 +217,11 @@
       "source": "http://www.wikidata.org/entity/Q20191555",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Montserrat%2C%20Diego%20Rivera%2C%201911.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Rivera%20-%20Google%20Art%20Project%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171128",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -233,10 +242,11 @@
       "source": "http://www.wikidata.org/entity/Q20191928",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/No.%209%2C%20Naturaleza%20Muerta%20Espa%C3%B1ola%2C%20Diego%20Rivera%2C%201915.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Rivera%20-%20Google%20Art%20Project%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171128",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -248,19 +258,20 @@
       "attribution": "Accepted",
       "artistId": "diego-rivera",
       "artistName": "Diego Rivera",
-      "locationId": "collection-unknown-primera-seccion-del-bosque-de-chapultepec",
+      "locationId": "collection-unknown-mexico-city",
       "location": "Collection unknown",
-      "city": "Primera Sección del Bosque de Chapultepec",
-      "country": "Country unknown",
+      "city": "Mexico City",
+      "country": "Mexico",
       "lat": 19.42036,
       "lon": -99.18204,
       "source": "http://www.wikidata.org/entity/Q61745465",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Rivera%20-%20Google%20Art%20Project%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171128",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -281,10 +292,11 @@
       "source": "http://www.wikidata.org/entity/Q65019468",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Rivera%20-%20Google%20Art%20Project%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171128",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -305,10 +317,11 @@
       "source": "http://www.wikidata.org/entity/Q103967369",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Azucarera%20y%20velas%2C%20Diego%20Rivera%2C%201915.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Rivera%20-%20Google%20Art%20Project%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171128",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -329,10 +342,11 @@
       "source": "http://www.wikidata.org/entity/Q18612730",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Rivera%20-%20Google%20Art%20Project%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171128",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -353,10 +367,11 @@
       "source": "http://www.wikidata.org/entity/Q5265945",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Detroit%20Institute%20of%20Arts%202025b.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Rivera%20-%20Google%20Art%20Project%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171128",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -377,10 +392,11 @@
       "source": "http://www.wikidata.org/entity/Q64577559",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20M.%20Rivera%20-%20Detroit%20Industry%2C%20South%20Wall%20-%2033.10.S%20-%20Detroit%20Institute%20of%20Arts.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Rivera%20-%20Google%20Art%20Project%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171128",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -401,10 +417,11 @@
       "source": "http://www.wikidata.org/entity/Q64577572",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20M.%20Rivera%20-%20Detroit%20Industry%2C%20West%20Wall%20-%2033.10.W%20-%20Detroit%20Institute%20of%20Arts.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Rivera%20-%20Google%20Art%20Project%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171128",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -425,10 +442,11 @@
       "source": "http://www.wikidata.org/entity/Q64577632",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20M.%20Rivera%20-%20Detroit%20Industry%2C%20East%20Wall%20-%2033.10.E%20-%20Detroit%20Institute%20of%20Arts.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Rivera%20-%20Google%20Art%20Project%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171128",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -449,34 +467,11 @@
       "source": "http://www.wikidata.org/entity/Q64587129",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Rivera%20-%20Google%20Art%20Project%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171128",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q112258424",
-      "title": "Linda Downs Research Collection, 1907-2000",
-      "date": "Date unknown",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "diego-rivera",
-      "artistName": "Diego Rivera",
-      "locationId": "detroit-institute-of-arts-detroit",
-      "location": "Detroit Institute of Arts",
-      "city": "Detroit",
-      "country": "United States",
-      "lat": 42.359444444,
-      "lon": -83.064722222,
-      "source": "http://www.wikidata.org/entity/Q112258424",
-      "image": "",
-      "externalImage": "",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q171128",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -497,10 +492,11 @@
       "source": "http://www.wikidata.org/entity/Q37823171",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Rivera%20-%20Detroit%20Industry%20Murals.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Rivera%20-%20Google%20Art%20Project%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171128",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -521,10 +517,11 @@
       "source": "http://www.wikidata.org/entity/Q64587124",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Rivera%20-%20Google%20Art%20Project%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171128",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -545,10 +542,11 @@
       "source": "http://www.wikidata.org/entity/Q64585400",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Rivera%20-%20Google%20Art%20Project%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171128",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -569,10 +567,11 @@
       "source": "http://www.wikidata.org/entity/Q64576028",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Rivera%20-%20Google%20Art%20Project%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171128",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -593,10 +592,36 @@
       "source": "http://www.wikidata.org/entity/Q64577471",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Rivera%20-%20Google%20Art%20Project%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171128",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q112258424",
+      "title": "Linda Downs Research Collection, 1907-2000",
+      "date": "Date unknown",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "diego-rivera",
+      "artistName": "Diego Rivera",
+      "locationId": "detroit-institute-of-arts-research-library-and-archives-detroit",
+      "location": "Detroit Institute of Arts Research Library & Archives",
+      "city": "Detroit",
+      "country": "United States",
+      "lat": 42.359419444,
+      "lon": -83.064577777,
+      "source": "http://www.wikidata.org/entity/Q112258424",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Rivera%20-%20Google%20Art%20Project%20%28cropped%29.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q171128",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -617,10 +642,11 @@
       "source": "http://www.wikidata.org/entity/Q20201421",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Rivera%20-%20Google%20Art%20Project%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171128",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -641,10 +667,11 @@
       "source": "http://www.wikidata.org/entity/Q20199812",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Rivera%20-%20Google%20Art%20Project%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171128",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -665,10 +692,11 @@
       "source": "http://www.wikidata.org/entity/Q79278384",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Rivera%20-%20Google%20Art%20Project%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171128",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -689,10 +717,11 @@
       "source": "http://www.wikidata.org/entity/Q79329026",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Rivera%20-%20Google%20Art%20Project%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171128",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -713,10 +742,11 @@
       "source": "http://www.wikidata.org/entity/Q21725211",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Naturaleza%20muerta%2C%20Diego%20Rivera%2C%201913.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Rivera%20-%20Google%20Art%20Project%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171128",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -731,16 +761,17 @@
       "locationId": "israel-museum-jerusalem",
       "location": "Israel Museum",
       "city": "Jerusalem",
-      "country": "Israel",
+      "country": "Palestine",
       "lat": 31.7725,
       "lon": 35.204166666,
       "source": "http://www.wikidata.org/entity/Q76628618",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Naturaleza%20muerta%20con%20taza%2C%20Diego%20Rivera%2C%201915.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Rivera%20-%20Google%20Art%20Project%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171128",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -756,15 +787,16 @@
       "location": "Kröller-Müller Museum",
       "city": "Otterlo",
       "country": "Netherlands",
-      "lat": 52.0956046,
-      "lon": 5.8174138,
+      "lat": 52.095833333,
+      "lon": 5.816944444,
       "source": "http://www.wikidata.org/entity/Q24018777",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Naturaleza%20muerta%20con%20botella%20de%20licor%2C%20Diego%20Rivera%2C%201915.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Rivera%20-%20Google%20Art%20Project%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171128",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -785,10 +817,11 @@
       "source": "http://www.wikidata.org/entity/Q20881087",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Rivera%20-%20Google%20Art%20Project%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171128",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -809,10 +842,11 @@
       "source": "http://www.wikidata.org/entity/Q20879920",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Rivera%20-%20Google%20Art%20Project%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171128",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -833,10 +867,11 @@
       "source": "http://www.wikidata.org/entity/Q20879936",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Rivera%20-%20Google%20Art%20Project%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171128",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -857,10 +892,11 @@
       "source": "http://www.wikidata.org/entity/Q20879922",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Rivera%20-%20Google%20Art%20Project%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171128",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -881,10 +917,11 @@
       "source": "http://www.wikidata.org/entity/Q20879916",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Rivera%20-%20Google%20Art%20Project%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171128",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -905,10 +942,11 @@
       "source": "http://www.wikidata.org/entity/Q20881225",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Rivera%20-%20Google%20Art%20Project%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171128",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -929,10 +967,11 @@
       "source": "http://www.wikidata.org/entity/Q20879919",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Rivera%20-%20Google%20Art%20Project%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171128",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -953,10 +992,11 @@
       "source": "http://www.wikidata.org/entity/Q19922336",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20terraza%20del%20caf%C3%A9%2C%20Diego%20Rivera%2C%201915.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Rivera%20-%20Google%20Art%20Project%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171128",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -977,10 +1017,11 @@
       "source": "http://www.wikidata.org/entity/Q20891274",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Rivera%20-%20Google%20Art%20Project%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171128",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1001,10 +1042,11 @@
       "source": "http://www.wikidata.org/entity/Q6135245",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Kid%20-%20Diego%20Rivera.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Rivera%20-%20Google%20Art%20Project%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171128",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1025,10 +1067,11 @@
       "source": "http://www.wikidata.org/entity/Q27667665",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chimenea%2C%20Diego%20Rivera%2C%201913.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Rivera%20-%20Google%20Art%20Project%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171128",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1049,10 +1092,11 @@
       "source": "http://www.wikidata.org/entity/Q27667642",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Le%20bock%2C%20Diego%20Rivera%2C%201917.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Rivera%20-%20Google%20Art%20Project%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171128",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1073,10 +1117,11 @@
       "source": "http://www.wikidata.org/entity/Q27667646",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Rivera%20-%20Google%20Art%20Project%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171128",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1097,10 +1142,11 @@
       "source": "http://www.wikidata.org/entity/Q140578434",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Rivera%20-%20After%20the%20Storm%20%28The%20Grounded%20Ship%29%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Rivera%20-%20Google%20Art%20Project%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171128",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1121,10 +1167,11 @@
       "source": "http://www.wikidata.org/entity/Q17266577",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Montaje%20de%20R%C3%ADo%20Juchit%C3%A1n%20en%20el%20Museo%20Soumaya.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Rivera%20-%20Google%20Art%20Project%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171128",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1145,10 +1192,11 @@
       "source": "http://www.wikidata.org/entity/Q21606628",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ram%C3%B3nG%C3%B3mezdelaSerna.JPG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Rivera%20-%20Google%20Art%20Project%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171128",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1169,10 +1217,11 @@
       "source": "http://www.wikidata.org/entity/Q19884069",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Rivera%20-%20Google%20Art%20Project%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171128",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1188,15 +1237,16 @@
       "location": "Museum of Modern Art",
       "city": "Manhattan",
       "country": "United States",
-      "lat": 40.761444444,
-      "lon": -73.977611111,
+      "lat": 40.761666666,
+      "lon": -73.9775,
       "source": "http://www.wikidata.org/entity/Q19883636",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paisaje%20cubista%2C%20Diego%20Rivera%2C%201912.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Rivera%20-%20Google%20Art%20Project%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171128",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1217,10 +1267,11 @@
       "source": "http://www.wikidata.org/entity/Q19884067",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Rivera%20-%20Google%20Art%20Project%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171128",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1236,15 +1287,16 @@
       "location": "Museum of Modern Art",
       "city": "Manhattan",
       "country": "United States",
-      "lat": 40.761444444,
-      "lon": -73.977611111,
+      "lat": 40.761666666,
+      "lon": -73.9775,
       "source": "http://www.wikidata.org/entity/Q19883738",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Rivera%20-%20Google%20Art%20Project%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171128",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1265,10 +1317,11 @@
       "source": "http://www.wikidata.org/entity/Q27954675",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Composici%C3%B3n%20con%20reloj%2C%20Diego%20Rivera%2C%201914.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Rivera%20-%20Google%20Art%20Project%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171128",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1280,19 +1333,20 @@
       "attribution": "Accepted",
       "artistId": "diego-rivera",
       "artistName": "Diego Rivera",
-      "locationId": "national-palace-cuauhtemoc",
+      "locationId": "national-palace-mexico-city",
       "location": "National Palace",
-      "city": "Cuauhtémoc",
+      "city": "Mexico City",
       "country": "Mexico",
       "lat": 19.4325,
       "lon": -99.131388888,
       "source": "http://www.wikidata.org/entity/Q16685337",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Palacio%20Nacional%20Murals%20view.JPG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Rivera%20-%20Google%20Art%20Project%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171128",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1313,10 +1367,11 @@
       "source": "http://www.wikidata.org/entity/Q107450912",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Rivera%20-%20Google%20Art%20Project%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171128",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1337,10 +1392,11 @@
       "source": "http://www.wikidata.org/entity/Q105530002",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mural.%20El%20hombre%20en%20el%20cruce%20de%20caminos.%20Diego%20rivera%20%281934%29.JPG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Rivera%20-%20Google%20Art%20Project%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171128",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1352,19 +1408,20 @@
       "attribution": "Accepted",
       "artistId": "diego-rivera",
       "artistName": "Diego Rivera",
-      "locationId": "philadelphia-museum-of-art-philadelphia-county",
+      "locationId": "philadelphia-museum-of-art-philadelphia",
       "location": "Philadelphia Museum of Art",
-      "city": "Philadelphia County",
+      "city": "Philadelphia",
       "country": "United States",
       "lat": 39.965833333,
       "lon": -75.181388888,
       "source": "http://www.wikidata.org/entity/Q20816778",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Rivera%20-%20Google%20Art%20Project%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171128",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1385,10 +1442,11 @@
       "source": "http://www.wikidata.org/entity/Q20816779",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Rivera%20-%20Google%20Art%20Project%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171128",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1400,19 +1458,20 @@
       "attribution": "Accepted",
       "artistId": "diego-rivera",
       "artistName": "Diego Rivera",
-      "locationId": "philadelphia-museum-of-art-philadelphia-county",
+      "locationId": "philadelphia-museum-of-art-philadelphia",
       "location": "Philadelphia Museum of Art",
-      "city": "Philadelphia County",
+      "city": "Philadelphia",
       "country": "United States",
       "lat": 39.965833333,
       "lon": -75.181388888,
       "source": "http://www.wikidata.org/entity/Q20816780",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Rivera%20-%20Google%20Art%20Project%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171128",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1424,19 +1483,20 @@
       "attribution": "Accepted",
       "artistId": "diego-rivera",
       "artistName": "Diego Rivera",
-      "locationId": "philadelphia-museum-of-art-philadelphia-county",
+      "locationId": "philadelphia-museum-of-art-philadelphia",
       "location": "Philadelphia Museum of Art",
-      "city": "Philadelphia County",
+      "city": "Philadelphia",
       "country": "United States",
       "lat": 39.965833333,
       "lon": -75.181388888,
       "source": "http://www.wikidata.org/entity/Q20816781",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Rivera%20-%20Google%20Art%20Project%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171128",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1457,10 +1517,11 @@
       "source": "http://www.wikidata.org/entity/Q21512830",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Rivera%20-%20Google%20Art%20Project%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171128",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1481,10 +1542,11 @@
       "source": "http://www.wikidata.org/entity/Q6746081",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Rivera%20-%20Google%20Art%20Project%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171128",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1505,10 +1567,11 @@
       "source": "http://www.wikidata.org/entity/Q78730949",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Naturaleza%20muerta%2C%20Diego%20Rivera%2C%201916.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Rivera%20-%20Google%20Art%20Project%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171128",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1529,10 +1592,11 @@
       "source": "http://www.wikidata.org/entity/Q50320678",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Rivera%20-%20Google%20Art%20Project%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171128",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1553,10 +1617,11 @@
       "source": "http://www.wikidata.org/entity/Q50319460",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Rivera%20-%20Google%20Art%20Project%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171128",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1577,10 +1642,11 @@
       "source": "http://www.wikidata.org/entity/Q50319409",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Rivera%20-%20Google%20Art%20Project%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171128",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1601,10 +1667,11 @@
       "source": "http://www.wikidata.org/entity/Q50316265",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Rivera%20-%20Google%20Art%20Project%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171128",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1625,10 +1692,36 @@
       "source": "http://www.wikidata.org/entity/Q50320755",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Rivera%20-%20Google%20Art%20Project%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171128",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q49859482",
+      "title": "Untitled record",
+      "date": "1947",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "diego-rivera",
+      "artistName": "Diego Rivera",
+      "locationId": "sao-paulo-museum-of-art-sao-paulo",
+      "location": "São Paulo Museum of Art",
+      "city": "São Paulo",
+      "country": "Brazil",
+      "lat": -23.561111111,
+      "lon": -46.655833333,
+      "source": "http://www.wikidata.org/entity/Q49859482",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Rivera%20-%20Google%20Art%20Project%20%28cropped%29.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q171128",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1649,34 +1742,11 @@
       "source": "http://www.wikidata.org/entity/Q49859584",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Rivera%20-%20Google%20Art%20Project%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171128",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q49859482",
-      "title": "Untitled record",
-      "date": "1947",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "diego-rivera",
-      "artistName": "Diego Rivera",
-      "locationId": "sao-paulo-museum-of-art-bela-vista-district",
-      "location": "São Paulo Museum of Art",
-      "city": "Bela Vista District",
-      "country": "Brazil",
-      "lat": -23.561111111,
-      "lon": -46.655833333,
-      "source": "http://www.wikidata.org/entity/Q49859482",
-      "image": "",
-      "externalImage": "",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q171128",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1697,10 +1767,11 @@
       "source": "http://www.wikidata.org/entity/Q20440148",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Rivera%20-%20Google%20Art%20Project%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171128",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1721,10 +1792,11 @@
       "source": "http://www.wikidata.org/entity/Q20421086",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Rivera%20-%20Google%20Art%20Project%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171128",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1745,10 +1817,11 @@
       "source": "http://www.wikidata.org/entity/Q24059918",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Naturaleza%20muerta%20con%20invernadero%2C%20Diego%20Rivera%2C%201917.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Rivera%20-%20Google%20Art%20Project%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171128",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1769,10 +1842,11 @@
       "source": "http://www.wikidata.org/entity/Q24059893",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20mesa%20escasa%2C%20Diego%20Rivera%2C%201917.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Rivera%20-%20Google%20Art%20Project%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171128",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     }

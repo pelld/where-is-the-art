@@ -17,10 +17,11 @@
       "source": "http://www.wikidata.org/entity/Q29477844",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Giorgione%2C%20Portrait%20of%20a%20Young%20Man%202.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Giorgione%20059.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q8459",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -41,10 +42,11 @@
       "source": "http://www.wikidata.org/entity/Q29916352",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Giorgio%20da%20Castelfranco%20Giorgione%20-%20Bildnis%20eines%20Venezianischen%20Senators%20-%207452%20-%20Bavarian%20State%20Painting%20Collections.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Giorgione%20059.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q8459",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -65,10 +67,11 @@
       "source": "http://www.wikidata.org/entity/Q3752977",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Giorgione%20035.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Giorgione%20059.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q8459",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -89,10 +92,11 @@
       "source": "http://www.wikidata.org/entity/Q3605563",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Giorgione%20-%20Adoration%20of%20the%20Shepherds%20-%20National%20Gallery%20of%20Art.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Giorgione%20059.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q8459",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -113,10 +117,11 @@
       "source": "http://www.wikidata.org/entity/Q3766873",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Giorgione%20%28attr.%29%2C%20giovanni%20borgherini%20e%20il%20suo%20tutore.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Giorgione%20059.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q8459",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -137,10 +142,11 @@
       "source": "http://www.wikidata.org/entity/Q3944458",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Giorgione%20-%20Sacra%20Famiglia%20Benson%20%28ca.%201500%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Giorgione%20059.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q8459",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -161,10 +167,11 @@
       "source": "http://www.wikidata.org/entity/Q3998923",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Titian%20-%20The%20Appeal%20-%2026.107%20-%20Detroit%20Institute%20of%20Arts.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Giorgione%20059.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q8459",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -185,10 +192,36 @@
       "source": "http://www.wikidata.org/entity/Q1720631",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Giorgione%20-%20Pala%20di%20Castelfranco.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Giorgione%20059.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q8459",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q17335702",
+      "title": "Woman with a Unicorn",
+      "date": "1510",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "giorgione",
+      "artistName": "Giorgione",
+      "locationId": "fuhrermuseum-linz",
+      "location": "Führermuseum",
+      "city": "Linz",
+      "country": "Austria",
+      "lat": 48.2901,
+      "lon": 14.292,
+      "source": "http://www.wikidata.org/entity/Q17335702",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Anoniem%20-%20Vrouw%20met%20eenhoorn.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Giorgione%20059.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q8459",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -209,10 +242,11 @@
       "source": "http://www.wikidata.org/entity/Q3656454",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Giorgione%2C%20Impassioned%20Singer.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Giorgione%20059.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q8459",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -233,10 +267,11 @@
       "source": "http://www.wikidata.org/entity/Q3977127",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Giorgione%2C%20suonatore%20di%20flauto%202.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Giorgione%20059.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q8459",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -257,10 +292,11 @@
       "source": "http://www.wikidata.org/entity/Q3998112",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Giorgione%2C%20Three%20Ages.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Giorgione%20059.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q8459",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -281,10 +317,11 @@
       "source": "http://www.wikidata.org/entity/Q3879242",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Giorgione%20-%20La%20Nuda%2C%201508%20ca.%2C%201034.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Giorgione%20059.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q8459",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -305,10 +342,11 @@
       "source": "http://www.wikidata.org/entity/Q4009159",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Col%20tempo%20by%20Giorgione.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Giorgione%20059.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q8459",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -329,10 +367,11 @@
       "source": "http://www.wikidata.org/entity/Q930137",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Giorgione%20-%20Das%20Gewitter.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Giorgione%20059.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q8459",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -353,10 +392,11 @@
       "source": "http://www.wikidata.org/entity/Q137594811",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Giorgione%20-%20Sacra%20Conversazione%20-%20WGA21123.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Giorgione%20059.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q8459",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -377,10 +417,11 @@
       "source": "http://www.wikidata.org/entity/Q3937389",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Giorgione%20-%20Portrait%20of%20a%20young%20man%2C%2016th%20century%20-Gem%C3%A4ldegalerie%20Berlin.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Giorgione%20059.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q8459",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -401,10 +442,11 @@
       "source": "http://www.wikidata.org/entity/Q107445912",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Giorgione%20059.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q8459",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -425,10 +467,11 @@
       "source": "http://www.wikidata.org/entity/Q2537695",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Judith%20Holofernes%20Giorgione.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Giorgione%20059.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q8459",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -449,10 +492,11 @@
       "source": "http://www.wikidata.org/entity/Q3842552",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Giorgione%2C%20Virgin%20and%20Child%20in%20a%20Landscape.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Giorgione%20059.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q8459",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -468,15 +512,16 @@
       "location": "Herzog Anton Ulrich Museum",
       "city": "Brunswick",
       "country": "Germany",
-      "lat": 52.26352,
-      "lon": 10.533116,
+      "lat": 52.2635,
+      "lon": 10.533,
       "source": "http://www.wikidata.org/entity/Q2872711",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Self%20portrait%2C%20by%20Giorgio%20da%20Castelfranco.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Giorgione%20059.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q8459",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -496,11 +541,12 @@
       "lon": 16.3616,
       "source": "http://www.wikidata.org/entity/Q595707",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Giorgio%20da%20Castelfranco%2C%20gen.%20Giorgione%2C%20%2C%20Kunsthistorisches%20Museum%20Wien%2C%20Gem%C3%A4ldegalerie%20-%20Bildnis%20einer%20jungen%20Frau%20%28%22Laura%22%29%20-%20GG%2031%20-%20Kunsthistorisches%20Museum.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Giorgione%20043.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Giorgione%20059.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q8459",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -521,10 +567,11 @@
       "source": "http://www.wikidata.org/entity/Q3937417",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Giorgio%20da%20Castelfranco%2C%20gen.%20Giorgione%2C%20Kunsthistorisches%20Museum%20Wien%2C%20Gem%C3%A4ldegalerie%20-%20Krieger%20-%20GG%201526%20-%20Kunsthistorisches%20Museum.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Giorgione%20059.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q8459",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -536,19 +583,20 @@
       "attribution": "Accepted",
       "artistId": "giorgione",
       "artistName": "Giorgione",
-      "locationId": "kunsthistorisches-museum-vienna",
+      "locationId": "kunsthistorisches-museum-innere-stadt",
       "location": "Kunsthistorisches Museum",
-      "city": "Vienna",
+      "city": "Innere Stadt",
       "country": "Austria",
       "lat": 48.203880555,
       "lon": 16.3616,
       "source": "http://www.wikidata.org/entity/Q3937532",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Giorgione%20-%20Bildnis%20des%20Francesco%20Maria%20I.%20della%20Rovere%2C%20um%201502.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Giorgione%20059.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q8459",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -569,10 +617,11 @@
       "source": "http://www.wikidata.org/entity/Q877191",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Giorgione%20-%20Three%20Philosophers%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Giorgione%20059.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q8459",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -584,19 +633,20 @@
       "attribution": "Accepted",
       "artistId": "giorgione",
       "artistName": "Giorgione",
-      "locationId": "kunsthistorisches-museum-vienna",
+      "locationId": "kunsthistorisches-museum-innere-stadt",
       "location": "Kunsthistorisches Museum",
-      "city": "Vienna",
+      "city": "Innere Stadt",
       "country": "Austria",
       "lat": 48.203880555,
       "lon": 16.3616,
       "source": "http://www.wikidata.org/entity/Q3098667",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Giorgio%20da%20Castelfranco%2C%20gen.%20Giorgione%2C%20Kunsthistorisches%20Museum%20Wien%2C%20Gem%C3%A4ldegalerie%20-%20Knabe%20mit%20Pfeil%20-%20GG%20323%20-%20Kunsthistorisches%20Museum.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Giorgione%20059.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q8459",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -617,10 +667,11 @@
       "source": "http://www.wikidata.org/entity/Q3714154",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Giorgione%20100.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Giorgione%20059.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q8459",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -641,10 +692,11 @@
       "source": "http://www.wikidata.org/entity/Q29910306",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Giorgione%20Montagnana.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Giorgione%20059.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q8459",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -665,10 +717,11 @@
       "source": "http://www.wikidata.org/entity/Q3656034",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20a%20Young%20Man%20Giorgione%20-%20Museum%20of%20Fine%20Arts%20-%20Budapest.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Giorgione%20059.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q8459",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -689,10 +742,11 @@
       "source": "http://www.wikidata.org/entity/Q7448169",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Giorgione%20-%20Portrait%20of%20Giorgione%2C%20ca.%201508%2C%2086.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Giorgione%20059.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q8459",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -713,10 +767,11 @@
       "source": "http://www.wikidata.org/entity/Q50881662",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Giorgione%20059.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q8459",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -737,10 +792,11 @@
       "source": "http://www.wikidata.org/entity/Q27968196",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Giorgione%20%28attrib.%29%20-%20Portrait%20of%20An%20Archer.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Giorgione%20059.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q8459",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -761,10 +817,11 @@
       "source": "http://www.wikidata.org/entity/Q3605531",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Giorgione%20-%20Adorazione%20dei%20Magi%20%281506-1507%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Giorgione%20059.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q8459",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -785,10 +842,11 @@
       "source": "http://www.wikidata.org/entity/Q3997388",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Giorgione%20-%20Il%20Tramonto%20%281506-1510%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Giorgione%20059.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q8459",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -809,10 +867,11 @@
       "source": "http://www.wikidata.org/entity/Q26699539",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Navolger%20van%20Giorgione%20-%20Nimfen%20en%20kinderen%20in%20een%20landschap%20met%20herders%20-%20NG1695%20-%20National%20Gallery.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Giorgione%20059.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q8459",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -833,34 +892,11 @@
       "source": "http://www.wikidata.org/entity/Q133503451",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%27Head%20of%20a%20Venetian%20Girl%27%20by%20Giorgione%2C%20Norton%20Simon%20Museum.JPG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Giorgione%20059.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q8459",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q17335702",
-      "title": "Woman with a Unicorn",
-      "date": "1510",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "giorgione",
-      "artistName": "Giorgione",
-      "locationId": "rijksmuseum-amsterdam",
-      "location": "Rijksmuseum",
-      "city": "Amsterdam",
-      "country": "Netherlands",
-      "lat": 52.36,
-      "lon": 4.885277777,
-      "source": "http://www.wikidata.org/entity/Q17335702",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Anoniem%20-%20Vrouw%20met%20eenhoorn.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q8459",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -881,10 +917,11 @@
       "source": "http://www.wikidata.org/entity/Q3937411",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Giorgione%2C%20Portrait%20of%20a%20Man.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Giorgione%20059.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q8459",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -905,10 +942,11 @@
       "source": "http://www.wikidata.org/entity/Q87534049",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/David-Giorgione-02.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Giorgione%20059.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q8459",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -929,10 +967,11 @@
       "source": "http://www.wikidata.org/entity/Q87533881",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Giuditta-Giorgione.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Giorgione%20059.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q8459",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -953,10 +992,11 @@
       "source": "http://www.wikidata.org/entity/Q3697665",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Tiziano%20o%20giorgione%2C%20cristo%20portacroce.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Giorgione%20059.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q8459",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -977,10 +1017,11 @@
       "source": "http://www.wikidata.org/entity/Q500812",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Giorgione%20-%20Sleeping%20Venus%20-%20Google%20Art%20Project%202.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Giorgione%20059.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q8459",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1001,10 +1042,11 @@
       "source": "http://www.wikidata.org/entity/Q20547967",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ubekendt%20italiensk%20KMSsp139%20-%20David%20-%20KMSsp139%20-%20Statens%20Museum%20for%20Kunst.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Giorgione%20059.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q8459",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1025,10 +1067,11 @@
       "source": "http://www.wikidata.org/entity/Q20440585",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Giorgione%20-%20Portrait%20of%20a%20Young%20Man%20-%20KMS553%20-%20Statens%20Museum%20for%20Kunst.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Giorgione%20059.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q8459",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1049,10 +1092,11 @@
       "source": "http://www.wikidata.org/entity/Q23946108",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Giorgione%20%28attributed%20to%29%20-%20The%20Hour%20Glass%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Giorgione%20059.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q8459",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1073,10 +1117,11 @@
       "source": "http://www.wikidata.org/entity/Q3937736",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Giorgione%2C%20Portrait%20of%20Warrior%20with%20his%20Equerry.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Giorgione%20059.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q8459",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1097,10 +1142,11 @@
       "source": "http://www.wikidata.org/entity/Q2452374",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Giorgione%2C%20giudizio%20di%20salomone.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Giorgione%20059.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q8459",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1121,10 +1167,11 @@
       "source": "http://www.wikidata.org/entity/Q3924389",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Giorgione%20-%20Mos%C3%A8%20alla%20prova%20del%20fuoco%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Giorgione%20059.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q8459",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     }

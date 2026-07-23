@@ -17,7 +17,9 @@
       "country": "Hungary",
       "lat": 47.4859,
       "lon": 19.06448,
-      "source": "http://www.wikidata.org/entity/Q116961974"
+      "source": "http://www.wikidata.org/entity/Q116961974",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20d.%C3%84.%20-%20Das%20Martyrium%20der%20heiligen%20Katarina%20%28R%C3%A1day%20Library%2C%20Budapest%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20d.%20%C3%84.%20063.jpg"
     },
     {
       "id": "Q22674873",
@@ -34,7 +36,66 @@
       "country": "Hungary",
       "lat": 47.4962283,
       "lon": 19.0397733,
-      "source": "http://www.wikidata.org/entity/Q22674873"
+      "source": "http://www.wikidata.org/entity/Q22674873",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Pissarro%20-%20The%20Pont-Neuf%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg"
+    },
+    {
+      "id": "Q50414871",
+      "artistId": "monet",
+      "artistName": "Claude Monet",
+      "reviewStatus": "generated",
+      "title": "Breakwater at Trouville, Low Tide",
+      "date": "1870",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "hungarian-national-gallery-budapest-district-i",
+      "location": "Hungarian National Gallery",
+      "city": "Budapest District I",
+      "country": "Hungary",
+      "lat": 47.4962283,
+      "lon": 19.0397733,
+      "source": "http://www.wikidata.org/entity/Q50414871",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%20-%20Entr%C3%A9e%20du%20port%20de%20Trouville.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%201899%20Nadar%20crop.jpg"
+    },
+    {
+      "id": "Q28777011",
+      "artistId": "monet",
+      "artistName": "Claude Monet",
+      "reviewStatus": "generated",
+      "title": "Flowering Plum Trees",
+      "date": "1879",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "hungarian-national-gallery-budapest-district-i",
+      "location": "Hungarian National Gallery",
+      "city": "Budapest District I",
+      "country": "Hungary",
+      "lat": 47.4962283,
+      "lon": 19.0397733,
+      "source": "http://www.wikidata.org/entity/Q28777011",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%20-%20Flowering%20Plum%20Trees%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%201899%20Nadar%20crop.jpg"
+    },
+    {
+      "id": "Q22205318",
+      "artistId": "monet",
+      "artistName": "Claude Monet",
+      "reviewStatus": "generated",
+      "title": "Three Fishing Boats",
+      "date": "1886",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "hungarian-national-gallery-budapest-district-i",
+      "location": "Hungarian National Gallery",
+      "city": "Budapest District I",
+      "country": "Hungary",
+      "lat": 47.4962283,
+      "lon": 19.0397733,
+      "source": "http://www.wikidata.org/entity/Q22205318",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%20-%20Three%20Fishing%20Boats%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%201899%20Nadar%20crop.jpg"
     },
     {
       "id": "Q28777943",
@@ -51,7 +112,28 @@
       "country": "Hungary",
       "lat": 47.4962283,
       "lon": 19.0397733,
-      "source": "http://www.wikidata.org/entity/Q28777943"
+      "source": "http://www.wikidata.org/entity/Q28777943",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Edouard%20Manet%20-%20Woman%20with%20a%20Fan%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Manet%2C%20en%20buste%2C%20de%20face%20-%20Nadar.jpg"
+    },
+    {
+      "id": "Q50990227",
+      "artistId": "eugene-delacroix",
+      "artistName": "Eugène Delacroix",
+      "reviewStatus": "generated",
+      "title": "An Arab Saddling his Horse",
+      "date": "1857",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "hungarian-national-gallery-budapest-district-i",
+      "location": "Hungarian National Gallery",
+      "city": "Budapest District I",
+      "country": "Hungary",
+      "lat": 47.4962283,
+      "lon": 19.0397733,
+      "source": "http://www.wikidata.org/entity/Q50990227",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Eug%C3%A8ne%20Ferdinand%20Victor%20Delacroix%20008.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Autoportrait%20-%20Eug%C3%A8ne%20Delacroix%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20RF%2025.jpg"
     },
     {
       "id": "Q50950577",
@@ -68,7 +150,9 @@
       "country": "Hungary",
       "lat": 47.4962283,
       "lon": 19.0397733,
-      "source": "http://www.wikidata.org/entity/Q50950577"
+      "source": "http://www.wikidata.org/entity/Q50950577",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustave%20Courbet%20-%20Le%20C%C3%A8dre%20d%27Hauteville%20%281868%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustave%20Courbet%2C%20photograph%20Atelier%20Nadar%2C%20c.%201860s.jpg"
     },
     {
       "id": "Q50939192",
@@ -85,7 +169,9 @@
       "country": "Hungary",
       "lat": 47.4962283,
       "lon": 19.0397733,
-      "source": "http://www.wikidata.org/entity/Q50939192"
+      "source": "http://www.wikidata.org/entity/Q50939192",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustave%20Courbet%20022.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustave%20Courbet%2C%20photograph%20Atelier%20Nadar%2C%20c.%201860s.jpg"
     },
     {
       "id": "Q111911576",
@@ -102,7 +188,9 @@
       "country": "Hungary",
       "lat": 47.4962283,
       "lon": 19.0397733,
-      "source": "http://www.wikidata.org/entity/Q111911576"
+      "source": "http://www.wikidata.org/entity/Q111911576",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Budapest%20courbet.JPG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustave%20Courbet%2C%20photograph%20Atelier%20Nadar%2C%20c.%201860s.jpg"
     },
     {
       "id": "Q50889989",
@@ -119,7 +207,9 @@
       "country": "Hungary",
       "lat": 47.4962283,
       "lon": 19.0397733,
-      "source": "http://www.wikidata.org/entity/Q50889989"
+      "source": "http://www.wikidata.org/entity/Q50889989",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Spring%20in%20Fouras%20Gustave%20Courbet.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustave%20Courbet%2C%20photograph%20Atelier%20Nadar%2C%20c.%201860s.jpg"
     },
     {
       "id": "Q18578012",
@@ -136,7 +226,9 @@
       "country": "Hungary",
       "lat": 47.4962283,
       "lon": 19.0397733,
-      "source": "http://www.wikidata.org/entity/Q18578012"
+      "source": "http://www.wikidata.org/entity/Q18578012",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustave%20Courbet%20-%20The%20Wrestlers%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustave%20Courbet%2C%20photograph%20Atelier%20Nadar%2C%20c.%201860s.jpg"
     },
     {
       "id": "Q28797767",
@@ -153,7 +245,9 @@
       "country": "Hungary",
       "lat": 47.4962283,
       "lon": 19.0397733,
-      "source": "http://www.wikidata.org/entity/Q28797767"
+      "source": "http://www.wikidata.org/entity/Q28797767",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20de%20Toulouse-Lautrec%20-%20The%20Ladies%20in%20the%20Dining%20Room%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Photolautrec.jpg"
     },
     {
       "id": "Q18177690",
@@ -170,7 +264,9 @@
       "country": "Hungary",
       "lat": 47.4962283,
       "lon": 19.0397733,
-      "source": "http://www.wikidata.org/entity/Q18177690"
+      "source": "http://www.wikidata.org/entity/Q18177690",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste-Camille%20Corot%20007.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste-Camille%20Corot%20c1850.png"
     },
     {
       "id": "Q18177691",
@@ -187,7 +283,9 @@
       "country": "Hungary",
       "lat": 47.4962283,
       "lon": 19.0397733,
-      "source": "http://www.wikidata.org/entity/Q18177691"
+      "source": "http://www.wikidata.org/entity/Q18177691",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Woman%20with%20daisies%20Camille%20Corot.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste-Camille%20Corot%20c1850.png"
     },
     {
       "id": "Q18177689",
@@ -204,7 +302,9 @@
       "country": "Hungary",
       "lat": 47.4962283,
       "lon": 19.0397733,
-      "source": "http://www.wikidata.org/entity/Q18177689"
+      "source": "http://www.wikidata.org/entity/Q18177689",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Souvenir%20de%20Coubron%20Camille%20Corot.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste-Camille%20Corot%20c1850.png"
     },
     {
       "id": "Q50951045",
@@ -221,7 +321,9 @@
       "country": "Hungary",
       "lat": 47.4962283,
       "lon": 19.0397733,
-      "source": "http://www.wikidata.org/entity/Q50951045"
+      "source": "http://www.wikidata.org/entity/Q50951045",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-FrancoisMillet%28Nadar%29.jpg"
     },
     {
       "id": "Q50939023",
@@ -238,7 +340,28 @@
       "country": "Hungary",
       "lat": 47.4962283,
       "lon": 19.0397733,
-      "source": "http://www.wikidata.org/entity/Q50939023"
+      "source": "http://www.wikidata.org/entity/Q50939023",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Shagal%20Choumoff.jpg"
+    },
+    {
+      "id": "Q28797022",
+      "artistId": "paul-cezanne",
+      "artistName": "Paul Cézanne",
+      "reviewStatus": "generated",
+      "title": "The Buffet",
+      "date": "1877",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "hungarian-national-gallery-budapest-district-i",
+      "location": "Hungarian National Gallery",
+      "city": "Budapest District I",
+      "country": "Hungary",
+      "lat": 47.4962283,
+      "lon": 19.0397733,
+      "source": "http://www.wikidata.org/entity/Q28797022",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20C%C3%A9zanne%20-%20The%20Buffet%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul-Cezanne.jpg"
     },
     {
       "id": "Q19869150",
@@ -255,7 +378,9 @@
       "country": "Hungary",
       "lat": 47.4962283,
       "lon": 19.0397733,
-      "source": "http://www.wikidata.org/entity/Q19869150"
+      "source": "http://www.wikidata.org/entity/Q19869150",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Winter%20landscape%20Paul%20Gauguin.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Gauguin%201891.png"
     },
     {
       "id": "Q28796011",
@@ -272,7 +397,9 @@
       "country": "Hungary",
       "lat": 47.4962283,
       "lon": 19.0397733,
-      "source": "http://www.wikidata.org/entity/Q28796011"
+      "source": "http://www.wikidata.org/entity/Q28796011",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Gauguin%20-%20The%20Black%20Pigs%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Gauguin%201891.png"
     },
     {
       "id": "Q50915097",
@@ -289,7 +416,9 @@
       "country": "Hungary",
       "lat": 47.4962283,
       "lon": 19.0397733,
-      "source": "http://www.wikidata.org/entity/Q50915097"
+      "source": "http://www.wikidata.org/entity/Q50915097",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Self-portrait-1889.jpg"
     },
     {
       "id": "Q50887823",
@@ -306,7 +435,9 @@
       "country": "Hungary",
       "lat": 47.4962283,
       "lon": 19.0397733,
-      "source": "http://www.wikidata.org/entity/Q50887823"
+      "source": "http://www.wikidata.org/entity/Q50887823",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre%20Bonnard%20-%20Grandmother%20with%20a%20Child%20-.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Self-portrait-1889.jpg"
     },
     {
       "id": "Q131543221",
@@ -323,7 +454,9 @@
       "country": "Hungary",
       "lat": 47.500833,
       "lon": 19.053889,
-      "source": "http://www.wikidata.org/entity/Q131543221"
+      "source": "http://www.wikidata.org/entity/Q131543221",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Perez%20Murillo%20-%20The%20Holy%20Family%20-%20WGA16371.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg"
     },
     {
       "id": "Q114729412",
@@ -340,7 +473,9 @@
       "country": "Hungary",
       "lat": 46.3561,
       "lon": 17.7912,
-      "source": "http://www.wikidata.org/entity/Q114729412"
+      "source": "http://www.wikidata.org/entity/Q114729412",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Edouard%20Vuillard%20French%20Girl%20c.%201898.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Self-Portrait%2C%20Aged%2021%20A21192.jpg"
     },
     {
       "id": "Q50933729",
@@ -357,7 +492,9 @@
       "country": "Hungary",
       "lat": 47.51587,
       "lon": 19.07678,
-      "source": "http://www.wikidata.org/entity/Q50933729"
+      "source": "http://www.wikidata.org/entity/Q50933729",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Anthony%20van%20Dyck%20-%20Mirtillo%20Crowning%20Amarillis%20214562.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Anthony%20van%20Dyck%20-%20Self-portrait.jpg"
     },
     {
       "id": "Q50908818",
@@ -374,7 +511,9 @@
       "country": "Hungary",
       "lat": 47.51587,
       "lon": 19.07678,
-      "source": "http://www.wikidata.org/entity/Q50908818"
+      "source": "http://www.wikidata.org/entity/Q50908818",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Anthony%20van%20Dyck%20-%20Self-portrait.jpg"
     },
     {
       "id": "Q50944832",
@@ -391,7 +530,9 @@
       "country": "Hungary",
       "lat": 47.51587,
       "lon": 19.07678,
-      "source": "http://www.wikidata.org/entity/Q50944832"
+      "source": "http://www.wikidata.org/entity/Q50944832",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Anthony%20van%20Dyck%20%28attributed%20to%29%20-%20Portrait%20of%20a%20Man%2C%20ca.%201617%E2%80%931620.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Anthony%20van%20Dyck%20-%20Self-portrait.jpg"
     },
     {
       "id": "Q50905936",
@@ -408,7 +549,9 @@
       "country": "Hungary",
       "lat": 47.51587,
       "lon": 19.07678,
-      "source": "http://www.wikidata.org/entity/Q50905936"
+      "source": "http://www.wikidata.org/entity/Q50905936",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Anthony%20van%20Dyck%20-%20Portrait%20of%20a%20Married%20Couple%20-%20WGA07410.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Anthony%20van%20Dyck%20-%20Self-portrait.jpg"
     },
     {
       "id": "Q50949083",
@@ -425,7 +568,9 @@
       "country": "Hungary",
       "lat": 47.51587,
       "lon": 19.07678,
-      "source": "http://www.wikidata.org/entity/Q50949083"
+      "source": "http://www.wikidata.org/entity/Q50949083",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Anthony%20van%20Dyck%20-%20Self-portrait.jpg"
     },
     {
       "id": "Q50975220",
@@ -442,7 +587,9 @@
       "country": "Hungary",
       "lat": 47.51587,
       "lon": 19.07678,
-      "source": "http://www.wikidata.org/entity/Q50975220"
+      "source": "http://www.wikidata.org/entity/Q50975220",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Anthony%20van%20Dyck%20-%20Self-portrait.jpg"
     },
     {
       "id": "Q50944360",
@@ -459,7 +606,9 @@
       "country": "Hungary",
       "lat": 47.51587,
       "lon": 19.07678,
-      "source": "http://www.wikidata.org/entity/Q50944360"
+      "source": "http://www.wikidata.org/entity/Q50944360",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Van%20Dyck%20-%20Saint%20John%20the%20Evangelist%2C%20ca.%201618%E2%80%931620.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Anthony%20van%20Dyck%20-%20Self-portrait.jpg"
     },
     {
       "id": "Q50892579",
@@ -476,7 +625,9 @@
       "country": "Hungary",
       "lat": 47.51587,
       "lon": 19.07678,
-      "source": "http://www.wikidata.org/entity/Q50892579"
+      "source": "http://www.wikidata.org/entity/Q50892579",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Anthony%20van%20Dyck%20-%20Self-portrait.jpg"
     },
     {
       "id": "Q3762348",
@@ -493,7 +644,9 @@
       "country": "Hungary",
       "lat": 47.51587,
       "lon": 19.07678,
-      "source": "http://www.wikidata.org/entity/Q3762348"
+      "source": "http://www.wikidata.org/entity/Q3762348",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Giaele%20e%20Sisara%20%28ca.1620%29%20-%20Artemisia%20Gentileschi%20%28Museum%20of%20Fine%20Arts%2C%20Budapest%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Artemisia%20Gentileschi%20Selfportrait%20Martyr.jpg"
     },
     {
       "id": "Q29023889",
@@ -510,7 +663,9 @@
       "country": "Hungary",
       "lat": 47.51587,
       "lon": 19.07678,
-      "source": "http://www.wikidata.org/entity/Q29023889"
+      "source": "http://www.wikidata.org/entity/Q29023889",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Salome%20with%20the%20Head%20of%20Saint%20John%20the%20Baptist%20by%20Artemisia%20Gentileschi%20ca.%201610-1615.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Artemisia%20Gentileschi%20Selfportrait%20Martyr.jpg"
     },
     {
       "id": "Q9396638",
@@ -527,7 +682,9 @@
       "country": "Hungary",
       "lat": 47.51587,
       "lon": 19.07678,
-      "source": "http://www.wikidata.org/entity/Q9396638"
+      "source": "http://www.wikidata.org/entity/Q9396638",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Perez%20Murillo%20007.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg"
     },
     {
       "id": "Q131543207",
@@ -544,7 +701,9 @@
       "country": "Hungary",
       "lat": 47.51587,
       "lon": 19.07678,
-      "source": "http://www.wikidata.org/entity/Q131543207"
+      "source": "http://www.wikidata.org/entity/Q131543207",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Perez%20Murillo%20-%20Mary%20and%20Child%20with%20Angels%20Playing%20Music%20-%20WGA16395.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg"
     },
     {
       "id": "Q50986818",
@@ -561,7 +720,9 @@
       "country": "Hungary",
       "lat": 47.51587,
       "lon": 19.07678,
-      "source": "http://www.wikidata.org/entity/Q50986818"
+      "source": "http://www.wikidata.org/entity/Q50986818",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg"
     },
     {
       "id": "Q50881602",
@@ -578,7 +739,9 @@
       "country": "Hungary",
       "lat": 47.51587,
       "lon": 19.07678,
-      "source": "http://www.wikidata.org/entity/Q50881602"
+      "source": "http://www.wikidata.org/entity/Q50881602",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20huida%20a%20Egipto%2C%20Sz%C3%A9pm%C5%B1v%C3%A9szeti%20M%C3%BAzeum%20%28Budapest%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg"
     },
     {
       "id": "Q9248340",
@@ -595,7 +758,9 @@
       "country": "Hungary",
       "lat": 47.51587,
       "lon": 19.07678,
-      "source": "http://www.wikidata.org/entity/Q9248340"
+      "source": "http://www.wikidata.org/entity/Q9248340",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Perez%20Murillo%20001.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg"
     },
     {
       "id": "Q50908924",
@@ -612,7 +777,9 @@
       "country": "Hungary",
       "lat": 47.51587,
       "lon": 19.07678,
-      "source": "http://www.wikidata.org/entity/Q50908924"
+      "source": "http://www.wikidata.org/entity/Q50908924",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg"
     },
     {
       "id": "Q21285221",
@@ -629,41 +796,9 @@
       "country": "Hungary",
       "lat": 47.51587,
       "lon": 19.07678,
-      "source": "http://www.wikidata.org/entity/Q21285221"
-    },
-    {
-      "id": "Q28777011",
-      "artistId": "monet",
-      "artistName": "Claude Monet",
-      "reviewStatus": "generated",
-      "title": "Flowering Plum Trees",
-      "date": "1879",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "museum-of-fine-arts-budapest-zuglo",
-      "location": "Museum of Fine Arts, Budapest",
-      "city": "Zugló",
-      "country": "Hungary",
-      "lat": 47.51587,
-      "lon": 19.07678,
-      "source": "http://www.wikidata.org/entity/Q28777011"
-    },
-    {
-      "id": "Q22205318",
-      "artistId": "monet",
-      "artistName": "Claude Monet",
-      "reviewStatus": "generated",
-      "title": "Three Fishing Boats",
-      "date": "1886",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "museum-of-fine-arts-budapest-zuglo",
-      "location": "Museum of Fine Arts, Budapest",
-      "city": "Zugló",
-      "country": "Hungary",
-      "lat": 47.51587,
-      "lon": 19.07678,
-      "source": "http://www.wikidata.org/entity/Q22205318"
+      "source": "http://www.wikidata.org/entity/Q21285221",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20Varenne%20Saint%20Hilaire%20%28Camille%20Pissarro%29%2C%20Museum%20of%20Fine%20Arts%2C%20Budapest%20%E2%80%93%20377.B.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg"
     },
     {
       "id": "Q50984578",
@@ -680,7 +815,9 @@
       "country": "Hungary",
       "lat": 47.51587,
       "lon": 19.07678,
-      "source": "http://www.wikidata.org/entity/Q50984578"
+      "source": "http://www.wikidata.org/entity/Q50984578",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Antonio%20Allegri%20da%20Correggio.jpg"
     },
     {
       "id": "Q50949349",
@@ -697,7 +834,9 @@
       "country": "Hungary",
       "lat": 47.51587,
       "lon": 19.07678,
-      "source": "http://www.wikidata.org/entity/Q50949349"
+      "source": "http://www.wikidata.org/entity/Q50949349",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Antonio%20Allegri%20da%20Correggio.jpg"
     },
     {
       "id": "Q3842618",
@@ -705,7 +844,7 @@
       "artistName": "Correggio",
       "reviewStatus": "generated",
       "title": "Virgin and Child with an Angel (Madonna del Latte)",
-      "date": "1523",
+      "date": "1524",
       "type": "Painting",
       "attribution": "Accepted",
       "locationId": "museum-of-fine-arts-budapest-zuglo",
@@ -714,7 +853,9 @@
       "country": "Hungary",
       "lat": 47.51587,
       "lon": 19.07678,
-      "source": "http://www.wikidata.org/entity/Q3842618"
+      "source": "http://www.wikidata.org/entity/Q3842618",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Correggio%20-%20Nursing%20Madonna.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Antonio%20Allegri%20da%20Correggio.jpg"
     },
     {
       "id": "Q3500414",
@@ -731,7 +872,9 @@
       "country": "Hungary",
       "lat": 47.51587,
       "lon": 19.07678,
-      "source": "http://www.wikidata.org/entity/Q3500414"
+      "source": "http://www.wikidata.org/entity/Q3500414",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Vel%C3%A1zquez%20005.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Vel%C3%A1zquez%20Autorretrato%2045%20x%2038%20cm%20-%20Colecci%C3%B3n%20Real%20Academia%20de%20Bellas%20Artes%20de%20San%20Carlos%20-%20Museo%20de%20Bellas%20Artes%20de%20Valencia.jpg"
     },
     {
       "id": "Q102046466",
@@ -748,7 +891,9 @@
       "country": "Hungary",
       "lat": 47.51587,
       "lon": 19.07678,
-      "source": "http://www.wikidata.org/entity/Q102046466"
+      "source": "http://www.wikidata.org/entity/Q102046466",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Budapest%20kunst%200026.tif",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Greco%20-%20Portrait%20of%20a%20Man%20-%20WGA10554.jpg"
     },
     {
       "id": "Q16621875",
@@ -765,7 +910,9 @@
       "country": "Hungary",
       "lat": 47.51587,
       "lon": 19.07678,
-      "source": "http://www.wikidata.org/entity/Q16621875"
+      "source": "http://www.wikidata.org/entity/Q16621875",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Greco%20-%20Portrait%20of%20a%20young%20man%2C%20traditionally%20identified%20as%20Saint%20Aloysius%20%28Luigi%29%20Gonzaga%20%281568-1591%29%2C%20half-length%2C%20with%20a%20book%2C%20lot-6377922.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Greco%20-%20Portrait%20of%20a%20Man%20-%20WGA10554.jpg"
     },
     {
       "id": "Q9347431",
@@ -782,7 +929,9 @@
       "country": "Hungary",
       "lat": 47.51587,
       "lon": 19.07678,
-      "source": "http://www.wikidata.org/entity/Q9347431"
+      "source": "http://www.wikidata.org/entity/Q9347431",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Greco%20-%20Saint%20James%20the%20Younger%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Greco%20-%20Portrait%20of%20a%20Man%20-%20WGA10554.jpg"
     },
     {
       "id": "Q50984848",
@@ -799,7 +948,9 @@
       "country": "Hungary",
       "lat": 47.51587,
       "lon": 19.07678,
-      "source": "http://www.wikidata.org/entity/Q50984848"
+      "source": "http://www.wikidata.org/entity/Q50984848",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Agony%20in%20the%20garden%20El%20Greco.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Greco%20-%20Portrait%20of%20a%20Man%20-%20WGA10554.jpg"
     },
     {
       "id": "Q16620523",
@@ -816,7 +967,9 @@
       "country": "Hungary",
       "lat": 47.51587,
       "lon": 19.07678,
-      "source": "http://www.wikidata.org/entity/Q16620523"
+      "source": "http://www.wikidata.org/entity/Q16620523",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Greco%20-%20The%20Annunciation%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Greco%20-%20Portrait%20of%20a%20Man%20-%20WGA10554.jpg"
     },
     {
       "id": "Q50900161",
@@ -833,7 +986,9 @@
       "country": "Hungary",
       "lat": 47.51587,
       "lon": 19.07678,
-      "source": "http://www.wikidata.org/entity/Q50900161"
+      "source": "http://www.wikidata.org/entity/Q50900161",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Greco%20-%20Apostle%20St%20Andrew%20-%20WGA10610.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Greco%20-%20Portrait%20of%20a%20Man%20-%20WGA10554.jpg"
     },
     {
       "id": "Q66310134",
@@ -850,7 +1005,9 @@
       "country": "Hungary",
       "lat": 47.51587,
       "lon": 19.07678,
-      "source": "http://www.wikidata.org/entity/Q66310134"
+      "source": "http://www.wikidata.org/entity/Q66310134",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Greco%20-%20The%20Disrobing%20of%20Christ%20-%20WGA10545.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Greco%20-%20Portrait%20of%20a%20Man%20-%20WGA10554.jpg"
     },
     {
       "id": "Q9026835",
@@ -867,7 +1024,9 @@
       "country": "Hungary",
       "lat": 47.51587,
       "lon": 19.07678,
-      "source": "http://www.wikidata.org/entity/Q9026835"
+      "source": "http://www.wikidata.org/entity/Q9026835",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Greco%20-%20The%20Penitent%20Magdalene%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Greco%20-%20Portrait%20of%20a%20Man%20-%20WGA10554.jpg"
     },
     {
       "id": "Q50944531",
@@ -884,24 +1043,9 @@
       "country": "Hungary",
       "lat": 47.51587,
       "lon": 19.07678,
-      "source": "http://www.wikidata.org/entity/Q50944531"
-    },
-    {
-      "id": "Q50990227",
-      "artistId": "eugene-delacroix",
-      "artistName": "Eugène Delacroix",
-      "reviewStatus": "generated",
-      "title": "An Arab Saddling his Horse",
-      "date": "1857",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "museum-of-fine-arts-budapest-zuglo",
-      "location": "Museum of Fine Arts, Budapest",
-      "city": "Zugló",
-      "country": "Hungary",
-      "lat": 47.51587,
-      "lon": 19.07678,
-      "source": "http://www.wikidata.org/entity/Q50990227"
+      "source": "http://www.wikidata.org/entity/Q50944531",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Autoportrait%20-%20Eug%C3%A8ne%20Delacroix%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20RF%2025.jpg"
     },
     {
       "id": "Q28782387",
@@ -918,7 +1062,9 @@
       "country": "Hungary",
       "lat": 47.51587,
       "lon": 19.07678,
-      "source": "http://www.wikidata.org/entity/Q28782387"
+      "source": "http://www.wikidata.org/entity/Q28782387",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Eugene%20Delacroix%20-%20Horse%20Frightened%20by%20Lightning%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Autoportrait%20-%20Eug%C3%A8ne%20Delacroix%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20RF%2025.jpg"
     },
     {
       "id": "Q28797722",
@@ -935,7 +1081,9 @@
       "country": "Hungary",
       "lat": 47.51587,
       "lon": 19.07678,
-      "source": "http://www.wikidata.org/entity/Q28797722"
+      "source": "http://www.wikidata.org/entity/Q28797722",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Fra%20Angelico%20-%20Scenes%20from%20the%20Lives%20of%20the%20Desert%20Fathers%20%28Thebaid%29%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Fra%20Angelico%20portrait.jpg"
     },
     {
       "id": "Q5403305",
@@ -952,7 +1100,9 @@
       "country": "Hungary",
       "lat": 47.51587,
       "lon": 19.07678,
-      "source": "http://www.wikidata.org/entity/Q5403305"
+      "source": "http://www.wikidata.org/entity/Q5403305",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Francisco%20de%20Zurbar%C3%A1n%20033.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Francisco%20de%20Zurbar%C3%A1n%20autoportrait.jpg"
     },
     {
       "id": "Q50907377",
@@ -969,7 +1119,9 @@
       "country": "Hungary",
       "lat": 47.51587,
       "lon": 19.07678,
-      "source": "http://www.wikidata.org/entity/Q50907377"
+      "source": "http://www.wikidata.org/entity/Q50907377",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Descanso%20en%20la%20huida%20a%20Egipto%20%28Zurbar%C3%A1n%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Francisco%20de%20Zurbar%C3%A1n%20autoportrait.jpg"
     },
     {
       "id": "Q50988413",
@@ -986,7 +1138,9 @@
       "country": "Hungary",
       "lat": 47.51587,
       "lon": 19.07678,
-      "source": "http://www.wikidata.org/entity/Q50988413"
+      "source": "http://www.wikidata.org/entity/Q50988413",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Francisco%20de%20Zurbar%C3%A1n%20-%20The%20Immaculate%20Conception%20-%20WGA26071.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Francisco%20de%20Zurbar%C3%A1n%20autoportrait.jpg"
     },
     {
       "id": "Q135455440",
@@ -1003,7 +1157,9 @@
       "country": "Hungary",
       "lat": 47.51587,
       "lon": 19.07678,
-      "source": "http://www.wikidata.org/entity/Q135455440"
+      "source": "http://www.wikidata.org/entity/Q135455440",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Budapest%20kunst%200028.tif",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Francisco%20de%20Zurbar%C3%A1n%20autoportrait.jpg"
     },
     {
       "id": "Q50981111",
@@ -1020,7 +1176,9 @@
       "country": "Hungary",
       "lat": 47.51587,
       "lon": 19.07678,
-      "source": "http://www.wikidata.org/entity/Q50981111"
+      "source": "http://www.wikidata.org/entity/Q50981111",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Episode%20in%20the%20Spanish%20War%20of%20Independence%2C%20Francisco%20de%20Goya.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Vicente%20L%C3%B3pez%20Porta%C3%B1a%20-%20el%20pintor%20Francisco%20de%20Goya.jpg"
     },
     {
       "id": "Q50912187",
@@ -1037,7 +1195,9 @@
       "country": "Hungary",
       "lat": 47.51587,
       "lon": 19.07678,
-      "source": "http://www.wikidata.org/entity/Q50912187"
+      "source": "http://www.wikidata.org/entity/Q50912187",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Retrato%20de%20Jos%C3%A9%20Antonio%20Marqu%C3%A9s%20Caballero.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Vicente%20L%C3%B3pez%20Porta%C3%B1a%20-%20el%20pintor%20Francisco%20de%20Goya.jpg"
     },
     {
       "id": "Q11824930",
@@ -1045,7 +1205,7 @@
       "artistName": "Francisco Goya",
       "reviewStatus": "generated",
       "title": "Portrait of Senora Ceán Bermudez",
-      "date": "1785",
+      "date": "1792",
       "type": "Painting",
       "attribution": "Accepted",
       "locationId": "museum-of-fine-arts-budapest-zuglo",
@@ -1054,7 +1214,9 @@
       "country": "Hungary",
       "lat": 47.51587,
       "lon": 19.07678,
-      "source": "http://www.wikidata.org/entity/Q11824930"
+      "source": "http://www.wikidata.org/entity/Q11824930",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Francisco%20de%20Goya%20y%20Lucientes%20-%20Portrait%20of%20Senora%20Ce%C3%A1n%20Bermudez%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Vicente%20L%C3%B3pez%20Porta%C3%B1a%20-%20el%20pintor%20Francisco%20de%20Goya.jpg"
     },
     {
       "id": "Q4402545",
@@ -1071,7 +1233,9 @@
       "country": "Hungary",
       "lat": 47.51587,
       "lon": 19.07678,
-      "source": "http://www.wikidata.org/entity/Q4402545"
+      "source": "http://www.wikidata.org/entity/Q4402545",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Le%20R%C3%A9mouleur%20Francisco%20de%20Goya.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Vicente%20L%C3%B3pez%20Porta%C3%B1a%20-%20el%20pintor%20Francisco%20de%20Goya.jpg"
     },
     {
       "id": "Q11793036",
@@ -1088,7 +1252,9 @@
       "country": "Hungary",
       "lat": 47.51587,
       "lon": 19.07678,
-      "source": "http://www.wikidata.org/entity/Q11793036"
+      "source": "http://www.wikidata.org/entity/Q11793036",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20porteuse%20d%27eau%20Francisco%20de%20Goya.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Vicente%20L%C3%B3pez%20Porta%C3%B1a%20-%20el%20pintor%20Francisco%20de%20Goya.jpg"
     },
     {
       "id": "Q3656034",
@@ -1105,7 +1271,9 @@
       "country": "Hungary",
       "lat": 47.51587,
       "lon": 19.07678,
-      "source": "http://www.wikidata.org/entity/Q3656034"
+      "source": "http://www.wikidata.org/entity/Q3656034",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20a%20Young%20Man%20Giorgione%20-%20Museum%20of%20Fine%20Arts%20-%20Budapest.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Giorgione%20059.jpg"
     },
     {
       "id": "Q7448169",
@@ -1122,7 +1290,9 @@
       "country": "Hungary",
       "lat": 47.51587,
       "lon": 19.07678,
-      "source": "http://www.wikidata.org/entity/Q7448169"
+      "source": "http://www.wikidata.org/entity/Q7448169",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Giorgione%20-%20Portrait%20of%20Giorgione%2C%20ca.%201508%2C%2086.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Giorgione%20059.jpg"
     },
     {
       "id": "Q50881662",
@@ -1139,7 +1309,9 @@
       "country": "Hungary",
       "lat": 47.51587,
       "lon": 19.07678,
-      "source": "http://www.wikidata.org/entity/Q50881662"
+      "source": "http://www.wikidata.org/entity/Q50881662",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Giorgione%20059.jpg"
     },
     {
       "id": "Q9396820",
@@ -1156,7 +1328,9 @@
       "country": "Hungary",
       "lat": 47.51587,
       "lon": 19.07678,
-      "source": "http://www.wikidata.org/entity/Q9396820"
+      "source": "http://www.wikidata.org/entity/Q9396820",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Giovanni%20Battista%20Tiepolo%20-%20St%20Jacobus%20in%20Budapest.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Tiepolo%2C%20Giovanni%20Battista%20-%20Fresken%20Treppenhaus%20des%20W%C3%BCrzburger%20Residenzschlosses%2C%20Szenen%20zur%20Apotheose%20des%20F%C3%BCrstbischofs%2C%20Detail%20Giovanni%20Battista%20Tiepolo%20-%201750-1753.jpg"
     },
     {
       "id": "Q50328540",
@@ -1173,7 +1347,9 @@
       "country": "Hungary",
       "lat": 47.51587,
       "lon": 19.07678,
-      "source": "http://www.wikidata.org/entity/Q50328540"
+      "source": "http://www.wikidata.org/entity/Q50328540",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Tiepolo%2C%20Giovanni%20Battista%20-%20Fresken%20Treppenhaus%20des%20W%C3%BCrzburger%20Residenzschlosses%2C%20Szenen%20zur%20Apotheose%20des%20F%C3%BCrstbischofs%2C%20Detail%20Giovanni%20Battista%20Tiepolo%20-%201750-1753.jpg"
     },
     {
       "id": "Q50978827",
@@ -1190,7 +1366,9 @@
       "country": "Hungary",
       "lat": 47.51587,
       "lon": 19.07678,
-      "source": "http://www.wikidata.org/entity/Q50978827"
+      "source": "http://www.wikidata.org/entity/Q50978827",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Tiepolo%20-%20The%20Virgin%20with%20Six%20Saints%2C%201755%E2%80%931756%2C%20651.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Tiepolo%2C%20Giovanni%20Battista%20-%20Fresken%20Treppenhaus%20des%20W%C3%BCrzburger%20Residenzschlosses%2C%20Szenen%20zur%20Apotheose%20des%20F%C3%BCrstbischofs%2C%20Detail%20Giovanni%20Battista%20Tiepolo%20-%201750-1753.jpg"
     },
     {
       "id": "Q105403418",
@@ -1207,7 +1385,9 @@
       "country": "Hungary",
       "lat": 47.51587,
       "lon": 19.07678,
-      "source": "http://www.wikidata.org/entity/Q105403418"
+      "source": "http://www.wikidata.org/entity/Q105403418",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Portr%C3%A6t%20af%20den%20venezianske%20maler%20Giovanni%20Bellini.jpg"
     },
     {
       "id": "Q50910075",
@@ -1224,7 +1404,9 @@
       "country": "Hungary",
       "lat": 47.51587,
       "lon": 19.07678,
-      "source": "http://www.wikidata.org/entity/Q50910075"
+      "source": "http://www.wikidata.org/entity/Q50910075",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Portr%C3%A6t%20af%20den%20venezianske%20maler%20Giovanni%20Bellini.jpg"
     },
     {
       "id": "Q50987850",
@@ -1241,7 +1423,9 @@
       "country": "Hungary",
       "lat": 47.51587,
       "lon": 19.07678,
-      "source": "http://www.wikidata.org/entity/Q50987850"
+      "source": "http://www.wikidata.org/entity/Q50987850",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg"
     },
     {
       "id": "Q50896457",
@@ -1249,7 +1433,7 @@
       "artistName": "Hieronymus Bosch",
       "reviewStatus": "generated",
       "title": "The Garden of Earthly Delights",
-      "date": "1520",
+      "date": "1500",
       "type": "Painting",
       "attribution": "Accepted",
       "locationId": "museum-of-fine-arts-budapest-zuglo",
@@ -1258,7 +1442,9 @@
       "country": "Hungary",
       "lat": 47.51587,
       "lon": 19.07678,
-      "source": "http://www.wikidata.org/entity/Q50896457"
+      "source": "http://www.wikidata.org/entity/Q50896457",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/After%20Jheronimus%20Bosch%20047.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg"
     },
     {
       "id": "Q50903476",
@@ -1275,7 +1461,9 @@
       "country": "Hungary",
       "lat": 47.51587,
       "lon": 19.07678,
-      "source": "http://www.wikidata.org/entity/Q50903476"
+      "source": "http://www.wikidata.org/entity/Q50903476",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20van%20Eyck%20-%20Portrait%20of%20a%20Man%20%28Self%20Portrait%3F%29%201433.jpg"
     },
     {
       "id": "Q28796766",
@@ -1292,7 +1480,9 @@
       "country": "Hungary",
       "lat": 47.51587,
       "lon": 19.07678,
-      "source": "http://www.wikidata.org/entity/Q28796766"
+      "source": "http://www.wikidata.org/entity/Q28796766",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Constable%20-%20The%20Celebration%20in%20East%20Bergholt%20of%20the%20Peace%20of%201814%20Concluded%20in%20Paris%20between%20France%20and%20the%20Allied%20Powers%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Constable%20by%20Daniel%20Gardner%2C%201796.JPG"
     },
     {
       "id": "Q1000659",
@@ -1309,7 +1499,9 @@
       "country": "Hungary",
       "lat": 47.51587,
       "lon": 19.07678,
-      "source": "http://www.wikidata.org/entity/Q1000659"
+      "source": "http://www.wikidata.org/entity/Q1000659",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Budapest%20Rearing%20Horse%20and%20Mounted%20Warrior%2C%20right%20side%2C%20by%20E.C.Rae.png",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Francesco%20Melzi%20-%20Portrait%20of%20Leonardo.png"
     },
     {
       "id": "Q139565440",
@@ -1326,7 +1518,9 @@
       "country": "Hungary",
       "lat": 47.51587,
       "lon": 19.07678,
-      "source": "http://www.wikidata.org/entity/Q139565440"
+      "source": "http://www.wikidata.org/entity/Q139565440",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Leonardo%20da%20Vinci%20-%20Studies%20of%20Horse%27s%20Leg%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Francesco%20Melzi%20-%20Portrait%20of%20Leonardo.png"
     },
     {
       "id": "Q136389506",
@@ -1343,7 +1537,9 @@
       "country": "Hungary",
       "lat": 47.51587,
       "lon": 19.07678,
-      "source": "http://www.wikidata.org/entity/Q136389506"
+      "source": "http://www.wikidata.org/entity/Q136389506",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Leonardo%20da%20Vinci%20-%20Study%20for%20the%20Head%20of%20a%20Soldier%20in%20the%20Battle%20of%20Anghiari%2C%201774v%2C%20ca.%201504%E2%80%931505.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Francesco%20Melzi%20-%20Portrait%20of%20Leonardo.png"
     },
     {
       "id": "Q136389503",
@@ -1360,7 +1556,9 @@
       "country": "Hungary",
       "lat": 47.51587,
       "lon": 19.07678,
-      "source": "http://www.wikidata.org/entity/Q136389503"
+      "source": "http://www.wikidata.org/entity/Q136389503",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Leonardo%20da%20Vinci%20-%20Study%20of%20a%20Warrior%27s%20Head%20for%20the%20Battle%20of%20Anghiari%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Francesco%20Melzi%20-%20Portrait%20of%20Leonardo.png"
     },
     {
       "id": "Q136389505",
@@ -1377,7 +1575,9 @@
       "country": "Hungary",
       "lat": 47.51587,
       "lon": 19.07678,
-      "source": "http://www.wikidata.org/entity/Q136389505"
+      "source": "http://www.wikidata.org/entity/Q136389505",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Leonardo%20da%20Vinci%20-%20Study%20of%20Two%20Warriors%27%20Heads%20for%20the%20Battle%20of%20Anghiari%20-%20Google%20Art%20Project%20%28cropped%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Francesco%20Melzi%20-%20Portrait%20of%20Leonardo.png"
     },
     {
       "id": "Q105403723",
@@ -1394,7 +1594,9 @@
       "country": "Hungary",
       "lat": 47.51587,
       "lon": 19.07678,
-      "source": "http://www.wikidata.org/entity/Q105403723"
+      "source": "http://www.wikidata.org/entity/Q105403723",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20d.%20%C3%84.%20063.jpg"
     },
     {
       "id": "Q105403733",
@@ -1411,7 +1613,9 @@
       "country": "Hungary",
       "lat": 47.51587,
       "lon": 19.07678,
-      "source": "http://www.wikidata.org/entity/Q105403733"
+      "source": "http://www.wikidata.org/entity/Q105403733",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20d.%20%C3%84.%20063.jpg"
     },
     {
       "id": "Q50888276",
@@ -1428,7 +1632,9 @@
       "country": "Hungary",
       "lat": 47.51587,
       "lon": 19.07678,
-      "source": "http://www.wikidata.org/entity/Q50888276"
+      "source": "http://www.wikidata.org/entity/Q50888276",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Christ%20and%20the%20Adulteress%20643396a34.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20d.%20%C3%84.%20063.jpg"
     },
     {
       "id": "Q50940060",
@@ -1445,7 +1651,9 @@
       "country": "Hungary",
       "lat": 47.51587,
       "lon": 19.07678,
-      "source": "http://www.wikidata.org/entity/Q50940060"
+      "source": "http://www.wikidata.org/entity/Q50940060",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20d.%20%C3%84.%20-%20Pestbild%20%28Budapest%20Museum%20of%20Fine%20Arts%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20d.%20%C3%84.%20063.jpg"
     },
     {
       "id": "Q50988059",
@@ -1462,7 +1670,9 @@
       "country": "Hungary",
       "lat": 47.51587,
       "lon": 19.07678,
-      "source": "http://www.wikidata.org/entity/Q50988059"
+      "source": "http://www.wikidata.org/entity/Q50988059",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20d.%C3%84.%20-%20Die%20Beweinung%20Christi%20%28Budapest%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20d.%20%C3%84.%20063.jpg"
     },
     {
       "id": "Q105403752",
@@ -1479,7 +1689,9 @@
       "country": "Hungary",
       "lat": 47.51587,
       "lon": 19.07678,
-      "source": "http://www.wikidata.org/entity/Q105403752"
+      "source": "http://www.wikidata.org/entity/Q105403752",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20d.%20%C3%84.%20063.jpg"
     },
     {
       "id": "Q105403760",
@@ -1496,7 +1708,9 @@
       "country": "Hungary",
       "lat": 47.51587,
       "lon": 19.07678,
-      "source": "http://www.wikidata.org/entity/Q105403760"
+      "source": "http://www.wikidata.org/entity/Q105403760",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20d.%20%C3%84.%20063.jpg"
     },
     {
       "id": "Q24430401",
@@ -1513,7 +1727,9 @@
       "country": "Hungary",
       "lat": 47.51587,
       "lon": 19.07678,
-      "source": "http://www.wikidata.org/entity/Q24430401"
+      "source": "http://www.wikidata.org/entity/Q24430401",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Salom%C3%A9%20avec%20la%20t%C3%AAte%20de%20Saint%20Jean-Baptiste%20-%20Lucas%20Cranach.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20d.%20%C3%84.%20063.jpg"
     },
     {
       "id": "Q30005237",
@@ -1530,7 +1746,9 @@
       "country": "Hungary",
       "lat": 47.51587,
       "lon": 19.07678,
-      "source": "http://www.wikidata.org/entity/Q30005237"
+      "source": "http://www.wikidata.org/entity/Q30005237",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Salome1cranach.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20d.%20%C3%84.%20063.jpg"
     },
     {
       "id": "Q50911881",
@@ -1547,7 +1765,9 @@
       "country": "Hungary",
       "lat": 47.51587,
       "lon": 19.07678,
-      "source": "http://www.wikidata.org/entity/Q50911881"
+      "source": "http://www.wikidata.org/entity/Q50911881",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20d.%20%C3%84.%20-%20The%20Annunciation%20to%20Joachim%20-%20WGA05664.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20d.%20%C3%84.%20063.jpg"
     },
     {
       "id": "Q50986326",
@@ -1564,7 +1784,9 @@
       "country": "Hungary",
       "lat": 47.51587,
       "lon": 19.07678,
-      "source": "http://www.wikidata.org/entity/Q50986326"
+      "source": "http://www.wikidata.org/entity/Q50986326",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20d.%20%C3%84.%20-%20Amorous%20Old%20Woman%20and%20Young%20Man%20-%20WGA05715.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20d.%20%C3%84.%20063.jpg"
     },
     {
       "id": "Q50881297",
@@ -1581,7 +1803,9 @@
       "country": "Hungary",
       "lat": 47.51587,
       "lon": 19.07678,
-      "source": "http://www.wikidata.org/entity/Q50881297"
+      "source": "http://www.wikidata.org/entity/Q50881297",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20d.%C3%84.%20-%20Das%20ungleiche%20Paar%20%281522%2C%20Sz%C3%A9pm%C5%B1v%C3%A9szeti%20M%C3%BAzeum%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20d.%20%C3%84.%20063.jpg"
     },
     {
       "id": "Q50980815",
@@ -1598,7 +1822,9 @@
       "country": "Hungary",
       "lat": 47.51587,
       "lon": 19.07678,
-      "source": "http://www.wikidata.org/entity/Q50980815"
+      "source": "http://www.wikidata.org/entity/Q50980815",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20d.%20%C3%84.%20063.jpg"
     },
     {
       "id": "Q11783560",
@@ -1615,7 +1841,9 @@
       "country": "Hungary",
       "lat": 47.51587,
       "lon": 19.07678,
-      "source": "http://www.wikidata.org/entity/Q11783560"
+      "source": "http://www.wikidata.org/entity/Q11783560",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20d.%C3%84.%20-%20Die%20mystische%20Verm%C3%A4hlung%20der%20heiligen%20Katharina%20%28Budapest%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20d.%20%C3%84.%20063.jpg"
     },
     {
       "id": "Q50988579",
@@ -1632,7 +1860,9 @@
       "country": "Hungary",
       "lat": 47.51587,
       "lon": 19.07678,
-      "source": "http://www.wikidata.org/entity/Q50988579"
+      "source": "http://www.wikidata.org/entity/Q50988579",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20d.%20%C3%84.%20063.jpg"
     },
     {
       "id": "Q50939383",
@@ -1649,7 +1879,9 @@
       "country": "Hungary",
       "lat": 47.51587,
       "lon": 19.07678,
-      "source": "http://www.wikidata.org/entity/Q50939383"
+      "source": "http://www.wikidata.org/entity/Q50939383",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20d.%20%C3%84.%20063.jpg"
     },
     {
       "id": "Q50911173",
@@ -1666,7 +1898,9 @@
       "country": "Hungary",
       "lat": 47.51587,
       "lon": 19.07678,
-      "source": "http://www.wikidata.org/entity/Q50911173"
+      "source": "http://www.wikidata.org/entity/Q50911173",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20d.%C3%84.%20-%20Madonna%20mit%20Kind%20%28Budapest%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20d.%20%C3%84.%20063.jpg"
     },
     {
       "id": "Q50939581",
@@ -1683,7 +1917,9 @@
       "country": "Hungary",
       "lat": 47.51587,
       "lon": 19.07678,
-      "source": "http://www.wikidata.org/entity/Q50939581"
+      "source": "http://www.wikidata.org/entity/Q50939581",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20d.%20%C3%84.%20063.jpg"
     },
     {
       "id": "Q50947952",
@@ -1700,7 +1936,9 @@
       "country": "Hungary",
       "lat": 47.51587,
       "lon": 19.07678,
-      "source": "http://www.wikidata.org/entity/Q50947952"
+      "source": "http://www.wikidata.org/entity/Q50947952",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Veronese%20-%20AUTORITRATTO%20%282%29%20-%20Museo%20dell%27Ermitage.jpg"
     },
     {
       "id": "Q50932605",
@@ -1717,7 +1955,9 @@
       "country": "Hungary",
       "lat": 47.51587,
       "lon": 19.07678,
-      "source": "http://www.wikidata.org/entity/Q50932605"
+      "source": "http://www.wikidata.org/entity/Q50932605",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Veronese%20-%20AUTORITRATTO%20%282%29%20-%20Museo%20dell%27Ermitage.jpg"
     },
     {
       "id": "Q16571134",
@@ -1734,7 +1974,9 @@
       "country": "Hungary",
       "lat": 47.51587,
       "lon": 19.07678,
-      "source": "http://www.wikidata.org/entity/Q16571134"
+      "source": "http://www.wikidata.org/entity/Q16571134",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Veronese%20-%20Portrait%20of%20a%20Man%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Veronese%20-%20AUTORITRATTO%20%282%29%20-%20Museo%20dell%27Ermitage.jpg"
     },
     {
       "id": "Q50975717",
@@ -1751,7 +1993,9 @@
       "country": "Hungary",
       "lat": 47.51587,
       "lon": 19.07678,
-      "source": "http://www.wikidata.org/entity/Q50975717"
+      "source": "http://www.wikidata.org/entity/Q50975717",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Veronese%2C%20Crocifissione%20Budapest.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Veronese%20-%20AUTORITRATTO%20%282%29%20-%20Museo%20dell%27Ermitage.jpg"
     },
     {
       "id": "Q64374423",
@@ -1768,15 +2012,17 @@
       "country": "Hungary",
       "lat": 47.51587,
       "lon": 19.07678,
-      "source": "http://www.wikidata.org/entity/Q64374423"
+      "source": "http://www.wikidata.org/entity/Q64374423",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20C%C3%A9zanne%20-%20Landscape%20in%20Provence%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul-Cezanne.jpg"
     },
     {
-      "id": "Q28797022",
-      "artistId": "paul-cezanne",
-      "artistName": "Paul Cézanne",
+      "id": "Q50909297",
+      "artistId": "peter-paul-rubens",
+      "artistName": "Peter Paul Rubens",
       "reviewStatus": "generated",
-      "title": "The Buffet",
-      "date": "1877",
+      "title": "Briseis Returning to Achilles",
+      "date": "1667",
       "type": "Painting",
       "attribution": "Accepted",
       "locationId": "museum-of-fine-arts-budapest-zuglo",
@@ -1785,7 +2031,218 @@
       "country": "Hungary",
       "lat": 47.51587,
       "lon": 19.07678,
-      "source": "http://www.wikidata.org/entity/Q28797022"
+      "source": "http://www.wikidata.org/entity/Q50909297",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Anoniem%20na%201635%20naar%20Peter%20Paul%20Rubens%20-%20Briseis%20wordt%20aan%20Achilles%20teruggegeven%20-%2051.2981%20-%20Museum%20of%20Fine%20Arts%2C%20Budapest.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Peter%20Paul%20Rubens%20-%20Portrait%20of%20the%20Artist%20-%20Google%20Art%20Project.jpg"
+    },
+    {
+      "id": "Q50988140",
+      "artistId": "peter-paul-rubens",
+      "artistName": "Peter Paul Rubens",
+      "reviewStatus": "generated",
+      "title": "Portrait of a Man",
+      "date": "1617",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "museum-of-fine-arts-budapest-zuglo",
+      "location": "Museum of Fine Arts, Budapest",
+      "city": "Zugló",
+      "country": "Hungary",
+      "lat": 47.51587,
+      "lon": 19.07678,
+      "source": "http://www.wikidata.org/entity/Q50988140",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Peter%20Paul%20Rubens%20-%20Portrait%20of%20the%20Artist%20-%20Google%20Art%20Project.jpg"
+    },
+    {
+      "id": "Q50915949",
+      "artistId": "peter-paul-rubens",
+      "artistName": "Peter Paul Rubens",
+      "reviewStatus": "generated",
+      "title": "Study of a Man's Head",
+      "date": "1616",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "museum-of-fine-arts-budapest-zuglo",
+      "location": "Museum of Fine Arts, Budapest",
+      "city": "Zugló",
+      "country": "Hungary",
+      "lat": 47.51587,
+      "lon": 19.07678,
+      "source": "http://www.wikidata.org/entity/Q50915949",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Paul%20Rubens%20-%20Study%20of%20a%20Man%E2%80%99s%20Head.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Peter%20Paul%20Rubens%20-%20Portrait%20of%20the%20Artist%20-%20Google%20Art%20Project.jpg"
+    },
+    {
+      "id": "Q50888358",
+      "artistId": "peter-paul-rubens",
+      "artistName": "Peter Paul Rubens",
+      "reviewStatus": "generated",
+      "title": "The Adoration of the Blessed Sacrament by the Ecclesiastical Hierarchy",
+      "date": "1712",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "museum-of-fine-arts-budapest-zuglo",
+      "location": "Museum of Fine Arts, Budapest",
+      "city": "Zugló",
+      "country": "Hungary",
+      "lat": 47.51587,
+      "lon": 19.07678,
+      "source": "http://www.wikidata.org/entity/Q50888358",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Anoniem%20na%201625%20naar%20Peter%20Paul%20Rubens%20-%20De%20kerkelijke%20hi%C3%ABrarchie%20in%20aanbidding%20-%20903%20-%20Museum%20of%20Fine%20Arts%2C%20Budapest.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Peter%20Paul%20Rubens%20-%20Portrait%20of%20the%20Artist%20-%20Google%20Art%20Project.jpg"
+    },
+    {
+      "id": "Q50886636",
+      "artistId": "peter-paul-rubens",
+      "artistName": "Peter Paul Rubens",
+      "reviewStatus": "generated",
+      "title": "The Adoration of the Shepherds",
+      "date": "Date unknown",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "museum-of-fine-arts-budapest-zuglo",
+      "location": "Museum of Fine Arts, Budapest",
+      "city": "Zugló",
+      "country": "Hungary",
+      "lat": 47.51587,
+      "lon": 19.07678,
+      "source": "http://www.wikidata.org/entity/Q50886636",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Peter%20Paul%20Rubens%20-%20Portrait%20of%20the%20Artist%20-%20Google%20Art%20Project.jpg"
+    },
+    {
+      "id": "Q50915919",
+      "artistId": "peter-paul-rubens",
+      "artistName": "Peter Paul Rubens",
+      "reviewStatus": "generated",
+      "title": "The Crowning with Thorns",
+      "date": "Date unknown",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "museum-of-fine-arts-budapest-zuglo",
+      "location": "Museum of Fine Arts, Budapest",
+      "city": "Zugló",
+      "country": "Hungary",
+      "lat": 47.51587,
+      "lon": 19.07678,
+      "source": "http://www.wikidata.org/entity/Q50915919",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Peter%20Paul%20Rubens%20-%20Portrait%20of%20the%20Artist%20-%20Google%20Art%20Project.jpg"
+    },
+    {
+      "id": "Q50991941",
+      "artistId": "peter-paul-rubens",
+      "artistName": "Peter Paul Rubens",
+      "reviewStatus": "generated",
+      "title": "The Holy Family",
+      "date": "Date unknown",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "museum-of-fine-arts-budapest-zuglo",
+      "location": "Museum of Fine Arts, Budapest",
+      "city": "Zugló",
+      "country": "Hungary",
+      "lat": 47.51587,
+      "lon": 19.07678,
+      "source": "http://www.wikidata.org/entity/Q50991941",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Peter%20Paul%20Rubens%20-%20Portrait%20of%20the%20Artist%20-%20Google%20Art%20Project.jpg"
+    },
+    {
+      "id": "Q50988089",
+      "artistId": "peter-paul-rubens",
+      "artistName": "Peter Paul Rubens",
+      "reviewStatus": "generated",
+      "title": "The Holy Family with an Angel",
+      "date": "Date unknown",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "museum-of-fine-arts-budapest-zuglo",
+      "location": "Museum of Fine Arts, Budapest",
+      "city": "Zugló",
+      "country": "Hungary",
+      "lat": 47.51587,
+      "lon": 19.07678,
+      "source": "http://www.wikidata.org/entity/Q50988089",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Peter%20Paul%20Rubens%20-%20Portrait%20of%20the%20Artist%20-%20Google%20Art%20Project.jpg"
+    },
+    {
+      "id": "Q50942727",
+      "artistId": "peter-paul-rubens",
+      "artistName": "Peter Paul Rubens",
+      "reviewStatus": "generated",
+      "title": "The Holy Family with Saint Elizabeth and the Infant Saint John the Baptist",
+      "date": "Date unknown",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "museum-of-fine-arts-budapest-zuglo",
+      "location": "Museum of Fine Arts, Budapest",
+      "city": "Zugló",
+      "country": "Hungary",
+      "lat": 47.51587,
+      "lon": 19.07678,
+      "source": "http://www.wikidata.org/entity/Q50942727",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Peter%20Paul%20Rubens%20-%20Portrait%20of%20the%20Artist%20-%20Google%20Art%20Project.jpg"
+    },
+    {
+      "id": "Q50911656",
+      "artistId": "peter-paul-rubens",
+      "artistName": "Peter Paul Rubens",
+      "reviewStatus": "generated",
+      "title": "The Miracle of Saint Justin",
+      "date": "1629",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "museum-of-fine-arts-budapest-zuglo",
+      "location": "Museum of Fine Arts, Budapest",
+      "city": "Zugló",
+      "country": "Hungary",
+      "lat": 47.51587,
+      "lon": 19.07678,
+      "source": "http://www.wikidata.org/entity/Q50911656",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rubens%20-%20RKDimages%2C%20254263.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Peter%20Paul%20Rubens%20-%20Portrait%20of%20the%20Artist%20-%20Google%20Art%20Project.jpg"
+    },
+    {
+      "id": "Q50910203",
+      "artistId": "peter-paul-rubens",
+      "artistName": "Peter Paul Rubens",
+      "reviewStatus": "generated",
+      "title": "The Rest on the Flight into Egypt",
+      "date": "Date unknown",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "museum-of-fine-arts-budapest-zuglo",
+      "location": "Museum of Fine Arts, Budapest",
+      "city": "Zugló",
+      "country": "Hungary",
+      "lat": 47.51587,
+      "lon": 19.07678,
+      "source": "http://www.wikidata.org/entity/Q50910203",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Peter%20Paul%20Rubens%20-%20Portrait%20of%20the%20Artist%20-%20Google%20Art%20Project.jpg"
+    },
+    {
+      "id": "Q50931754",
+      "artistId": "peter-paul-rubens",
+      "artistName": "Peter Paul Rubens",
+      "reviewStatus": "generated",
+      "title": "Three Angels Hovering",
+      "date": "Date unknown",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "museum-of-fine-arts-budapest-zuglo",
+      "location": "Museum of Fine Arts, Budapest",
+      "city": "Zugló",
+      "country": "Hungary",
+      "lat": 47.51587,
+      "lon": 19.07678,
+      "source": "http://www.wikidata.org/entity/Q50931754",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Peter%20Paul%20Rubens%20-%20Portrait%20of%20the%20Artist%20-%20Google%20Art%20Project.jpg"
     },
     {
       "id": "Q50909082",
@@ -1802,7 +2259,9 @@
       "country": "Hungary",
       "lat": 47.51587,
       "lon": 19.07678,
-      "source": "http://www.wikidata.org/entity/Q50909082"
+      "source": "http://www.wikidata.org/entity/Q50909082",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre%20Auguste%20Renoir%2C%20uncropped%20image.jpg"
     },
     {
       "id": "Q257048",
@@ -1819,7 +2278,9 @@
       "country": "Hungary",
       "lat": 47.51587,
       "lon": 19.07678,
-      "source": "http://www.wikidata.org/entity/Q257048"
+      "source": "http://www.wikidata.org/entity/Q257048",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%20-%20The%20Sermon%20of%20Saint%20John%20the%20Baptist.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%20-%20The%20Painter%20and%20the%20Buyer%2C%20ca.%201566%20-%20Google%20Art%20Project.jpg"
     },
     {
       "id": "Q2283808",
@@ -1836,7 +2297,9 @@
       "country": "Hungary",
       "lat": 47.51587,
       "lon": 19.07678,
-      "source": "http://www.wikidata.org/entity/Q2283808"
+      "source": "http://www.wikidata.org/entity/Q2283808",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Raffaello%20Santi%20-%20Madonna%20and%20Child%20with%20the%20Infant%20Saint%20John%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Raffaello%20Sanzio.jpg"
     },
     {
       "id": "Q50892982",
@@ -1853,7 +2316,9 @@
       "country": "Hungary",
       "lat": 47.51587,
       "lon": 19.07678,
-      "source": "http://www.wikidata.org/entity/Q50892982"
+      "source": "http://www.wikidata.org/entity/Q50892982",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Raffaello%20Sanzio.jpg"
     },
     {
       "id": "Q50984028",
@@ -1870,7 +2335,9 @@
       "country": "Hungary",
       "lat": 47.51587,
       "lon": 19.07678,
-      "source": "http://www.wikidata.org/entity/Q50984028"
+      "source": "http://www.wikidata.org/entity/Q50984028",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Raffaello%20Sanzio.jpg"
     },
     {
       "id": "Q2444277",
@@ -1887,24 +2354,9 @@
       "country": "Hungary",
       "lat": 47.51587,
       "lon": 19.07678,
-      "source": "http://www.wikidata.org/entity/Q2444277"
-    },
-    {
-      "id": "Q22044104",
-      "artistId": "rembrandt",
-      "artistName": "Rembrandt",
-      "reviewStatus": "generated",
-      "title": "Joseph's Dream (Studio of Rembrandt, 1650-1655)",
-      "date": "1650",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "museum-of-fine-arts-budapest-zuglo",
-      "location": "Museum of Fine Arts, Budapest",
-      "city": "Zugló",
-      "country": "Hungary",
-      "lat": 47.51587,
-      "lon": 19.07678,
-      "source": "http://www.wikidata.org/entity/Q22044104"
+      "source": "http://www.wikidata.org/entity/Q2444277",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Raffaello%20Santi%20-%20Portrait%20of%20Pietro%20Bembo%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Raffaello%20Sanzio.jpg"
     },
     {
       "id": "Q21481304",
@@ -1921,7 +2373,9 @@
       "country": "Hungary",
       "lat": 47.51587,
       "lon": 19.07678,
-      "source": "http://www.wikidata.org/entity/Q21481304"
+      "source": "http://www.wikidata.org/entity/Q21481304",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Budapest%20kunst%200043.tif",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20van%20Rijn%20-%20Self-Portrait%20-%20Google%20Art%20Project.jpg"
     },
     {
       "id": "Q21965811",
@@ -1938,24 +2392,9 @@
       "country": "Hungary",
       "lat": 47.51587,
       "lon": 19.07678,
-      "source": "http://www.wikidata.org/entity/Q21965811"
-    },
-    {
-      "id": "Q50909786",
-      "artistId": "rembrandt",
-      "artistName": "Rembrandt",
-      "reviewStatus": "generated",
-      "title": "Portrait of Rembrandt",
-      "date": "Date unknown",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "museum-of-fine-arts-budapest-zuglo",
-      "location": "Museum of Fine Arts, Budapest",
-      "city": "Zugló",
-      "country": "Hungary",
-      "lat": 47.51587,
-      "lon": 19.07678,
-      "source": "http://www.wikidata.org/entity/Q50909786"
+      "source": "http://www.wikidata.org/entity/Q21965811",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Parable%20of%20the%20hidden%20treasure%20Rembrandt%20-%20Gerard%20Dou.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20van%20Rijn%20-%20Self-Portrait%20-%20Google%20Art%20Project.jpg"
     },
     {
       "id": "Q50903653",
@@ -1972,7 +2411,9 @@
       "country": "Hungary",
       "lat": 47.51587,
       "lon": 19.07678,
-      "source": "http://www.wikidata.org/entity/Q50903653"
+      "source": "http://www.wikidata.org/entity/Q50903653",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Madonna%20suckling%20the%20Infant%20Christ%20%28Sofonisba%20Anguissola%29-WUS09961.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sofonisba%20Anguissola%2C%20Selvportr%C3%A6t%20ved%20staffeliet%2C%201556%2C%20Museum%20Castle%20in%20%C5%81a%C5%84cut.jpg"
     },
     {
       "id": "Q50915200",
@@ -1989,7 +2430,9 @@
       "country": "Hungary",
       "lat": 47.51587,
       "lon": 19.07678,
-      "source": "http://www.wikidata.org/entity/Q50915200"
+      "source": "http://www.wikidata.org/entity/Q50915200",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Gainsborough%20by%20Thomas%20Gainsborough.jpg"
     },
     {
       "id": "Q50907415",
@@ -2006,7 +2449,9 @@
       "country": "Hungary",
       "lat": 47.51587,
       "lon": 19.07678,
-      "source": "http://www.wikidata.org/entity/Q50907415"
+      "source": "http://www.wikidata.org/entity/Q50907415",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Tintoretto%20-%20Cain%20Killing%20Abel%20-%20Museum%20of%20Fine%20Arts%2C%20Budapest.png",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Tintoretto%20-%20Self-Portrait%20as%20a%20Young%20Man%2C%20ca.%201548%2C%20CAI.103%20%28cropped%29.jpg"
     },
     {
       "id": "Q9291481",
@@ -2023,7 +2468,9 @@
       "country": "Hungary",
       "lat": 47.51587,
       "lon": 19.07678,
-      "source": "http://www.wikidata.org/entity/Q9291481"
+      "source": "http://www.wikidata.org/entity/Q9291481",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hercules%20wyp%C4%99dza%20Fauna.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Tintoretto%20-%20Self-Portrait%20as%20a%20Young%20Man%2C%20ca.%201548%2C%20CAI.103%20%28cropped%29.jpg"
     },
     {
       "id": "Q50945741",
@@ -2040,7 +2487,9 @@
       "country": "Hungary",
       "lat": 47.51587,
       "lon": 19.07678,
-      "source": "http://www.wikidata.org/entity/Q50945741"
+      "source": "http://www.wikidata.org/entity/Q50945741",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jacopo%20Tintoretto%20-%20Portrait%20of%20a%20Woman%20-%20WGA22691.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Tintoretto%20-%20Self-Portrait%20as%20a%20Young%20Man%2C%20ca.%201548%2C%20CAI.103%20%28cropped%29.jpg"
     },
     {
       "id": "Q50945286",
@@ -2057,7 +2506,9 @@
       "country": "Hungary",
       "lat": 47.51587,
       "lon": 19.07678,
-      "source": "http://www.wikidata.org/entity/Q50945286"
+      "source": "http://www.wikidata.org/entity/Q50945286",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jacopo%20Tintoretto%20-%20Portrait%20of%20a%20Man%20-%20WGA22685.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Tintoretto%20-%20Self-Portrait%20as%20a%20Young%20Man%2C%20ca.%201548%2C%20CAI.103%20%28cropped%29.jpg"
     },
     {
       "id": "Q50941635",
@@ -2074,7 +2525,9 @@
       "country": "Hungary",
       "lat": 47.51587,
       "lon": 19.07678,
-      "source": "http://www.wikidata.org/entity/Q50941635"
+      "source": "http://www.wikidata.org/entity/Q50941635",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jacopo%20Tintoretto%20-%20Portrait%20of%20a%20Man%20%28fragment%29%20-%20WGA22675.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Tintoretto%20-%20Self-Portrait%20as%20a%20Young%20Man%2C%20ca.%201548%2C%20CAI.103%20%28cropped%29.jpg"
     },
     {
       "id": "Q50974100",
@@ -2091,7 +2544,9 @@
       "country": "Hungary",
       "lat": 47.51587,
       "lon": 19.07678,
-      "source": "http://www.wikidata.org/entity/Q50974100"
+      "source": "http://www.wikidata.org/entity/Q50974100",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Tintoretto%20-%20Self-Portrait%20as%20a%20Young%20Man%2C%20ca.%201548%2C%20CAI.103%20%28cropped%29.jpg"
     },
     {
       "id": "Q105441982",
@@ -2108,7 +2563,9 @@
       "country": "Hungary",
       "lat": 47.51587,
       "lon": 19.07678,
-      "source": "http://www.wikidata.org/entity/Q105441982"
+      "source": "http://www.wikidata.org/entity/Q105441982",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Tintoretto%20%28and%20workshop%29%20-%20Portrait%20of%20Doge%20Pietro%20Loredano%2C%20ca.%201567%E2%80%931570%2C%204227.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Tintoretto%20-%20Self-Portrait%20as%20a%20Young%20Man%2C%20ca.%201548%2C%20CAI.103%20%28cropped%29.jpg"
     },
     {
       "id": "Q50938403",
@@ -2125,7 +2582,9 @@
       "country": "Hungary",
       "lat": 47.51587,
       "lon": 19.07678,
-      "source": "http://www.wikidata.org/entity/Q50938403"
+      "source": "http://www.wikidata.org/entity/Q50938403",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Tintoretto%20-%20Self-Portrait%20as%20a%20Young%20Man%2C%20ca.%201548%2C%20CAI.103%20%28cropped%29.jpg"
     },
     {
       "id": "Q50941798",
@@ -2142,7 +2601,9 @@
       "country": "Hungary",
       "lat": 47.51587,
       "lon": 19.07678,
-      "source": "http://www.wikidata.org/entity/Q50941798"
+      "source": "http://www.wikidata.org/entity/Q50941798",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Tintoretto%20-%20Self-Portrait%20as%20a%20Young%20Man%2C%20ca.%201548%2C%20CAI.103%20%28cropped%29.jpg"
     },
     {
       "id": "Q50941347",
@@ -2159,7 +2620,9 @@
       "country": "Hungary",
       "lat": 47.51587,
       "lon": 19.07678,
-      "source": "http://www.wikidata.org/entity/Q50941347"
+      "source": "http://www.wikidata.org/entity/Q50941347",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Tintoretto%20-%20Self-Portrait%20as%20a%20Young%20Man%2C%20ca.%201548%2C%20CAI.103%20%28cropped%29.jpg"
     },
     {
       "id": "Q28796729",
@@ -2176,7 +2639,9 @@
       "country": "Hungary",
       "lat": 47.51587,
       "lon": 19.07678,
-      "source": "http://www.wikidata.org/entity/Q28796729"
+      "source": "http://www.wikidata.org/entity/Q28796729",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jacopo%20Tintoretto%20-%20The%20Supper%20at%20Emmaus%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Tintoretto%20-%20Self-Portrait%20as%20a%20Young%20Man%2C%20ca.%201548%2C%20CAI.103%20%28cropped%29.jpg"
     },
     {
       "id": "Q39751814",
@@ -2193,7 +2658,9 @@
       "country": "Hungary",
       "lat": 47.51587,
       "lon": 19.07678,
-      "source": "http://www.wikidata.org/entity/Q39751814"
+      "source": "http://www.wikidata.org/entity/Q39751814",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Titian%20%E2%80%93%20Portrait%20of%20Marcantonio%20Trevisan%2C%20Doge%20of%20Venice%20%E2%80%93%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Vecellio%20di%20Gregorio%20Tiziano%20-%20autoritratto.jpg"
     },
     {
       "id": "Q50891699",
@@ -2210,7 +2677,9 @@
       "country": "Hungary",
       "lat": 47.51587,
       "lon": 19.07678,
-      "source": "http://www.wikidata.org/entity/Q50891699"
+      "source": "http://www.wikidata.org/entity/Q50891699",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Titian%20-%20Portrait%20of%20Settimia%20Jacovacci%20%28%3F%29%20-%20Museum%20of%20Fine%20Arts%2C%20Budapest.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Vecellio%20di%20Gregorio%20Tiziano%20-%20autoritratto.jpg"
     },
     {
       "id": "Q50947291",
@@ -2227,7 +2696,9 @@
       "country": "Hungary",
       "lat": 47.51587,
       "lon": 19.07678,
-      "source": "http://www.wikidata.org/entity/Q50947291"
+      "source": "http://www.wikidata.org/entity/Q50947291",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Tiziano%20Vecellio%20%28tulajdon%C3%ADtva%29%20-%20Keresztel%C5%91%20Szent%20J%C3%A1nos%20-%207744%20-%20Museum%20of%20Fine%20Arts%2C%20Budapest.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Vecellio%20di%20Gregorio%20Tiziano%20-%20autoritratto.jpg"
     },
     {
       "id": "Q1161477",
@@ -2244,7 +2715,9 @@
       "country": "Hungary",
       "lat": 47.51587,
       "lon": 19.07678,
-      "source": "http://www.wikidata.org/entity/Q1161477"
+      "source": "http://www.wikidata.org/entity/Q1161477",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Tiziano%20Vecellio%20Virgin%20Mary%20with%20Child%20and%20St.%20Paul.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Vecellio%20di%20Gregorio%20Tiziano%20-%20autoritratto.jpg"
     }
   ]
 }

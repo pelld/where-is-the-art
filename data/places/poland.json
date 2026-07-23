@@ -17,7 +17,9 @@
       "country": "Poland",
       "lat": 52.083083,
       "lon": 21.109722,
-      "source": "http://www.wikidata.org/entity/Q137646635"
+      "source": "http://www.wikidata.org/entity/Q137646635",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%28Barcelona%29%20Autoretrat%20al%20mirall%20-%20by%20Suzanne%20Valadon.jpg"
     },
     {
       "id": "Q135069482",
@@ -34,7 +36,28 @@
       "country": "Poland",
       "lat": 52.083083,
       "lon": 21.109722,
-      "source": "http://www.wikidata.org/entity/Q135069482"
+      "source": "http://www.wikidata.org/entity/Q135069482",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Tamara%20%C5%81empicka%20ssj%2020060914%20-%20cropped.jpg"
+    },
+    {
+      "id": "Q9389442",
+      "artistId": "peter-paul-rubens",
+      "artistName": "Peter Paul Rubens",
+      "reviewStatus": "generated",
+      "title": "Descent from the Cross",
+      "date": "1611",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "saint-nicholas-cathedral-in-kalisz-kalisz",
+      "location": "Saint Nicholas Cathedral in Kalisz",
+      "city": "Kalisz",
+      "country": "Poland",
+      "lat": 51.76405,
+      "lon": 18.089219444,
+      "source": "http://www.wikidata.org/entity/Q9389442",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Kalisz%20Rubens.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Peter%20Paul%20Rubens%20-%20Portrait%20of%20the%20Artist%20-%20Google%20Art%20Project.jpg"
     },
     {
       "id": "Q474338",
@@ -51,7 +74,9 @@
       "country": "Poland",
       "lat": 50.0646408,
       "lon": 19.9399667,
-      "source": "http://www.wikidata.org/entity/Q474338"
+      "source": "http://www.wikidata.org/entity/Q474338",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lady%20with%20an%20Ermine%20-%20Leonardo%20da%20Vinci%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Francesco%20Melzi%20-%20Portrait%20of%20Leonardo.png"
     },
     {
       "id": "Q2422889",
@@ -68,7 +93,9 @@
       "country": "Poland",
       "lat": 50.0646408,
       "lon": 19.9399667,
-      "source": "http://www.wikidata.org/entity/Q2422889"
+      "source": "http://www.wikidata.org/entity/Q2422889",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Raphael%20missing.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Raffaello%20Sanzio.jpg"
     },
     {
       "id": "Q117462026",
@@ -85,7 +112,9 @@
       "country": "Poland",
       "lat": 50.06173889,
       "lon": 19.93375556,
-      "source": "http://www.wikidata.org/entity/Q117462026"
+      "source": "http://www.wikidata.org/entity/Q117462026",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Delacroix%20Ghost%20of%20Hamlet%27s%20father.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Autoportrait%20-%20Eug%C3%A8ne%20Delacroix%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20RF%2025.jpg"
     },
     {
       "id": "Q104718079",
@@ -102,7 +131,9 @@
       "country": "Poland",
       "lat": 50.060277777,
       "lon": 19.923888888,
-      "source": "http://www.wikidata.org/entity/Q104718079"
+      "source": "http://www.wikidata.org/entity/Q104718079",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Giovanni%20Bellini%20-%20Madonna%20and%20Child%20Giving%20a%20Blessing%20-%20MNK%20XII-202%20-%20National%20Museum%20Krak%C3%B3w.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Portr%C3%A6t%20af%20den%20venezianske%20maler%20Giovanni%20Bellini.jpg"
     },
     {
       "id": "Q104717714",
@@ -119,7 +150,9 @@
       "country": "Poland",
       "lat": 50.060277777,
       "lon": 19.923888888,
-      "source": "http://www.wikidata.org/entity/Q104717714"
+      "source": "http://www.wikidata.org/entity/Q104717714",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Giovanni%20Bellini%20-%20Piet%C3%A0%20with%20Saint%20John%20the%20Evangelist%20-%20MNK%20XII-A-617%20-%20National%20Museum%20Krak%C3%B3w.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Portr%C3%A6t%20af%20den%20venezianske%20maler%20Giovanni%20Bellini.jpg"
     },
     {
       "id": "Q104720632",
@@ -136,7 +169,9 @@
       "country": "Poland",
       "lat": 50.060277777,
       "lon": 19.923888888,
-      "source": "http://www.wikidata.org/entity/Q104720632"
+      "source": "http://www.wikidata.org/entity/Q104720632",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lavinia%20Fontana%20-%20Judith%20with%20the%20Head%20of%20Holofernes%20-%20MNK%20XII-A-664%20-%20National%20Museum%20Krak%C3%B3w.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lavinia%20Fontana%20-%20Autoritratto%20%28ca.%201577-85%29.jpg"
     },
     {
       "id": "Q11747764",
@@ -153,7 +188,9 @@
       "country": "Poland",
       "lat": 50.060277777,
       "lon": 19.923888888,
-      "source": "http://www.wikidata.org/entity/Q11747764"
+      "source": "http://www.wikidata.org/entity/Q11747764",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20van%20Rijn%20%281606-1669%29%20-%20Landscape%20with%20the%20Parable%20of%20the%20Good%20Samaritan%20-%20MNK%20XII-290%20-%20National%20Museum%20Krak%C3%B3w.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20van%20Rijn%20-%20Self-Portrait%20-%20Google%20Art%20Project.jpg"
     },
     {
       "id": "Q16960276",
@@ -170,7 +207,9 @@
       "country": "Poland",
       "lat": 50.060277777,
       "lon": 19.923888888,
-      "source": "http://www.wikidata.org/entity/Q16960276"
+      "source": "http://www.wikidata.org/entity/Q16960276",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Tamara%20%C5%81empicka%20ssj%2020060914%20-%20cropped.jpg"
     },
     {
       "id": "Q116218359",
@@ -187,7 +226,9 @@
       "country": "Poland",
       "lat": 50.0544,
       "lon": 19.9366,
-      "source": "http://www.wikidata.org/entity/Q116218359"
+      "source": "http://www.wikidata.org/entity/Q116218359",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Eug%C3%A8ne%20Ferdinand%20Victor%20Delacroix%20065.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Autoportrait%20-%20Eug%C3%A8ne%20Delacroix%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20RF%2025.jpg"
     },
     {
       "id": "Q121615144",
@@ -204,7 +245,9 @@
       "country": "Poland",
       "lat": 50.0544,
       "lon": 19.9366,
-      "source": "http://www.wikidata.org/entity/Q121615144"
+      "source": "http://www.wikidata.org/entity/Q121615144",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Giambattista%20Tiepolo%20%28%3F%29%20-%20Dawid%20z%20g%C5%82ow%C4%85%20Goliata.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Tiepolo%2C%20Giovanni%20Battista%20-%20Fresken%20Treppenhaus%20des%20W%C3%BCrzburger%20Residenzschlosses%2C%20Szenen%20zur%20Apotheose%20des%20F%C3%BCrstbischofs%2C%20Detail%20Giovanni%20Battista%20Tiepolo%20-%201750-1753.jpg"
     },
     {
       "id": "Q119625757",
@@ -221,7 +264,9 @@
       "country": "Poland",
       "lat": 50.0544,
       "lon": 19.9366,
-      "source": "http://www.wikidata.org/entity/Q119625757"
+      "source": "http://www.wikidata.org/entity/Q119625757",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Giovanni%20Battista%20Tiepolo%20097.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Tiepolo%2C%20Giovanni%20Battista%20-%20Fresken%20Treppenhaus%20des%20W%C3%BCrzburger%20Residenzschlosses%2C%20Szenen%20zur%20Apotheose%20des%20F%C3%BCrstbischofs%2C%20Detail%20Giovanni%20Battista%20Tiepolo%20-%201750-1753.jpg"
     },
     {
       "id": "Q123479354",
@@ -238,7 +283,9 @@
       "country": "Poland",
       "lat": 50.0544,
       "lon": 19.9366,
-      "source": "http://www.wikidata.org/entity/Q123479354"
+      "source": "http://www.wikidata.org/entity/Q123479354",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Giovanni%20Bellini%20-%20Madonna%20Corsini.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Portr%C3%A6t%20af%20den%20venezianske%20maler%20Giovanni%20Bellini.jpg"
     },
     {
       "id": "Q116220050",
@@ -255,7 +302,9 @@
       "country": "Poland",
       "lat": 50.0544,
       "lon": 19.9366,
-      "source": "http://www.wikidata.org/entity/Q116220050"
+      "source": "http://www.wikidata.org/entity/Q116220050",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustave%20Courbet%20-%20Pejza%C5%BC.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustave%20Courbet%2C%20photograph%20Atelier%20Nadar%2C%20c.%201860s.jpg"
     },
     {
       "id": "Q18178206",
@@ -272,7 +321,9 @@
       "country": "Poland",
       "lat": 50.0544,
       "lon": 19.9366,
-      "source": "http://www.wikidata.org/entity/Q18178206"
+      "source": "http://www.wikidata.org/entity/Q18178206",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Corot%20Landscape.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste-Camille%20Corot%20c1850.png"
     },
     {
       "id": "Q9191516",
@@ -289,7 +340,9 @@
       "country": "Poland",
       "lat": 50.0544,
       "lon": 19.9366,
-      "source": "http://www.wikidata.org/entity/Q9191516"
+      "source": "http://www.wikidata.org/entity/Q9191516",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Cranach%20the%20Elder%20Christ%20blessing%20the%20children.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20d.%20%C3%84.%20063.jpg"
     },
     {
       "id": "Q119618928",
@@ -306,7 +359,9 @@
       "country": "Poland",
       "lat": 50.0544,
       "lon": 19.9366,
-      "source": "http://www.wikidata.org/entity/Q119618928"
+      "source": "http://www.wikidata.org/entity/Q119618928",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Titian%20-%20Allegory%20of%20Love.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Vecellio%20di%20Gregorio%20Tiziano%20-%20autoritratto.jpg"
     },
     {
       "id": "Q23009844",
@@ -323,7 +378,9 @@
       "country": "Poland",
       "lat": 50.0684554,
       "lon": 22.2345626,
-      "source": "http://www.wikidata.org/entity/Q23009844"
+      "source": "http://www.wikidata.org/entity/Q23009844",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sofonisba%20Anguissola%2C%20Selvportr%C3%A6t%20ved%20staffeliet%2C%201556%2C%20Museum%20Castle%20in%20%C5%81a%C5%84cut.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sofonisba%20Anguissola%2C%20Selvportr%C3%A6t%20ved%20staffeliet%2C%201556%2C%20Museum%20Castle%20in%20%C5%81a%C5%84cut.jpg"
     },
     {
       "id": "Q123358930",
@@ -340,7 +397,9 @@
       "country": "Poland",
       "lat": 51.771725,
       "lon": 19.448375,
-      "source": "http://www.wikidata.org/entity/Q123358930"
+      "source": "http://www.wikidata.org/entity/Q123358930",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Riepin%20Delegation.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ilya%20Repin%20%281909%29.jpg"
     },
     {
       "id": "Q105296818",
@@ -357,7 +416,9 @@
       "country": "Poland",
       "lat": 51.771725,
       "lon": 19.448375,
-      "source": "http://www.wikidata.org/entity/Q105296818"
+      "source": "http://www.wikidata.org/entity/Q105296818",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Signac%20View%20of%20the%20Golden%20Horn.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Seurat%20Paul%20Signac.jpg"
     },
     {
       "id": "Q2070487",
@@ -374,7 +435,9 @@
       "country": "Poland",
       "lat": 52.40865,
       "lon": 16.928902,
-      "source": "http://www.wikidata.org/entity/Q2070487"
+      "source": "http://www.wikidata.org/entity/Q2070487",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Monet%20Claude%2C%20The%20Beach%20at%20Pourville%2C%201882.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%201899%20Nadar%20crop.jpg"
     },
     {
       "id": "Q105298298",
@@ -391,7 +454,9 @@
       "country": "Poland",
       "lat": 52.40865,
       "lon": 16.928902,
-      "source": "http://www.wikidata.org/entity/Q105298298"
+      "source": "http://www.wikidata.org/entity/Q105298298",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Vel%C3%A1zquez%20Blind%20woman.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Vel%C3%A1zquez%20Autorretrato%2045%20x%2038%20cm%20-%20Colecci%C3%B3n%20Real%20Academia%20de%20Bellas%20Artes%20de%20San%20Carlos%20-%20Museo%20de%20Bellas%20Artes%20de%20Valencia.jpg"
     },
     {
       "id": "Q91057748",
@@ -408,7 +473,9 @@
       "country": "Poland",
       "lat": 52.40865,
       "lon": 16.928902,
-      "source": "http://www.wikidata.org/entity/Q91057748"
+      "source": "http://www.wikidata.org/entity/Q91057748",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Zurbaran%20Virgin%20of%20the%20Rosary.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Francisco%20de%20Zurbar%C3%A1n%20autoportrait.jpg"
     },
     {
       "id": "Q11765909",
@@ -425,7 +492,9 @@
       "country": "Poland",
       "lat": 52.40865,
       "lon": 16.928902,
-      "source": "http://www.wikidata.org/entity/Q11765909"
+      "source": "http://www.wikidata.org/entity/Q11765909",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bellini%20Madonna%20and%20Child.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Portr%C3%A6t%20af%20den%20venezianske%20maler%20Giovanni%20Bellini.jpg"
     },
     {
       "id": "Q23008305",
@@ -442,7 +511,9 @@
       "country": "Poland",
       "lat": 52.40865,
       "lon": 16.928902,
-      "source": "http://www.wikidata.org/entity/Q23008305"
+      "source": "http://www.wikidata.org/entity/Q23008305",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Chess%20Game%20%28Sofonisba%20Anguissola%29%201555%20%284096x3236px%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sofonisba%20Anguissola%2C%20Selvportr%C3%A6t%20ved%20staffeliet%2C%201556%2C%20Museum%20Castle%20in%20%C5%81a%C5%84cut.jpg"
     },
     {
       "id": "Q11765911",
@@ -459,7 +530,9 @@
       "country": "Poland",
       "lat": 50.676834,
       "lon": 21.75059,
-      "source": "http://www.wikidata.org/entity/Q11765911"
+      "source": "http://www.wikidata.org/entity/Q11765911",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sandomierz%20Madonna.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20d.%20%C3%84.%20063.jpg"
     },
     {
       "id": "Q9252025",
@@ -476,7 +549,9 @@
       "country": "Poland",
       "lat": 52.1699,
       "lon": 22.274,
-      "source": "http://www.wikidata.org/entity/Q9252025"
+      "source": "http://www.wikidata.org/entity/Q9252025",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Greco%20Ecstasy%20of%20Saint%20Francis%20higher%20res.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Greco%20-%20Portrait%20of%20a%20Man%20-%20WGA10554.jpg"
     },
     {
       "id": "Q112233043",
@@ -493,7 +568,9 @@
       "country": "Poland",
       "lat": 52.21512,
       "lon": 21.03582,
-      "source": "http://www.wikidata.org/entity/Q112233043"
+      "source": "http://www.wikidata.org/entity/Q112233043",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%28Treviso%29%20The%20painter%20Antoine%20Watteau%20by%20Rosalba%20Carriera%20-%20Museo%20civico%20di%20Santa%20Caterina.jpg"
     },
     {
       "id": "Q120968685",
@@ -510,7 +587,9 @@
       "country": "Poland",
       "lat": 52.24215,
       "lon": 21.002275,
-      "source": "http://www.wikidata.org/entity/Q120968685"
+      "source": "http://www.wikidata.org/entity/Q120968685",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg"
     },
     {
       "id": "Q126884225",
@@ -527,7 +606,9 @@
       "country": "Poland",
       "lat": 52.24215,
       "lon": 21.002275,
-      "source": "http://www.wikidata.org/entity/Q126884225"
+      "source": "http://www.wikidata.org/entity/Q126884225",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Greco%20Saint%20Peter.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Greco%20-%20Portrait%20of%20a%20Man%20-%20WGA10554.jpg"
     },
     {
       "id": "Q123054802",
@@ -544,15 +625,17 @@
       "country": "Poland",
       "lat": 52.24215,
       "lon": 21.002275,
-      "source": "http://www.wikidata.org/entity/Q123054802"
+      "source": "http://www.wikidata.org/entity/Q123054802",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Constable%20Donkeys%20in%20the%20stable.JPG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Constable%20by%20Daniel%20Gardner%2C%201796.JPG"
     },
     {
-      "id": "Q66480652",
-      "artistId": "pierre-auguste-renoir",
-      "artistName": "Pierre-Auguste Renoir",
+      "id": "Q5435846",
+      "artistId": "van-gogh",
+      "artistName": "Vincent van Gogh",
       "reviewStatus": "generated",
-      "title": "Anemones.",
-      "date": "1916",
+      "title": "Farmhouse Among Trees",
+      "date": "1883",
       "type": "Painting",
       "attribution": "Accepted",
       "locationId": "museum-of-john-paul-ii-collection-srodmiescie",
@@ -561,24 +644,9 @@
       "country": "Poland",
       "lat": 52.24215,
       "lon": 21.002275,
-      "source": "http://www.wikidata.org/entity/Q66480652"
-    },
-    {
-      "id": "Q28803851",
-      "artistId": "anthony-van-dyck",
-      "artistName": "Anthony van Dyck",
-      "reviewStatus": "generated",
-      "title": "Head of Saint John the Evangelist",
-      "date": "1625",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "national-museum-in-warsaw-srodmiescie",
-      "location": "National Museum in Warsaw",
-      "city": "Śródmieście",
-      "country": "Poland",
-      "lat": 52.231666666,
-      "lon": 21.024722222,
-      "source": "http://www.wikidata.org/entity/Q28803851"
+      "source": "http://www.wikidata.org/entity/Q5435846",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Farmhouses%20Among%20Trees.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Self-portrait%20-%20Vincent%20van%20Gogh.jpg"
     },
     {
       "id": "Q22083799",
@@ -595,7 +663,9 @@
       "country": "Poland",
       "lat": 52.231666666,
       "lon": 21.024722222,
-      "source": "http://www.wikidata.org/entity/Q22083799"
+      "source": "http://www.wikidata.org/entity/Q22083799",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Anthony%20van%20Dyck%20-%20Study%20of%20the%20head%20of%20St.%20Hubertus%20%28%5E%29%20-%20M.Ob.815%20-%20National%20Museum%20in%20Warsaw.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Anthony%20van%20Dyck%20-%20Self-portrait.jpg"
     },
     {
       "id": "Q22999564",
@@ -612,7 +682,9 @@
       "country": "Poland",
       "lat": 52.231666666,
       "lon": 21.024722222,
-      "source": "http://www.wikidata.org/entity/Q22999564"
+      "source": "http://www.wikidata.org/entity/Q22999564",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Antoine%20Watteau%20-%20Louis%20XIV%20awards%20the%20Cordon%20Bleu%20Order%20to%20the%20Duke%20of%20Burgundy%2C%20father%20of%20Louis%20XV.%20-%20M.Ob.1310%20-%20National%20Museum%20in%20Warsaw.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%28Treviso%29%20The%20painter%20Antoine%20Watteau%20by%20Rosalba%20Carriera%20-%20Museo%20civico%20di%20Santa%20Caterina.jpg"
     },
     {
       "id": "Q23000009",
@@ -629,7 +701,9 @@
       "country": "Poland",
       "lat": 52.231666666,
       "lon": 21.024722222,
-      "source": "http://www.wikidata.org/entity/Q23000009"
+      "source": "http://www.wikidata.org/entity/Q23000009",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Watteau%20Polish%20woman.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%28Treviso%29%20The%20painter%20Antoine%20Watteau%20by%20Rosalba%20Carriera%20-%20Museo%20civico%20di%20Santa%20Caterina.jpg"
     },
     {
       "id": "Q104537101",
@@ -646,7 +720,9 @@
       "country": "Poland",
       "lat": 52.231666666,
       "lon": 21.024722222,
-      "source": "http://www.wikidata.org/entity/Q104537101"
+      "source": "http://www.wikidata.org/entity/Q104537101",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Antoine%20Watteau%20-%20Venetian%20dance%20%28Fetes%20Venitiennes%29%20-%20M.Ob.222%20MNW%20-%20National%20Museum%20in%20Warsaw.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%28Treviso%29%20The%20painter%20Antoine%20Watteau%20by%20Rosalba%20Carriera%20-%20Museo%20civico%20di%20Santa%20Caterina.jpg"
     },
     {
       "id": "Q27949315",
@@ -663,7 +739,9 @@
       "country": "Poland",
       "lat": 52.231666666,
       "lon": 21.024722222,
-      "source": "http://www.wikidata.org/entity/Q27949315"
+      "source": "http://www.wikidata.org/entity/Q27949315",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteb%C3%A1n%20Murillo%20-%20St.%20Peter%20-%20M.Ob.372%20-%20National%20Museum%20in%20Warsaw.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg"
     },
     {
       "id": "Q22262352",
@@ -680,7 +758,9 @@
       "country": "Poland",
       "lat": 52.231666666,
       "lon": 21.024722222,
-      "source": "http://www.wikidata.org/entity/Q22262352"
+      "source": "http://www.wikidata.org/entity/Q22262352",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro%20View%20of%20%C3%89ragny.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg"
     },
     {
       "id": "Q18602438",
@@ -697,7 +777,9 @@
       "country": "Poland",
       "lat": 52.231666666,
       "lon": 21.024722222,
-      "source": "http://www.wikidata.org/entity/Q18602438"
+      "source": "http://www.wikidata.org/entity/Q18602438",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Friedrich%20Giant%20Mountains%20at%20sunset.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Caspar%20David%20Friedrich%2C%20Selvportr%C3%A6t%2C%201800%2C%20KKSgb5006%2C%20Statens%20Museum%20for%20Kunst.jpg"
     },
     {
       "id": "Q28939927",
@@ -714,7 +796,9 @@
       "country": "Poland",
       "lat": 52.231666666,
       "lon": 21.024722222,
-      "source": "http://www.wikidata.org/entity/Q28939927"
+      "source": "http://www.wikidata.org/entity/Q28939927",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Friedrich%20View%20from%20Giant%20Mountains%20I.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Caspar%20David%20Friedrich%2C%20Selvportr%C3%A6t%2C%201800%2C%20KKSgb5006%2C%20Statens%20Museum%20for%20Kunst.jpg"
     },
     {
       "id": "Q28939957",
@@ -731,7 +815,9 @@
       "country": "Poland",
       "lat": 52.231666666,
       "lon": 21.024722222,
-      "source": "http://www.wikidata.org/entity/Q28939957"
+      "source": "http://www.wikidata.org/entity/Q28939957",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Friedrich%20View%20from%20Giant%20Mountains%20II.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Caspar%20David%20Friedrich%2C%20Selvportr%C3%A6t%2C%201800%2C%20KKSgb5006%2C%20Statens%20Museum%20for%20Kunst.jpg"
     },
     {
       "id": "Q24808716",
@@ -748,7 +834,9 @@
       "country": "Poland",
       "lat": 52.231666666,
       "lon": 21.024722222,
-      "source": "http://www.wikidata.org/entity/Q24808716"
+      "source": "http://www.wikidata.org/entity/Q24808716",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Vuillard%20Woman%20in%20the%20garden.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Self-Portrait%2C%20Aged%2021%20A21192.jpg"
     },
     {
       "id": "Q104536758",
@@ -765,7 +853,9 @@
       "country": "Poland",
       "lat": 52.231666666,
       "lon": 21.024722222,
-      "source": "http://www.wikidata.org/entity/Q104536758"
+      "source": "http://www.wikidata.org/entity/Q104536758",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Fran%C3%A7ois%20Boucher%20-%20Allegory%20of%20summer%20in%20a%20circle%20of%20flowers%20-%20M.Ob.741%20MNW%20-%20National%20Museum%20in%20Warsaw.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Boucher%20par%20Gustav%20Lundberg%201741.jpg"
     },
     {
       "id": "Q104540597",
@@ -782,7 +872,9 @@
       "country": "Poland",
       "lat": 52.231666666,
       "lon": 21.024722222,
-      "source": "http://www.wikidata.org/entity/Q104540597"
+      "source": "http://www.wikidata.org/entity/Q104540597",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Fran%C3%A7ois%20Boucher%20-%20In%20the%20painter%27s%20studio%20%28%E2%80%9CLe%20peintre%20de%20paysage%E2%80%9D%20or%20%E2%80%9CLe%20peintre%20a%20son%20chevalet%E2%80%9D%29%20-%20M.Ob.264%20MNW%20-%20National%20Museum%20in%20Warsaw.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Boucher%20par%20Gustav%20Lundberg%201741.jpg"
     },
     {
       "id": "Q104537047",
@@ -799,7 +891,9 @@
       "country": "Poland",
       "lat": 52.231666666,
       "lon": 21.024722222,
-      "source": "http://www.wikidata.org/entity/Q104537047"
+      "source": "http://www.wikidata.org/entity/Q104537047",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Fran%C3%A7ois%20Boucher%20-%20Putta%20playing%20in%20the%20grain%20field%20%28L%27amour%20moissonneur%29%20-%20M.Ob.684%20MNW%20-%20National%20Museum%20in%20Warsaw.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Boucher%20par%20Gustav%20Lundberg%201741.jpg"
     },
     {
       "id": "Q28928050",
@@ -816,7 +910,9 @@
       "country": "Poland",
       "lat": 52.231666666,
       "lon": 21.024722222,
-      "source": "http://www.wikidata.org/entity/Q28928050"
+      "source": "http://www.wikidata.org/entity/Q28928050",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Boucher%20View%20of%20a%20village%20and%20a%20church%20tower.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Boucher%20par%20Gustav%20Lundberg%201741.jpg"
     },
     {
       "id": "Q28927947",
@@ -833,7 +929,9 @@
       "country": "Poland",
       "lat": 52.231666666,
       "lon": 21.024722222,
-      "source": "http://www.wikidata.org/entity/Q28927947"
+      "source": "http://www.wikidata.org/entity/Q28927947",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Boucher%20Landscape%20with%20a%20tower%20and%20bridge.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Boucher%20par%20Gustav%20Lundberg%201741.jpg"
     },
     {
       "id": "Q104538078",
@@ -850,7 +948,9 @@
       "country": "Poland",
       "lat": 52.231666666,
       "lon": 21.024722222,
-      "source": "http://www.wikidata.org/entity/Q104538078"
+      "source": "http://www.wikidata.org/entity/Q104538078",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Giovanni%20Battista%20Tiepolo%20-%20Last%20Supper%20-%20M.Ob.7%20MNW%20-%20National%20Museum%20in%20Warsaw.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Tiepolo%2C%20Giovanni%20Battista%20-%20Fresken%20Treppenhaus%20des%20W%C3%BCrzburger%20Residenzschlosses%2C%20Szenen%20zur%20Apotheose%20des%20F%C3%BCrstbischofs%2C%20Detail%20Giovanni%20Battista%20Tiepolo%20-%201750-1753.jpg"
     },
     {
       "id": "Q22812884",
@@ -867,7 +967,9 @@
       "country": "Poland",
       "lat": 52.231666666,
       "lon": 21.024722222,
-      "source": "http://www.wikidata.org/entity/Q22812884"
+      "source": "http://www.wikidata.org/entity/Q22812884",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Tiepolo%20Last%20Supper.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Tiepolo%2C%20Giovanni%20Battista%20-%20Fresken%20Treppenhaus%20des%20W%C3%BCrzburger%20Residenzschlosses%2C%20Szenen%20zur%20Apotheose%20des%20F%C3%BCrstbischofs%2C%20Detail%20Giovanni%20Battista%20Tiepolo%20-%201750-1753.jpg"
     },
     {
       "id": "Q28940163",
@@ -884,7 +986,9 @@
       "country": "Poland",
       "lat": 52.231666666,
       "lon": 21.024722222,
-      "source": "http://www.wikidata.org/entity/Q28940163"
+      "source": "http://www.wikidata.org/entity/Q28940163",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Klimt%20Female%20nude%20sitting.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Klimt.jpg"
     },
     {
       "id": "Q24698550",
@@ -901,7 +1005,9 @@
       "country": "Poland",
       "lat": 52.231666666,
       "lon": 21.024722222,
-      "source": "http://www.wikidata.org/entity/Q24698550"
+      "source": "http://www.wikidata.org/entity/Q24698550",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Courbet%20A%20village.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustave%20Courbet%2C%20photograph%20Atelier%20Nadar%2C%20c.%201860s.jpg"
     },
     {
       "id": "Q24698572",
@@ -918,7 +1024,9 @@
       "country": "Poland",
       "lat": 52.231666666,
       "lon": 21.024722222,
-      "source": "http://www.wikidata.org/entity/Q24698572"
+      "source": "http://www.wikidata.org/entity/Q24698572",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Courbet%20Chillon%20Castle.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustave%20Courbet%2C%20photograph%20Atelier%20Nadar%2C%20c.%201860s.jpg"
     },
     {
       "id": "Q123224529",
@@ -935,7 +1043,9 @@
       "country": "Poland",
       "lat": 52.231666666,
       "lon": 21.024722222,
-      "source": "http://www.wikidata.org/entity/Q123224529"
+      "source": "http://www.wikidata.org/entity/Q123224529",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Courbet%20Landscape%20near%20Ornans.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustave%20Courbet%2C%20photograph%20Atelier%20Nadar%2C%20c.%201860s.jpg"
     },
     {
       "id": "Q24698633",
@@ -952,7 +1062,9 @@
       "country": "Poland",
       "lat": 52.231666666,
       "lon": 21.024722222,
-      "source": "http://www.wikidata.org/entity/Q24698633"
+      "source": "http://www.wikidata.org/entity/Q24698633",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Courbet%20Seashore.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustave%20Courbet%2C%20photograph%20Atelier%20Nadar%2C%20c.%201860s.jpg"
     },
     {
       "id": "Q24698622",
@@ -960,7 +1072,7 @@
       "artistName": "Gustave Courbet",
       "reviewStatus": "generated",
       "title": "Winter landscape with a deer.",
-      "date": "1865",
+      "date": "1871",
       "type": "Painting",
       "attribution": "Accepted",
       "locationId": "national-museum-in-warsaw-srodmiescie",
@@ -969,7 +1081,9 @@
       "country": "Poland",
       "lat": 52.231666666,
       "lon": 21.024722222,
-      "source": "http://www.wikidata.org/entity/Q24698622"
+      "source": "http://www.wikidata.org/entity/Q24698622",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Courbet%20Winter%20landscape.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustave%20Courbet%2C%20photograph%20Atelier%20Nadar%2C%20c.%201860s.jpg"
     },
     {
       "id": "Q104532210",
@@ -986,7 +1100,9 @@
       "country": "Poland",
       "lat": 52.231666666,
       "lon": 21.024722222,
-      "source": "http://www.wikidata.org/entity/Q104532210"
+      "source": "http://www.wikidata.org/entity/Q104532210",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jheronimus%20Bosch%20-%20Descent%20into%20Hell%20-%20M.Ob.1610%20MNW%20-%20National%20Museum%20in%20Warsaw.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg"
     },
     {
       "id": "Q24694603",
@@ -1003,7 +1119,9 @@
       "country": "Poland",
       "lat": 52.231666666,
       "lon": 21.024722222,
-      "source": "http://www.wikidata.org/entity/Q24694603"
+      "source": "http://www.wikidata.org/entity/Q24694603",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Repin%20Vladimir%20Chertkov.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ilya%20Repin%20%281909%29.jpg"
     },
     {
       "id": "Q27870877",
@@ -1020,7 +1138,9 @@
       "country": "Poland",
       "lat": 52.231666666,
       "lon": 21.024722222,
-      "source": "http://www.wikidata.org/entity/Q27870877"
+      "source": "http://www.wikidata.org/entity/Q27870877",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ilja%20Jefimowicz%20Riepin%20-%20Study%20of%20a%20peasant%20on%20the%20grass%20-%20M.Ob.1507%20-%20National%20Museum%20in%20Warsaw.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ilya%20Repin%20%281909%29.jpg"
     },
     {
       "id": "Q104546987",
@@ -1037,24 +1157,9 @@
       "country": "Poland",
       "lat": 52.231666666,
       "lon": 21.024722222,
-      "source": "http://www.wikidata.org/entity/Q104546987"
-    },
-    {
-      "id": "Q2749266",
-      "artistId": "jacques-louis-david",
-      "artistName": "Jacques-Louis David",
-      "reviewStatus": "generated",
-      "title": "Portrait of Count Stanislas Potocki",
-      "date": "1780",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "national-museum-in-warsaw-srodmiescie",
-      "location": "National Museum in Warsaw",
-      "city": "Śródmieście",
-      "country": "Poland",
-      "lat": 52.231666666,
-      "lon": 21.024722222,
-      "source": "http://www.wikidata.org/entity/Q2749266"
+      "source": "http://www.wikidata.org/entity/Q104546987",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jacques-Louis%20David%20-%20Lictors%20bring%20to%20Brutus%20the%20bodies%20of%20his%20sons%20-%20M.Ob.1258%20MNW%20-%20National%20Museum%20in%20Warsaw.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Self%20Portrait.jpg"
     },
     {
       "id": "Q24695413",
@@ -1071,7 +1176,28 @@
       "country": "Poland",
       "lat": 52.231666666,
       "lon": 21.024722222,
-      "source": "http://www.wikidata.org/entity/Q24695413"
+      "source": "http://www.wikidata.org/entity/Q24695413",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%20Academic%20study%20of%20a%20male%20torso.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%2C%20Self-portrait.jpg"
+    },
+    {
+      "id": "Q104698958",
+      "artistId": "jean-baptiste-camille-corot",
+      "artistName": "Jean-Baptiste-Camille Corot",
+      "reviewStatus": "generated",
+      "title": "Landscape – Dusk at the waterside",
+      "date": "Date unknown",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "national-museum-in-warsaw-srodmiescie",
+      "location": "National Museum in Warsaw",
+      "city": "Śródmieście",
+      "country": "Poland",
+      "lat": 52.231666666,
+      "lon": 21.024722222,
+      "source": "http://www.wikidata.org/entity/Q104698958",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste-Camille%20Corot%20-%20Landscape%20%E2%80%93%20Dusk%20at%20the%20waterside%20-%20M.Ob.1223%20MNW%20-%20National%20Museum%20in%20Warsaw.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste-Camille%20Corot%20c1850.png"
     },
     {
       "id": "Q104537262",
@@ -1088,7 +1214,9 @@
       "country": "Poland",
       "lat": 52.231666666,
       "lon": 21.024722222,
-      "source": "http://www.wikidata.org/entity/Q104537262"
+      "source": "http://www.wikidata.org/entity/Q104537262",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste-Sim%C3%A9on%20Chardin%20-%20Still%20life%20with%20kitchen%20utensils%20-%20M.Ob.1318%20MNW%20-%20National%20Museum%20in%20Warsaw.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg"
     },
     {
       "id": "Q29549570",
@@ -1105,7 +1233,9 @@
       "country": "Poland",
       "lat": 52.231666666,
       "lon": 21.024722222,
-      "source": "http://www.wikidata.org/entity/Q29549570"
+      "source": "http://www.wikidata.org/entity/Q29549570",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Millet%20Shepherdess.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-FrancoisMillet%28Nadar%29.jpg"
     },
     {
       "id": "Q28928206",
@@ -1122,7 +1252,9 @@
       "country": "Poland",
       "lat": 52.231666666,
       "lon": 21.024722222,
-      "source": "http://www.wikidata.org/entity/Q28928206"
+      "source": "http://www.wikidata.org/entity/Q28928206",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Fragonard%20First%20lesson%20of%20horse%20riding.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Honor%C3%A9%20Fragonard%20self-portrait.jpg"
     },
     {
       "id": "Q28928176",
@@ -1139,7 +1271,9 @@
       "country": "Poland",
       "lat": 52.231666666,
       "lon": 21.024722222,
-      "source": "http://www.wikidata.org/entity/Q28928176"
+      "source": "http://www.wikidata.org/entity/Q28928176",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Fragonard%20Departure%20of%20firefighters.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Honor%C3%A9%20Fragonard%20self-portrait.jpg"
     },
     {
       "id": "Q23002065",
@@ -1156,7 +1290,9 @@
       "country": "Poland",
       "lat": 52.231666666,
       "lon": 21.024722222,
-      "source": "http://www.wikidata.org/entity/Q23002065"
+      "source": "http://www.wikidata.org/entity/Q23002065",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Constable%20Windmills%20in%20landscape.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Constable%20by%20Daniel%20Gardner%2C%201796.JPG"
     },
     {
       "id": "Q105728291",
@@ -1173,7 +1309,9 @@
       "country": "Poland",
       "lat": 52.231666666,
       "lon": 21.024722222,
-      "source": "http://www.wikidata.org/entity/Q105728291"
+      "source": "http://www.wikidata.org/entity/Q105728291",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Kollwitz%20Whetting%20the%20scythe.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg"
     },
     {
       "id": "Q60534203",
@@ -1190,7 +1328,9 @@
       "country": "Poland",
       "lat": 52.231666666,
       "lon": 21.024722222,
-      "source": "http://www.wikidata.org/entity/Q60534203"
+      "source": "http://www.wikidata.org/entity/Q60534203",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hokusai%20au%20mus%C3%A9e%20Guimet%20%288290871756%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hokusai%20as%20an%20old%20man.jpg"
     },
     {
       "id": "Q123028330",
@@ -1207,7 +1347,28 @@
       "country": "Poland",
       "lat": 52.231666666,
       "lon": 21.024722222,
-      "source": "http://www.wikidata.org/entity/Q123028330"
+      "source": "http://www.wikidata.org/entity/Q123028330",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Katsushika%20Hokusai%20Poet%20Saigyo.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hokusai%20as%20an%20old%20man.jpg"
+    },
+    {
+      "id": "Q41135980",
+      "artistId": "katsushika-hokusai",
+      "artistName": "Katsushika Hokusai",
+      "reviewStatus": "generated",
+      "title": "The Yoshitsune Horse-Washing Falls at Yoshino, Izumi Province",
+      "date": "1832",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "national-museum-in-warsaw-srodmiescie",
+      "location": "National Museum in Warsaw",
+      "city": "Śródmieście",
+      "country": "Poland",
+      "lat": 52.231666666,
+      "lon": 21.024722222,
+      "source": "http://www.wikidata.org/entity/Q41135980",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Katsushika%20Hokusai%20Waterfall%20in%20Yoshino.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hokusai%20as%20an%20old%20man.jpg"
     },
     {
       "id": "Q75837458",
@@ -1224,7 +1385,9 @@
       "country": "Poland",
       "lat": 52.231666666,
       "lon": 21.024722222,
-      "source": "http://www.wikidata.org/entity/Q75837458"
+      "source": "http://www.wikidata.org/entity/Q75837458",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Katsushika%20Hokusai%20Waterfall%20in%20Yoshino.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hokusai%20as%20an%20old%20man.jpg"
     },
     {
       "id": "Q9140599",
@@ -1241,7 +1404,9 @@
       "country": "Poland",
       "lat": 52.231666666,
       "lon": 21.024722222,
-      "source": "http://www.wikidata.org/entity/Q9140599"
+      "source": "http://www.wikidata.org/entity/Q9140599",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20d.%C3%84.%20-%20Adam%20und%20Eva%20%281510-12%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20d.%20%C3%84.%20063.jpg"
     },
     {
       "id": "Q22043991",
@@ -1258,7 +1423,9 @@
       "country": "Poland",
       "lat": 52.231666666,
       "lon": 21.024722222,
-      "source": "http://www.wikidata.org/entity/Q22043991"
+      "source": "http://www.wikidata.org/entity/Q22043991",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Cranach%20Hercules%20and%20Omphale.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20d.%20%C3%84.%20063.jpg"
     },
     {
       "id": "Q22045540",
@@ -1275,7 +1442,9 @@
       "country": "Poland",
       "lat": 52.231666666,
       "lon": 21.024722222,
-      "source": "http://www.wikidata.org/entity/Q22045540"
+      "source": "http://www.wikidata.org/entity/Q22045540",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Cranach%20Massacre%20of%20the%20Innocents.JPG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20d.%20%C3%84.%20063.jpg"
     },
     {
       "id": "Q22043795",
@@ -1292,7 +1461,9 @@
       "country": "Poland",
       "lat": 52.231666666,
       "lon": 21.024722222,
-      "source": "http://www.wikidata.org/entity/Q22043795"
+      "source": "http://www.wikidata.org/entity/Q22043795",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Cranach%20Ill-matched%20couple.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20d.%20%C3%84.%20063.jpg"
     },
     {
       "id": "Q28940547",
@@ -1309,41 +1480,9 @@
       "country": "Poland",
       "lat": 52.231666666,
       "lon": 21.024722222,
-      "source": "http://www.wikidata.org/entity/Q28940547"
-    },
-    {
-      "id": "Q28940578",
-      "artistId": "paul-klee",
-      "artistName": "Paul Klee",
-      "reviewStatus": "generated",
-      "title": "Untitled record",
-      "date": "1921",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "national-museum-in-warsaw-srodmiescie",
-      "location": "National Museum in Warsaw",
-      "city": "Śródmieście",
-      "country": "Poland",
-      "lat": 52.231666666,
-      "lon": 21.024722222,
-      "source": "http://www.wikidata.org/entity/Q28940578"
-    },
-    {
-      "id": "Q28940611",
-      "artistId": "paul-klee",
-      "artistName": "Paul Klee",
-      "reviewStatus": "generated",
-      "title": "Untitled record",
-      "date": "1928",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "national-museum-in-warsaw-srodmiescie",
-      "location": "National Museum in Warsaw",
-      "city": "Śródmieście",
-      "country": "Poland",
-      "lat": 52.231666666,
-      "lon": 21.024722222,
-      "source": "http://www.wikidata.org/entity/Q28940611"
+      "source": "http://www.wikidata.org/entity/Q28940547",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Klee%20Childlike%20dream%20on%20architecture.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Klee%201911.jpg"
     },
     {
       "id": "Q28940655",
@@ -1360,7 +1499,47 @@
       "country": "Poland",
       "lat": 52.231666666,
       "lon": 21.024722222,
-      "source": "http://www.wikidata.org/entity/Q28940655"
+      "source": "http://www.wikidata.org/entity/Q28940655",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Klee%201911.jpg"
+    },
+    {
+      "id": "Q28940578",
+      "artistId": "paul-klee",
+      "artistName": "Paul Klee",
+      "reviewStatus": "generated",
+      "title": "Untitled record",
+      "date": "1921",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "national-museum-in-warsaw-srodmiescie",
+      "location": "National Museum in Warsaw",
+      "city": "Śródmieście",
+      "country": "Poland",
+      "lat": 52.231666666,
+      "lon": 21.024722222,
+      "source": "http://www.wikidata.org/entity/Q28940578",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Klee%20Somnambulic%20dancer.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Klee%201911.jpg"
+    },
+    {
+      "id": "Q28940611",
+      "artistId": "paul-klee",
+      "artistName": "Paul Klee",
+      "reviewStatus": "generated",
+      "title": "Untitled record",
+      "date": "1928",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "national-museum-in-warsaw-srodmiescie",
+      "location": "National Museum in Warsaw",
+      "city": "Śródmieście",
+      "country": "Poland",
+      "lat": 52.231666666,
+      "lon": 21.024722222,
+      "source": "http://www.wikidata.org/entity/Q28940611",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Klee%20Drawing%20with%20birthday%20wishes.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Klee%201911.jpg"
     },
     {
       "id": "Q25301122",
@@ -1377,7 +1556,9 @@
       "country": "Poland",
       "lat": 52.231666666,
       "lon": 21.024722222,
-      "source": "http://www.wikidata.org/entity/Q25301122"
+      "source": "http://www.wikidata.org/entity/Q25301122",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Signac%20-%20Antibes%20%E2%80%93%20Morning%20-%20M.Ob.2520%20-%20National%20Museum%20in%20Warsaw.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Seurat%20Paul%20Signac.jpg"
     },
     {
       "id": "Q25736361",
@@ -1394,7 +1575,9 @@
       "country": "Poland",
       "lat": 52.231666666,
       "lon": 21.024722222,
-      "source": "http://www.wikidata.org/entity/Q25736361"
+      "source": "http://www.wikidata.org/entity/Q25736361",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20-%20Landscape%20from%20the%20south%20of%20France%20%28Cagnes-sur-Mer%29%20-%20M.Ob.1000%20MNW%20-%20National%20Museum%20in%20Warsaw.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre%20Auguste%20Renoir%2C%20uncropped%20image.jpg"
     },
     {
       "id": "Q9184228",
@@ -1411,7 +1594,9 @@
       "country": "Poland",
       "lat": 52.231666666,
       "lon": 21.024722222,
-      "source": "http://www.wikidata.org/entity/Q9184228"
+      "source": "http://www.wikidata.org/entity/Q9184228",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Renoir%20Landscape%20near%20Cagnes-sur-Mer.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre%20Auguste%20Renoir%2C%20uncropped%20image.jpg"
     },
     {
       "id": "Q25735328",
@@ -1428,7 +1613,9 @@
       "country": "Poland",
       "lat": 52.231666666,
       "lon": 21.024722222,
-      "source": "http://www.wikidata.org/entity/Q25735328"
+      "source": "http://www.wikidata.org/entity/Q25735328",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20-%20Landscape%20with%20houses%20in%20Cagnes-sur-Mer%20-%20M.Ob.999%20MNW%20-%20National%20Museum%20in%20Warsaw.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre%20Auguste%20Renoir%2C%20uncropped%20image.jpg"
     },
     {
       "id": "Q28935184",
@@ -1445,7 +1632,28 @@
       "country": "Poland",
       "lat": 52.231666666,
       "lon": 21.024722222,
-      "source": "http://www.wikidata.org/entity/Q28935184"
+      "source": "http://www.wikidata.org/entity/Q28935184",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Renoir%20La%20collation.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre%20Auguste%20Renoir%2C%20uncropped%20image.jpg"
+    },
+    {
+      "id": "Q27700056",
+      "artistId": "rembrandt",
+      "artistName": "Rembrandt",
+      "reviewStatus": "generated",
+      "title": "Old woman in Oriental costume",
+      "date": "1631",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "national-museum-in-warsaw-srodmiescie",
+      "location": "National Museum in Warsaw",
+      "city": "Śródmieście",
+      "country": "Poland",
+      "lat": 52.231666666,
+      "lon": 21.024722222,
+      "source": "http://www.wikidata.org/entity/Q27700056",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Anonymous%20Old%20woman%20in%20Oriental%20costume.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20van%20Rijn%20-%20Self-Portrait%20-%20Google%20Art%20Project.jpg"
     },
     {
       "id": "Q9364415",
@@ -1462,7 +1670,9 @@
       "country": "Poland",
       "lat": 52.231666666,
       "lon": 21.024722222,
-      "source": "http://www.wikidata.org/entity/Q9364415"
+      "source": "http://www.wikidata.org/entity/Q9364415",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20Harmensz.%20van%20Rijn%20158.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20van%20Rijn%20-%20Self-Portrait%20-%20Google%20Art%20Project.jpg"
     },
     {
       "id": "Q32590976",
@@ -1479,7 +1689,9 @@
       "country": "Poland",
       "lat": 52.231666666,
       "lon": 21.024722222,
-      "source": "http://www.wikidata.org/entity/Q32590976"
+      "source": "http://www.wikidata.org/entity/Q32590976",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bonheur%20Sultan%20and%20Rosette.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Andr%C3%A9%20Adolphe-Eug%C3%A8ne%20Disd%C3%A9ri%20%28French%20-%20%28Rosa%20Bonheur%29%20-%20Google%20Art%20Project.jpg"
     },
     {
       "id": "Q21598764",
@@ -1496,7 +1708,9 @@
       "country": "Poland",
       "lat": 52.231666666,
       "lon": 21.024722222,
-      "source": "http://www.wikidata.org/entity/Q21598764"
+      "source": "http://www.wikidata.org/entity/Q21598764",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Botticelli%20-%20Madonna%20with%20Child%2C%20Saint%20John%20the%20Baptist%20and%20an%20Angel%20%28Warsaw%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sandro%20Botticelli%20Self-portrait%20ca%201475.jpg"
     },
     {
       "id": "Q22003360",
@@ -1513,7 +1727,9 @@
       "country": "Poland",
       "lat": 52.231666666,
       "lon": 21.024722222,
-      "source": "http://www.wikidata.org/entity/Q22003360"
+      "source": "http://www.wikidata.org/entity/Q22003360",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Anguissola%20A%20man%20with%20his%20daughter.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sofonisba%20Anguissola%2C%20Selvportr%C3%A6t%20ved%20staffeliet%2C%201556%2C%20Museum%20Castle%20in%20%C5%81a%C5%84cut.jpg"
     },
     {
       "id": "Q104532341",
@@ -1530,7 +1746,9 @@
       "country": "Poland",
       "lat": 52.231666666,
       "lon": 21.024722222,
-      "source": "http://www.wikidata.org/entity/Q104532341"
+      "source": "http://www.wikidata.org/entity/Q104532341",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jacopo%20Tintoretto%20-%20Portrait%20of%20a%20Venetian%20admiral%20-%20M.Ob.635%20MNW%20-%20National%20Museum%20in%20Warsaw.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Tintoretto%20-%20Self-Portrait%20as%20a%20Young%20Man%2C%20ca.%201548%2C%20CAI.103%20%28cropped%29.jpg"
     },
     {
       "id": "Q11824966",
@@ -1547,7 +1765,9 @@
       "country": "Poland",
       "lat": 52.231666666,
       "lon": 21.024722222,
-      "source": "http://www.wikidata.org/entity/Q11824966"
+      "source": "http://www.wikidata.org/entity/Q11824966",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Tintoretto%20Venetian%20admiral.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Tintoretto%20-%20Self-Portrait%20as%20a%20Young%20Man%2C%20ca.%201548%2C%20CAI.103%20%28cropped%29.jpg"
     },
     {
       "id": "Q28026121",
@@ -1564,7 +1784,9 @@
       "country": "Poland",
       "lat": 52.231666666,
       "lon": 21.024722222,
-      "source": "http://www.wikidata.org/entity/Q28026121"
+      "source": "http://www.wikidata.org/entity/Q28026121",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hogarth%20Princess%20Augusta%20of%20Saxe-Gotha.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Painter%20and%20His%20Pug%20by%20William%20Hogarth.jpg"
     },
     {
       "id": "Q121599908",
@@ -1581,7 +1803,9 @@
       "country": "Poland",
       "lat": 52.247777777,
       "lon": 21.014166666,
-      "source": "http://www.wikidata.org/entity/Q121599908"
+      "source": "http://www.wikidata.org/entity/Q121599908",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Uccello%2C%20Madonna%20and%20Child%20%28Warsaw%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Cinq%20ma%C3%AEtres%20de%20la%20Renaissance%20florentine%20-%20Uccello%20%28Louvre%29.jpg"
     },
     {
       "id": "Q124348350",
@@ -1598,7 +1822,9 @@
       "country": "Poland",
       "lat": 52.247777777,
       "lon": 21.014166666,
-      "source": "http://www.wikidata.org/entity/Q124348350"
+      "source": "http://www.wikidata.org/entity/Q124348350",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Raffaelo%20Sanzio%2C%20Standing%20Soldier%20in%20Armor%20Seen%20in%20Profile.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Raffaello%20Sanzio.jpg"
     },
     {
       "id": "Q11695670",
@@ -1615,7 +1841,9 @@
       "country": "Poland",
       "lat": 52.247777777,
       "lon": 21.014166666,
-      "source": "http://www.wikidata.org/entity/Q11695670"
+      "source": "http://www.wikidata.org/entity/Q11695670",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20Girl%20in%20a%20Picture%20Frame.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20van%20Rijn%20-%20Self-Portrait%20-%20Google%20Art%20Project.jpg"
     },
     {
       "id": "Q123171151",
@@ -1632,7 +1860,28 @@
       "country": "Poland",
       "lat": 52.247777777,
       "lon": 21.014166666,
-      "source": "http://www.wikidata.org/entity/Q123171151"
+      "source": "http://www.wikidata.org/entity/Q123171151",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Gainsborough%20-%20Portrait%20of%20George%20III%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Gainsborough%20by%20Thomas%20Gainsborough.jpg"
+    },
+    {
+      "id": "Q2749266",
+      "artistId": "jacques-louis-david",
+      "artistName": "Jacques-Louis David",
+      "reviewStatus": "generated",
+      "title": "Portrait of Count Stanislas Potocki",
+      "date": "1780",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "palace-museum-in-wilanow-wilanow",
+      "location": "Palace Museum in Wilanów",
+      "city": "Wilanów",
+      "country": "Poland",
+      "lat": 52.16516667,
+      "lon": 21.09030833,
+      "source": "http://www.wikidata.org/entity/Q2749266",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jacques-Louis%20David%20-%20Equestrian%20portrait%20of%20Stanis%C5%82aw%20Kostka%20Potocki%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Self%20Portrait.jpg"
     },
     {
       "id": "Q22043948",
@@ -1649,7 +1898,9 @@
       "country": "Poland",
       "lat": 52.16516667,
       "lon": 21.09030833,
-      "source": "http://www.wikidata.org/entity/Q22043948"
+      "source": "http://www.wikidata.org/entity/Q22043948",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Cranach%20Lucretia.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20d.%20%C3%84.%20063.jpg"
     },
     {
       "id": "Q9248649",
@@ -1666,7 +1917,9 @@
       "country": "Poland",
       "lat": 52.16516667,
       "lon": 21.09030833,
-      "source": "http://www.wikidata.org/entity/Q9248649"
+      "source": "http://www.wikidata.org/entity/Q9248649",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Cranach%20the%20Elder%20Girl%20with%20forget-me-nots.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20d.%20%C3%84.%20063.jpg"
     },
     {
       "id": "Q119402055",
@@ -1683,7 +1936,9 @@
       "country": "Poland",
       "lat": 52.16516667,
       "lon": 21.09030833,
-      "source": "http://www.wikidata.org/entity/Q119402055"
+      "source": "http://www.wikidata.org/entity/Q119402055",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Tintoretto%20Allegory.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Tintoretto%20-%20Self-Portrait%20as%20a%20Young%20Man%2C%20ca.%201548%2C%20CAI.103%20%28cropped%29.jpg"
     },
     {
       "id": "Q650478",
@@ -1700,7 +1955,9 @@
       "country": "Poland",
       "lat": 51.1147,
       "lon": 17.0473,
-      "source": "http://www.wikidata.org/entity/Q650478"
+      "source": "http://www.wikidata.org/entity/Q650478",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Cranach-the-elder-wroclaw-madonna.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20d.%20%C3%84.%20063.jpg"
     },
     {
       "id": "Q105296843",
@@ -1717,7 +1974,9 @@
       "country": "Poland",
       "lat": 51.111,
       "lon": 17.0475,
-      "source": "http://www.wikidata.org/entity/Q105296843"
+      "source": "http://www.wikidata.org/entity/Q105296843",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Zurbar%C3%A1n%20Christ%20at%20the%20Column.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Francisco%20de%20Zurbar%C3%A1n%20autoportrait.jpg"
     },
     {
       "id": "Q105834803",
@@ -1734,7 +1993,9 @@
       "country": "Poland",
       "lat": 51.111,
       "lon": 17.0475,
-      "source": "http://www.wikidata.org/entity/Q105834803"
+      "source": "http://www.wikidata.org/entity/Q105834803",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20Portrait%20of%20a%20boy.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg"
     },
     {
       "id": "Q105296020",
@@ -1751,7 +2012,9 @@
       "country": "Poland",
       "lat": 51.111,
       "lon": 17.0475,
-      "source": "http://www.wikidata.org/entity/Q105296020"
+      "source": "http://www.wikidata.org/entity/Q105296020",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Cranach%20Eve.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20d.%20%C3%84.%20063.jpg"
     },
     {
       "id": "Q105834881",
@@ -1768,7 +2031,9 @@
       "country": "Poland",
       "lat": 51.111,
       "lon": 17.0475,
-      "source": "http://www.wikidata.org/entity/Q105834881"
+      "source": "http://www.wikidata.org/entity/Q105834881",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Kemmer%20Judith.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20d.%20%C3%84.%20063.jpg"
     },
     {
       "id": "Q96678699",
@@ -1776,7 +2041,7 @@
       "artistName": "Lucas Cranach the Elder",
       "reviewStatus": "generated",
       "title": "The Lamentation of Christ",
-      "date": "1530",
+      "date": "1560",
       "type": "Painting",
       "attribution": "Accepted",
       "locationId": "national-museum-in-wroc-aw-wroc-aw",
@@ -1785,7 +2050,9 @@
       "country": "Poland",
       "lat": 51.111,
       "lon": 17.0475,
-      "source": "http://www.wikidata.org/entity/Q96678699"
+      "source": "http://www.wikidata.org/entity/Q96678699",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Lamentation%20-%20Nationalmuseum%20-%2023393.tif",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20d.%20%C3%84.%20063.jpg"
     },
     {
       "id": "Q119621750",
@@ -1802,7 +2069,9 @@
       "country": "Poland",
       "lat": 51.111,
       "lon": 17.0475,
-      "source": "http://www.wikidata.org/entity/Q119621750"
+      "source": "http://www.wikidata.org/entity/Q119621750",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Tintoretto%20-%20Narcyz.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Tintoretto%20-%20Self-Portrait%20as%20a%20Young%20Man%2C%20ca.%201548%2C%20CAI.103%20%28cropped%29.jpg"
     },
     {
       "id": "Q105296717",
@@ -1819,7 +2088,9 @@
       "country": "Poland",
       "lat": 51.111,
       "lon": 17.0475,
-      "source": "http://www.wikidata.org/entity/Q105296717"
+      "source": "http://www.wikidata.org/entity/Q105296717",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Kandinsky%20The%20evening.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Wassily%20kandinsky.jpg"
     },
     {
       "id": "Q111798787",
@@ -1836,7 +2107,9 @@
       "country": "Poland",
       "lat": 51.1074,
       "lon": 17.028883,
-      "source": "http://www.wikidata.org/entity/Q111798787"
+      "source": "http://www.wikidata.org/entity/Q111798787",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Wassily%20kandinsky.jpg"
     }
   ]
 }

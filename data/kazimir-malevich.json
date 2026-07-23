@@ -17,10 +17,11 @@
       "source": "http://www.wikidata.org/entity/Q19934456",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Painterly%20Realism%20of%20a%20Football%20Player%20%E2%80%93%20Color%20Masses%20in%20the%204th%20Dimension%20%28Malevich%2C%201915%29%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -41,10 +42,11 @@
       "source": "http://www.wikidata.org/entity/Q133254057",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9A%D0%B0%D0%B7%D0%B8%D0%BC%D0%B8%D1%80%20%D0%9C%D0%B0%D0%BB%D0%B5%D0%B2%D0%B8%D1%87%2C%20%D0%A1%D1%83%D0%BF%D1%80%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BA%D0%BE%D0%BC%D0%BF%D0%BE%D0%B7%D0%B8%D1%86%D0%B8%D1%8F%2C%201915.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -65,10 +67,11 @@
       "source": "http://www.wikidata.org/entity/Q75395894",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Kazimir%20Severinovich%20Malevich%2C%20A%20Peasant%20Woman%20Goes%20for%20Water%2C%201913%2C%20NGA%2093945.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -89,10 +92,11 @@
       "source": "http://www.wikidata.org/entity/Q28105271",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/K.S.%20Malevich%20-%20De%20suprematie%20van%20de%20geest%20-%20AB17682%20-%20Cultural%20Heritage%20Agency%20of%20the%20Netherlands%20Art%20Collection.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -113,10 +117,11 @@
       "source": "http://www.wikidata.org/entity/Q27970882",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Malevich%2C%20Kazimir%20Severinovich%20-%20Black%20Square.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -137,10 +142,11 @@
       "source": "http://www.wikidata.org/entity/Q130535823",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Suprematism%20%28Malevich%2C%201915%3B%201%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -161,10 +167,11 @@
       "source": "http://www.wikidata.org/entity/Q135190318",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Kazimir%20Malevich%20-%20Suprematism%20-%20Google%20Art%20Project%20%28fgFDOCizceY5pw%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -185,10 +192,11 @@
       "source": "http://www.wikidata.org/entity/Q88965756",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Supremus%2055%20%28Malevich%2C%201916%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -200,19 +208,20 @@
       "attribution": "Accepted",
       "artistId": "kazimir-malevich",
       "artistName": "Kazimir Malevich",
-      "locationId": "kunsthaus-zurich-district-1",
+      "locationId": "kunsthaus-zurich-zurich",
       "location": "Kunsthaus Zürich",
-      "city": "District 1",
+      "city": "Zurich",
       "country": "Switzerland",
       "lat": 47.370277777,
       "lon": 8.548055555,
       "source": "http://www.wikidata.org/entity/Q131587018",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -233,10 +242,11 @@
       "source": "http://www.wikidata.org/entity/Q134005708",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Black%20and%20White.%20Suprematist%20Composition%20%28Malevich%2C%201915%29.png",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -257,10 +267,11 @@
       "source": "http://www.wikidata.org/entity/Q27061824",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Una%20%28Malevich%2C%201932%29.png",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -281,10 +292,11 @@
       "source": "http://www.wikidata.org/entity/Q42349624",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Farmhouse%20%28Malevich%2C%20ca.%201905%E2%80%9306%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -305,10 +317,11 @@
       "source": "http://www.wikidata.org/entity/Q18170345",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9A%D1%80%D0%B5%D1%81%D1%82.%201915.png",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -329,10 +342,11 @@
       "source": "http://www.wikidata.org/entity/Q60696772",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Carr%C3%A9%20noir%20%28MNAM%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -353,10 +367,11 @@
       "source": "http://www.wikidata.org/entity/Q60614512",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Malevich%20%E2%80%94%20Sensation%20of%20danger.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -377,10 +392,11 @@
       "source": "http://www.wikidata.org/entity/Q60698940",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Kasimir%20mal%C3%A9vitch%2C%20uomo%20e%20cavallo%2C%201933.JPG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -401,58 +417,11 @@
       "source": "http://www.wikidata.org/entity/Q42420399",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Landscape%2C%20Field%20%28Malevich%2C%20ca.%201932%29.png",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q133236286",
-      "title": "Untitled record",
-      "date": "1903",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "kazimir-malevich",
-      "artistName": "Kazimir Malevich",
-      "locationId": "museum-ludwig-altstadt-nord",
-      "location": "Museum Ludwig",
-      "city": "Altstadt-Nord",
-      "country": "Germany",
-      "lat": 50.94083333,
-      "lon": 6.96027778,
-      "source": "http://www.wikidata.org/entity/Q133236286",
-      "image": "",
-      "externalImage": "",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q133236332",
-      "title": "Untitled record",
-      "date": "1922",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "kazimir-malevich",
-      "artistName": "Kazimir Malevich",
-      "locationId": "museum-ludwig-altstadt-nord",
-      "location": "Museum Ludwig",
-      "city": "Altstadt-Nord",
-      "country": "Germany",
-      "lat": 50.94083333,
-      "lon": 6.96027778,
-      "source": "http://www.wikidata.org/entity/Q133236332",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%8B%D0%B9%20%D0%BA%D0%B2%D0%B0%D0%B4%D1%80%D0%B0%D1%82%20%D0%BD%D0%B0%20%D1%87%D0%B5%D1%80%D0%BD%D0%BE%D0%BC%20%D1%84%D0%BE%D0%BD%D0%B5.png",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -473,10 +442,11 @@
       "source": "http://www.wikidata.org/entity/Q133043365",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Suprematism%20%28Malevich%2C%201915%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -497,10 +467,61 @@
       "source": "http://www.wikidata.org/entity/Q131694573",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Winter%20Landscape%20%28Malevich%2C%201930%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q133236332",
+      "title": "Untitled record",
+      "date": "1922",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "kazimir-malevich",
+      "artistName": "Kazimir Malevich",
+      "locationId": "museum-ludwig-altstadt-nord",
+      "location": "Museum Ludwig",
+      "city": "Altstadt-Nord",
+      "country": "Germany",
+      "lat": 50.94083333,
+      "lon": 6.96027778,
+      "source": "http://www.wikidata.org/entity/Q133236332",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%8B%D0%B9%20%D0%BA%D0%B2%D0%B0%D0%B4%D1%80%D0%B0%D1%82%20%D0%BD%D0%B0%20%D1%87%D0%B5%D1%80%D0%BD%D0%BE%D0%BC%20%D1%84%D0%BE%D0%BD%D0%B5.png",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q130777",
+        "retrieved": "2026-07-23",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q133236286",
+      "title": "Untitled record",
+      "date": "1903",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "kazimir-malevich",
+      "artistName": "Kazimir Malevich",
+      "locationId": "museum-ludwig-altstadt-nord",
+      "location": "Museum Ludwig",
+      "city": "Altstadt-Nord",
+      "country": "Germany",
+      "lat": 50.94083333,
+      "lon": 6.96027778,
+      "source": "http://www.wikidata.org/entity/Q133236286",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q130777",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -516,15 +537,16 @@
       "location": "Museum of Modern Art",
       "city": "Manhattan",
       "country": "United States",
-      "lat": 40.761444444,
-      "lon": -73.977611111,
+      "lat": 40.761666666,
+      "lon": -73.9775,
       "source": "http://www.wikidata.org/entity/Q19883749",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Black%20Square%20and%20Red%20Square%20%28Malevich%2C%201915%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -540,15 +562,16 @@
       "location": "Museum of Modern Art",
       "city": "Manhattan",
       "country": "United States",
-      "lat": 40.761444444,
-      "lon": -73.977611111,
+      "lat": 40.761666666,
+      "lon": -73.9775,
       "source": "http://www.wikidata.org/entity/Q19883721",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Reservist%20of%20the%20First%20Division%20%28Malevich%2C%201914%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -564,15 +587,16 @@
       "location": "Museum of Modern Art",
       "city": "Manhattan",
       "country": "United States",
-      "lat": 40.761444444,
-      "lon": -73.977611111,
+      "lat": 40.761666666,
+      "lon": -73.9775,
       "source": "http://www.wikidata.org/entity/Q19883663",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Samovar%20%28Malevich%2C%201913%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -588,15 +612,16 @@
       "location": "Museum of Modern Art",
       "city": "Manhattan",
       "country": "United States",
-      "lat": 40.761444444,
-      "lon": -73.977611111,
+      "lat": 40.761666666,
+      "lon": -73.9775,
       "source": "http://www.wikidata.org/entity/Q19883748",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Suprematist%20Composition%20-%20Airplane%20Flying%20%28Malevich%2C%201915%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -612,15 +637,16 @@
       "location": "Museum of Modern Art",
       "city": "Manhattan",
       "country": "United States",
-      "lat": 40.761444444,
-      "lon": -73.977611111,
+      "lat": 40.761666666,
+      "lon": -73.9775,
       "source": "http://www.wikidata.org/entity/Q579455",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/White%20on%20White%20%28Malevich%2C%201918%29.png",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -636,15 +662,16 @@
       "location": "Museum of Modern Art",
       "city": "Manhattan",
       "country": "United States",
-      "lat": 40.761444444,
-      "lon": -73.977611111,
+      "lat": 40.761666666,
+      "lon": -73.9775,
       "source": "http://www.wikidata.org/entity/Q19883763",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Suprematist%20Painting%20%28Malevich%2C%201917%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -660,15 +687,16 @@
       "location": "Museum of Modern Art",
       "city": "Manhattan",
       "country": "United States",
-      "lat": 40.761444444,
-      "lon": -73.977611111,
+      "lat": 40.761666666,
+      "lon": -73.9775,
       "source": "http://www.wikidata.org/entity/Q63203963",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Two%20Squares%20%28Malevich%2C%201927%29.png",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -684,15 +712,16 @@
       "location": "Museum of Modern Art",
       "city": "Manhattan",
       "country": "United States",
-      "lat": 40.761444444,
-      "lon": -73.977611111,
+      "lat": 40.761666666,
+      "lon": -73.9775,
       "source": "http://www.wikidata.org/entity/Q19883621",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Woman%20with%20Pails%20%28Malevich%2C%201912%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -713,10 +742,11 @@
       "source": "http://www.wikidata.org/entity/Q26257045",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9A%D0%B0%D0%B7%D0%B8%D0%BC%D0%B8%D1%80%20%D0%9C%D0%B0%D0%BB%D0%B5%D0%B2%D0%B8%D1%87.%20%D0%A1%D1%83%D0%BF%D1%80%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%BD%D0%B0%20%D0%BA%D0%BE%D0%BC%D0%BF%D0%BE%D0%B7%D0%B8%D1%86%D1%96%D1%8F.%201916.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -728,19 +758,20 @@
       "attribution": "Accepted",
       "artistId": "kazimir-malevich",
       "artistName": "Kazimir Malevich",
-      "locationId": "national-gallery-of-australia-australian-capital-territory",
+      "locationId": "national-gallery-of-australia-canberra",
       "location": "National Gallery of Australia",
-      "city": "Australian Capital Territory",
+      "city": "Canberra",
       "country": "Australia",
       "lat": -35.300277777,
       "lon": 149.136388888,
       "source": "http://www.wikidata.org/entity/Q50701137",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Kasimir%20Malevich%20-%20Stroyuschiysya%20dom%20%28House%20under%20construction%29%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -761,10 +792,11 @@
       "source": "http://www.wikidata.org/entity/Q65124613",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%A1%D1%83%D0%BF%D1%80%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%BC%2065.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -785,10 +817,11 @@
       "source": "http://www.wikidata.org/entity/Q19882746",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Untitled%20%28Malevich%2C%201916%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -809,10 +842,11 @@
       "source": "http://www.wikidata.org/entity/Q18279929",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%A7%D0%B5%D1%82%D1%8B%D1%80%D0%B5%20%D0%BA%D0%B2%D0%B0%D0%B4%D1%80%D0%B0%D1%82%D0%B0%20%28Four%20square%29%2C%20%D0%9A.%D0%A1.%D0%9C%D0%B0%D0%BB%D0%B5%D0%B2%D0%B8%D1%87.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -833,10 +867,11 @@
       "source": "http://www.wikidata.org/entity/Q42420475",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Apple%20Trees%20in%20Blossom%20%28Malevich%2C%20late%201920s%29.png",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -852,15 +887,16 @@
       "location": "Russian Museum",
       "city": "Saint Petersburg",
       "country": "Russia",
-      "lat": 59.938592,
-      "lon": 30.332221,
+      "lat": 59.938681,
+      "lon": 30.332386,
       "source": "http://www.wikidata.org/entity/Q28841976",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Malevich%20Landscape%20With%20Yellow%20House.JPG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -876,15 +912,16 @@
       "location": "Russian Museum",
       "city": "Saint Petersburg",
       "country": "Russia",
-      "lat": 59.938592,
-      "lon": 30.332221,
+      "lat": 59.938681,
+      "lon": 30.332386,
       "source": "http://www.wikidata.org/entity/Q130752884",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Aviator%20%28Malevich%2C%201914%29%20%28Painting%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -905,10 +942,11 @@
       "source": "http://www.wikidata.org/entity/Q4518897",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Black%20circle.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -929,10 +967,11 @@
       "source": "http://www.wikidata.org/entity/Q19934461",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Black%20Cross.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -948,15 +987,16 @@
       "location": "Russian Museum",
       "city": "Saint Petersburg",
       "country": "Russia",
-      "lat": 59.938592,
-      "lon": 30.332221,
+      "lat": 59.938681,
+      "lon": 30.332386,
       "source": "http://www.wikidata.org/entity/Q134005754",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Black%20Square.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -972,15 +1012,16 @@
       "location": "Russian Museum",
       "city": "Saint Petersburg",
       "country": "Russia",
-      "lat": 59.938592,
-      "lon": 30.332221,
+      "lat": 59.938681,
+      "lon": 30.332386,
       "source": "http://www.wikidata.org/entity/Q130752964",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Black%20square%20lg.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1001,10 +1042,11 @@
       "source": "http://www.wikidata.org/entity/Q42422786",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Blue%20Portrait%20%28Kazimir%20Malevich%2C%20ca.%201928%E2%80%9329%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1025,10 +1067,11 @@
       "source": "http://www.wikidata.org/entity/Q42420659",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Boulevard%2C%20by%20Kazimir%20Malevich.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1044,15 +1087,16 @@
       "location": "Russian Museum",
       "city": "Saint Petersburg",
       "country": "Russia",
-      "lat": 59.938592,
-      "lon": 30.332221,
+      "lat": 59.938681,
+      "lon": 30.332386,
       "source": "http://www.wikidata.org/entity/Q138792947",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1073,10 +1117,11 @@
       "source": "http://www.wikidata.org/entity/Q42420754",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Flowergirl%20II%20%28Malevich%2C%20End%20of%201920s%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1097,10 +1142,11 @@
       "source": "http://www.wikidata.org/entity/Q42420842",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Flowergirl%2C%20by%20Kazimir%20Malevich.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1121,10 +1167,11 @@
       "source": "http://www.wikidata.org/entity/Q42421447",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Transfiguration%2C%20Body%20and%20Soul%20%28Malevich%2C%201907%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1145,10 +1192,11 @@
       "source": "http://www.wikidata.org/entity/Q28920069",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Malevich192.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1164,15 +1212,16 @@
       "location": "Russian Museum",
       "city": "Saint Petersburg",
       "country": "Russia",
-      "lat": 59.938592,
-      "lon": 30.332221,
+      "lat": 59.938681,
+      "lon": 30.332386,
       "source": "http://www.wikidata.org/entity/Q42310483",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Head%20of%20a%20woman%20%28Malevich%2C%201907%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1193,10 +1242,11 @@
       "source": "http://www.wikidata.org/entity/Q56459282",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Malevich%20-%20Boy.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1217,10 +1267,11 @@
       "source": "http://www.wikidata.org/entity/Q42565920",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1241,10 +1292,11 @@
       "source": "http://www.wikidata.org/entity/Q42413188",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Malevich%20Summer%20Landscape.JPG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1265,10 +1317,11 @@
       "source": "http://www.wikidata.org/entity/Q42422536",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1289,10 +1342,11 @@
       "source": "http://www.wikidata.org/entity/Q42413027",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1313,10 +1367,11 @@
       "source": "http://www.wikidata.org/entity/Q42351391",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Landscape%20with%20Red%20House.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1337,10 +1392,11 @@
       "source": "http://www.wikidata.org/entity/Q42413106",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Kazimir%20Malevich%2C%20Landscape%20with%20white%20house%2C%20end%20of%201920s.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1361,10 +1417,11 @@
       "source": "http://www.wikidata.org/entity/Q42413354",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Fields.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1385,10 +1442,11 @@
       "source": "http://www.wikidata.org/entity/Q42423113",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Laundress%2C%20by%20Kazimir%20Malevich.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1404,15 +1462,16 @@
       "location": "Russian Museum",
       "city": "Saint Petersburg",
       "country": "Russia",
-      "lat": 59.938592,
-      "lon": 30.332221,
+      "lat": 59.938681,
+      "lon": 30.332386,
       "source": "http://www.wikidata.org/entity/Q42421309",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Meditation%20%28Malevich%2C%201907%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1433,10 +1492,11 @@
       "source": "http://www.wikidata.org/entity/Q42420549",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/On%20the%20Boulevard.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1452,15 +1512,16 @@
       "location": "Russian Museum",
       "city": "Saint Petersburg",
       "country": "Russia",
-      "lat": 59.938592,
-      "lon": 30.332221,
+      "lat": 59.938681,
+      "lon": 30.332386,
       "source": "http://www.wikidata.org/entity/Q130375592",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Kazimir%20Malevich%2C%201914%2C%20Composition%20with%20the%20Mona%20Lisa%2C%20oil%2C%20collage%20and%20graphite%20on%20canvas%2C%2062.5%20%C3%97%2049.3%20cm%2C%20Russian%20Museum.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1481,10 +1542,11 @@
       "source": "http://www.wikidata.org/entity/Q42310471",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Kazimir%20Malevich%2C%20Portrait%20of%20a%20Boy%2C%20ca.%201906%E2%80%9307.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1505,10 +1567,11 @@
       "source": "http://www.wikidata.org/entity/Q42210450",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Kazimir%20Malevich%2C%20Portrait%20of%20a%20woman%2C%20ca.%201903-05.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1529,10 +1592,11 @@
       "source": "http://www.wikidata.org/entity/Q42422890",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Woman%20in%20Yellow%20Hat%20%28Malevich%2C%201930%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1548,15 +1612,16 @@
       "location": "Russian Museum",
       "city": "Saint Petersburg",
       "country": "Russia",
-      "lat": 59.938592,
-      "lon": 30.332221,
+      "lat": 59.938681,
+      "lon": 30.332386,
       "source": "http://www.wikidata.org/entity/Q42310451",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Kazimir%20Malevich%2C%20Portrait%20of%20the%20mother%2C%20ca.%201903%E2%80%9306.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1572,15 +1637,16 @@
       "location": "Russian Museum",
       "city": "Saint Petersburg",
       "country": "Russia",
-      "lat": 59.938592,
-      "lon": 30.332221,
+      "lat": 59.938681,
+      "lon": 30.332386,
       "source": "http://www.wikidata.org/entity/Q42310464",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Kazimir%20Malevich%2C%20Reading%20Woman%2C%20ca.%201906%E2%80%9307.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1596,15 +1662,16 @@
       "location": "Russian Museum",
       "city": "Saint Petersburg",
       "country": "Russia",
-      "lat": 59.938681,
-      "lon": 30.332386,
+      "lat": 59.938592,
+      "lon": 30.332221,
       "source": "http://www.wikidata.org/entity/Q1523506",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Red%20Cavalry%20Riding.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1625,10 +1692,11 @@
       "source": "http://www.wikidata.org/entity/Q17086791",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Red%20Square.%20Visual%20Realism%20of%20a%20Peasant%20Woman%20in%20Two%20Dimensions.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1649,10 +1717,11 @@
       "source": "http://www.wikidata.org/entity/Q42422282",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Kazimir%20Malevich%20-%20Rest%20%28Society%20in%20Top%20Hats%29%201908.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1673,10 +1742,11 @@
       "source": "http://www.wikidata.org/entity/Q28914341",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Kazimir%20Malevich%20-%20Self-Portrait.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1697,10 +1767,11 @@
       "source": "http://www.wikidata.org/entity/Q42421066",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Self%20Portrait%20%28Malevich%2C%201907%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1716,15 +1787,16 @@
       "location": "Russian Museum",
       "city": "Saint Petersburg",
       "country": "Russia",
-      "lat": 59.938592,
-      "lon": 30.332221,
+      "lat": 59.938681,
+      "lon": 30.332386,
       "source": "http://www.wikidata.org/entity/Q137660314",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%A1%D0%BF%D0%BE%D1%80%D1%82%D1%81%D0%BC%D0%B5%D0%BD%D1%8B.%201930-1931.%20%D0%93%D0%A0%D0%9C.png",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1745,10 +1817,11 @@
       "source": "http://www.wikidata.org/entity/Q42412935",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1769,10 +1842,11 @@
       "source": "http://www.wikidata.org/entity/Q42405398",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1788,15 +1862,16 @@
       "location": "Russian Museum",
       "city": "Saint Petersburg",
       "country": "Russia",
-      "lat": 59.938592,
-      "lon": 30.332221,
+      "lat": 59.938681,
+      "lon": 30.332386,
       "source": "http://www.wikidata.org/entity/Q28736784",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Suprematism%20by%20Malevich%20%281915%2C%20GRM%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1812,15 +1887,16 @@
       "location": "Russian Museum",
       "city": "Saint Petersburg",
       "country": "Russia",
-      "lat": 59.938592,
-      "lon": 30.332221,
+      "lat": 59.938681,
+      "lon": 30.332386,
       "source": "http://www.wikidata.org/entity/Q18687841",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Kazimir%20Malevich%20-%20Suprematism%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1841,10 +1917,11 @@
       "source": "http://www.wikidata.org/entity/Q19934450",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Kazimir%20Malevich%20-%20Supremus%2058.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1865,10 +1942,11 @@
       "source": "http://www.wikidata.org/entity/Q42422673",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Three%20Bathers%2C%20by%20Kazimir%20Malevich.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1884,15 +1962,16 @@
       "location": "Russian Museum",
       "city": "Saint Petersburg",
       "country": "Russia",
-      "lat": 59.938592,
-      "lon": 30.332221,
+      "lat": 59.938681,
+      "lon": 30.332386,
       "source": "http://www.wikidata.org/entity/Q18246656",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Kazimir%20malevich%2C%20verso%20la%20vendemmia%20%28martha%20e%20vanka%29%2C%201928-29.JPG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1908,15 +1987,16 @@
       "location": "Russian Museum",
       "city": "Saint Petersburg",
       "country": "Russia",
-      "lat": 59.938592,
-      "lon": 30.332221,
+      "lat": 59.938681,
+      "lon": 30.332386,
       "source": "http://www.wikidata.org/entity/Q42421213",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Triumph%20of%20Heaven%20%28Malevich%2C%201907%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1932,15 +2012,16 @@
       "location": "Russian Museum",
       "city": "Saint Petersburg",
       "country": "Russia",
-      "lat": 59.938592,
-      "lon": 30.332221,
+      "lat": 59.938681,
+      "lon": 30.332386,
       "source": "http://www.wikidata.org/entity/Q42422388",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Two%20Women%20in%20a%20Garden.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1961,10 +2042,11 @@
       "source": "http://www.wikidata.org/entity/Q130525722",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Reaper%20II%20%28Kazimir%20Malevich%2C%201928%E2%80%9329%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1985,10 +2067,11 @@
       "source": "http://www.wikidata.org/entity/Q42420951",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Unemployed%20Girl.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2009,10 +2092,11 @@
       "source": "http://www.wikidata.org/entity/Q42310508",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Kazimir%20Malevich%2C%20Young%20Girl%20%28F-11%29%2C%201907.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2033,10 +2117,11 @@
       "source": "http://www.wikidata.org/entity/Q19882745",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Morning%20in%20the%20Village%20after%20Snowstorm%20%28Malevich%2C%201912%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2057,10 +2142,11 @@
       "source": "http://www.wikidata.org/entity/Q19912514",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/GUGG%20Untitled%20%28Suprematist%20Composition%2C%20Malevich%20b%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2081,10 +2167,11 @@
       "source": "http://www.wikidata.org/entity/Q64141278",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Malevitch-Silhouette-femme-musee-Saint-Petersbourg.jpeg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2105,10 +2192,11 @@
       "source": "http://www.wikidata.org/entity/Q28846226",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Malewitsch%2C%20Vorhang.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2129,10 +2217,11 @@
       "source": "http://www.wikidata.org/entity/Q24057722",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/An%20Englishman%20in%20Moscow%2C%20by%20Kazimir%20Malevich.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2153,10 +2242,11 @@
       "source": "http://www.wikidata.org/entity/Q42422159",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Assumption%20of%20a%20Saint%20%28Malevich%2C%201907%E2%80%9308%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2177,10 +2267,11 @@
       "source": "http://www.wikidata.org/entity/Q26828956",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bather%20%28Malevich%2C1911%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2201,10 +2292,11 @@
       "source": "http://www.wikidata.org/entity/Q135551908",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bureau%20and%20Room%2C%20by%20Kazimir%20Malevich.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2225,10 +2317,11 @@
       "source": "http://www.wikidata.org/entity/Q24057779",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Malevich%20%E2%80%94%20Construction%20in%20Dissolution.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2249,10 +2342,11 @@
       "source": "http://www.wikidata.org/entity/Q24057669",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Malevich%20-%20compositie%20met%20piano%2C%201913-1914%2C%204.2001%28088%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2273,10 +2367,11 @@
       "source": "http://www.wikidata.org/entity/Q18238098",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Head%20of%20a%20Peasant%20Girl.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2297,10 +2392,11 @@
       "source": "http://www.wikidata.org/entity/Q24057782",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Malevitj.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2321,10 +2417,11 @@
       "source": "http://www.wikidata.org/entity/Q24057646",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Houses%20in%20the%20Campagne%20%28Malevich%2C%20ca.%201906%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2345,10 +2442,11 @@
       "source": "http://www.wikidata.org/entity/Q24057758",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lady%20by%20the%20Poster%20Column%20%28Malevich%2C%201914%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2369,10 +2467,11 @@
       "source": "http://www.wikidata.org/entity/Q24057660",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lamp%20%28Music%20Instruments%29%20%28Malevich%2C%201913%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2393,10 +2492,11 @@
       "source": "http://www.wikidata.org/entity/Q24057788",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Malevici01.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2417,10 +2517,11 @@
       "source": "http://www.wikidata.org/entity/Q24057739",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Peasant%20Woman%20with%20Buckets%2C%20by%20Kazimir%20Malevich%20%28cropped%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2441,10 +2542,11 @@
       "source": "http://www.wikidata.org/entity/Q24057746",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20a%20man%20%28Malevich%2C%201912%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2465,10 +2567,11 @@
       "source": "http://www.wikidata.org/entity/Q24057636",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20the%20father%20%28Malevich%2C%20ca.%201902%E2%80%9303%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2489,10 +2592,11 @@
       "source": "http://www.wikidata.org/entity/Q24057780",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Malevich%20-%20geest%2C%201919%2C%204.2001%28001%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2513,10 +2617,11 @@
       "source": "http://www.wikidata.org/entity/Q24057789",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Suprematism.%20Two-Dimensional%20Self-Portrait.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2537,10 +2642,11 @@
       "source": "http://www.wikidata.org/entity/Q24057772",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Suprematism%20with%20Blue%20Triangle%20and%20Black%20Square.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2561,10 +2667,11 @@
       "source": "http://www.wikidata.org/entity/Q24057785",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Amsterdam%20-%20Stedelijk%20Museum%20-%20Kazimir%20Malevich%20%281878-1935%29%20-%20Suprematist%20Composition%20%28with%20Yellow%2C%20Orange%20and%20Green%20Rectangle%29%20%28A%207675%29%201915-16.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2585,10 +2692,11 @@
       "source": "http://www.wikidata.org/entity/Q24057791",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Malevich%20-%20Suprematisch%20kruis%20%28klein%20kruis%20in%20zwart%20over%20rood%20op%20wit%29%2C%201920-1927%2C%20A%207661.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2609,10 +2717,11 @@
       "source": "http://www.wikidata.org/entity/Q24057783",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Kazimir%20Malevich%20-%20Suprametism.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2628,15 +2737,16 @@
       "location": "Stedelijk Museum Amsterdam",
       "city": "Amsterdam",
       "country": "Netherlands",
-      "lat": 52.357778,
-      "lon": 4.879722,
+      "lat": 52.358011,
+      "lon": 4.879755,
       "source": "http://www.wikidata.org/entity/Q19934445",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Malevich-Suprematism..jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2657,10 +2767,11 @@
       "source": "http://www.wikidata.org/entity/Q24057765",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Malewitsch%20-%20Suprematismus%20Nr%2050%20-%201915.jpeg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2681,10 +2792,11 @@
       "source": "http://www.wikidata.org/entity/Q24057653",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Taking%20in%20the%20Rye%20Kazimir%20Malevich%201911.jpeg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2705,10 +2817,11 @@
       "source": "http://www.wikidata.org/entity/Q24057752",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Guardsman%20%28Malevich%2C%201913%E2%80%9314%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2724,15 +2837,16 @@
       "location": "Stedelijk Museum Amsterdam",
       "city": "Amsterdam",
       "country": "Netherlands",
-      "lat": 52.357778,
-      "lon": 4.879722,
+      "lat": 52.358011,
+      "lon": 4.879755,
       "source": "http://www.wikidata.org/entity/Q21086420",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Woodcutter%20by%20Kazimir%20Malevich.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2753,10 +2867,11 @@
       "source": "http://www.wikidata.org/entity/Q42369174",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Three%20female%20Figures%20%28Malevich%2C%20ca.%201905%E2%80%9306%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2777,10 +2892,11 @@
       "source": "http://www.wikidata.org/entity/Q24057733",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Village%20%28Malevich%2C%20ca.%201906%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2796,15 +2912,16 @@
       "location": "Stedelijk Museum Amsterdam",
       "city": "Amsterdam",
       "country": "Netherlands",
-      "lat": 52.357778,
-      "lon": 4.879722,
+      "lat": 52.358011,
+      "lon": 4.879755,
       "source": "http://www.wikidata.org/entity/Q18241892",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%91%D0%B5%D0%BB%D1%8B%D0%B9%20%D0%BA%D1%80%D0%B5%D1%81%D1%82%2C%20%D0%9A.%D0%A1.%D0%9C%D0%B0%D0%BB%D0%B5%D0%B2%D0%B8%D1%87%20%28White%20cross%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2825,10 +2942,11 @@
       "source": "http://www.wikidata.org/entity/Q24057786",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Malevich%20%E2%80%94%20White%20Plains%20in%20Dissolution.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2849,10 +2967,11 @@
       "source": "http://www.wikidata.org/entity/Q24057707",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lady%20on%20a%20Tram%20Station.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2873,10 +2992,11 @@
       "source": "http://www.wikidata.org/entity/Q24057681",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Woman%20reading%20newspaper%20%28Malevich%2C%20ca.%201905%E2%80%931906%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2897,10 +3017,11 @@
       "source": "http://www.wikidata.org/entity/Q24057790",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Malevich%20%E2%80%94%20Yellow%20Plane%20in%20Dissolution.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2921,10 +3042,11 @@
       "source": "http://www.wikidata.org/entity/Q21712281",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Suprematist%20Drawings%20%28ca.%201919%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2936,19 +3058,20 @@
       "attribution": "Accepted",
       "artistId": "kazimir-malevich",
       "artistName": "Kazimir Malevich",
-      "locationId": "tretyakov-gallery-central-administrative-okrug",
+      "locationId": "tretyakov-gallery-moscow",
       "location": "Tretyakov Gallery",
-      "city": "Central Administrative Okrug",
+      "city": "Moscow",
       "country": "Russia",
       "lat": 55.741389,
       "lon": 37.620864,
       "source": "http://www.wikidata.org/entity/Q1170315",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%A7%D1%91%D1%80%D0%BD%D1%8B%D0%B9%20%D1%81%D1%83%D0%BF%D1%80%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D0%B4%D1%80%D0%B0%D1%82.%201915.%20%D0%93%D0%A2%D0%93.png",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2969,10 +3092,11 @@
       "source": "http://www.wikidata.org/entity/Q42350151",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Spring%20-%20Garden%20in%20Blossom.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2993,10 +3117,11 @@
       "source": "http://www.wikidata.org/entity/Q123529041",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1913%20Malevich%20Portrait%20von%20Mikhail%20Matjuschin%20anagoria.JPG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3008,19 +3133,20 @@
       "attribution": "Accepted",
       "artistId": "kazimir-malevich",
       "artistName": "Kazimir Malevich",
-      "locationId": "tretyakov-gallery-moscow",
+      "locationId": "tretyakov-gallery-central-administrative-okrug",
       "location": "Tretyakov Gallery",
-      "city": "Moscow",
+      "city": "Central Administrative Okrug",
       "country": "Russia",
       "lat": 55.741389,
       "lon": 37.620864,
       "source": "http://www.wikidata.org/entity/Q85606622",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Supremus%20No.%2038%20%28Kazimir%20Malevich%2C%20winter%201915%E2%80%9316%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3041,10 +3167,11 @@
       "source": "http://www.wikidata.org/entity/Q123577411",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1930%20Malevich%20Schwestern%20anagoria.JPG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3056,19 +3183,20 @@
       "attribution": "Accepted",
       "artistId": "kazimir-malevich",
       "artistName": "Kazimir Malevich",
-      "locationId": "tretyakov-gallery-central-administrative-okrug",
+      "locationId": "tretyakov-gallery-moscow",
       "location": "Tretyakov Gallery",
-      "city": "Central Administrative Okrug",
+      "city": "Moscow",
       "country": "Russia",
       "lat": 55.741389,
       "lon": 37.620864,
       "source": "http://www.wikidata.org/entity/Q111822233",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Veil%20by%20Kasimir%20Malevich.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3080,19 +3208,20 @@
       "attribution": "Accepted",
       "artistId": "kazimir-malevich",
       "artistName": "Kazimir Malevich",
-      "locationId": "tretyakov-gallery-russia",
+      "locationId": "tretyakov-gallery-moscow",
       "location": "Tretyakov Gallery",
-      "city": "Russia",
+      "city": "Moscow",
       "country": "Russia",
       "lat": 55.741389,
       "lon": 37.620864,
       "source": "http://www.wikidata.org/entity/Q123571331",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1928-32%20Malevich%20Frau%20mit%20Harke%20anagoria.JPG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3113,10 +3242,11 @@
       "source": "http://www.wikidata.org/entity/Q18112999",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Knife%20Grinder%20Principle%20of%20Glittering%20by%20Kazimir%20Malevich.jpeg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3137,10 +3267,11 @@
       "source": "http://www.wikidata.org/entity/Q88885500",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Suprematism%20-%20Abstract%20Composition%20%28Malevich%2C%201915%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130777",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     }

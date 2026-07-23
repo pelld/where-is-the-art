@@ -17,58 +17,11 @@
       "source": "http://www.wikidata.org/entity/Q135864809",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Modersohn-Becker%20-%20Selbstbildnis%20als%20Stehender%20Akt%20-%20Albertinum-Ausstellung-Moderne-Frauen.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q234370",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q30076005",
-      "title": "Untitled record",
-      "date": "1906",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "paula-modersohn-becker",
-      "artistName": "Paula Modersohn-Becker",
-      "locationId": "august-kestner-museum-mitte",
-      "location": "August Kestner Museum",
-      "city": "Mitte",
-      "country": "Germany",
-      "lat": 52.368099436,
-      "lon": 9.736264865,
-      "source": "http://www.wikidata.org/entity/Q30076005",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker%20-%20Stehender%20Kinderakt%20mit%20Goldfischglas.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q234370",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q29908860",
-      "title": "Untitled record",
-      "date": "1902",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "paula-modersohn-becker",
-      "artistName": "Paula Modersohn-Becker",
-      "locationId": "bavarian-state-painting-collections-munich",
-      "location": "Bavarian State Painting Collections",
-      "city": "Munich",
-      "country": "Germany",
-      "lat": 48.149583,
-      "lon": 11.571776,
-      "source": "http://www.wikidata.org/entity/Q29908860",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker%20-%20Der%20alte%20von%20Bredow.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q234370",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -89,10 +42,61 @@
       "source": "http://www.wikidata.org/entity/Q30077187",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Modersohn-Becker%20-%20Alte%20B%C3%A4uerin%20mit%20Hand%20an%20der%20Stirn.jpeg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q234370",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q29908860",
+      "title": "Untitled record",
+      "date": "1902",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "paula-modersohn-becker",
+      "artistName": "Paula Modersohn-Becker",
+      "locationId": "bavarian-state-painting-collections-munich",
+      "location": "Bavarian State Painting Collections",
+      "city": "Munich",
+      "country": "Germany",
+      "lat": 48.149583,
+      "lon": 11.571776,
+      "source": "http://www.wikidata.org/entity/Q29908860",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker%20-%20Der%20alte%20von%20Bredow.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q234370",
+        "retrieved": "2026-07-23",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q30076005",
+      "title": "Untitled record",
+      "date": "1906",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "paula-modersohn-becker",
+      "artistName": "Paula Modersohn-Becker",
+      "locationId": "bavarian-state-painting-collections-munich",
+      "location": "Bavarian State Painting Collections",
+      "city": "Munich",
+      "country": "Germany",
+      "lat": 48.149583,
+      "lon": 11.571776,
+      "source": "http://www.wikidata.org/entity/Q30076005",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker%20-%20Stehender%20Kinderakt%20mit%20Goldfischglas.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q234370",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -113,10 +117,11 @@
       "source": "http://www.wikidata.org/entity/Q29907012",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Modersohn-Becker%20-%20Sandkuhle%20am%20Weyerberg%20-%201899.jpeg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q234370",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -137,10 +142,11 @@
       "source": "http://www.wikidata.org/entity/Q42882576",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker%20-%20Birches.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q234370",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -161,10 +167,11 @@
       "source": "http://www.wikidata.org/entity/Q136149081",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker%20-%20M%C3%A4dchen%20mit%20Kleinkind%20%281905%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q234370",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -185,10 +192,11 @@
       "source": "http://www.wikidata.org/entity/Q75395087",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker%2C%20Chalet%2C%201899%2C%20NGA%2093839.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q234370",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -209,10 +217,11 @@
       "source": "http://www.wikidata.org/entity/Q64619223",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker%2C%20Fruit%20Tree%20in%20Bloom%2C%201900-1902%2C%20NGA%2091458.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q234370",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -233,10 +242,11 @@
       "source": "http://www.wikidata.org/entity/Q64619224",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker%2C%20Half-Nude%20Woman%20Holding%20Her%20Hair%20Apart%2C%20c.%201898%2C%20NGA%2093838.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q234370",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -257,10 +267,11 @@
       "source": "http://www.wikidata.org/entity/Q76556770",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker%2C%20Landscape%20with%20Trees%2C%20c.%201902%2C%20NGA%20153775.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q234370",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -281,10 +292,11 @@
       "source": "http://www.wikidata.org/entity/Q20190735",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker%2C%20Old%20Factory%2C%201900%2C%20NGA%20150903.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q234370",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -305,10 +317,11 @@
       "source": "http://www.wikidata.org/entity/Q65576103",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker%2C%20Old%20Woman%2C%20posthumous%20printing%20after%201919%20by%20Felsing%2C%20NGA%2052902.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q234370",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -329,10 +342,11 @@
       "source": "http://www.wikidata.org/entity/Q64619222",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker%2C%20Portrait%20of%20a%20Woman%2C%201898%2C%20NGA%2071463.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q234370",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -353,10 +367,11 @@
       "source": "http://www.wikidata.org/entity/Q76556769",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker%2C%20Seated%20Old%20Woman%2C%20c.%201900%2C%20NGA%20153774.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q234370",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -377,10 +392,11 @@
       "source": "http://www.wikidata.org/entity/Q79052064",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker%20-%20Three%20Boys%20Bathing%20by%20a%20Canal.jpeg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q234370",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -401,10 +417,11 @@
       "source": "http://www.wikidata.org/entity/Q76556768",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker%2C%20Two%20Peasant%20Girls%2C%20c.%201900%2C%20NGA%20153773.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q234370",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -425,10 +442,11 @@
       "source": "http://www.wikidata.org/entity/Q64575784",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker%20-%20Old%20Peasant%20Woman%20%28c1905%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q234370",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -449,10 +467,11 @@
       "source": "http://www.wikidata.org/entity/Q111799344",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q234370",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -473,10 +492,11 @@
       "source": "http://www.wikidata.org/entity/Q111799343",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q234370",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -497,10 +517,11 @@
       "source": "http://www.wikidata.org/entity/Q125428246",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Modersohn-Becker%20-%20Dornr%C3%B6schen%20-%201901.jpeg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q234370",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -521,10 +542,11 @@
       "source": "http://www.wikidata.org/entity/Q26940797",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker%20-%20Koe%20in%20weiland%2C%20-%201959.0139%20-%20Groninger%20Museum.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q234370",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -545,10 +567,36 @@
       "source": "http://www.wikidata.org/entity/Q26940796",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker%20-%20Oostfries%20meisje%20in%20de%20duinen%2C%20Friezin%20zittend%20in%20de%20duinen%20met%20windmolen%2C%20-%201959.0138%20-%20Groninger%20Museum.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q234370",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q111799323",
+      "title": "Mother and Child",
+      "date": "1903",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "paula-modersohn-becker",
+      "artistName": "Paula Modersohn-Becker",
+      "locationId": "hamburger-kunsthalle-hamburg-mitte",
+      "location": "Hamburger Kunsthalle",
+      "city": "Hamburg-Mitte",
+      "country": "Germany",
+      "lat": 53.555,
+      "lon": 10.003055555,
+      "source": "http://www.wikidata.org/entity/Q111799323",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker%20-%20Mutter%20mit%20Kind%20%28ca.%201903%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q234370",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -569,10 +617,11 @@
       "source": "http://www.wikidata.org/entity/Q102422465",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1903%20Modersohn-Becker%20Alte%20Moorb%C3%A4uerin%20anagoria.JPG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q234370",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -593,10 +642,11 @@
       "source": "http://www.wikidata.org/entity/Q137572438",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Modersohn-Becker%20Paula%20Young%20Girl%40Kunsthalle%20Hamburg.JPG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q234370",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -617,10 +667,11 @@
       "source": "http://www.wikidata.org/entity/Q106851899",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker%20-%20Birch%20Tree%20in%20a%20Landscape%20-%202003.4%20-%20Busch%E2%80%93Reisinger%20Museum.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q234370",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -641,10 +692,11 @@
       "source": "http://www.wikidata.org/entity/Q108189117",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker%20-%20Selbstbildnis%20%28ca.%201898%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q234370",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -665,10 +717,11 @@
       "source": "http://www.wikidata.org/entity/Q108190146",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Modersohn-Becker%20-%20Anbetung%20der%20Drei%20K%C3%B6nige%20-%201907.jpeg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q234370",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -689,10 +742,11 @@
       "source": "http://www.wikidata.org/entity/Q108191008",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker%20-%20Kirche%20in%20Worpswede%20%281900%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q234370",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -713,10 +767,11 @@
       "source": "http://www.wikidata.org/entity/Q108189395",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker%20-%20M%C3%A4dchenkopf%20vor%20einem%20Fenster%20%28ca.%201902%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q234370",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -737,10 +792,11 @@
       "source": "http://www.wikidata.org/entity/Q108189234",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker%20-%20M%C3%A4dchenkopf%20mit%20gestreifter%20M%C3%BCtze%20im%20Profil%20nach%20links%20%28ca.%201905%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q234370",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -761,10 +817,11 @@
       "source": "http://www.wikidata.org/entity/Q117461616",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker%20-%20Brustbild%20eines%20alten%20Bauern%20%281903%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q234370",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -785,10 +842,11 @@
       "source": "http://www.wikidata.org/entity/Q117461833",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker%20-%20Kopf%20einer%20B%C3%A4uerin%20im%20Profil%20nach%20rechts%20%28ca.%201903%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q234370",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -809,10 +867,11 @@
       "source": "http://www.wikidata.org/entity/Q108189547",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q234370",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -833,10 +892,11 @@
       "source": "http://www.wikidata.org/entity/Q108391597",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker%20-%20Stillleben%20mit%20%C3%84pfeln%20und%20Bananen%20%281905%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q234370",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -857,10 +917,11 @@
       "source": "http://www.wikidata.org/entity/Q117463702",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker%20-%20Stilleben%20mit%20Schale%20und%20Milchk%C3%A4nnchen%20%28ca.%201900%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q234370",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -881,10 +942,11 @@
       "source": "http://www.wikidata.org/entity/Q111799336",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker%20-%20Worpsweder%20Bauernkind%20auf%20einem%20Stuhl%20sitzend.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q234370",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -905,10 +967,11 @@
       "source": "http://www.wikidata.org/entity/Q118307033",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker%20-%20Sitzendes%20M%C3%A4dchen%20mit%20gr%C3%BCner%20Kette%20%28ca.%201904%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q234370",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -920,19 +983,20 @@
       "attribution": "Accepted",
       "artistId": "paula-modersohn-becker",
       "artistName": "Paula Modersohn-Becker",
-      "locationId": "kunsthaus-zurich-district-1",
+      "locationId": "kunsthaus-zurich-zurich",
       "location": "Kunsthaus Zürich",
-      "city": "District 1",
+      "city": "Zurich",
       "country": "Switzerland",
       "lat": 47.370277777,
       "lon": 8.548055555,
       "source": "http://www.wikidata.org/entity/Q111799322",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker%20-%20Kopf%20eines%20M%C3%A4dchens%20-%201949-0017%20-%20Kunsthaus%20Z%C3%BCrich.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q234370",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -953,10 +1017,11 @@
       "source": "http://www.wikidata.org/entity/Q111799329",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker%20-%20Knabe%20mit%20Katze.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q234370",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -977,10 +1042,11 @@
       "source": "http://www.wikidata.org/entity/Q111799332",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker%20-%20Selbstbildnis%20als%20Halbakt%20mit%20Bernsteinkette%20II.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q234370",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1001,10 +1067,11 @@
       "source": "http://www.wikidata.org/entity/Q111799349",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sitting%20old%20Peasant%20woman-Paula%20Modersohn-Becker.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q234370",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1025,10 +1092,11 @@
       "source": "http://www.wikidata.org/entity/Q24046496",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q234370",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1049,10 +1117,11 @@
       "source": "http://www.wikidata.org/entity/Q24046534",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker%20-%20M%C3%A4dchen%20mit%20Kleinkind%20%281902%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q234370",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1073,10 +1142,11 @@
       "source": "http://www.wikidata.org/entity/Q24046511",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker%20-%20Self-portrait%20with%20hat%20and%20veil%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q234370",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1097,10 +1167,11 @@
       "source": "http://www.wikidata.org/entity/Q131613243",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker%20004.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q234370",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1121,34 +1192,11 @@
       "source": "http://www.wikidata.org/entity/Q58477503",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker%20-%20Halbfigur%20eines%20M%C3%A4dchens%20mit%20gelbem%20Kranz%20im%20Haar%20%281902%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q234370",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q138835870",
-      "title": "Untitled record",
-      "date": "1903",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "paula-modersohn-becker",
-      "artistName": "Paula Modersohn-Becker",
-      "locationId": "landesmuseum-hannover-sudstadt-bult",
-      "location": "Landesmuseum Hannover",
-      "city": "Südstadt-Bult",
-      "country": "Germany",
-      "lat": 52.36549544,
-      "lon": 9.740111115,
-      "source": "http://www.wikidata.org/entity/Q138835870",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Modersohn-Becker%20Stillende%20Mutter.JPG",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q234370",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1169,10 +1217,11 @@
       "source": "http://www.wikidata.org/entity/Q138836035",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Modersohn-Becker%20%285%29Selbstbildn%20m%20Bl%C3%BCtenkranz.JPG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q234370",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1193,10 +1242,36 @@
       "source": "http://www.wikidata.org/entity/Q138835929",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Modersohn-Becker%20M%C3%A4dchen%20mit%20schwarzem%20Hut.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q234370",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q138836099",
+      "title": "Untitled record",
+      "date": "1903",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "paula-modersohn-becker",
+      "artistName": "Paula Modersohn-Becker",
+      "locationId": "landesmuseum-hannover-sudstadt-bult",
+      "location": "Landesmuseum Hannover",
+      "city": "Südstadt-Bult",
+      "country": "Germany",
+      "lat": 52.36549544,
+      "lon": 9.740111115,
+      "source": "http://www.wikidata.org/entity/Q138836099",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Modersohn-Becker%20%2813%29M%C3%A4dchen%20Schafherde.JPG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q234370",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1217,10 +1292,11 @@
       "source": "http://www.wikidata.org/entity/Q120491846",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker%20016.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q234370",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1241,10 +1317,11 @@
       "source": "http://www.wikidata.org/entity/Q96184896",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Seven%20Trees%20MET%20DP135180.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q234370",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1265,10 +1342,11 @@
       "source": "http://www.wikidata.org/entity/Q133792159",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Halle%2C%20Kunstmuseum%20Moritzburg%2C%20Paula%20Modersohn-Becker%2C%20Feldblumenstrau%C3%9F.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q234370",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1289,15 +1367,16 @@
       "source": "http://www.wikidata.org/entity/Q123907801",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/4%202%20paula%20modersohn%20becker%20II.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q234370",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
     {
-      "id": "Q111799345",
+      "id": "Q111799341",
       "title": "Untitled record",
       "date": "1906",
       "type": "Painting",
@@ -1310,13 +1389,14 @@
       "country": "Germany",
       "lat": 53.8701,
       "lon": 10.6896,
-      "source": "http://www.wikidata.org/entity/Q111799345",
+      "source": "http://www.wikidata.org/entity/Q111799341",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker%20-%20Selbstbildnis%20als%20stehender%20Akt%20mit%20Hut.webp",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker%20-%20Selbstbildnis%20nach%20halblinks.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q234370",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1337,10 +1417,11 @@
       "source": "http://www.wikidata.org/entity/Q131632156",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q234370",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1361,10 +1442,11 @@
       "source": "http://www.wikidata.org/entity/Q111799347",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker%20-%20Selbstbildnis%20mit%20Kamelienzweig%20%28ca.%201907%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q234370",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1385,10 +1467,11 @@
       "source": "http://www.wikidata.org/entity/Q111799325",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker%20-%20Selbstbildnis%20mit%20roter%20Rose.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q234370",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1409,34 +1492,11 @@
       "source": "http://www.wikidata.org/entity/Q132892642",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker%20-%20Das%20blinde%20Schwesterchen.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q234370",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q132892640",
-      "title": "Untitled record",
-      "date": "1905",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "paula-modersohn-becker",
-      "artistName": "Paula Modersohn-Becker",
-      "locationId": "museum-ludwig-altstadt-nord",
-      "location": "Museum Ludwig",
-      "city": "Altstadt-Nord",
-      "country": "Germany",
-      "lat": 50.94083333,
-      "lon": 6.96027778,
-      "source": "http://www.wikidata.org/entity/Q132892640",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Modersohn-Becker%2C%20Paula%20%281905%29%20Still%20life%20with%20Melon%2C%20Koln.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q234370",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1457,10 +1517,36 @@
       "source": "http://www.wikidata.org/entity/Q132892641",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Self-portrait%20by%20Paula%20Modersohn-Becker.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q234370",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q132892640",
+      "title": "Untitled record",
+      "date": "1905",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "paula-modersohn-becker",
+      "artistName": "Paula Modersohn-Becker",
+      "locationId": "museum-ludwig-altstadt-nord",
+      "location": "Museum Ludwig",
+      "city": "Altstadt-Nord",
+      "country": "Germany",
+      "lat": 50.94083333,
+      "lon": 6.96027778,
+      "source": "http://www.wikidata.org/entity/Q132892640",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Modersohn-Becker%2C%20Paula%20%281905%29%20Still%20life%20with%20Melon%2C%20Koln.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q234370",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1481,10 +1567,11 @@
       "source": "http://www.wikidata.org/entity/Q131567124",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker%20025.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q234370",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1505,10 +1592,11 @@
       "source": "http://www.wikidata.org/entity/Q21680165",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Meisje%20in%20het%20berkenbos%2C%20Paula%20Modersohn-Becker%2C%201903%2C%20Koninklijk%20Museum%20voor%20Schone%20Kunsten%20Gent%2C%201991-I.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q234370",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1529,10 +1617,11 @@
       "source": "http://www.wikidata.org/entity/Q136008942",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Moderson-Becker%20-%20Selbstbildnis%20mit%20zwei%20Blumen%20in%20der%20erhobenen%20linken%20Hand%20-%201907.jpeg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q234370",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1553,10 +1642,11 @@
       "source": "http://www.wikidata.org/entity/Q50106052",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker%20-%20M%C3%A4dchen%20zwischen%20Birken.jpeg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q234370",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1577,10 +1667,11 @@
       "source": "http://www.wikidata.org/entity/Q50109607",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker%2C%20M%C3%A4dchen%20mit%20Blumenkranz%2C%20um%201901.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q234370",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1601,10 +1692,11 @@
       "source": "http://www.wikidata.org/entity/Q107450811",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Modersohn-Becker%20-%20Kniende%20Mutter%20mit%20Kind.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q234370",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1625,10 +1717,11 @@
       "source": "http://www.wikidata.org/entity/Q50114061",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker%20-%20Stillleben%20mit%20%C3%84pfeln.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q234370",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1649,10 +1742,11 @@
       "source": "http://www.wikidata.org/entity/Q50117978",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Girl%20with%20Flower%20Wreath%20in%20Her%20Hair%20by%20Paula%20Modersohn-Becker%2C%20c.%201901.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q234370",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1673,10 +1767,11 @@
       "source": "http://www.wikidata.org/entity/Q60661757",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Modersohn-Becker%2C%20Bambini%20con%20le%20lanterne.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q234370",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1697,10 +1792,11 @@
       "source": "http://www.wikidata.org/entity/Q139043925",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker%20-%20Stillleben%20mit%20Orangen%20und%20Fayencehund%20%281906-7%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q234370",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1721,10 +1817,11 @@
       "source": "http://www.wikidata.org/entity/Q111799337",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q234370",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1745,10 +1842,11 @@
       "source": "http://www.wikidata.org/entity/Q111799333",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker%20-%20M%C3%A4dchen%20mit%20Lamm.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q234370",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1769,10 +1867,11 @@
       "source": "http://www.wikidata.org/entity/Q108390611",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Moderson-Becker%20-%20Alte%20Armenh%C3%A4uslerin%20mit%20Glaskugel%20und%20Mohnblumen%20%281907%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q234370",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1793,10 +1892,11 @@
       "source": "http://www.wikidata.org/entity/Q23047622",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Modersohn-Becker%20-%20Selbstbildnis%2C%20frontal%20-%201897.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q234370",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1817,10 +1917,11 @@
       "source": "http://www.wikidata.org/entity/Q22570122",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Moderson-Becker%20-%20Selbstbildnis%20am%206%20Hochzeitstag%20%281906%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q234370",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1841,10 +1942,11 @@
       "source": "http://www.wikidata.org/entity/Q111799335",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker%20-%20Sch%C3%BCtzenfest%20mit%20Karussell%20II.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q234370",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1865,10 +1967,11 @@
       "source": "http://www.wikidata.org/entity/Q58477437",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Moderson-Becker%20-%20Stilleben%20mit%20Milchsatte%20%281905%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q234370",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1889,10 +1992,11 @@
       "source": "http://www.wikidata.org/entity/Q78746408",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker%20-%20Two%20Girls%20in%20Front%20of%20Birch%20Trees%20-%20914-1983%20-%20Saint%20Louis%20Art%20Museum.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q234370",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1913,10 +2017,11 @@
       "source": "http://www.wikidata.org/entity/Q119765497",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker%20%281876-1907%29%20-%20Landscape%20with%20Windblown%20Trees%20-%2039%20-%20Somerville%20College.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q234370",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1937,10 +2042,11 @@
       "source": "http://www.wikidata.org/entity/Q132625604",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Moderson-Becker%20Abendmusik%20Sprengel%20Museum%2001.JPG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q234370",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1961,10 +2067,11 @@
       "source": "http://www.wikidata.org/entity/Q132625590",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Moderson-Becker%20Selbstbildnis%20mit%20Landschaft%20vor%20B%C3%A4umen%20Sprengel%20Museum%2001.JPG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q234370",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1985,10 +2092,11 @@
       "source": "http://www.wikidata.org/entity/Q132625535",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q234370",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2009,10 +2117,11 @@
       "source": "http://www.wikidata.org/entity/Q104525282",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker%20-%20Stilleben%20mit%20Orangen%2C%20Bananen%2C%20Zitrone%20und%20Tomate%20-%202557%20-%20Staatliche%20Kunsthalle%20Karlsruhe.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q234370",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2033,10 +2142,11 @@
       "source": "http://www.wikidata.org/entity/Q50331515",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker%20-%20Moorgraben.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q234370",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2057,10 +2167,11 @@
       "source": "http://www.wikidata.org/entity/Q129167608",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Modersohn-Becker%2C%20Paula%20-%20Kind%20mit%20Uhrgewicht.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q234370",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2081,10 +2192,11 @@
       "source": "http://www.wikidata.org/entity/Q64786979",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker%20-%20M%C3%A4dchenkopf%20%281906%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q234370",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2105,34 +2217,11 @@
       "source": "http://www.wikidata.org/entity/Q64787481",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Man%20lying%20beneath%20a%20Blossoming%20Tree%20%28SM%202214%29.png",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q234370",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q111799323",
-      "title": "Mother and Child",
-      "date": "1903",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "paula-modersohn-becker",
-      "artistName": "Paula Modersohn-Becker",
-      "locationId": "stadel-museum-frankfurt",
-      "location": "Städel Museum",
-      "city": "Frankfurt",
-      "country": "Germany",
-      "lat": 50.10322,
-      "lon": 8.67388,
-      "source": "http://www.wikidata.org/entity/Q111799323",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker%20-%20Mutter%20mit%20Kind%20%28ca.%201903%29.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q234370",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2153,10 +2242,11 @@
       "source": "http://www.wikidata.org/entity/Q24058742",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Bekcer%20-%20M%C3%A4dchen%20mit%20Kaninchen.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q234370",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2172,15 +2262,16 @@
       "location": "Stedelijk Museum Amsterdam",
       "city": "Amsterdam",
       "country": "Netherlands",
-      "lat": 52.357778,
-      "lon": 4.879722,
+      "lat": 52.358011,
+      "lon": 4.879755,
       "source": "http://www.wikidata.org/entity/Q24058749",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Amsterdam%20-%20Stedelijk%20Museum%20-%20Paula%20Modersohn-Becker%20%281876-1907%29%20-%20Zwei%20nackte%2C%20sitzende%20Kinder%20%28A%2021701%29%201906.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q234370",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2201,10 +2292,11 @@
       "source": "http://www.wikidata.org/entity/Q114311162",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Modersohn-Becker%20-%20M%C3%A4dchen%20mit%20blauwei%C3%9Fer%20Kette%20im%20Haar%20-%201903.jpeg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q234370",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2225,10 +2317,11 @@
       "source": "http://www.wikidata.org/entity/Q114309511",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Modersohn-Becker%20-%20M%C3%A4dchen%20mit%20Kaninchen%20-%201905.jpeg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q234370",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2249,10 +2342,11 @@
       "source": "http://www.wikidata.org/entity/Q137609728",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/M%C3%A4dchen%20mit%20gelbem%20Kranz%20im%20Haar.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q234370",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2273,10 +2367,11 @@
       "source": "http://www.wikidata.org/entity/Q111799340",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Moderson-Becker%20-%20Alte%20Armenh%C3%A4uslerin%2C%20im%20Garten%20sitzend%20%28ca.%201905%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q234370",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2288,19 +2383,20 @@
       "attribution": "Accepted",
       "artistId": "paula-modersohn-becker",
       "artistName": "Paula Modersohn-Becker",
-      "locationId": "von-der-heydt-museum-elberfeld",
-      "location": "Von der Heydt Museum",
-      "city": "Elberfeld",
+      "locationId": "wallraf-richartz-museum-altstadt-nord",
+      "location": "Wallraf–Richartz Museum",
+      "city": "Altstadt-Nord",
       "country": "Germany",
-      "lat": 51.2573,
-      "lon": 7.14658,
+      "lat": 50.9375,
+      "lon": 6.958611,
       "source": "http://www.wikidata.org/entity/Q111799350",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker%20-%20Kind%20in%20der%20Wiege.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Modersohn-Becker.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q234370",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     }

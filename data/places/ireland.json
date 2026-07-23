@@ -3,74 +3,6 @@
   "country": "Ireland",
   "artworks": [
     {
-      "id": "Q48240435",
-      "artistId": "francisco-goya",
-      "artistName": "Francisco Goya",
-      "reviewStatus": "generated",
-      "title": "The deathbeds (Las cama de la muerte)",
-      "date": "1810",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "chester-beatty-library-dublin",
-      "location": "Chester Beatty Library",
-      "city": "Dublin",
-      "country": "Ireland",
-      "lat": 53.342,
-      "lon": -6.267,
-      "source": "http://www.wikidata.org/entity/Q48240435"
-    },
-    {
-      "id": "Q48242122",
-      "artistId": "francisco-goya",
-      "artistName": "Francisco Goya",
-      "reviewStatus": "generated",
-      "title": "They do not agree",
-      "date": "1810",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "chester-beatty-library-dublin",
-      "location": "Chester Beatty Library",
-      "city": "Dublin",
-      "country": "Ireland",
-      "lat": 53.342,
-      "lon": -6.267,
-      "source": "http://www.wikidata.org/entity/Q48242122"
-    },
-    {
-      "id": "Q47534929",
-      "artistId": "francisco-goya",
-      "artistName": "Francisco Goya",
-      "reviewStatus": "generated",
-      "title": "This is the [absolute] worst! (Esto es lo peor!)",
-      "date": "1810",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "chester-beatty-library-dublin",
-      "location": "Chester Beatty Library",
-      "city": "Dublin",
-      "country": "Ireland",
-      "lat": 53.342,
-      "lon": -6.267,
-      "source": "http://www.wikidata.org/entity/Q47534929"
-    },
-    {
-      "id": "Q48244320",
-      "artistId": "francisco-goya",
-      "artistName": "Francisco Goya",
-      "reviewStatus": "generated",
-      "title": "What courage! (Qué valor!)",
-      "date": "1810",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "chester-beatty-library-dublin",
-      "location": "Chester Beatty Library",
-      "city": "Dublin",
-      "country": "Ireland",
-      "lat": 53.342,
-      "lon": -6.267,
-      "source": "http://www.wikidata.org/entity/Q48244320"
-    },
-    {
       "id": "Q18173393",
       "artistId": "katsushika-hokusai",
       "artistName": "Katsushika Hokusai",
@@ -85,24 +17,9 @@
       "country": "Ireland",
       "lat": 53.342,
       "lon": -6.267,
-      "source": "http://www.wikidata.org/entity/Q18173393"
-    },
-    {
-      "id": "Q61040892",
-      "artistId": "katsushika-hokusai",
-      "artistName": "Katsushika Hokusai",
-      "reviewStatus": "generated",
-      "title": "Evening Moon at Izumizaki",
-      "date": "1832",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "chester-beatty-library-dublin",
-      "location": "Chester Beatty Library",
-      "city": "Dublin",
-      "country": "Ireland",
-      "lat": 53.342,
-      "lon": -6.267,
-      "source": "http://www.wikidata.org/entity/Q61040892"
+      "source": "http://www.wikidata.org/entity/Q18173393",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Asakusa%20Honganji%20temple%20in%20th%20Eastern%20capital.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hokusai%20as%20an%20old%20man.jpg"
     },
     {
       "id": "Q18173405",
@@ -119,7 +36,9 @@
       "country": "Ireland",
       "lat": 53.342,
       "lon": -6.267,
-      "source": "http://www.wikidata.org/entity/Q18173405"
+      "source": "http://www.wikidata.org/entity/Q18173405",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Katsushika%20Hokusai%20-%20Fuji%20from%20Ushibori%2C%20Province%20of%20Hitachi%20-%201940.999%20-%20Cleveland%20Museum%20of%20Art.tif",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hokusai%20as%20an%20old%20man.jpg"
     },
     {
       "id": "Q60918001",
@@ -136,7 +55,9 @@
       "country": "Ireland",
       "lat": 53.342,
       "lon": -6.267,
-      "source": "http://www.wikidata.org/entity/Q60918001"
+      "source": "http://www.wikidata.org/entity/Q60918001",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hibiscus%20and%20Sparrow.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hokusai%20as%20an%20old%20man.jpg"
     },
     {
       "id": "Q61039228",
@@ -153,7 +74,9 @@
       "country": "Ireland",
       "lat": 53.342,
       "lon": -6.267,
-      "source": "http://www.wikidata.org/entity/Q61039228"
+      "source": "http://www.wikidata.org/entity/Q61039228",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/A%20bowl%20of%20lip%20rouge%2C%20a%20mirror%20in%20a%20case%20and%20a%20packet%20of%20face%20powder.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hokusai%20as%20an%20old%20man.jpg"
     },
     {
       "id": "Q61038555",
@@ -170,24 +93,9 @@
       "country": "Ireland",
       "lat": 53.342,
       "lon": -6.267,
-      "source": "http://www.wikidata.org/entity/Q61038555"
-    },
-    {
-      "id": "Q18173395",
-      "artistId": "katsushika-hokusai",
-      "artistName": "Katsushika Hokusai",
-      "reviewStatus": "generated",
-      "title": "Shichiri beach in Sagami province",
-      "date": "1831",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "chester-beatty-library-dublin",
-      "location": "Chester Beatty Library",
-      "city": "Dublin",
-      "country": "Ireland",
-      "lat": 53.342,
-      "lon": -6.267,
-      "source": "http://www.wikidata.org/entity/Q18173395"
+      "source": "http://www.wikidata.org/entity/Q61038555",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Dry-shallows%20shell%20%28Minasegai%29%20%28CBL%20J%202169%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hokusai%20as%20an%20old%20man.jpg"
     },
     {
       "id": "Q18173404",
@@ -204,7 +112,9 @@
       "country": "Ireland",
       "lat": 53.342,
       "lon": -6.267,
-      "source": "http://www.wikidata.org/entity/Q18173404"
+      "source": "http://www.wikidata.org/entity/Q18173404",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Fuji%20from%20the%20mountains%20of%20Totomi.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hokusai%20as%20an%20old%20man.jpg"
     },
     {
       "id": "Q14942039",
@@ -221,24 +131,9 @@
       "country": "Ireland",
       "lat": 53.354166666,
       "lon": -6.264722222,
-      "source": "http://www.wikidata.org/entity/Q14942039"
-    },
-    {
-      "id": "Q21369256",
-      "artistId": "camille-pissarro",
-      "artistName": "Camille Pissarro",
-      "reviewStatus": "generated",
-      "title": "View from Louveciennes",
-      "date": "1869",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "hugh-lane-gallery-dublin",
-      "location": "Hugh Lane Gallery",
-      "city": "Dublin",
-      "country": "Ireland",
-      "lat": 53.354166666,
-      "lon": -6.264722222,
-      "source": "http://www.wikidata.org/entity/Q21369256"
+      "source": "http://www.wikidata.org/entity/Q14942039",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Berthe%20Morisot%20-%20Jour%20d%27%C3%A9t%C3%A9%2C%201879.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Morisot%20berthe%20photo.jpg"
     },
     {
       "id": "Q3827992",
@@ -255,7 +150,9 @@
       "country": "Ireland",
       "lat": 53.354166666,
       "lon": -6.264722222,
-      "source": "http://www.wikidata.org/entity/Q3827992"
+      "source": "http://www.wikidata.org/entity/Q3827992",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Monet%2C%20Lavacourt-Sunshine-and-Snow.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%201899%20Nadar%20crop.jpg"
     },
     {
       "id": "Q84625996",
@@ -272,7 +169,9 @@
       "country": "Ireland",
       "lat": 53.354166666,
       "lon": -6.264722222,
-      "source": "http://www.wikidata.org/entity/Q84625996"
+      "source": "http://www.wikidata.org/entity/Q84625996",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%20-%20Waterloo%20Bridge%2C%20London.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%201899%20Nadar%20crop.jpg"
     },
     {
       "id": "Q26492727",
@@ -280,7 +179,7 @@
       "artistName": "Edgar Degas",
       "reviewStatus": "generated",
       "title": "Beach Scene",
-      "date": "1869",
+      "date": "1876",
       "type": "Painting",
       "attribution": "Accepted",
       "locationId": "hugh-lane-gallery-dublin",
@@ -289,7 +188,9 @@
       "country": "Ireland",
       "lat": 53.354166666,
       "lon": -6.264722222,
-      "source": "http://www.wikidata.org/entity/Q26492727"
+      "source": "http://www.wikidata.org/entity/Q26492727",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Germain%20Hilaire%20Degas%20041.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20self%20portrait%201855FXD.jpg"
     },
     {
       "id": "Q84707723",
@@ -306,58 +207,9 @@
       "country": "Ireland",
       "lat": 53.354166666,
       "lon": -6.264722222,
-      "source": "http://www.wikidata.org/entity/Q84707723"
-    },
-    {
-      "id": "Q26692407",
-      "artistId": "edouard-manet",
-      "artistName": "Édouard Manet",
-      "reviewStatus": "generated",
-      "title": "Eva Gonzalès",
-      "date": "1870",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "hugh-lane-gallery-dublin",
-      "location": "Hugh Lane Gallery",
-      "city": "Dublin",
-      "country": "Ireland",
-      "lat": 53.354166666,
-      "lon": -6.264722222,
-      "source": "http://www.wikidata.org/entity/Q26692407"
-    },
-    {
-      "id": "Q210277",
-      "artistId": "edouard-manet",
-      "artistName": "Édouard Manet",
-      "reviewStatus": "generated",
-      "title": "Music in the Tuileries",
-      "date": "1862",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "hugh-lane-gallery-dublin",
-      "location": "Hugh Lane Gallery",
-      "city": "Dublin",
-      "country": "Ireland",
-      "lat": 53.354166666,
-      "lon": -6.264722222,
-      "source": "http://www.wikidata.org/entity/Q210277"
-    },
-    {
-      "id": "Q84707700",
-      "artistId": "edouard-vuillard",
-      "artistName": "Édouard Vuillard",
-      "reviewStatus": "generated",
-      "title": "The Mantelpiece",
-      "date": "1905",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "hugh-lane-gallery-dublin",
-      "location": "Hugh Lane Gallery",
-      "city": "Dublin",
-      "country": "Ireland",
-      "lat": 53.354166666,
-      "lon": -6.264722222,
-      "source": "http://www.wikidata.org/entity/Q84707700"
+      "source": "http://www.wikidata.org/entity/Q84707723",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20self%20portrait%201855FXD.jpg"
     },
     {
       "id": "Q26707904",
@@ -374,7 +226,9 @@
       "country": "Ireland",
       "lat": 53.354166666,
       "lon": -6.264722222,
-      "source": "http://www.wikidata.org/entity/Q26707904"
+      "source": "http://www.wikidata.org/entity/Q26707904",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Courbet%20-%20In%20the%20Forest%2C%201859.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustave%20Courbet%2C%20photograph%20Atelier%20Nadar%2C%20c.%201860s.jpg"
     },
     {
       "id": "Q26707902",
@@ -391,7 +245,9 @@
       "country": "Ireland",
       "lat": 53.354166666,
       "lon": -6.264722222,
-      "source": "http://www.wikidata.org/entity/Q26707902"
+      "source": "http://www.wikidata.org/entity/Q26707902",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Diligence%20in%20the%20Snow%2C%201860.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustave%20Courbet%2C%20photograph%20Atelier%20Nadar%2C%20c.%201860s.jpg"
     },
     {
       "id": "Q84707712",
@@ -408,7 +264,9 @@
       "country": "Ireland",
       "lat": 53.354166666,
       "lon": -6.264722222,
-      "source": "http://www.wikidata.org/entity/Q84707712"
+      "source": "http://www.wikidata.org/entity/Q84707712",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%2C%20Self-portrait.jpg"
     },
     {
       "id": "Q84625992",
@@ -425,7 +283,9 @@
       "country": "Ireland",
       "lat": 53.354166666,
       "lon": -6.264722222,
-      "source": "http://www.wikidata.org/entity/Q84625992"
+      "source": "http://www.wikidata.org/entity/Q84625992",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Corot%20-%20Landscape%20Sunset%2C%201875.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste-Camille%20Corot%20c1850.png"
     },
     {
       "id": "Q84625990",
@@ -442,7 +302,9 @@
       "country": "Ireland",
       "lat": 53.354166666,
       "lon": -6.264722222,
-      "source": "http://www.wikidata.org/entity/Q84625990"
+      "source": "http://www.wikidata.org/entity/Q84625990",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Corot%20-%20Marseille%20The%20Old%20Port%2C%201843.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste-Camille%20Corot%20c1850.png"
     },
     {
       "id": "Q84626071",
@@ -459,41 +321,9 @@
       "country": "Ireland",
       "lat": 53.354166666,
       "lon": -6.264722222,
-      "source": "http://www.wikidata.org/entity/Q84626071"
-    },
-    {
-      "id": "Q84707725",
-      "artistId": "pierre-bonnard",
-      "artistName": "Pierre Bonnard",
-      "reviewStatus": "generated",
-      "title": "Untitled record",
-      "date": "1911",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "hugh-lane-gallery-dublin",
-      "location": "Hugh Lane Gallery",
-      "city": "Dublin",
-      "country": "Ireland",
-      "lat": 53.354166666,
-      "lon": -6.264722222,
-      "source": "http://www.wikidata.org/entity/Q84707725"
-    },
-    {
-      "id": "Q1114571",
-      "artistId": "pierre-auguste-renoir",
-      "artistName": "Pierre-Auguste Renoir",
-      "reviewStatus": "generated",
-      "title": "The Umbrellas",
-      "date": "1881",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "hugh-lane-gallery-dublin",
-      "location": "Hugh Lane Gallery",
-      "city": "Dublin",
-      "country": "Ireland",
-      "lat": 53.354166666,
-      "lon": -6.264722222,
-      "source": "http://www.wikidata.org/entity/Q1114571"
+      "source": "http://www.wikidata.org/entity/Q84626071",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Corot%20-%20Woman%20Meditating%2C%201855.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste-Camille%20Corot%20c1850.png"
     },
     {
       "id": "vermeer:ngi:woman-writing-a-letter-with-her-maid",
@@ -510,7 +340,9 @@
       "country": "Ireland",
       "lat": 53.3409,
       "lon": -6.2525,
-      "source": "https://www.nationalgallery.ie/art-and-artists/highlights-collection/woman-writing-letter-her-maid-johannes-vermeer-1632-1675"
+      "source": "https://www.nationalgallery.ie/art-and-artists/highlights-collection/woman-writing-letter-her-maid-johannes-vermeer-1632-1675",
+      "externalImage": "",
+      "artistImage": ""
     },
     {
       "id": "Q77992701",
@@ -527,7 +359,9 @@
       "country": "Ireland",
       "lat": 53.34091,
       "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q77992701"
+      "source": "http://www.wikidata.org/entity/Q77992701",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Alfred%20sisley%2C%20le%20rive%20del%20canale%20del%20loing%20a%20saint-mamme%C3%A8s%2C%201888.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20110.jpg"
     },
     {
       "id": "Q77982928",
@@ -544,7 +378,9 @@
       "country": "Ireland",
       "lat": 53.34091,
       "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q77982928"
+      "source": "http://www.wikidata.org/entity/Q77982928",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Fanciullo%20genovese%20su%20una%20terrazza%20-%20Van%20Dyck.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Anthony%20van%20Dyck%20-%20Self-portrait.jpg"
     },
     {
       "id": "Q77939446",
@@ -561,7 +397,28 @@
       "country": "Ireland",
       "lat": 53.34091,
       "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q77939446"
+      "source": "http://www.wikidata.org/entity/Q77939446",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Frans%20Francken%20II%20.PNG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Anthony%20van%20Dyck%20-%20Self-portrait.jpg"
+    },
+    {
+      "id": "Q77937155",
+      "artistId": "anthony-van-dyck",
+      "artistName": "Anthony van Dyck",
+      "reviewStatus": "generated",
+      "title": "Isabella Clara Eugenia, Archduchess of Austria",
+      "date": "Date unknown",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "national-gallery-of-ireland-dublin-city",
+      "location": "National Gallery of Ireland",
+      "city": "Dublin City",
+      "country": "Ireland",
+      "lat": 53.34091,
+      "lon": -6.25255,
+      "source": "http://www.wikidata.org/entity/Q77937155",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Isabella%20Clara%20Eugenia%2C%20Archduchess%20of%20Austria%20.PNG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Anthony%20van%20Dyck%20-%20Self-portrait.jpg"
     },
     {
       "id": "Q77899050",
@@ -578,7 +435,9 @@
       "country": "Ireland",
       "lat": 53.34091,
       "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q77899050"
+      "source": "http://www.wikidata.org/entity/Q77899050",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Anthony%20van%20Dyck%20-%20Self-portrait.jpg"
     },
     {
       "id": "Q77978625",
@@ -595,7 +454,28 @@
       "country": "Ireland",
       "lat": 53.34091,
       "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q77978625"
+      "source": "http://www.wikidata.org/entity/Q77978625",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/After%20Anthony%20van%20Dyck%20-%20Portrait%20of%20a%20man%2C%2017e%20eeuw.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Anthony%20van%20Dyck%20-%20Self-portrait.jpg"
+    },
+    {
+      "id": "Q77946340",
+      "artistId": "anthony-van-dyck",
+      "artistName": "Anthony van Dyck",
+      "reviewStatus": "generated",
+      "title": "Portrait of a Woman",
+      "date": "1700",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "national-gallery-of-ireland-dublin-city",
+      "location": "National Gallery of Ireland",
+      "city": "Dublin City",
+      "country": "Ireland",
+      "lat": 53.34091,
+      "lon": -6.25255,
+      "source": "http://www.wikidata.org/entity/Q77946340",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Anthony%20van%20Dyck%20-%20Self-portrait.jpg"
     },
     {
       "id": "Q77941238",
@@ -612,7 +492,9 @@
       "country": "Ireland",
       "lat": 53.34091,
       "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q77941238"
+      "source": "http://www.wikidata.org/entity/Q77941238",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/After%20Anthony%20van%20Dyck%20-%20Portrait%20of%20Frederick%20Marselaer%2C%20Diplomat%2C%20NGI.235.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Anthony%20van%20Dyck%20-%20Self-portrait.jpg"
     },
     {
       "id": "Q77928311",
@@ -629,7 +511,9 @@
       "country": "Ireland",
       "lat": 53.34091,
       "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q77928311"
+      "source": "http://www.wikidata.org/entity/Q77928311",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Anthony%20van%20Dyck%20-%20Self-portrait.jpg"
     },
     {
       "id": "Q77942773",
@@ -646,7 +530,9 @@
       "country": "Ireland",
       "lat": 53.34091,
       "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q77942773"
+      "source": "http://www.wikidata.org/entity/Q77942773",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Van%20Dyck%20-%20Study%20of%20a%20Naked%20Youth%2C%20c.1615-1618.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Anthony%20van%20Dyck%20-%20Self-portrait.jpg"
     },
     {
       "id": "Q77947774",
@@ -663,7 +549,9 @@
       "country": "Ireland",
       "lat": 53.34091,
       "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q77947774"
+      "source": "http://www.wikidata.org/entity/Q77947774",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Anthony%20van%20Dyck%20-%20Self-portrait.jpg"
     },
     {
       "id": "Q77966741",
@@ -680,7 +568,28 @@
       "country": "Ireland",
       "lat": 53.34091,
       "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q77966741"
+      "source": "http://www.wikidata.org/entity/Q77966741",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Lamentation%20.PNG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Anthony%20van%20Dyck%20-%20Self-portrait.jpg"
+    },
+    {
+      "id": "Q77951916",
+      "artistId": "anthony-van-dyck",
+      "artistName": "Anthony van Dyck",
+      "reviewStatus": "generated",
+      "title": "Thomas Wentworth, Earl of Strafford (1593-1641)",
+      "date": "Date unknown",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "national-gallery-of-ireland-dublin-city",
+      "location": "National Gallery of Ireland",
+      "city": "Dublin City",
+      "country": "Ireland",
+      "lat": 53.34091,
+      "lon": -6.25255,
+      "source": "http://www.wikidata.org/entity/Q77951916",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Anthony%20van%20Dyck%20-%20Self-portrait.jpg"
     },
     {
       "id": "Q77982697",
@@ -697,7 +606,9 @@
       "country": "Ireland",
       "lat": 53.34091,
       "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q77982697"
+      "source": "http://www.wikidata.org/entity/Q77982697",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/A%20Musical%20Party%20%28Le%20Conteur%29.PNG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%28Treviso%29%20The%20painter%20Antoine%20Watteau%20by%20Rosalba%20Carriera%20-%20Museo%20civico%20di%20Santa%20Caterina.jpg"
     },
     {
       "id": "Q77897110",
@@ -714,7 +625,9 @@
       "country": "Ireland",
       "lat": 53.34091,
       "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q77897110"
+      "source": "http://www.wikidata.org/entity/Q77897110",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%28Treviso%29%20The%20painter%20Antoine%20Watteau%20by%20Rosalba%20Carriera%20-%20Museo%20civico%20di%20Santa%20Caterina.jpg"
     },
     {
       "id": "Q77944254",
@@ -731,7 +644,9 @@
       "country": "Ireland",
       "lat": 53.34091,
       "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q77944254"
+      "source": "http://www.wikidata.org/entity/Q77944254",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Retratodejosuavanbellers8.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg"
     },
     {
       "id": "Q77964818",
@@ -748,7 +663,9 @@
       "country": "Ireland",
       "lat": 53.34091,
       "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q77964818"
+      "source": "http://www.wikidata.org/entity/Q77964818",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20-%20The%20Prodigal%20Son%20Restored.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg"
     },
     {
       "id": "Q77927306",
@@ -765,7 +682,9 @@
       "country": "Ireland",
       "lat": 53.34091,
       "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q77927306"
+      "source": "http://www.wikidata.org/entity/Q77927306",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20esteban%20murillo%2C%20sacra%20famiglia%2C%201640-49%20ca.%2001.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg"
     },
     {
       "id": "Q77945041",
@@ -782,7 +701,9 @@
       "country": "Ireland",
       "lat": 53.34091,
       "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q77945041"
+      "source": "http://www.wikidata.org/entity/Q77945041",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20esteban%20murillo%2C%20san%20giovannino%20che%20gioca%20con%20un%20agnello%2C%201670-80%20ca.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg"
     },
     {
       "id": "Q77966236",
@@ -799,7 +720,9 @@
       "country": "Ireland",
       "lat": 53.34091,
       "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q77966236"
+      "source": "http://www.wikidata.org/entity/Q77966236",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Meeting%20of%20Jacob%20and%20Rachel%20at%20the%20Well%20.PNG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg"
     },
     {
       "id": "Q77927477",
@@ -807,7 +730,7 @@
       "artistName": "Bartolomé Esteban Murillo",
       "reviewStatus": "generated",
       "title": "The Penitent Magdalene",
-      "date": "1652",
+      "date": "1650",
       "type": "Painting",
       "attribution": "Accepted",
       "locationId": "national-gallery-of-ireland-dublin-city",
@@ -816,7 +739,9 @@
       "country": "Ireland",
       "lat": 53.34091,
       "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q77927477"
+      "source": "http://www.wikidata.org/entity/Q77927477",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/National%20Gallery%20Ireland%2062.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg"
     },
     {
       "id": "Q77964827",
@@ -833,7 +758,9 @@
       "country": "Ireland",
       "lat": 53.34091,
       "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q77964827"
+      "source": "http://www.wikidata.org/entity/Q77964827",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20-%20The%20Prodigal%20Son%20Driven%20Out%2C%20NGI.4543.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg"
     },
     {
       "id": "Q77964823",
@@ -850,7 +777,9 @@
       "country": "Ireland",
       "lat": 53.34091,
       "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q77964823"
+      "source": "http://www.wikidata.org/entity/Q77964823",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20disipaci%C3%B3n%20del%20hijo%20pr%C3%B3digo%20%28National%20Gallery%20of%20Ireland%2C%20Dubl%C3%ADn%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg"
     },
     {
       "id": "Q77964833",
@@ -867,7 +796,9 @@
       "country": "Ireland",
       "lat": 53.34091,
       "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q77964833"
+      "source": "http://www.wikidata.org/entity/Q77964833",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20-%20The%20Prodigal%20Son%20Feeding%20Swine%2C%20NGI.4544.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg"
     },
     {
       "id": "Q77964812",
@@ -884,7 +815,9 @@
       "country": "Ireland",
       "lat": 53.34091,
       "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q77964812"
+      "source": "http://www.wikidata.org/entity/Q77964812",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20-%20The%20Prodigal%20Son%20Receiving%20his%20Portion%2C%20NGI.4540.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg"
     },
     {
       "id": "Q77994413",
@@ -901,7 +834,9 @@
       "country": "Ireland",
       "lat": 53.34091,
       "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q77994413"
+      "source": "http://www.wikidata.org/entity/Q77994413",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Morisot%20-%20Le%20Corsage%20Noir%2C%201878.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Morisot%20berthe%20photo.jpg"
     },
     {
       "id": "Q21486166",
@@ -918,7 +853,9 @@
       "country": "Ireland",
       "lat": 53.34091,
       "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q21486166"
+      "source": "http://www.wikidata.org/entity/Q21486166",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Pissarro%20%28French%2C%201830-1903%29%2C%20Chrysanthemums%20in%20a%20Chinese%20Vase%2C%201870.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg"
     },
     {
       "id": "Q541376",
@@ -935,24 +872,9 @@
       "country": "Ireland",
       "lat": 53.34091,
       "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q541376"
-    },
-    {
-      "id": "Q102852946",
-      "artistId": "caravaggio",
-      "artistName": "Caravaggio",
-      "reviewStatus": "generated",
-      "title": "The Taking of Christ",
-      "date": "1700",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "national-gallery-of-ireland-dublin-city",
-      "location": "National Gallery of Ireland",
-      "city": "Dublin City",
-      "country": "Ireland",
-      "lat": 53.34091,
-      "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q102852946"
+      "source": "http://www.wikidata.org/entity/Q541376",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Caravaggio%20-%20The%20Taking%20of%20Christ%20restored.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bild-Ottavio%20Leoni%2C%20Caravaggio.jpg"
     },
     {
       "id": "Q19570879",
@@ -969,7 +891,9 @@
       "country": "Ireland",
       "lat": 53.34091,
       "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q19570879"
+      "source": "http://www.wikidata.org/entity/Q19570879",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Monet-ArgenteuilBasinWithASingleSailboat.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%201899%20Nadar%20crop.jpg"
     },
     {
       "id": "Q77933101",
@@ -986,7 +910,9 @@
       "country": "Ireland",
       "lat": 53.34091,
       "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q77933101"
+      "source": "http://www.wikidata.org/entity/Q77933101",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Head%20of%20Saint%20Catherine%20the%20Martyr%20.PNG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Antonio%20Allegri%20da%20Correggio.jpg"
     },
     {
       "id": "Q77880084",
@@ -1003,7 +929,9 @@
       "country": "Ireland",
       "lat": 53.34091,
       "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q77880084"
+      "source": "http://www.wikidata.org/entity/Q77880084",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Antonio%20Allegri%20da%20Correggio.jpg"
     },
     {
       "id": "Q77877157",
@@ -1020,7 +948,9 @@
       "country": "Ireland",
       "lat": 53.34091,
       "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q77877157"
+      "source": "http://www.wikidata.org/entity/Q77877157",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Antonio%20Allegri%20da%20Correggio.jpg"
     },
     {
       "id": "Q77900217",
@@ -1037,7 +967,9 @@
       "country": "Ireland",
       "lat": 53.34091,
       "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q77900217"
+      "source": "http://www.wikidata.org/entity/Q77900217",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/A%20Spanish%20Infanta%20in%2017th%20Century%20Costume%20.PNG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Vel%C3%A1zquez%20Autorretrato%2045%20x%2038%20cm%20-%20Colecci%C3%B3n%20Real%20Academia%20de%20Bellas%20Artes%20de%20San%20Carlos%20-%20Museo%20de%20Bellas%20Artes%20de%20Valencia.jpg"
     },
     {
       "id": "Q77883914",
@@ -1054,7 +986,9 @@
       "country": "Ireland",
       "lat": 53.34091,
       "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q77883914"
+      "source": "http://www.wikidata.org/entity/Q77883914",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Vel%C3%A1zquez%20Autorretrato%2045%20x%2038%20cm%20-%20Colecci%C3%B3n%20Real%20Academia%20de%20Bellas%20Artes%20de%20San%20Carlos%20-%20Museo%20de%20Bellas%20Artes%20de%20Valencia.jpg"
     },
     {
       "id": "Q64689806",
@@ -1071,7 +1005,9 @@
       "country": "Ireland",
       "lat": 53.34091,
       "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q64689806"
+      "source": "http://www.wikidata.org/entity/Q64689806",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20mulata%2C%20by%20Diego%20Vel%C3%A1zquez.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Vel%C3%A1zquez%20Autorretrato%2045%20x%2038%20cm%20-%20Colecci%C3%B3n%20Real%20Academia%20de%20Bellas%20Artes%20de%20San%20Carlos%20-%20Museo%20de%20Bellas%20Artes%20de%20Valencia.jpg"
     },
     {
       "id": "Q77939027",
@@ -1088,7 +1024,9 @@
       "country": "Ireland",
       "lat": 53.34091,
       "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q77939027"
+      "source": "http://www.wikidata.org/entity/Q77939027",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Menippus%20.PNG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Vel%C3%A1zquez%20Autorretrato%2045%20x%2038%20cm%20-%20Colecci%C3%B3n%20Real%20Academia%20de%20Bellas%20Artes%20de%20San%20Carlos%20-%20Museo%20de%20Bellas%20Artes%20de%20Valencia.jpg"
     },
     {
       "id": "Q77939068",
@@ -1105,7 +1043,9 @@
       "country": "Ireland",
       "lat": 53.34091,
       "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q77939068"
+      "source": "http://www.wikidata.org/entity/Q77939068",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Vel%C3%A1zquez%20Autorretrato%2045%20x%2038%20cm%20-%20Colecci%C3%B3n%20Real%20Academia%20de%20Bellas%20Artes%20de%20San%20Carlos%20-%20Museo%20de%20Bellas%20Artes%20de%20Valencia.jpg"
     },
     {
       "id": "Q77938976",
@@ -1122,7 +1062,9 @@
       "country": "Ireland",
       "lat": 53.34091,
       "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q77938976"
+      "source": "http://www.wikidata.org/entity/Q77938976",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Vel%C3%A1zquez%20Autorretrato%2045%20x%2038%20cm%20-%20Colecci%C3%B3n%20Real%20Academia%20de%20Bellas%20Artes%20de%20San%20Carlos%20-%20Museo%20de%20Bellas%20Artes%20de%20Valencia.jpg"
     },
     {
       "id": "Q140583512",
@@ -1139,7 +1081,9 @@
       "country": "Ireland",
       "lat": 53.34091,
       "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q140583512"
+      "source": "http://www.wikidata.org/entity/Q140583512",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20velazquez%2C%20cameriera%20in%20cucina%20e%20cena%20in%20emmaus%2C%201617-18%20ca.%2001.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Vel%C3%A1zquez%20Autorretrato%2045%20x%2038%20cm%20-%20Colecci%C3%B3n%20Real%20Academia%20de%20Bellas%20Artes%20de%20San%20Carlos%20-%20Museo%20de%20Bellas%20Artes%20de%20Valencia.jpg"
     },
     {
       "id": "Q77977723",
@@ -1156,7 +1100,9 @@
       "country": "Ireland",
       "lat": 53.34091,
       "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q77977723"
+      "source": "http://www.wikidata.org/entity/Q77977723",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Greco%20-%20St.%20Francis%20%28National%20Gallery%20of%20Ireland%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Greco%20-%20Portrait%20of%20a%20Man%20-%20WGA10554.jpg"
     },
     {
       "id": "Q77992522",
@@ -1173,7 +1119,9 @@
       "country": "Ireland",
       "lat": 53.34091,
       "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q77992522"
+      "source": "http://www.wikidata.org/entity/Q77992522",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Demosthenes%20on%20the%20Seashore%20P379.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Autoportrait%20-%20Eug%C3%A8ne%20Delacroix%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20RF%2025.jpg"
     },
     {
       "id": "Q3686380",
@@ -1181,7 +1129,7 @@
       "artistName": "Fra Angelico",
       "reviewStatus": "generated",
       "title": "Saints Cosmas and Damian and their Brothers Surviving the Stake",
-      "date": "1443",
+      "date": "1438",
       "type": "Painting",
       "attribution": "Accepted",
       "locationId": "national-gallery-of-ireland-dublin-city",
@@ -1190,7 +1138,9 @@
       "country": "Ireland",
       "lat": 53.34091,
       "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q3686380"
+      "source": "http://www.wikidata.org/entity/Q3686380",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Angelico%2C%20predella%20dei%20santi%20cosma%20e%20damiano%20da%20pala%20di%20san%20marco%2C%20condanna.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Fra%20Angelico%20portrait.jpg"
     },
     {
       "id": "Q77969896",
@@ -1207,7 +1157,9 @@
       "country": "Ireland",
       "lat": 53.34091,
       "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q77969896"
+      "source": "http://www.wikidata.org/entity/Q77969896",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Zurbar%C3%A1n%20-%20Saint%20Diego%20of%20Alcal%C3%A1%2C%20c.1640.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Francisco%20de%20Zurbar%C3%A1n%20autoportrait.jpg"
     },
     {
       "id": "Q77992354",
@@ -1224,7 +1176,9 @@
       "country": "Ireland",
       "lat": 53.34091,
       "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q77992354"
+      "source": "http://www.wikidata.org/entity/Q77992354",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Francisco%20de%20Zurbar%C3%A1n%20049.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Francisco%20de%20Zurbar%C3%A1n%20autoportrait.jpg"
     },
     {
       "id": "Q77942637",
@@ -1241,7 +1195,9 @@
       "country": "Ireland",
       "lat": 53.34091,
       "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q77942637"
+      "source": "http://www.wikidata.org/entity/Q77942637",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/National%20Gallery%20Ireland%2015.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Francisco%20de%20Zurbar%C3%A1n%20autoportrait.jpg"
     },
     {
       "id": "Q16878229",
@@ -1249,7 +1205,7 @@
       "artistName": "Francisco Goya",
       "reviewStatus": "generated",
       "title": "El Sueño",
-      "date": "1800",
+      "date": "1790",
       "type": "Painting",
       "attribution": "Accepted",
       "locationId": "national-gallery-of-ireland-dublin-city",
@@ -1258,7 +1214,9 @@
       "country": "Ireland",
       "lat": 53.34091,
       "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q16878229"
+      "source": "http://www.wikidata.org/entity/Q16878229",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Sue%C3%B1o%20Goya.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Vicente%20L%C3%B3pez%20Porta%C3%B1a%20-%20el%20pintor%20Francisco%20de%20Goya.jpg"
     },
     {
       "id": "Q77974826",
@@ -1275,7 +1233,9 @@
       "country": "Ireland",
       "lat": 53.34091,
       "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q77974826"
+      "source": "http://www.wikidata.org/entity/Q77974826",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Francisco%20de%20Goya%20-%20Retrato%20de%20una%20dama%20en%20un%20Mantilla%20Negro%20%28ca.1824%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Vicente%20L%C3%B3pez%20Porta%C3%B1a%20-%20el%20pintor%20Francisco%20de%20Goya.jpg"
     },
     {
       "id": "Q15880867",
@@ -1292,7 +1252,9 @@
       "country": "Ireland",
       "lat": 53.34091,
       "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q15880867"
+      "source": "http://www.wikidata.org/entity/Q15880867",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Francisco%20de%20Goya%20y%20Lucientes%20-%20Portrait%20of%20Antonia%20Z%C3%A1rate%20-%20WGA10053.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Vicente%20L%C3%B3pez%20Porta%C3%B1a%20-%20el%20pintor%20Francisco%20de%20Goya.jpg"
     },
     {
       "id": "Q77975891",
@@ -1309,7 +1271,9 @@
       "country": "Ireland",
       "lat": 53.34091,
       "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q77975891"
+      "source": "http://www.wikidata.org/entity/Q77975891",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Francisco%20de%20Goya%20-%20El%20Conde%20del%20Tajo%20%28ca.1800%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Vicente%20L%C3%B3pez%20Porta%C3%B1a%20-%20el%20pintor%20Francisco%20de%20Goya.jpg"
     },
     {
       "id": "Q77927629",
@@ -1326,7 +1290,9 @@
       "country": "Ireland",
       "lat": 53.34091,
       "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q77927629"
+      "source": "http://www.wikidata.org/entity/Q77927629",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/A%20Young%20Girl%20in%20a%20Park%20.PNG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Boucher%20par%20Gustav%20Lundberg%201741.jpg"
     },
     {
       "id": "Q77946191",
@@ -1343,7 +1309,9 @@
       "country": "Ireland",
       "lat": 53.34091,
       "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q77946191"
+      "source": "http://www.wikidata.org/entity/Q77946191",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Giovanni%20Battista%20Tiepolo%20-%20Allegory%20of%20the%20Immaculate%20Conception%20-%20NGI.353.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Tiepolo%2C%20Giovanni%20Battista%20-%20Fresken%20Treppenhaus%20des%20W%C3%BCrzburger%20Residenzschlosses%2C%20Szenen%20zur%20Apotheose%20des%20F%C3%BCrstbischofs%2C%20Detail%20Giovanni%20Battista%20Tiepolo%20-%201750-1753.jpg"
     },
     {
       "id": "Q77883479",
@@ -1360,7 +1328,9 @@
       "country": "Ireland",
       "lat": 53.34091,
       "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q77883479"
+      "source": "http://www.wikidata.org/entity/Q77883479",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Christ%20in%20the%20House%20of%20Simon%20the%20Pharisee%20P7258.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Tiepolo%2C%20Giovanni%20Battista%20-%20Fresken%20Treppenhaus%20des%20W%C3%BCrzburger%20Residenzschlosses%2C%20Szenen%20zur%20Apotheose%20des%20F%C3%BCrstbischofs%2C%20Detail%20Giovanni%20Battista%20Tiepolo%20-%201750-1753.jpg"
     },
     {
       "id": "Q77941598",
@@ -1377,7 +1347,9 @@
       "country": "Ireland",
       "lat": 53.34091,
       "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q77941598"
+      "source": "http://www.wikidata.org/entity/Q77941598",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Head%20of%20a%20Gentleman%20.PNG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Portr%C3%A6t%20af%20den%20venezianske%20maler%20Giovanni%20Bellini.jpg"
     },
     {
       "id": "Q77927571",
@@ -1394,7 +1366,9 @@
       "country": "Ireland",
       "lat": 53.34091,
       "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q77927571"
+      "source": "http://www.wikidata.org/entity/Q77927571",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustave%20Courbet%20-%20Portrait%20of%20Adolphe%20Marlet%20-%20WGA05493.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustave%20Courbet%2C%20photograph%20Atelier%20Nadar%2C%20c.%201860s.jpg"
     },
     {
       "id": "Q77946876",
@@ -1411,7 +1385,9 @@
       "country": "Ireland",
       "lat": 53.34091,
       "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q77946876"
+      "source": "http://www.wikidata.org/entity/Q77946876",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hans%20Holbein%20the%20Younger%2C%20self-portrait.jpg"
     },
     {
       "id": "Q77896453",
@@ -1428,7 +1404,9 @@
       "country": "Ireland",
       "lat": 53.34091,
       "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q77896453"
+      "source": "http://www.wikidata.org/entity/Q77896453",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Descent%20into%20Limbo%20%28follower%20of%20Bosch%2C%20Dublin%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg"
     },
     {
       "id": "Q77935742",
@@ -1445,7 +1423,9 @@
       "country": "Ireland",
       "lat": 53.34091,
       "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q77935742"
+      "source": "http://www.wikidata.org/entity/Q77935742",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Self%20Portrait.jpg"
     },
     {
       "id": "Q3232845",
@@ -1462,7 +1442,9 @@
       "country": "Ireland",
       "lat": 53.34091,
       "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q3232845"
+      "source": "http://www.wikidata.org/entity/Q3232845",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/JL%20David%20Les%20fun%C3%A9railles%20de%20Patrocle.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Self%20Portrait.jpg"
     },
     {
       "id": "Q77954840",
@@ -1479,7 +1461,9 @@
       "country": "Ireland",
       "lat": 53.34091,
       "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q77954840"
+      "source": "http://www.wikidata.org/entity/Q77954840",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/An%20Interior%20of%20a%20Barn%20.PNG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste-Camille%20Corot%20c1850.png"
     },
     {
       "id": "Q77991175",
@@ -1496,7 +1480,9 @@
       "country": "Ireland",
       "lat": 53.34091,
       "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q77991175"
+      "source": "http://www.wikidata.org/entity/Q77991175",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Souvenir%20of%20Roquemaure%20in%20the%20Gard%20.PNG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste-Camille%20Corot%20c1850.png"
     },
     {
       "id": "Q77984808",
@@ -1513,7 +1499,9 @@
       "country": "Ireland",
       "lat": 53.34091,
       "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q77984808"
+      "source": "http://www.wikidata.org/entity/Q77984808",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Willows%20.PNG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste-Camille%20Corot%20c1850.png"
     },
     {
       "id": "Q138392951",
@@ -1530,7 +1518,9 @@
       "country": "Ireland",
       "lat": 53.34091,
       "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q138392951"
+      "source": "http://www.wikidata.org/entity/Q138392951",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20-%20A%20Still%20Life%20Two%20Rabbits%2C%20a%20Grey%20Partridge%2C%20Game%20Bag%20and%20a%20Powder%20Flask%2C%201731.png",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg"
     },
     {
       "id": "Q77969892",
@@ -1547,7 +1537,9 @@
       "country": "Ireland",
       "lat": 53.34091,
       "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q77969892"
+      "source": "http://www.wikidata.org/entity/Q77969892",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Les%20Tours%20de%20Cartes%20.PNG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg"
     },
     {
       "id": "Q77982947",
@@ -1564,7 +1556,9 @@
       "country": "Ireland",
       "lat": 53.34091,
       "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q77982947"
+      "source": "http://www.wikidata.org/entity/Q77982947",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20-%20The%20Schoolmistress%2C%20c.1735.png",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg"
     },
     {
       "id": "Q138412312",
@@ -1581,7 +1575,9 @@
       "country": "Ireland",
       "lat": 53.34091,
       "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q138412312"
+      "source": "http://www.wikidata.org/entity/Q138412312",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20-%20Les%20Tours%20de%20Cartes%2C%20c.1735.png",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg"
     },
     {
       "id": "Q77956306",
@@ -1598,7 +1594,9 @@
       "country": "Ireland",
       "lat": 53.34091,
       "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q77956306"
+      "source": "http://www.wikidata.org/entity/Q77956306",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Country%20Scene%20with%20Stile%20.PNG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-FrancoisMillet%28Nadar%29.jpg"
     },
     {
       "id": "Q77957443",
@@ -1615,7 +1613,9 @@
       "country": "Ireland",
       "lat": 53.34091,
       "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q77957443"
+      "source": "http://www.wikidata.org/entity/Q77957443",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Venus%20and%20Cupid%20%28Day%29%20.PNG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Honor%C3%A9%20Fragonard%20self-portrait.jpg"
     },
     {
       "id": "Q77947160",
@@ -1632,7 +1632,9 @@
       "country": "Ireland",
       "lat": 53.34091,
       "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q77947160"
+      "source": "http://www.wikidata.org/entity/Q77947160",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Harnham%20Ridge%20from%20Archdeacon%20Fisher%27s%20House%2C%20Salisbury%20.PNG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Constable%20by%20Daniel%20Gardner%2C%201796.JPG"
     },
     {
       "id": "Q77982404",
@@ -1649,7 +1651,9 @@
       "country": "Ireland",
       "lat": 53.34091,
       "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q77982404"
+      "source": "http://www.wikidata.org/entity/Q77982404",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20a%20Child%20with%20a%20Dog%20-%20John%20Constable%20.PNG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Constable%20by%20Daniel%20Gardner%2C%201796.JPG"
     },
     {
       "id": "Q77983021",
@@ -1666,7 +1670,9 @@
       "country": "Ireland",
       "lat": 53.34091,
       "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q77983021"
+      "source": "http://www.wikidata.org/entity/Q77983021",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Woodrow%20Wilson%20P1893.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Singer%20Sargent%201903.jpg"
     },
     {
       "id": "Q77989321",
@@ -1683,7 +1689,9 @@
       "country": "Ireland",
       "lat": 53.34091,
       "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q77989321"
+      "source": "http://www.wikidata.org/entity/Q77989321",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Bead-stringers%20of%20Venice%20.PNG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Singer%20Sargent%201903.jpg"
     },
     {
       "id": "Q19327706",
@@ -1700,7 +1708,9 @@
       "country": "Ireland",
       "lat": 53.34091,
       "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q19327706"
+      "source": "http://www.wikidata.org/entity/Q19327706",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Circle%20of%20Frans%20Hals%20-%20The%20Lute%20Player.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Self-portrait%20by%20Judith%20Leyster.jpg"
     },
     {
       "id": "Q77966462",
@@ -1717,7 +1727,9 @@
       "country": "Ireland",
       "lat": 53.34091,
       "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q77966462"
+      "source": "http://www.wikidata.org/entity/Q77966462",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20a%20Gentleman%20in%20Armour%20%28c.%20late%201590s%2C%20NGI%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lavinia%20Fontana%20-%20Autoritratto%20%28ca.%201577-85%29.jpg"
     },
     {
       "id": "Q76844690",
@@ -1734,7 +1746,9 @@
       "country": "Ireland",
       "lat": 53.34091,
       "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q76844690"
+      "source": "http://www.wikidata.org/entity/Q76844690",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Visit%20of%20the%20Queen%20of%20Sheba%20to%20Solomon%20by%20L.%20Fontana%20%28c.%201600%2C%20NGI%29%20%28version%202%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lavinia%20Fontana%20-%20Autoritratto%20%28ca.%201577-85%29.jpg"
     },
     {
       "id": "Q77933949",
@@ -1751,7 +1765,9 @@
       "country": "Ireland",
       "lat": 53.34091,
       "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q77933949"
+      "source": "http://www.wikidata.org/entity/Q77933949",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Werkst.%20Lucas%20Cranach%20d.%C3%84.%20-%20Judith%20mit%20dem%20Kopf%20von%20Holofernes%20%28National%20Gallery%20of%20Ireland%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20d.%20%C3%84.%20063.jpg"
     },
     {
       "id": "Q77895294",
@@ -1768,7 +1784,9 @@
       "country": "Ireland",
       "lat": 53.34091,
       "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q77895294"
+      "source": "http://www.wikidata.org/entity/Q77895294",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Werkst.%20Lucas%20Cranach%20d.%C3%84.%20-%20Madonna%20mit%20Kind%20%28National%20Gallery%20of%20Ireland%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20d.%20%C3%84.%20063.jpg"
     },
     {
       "id": "Q3842490",
@@ -1785,7 +1803,9 @@
       "country": "Ireland",
       "lat": 53.34091,
       "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q3842490"
+      "source": "http://www.wikidata.org/entity/Q3842490",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Uccello%20056.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Cinq%20ma%C3%AEtres%20de%20la%20Renaissance%20florentine%20-%20Uccello%20%28Louvre%29.jpg"
     },
     {
       "id": "Q77937943",
@@ -1802,7 +1822,9 @@
       "country": "Ireland",
       "lat": 53.34091,
       "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q77937943"
+      "source": "http://www.wikidata.org/entity/Q77937943",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Veronese%20-%20AUTORITRATTO%20%282%29%20-%20Museo%20dell%27Ermitage.jpg"
     },
     {
       "id": "Q77980572",
@@ -1819,7 +1841,9 @@
       "country": "Ireland",
       "lat": 53.34091,
       "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q77980572"
+      "source": "http://www.wikidata.org/entity/Q77980572",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Europa%20and%20the%20Bull%20.PNG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Veronese%20-%20AUTORITRATTO%20%282%29%20-%20Museo%20dell%27Ermitage.jpg"
     },
     {
       "id": "Q77977645",
@@ -1836,7 +1860,9 @@
       "country": "Ireland",
       "lat": 53.34091,
       "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q77977645"
+      "source": "http://www.wikidata.org/entity/Q77977645",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Veronese%20-%20Portrait%20of%20a%20Woman%20Holding%20Gloves%20-%20National%20Gallery%20of%20Ireland%2C%20Dublino.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Veronese%20-%20AUTORITRATTO%20%282%29%20-%20Museo%20dell%27Ermitage.jpg"
     },
     {
       "id": "Q77886424",
@@ -1853,7 +1879,9 @@
       "country": "Ireland",
       "lat": 53.34091,
       "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q77886424"
+      "source": "http://www.wikidata.org/entity/Q77886424",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Saints%20Philip%20and%20James%20the%20Less%20.PNG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Veronese%20-%20AUTORITRATTO%20%282%29%20-%20Museo%20dell%27Ermitage.jpg"
     },
     {
       "id": "Q77880992",
@@ -1870,7 +1898,9 @@
       "country": "Ireland",
       "lat": 53.34091,
       "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q77880992"
+      "source": "http://www.wikidata.org/entity/Q77880992",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Veronese%20-%20AUTORITRATTO%20%282%29%20-%20Museo%20dell%27Ermitage.jpg"
     },
     {
       "id": "Q119851318",
@@ -1887,7 +1917,9 @@
       "country": "Ireland",
       "lat": 53.34091,
       "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q119851318"
+      "source": "http://www.wikidata.org/entity/Q119851318",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/C%C3%A9zanne%20-%20FWN%20641.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul-Cezanne.jpg"
     },
     {
       "id": "Q77958942",
@@ -1904,7 +1936,9 @@
       "country": "Ireland",
       "lat": 53.34091,
       "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q77958942"
+      "source": "http://www.wikidata.org/entity/Q77958942",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Terrace%2C%20Saint-Tropez%20.PNG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Seurat%20Paul%20Signac.jpg"
     },
     {
       "id": "Q77958839",
@@ -1921,7 +1955,9 @@
       "country": "Ireland",
       "lat": 53.34091,
       "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q77958839"
+      "source": "http://www.wikidata.org/entity/Q77958839",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre%20bonnard%2C%20ragazzo%20che%20mangia%20le%20ciliegie%2C%201895.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Self-portrait-1889.jpg"
     },
     {
       "id": "Q77999193",
@@ -1938,7 +1974,9 @@
       "country": "Ireland",
       "lat": 53.34091,
       "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q77999193"
+      "source": "http://www.wikidata.org/entity/Q77999193",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Le%20D%C3%A9jeuner%20P648.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Self-portrait-1889.jpg"
     },
     {
       "id": "Q78000673",
@@ -1955,7 +1993,9 @@
       "country": "Ireland",
       "lat": 53.34091,
       "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q78000673"
+      "source": "http://www.wikidata.org/entity/Q78000673",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Nude%20before%20a%20Mirror%20.PNG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Self-portrait-1889.jpg"
     },
     {
       "id": "Q77994971",
@@ -1972,7 +2012,9 @@
       "country": "Ireland",
       "lat": 53.34091,
       "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q77994971"
+      "source": "http://www.wikidata.org/entity/Q77994971",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Raffaello%20Sanzio.jpg"
     },
     {
       "id": "Q77927440",
@@ -1989,7 +2031,9 @@
       "country": "Ireland",
       "lat": 53.34091,
       "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q77927440"
+      "source": "http://www.wikidata.org/entity/Q77927440",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Blinding%20of%20Elymas%20P1805.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Raffaello%20Sanzio.jpg"
     },
     {
       "id": "Q77877030",
@@ -2006,7 +2050,9 @@
       "country": "Ireland",
       "lat": 53.34091,
       "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q77877030"
+      "source": "http://www.wikidata.org/entity/Q77877030",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Raffaello%20Sanzio.jpg"
     },
     {
       "id": "Q77926299",
@@ -2023,7 +2069,9 @@
       "country": "Ireland",
       "lat": 53.34091,
       "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q77926299"
+      "source": "http://www.wikidata.org/entity/Q77926299",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Healing%20of%20the%20Lame%20Man%20P1804.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Raffaello%20Sanzio.jpg"
     },
     {
       "id": "Q77897131",
@@ -2040,7 +2088,9 @@
       "country": "Ireland",
       "lat": 53.34091,
       "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q77897131"
+      "source": "http://www.wikidata.org/entity/Q77897131",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Holy%20Family%20with%20Saint%20John%20.PNG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Raffaello%20Sanzio.jpg"
     },
     {
       "id": "Q21850125",
@@ -2057,7 +2107,9 @@
       "country": "Ireland",
       "lat": 53.34091,
       "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q21850125"
+      "source": "http://www.wikidata.org/entity/Q21850125",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20van%20Rijn%20%28follower%29%20-%20Head%20of%20an%20old%20man%20%2819th-century%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20van%20Rijn%20-%20Self-Portrait%20-%20Google%20Art%20Project.jpg"
     },
     {
       "id": "Q21451933",
@@ -2074,7 +2126,9 @@
       "country": "Ireland",
       "lat": 53.34091,
       "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q21451933"
+      "source": "http://www.wikidata.org/entity/Q21451933",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20La%20main%20chaude.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20van%20Rijn%20-%20Self-Portrait%20-%20Google%20Art%20Project.jpg"
     },
     {
       "id": "Q21451906",
@@ -2091,7 +2145,9 @@
       "country": "Ireland",
       "lat": 53.34091,
       "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q21451906"
+      "source": "http://www.wikidata.org/entity/Q21451906",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20van%20Rijn%2C%20Landscape%20with%20the%20Rest%20on%20the%20Flight%20into%20Egypt.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20van%20Rijn%20-%20Self-Portrait%20-%20Google%20Art%20Project.jpg"
     },
     {
       "id": "Q21874359",
@@ -2108,7 +2164,9 @@
       "country": "Ireland",
       "lat": 53.34091,
       "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q21874359"
+      "source": "http://www.wikidata.org/entity/Q21874359",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20-%20Portrait%20of%20a%20young%20man%20with%20lace%20collar%20and%20broad-brimmed%20hat.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20van%20Rijn%20-%20Self-Portrait%20-%20Google%20Art%20Project.jpg"
     },
     {
       "id": "Q22006029",
@@ -2125,7 +2183,9 @@
       "country": "Ireland",
       "lat": 53.34091,
       "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q22006029"
+      "source": "http://www.wikidata.org/entity/Q22006029",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20-%20Portrait%20of%20a%20Woman%20with%20Gloves%20-%20NGI.808.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20van%20Rijn%20-%20Self-Portrait%20-%20Google%20Art%20Project.jpg"
     },
     {
       "id": "Q77954498",
@@ -2142,7 +2202,9 @@
       "country": "Ireland",
       "lat": 53.34091,
       "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q77954498"
+      "source": "http://www.wikidata.org/entity/Q77954498",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/A%20Stag%2C%20by%20Rosa%20Bonheur.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Andr%C3%A9%20Adolphe-Eug%C3%A8ne%20Disd%C3%A9ri%20%28French%20-%20%28Rosa%20Bonheur%29%20-%20Google%20Art%20Project.jpg"
     },
     {
       "id": "Q23011388",
@@ -2159,7 +2221,9 @@
       "country": "Ireland",
       "lat": 53.34091,
       "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q23011388"
+      "source": "http://www.wikidata.org/entity/Q23011388",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Alessandro%20Farnese%2C%20S.%20Anguisciola.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sofonisba%20Anguissola%2C%20Selvportr%C3%A6t%20ved%20staffeliet%2C%201556%2C%20Museum%20Castle%20in%20%C5%81a%C5%84cut.jpg"
     },
     {
       "id": "Q77935884",
@@ -2176,7 +2240,9 @@
       "country": "Ireland",
       "lat": 53.34091,
       "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q77935884"
+      "source": "http://www.wikidata.org/entity/Q77935884",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/A%20View%20in%20Suffolk.PNG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Gainsborough%20by%20Thomas%20Gainsborough.jpg"
     },
     {
       "id": "Q77982134",
@@ -2193,7 +2259,9 @@
       "country": "Ireland",
       "lat": 53.34091,
       "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q77982134"
+      "source": "http://www.wikidata.org/entity/Q77982134",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20gainsborough%2C%20il%20generale%20james%20johnston%2C%201763%20ca.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Gainsborough%20by%20Thomas%20Gainsborough.jpg"
     },
     {
       "id": "Q77937177",
@@ -2210,7 +2278,9 @@
       "country": "Ireland",
       "lat": 53.34091,
       "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q77937177"
+      "source": "http://www.wikidata.org/entity/Q77937177",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Gainsborough%20by%20Thomas%20Gainsborough.jpg"
     },
     {
       "id": "Q77982215",
@@ -2227,7 +2297,9 @@
       "country": "Ireland",
       "lat": 53.34091,
       "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q77982215"
+      "source": "http://www.wikidata.org/entity/Q77982215",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Landscape%20with%20Cattle%20P504.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Gainsborough%20by%20Thomas%20Gainsborough.jpg"
     },
     {
       "id": "Q77896346",
@@ -2244,7 +2316,9 @@
       "country": "Ireland",
       "lat": 53.34091,
       "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q77896346"
+      "source": "http://www.wikidata.org/entity/Q77896346",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Hugh%20Smithson%20%28Percy%29%20.PNG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Gainsborough%20by%20Thomas%20Gainsborough.jpg"
     },
     {
       "id": "Q77974216",
@@ -2261,7 +2335,9 @@
       "country": "Ireland",
       "lat": 53.34091,
       "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q77974216"
+      "source": "http://www.wikidata.org/entity/Q77974216",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20James%20Quin%20.PNG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Gainsborough%20by%20Thomas%20Gainsborough.jpg"
     },
     {
       "id": "Q77982139",
@@ -2278,7 +2354,9 @@
       "country": "Ireland",
       "lat": 53.34091,
       "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q77982139"
+      "source": "http://www.wikidata.org/entity/Q77982139",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Mrs%20Christopher%20Horton%20.PNG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Gainsborough%20by%20Thomas%20Gainsborough.jpg"
     },
     {
       "id": "Q77982132",
@@ -2295,7 +2373,9 @@
       "country": "Ireland",
       "lat": 53.34091,
       "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q77982132"
+      "source": "http://www.wikidata.org/entity/Q77982132",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Mrs%20King%20%28n%C3%A9e%20Spence%29%20.PNG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Gainsborough%20by%20Thomas%20Gainsborough.jpg"
     },
     {
       "id": "Q77978644",
@@ -2312,7 +2392,9 @@
       "country": "Ireland",
       "lat": 53.34091,
       "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q77978644"
+      "source": "http://www.wikidata.org/entity/Q77978644",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Rev.%20Humphry%20Gainsborough%20.PNG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Gainsborough%20by%20Thomas%20Gainsborough.jpg"
     },
     {
       "id": "Q77978190",
@@ -2329,7 +2411,9 @@
       "country": "Ireland",
       "lat": 53.34091,
       "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q77978190"
+      "source": "http://www.wikidata.org/entity/Q77978190",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Gainsborough%20naar%20David%20Teniers%20%28II%29%20-%20Terugkeer%20van%20de%20jacht%20-%20NGI.668%20-%20National%20Gallery%20of%20Ireland.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Gainsborough%20by%20Thomas%20Gainsborough.jpg"
     },
     {
       "id": "Q77964793",
@@ -2346,7 +2430,9 @@
       "country": "Ireland",
       "lat": 53.34091,
       "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q77964793"
+      "source": "http://www.wikidata.org/entity/Q77964793",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Cottage%20Girl%20.PNG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Gainsborough%20by%20Thomas%20Gainsborough.jpg"
     },
     {
       "id": "Q77983221",
@@ -2363,7 +2449,9 @@
       "country": "Ireland",
       "lat": 53.34091,
       "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q77983221"
+      "source": "http://www.wikidata.org/entity/Q77983221",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20a%20Man%2C%20probably%20of%20the%20Mazzi%20Family%20.PNG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Tintoretto%20-%20Self-Portrait%20as%20a%20Young%20Man%2C%20ca.%201548%2C%20CAI.103%20%28cropped%29.jpg"
     },
     {
       "id": "Q77987457",
@@ -2380,7 +2468,9 @@
       "country": "Ireland",
       "lat": 53.34091,
       "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q77987457"
+      "source": "http://www.wikidata.org/entity/Q77987457",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20a%20Venetian%20Gentleman%20.PNG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Tintoretto%20-%20Self-Portrait%20as%20a%20Young%20Man%2C%20ca.%201548%2C%20CAI.103%20%28cropped%29.jpg"
     },
     {
       "id": "Q77884242",
@@ -2397,7 +2487,9 @@
       "country": "Ireland",
       "lat": 53.34091,
       "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q77884242"
+      "source": "http://www.wikidata.org/entity/Q77884242",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20a%20Venetian%20Senator%20.PNG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Tintoretto%20-%20Self-Portrait%20as%20a%20Young%20Man%2C%20ca.%201548%2C%20CAI.103%20%28cropped%29.jpg"
     },
     {
       "id": "Q77930990",
@@ -2414,7 +2506,9 @@
       "country": "Ireland",
       "lat": 53.34091,
       "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q77930990"
+      "source": "http://www.wikidata.org/entity/Q77930990",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Tintoretto%20-%20Self-Portrait%20as%20a%20Young%20Man%2C%20ca.%201548%2C%20CAI.103%20%28cropped%29.jpg"
     },
     {
       "id": "Q77980958",
@@ -2431,7 +2525,9 @@
       "country": "Ireland",
       "lat": 53.34091,
       "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q77980958"
+      "source": "http://www.wikidata.org/entity/Q77980958",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Tintoretto%20-%20Self-Portrait%20as%20a%20Young%20Man%2C%20ca.%201548%2C%20CAI.103%20%28cropped%29.jpg"
     },
     {
       "id": "Q77980588",
@@ -2448,7 +2544,9 @@
       "country": "Ireland",
       "lat": 53.34091,
       "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q77980588"
+      "source": "http://www.wikidata.org/entity/Q77980588",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Tiziano%20Vecelli%20-%20Ecce%20Homo%20%28National%20Gallery%20of%20Ireland%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Vecellio%20di%20Gregorio%20Tiziano%20-%20autoritratto.jpg"
     },
     {
       "id": "Q3937464",
@@ -2465,7 +2563,9 @@
       "country": "Ireland",
       "lat": 53.34091,
       "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q3937464"
+      "source": "http://www.wikidata.org/entity/Q3937464",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Titian%20-%20Portrait%20of%20Baldassare%20Castiglione%2C%20c.1536-1538.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Vecellio%20di%20Gregorio%20Tiziano%20-%20autoritratto.jpg"
     },
     {
       "id": "Q77984062",
@@ -2482,7 +2582,9 @@
       "country": "Ireland",
       "lat": 53.34091,
       "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q77984062"
+      "source": "http://www.wikidata.org/entity/Q77984062",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Tiziano%20Vecelli%20-%20La%20cena%20in%20Emmaus%20%28National%20Gallery%20of%20Ireland%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Vecellio%20di%20Gregorio%20Tiziano%20-%20autoritratto.jpg"
     },
     {
       "id": "Q77893688",
@@ -2499,7 +2601,9 @@
       "country": "Ireland",
       "lat": 53.34091,
       "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q77893688"
+      "source": "http://www.wikidata.org/entity/Q77893688",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/George%20II%2C%20King%20of%20England%20and%20his%20Family%20.PNG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Painter%20and%20His%20Pug%20by%20William%20Hogarth.jpg"
     },
     {
       "id": "Q77948267",
@@ -2516,7 +2620,9 @@
       "country": "Ireland",
       "lat": 53.34091,
       "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q77948267"
+      "source": "http://www.wikidata.org/entity/Q77948267",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Benjamin%20Hoadly.PNG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Painter%20and%20His%20Pug%20by%20William%20Hogarth.jpg"
     },
     {
       "id": "Q77894521",
@@ -2533,7 +2639,9 @@
       "country": "Ireland",
       "lat": 53.34091,
       "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q77894521"
+      "source": "http://www.wikidata.org/entity/Q77894521",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Gustavus%20Hamilton%2C%202nd%20Viscount%20Boyne%20.PNG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Painter%20and%20His%20Pug%20by%20William%20Hogarth.jpg"
     },
     {
       "id": "Q77937679",
@@ -2550,7 +2658,9 @@
       "country": "Ireland",
       "lat": 53.34091,
       "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q77937679"
+      "source": "http://www.wikidata.org/entity/Q77937679",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Self-Portrait%20-%20William%20Hogarth.PNG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Painter%20and%20His%20Pug%20by%20William%20Hogarth.jpg"
     },
     {
       "id": "Q77975974",
@@ -2567,7 +2677,9 @@
       "country": "Ireland",
       "lat": 53.34091,
       "lon": -6.25255,
-      "source": "http://www.wikidata.org/entity/Q77975974"
+      "source": "http://www.wikidata.org/entity/Q77975974",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Hogarth%20009.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Painter%20and%20His%20Pug%20by%20William%20Hogarth.jpg"
     }
   ]
 }

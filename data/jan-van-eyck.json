@@ -1,6 +1,31 @@
 {
   "artworks": [
     {
+      "id": "Q112181467",
+      "title": "Prophet Zechariah",
+      "date": "1500",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jan-van-eyck",
+      "artistName": "Jan van Eyck",
+      "locationId": "altes-museum-bezirk-mitte",
+      "location": "Altes Museum",
+      "city": "Bezirk Mitte",
+      "country": "Germany",
+      "lat": 52.519444444,
+      "lon": 13.398888888,
+      "source": "http://www.wikidata.org/entity/Q112181467",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hubert%20van%20Eyck%20008.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20van%20Eyck%20-%20Portrait%20of%20a%20Man%20%28Self%20Portrait%3F%29%201433.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q102272",
+        "retrieved": "2026-07-23",
+        "reviewStatus": "generated"
+      }
+    },
+    {
       "id": "Q2308135",
       "title": "Turin-Milan Hours",
       "date": "1420",
@@ -17,10 +42,11 @@
       "source": "http://www.wikidata.org/entity/Q2308135",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/14th-century%20painters%20-%20Les%20Tr%C3%A8s%20Belles%20Heures%20de%20Notre%20Dame%20de%20Jean%20de%20Berry%20-%20WGA16014.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20van%20Eyck%20-%20Portrait%20of%20a%20Man%20%28Self%20Portrait%3F%29%201433.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q102272",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -41,10 +67,11 @@
       "source": "http://www.wikidata.org/entity/Q3553389",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20van%20Eyck%20-%20Man%20in%20a%20Blue%20Cap%20%28c.1430%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20van%20Eyck%20-%20Portrait%20of%20a%20Man%20%28Self%20Portrait%3F%29%201433.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q102272",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -65,17 +92,18 @@
       "source": "http://www.wikidata.org/entity/Q536203",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20van%20Eyck%20-%20Saint%20Jerome%20in%20His%20Study%20DIA.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20van%20Eyck%20-%20Portrait%20of%20a%20Man%20%28Self%20Portrait%3F%29%201433.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q102272",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
     {
       "id": "Q114770904",
       "title": "Saint Francis reveives the stigmata",
-      "date": "1434",
+      "date": "1500",
       "type": "Painting",
       "attribution": "Accepted",
       "artistId": "jan-van-eyck",
@@ -84,15 +112,16 @@
       "location": "Galleria Sabauda",
       "city": "Turin",
       "country": "Italy",
-      "lat": 45.074166666,
-      "lon": 7.686111111,
+      "lat": 45.07412,
+      "lon": 7.68618,
       "source": "http://www.wikidata.org/entity/Q114770904",
       "image": "",
-      "externalImage": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Saint%20Francis%20of%20Assisi%20Receiving%20the%20Stigmata%20Turin.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20van%20Eyck%20-%20Portrait%20of%20a%20Man%20%28Self%20Portrait%3F%29%201433.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q102272",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -113,10 +142,11 @@
       "source": "http://www.wikidata.org/entity/Q107438427",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Van%20Eyck%20%28workshop%29%2C%20Holy%20Face%2C%201438%2C%20Berlin.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20van%20Eyck%20-%20Portrait%20of%20a%20Man%20%28Self%20Portrait%3F%29%201433.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q102272",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -137,10 +167,11 @@
       "source": "http://www.wikidata.org/entity/Q107438391",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20van%20Eyck%20-%20Bildnis%20eines%20Mannes%2C%201420%20-%201440%2C%20523C.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20van%20Eyck%20-%20Portrait%20of%20a%20Man%20%28Self%20Portrait%3F%29%201433.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q102272",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -161,10 +192,11 @@
       "source": "http://www.wikidata.org/entity/Q18683180",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20van%20Eyck%20%28successors%29%20-%20Man%20with%20pinks%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20van%20Eyck%20-%20Portrait%20of%20a%20Man%20%28Self%20Portrait%3F%29%201433.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q102272",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -185,10 +217,11 @@
       "source": "http://www.wikidata.org/entity/Q107438433",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Van%20Eyck%20%28Nachfolger%29%20-%20Bonne%20d%27Artois%2C%20Herzogin%20von%20Burgund%2C%20Inventar-Nr.%20528C.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20van%20Eyck%20-%20Portrait%20of%20a%20Man%20%28Self%20Portrait%3F%29%201433.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q102272",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -209,10 +242,11 @@
       "source": "http://www.wikidata.org/entity/Q3399413",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20van%20Eyck%20%28um%201390-1400%20-%201441%29%20-%20Baudouin%20de%20Lannoy%20-%20525G%20-%20Gem%C3%A4ldegalerie.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20van%20Eyck%20-%20Portrait%20of%20a%20Man%20%28Self%20Portrait%3F%29%201433.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q102272",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -233,10 +267,11 @@
       "source": "http://www.wikidata.org/entity/Q3937546",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20van%20Eyck%20%28um%201390-1400%20-%201441%29%20-%20Portrait%20of%20a%20man%20%28from%20the%20Arnolfini%20family%5E%29%20Around%201440%20-%20523A%20-%20Gem%C3%A4ldegalerie.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20van%20Eyck%20-%20Portrait%20of%20a%20Man%20%28Self%20Portrait%3F%29%201433.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q102272",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -257,10 +292,11 @@
       "source": "http://www.wikidata.org/entity/Q1747569",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20van%20Eyck%20-%20Madonna%20in%20the%20Church%20-%20WGA7590.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20van%20Eyck%20-%20Portrait%20of%20a%20Man%20%28Self%20Portrait%3F%29%201433.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q102272",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -281,34 +317,11 @@
       "source": "http://www.wikidata.org/entity/Q107438399",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20van%20Eyck%2C%20%28Nachfolger%29%20-%20Die%20Madonna%20am%20Springbrunnen%2C%20obj02556013.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20van%20Eyck%20-%20Portrait%20of%20a%20Man%20%28Self%20Portrait%3F%29%201433.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q102272",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q112181467",
-      "title": "Prophet Zechariah",
-      "date": "1500",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "jan-van-eyck",
-      "artistName": "Jan van Eyck",
-      "locationId": "ghent-city-hall-ghent",
-      "location": "Ghent City Hall",
-      "city": "Ghent",
-      "country": "Belgium",
-      "lat": 51.054527,
-      "lon": 3.725274,
-      "source": "http://www.wikidata.org/entity/Q112181467",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hubert%20van%20Eyck%20008.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q102272",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -329,10 +342,11 @@
       "source": "http://www.wikidata.org/entity/Q2480921",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Eyck%2C%20Jan%20van%20-%20Madonna%20with%20Canon%20van%20der%20Paele.jpeg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20van%20Eyck%20-%20Portrait%20of%20a%20Man%20%28Self%20Portrait%3F%29%201433.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q102272",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -353,10 +367,11 @@
       "source": "http://www.wikidata.org/entity/Q3399452",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20van%20Eyck%20-%20Portrait%20of%20Margaret%20van%20Eyck%20%281439%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20van%20Eyck%20-%20Portrait%20of%20a%20Man%20%28Self%20Portrait%3F%29%201433.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q102272",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -377,10 +392,11 @@
       "source": "http://www.wikidata.org/entity/Q574004",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20van%20Eyck%20-%20Diptych%20-%20WGA07587.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20van%20Eyck%20-%20Portrait%20of%20a%20Man%20%28Self%20Portrait%3F%29%201433.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q102272",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -401,10 +417,11 @@
       "source": "http://www.wikidata.org/entity/Q3399498",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20van%20Eyck%20-%20Kardinal%20Niccol%C3%B2%20Albergati%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20van%20Eyck%20-%20Portrait%20of%20a%20Man%20%28Self%20Portrait%3F%29%201433.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q102272",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -425,10 +442,11 @@
       "source": "http://www.wikidata.org/entity/Q19186089",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20van%20Eyck%20-%20Portrait%20of%20the%20Goldsmith%20Jan%20de%20Leeuw.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20van%20Eyck%20-%20Portrait%20of%20a%20Man%20%28Self%20Portrait%3F%29%201433.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q102272",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -449,10 +467,11 @@
       "source": "http://www.wikidata.org/entity/Q22329827",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20van%20Eyck%20-%20Portrait%20of%20Cardinal%20Niccol%C3%B2%20Albergati%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20van%20Eyck%20-%20Portrait%20of%20a%20Man%20%28Self%20Portrait%3F%29%201433.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q102272",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -473,10 +492,11 @@
       "source": "http://www.wikidata.org/entity/Q116628210",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20van%20Eyck%20-%20Petrus%20Christus%20-%20Portr%C3%A4t%20eines%20Mannes%2C%20KdZ%202375.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20van%20Eyck%20-%20Portrait%20of%20a%20Man%20%28Self%20Portrait%3F%29%201433.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q102272",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -497,10 +517,11 @@
       "source": "http://www.wikidata.org/entity/Q122374966",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20van%20Eyck%20-%20Crucifixion.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20van%20Eyck%20-%20Portrait%20of%20a%20Man%20%28Self%20Portrait%3F%29%201433.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q102272",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -521,34 +542,11 @@
       "source": "http://www.wikidata.org/entity/Q137599158",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mus%C3%A9e%20Ingres-Bourdelle%20-%20Portrait%20d%27un%20moine%20-%20Jan%20Van%20Eyck.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20van%20Eyck%20-%20Portrait%20of%20a%20Man%20%28Self%20Portrait%3F%29%201433.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q102272",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q131922856",
-      "title": "Birth of John the Baptist",
-      "date": "1420",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "jan-van-eyck",
-      "artistName": "Jan van Eyck",
-      "locationId": "museo-civico-d-arte-antica-turin",
-      "location": "Museo Civico d'Arte Antica",
-      "city": "Turin",
-      "country": "Italy",
-      "lat": 45.0711,
-      "lon": 7.68548,
-      "source": "http://www.wikidata.org/entity/Q131922856",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/14th-century%20painters%20-%20Les%20Tr%C3%A8s%20Belles%20Heures%20de%20Notre%20Dame%20de%20Jean%20de%20Berry%20-%20WGA16014.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q102272",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -569,10 +567,36 @@
       "source": "http://www.wikidata.org/entity/Q11789743",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/14th-century%20painters%20-%20Les%20Tr%C3%A8s%20Belles%20Heures%20de%20Notre%20Dame%20de%20Jean%20de%20Berry%20-%20WGA16014.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20van%20Eyck%20-%20Portrait%20of%20a%20Man%20%28Self%20Portrait%3F%29%201433.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q102272",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q131922856",
+      "title": "Birth of John the Baptist",
+      "date": "1420",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jan-van-eyck",
+      "artistName": "Jan van Eyck",
+      "locationId": "museo-civico-d-arte-antica-turin",
+      "location": "Museo Civico d'Arte Antica",
+      "city": "Turin",
+      "country": "Italy",
+      "lat": 45.0711,
+      "lon": 7.68548,
+      "source": "http://www.wikidata.org/entity/Q131922856",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/14th-century%20painters%20-%20Les%20Tr%C3%A8s%20Belles%20Heures%20de%20Notre%20Dame%20de%20Jean%20de%20Berry%20-%20WGA16014.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20van%20Eyck%20-%20Portrait%20of%20a%20Man%20%28Self%20Portrait%3F%29%201433.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q102272",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -593,10 +617,11 @@
       "source": "http://www.wikidata.org/entity/Q131705647",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20van%20Eyck%20-%20The%20Hours%20of%20Milan-Turin.%20The%20Mass%20for%20the%20Dead%2C%20Friedl%C3%A4nder%2C%20ENP%2C%20vol.%201%2C%20nr.%20034.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20van%20Eyck%20-%20Portrait%20of%20a%20Man%20%28Self%20Portrait%3F%29%201433.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q102272",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -617,10 +642,11 @@
       "source": "http://www.wikidata.org/entity/Q9362336",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hubert%20van%20Eyck%20or%20Jan%20van%20Eyck%20or%20both%20-%20The%20Three%20Marys%20at%20the%20Tomb%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20van%20Eyck%20-%20Portrait%20of%20a%20Man%20%28Self%20Portrait%3F%29%201433.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q102272",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -641,10 +667,11 @@
       "source": "http://www.wikidata.org/entity/Q115624243",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20van%20Eyck%20-%20Portrait%20of%20a%20Man%20%28Self%20Portrait%3F%29%201433.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q102272",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -665,10 +692,11 @@
       "source": "http://www.wikidata.org/entity/Q50903476",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20van%20Eyck%20-%20Portrait%20of%20a%20Man%20%28Self%20Portrait%3F%29%201433.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q102272",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -689,10 +717,11 @@
       "source": "http://www.wikidata.org/entity/Q220859",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Van%20Eyck%20-%20Arnolfini%20Portrait.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20van%20Eyck%20-%20Portrait%20of%20a%20Man%20%28Self%20Portrait%3F%29%201433.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q102272",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -713,10 +742,11 @@
       "source": "http://www.wikidata.org/entity/Q1150782",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Eyck%2C%20Jan%20van%20-%20Portrait%20of%20a%20Young%20Man%20%28Tymotheos%29%20-%20National%20Gallery%2C%20London.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20van%20Eyck%20-%20Portrait%20of%20a%20Man%20%28Self%20Portrait%3F%29%201433.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q102272",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -737,10 +767,11 @@
       "source": "http://www.wikidata.org/entity/Q2392901",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20van%20Eyck%20-%20Portrait%20of%20a%20Man%20%28Self%20Portrait%3F%29%201433.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20van%20Eyck%20-%20Portrait%20of%20a%20Man%20%28Self%20Portrait%3F%29%201433.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q102272",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -761,10 +792,11 @@
       "source": "http://www.wikidata.org/entity/Q119450128",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20van%20Eyck%20%28c.1390-1441%29%20%28after%29%20-%20The%20Virgin%20and%20Child%20at%20the%20Fountain%20-%2055P%20-%20Paxton%20House.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20van%20Eyck%20-%20Portrait%20of%20a%20Man%20%28Self%20Portrait%3F%29%201433.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q102272",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -785,10 +817,11 @@
       "source": "http://www.wikidata.org/entity/Q3973522",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Attributed%20to%20Jan%20van%20Eyck%2C%20Netherlandish%20%28active%20Bruges%29%2C%20c.%201395%20-%201441%20-%20Saint%20Francis%20of%20Assisi%20Receiving%20the%20Stigmata%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20van%20Eyck%20-%20Portrait%20of%20a%20Man%20%28Self%20Portrait%3F%29%201433.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q102272",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -809,10 +842,11 @@
       "source": "http://www.wikidata.org/entity/Q838074",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Madonna%20bij%20de%20fontein%2C%20Jan%20van%20Eyck%2C%201439%2C%20Koninklijk%20Museum%20voor%20Schone%20Kunsten%20Antwerpen%2C%20411.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20van%20Eyck%20-%20Portrait%20of%20a%20Man%20%28Self%20Portrait%3F%29%201433.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q102272",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -833,10 +867,11 @@
       "source": "http://www.wikidata.org/entity/Q3464466",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Heilige%20Barbara%20van%20Nicomedi%C3%AB%2C%20Jan%20van%20Eyck%2C%201437%2C%20Koninklijk%20Museum%20voor%20Schone%20Kunsten%20Antwerpen%2C%20410.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20van%20Eyck%20-%20Portrait%20of%20a%20Man%20%28Self%20Portrait%3F%29%201433.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q102272",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -857,10 +892,11 @@
       "source": "http://www.wikidata.org/entity/Q3605033",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hubert%20van%20Eyck%20015.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20van%20Eyck%20-%20Portrait%20of%20a%20Man%20%28Self%20Portrait%3F%29%201433.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q102272",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -881,10 +917,11 @@
       "source": "http://www.wikidata.org/entity/Q67123638",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hubert%20van%20Eyck%20004.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20van%20Eyck%20-%20Portrait%20of%20a%20Man%20%28Self%20Portrait%3F%29%201433.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q102272",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -905,10 +942,11 @@
       "source": "http://www.wikidata.org/entity/Q134348591",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ghent%20Altarpiece%20-%20Angel%20of%20the%20Annunciation.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20van%20Eyck%20-%20Portrait%20of%20a%20Man%20%28Self%20Portrait%3F%29%201433.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q102272",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -929,10 +967,11 @@
       "source": "http://www.wikidata.org/entity/Q134313462",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hubert%20van%20Eyck%20009.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20van%20Eyck%20-%20Portrait%20of%20a%20Man%20%28Self%20Portrait%3F%29%201433.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q102272",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -953,10 +992,11 @@
       "source": "http://www.wikidata.org/entity/Q138144464",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ghent%20Altarpiece%20%28closed%2C%20after%20restoration%29%20%28cropped2%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20van%20Eyck%20-%20Portrait%20of%20a%20Man%20%28Self%20Portrait%3F%29%201433.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q102272",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -977,10 +1017,11 @@
       "source": "http://www.wikidata.org/entity/Q20050620",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ghent%20Altarpiece%20-%20Eve.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20van%20Eyck%20-%20Portrait%20of%20a%20Man%20%28Self%20Portrait%3F%29%201433.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q102272",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1001,10 +1042,11 @@
       "source": "http://www.wikidata.org/entity/Q734834",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ghent%20Altarpiece%20by%20Jan%20van%20Eyck%20ALL.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20van%20Eyck%20-%20Portrait%20of%20a%20Man%20%28Self%20Portrait%3F%29%201433.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q102272",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1025,10 +1067,11 @@
       "source": "http://www.wikidata.org/entity/Q138185039",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ghent%20Altarpiece%20G%20-%20John%20the%20Baptist.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20van%20Eyck%20-%20Portrait%20of%20a%20Man%20%28Self%20Portrait%3F%29%201433.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q102272",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1049,10 +1092,11 @@
       "source": "http://www.wikidata.org/entity/Q28057385",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ghent%20Altarpiece%20-%20Music-making%20Angels%20%28right%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20van%20Eyck%20-%20Portrait%20of%20a%20Man%20%28Self%20Portrait%3F%29%201433.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q102272",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1072,11 +1116,12 @@
       "lon": 3.727059,
       "source": "http://www.wikidata.org/entity/Q134348603",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20van%20Eyck%20-%20The%20Ghent%20Altarpiece%20-%20Prophet%20Zacharias%2C%20Angel%20of%20the%20Annunciation%20-%20closer%20to%20van%20Eyck.jpeg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ghent%20Altarpiece%20-%20Prophet%20Zacharias%3B%20Angel%20of%20The%20Annunciation.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20van%20Eyck%20-%20Portrait%20of%20a%20Man%20%28Self%20Portrait%3F%29%201433.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q102272",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1097,10 +1142,11 @@
       "source": "http://www.wikidata.org/entity/Q28056879",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hubert%20van%20Eyck%20017.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20van%20Eyck%20-%20Portrait%20of%20a%20Man%20%28Self%20Portrait%3F%29%201433.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q102272",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1121,10 +1167,11 @@
       "source": "http://www.wikidata.org/entity/Q138008993",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20and%20Hubert%20van%20Eyck.jpg%20-%20St%20Christopher%20and%20the%20pilgrims.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20van%20Eyck%20-%20Portrait%20of%20a%20Man%20%28Self%20Portrait%3F%29%201433.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q102272",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1145,10 +1192,11 @@
       "source": "http://www.wikidata.org/entity/Q27043840",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ghent%20Altarpiece%20%28closed%2C%20after%20restoration%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20van%20Eyck%20-%20Portrait%20of%20a%20Man%20%28Self%20Portrait%3F%29%201433.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q102272",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1169,10 +1217,11 @@
       "source": "http://www.wikidata.org/entity/Q138176905",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hubert%20van%20Eyck%20013.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20van%20Eyck%20-%20Portrait%20of%20a%20Man%20%28Self%20Portrait%3F%29%201433.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q102272",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1193,10 +1242,11 @@
       "source": "http://www.wikidata.org/entity/Q138009279",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20and%20Hubert%20van%20Eyck.jpg%20-%20The%20hermits.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20van%20Eyck%20-%20Portrait%20of%20a%20Man%20%28Self%20Portrait%3F%29%201433.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q102272",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1217,10 +1267,11 @@
       "source": "http://www.wikidata.org/entity/Q138208046",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ghent%20Altarpiece%20%28closed%2C%20after%20restoration%29%20%28cropped3%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20van%20Eyck%20-%20Portrait%20of%20a%20Man%20%28Self%20Portrait%3F%29%201433.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q102272",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1241,10 +1292,11 @@
       "source": "http://www.wikidata.org/entity/Q137672546",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20van%20Eyck%20-%20The%20Ghent%20Altarpiece%20-%20Virgin%20Mary%20-%20WGA07628.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20van%20Eyck%20-%20Portrait%20of%20a%20Man%20%28Self%20Portrait%3F%29%201433.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q102272",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1265,10 +1317,11 @@
       "source": "http://www.wikidata.org/entity/Q323079",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gem%C3%A4ldegalerie%20Alte%20Meister%20%28Dresden%29%20Galeriewerk%20Braun%201836a.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20van%20Eyck%20-%20Portrait%20of%20a%20Man%20%28Self%20Portrait%3F%29%201433.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q102272",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1289,10 +1342,11 @@
       "source": "http://www.wikidata.org/entity/Q474409",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucca%20Madonna%20%28SM%20944%29.png",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20van%20Eyck%20-%20Portrait%20of%20a%20Man%20%28Self%20Portrait%3F%29%201433.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q102272",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1313,10 +1367,11 @@
       "source": "http://www.wikidata.org/entity/Q19857229",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20van%20Eyck%20-%20Virgin%20and%20Child%2C%20with%20Saints%20and%20Donor%20-%201441%20-%20Frick%20Collection.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20van%20Eyck%20-%20Portrait%20of%20a%20Man%20%28Self%20Portrait%3F%29%201433.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q102272",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1337,10 +1392,11 @@
       "source": "http://www.wikidata.org/entity/Q2516599",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20van%20Eyck%2C%20Around%201390-1441%20-%20The%20Annuciation%20Diptych%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20van%20Eyck%20-%20Portrait%20of%20a%20Man%20%28Self%20Portrait%3F%29%201433.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q102272",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     }

@@ -17,7 +17,9 @@
       "country": "Iran",
       "lat": 35.711388888,
       "lon": 51.390555555,
-      "source": "http://www.wikidata.org/entity/Q3879285"
+      "source": "http://www.wikidata.org/entity/Q3879285",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Amedeo%20Modigliani%20063.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Amedeo%20Modigliani%201918%20restored.jpg"
     },
     {
       "id": "Q70594948",
@@ -34,7 +36,9 @@
       "country": "Iran",
       "lat": 35.711388888,
       "lon": 51.390555555,
-      "source": "http://www.wikidata.org/entity/Q70594948"
+      "source": "http://www.wikidata.org/entity/Q70594948",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro%20-%20Pissarro%20and%20Durand-Ruel%20Snollaerts%2C%201042.png",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg"
     },
     {
       "id": "Q105103216",
@@ -51,7 +55,9 @@
       "country": "Iran",
       "lat": 35.711388888,
       "lon": 51.390555555,
-      "source": "http://www.wikidata.org/entity/Q105103216"
+      "source": "http://www.wikidata.org/entity/Q105103216",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%D9%88%D8%B1%D9%88%D8%AF%DB%8C%20%D9%88%DB%8C%D9%84%D8%A7%20%D8%A7%D8%AB%D8%B1%20%D8%A7%D8%AF%D9%88%D8%A7%D8%B1%D8%AF%20%D9%88%D9%88%DB%8C%D8%A7%D8%B1.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Self-Portrait%2C%20Aged%2021%20A21192.jpg"
     },
     {
       "id": "Q105103221",
@@ -68,7 +74,9 @@
       "country": "Iran",
       "lat": 35.711388888,
       "lon": 51.390555555,
-      "source": "http://www.wikidata.org/entity/Q105103221"
+      "source": "http://www.wikidata.org/entity/Q105103221",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%D9%BE%D8%A7%D8%B1%DA%A9%20%D8%A7%D8%AB%D8%B1%20%D8%A7%D8%AF%D9%88%D8%A7%D8%B1%D8%AF%20%D9%88%D9%88%DB%8C%D8%A7%D8%B1.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Self-Portrait%2C%20Aged%2021%20A21192.jpg"
     },
     {
       "id": "Q106261985",
@@ -85,7 +93,9 @@
       "country": "Iran",
       "lat": 35.711388888,
       "lon": 51.390555555,
-      "source": "http://www.wikidata.org/entity/Q106261985"
+      "source": "http://www.wikidata.org/entity/Q106261985",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Carnival%20-%20TMoCA.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Photolautrec.jpg"
     },
     {
       "id": "Q70579557",
@@ -102,7 +112,9 @@
       "country": "Iran",
       "lat": 35.711388888,
       "lon": 51.390555555,
-      "source": "http://www.wikidata.org/entity/Q70579557"
+      "source": "http://www.wikidata.org/entity/Q70579557",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lautrec%20girl%20with%20lovelock%201889.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Photolautrec.jpg"
     },
     {
       "id": "Q10339953",
@@ -119,7 +131,9 @@
       "country": "Iran",
       "lat": 35.711388888,
       "lon": 51.390555555,
-      "source": "http://www.wikidata.org/entity/Q10339953"
+      "source": "http://www.wikidata.org/entity/Q10339953",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Shagal%20Choumoff.jpg"
     },
     {
       "id": "Q20968648",
@@ -136,7 +150,9 @@
       "country": "Iran",
       "lat": 35.711388888,
       "lon": 51.390555555,
-      "source": "http://www.wikidata.org/entity/Q20968648"
+      "source": "http://www.wikidata.org/entity/Q20968648",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Gauguin%20121.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Gauguin%201891.png"
     },
     {
       "id": "Q21027920",
@@ -153,7 +169,9 @@
       "country": "Iran",
       "lat": 35.711388888,
       "lon": 51.390555555,
-      "source": "http://www.wikidata.org/entity/Q21027920"
+      "source": "http://www.wikidata.org/entity/Q21027920",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20042.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre%20Auguste%20Renoir%2C%20uncropped%20image.jpg"
     },
     {
       "id": "Q105103218",
@@ -170,7 +188,9 @@
       "country": "Iran",
       "lat": 35.711388888,
       "lon": 51.390555555,
-      "source": "http://www.wikidata.org/entity/Q105103218"
+      "source": "http://www.wikidata.org/entity/Q105103218",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%D8%B2%D9%86%D8%A7%D9%86%20%D8%AF%D8%B1%20%D8%AD%D9%85%D8%A7%D9%85.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%28Barcelona%29%20Autoretrat%20al%20mirall%20-%20by%20Suzanne%20Valadon.jpg"
     },
     {
       "id": "Q105103211",
@@ -187,7 +207,9 @@
       "country": "Iran",
       "lat": 35.711388888,
       "lon": 51.390555555,
-      "source": "http://www.wikidata.org/entity/Q105103211"
+      "source": "http://www.wikidata.org/entity/Q105103211",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Tensions%20Claires.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Wassily%20kandinsky.jpg"
     },
     {
       "id": "Q136039264",
@@ -204,7 +226,9 @@
       "country": "Iran",
       "lat": 35.810833333,
       "lon": 51.471666666,
-      "source": "http://www.wikidata.org/entity/Q136039264"
+      "source": "http://www.wikidata.org/entity/Q136039264",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Untitled%20-%20Alfred%20Sisley%20-%20Niavaran%20Palace.png",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20110.jpg"
     },
     {
       "id": "Q136022793",
@@ -221,7 +245,9 @@
       "country": "Iran",
       "lat": 35.810833333,
       "lon": 51.471666666,
-      "source": "http://www.wikidata.org/entity/Q136022793"
+      "source": "http://www.wikidata.org/entity/Q136022793",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%D8%A8%D8%AF%D9%88%D9%86%20%D8%B9%D9%86%D9%88%D8%A7%D9%86%20-%20%D8%A2%D9%85%D8%A7%D8%AF%D8%A6%D9%88%20%D9%85%D9%88%D8%AF%DB%8C%D9%84%DB%8C%D8%A7%D9%86%DB%8C%20-%20%DA%A9%D8%A7%D8%AE%20%D9%86%DB%8C%D8%A7%D9%88%D8%B1%D8%A7%D9%86.png",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Amedeo%20Modigliani%201918%20restored.jpg"
     },
     {
       "id": "Q108523008",
@@ -238,7 +264,9 @@
       "country": "Iran",
       "lat": 35.810833333,
       "lon": 51.471666666,
-      "source": "http://www.wikidata.org/entity/Q108523008"
+      "source": "http://www.wikidata.org/entity/Q108523008",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Untitled%20painting%20by%20Camille%20Pissarro.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg"
     },
     {
       "id": "Q136023520",
@@ -255,7 +283,9 @@
       "country": "Iran",
       "lat": 35.810833333,
       "lon": 51.471666666,
-      "source": "http://www.wikidata.org/entity/Q136023520"
+      "source": "http://www.wikidata.org/entity/Q136023520",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%DA%86%D9%87%D8%B1%D9%87%20%D9%87%D9%86%D8%B1%D9%85%D9%86%D8%AF%20-%20%D9%BE%D9%84%20%DA%AF%D9%88%DA%AF%D9%86%20-%20%DA%A9%D8%A7%D8%AE%20%D9%86%DB%8C%D8%A7%D9%88%D8%B1%D8%A7%D9%86.png",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Gauguin%201891.png"
     }
   ]
 }

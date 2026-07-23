@@ -3,40 +3,6 @@
   "country": "Palestine",
   "artworks": [
     {
-      "id": "Q19820438",
-      "artistId": "alfred-sisley",
-      "artistName": "Alfred Sisley",
-      "reviewStatus": "generated",
-      "title": "Banks of the Loing, Autumn Effect",
-      "date": "1881",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "israel-museum-jerusalem",
-      "location": "Israel Museum",
-      "city": "Jerusalem",
-      "country": "Palestine",
-      "lat": 31.7725,
-      "lon": 35.204166666,
-      "source": "http://www.wikidata.org/entity/Q19820438"
-    },
-    {
-      "id": "Q19820461",
-      "artistId": "alfred-sisley",
-      "artistName": "Alfred Sisley",
-      "reviewStatus": "generated",
-      "title": "Barges on the Loing at Saint-Mammès",
-      "date": "1885",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "israel-museum-jerusalem",
-      "location": "Israel Museum",
-      "city": "Jerusalem",
-      "country": "Palestine",
-      "lat": 31.7725,
-      "lon": 35.204166666,
-      "source": "http://www.wikidata.org/entity/Q19820461"
-    },
-    {
       "id": "Q3937493",
       "artistId": "amedeo-modigliani",
       "artistName": "Amedeo Modigliani",
@@ -51,7 +17,28 @@
       "country": "Palestine",
       "lat": 31.7725,
       "lon": 35.204166666,
-      "source": "http://www.wikidata.org/entity/Q3937493"
+      "source": "http://www.wikidata.org/entity/Q3937493",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Amedeo%20Modigliani%20034.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Amedeo%20Modigliani%201918%20restored.jpg"
+    },
+    {
+      "id": "Q28775975",
+      "artistId": "amedeo-modigliani",
+      "artistName": "Amedeo Modigliani",
+      "reviewStatus": "generated",
+      "title": "Portrait of Léopold Zborowski",
+      "date": "1916",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "israel-museum-jerusalem",
+      "location": "Israel Museum",
+      "city": "Jerusalem",
+      "country": "Palestine",
+      "lat": 31.7725,
+      "lon": 35.204166666,
+      "source": "http://www.wikidata.org/entity/Q28775975",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Amedeo%20Modigliani%20-%20Portrait%20of%20L%C3%A9opold%20Zborowski%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Amedeo%20Modigliani%201918%20restored.jpg"
     },
     {
       "id": "Q76626485",
@@ -68,15 +55,17 @@
       "country": "Palestine",
       "lat": 31.7725,
       "lon": 35.204166666,
-      "source": "http://www.wikidata.org/entity/Q76626485"
+      "source": "http://www.wikidata.org/entity/Q76626485",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro%20-%20Pissarro%20and%20Durand-Ruel%20Snollaerts%2C%201004.png",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg"
     },
     {
-      "id": "Q22667186",
+      "id": "Q76626772",
       "artistId": "camille-pissarro",
       "artistName": "Camille Pissarro",
       "reviewStatus": "generated",
-      "title": "Peasant Woman Resting at the Foot of a Tree, Effect of Sunshine, Éragny",
-      "date": "1899",
+      "title": "Portrait of Jeanne",
+      "date": "1893",
       "type": "Painting",
       "attribution": "Accepted",
       "locationId": "israel-museum-jerusalem",
@@ -85,7 +74,9 @@
       "country": "Palestine",
       "lat": 31.7725,
       "lon": 35.204166666,
-      "source": "http://www.wikidata.org/entity/Q22667186"
+      "source": "http://www.wikidata.org/entity/Q76626772",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg"
     },
     {
       "id": "Q22250395",
@@ -102,15 +93,17 @@
       "country": "Palestine",
       "lat": 31.7725,
       "lon": 35.204166666,
-      "source": "http://www.wikidata.org/entity/Q22250395"
+      "source": "http://www.wikidata.org/entity/Q22250395",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Pissarro%20-%20Sunset%20at%20Eragny%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg"
     },
     {
-      "id": "Q21482460",
-      "artistId": "camille-pissarro",
-      "artistName": "Camille Pissarro",
+      "id": "Q76628618",
+      "artistId": "diego-rivera",
+      "artistName": "Diego Rivera",
       "reviewStatus": "generated",
-      "title": "The Factory at Pontoise",
-      "date": "1873",
+      "title": "Still-life with Glass",
+      "date": "1915",
       "type": "Painting",
       "attribution": "Accepted",
       "locationId": "israel-museum-jerusalem",
@@ -119,14 +112,16 @@
       "country": "Palestine",
       "lat": 31.7725,
       "lon": 35.204166666,
-      "source": "http://www.wikidata.org/entity/Q21482460"
+      "source": "http://www.wikidata.org/entity/Q76628618",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Naturaleza%20muerta%20con%20taza%2C%20Diego%20Rivera%2C%201915.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Rivera%20-%20Google%20Art%20Project%20%28cropped%29.jpg"
     },
     {
-      "id": "Q22669620",
-      "artistId": "camille-pissarro",
-      "artistName": "Camille Pissarro",
+      "id": "Q76627249",
+      "artistId": "edgar-degas",
+      "artistName": "Edgar Degas",
       "reviewStatus": "generated",
-      "title": "The Tuileries Garden, Morning, Sunshine",
+      "title": "Crossed Arabesque, Second Act",
       "date": "1900",
       "type": "Painting",
       "attribution": "Accepted",
@@ -136,7 +131,28 @@
       "country": "Palestine",
       "lat": 31.7725,
       "lon": 35.204166666,
-      "source": "http://www.wikidata.org/entity/Q22669620"
+      "source": "http://www.wikidata.org/entity/Q76627249",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20self%20portrait%201855FXD.jpg"
+    },
+    {
+      "id": "Q76628130",
+      "artistId": "edgar-degas",
+      "artistName": "Edgar Degas",
+      "reviewStatus": "generated",
+      "title": "Seated Woman Drying Her Left Hip",
+      "date": "1900",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "israel-museum-jerusalem",
+      "location": "Israel Museum",
+      "city": "Jerusalem",
+      "country": "Palestine",
+      "lat": 31.7725,
+      "lon": 35.204166666,
+      "source": "http://www.wikidata.org/entity/Q76628130",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20self%20portrait%201855FXD.jpg"
     },
     {
       "id": "Q91949777",
@@ -153,7 +169,9 @@
       "country": "Palestine",
       "lat": 31.7725,
       "lon": 35.204166666,
-      "source": "http://www.wikidata.org/entity/Q91949777"
+      "source": "http://www.wikidata.org/entity/Q91949777",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Manet%2C%20en%20buste%2C%20de%20face%20-%20Nadar.jpg"
     },
     {
       "id": "Q76844489",
@@ -170,15 +188,17 @@
       "country": "Palestine",
       "lat": 31.7725,
       "lon": 35.204166666,
-      "source": "http://www.wikidata.org/entity/Q76844489"
+      "source": "http://www.wikidata.org/entity/Q76844489",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Vuillard%20-%20Woman%20at%20the%20Window%2C%201895-1900.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Self-Portrait%2C%20Aged%2021%20A21192.jpg"
     },
     {
-      "id": "Q80183580",
-      "artistId": "francois-boucher",
-      "artistName": "François Boucher",
+      "id": "Q76625914",
+      "artistId": "georges-braque",
+      "artistName": "Georges Braque",
       "reviewStatus": "generated",
-      "title": "Untitled (Little Shepherd)",
-      "date": "1744",
+      "title": "Pitcher, Guitar and Fruit",
+      "date": "1925",
       "type": "Painting",
       "attribution": "Accepted",
       "locationId": "israel-museum-jerusalem",
@@ -187,7 +207,47 @@
       "country": "Palestine",
       "lat": 31.7725,
       "lon": 35.204166666,
-      "source": "http://www.wikidata.org/entity/Q80183580"
+      "source": "http://www.wikidata.org/entity/Q76625914",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Braque%2C%201908%2C%20photograph%20published%20in%20Gelett%20Burgess%2C%20The%20Wild%20Men%20of%20Paris%2C%20Architectural%20Record%2C%20May%201910.jpg"
+    },
+    {
+      "id": "Q76628505",
+      "artistId": "georges-braque",
+      "artistName": "Georges Braque",
+      "reviewStatus": "generated",
+      "title": "Still Life with Mandolin",
+      "date": "1933",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "israel-museum-jerusalem",
+      "location": "Israel Museum",
+      "city": "Jerusalem",
+      "country": "Palestine",
+      "lat": 31.7725,
+      "lon": 35.204166666,
+      "source": "http://www.wikidata.org/entity/Q76628505",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Braque%2C%201908%2C%20photograph%20published%20in%20Gelett%20Burgess%2C%20The%20Wild%20Men%20of%20Paris%2C%20Architectural%20Record%2C%20May%201910.jpg"
+    },
+    {
+      "id": "Q76629366",
+      "artistId": "georges-braque",
+      "artistName": "Georges Braque",
+      "reviewStatus": "generated",
+      "title": "Trees at La Ciotat",
+      "date": "1907",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "israel-museum-jerusalem",
+      "location": "Israel Museum",
+      "city": "Jerusalem",
+      "country": "Palestine",
+      "lat": 31.7725,
+      "lon": 35.204166666,
+      "source": "http://www.wikidata.org/entity/Q76629366",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Braque%2C%201908%2C%20photograph%20published%20in%20Gelett%20Burgess%2C%20The%20Wild%20Men%20of%20Paris%2C%20Architectural%20Record%2C%20May%201910.jpg"
     },
     {
       "id": "Q95951414",
@@ -204,7 +264,9 @@
       "country": "Palestine",
       "lat": 31.7725,
       "lon": 35.204166666,
-      "source": "http://www.wikidata.org/entity/Q95951414"
+      "source": "http://www.wikidata.org/entity/Q95951414",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustav%20Klimt%201912.jpg"
     },
     {
       "id": "Q76627022",
@@ -221,7 +283,9 @@
       "country": "Palestine",
       "lat": 31.7725,
       "lon": 35.204166666,
-      "source": "http://www.wikidata.org/entity/Q76627022"
+      "source": "http://www.wikidata.org/entity/Q76627022",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Henri%20Matisse%201933%20May%2020.jpg"
     },
     {
       "id": "Q76629592",
@@ -238,7 +302,9 @@
       "country": "Palestine",
       "lat": 31.7725,
       "lon": 35.204166666,
-      "source": "http://www.wikidata.org/entity/Q76629592"
+      "source": "http://www.wikidata.org/entity/Q76629592",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Henri%20Matisse%201933%20May%2020.jpg"
     },
     {
       "id": "Q76628496",
@@ -255,7 +321,9 @@
       "country": "Palestine",
       "lat": 31.7725,
       "lon": 35.204166666,
-      "source": "http://www.wikidata.org/entity/Q76628496"
+      "source": "http://www.wikidata.org/entity/Q76628496",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Rousseau%20-%20Famille%20p%C3%AAchant%20%28esquisse%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg"
     },
     {
       "id": "Q76627271",
@@ -272,7 +340,9 @@
       "country": "Palestine",
       "lat": 31.7725,
       "lon": 35.204166666,
-      "source": "http://www.wikidata.org/entity/Q76627271"
+      "source": "http://www.wikidata.org/entity/Q76627271",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg"
     },
     {
       "id": "Q76626447",
@@ -289,15 +359,17 @@
       "country": "Palestine",
       "lat": 31.7725,
       "lon": 35.204166666,
-      "source": "http://www.wikidata.org/entity/Q76626447"
+      "source": "http://www.wikidata.org/entity/Q76626447",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%20auto-retrato.jpg"
     },
     {
-      "id": "Q76844476",
-      "artistId": "jean-baptiste-camille-corot",
-      "artistName": "Jean-Baptiste-Camille Corot",
+      "id": "Q76627644",
+      "artistId": "marc-chagall",
+      "artistName": "Marc Chagall",
       "reviewStatus": "generated",
-      "title": "Mortefontaine: The Path to the Little Fence",
-      "date": "1855",
+      "title": "Interior of a Synagogue in Safed",
+      "date": "1931",
       "type": "Painting",
       "attribution": "Accepted",
       "locationId": "israel-museum-jerusalem",
@@ -306,15 +378,17 @@
       "country": "Palestine",
       "lat": 31.7725,
       "lon": 35.204166666,
-      "source": "http://www.wikidata.org/entity/Q76844476"
+      "source": "http://www.wikidata.org/entity/Q76627644",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Shagal%20Choumoff.jpg"
     },
     {
-      "id": "Q28797016",
-      "artistId": "paul-cezanne",
-      "artistName": "Paul Cézanne",
+      "id": "Q76628695",
+      "artistId": "marc-chagall",
+      "artistName": "Marc Chagall",
       "reviewStatus": "generated",
-      "title": "Morning View of L'Estaque Against the Sunlight",
-      "date": "1882",
+      "title": "Self Portrait",
+      "date": "1911",
       "type": "Painting",
       "attribution": "Accepted",
       "locationId": "israel-museum-jerusalem",
@@ -323,15 +397,17 @@
       "country": "Palestine",
       "lat": 31.7725,
       "lon": 35.204166666,
-      "source": "http://www.wikidata.org/entity/Q28797016"
+      "source": "http://www.wikidata.org/entity/Q76628695",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Shagal%20Choumoff.jpg"
     },
     {
-      "id": "Q76626871",
-      "artistId": "paul-cezanne",
-      "artistName": "Paul Cézanne",
+      "id": "Q76626220",
+      "artistId": "marc-chagall",
+      "artistName": "Marc Chagall",
       "reviewStatus": "generated",
-      "title": "Rocks, L'Estaque",
-      "date": "1865",
+      "title": "The Mikveh (Ritual Bath)",
+      "date": "1910",
       "type": "Painting",
       "attribution": "Accepted",
       "locationId": "israel-museum-jerusalem",
@@ -340,7 +416,9 @@
       "country": "Palestine",
       "lat": 31.7725,
       "lon": 35.204166666,
-      "source": "http://www.wikidata.org/entity/Q76626871"
+      "source": "http://www.wikidata.org/entity/Q76626220",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Shagal%20Choumoff.jpg"
     },
     {
       "id": "Q28797026",
@@ -357,24 +435,9 @@
       "country": "Palestine",
       "lat": 31.7725,
       "lon": 35.204166666,
-      "source": "http://www.wikidata.org/entity/Q28797026"
-    },
-    {
-      "id": "Q76627696",
-      "artistId": "paul-gauguin",
-      "artistName": "Paul Gauguin",
-      "reviewStatus": "generated",
-      "title": "Still Life",
-      "date": "1899",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "israel-museum-jerusalem",
-      "location": "Israel Museum",
-      "city": "Jerusalem",
-      "country": "Palestine",
-      "lat": 31.7725,
-      "lon": 35.204166666,
-      "source": "http://www.wikidata.org/entity/Q76627696"
+      "source": "http://www.wikidata.org/entity/Q28797026",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20C%C3%A9zanne%20-%20The%20Tree%20by%20the%20Bend%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul-Cezanne.jpg"
     },
     {
       "id": "Q80183194",
@@ -391,24 +454,9 @@
       "country": "Palestine",
       "lat": 31.7725,
       "lon": 35.204166666,
-      "source": "http://www.wikidata.org/entity/Q80183194"
-    },
-    {
-      "id": "Q28797054",
-      "artistId": "paul-gauguin",
-      "artistName": "Paul Gauguin",
-      "reviewStatus": "generated",
-      "title": "Upa Upa (The Fire Dance)",
-      "date": "1891",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "israel-museum-jerusalem",
-      "location": "Israel Museum",
-      "city": "Jerusalem",
-      "country": "Palestine",
-      "lat": 31.7725,
-      "lon": 35.204166666,
-      "source": "http://www.wikidata.org/entity/Q28797054"
+      "source": "http://www.wikidata.org/entity/Q80183194",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Gauguin%201891.png"
     },
     {
       "id": "Q28797055",
@@ -425,15 +473,17 @@
       "country": "Palestine",
       "lat": 31.7725,
       "lon": 35.204166666,
-      "source": "http://www.wikidata.org/entity/Q28797055"
+      "source": "http://www.wikidata.org/entity/Q28797055",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Gauguin%20-%20Village%20in%20Martinique%20%28Femmes%20et%20Chevre%20dans%20le%20village%29%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Gauguin%201891.png"
     },
     {
-      "id": "Q76626781",
-      "artistId": "paul-klee",
-      "artistName": "Paul Klee",
+      "id": "Q76626416",
+      "artistId": "paul-gauguin",
+      "artistName": "Paul Gauguin",
       "reviewStatus": "generated",
-      "title": "Colors from a Distance",
-      "date": "1932",
+      "title": "Woman on a Stroll (The Little Parisienne)",
+      "date": "1880",
       "type": "Painting",
       "attribution": "Accepted",
       "locationId": "israel-museum-jerusalem",
@@ -442,7 +492,28 @@
       "country": "Palestine",
       "lat": 31.7725,
       "lon": 35.204166666,
-      "source": "http://www.wikidata.org/entity/Q76626781"
+      "source": "http://www.wikidata.org/entity/Q76626416",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Gauguin%201891.png"
+    },
+    {
+      "id": "Q76629165",
+      "artistId": "paul-klee",
+      "artistName": "Paul Klee",
+      "reviewStatus": "generated",
+      "title": "A City Street",
+      "date": "1918",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "israel-museum-jerusalem",
+      "location": "Israel Museum",
+      "city": "Jerusalem",
+      "country": "Palestine",
+      "lat": 31.7725,
+      "lon": 35.204166666,
+      "source": "http://www.wikidata.org/entity/Q76629165",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Klee%201911.jpg"
     },
     {
       "id": "Q92001549",
@@ -459,15 +530,17 @@
       "country": "Palestine",
       "lat": 31.7725,
       "lon": 35.204166666,
-      "source": "http://www.wikidata.org/entity/Q92001549"
+      "source": "http://www.wikidata.org/entity/Q92001549",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Klee%201911.jpg"
     },
     {
-      "id": "Q28797058",
-      "artistId": "paul-signac",
-      "artistName": "Paul Signac",
+      "id": "Q76626135",
+      "artistId": "paul-klee",
+      "artistName": "Paul Klee",
       "reviewStatus": "generated",
-      "title": "The Tugboat, Canal in Samois",
-      "date": "1901",
+      "title": "Group of Masks",
+      "date": "1939",
       "type": "Painting",
       "attribution": "Accepted",
       "locationId": "israel-museum-jerusalem",
@@ -476,7 +549,47 @@
       "country": "Palestine",
       "lat": 31.7725,
       "lon": 35.204166666,
-      "source": "http://www.wikidata.org/entity/Q28797058"
+      "source": "http://www.wikidata.org/entity/Q76626135",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Klee%201911.jpg"
+    },
+    {
+      "id": "Q76627196",
+      "artistId": "paul-klee",
+      "artistName": "Paul Klee",
+      "reviewStatus": "generated",
+      "title": "Wieder Karneval",
+      "date": "1925",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "israel-museum-jerusalem",
+      "location": "Israel Museum",
+      "city": "Jerusalem",
+      "country": "Palestine",
+      "lat": 31.7725,
+      "lon": 35.204166666,
+      "source": "http://www.wikidata.org/entity/Q76627196",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Klee%201911.jpg"
+    },
+    {
+      "id": "Q76844469",
+      "artistId": "pierre-bonnard",
+      "artistName": "Pierre Bonnard",
+      "reviewStatus": "generated",
+      "title": "The Dining Room",
+      "date": "1923",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "israel-museum-jerusalem",
+      "location": "Israel Museum",
+      "city": "Jerusalem",
+      "country": "Palestine",
+      "lat": 31.7725,
+      "lon": 35.204166666,
+      "source": "http://www.wikidata.org/entity/Q76844469",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Self-portrait-1889.jpg"
     },
     {
       "id": "Q102258280",
@@ -493,7 +606,47 @@
       "country": "Palestine",
       "lat": 31.7725,
       "lon": 35.204166666,
-      "source": "http://www.wikidata.org/entity/Q102258280"
+      "source": "http://www.wikidata.org/entity/Q102258280",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Piet%20Mondriaan.jpg"
+    },
+    {
+      "id": "Q102255508",
+      "artistId": "piet-mondrian",
+      "artistName": "Piet Mondrian",
+      "reviewStatus": "generated",
+      "title": "Farmstead with willows on the water I",
+      "date": "1902",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "israel-museum-jerusalem",
+      "location": "Israel Museum",
+      "city": "Jerusalem",
+      "country": "Palestine",
+      "lat": 31.7725,
+      "lon": 35.204166666,
+      "source": "http://www.wikidata.org/entity/Q102255508",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Piet%20Mondriaan.jpg"
+    },
+    {
+      "id": "Q102254119",
+      "artistId": "piet-mondrian",
+      "artistName": "Piet Mondrian",
+      "reviewStatus": "generated",
+      "title": "Farmyard in the Achterhoek",
+      "date": "1898",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "israel-museum-jerusalem",
+      "location": "Israel Museum",
+      "city": "Jerusalem",
+      "country": "Palestine",
+      "lat": 31.7725,
+      "lon": 35.204166666,
+      "source": "http://www.wikidata.org/entity/Q102254119",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Piet%20Mondriaan%20-%20Farmyard%20in%20the%20Achterhoek%20-%20A73%20-%20Piet%20Mondrian%2C%20catalogue%20raisonn%C3%A9.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Piet%20Mondriaan.jpg"
     },
     {
       "id": "Q102256393",
@@ -510,58 +663,9 @@
       "country": "Palestine",
       "lat": 31.7725,
       "lon": 35.204166666,
-      "source": "http://www.wikidata.org/entity/Q102256393"
-    },
-    {
-      "id": "Q102256140",
-      "artistId": "piet-mondrian",
-      "artistName": "Piet Mondrian",
-      "reviewStatus": "generated",
-      "title": "Willow grove near the water with chickens",
-      "date": "1905",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "israel-museum-jerusalem",
-      "location": "Israel Museum",
-      "city": "Jerusalem",
-      "country": "Palestine",
-      "lat": 31.7725,
-      "lon": 35.204166666,
-      "source": "http://www.wikidata.org/entity/Q102256140"
-    },
-    {
-      "id": "Q102255608",
-      "artistId": "piet-mondrian",
-      "artistName": "Piet Mondrian",
-      "reviewStatus": "generated",
-      "title": "Willow grove, trunks leaning left II",
-      "date": "1902",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "israel-museum-jerusalem",
-      "location": "Israel Museum",
-      "city": "Jerusalem",
-      "country": "Palestine",
-      "lat": 31.7725,
-      "lon": 35.204166666,
-      "source": "http://www.wikidata.org/entity/Q102255608"
-    },
-    {
-      "id": "Q3947822",
-      "artistId": "rembrandt",
-      "artistName": "Rembrandt",
-      "reviewStatus": "generated",
-      "title": "Saint Peter in prison",
-      "date": "1631",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "israel-museum-jerusalem",
-      "location": "Israel Museum",
-      "city": "Jerusalem",
-      "country": "Palestine",
-      "lat": 31.7725,
-      "lon": 35.204166666,
-      "source": "http://www.wikidata.org/entity/Q3947822"
+      "source": "http://www.wikidata.org/entity/Q102256393",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Piet%20Mondriaan%20-%20On%20Ouderkerkerdijk%20near%20the%20Omval%20in%20the%20evening%20II%20-%20A529%20-%20Piet%20Mondrian%2C%20catalogue%20raisonn%C3%A9.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Piet%20Mondriaan.jpg"
     },
     {
       "id": "Q76626247",
@@ -578,7 +682,28 @@
       "country": "Palestine",
       "lat": 31.7725,
       "lon": 35.204166666,
-      "source": "http://www.wikidata.org/entity/Q76626247"
+      "source": "http://www.wikidata.org/entity/Q76626247",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg"
+    },
+    {
+      "id": "Q1923232",
+      "artistId": "rene-magritte",
+      "artistName": "René Magritte",
+      "reviewStatus": "generated",
+      "title": "The Castle of the Pyrenees",
+      "date": "1959",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "israel-museum-jerusalem",
+      "location": "Israel Museum",
+      "city": "Jerusalem",
+      "country": "Palestine",
+      "lat": 31.7725,
+      "lon": 35.204166666,
+      "source": "http://www.wikidata.org/entity/Q1923232",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg"
     },
     {
       "id": "Q76626861",
@@ -595,7 +720,47 @@
       "country": "Palestine",
       "lat": 31.7725,
       "lon": 35.204166666,
-      "source": "http://www.wikidata.org/entity/Q76626861"
+      "source": "http://www.wikidata.org/entity/Q76626861",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg"
+    },
+    {
+      "id": "Q76626535",
+      "artistId": "rene-magritte",
+      "artistName": "René Magritte",
+      "reviewStatus": "generated",
+      "title": "The Seers (Les voyantes)",
+      "date": "1930",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "israel-museum-jerusalem",
+      "location": "Israel Museum",
+      "city": "Jerusalem",
+      "country": "Palestine",
+      "lat": 31.7725,
+      "lon": 35.204166666,
+      "source": "http://www.wikidata.org/entity/Q76626535",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg"
+    },
+    {
+      "id": "Q26220222",
+      "artistId": "van-gogh",
+      "artistName": "Vincent van Gogh",
+      "reviewStatus": "generated",
+      "title": "Entrance to Park Voyer d'Argenson in Asnières",
+      "date": "1887",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "israel-museum-jerusalem",
+      "location": "Israel Museum",
+      "city": "Jerusalem",
+      "country": "Palestine",
+      "lat": 31.7725,
+      "lon": 35.204166666,
+      "source": "http://www.wikidata.org/entity/Q26220222",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Entrata%20Parco%20Vincent%20van%20Gogh.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Self-portrait%20-%20Vincent%20van%20Gogh.jpg"
     },
     {
       "id": "Q26221150",
@@ -612,15 +777,17 @@
       "country": "Palestine",
       "lat": 31.7725,
       "lon": 35.204166666,
-      "source": "http://www.wikidata.org/entity/Q26221150"
+      "source": "http://www.wikidata.org/entity/Q26221150",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Van%20Gogh%20-%20Gr%C3%BCne%20Kornhalme.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Self-portrait%20-%20Vincent%20van%20Gogh.jpg"
     },
     {
-      "id": "Q26221146",
-      "artistId": "van-gogh",
-      "artistName": "Vincent van Gogh",
+      "id": "Q76625674",
+      "artistId": "wassily-kandinsky",
+      "artistName": "Wassily Kandinsky",
       "reviewStatus": "generated",
-      "title": "Harvest in Provence",
-      "date": "1888",
+      "title": "Even More",
+      "date": "1933",
       "type": "Painting",
       "attribution": "Accepted",
       "locationId": "israel-museum-jerusalem",
@@ -629,7 +796,28 @@
       "country": "Palestine",
       "lat": 31.7725,
       "lon": 35.204166666,
-      "source": "http://www.wikidata.org/entity/Q26221146"
+      "source": "http://www.wikidata.org/entity/Q76625674",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Kandinsky%20-%20Umsomehr%20%28Even%20More%29%2C%201933%2C%20B97.0075.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Wassily%20kandinsky.jpg"
+    },
+    {
+      "id": "Q80173868",
+      "artistId": "wassily-kandinsky",
+      "artistName": "Wassily Kandinsky",
+      "reviewStatus": "generated",
+      "title": "Strange",
+      "date": "1929",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "israel-museum-jerusalem",
+      "location": "Israel Museum",
+      "city": "Jerusalem",
+      "country": "Palestine",
+      "lat": 31.7725,
+      "lon": 35.204166666,
+      "source": "http://www.wikidata.org/entity/Q80173868",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Wassily%20kandinsky.jpg"
     }
   ]
 }

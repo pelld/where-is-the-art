@@ -1,0 +1,25 @@
+{
+  "id": "kingdom-of-england",
+  "country": "Kingdom of England",
+  "artworks": [
+    {
+      "id": "Q119454650",
+      "artistId": "raphael",
+      "artistName": "Raphael",
+      "reviewStatus": "generated",
+      "title": "Madonna della sedia",
+      "date": "Date unknown",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "lambeth-palace-lambeth",
+      "location": "Lambeth Palace",
+      "city": "Lambeth",
+      "country": "Kingdom of England",
+      "lat": 51.49556,
+      "lon": -0.11972,
+      "source": "http://www.wikidata.org/entity/Q119454650",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Raphael%20%281483-1520%29%20%28copy%20after%29%20-%20Madonna%20della%20sedia%20-%20113%20-%20Lambeth%20Palace.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Raffaello%20Sanzio.jpg"
+    }
+  ]
+}

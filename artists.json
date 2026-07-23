@@ -114,7 +114,7 @@
       "dataFile": "data/raphael.json",
       "defaultLocationId": "vatican-museums-vatican-city",
       "reviewStatus": "generated",
-      "intro": "333 works across 102 mapped collections. Check individual records against the linked source before travelling.",
+      "intro": "333 works across 101 mapped collections. Check individual records against the linked source before travelling.",
       "tripSummary": "Explore the mapped collections currently associated with Raphael; verify individual works against the linked source before making a special journey."
     },
     {
@@ -125,9 +125,9 @@
       "shortName": "Albrecht Dürer",
       "years": "",
       "dataFile": "data/albrecht-durer.json",
-      "defaultLocationId": "metropolitan-museum-of-art-manhattan",
+      "defaultLocationId": "collection-unknown-washington-d-c",
       "reviewStatus": "generated",
-      "intro": "115 works across 9 mapped collections. Check individual records against the linked source before travelling.",
+      "intro": "150 works across 10 mapped collections. Check individual records against the linked source before travelling.",
       "tripSummary": "Explore the mapped collections currently associated with Albrecht Dürer; verify individual works against the linked source before making a special journey."
     },
     {
@@ -140,7 +140,7 @@
       "dataFile": "data/francisco-goya.json",
       "defaultLocationId": "collection-unknown-washington-d-c",
       "reviewStatus": "generated",
-      "intro": "708 works across 130 mapped collections. Check individual records against the linked source before travelling.",
+      "intro": "708 works across 126 mapped collections. Check individual records against the linked source before travelling.",
       "tripSummary": "Explore the mapped collections currently associated with Francisco Goya; verify individual works against the linked source before making a special journey."
     },
     {
@@ -153,7 +153,7 @@
       "dataFile": "data/henri-matisse.json",
       "defaultLocationId": "collection-unknown-washington-d-c",
       "reviewStatus": "generated",
-      "intro": "711 works across 153 mapped collections. Check individual records against the linked source before travelling.",
+      "intro": "711 works across 154 mapped collections. Check individual records against the linked source before travelling.",
       "tripSummary": "Explore the mapped collections currently associated with Henri Matisse; verify individual works against the linked source before making a special journey."
     },
     {
@@ -166,7 +166,7 @@
       "dataFile": "data/katsushika-hokusai.json",
       "defaultLocationId": "metropolitan-museum-of-art-manhattan",
       "reviewStatus": "generated",
-      "intro": "261 works across 34 mapped collections. Check individual records against the linked source before travelling.",
+      "intro": "260 works across 34 mapped collections. Check individual records against the linked source before travelling.",
       "tripSummary": "Explore the mapped collections currently associated with Katsushika Hokusai; verify individual works against the linked source before making a special journey."
     },
     {
@@ -179,7 +179,7 @@
       "dataFile": "data/peter-paul-rubens.json",
       "defaultLocationId": "royal-museum-of-fine-arts-antwerp-antwerp",
       "reviewStatus": "generated",
-      "intro": "381 works across 60 mapped collections. Check individual records against the linked source before travelling.",
+      "intro": "512 works across 99 mapped collections. Check individual records against the linked source before travelling.",
       "tripSummary": "Explore the mapped collections currently associated with Peter Paul Rubens; verify individual works against the linked source before making a special journey."
     },
     {
@@ -192,7 +192,7 @@
       "dataFile": "data/diego-velazquez.json",
       "defaultLocationId": "museo-del-prado-madrid",
       "reviewStatus": "generated",
-      "intro": "179 works across 68 mapped collections. Check individual records against the linked source before travelling.",
+      "intro": "180 works across 67 mapped collections. Check individual records against the linked source before travelling.",
       "tripSummary": "Explore the mapped collections currently associated with Diego Velázquez; verify individual works against the linked source before making a special journey."
     },
     {
@@ -231,7 +231,7 @@
       "dataFile": "data/paul-gauguin.json",
       "defaultLocationId": "collection-unknown-washington-d-c",
       "reviewStatus": "generated",
-      "intro": "610 works across 159 mapped collections. Check individual records against the linked source before travelling.",
+      "intro": "610 works across 158 mapped collections. Check individual records against the linked source before travelling.",
       "tripSummary": "Explore the mapped collections currently associated with Paul Gauguin; verify individual works against the linked source before making a special journey."
     },
     {
@@ -244,7 +244,7 @@
       "dataFile": "data/jean-auguste-dominique-ingres.json",
       "defaultLocationId": "musee-ingres-bourdelle-montauban",
       "reviewStatus": "generated",
-      "intro": "226 works across 92 mapped collections. Check individual records against the linked source before travelling.",
+      "intro": "226 works across 94 mapped collections. Check individual records against the linked source before travelling.",
       "tripSummary": "Explore the mapped collections currently associated with Jean-Auguste-Dominique Ingres; verify individual works against the linked source before making a special journey."
     },
     {
@@ -257,7 +257,7 @@
       "dataFile": "data/eugene-delacroix.json",
       "defaultLocationId": "collection-unknown-washington-d-c",
       "reviewStatus": "generated",
-      "intro": "474 works across 180 mapped collections. Check individual records against the linked source before travelling.",
+      "intro": "475 works across 177 mapped collections. Check individual records against the linked source before travelling.",
       "tripSummary": "Explore the mapped collections currently associated with Eugène Delacroix; verify individual works against the linked source before making a special journey."
     },
     {
@@ -270,7 +270,7 @@
       "dataFile": "data/edvard-munch.json",
       "defaultLocationId": "munch-museum-oslo-municipality",
       "reviewStatus": "generated",
-      "intro": "775 works across 52 mapped collections. Check individual records against the linked source before travelling.",
+      "intro": "795 works across 43 mapped collections. Check individual records against the linked source before travelling.",
       "tripSummary": "Explore the mapped collections currently associated with Edvard Munch; verify individual works against the linked source before making a special journey."
     },
     {
@@ -281,9 +281,9 @@
       "shortName": "Pierre-Auguste Renoir",
       "years": "",
       "dataFile": "data/pierre-auguste-renoir.json",
-      "defaultLocationId": "barnes-foundation-philadelphia",
+      "defaultLocationId": "barnes-foundation-merion-station",
       "reviewStatus": "generated",
-      "intro": "650 works across 117 mapped collections. Check individual records against the linked source before travelling.",
+      "intro": "639 works across 109 mapped collections. Check individual records against the linked source before travelling.",
       "tripSummary": "Explore the mapped collections currently associated with Pierre-Auguste Renoir; verify individual works against the linked source before making a special journey."
     },
     {
@@ -309,7 +309,7 @@
       "dataFile": "data/sandro-botticelli.json",
       "defaultLocationId": "uffizi-gallery-florence",
       "reviewStatus": "generated",
-      "intro": "173 works across 77 mapped collections. Check individual records against the linked source before travelling.",
+      "intro": "173 works across 76 mapped collections. Check individual records against the linked source before travelling.",
       "tripSummary": "Explore the mapped collections currently associated with Sandro Botticelli; verify individual works against the linked source before making a special journey."
     },
     {
@@ -322,7 +322,7 @@
       "dataFile": "data/caravaggio.json",
       "defaultLocationId": "galleria-borghese-roma-capitale",
       "reviewStatus": "generated",
-      "intro": "92 works across 55 mapped collections. Check individual records against the linked source before travelling.",
+      "intro": "92 works across 53 mapped collections. Check individual records against the linked source before travelling.",
       "tripSummary": "Explore the mapped collections currently associated with Caravaggio; verify individual works against the linked source before making a special journey."
     },
     {
@@ -335,7 +335,7 @@
       "dataFile": "data/edgar-degas.json",
       "defaultLocationId": "collection-unknown-washington-d-c",
       "reviewStatus": "generated",
-      "intro": "667 works across 151 mapped collections. Check individual records against the linked source before travelling.",
+      "intro": "668 works across 150 mapped collections. Check individual records against the linked source before travelling.",
       "tripSummary": "Explore the mapped collections currently associated with Edgar Degas; verify individual works against the linked source before making a special journey."
     },
     {
@@ -348,7 +348,7 @@
       "dataFile": "data/edouard-manet.json",
       "defaultLocationId": "collection-unknown-washington-d-c",
       "reviewStatus": "generated",
-      "intro": "376 works across 129 mapped collections. Check individual records against the linked source before travelling.",
+      "intro": "376 works across 124 mapped collections. Check individual records against the linked source before travelling.",
       "tripSummary": "Explore the mapped collections currently associated with Édouard Manet; verify individual works against the linked source before making a special journey."
     },
     {
@@ -361,7 +361,7 @@
       "dataFile": "data/titian.json",
       "defaultLocationId": "museo-del-prado-madrid",
       "reviewStatus": "generated",
-      "intro": "398 works across 143 mapped collections. Check individual records against the linked source before travelling.",
+      "intro": "398 works across 142 mapped collections. Check individual records against the linked source before travelling.",
       "tripSummary": "Explore the mapped collections currently associated with Titian; verify individual works against the linked source before making a special journey."
     },
     {
@@ -387,7 +387,7 @@
       "dataFile": "data/wassily-kandinsky.json",
       "defaultLocationId": "musee-national-d-art-moderne-quartier-saint-merri",
       "reviewStatus": "generated",
-      "intro": "476 works across 94 mapped collections. Check individual records against the linked source before travelling.",
+      "intro": "475 works across 93 mapped collections. Check individual records against the linked source before travelling.",
       "tripSummary": "Explore the mapped collections currently associated with Wassily Kandinsky; verify individual works against the linked source before making a special journey."
     },
     {
@@ -413,7 +413,7 @@
       "dataFile": "data/henri-de-toulouse-lautrec.json",
       "defaultLocationId": "collection-unknown-washington-d-c",
       "reviewStatus": "generated",
-      "intro": "471 works across 95 mapped collections. Check individual records against the linked source before travelling.",
+      "intro": "471 works across 93 mapped collections. Check individual records against the linked source before travelling.",
       "tripSummary": "Explore the mapped collections currently associated with Henri de Toulouse-Lautrec; verify individual works against the linked source before making a special journey."
     },
     {
@@ -426,7 +426,7 @@
       "dataFile": "data/rene-magritte.json",
       "defaultLocationId": "menil-collection-houston",
       "reviewStatus": "generated",
-      "intro": "183 works across 78 mapped collections. Check individual records against the linked source before travelling.",
+      "intro": "183 works across 76 mapped collections. Check individual records against the linked source before travelling.",
       "tripSummary": "Explore the mapped collections currently associated with René Magritte; verify individual works against the linked source before making a special journey."
     },
     {
@@ -439,7 +439,7 @@
       "dataFile": "data/jacques-louis-david.json",
       "defaultLocationId": "collection-unknown-washington-d-c",
       "reviewStatus": "generated",
-      "intro": "312 works across 85 mapped collections. Check individual records against the linked source before travelling.",
+      "intro": "311 works across 84 mapped collections. Check individual records against the linked source before travelling.",
       "tripSummary": "Explore the mapped collections currently associated with Jacques-Louis David; verify individual works against the linked source before making a special journey."
     },
     {
@@ -452,7 +452,7 @@
       "dataFile": "data/hieronymus-bosch.json",
       "defaultLocationId": "museo-del-prado-madrid",
       "reviewStatus": "generated",
-      "intro": "115 works across 48 mapped collections. Check individual records against the linked source before travelling.",
+      "intro": "115 works across 47 mapped collections. Check individual records against the linked source before travelling.",
       "tripSummary": "Explore the mapped collections currently associated with Hieronymus Bosch; verify individual works against the linked source before making a special journey."
     },
     {
@@ -465,7 +465,7 @@
       "dataFile": "data/ilya-repin.json",
       "defaultLocationId": "russian-museum-saint-petersburg",
       "reviewStatus": "generated",
-      "intro": "265 works across 70 mapped collections. Check individual records against the linked source before travelling.",
+      "intro": "266 works across 71 mapped collections. Check individual records against the linked source before travelling.",
       "tripSummary": "Explore the mapped collections currently associated with Ilya Repin; verify individual works against the linked source before making a special journey."
     },
     {
@@ -478,7 +478,7 @@
       "dataFile": "data/pieter-bruegel-the-elder.json",
       "defaultLocationId": "kunsthistorisches-museum-vienna",
       "reviewStatus": "generated",
-      "intro": "94 works across 39 mapped collections. Check individual records against the linked source before travelling.",
+      "intro": "94 works across 40 mapped collections. Check individual records against the linked source before travelling.",
       "tripSummary": "Explore the mapped collections currently associated with Pieter Bruegel the Elder; verify individual works against the linked source before making a special journey."
     },
     {
@@ -491,7 +491,7 @@
       "dataFile": "data/caspar-david-friedrich.json",
       "defaultLocationId": "national-museum-of-art-architecture-and-design-oslo",
       "reviewStatus": "generated",
-      "intro": "311 works across 56 mapped collections. Check individual records against the linked source before travelling.",
+      "intro": "311 works across 57 mapped collections. Check individual records against the linked source before travelling.",
       "tripSummary": "Explore the mapped collections currently associated with Caspar David Friedrich; verify individual works against the linked source before making a special journey."
     },
     {
@@ -504,7 +504,7 @@
       "dataFile": "data/mary-cassatt.json",
       "defaultLocationId": "collection-unknown-washington-d-c",
       "reviewStatus": "generated",
-      "intro": "222 works across 75 mapped collections. Check individual records against the linked source before travelling.",
+      "intro": "222 works across 73 mapped collections. Check individual records against the linked source before travelling.",
       "tripSummary": "Explore the mapped collections currently associated with Mary Cassatt; verify individual works against the linked source before making a special journey."
     },
     {
@@ -517,7 +517,7 @@
       "dataFile": "data/piet-mondrian.json",
       "defaultLocationId": "kunstmuseum-den-haag-the-hague",
       "reviewStatus": "generated",
-      "intro": "583 works across 86 mapped collections. Check individual records against the linked source before travelling.",
+      "intro": "583 works across 88 mapped collections. Check individual records against the linked source before travelling.",
       "tripSummary": "Explore the mapped collections currently associated with Piet Mondrian; verify individual works against the linked source before making a special journey."
     },
     {
@@ -543,7 +543,7 @@
       "dataFile": "data/amedeo-modigliani.json",
       "defaultLocationId": "collection-unknown-washington-d-c",
       "reviewStatus": "generated",
-      "intro": "202 works across 107 mapped collections. Check individual records against the linked source before travelling.",
+      "intro": "202 works across 105 mapped collections. Check individual records against the linked source before travelling.",
       "tripSummary": "Explore the mapped collections currently associated with Amedeo Modigliani; verify individual works against the linked source before making a special journey."
     },
     {
@@ -569,7 +569,7 @@
       "dataFile": "data/kazimir-malevich.json",
       "defaultLocationId": "russian-museum-saint-petersburg",
       "reviewStatus": "generated",
-      "intro": "131 works across 31 mapped collections. Check individual records against the linked source before travelling.",
+      "intro": "131 works across 30 mapped collections. Check individual records against the linked source before travelling.",
       "tripSummary": "Explore the mapped collections currently associated with Kazimir Malevich; verify individual works against the linked source before making a special journey."
     },
     {
@@ -582,7 +582,7 @@
       "dataFile": "data/georges-braque.json",
       "defaultLocationId": "collection-unknown-washington-d-c",
       "reviewStatus": "generated",
-      "intro": "366 works across 124 mapped collections. Check individual records against the linked source before travelling.",
+      "intro": "365 works across 124 mapped collections. Check individual records against the linked source before travelling.",
       "tripSummary": "Explore the mapped collections currently associated with Georges Braque; verify individual works against the linked source before making a special journey."
     },
     {
@@ -595,7 +595,7 @@
       "dataFile": "data/anthony-van-dyck.json",
       "defaultLocationId": "bavarian-state-painting-collections-munich",
       "reviewStatus": "generated",
-      "intro": "687 works across 201 mapped collections. Check individual records against the linked source before travelling.",
+      "intro": "700 works across 231 mapped collections. Check individual records against the linked source before travelling.",
       "tripSummary": "Explore the mapped collections currently associated with Anthony van Dyck; verify individual works against the linked source before making a special journey."
     },
     {
@@ -608,7 +608,7 @@
       "dataFile": "data/diego-rivera.json",
       "defaultLocationId": "detroit-institute-of-arts-detroit",
       "reviewStatus": "generated",
-      "intro": "74 works across 36 mapped collections. Check individual records against the linked source before travelling.",
+      "intro": "74 works across 37 mapped collections. Check individual records against the linked source before travelling.",
       "tripSummary": "Explore the mapped collections currently associated with Diego Rivera; verify individual works against the linked source before making a special journey."
     },
     {
@@ -621,7 +621,7 @@
       "dataFile": "data/tintoretto.json",
       "defaultLocationId": "scuola-grande-di-san-rocco-venice",
       "reviewStatus": "generated",
-      "intro": "374 works across 132 mapped collections. Check individual records against the linked source before travelling.",
+      "intro": "373 works across 129 mapped collections. Check individual records against the linked source before travelling.",
       "tripSummary": "Explore the mapped collections currently associated with Tintoretto; verify individual works against the linked source before making a special journey."
     },
     {
@@ -634,7 +634,7 @@
       "dataFile": "data/william-hogarth.json",
       "defaultLocationId": "yale-center-for-british-art-new-haven",
       "reviewStatus": "generated",
-      "intro": "442 works across 83 mapped collections. Check individual records against the linked source before travelling.",
+      "intro": "443 works across 82 mapped collections. Check individual records against the linked source before travelling.",
       "tripSummary": "Explore the mapped collections currently associated with William Hogarth; verify individual works against the linked source before making a special journey."
     },
     {
@@ -647,7 +647,7 @@
       "dataFile": "data/gustave-courbet.json",
       "defaultLocationId": "musee-d-orsay-7th-arrondissement-of-paris",
       "reviewStatus": "generated",
-      "intro": "656 works across 259 mapped collections. Check individual records against the linked source before travelling.",
+      "intro": "656 works across 257 mapped collections. Check individual records against the linked source before travelling.",
       "tripSummary": "Explore the mapped collections currently associated with Gustave Courbet; verify individual works against the linked source before making a special journey."
     },
     {
@@ -660,7 +660,7 @@
       "dataFile": "data/francisco-de-zurbaran.json",
       "defaultLocationId": "museo-del-prado-madrid",
       "reviewStatus": "generated",
-      "intro": "217 works across 79 mapped collections. Check individual records against the linked source before travelling.",
+      "intro": "217 works across 80 mapped collections. Check individual records against the linked source before travelling.",
       "tripSummary": "Explore the mapped collections currently associated with Francisco de Zurbarán; verify individual works against the linked source before making a special journey."
     },
     {
@@ -673,7 +673,7 @@
       "dataFile": "data/bartolome-esteban-murillo.json",
       "defaultLocationId": "museo-del-prado-madrid",
       "reviewStatus": "generated",
-      "intro": "296 works across 132 mapped collections. Check individual records against the linked source before travelling.",
+      "intro": "295 works across 131 mapped collections. Check individual records against the linked source before travelling.",
       "tripSummary": "Explore the mapped collections currently associated with Bartolomé Esteban Murillo; verify individual works against the linked source before making a special journey."
     },
     {
@@ -686,7 +686,7 @@
       "dataFile": "data/masaccio.json",
       "defaultLocationId": "gemaldegalerie-berlin-bezirk-mitte",
       "reviewStatus": "generated",
-      "intro": "35 works across 16 mapped collections. Check individual records against the linked source before travelling.",
+      "intro": "35 works across 17 mapped collections. Check individual records against the linked source before travelling.",
       "tripSummary": "Explore the mapped collections currently associated with Masaccio; verify individual works against the linked source before making a special journey."
     },
     {
@@ -725,7 +725,7 @@
       "dataFile": "data/giovanni-bellini.json",
       "defaultLocationId": "gallerie-dell-accademia-venice",
       "reviewStatus": "generated",
-      "intro": "177 works across 93 mapped collections. Check individual records against the linked source before travelling.",
+      "intro": "177 works across 92 mapped collections. Check individual records against the linked source before travelling.",
       "tripSummary": "Explore the mapped collections currently associated with Giovanni Bellini; verify individual works against the linked source before making a special journey."
     },
     {
@@ -736,9 +736,9 @@
       "shortName": "Giorgione",
       "years": "",
       "dataFile": "data/giorgione.json",
-      "defaultLocationId": "kunsthistorisches-museum-vienna",
+      "defaultLocationId": "gallerie-dell-accademia-venice",
       "reviewStatus": "generated",
-      "intro": "47 works across 26 mapped collections. Check individual records against the linked source before travelling.",
+      "intro": "47 works across 27 mapped collections. Check individual records against the linked source before travelling.",
       "tripSummary": "Explore the mapped collections currently associated with Giorgione; verify individual works against the linked source before making a special journey."
     },
     {
@@ -751,7 +751,7 @@
       "dataFile": "data/lucas-cranach-the-elder.json",
       "defaultLocationId": "bavarian-state-painting-collections-munich",
       "reviewStatus": "generated",
-      "intro": "701 works across 187 mapped collections. Check individual records against the linked source before travelling.",
+      "intro": "703 works across 164 mapped collections. Check individual records against the linked source before travelling.",
       "tripSummary": "Explore the mapped collections currently associated with Lucas Cranach the Elder; verify individual works against the linked source before making a special journey."
     },
     {
@@ -764,7 +764,7 @@
       "dataFile": "data/hans-holbein-the-younger.json",
       "defaultLocationId": "collection-unknown-washington-d-c",
       "reviewStatus": "generated",
-      "intro": "203 works across 77 mapped collections. Check individual records against the linked source before travelling.",
+      "intro": "203 works across 78 mapped collections. Check individual records against the linked source before travelling.",
       "tripSummary": "Explore the mapped collections currently associated with Hans Holbein the Younger; verify individual works against the linked source before making a special journey."
     },
     {
@@ -777,7 +777,7 @@
       "dataFile": "data/paolo-veronese.json",
       "defaultLocationId": "bavarian-state-painting-collections-munich",
       "reviewStatus": "generated",
-      "intro": "337 works across 121 mapped collections. Check individual records against the linked source before travelling.",
+      "intro": "337 works across 122 mapped collections. Check individual records against the linked source before travelling.",
       "tripSummary": "Explore the mapped collections currently associated with Paolo Veronese; verify individual works against the linked source before making a special journey."
     },
     {
@@ -803,7 +803,7 @@
       "dataFile": "data/correggio.json",
       "defaultLocationId": "galleria-nazionale-di-parma-parma",
       "reviewStatus": "generated",
-      "intro": "135 works across 67 mapped collections. Check individual records against the linked source before travelling.",
+      "intro": "135 works across 68 mapped collections. Check individual records against the linked source before travelling.",
       "tripSummary": "Explore the mapped collections currently associated with Correggio; verify individual works against the linked source before making a special journey."
     },
     {
@@ -816,7 +816,7 @@
       "dataFile": "data/giovanni-battista-tiepolo.json",
       "defaultLocationId": "collection-unknown-washington-d-c",
       "reviewStatus": "generated",
-      "intro": "369 works across 129 mapped collections. Check individual records against the linked source before travelling.",
+      "intro": "368 works across 127 mapped collections. Check individual records against the linked source before travelling.",
       "tripSummary": "Explore the mapped collections currently associated with Giovanni Battista Tiepolo; verify individual works against the linked source before making a special journey."
     },
     {
@@ -842,7 +842,7 @@
       "dataFile": "data/jean-honore-fragonard.json",
       "defaultLocationId": "collection-unknown-washington-d-c",
       "reviewStatus": "generated",
-      "intro": "265 works across 112 mapped collections. Check individual records against the linked source before travelling.",
+      "intro": "264 works across 111 mapped collections. Check individual records against the linked source before travelling.",
       "tripSummary": "Explore the mapped collections currently associated with Jean-Honoré Fragonard; verify individual works against the linked source before making a special journey."
     },
     {
@@ -855,7 +855,7 @@
       "dataFile": "data/francois-boucher.json",
       "defaultLocationId": "collection-unknown-washington-d-c",
       "reviewStatus": "generated",
-      "intro": "446 works across 156 mapped collections. Check individual records against the linked source before travelling.",
+      "intro": "445 works across 157 mapped collections. Check individual records against the linked source before travelling.",
       "tripSummary": "Explore the mapped collections currently associated with François Boucher; verify individual works against the linked source before making a special journey."
     },
     {
@@ -868,7 +868,7 @@
       "dataFile": "data/jean-baptiste-simeon-chardin.json",
       "defaultLocationId": "nationalmuseum-stockholm",
       "reviewStatus": "generated",
-      "intro": "175 works across 88 mapped collections. Check individual records against the linked source before travelling.",
+      "intro": "176 works across 88 mapped collections. Check individual records against the linked source before travelling.",
       "tripSummary": "Explore the mapped collections currently associated with Jean-Baptiste-Siméon Chardin; verify individual works against the linked source before making a special journey."
     },
     {
@@ -881,7 +881,7 @@
       "dataFile": "data/thomas-gainsborough.json",
       "defaultLocationId": "national-gallery-city-of-westminster",
       "reviewStatus": "generated",
-      "intro": "494 works across 157 mapped collections. Check individual records against the linked source before travelling.",
+      "intro": "494 works across 155 mapped collections. Check individual records against the linked source before travelling.",
       "tripSummary": "Explore the mapped collections currently associated with Thomas Gainsborough; verify individual works against the linked source before making a special journey."
     },
     {
@@ -894,7 +894,7 @@
       "dataFile": "data/john-constable.json",
       "defaultLocationId": "victoria-and-albert-museum-royal-borough-of-kensington-and-chelsea",
       "reviewStatus": "generated",
-      "intro": "473 works across 114 mapped collections. Check individual records against the linked source before travelling.",
+      "intro": "471 works across 114 mapped collections. Check individual records against the linked source before travelling.",
       "tripSummary": "Explore the mapped collections currently associated with John Constable; verify individual works against the linked source before making a special journey."
     },
     {
@@ -907,7 +907,7 @@
       "dataFile": "data/jean-francois-millet.json",
       "defaultLocationId": "museum-of-fine-arts-boston-boston",
       "reviewStatus": "generated",
-      "intro": "282 works across 110 mapped collections. Check individual records against the linked source before travelling.",
+      "intro": "282 works across 111 mapped collections. Check individual records against the linked source before travelling.",
       "tripSummary": "Explore the mapped collections currently associated with Jean-François Millet; verify individual works against the linked source before making a special journey."
     },
     {
@@ -920,7 +920,7 @@
       "dataFile": "data/jean-baptiste-camille-corot.json",
       "defaultLocationId": "collection-unknown-washington-d-c",
       "reviewStatus": "generated",
-      "intro": "790 works across 244 mapped collections. Check individual records against the linked source before travelling.",
+      "intro": "785 works across 233 mapped collections. Check individual records against the linked source before travelling.",
       "tripSummary": "Explore the mapped collections currently associated with Jean-Baptiste-Camille Corot; verify individual works against the linked source before making a special journey."
     },
     {
@@ -933,7 +933,7 @@
       "dataFile": "data/honore-daumier.json",
       "defaultLocationId": "collection-unknown-washington-d-c",
       "reviewStatus": "generated",
-      "intro": "951 works across 10 mapped collections. Check individual records against the linked source before travelling.",
+      "intro": "924 works across 38 mapped collections. Check individual records against the linked source before travelling.",
       "tripSummary": "Explore the mapped collections currently associated with Honoré Daumier; verify individual works against the linked source before making a special journey."
     },
     {
@@ -959,7 +959,7 @@
       "dataFile": "data/alfred-sisley.json",
       "defaultLocationId": "musee-d-orsay-7th-arrondissement-of-paris",
       "reviewStatus": "generated",
-      "intro": "379 works across 192 mapped collections. Check individual records against the linked source before travelling.",
+      "intro": "379 works across 186 mapped collections. Check individual records against the linked source before travelling.",
       "tripSummary": "Explore the mapped collections currently associated with Alfred Sisley; verify individual works against the linked source before making a special journey."
     },
     {
@@ -972,7 +972,7 @@
       "dataFile": "data/georges-seurat.json",
       "defaultLocationId": "musee-d-orsay-7th-arrondissement-of-paris",
       "reviewStatus": "generated",
-      "intro": "172 works across 66 mapped collections. Check individual records against the linked source before travelling.",
+      "intro": "172 works across 63 mapped collections. Check individual records against the linked source before travelling.",
       "tripSummary": "Explore the mapped collections currently associated with Georges Seurat; verify individual works against the linked source before making a special journey."
     },
     {
@@ -985,7 +985,7 @@
       "dataFile": "data/paul-signac.json",
       "defaultLocationId": "collection-unknown-washington-d-c",
       "reviewStatus": "generated",
-      "intro": "200 works across 101 mapped collections. Check individual records against the linked source before travelling.",
+      "intro": "200 works across 102 mapped collections. Check individual records against the linked source before travelling.",
       "tripSummary": "Explore the mapped collections currently associated with Paul Signac; verify individual works against the linked source before making a special journey."
     },
     {
@@ -996,9 +996,9 @@
       "shortName": "Henri Rousseau",
       "years": "",
       "dataFile": "data/henri-rousseau.json",
-      "defaultLocationId": "barnes-foundation-merion-station",
+      "defaultLocationId": "barnes-foundation-philadelphia",
       "reviewStatus": "generated",
-      "intro": "133 works across 69 mapped collections. Check individual records against the linked source before travelling.",
+      "intro": "133 works across 67 mapped collections. Check individual records against the linked source before travelling.",
       "tripSummary": "Explore the mapped collections currently associated with Henri Rousseau; verify individual works against the linked source before making a special journey."
     },
     {
@@ -1011,7 +1011,7 @@
       "dataFile": "data/pierre-bonnard.json",
       "defaultLocationId": "collection-unknown-washington-d-c",
       "reviewStatus": "generated",
-      "intro": "701 works across 183 mapped collections. Check individual records against the linked source before travelling.",
+      "intro": "707 works across 152 mapped collections. Check individual records against the linked source before travelling.",
       "tripSummary": "Explore the mapped collections currently associated with Pierre Bonnard; verify individual works against the linked source before making a special journey."
     },
     {
@@ -1024,7 +1024,7 @@
       "dataFile": "data/edouard-vuillard.json",
       "defaultLocationId": "collection-unknown-washington-d-c",
       "reviewStatus": "generated",
-      "intro": "501 works across 187 mapped collections. Check individual records against the linked source before travelling.",
+      "intro": "498 works across 186 mapped collections. Check individual records against the linked source before travelling.",
       "tripSummary": "Explore the mapped collections currently associated with Édouard Vuillard; verify individual works against the linked source before making a special journey."
     },
     {
@@ -1037,7 +1037,7 @@
       "dataFile": "data/paul-klee.json",
       "defaultLocationId": "metropolitan-museum-of-art-manhattan",
       "reviewStatus": "generated",
-      "intro": "586 works across 105 mapped collections. Check individual records against the linked source before travelling.",
+      "intro": "588 works across 103 mapped collections. Check individual records against the linked source before travelling.",
       "tripSummary": "Explore the mapped collections currently associated with Paul Klee; verify individual works against the linked source before making a special journey."
     },
     {
@@ -1050,7 +1050,7 @@
       "dataFile": "data/marc-chagall.json",
       "defaultLocationId": "collection-unknown-washington-d-c",
       "reviewStatus": "generated",
-      "intro": "625 works across 126 mapped collections. Check individual records against the linked source before travelling.",
+      "intro": "624 works across 126 mapped collections. Check individual records against the linked source before travelling.",
       "tripSummary": "Explore the mapped collections currently associated with Marc Chagall; verify individual works against the linked source before making a special journey."
     },
     {
@@ -1063,7 +1063,7 @@
       "dataFile": "data/john-singer-sargent.json",
       "defaultLocationId": "collection-unknown-washington-d-c",
       "reviewStatus": "generated",
-      "intro": "724 works across 135 mapped collections. Check individual records against the linked source before travelling.",
+      "intro": "724 works across 133 mapped collections. Check individual records against the linked source before travelling.",
       "tripSummary": "Explore the mapped collections currently associated with John Singer Sargent; verify individual works against the linked source before making a special journey."
     },
     {
@@ -1076,7 +1076,7 @@
       "dataFile": "data/james-mcneill-whistler.json",
       "defaultLocationId": "collection-unknown-washington-d-c",
       "reviewStatus": "generated",
-      "intro": "759 works across 38 mapped collections. Check individual records against the linked source before travelling.",
+      "intro": "801 works across 39 mapped collections. Check individual records against the linked source before travelling.",
       "tripSummary": "Explore the mapped collections currently associated with James McNeill Whistler; verify individual works against the linked source before making a special journey."
     },
     {
@@ -1154,7 +1154,7 @@
       "dataFile": "data/lavinia-fontana.json",
       "defaultLocationId": "galleria-borghese-roma-capitale",
       "reviewStatus": "generated",
-      "intro": "51 works across 45 mapped collections. Check individual records against the linked source before travelling.",
+      "intro": "51 works across 44 mapped collections. Check individual records against the linked source before travelling.",
       "tripSummary": "Explore the mapped collections currently associated with Lavinia Fontana; verify individual works against the linked source before making a special journey."
     },
     {
@@ -1180,7 +1180,7 @@
       "dataFile": "data/rosa-bonheur.json",
       "defaultLocationId": "metropolitan-museum-of-art-manhattan",
       "reviewStatus": "generated",
-      "intro": "149 works across 91 mapped collections. Check individual records against the linked source before travelling.",
+      "intro": "150 works across 93 mapped collections. Check individual records against the linked source before travelling.",
       "tripSummary": "Explore the mapped collections currently associated with Rosa Bonheur; verify individual works against the linked source before making a special journey."
     },
     {
@@ -1191,9 +1191,9 @@
       "shortName": "Marie-Guillemine Benoist",
       "years": "",
       "dataFile": "data/marie-guillemine-benoist.json",
-      "defaultLocationId": "musee-des-beaux-arts-d-angers-angers",
+      "defaultLocationId": "musee-national-du-chateau-de-fontainebleau-fontainebleau",
       "reviewStatus": "generated",
-      "intro": "22 works across 19 mapped collections. Check individual records against the linked source before travelling.",
+      "intro": "22 works across 18 mapped collections. Check individual records against the linked source before travelling.",
       "tripSummary": "Explore the mapped collections currently associated with Marie-Guillemine Benoist; verify individual works against the linked source before making a special journey."
     },
     {
@@ -1258,7 +1258,7 @@
       "dataFile": "data/vanessa-bell.json",
       "defaultLocationId": "charleston-farmhouse-firle",
       "reviewStatus": "generated",
-      "intro": "121 works across 41 mapped collections. Check individual records against the linked source before travelling.",
+      "intro": "121 works across 40 mapped collections. Check individual records against the linked source before travelling.",
       "tripSummary": "Explore the mapped collections currently associated with Vanessa Bell; verify individual works against the linked source before making a special journey."
     },
     {
@@ -1269,9 +1269,9 @@
       "shortName": "Gwen John",
       "years": "",
       "dataFile": "data/gwen-john.json",
-      "defaultLocationId": "national-library-of-wales-ceredigion",
+      "defaultLocationId": "national-museum-cardiff-cardiff",
       "reviewStatus": "generated",
-      "intro": "90 works across 29 mapped collections. Check individual records against the linked source before travelling.",
+      "intro": "89 works across 29 mapped collections. Check individual records against the linked source before travelling.",
       "tripSummary": "Explore the mapped collections currently associated with Gwen John; verify individual works against the linked source before making a special journey."
     },
     {
@@ -1297,7 +1297,7 @@
       "dataFile": "data/tamara-de-lempicka.json",
       "defaultLocationId": "musee-national-d-art-moderne-quartier-saint-merri",
       "reviewStatus": "generated",
-      "intro": "29 works across 14 mapped collections. Check individual records against the linked source before travelling.",
+      "intro": "28 works across 13 mapped collections. Check individual records against the linked source before travelling.",
       "tripSummary": "Explore the mapped collections currently associated with Tamara de Lempicka; verify individual works against the linked source before making a special journey."
     }
   ]

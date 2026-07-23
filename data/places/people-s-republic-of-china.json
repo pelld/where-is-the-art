@@ -17,7 +17,9 @@
       "country": "People's Republic of China",
       "lat": 31.21811,
       "lon": 121.569761,
-      "source": "http://www.wikidata.org/entity/Q3877556"
+      "source": "http://www.wikidata.org/entity/Q3877556",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Modigliani%20-%20Nu%20couch%C3%A9.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Amedeo%20Modigliani%201918%20restored.jpg"
     }
   ]
 }

@@ -15,9 +15,11 @@
       "location": "National Art Museum of Azerbaijan",
       "city": "Baku",
       "country": "Azerbaijan",
-      "lat": 40.363174,
-      "lon": 49.831742,
-      "source": "http://www.wikidata.org/entity/Q66866724"
+      "lat": 40.36306,
+      "lon": 49.83167,
+      "source": "http://www.wikidata.org/entity/Q66866724",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Honor%C3%A9%20Fragonard%20-%20Pastoral.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Honor%C3%A9%20Fragonard%20self-portrait.jpg"
     },
     {
       "id": "Q66829562",
@@ -32,9 +34,11 @@
       "location": "National Art Museum of Azerbaijan",
       "city": "Baku",
       "country": "Azerbaijan",
-      "lat": 40.36306,
-      "lon": 49.83167,
-      "source": "http://www.wikidata.org/entity/Q66829562"
+      "lat": 40.363056,
+      "lon": 49.831667,
+      "source": "http://www.wikidata.org/entity/Q66829562",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Titian%20-%20Portrait%20of%20Pope%20Paul%20III.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Vecellio%20di%20Gregorio%20Tiziano%20-%20autoritratto.jpg"
     },
     {
       "id": "Q18709514",
@@ -51,7 +55,9 @@
       "country": "Azerbaijan",
       "lat": 40.36306,
       "lon": 49.83167,
-      "source": "http://www.wikidata.org/entity/Q18709514"
+      "source": "http://www.wikidata.org/entity/Q18709514",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/A%20Riding%20Amazon.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Wassily%20kandinsky.jpg"
     }
   ]
 }

@@ -17,7 +17,9 @@
       "country": "Algeria",
       "lat": 36.746111111,
       "lon": 3.072222222,
-      "source": "http://www.wikidata.org/entity/Q83647730"
+      "source": "http://www.wikidata.org/entity/Q83647730",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Le%20Canal%20du%20Loing%20en%20hiver.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20110.jpg"
     },
     {
       "id": "Q138701319",
@@ -34,7 +36,9 @@
       "country": "Algeria",
       "lat": 36.746111111,
       "lon": 3.072222222,
-      "source": "http://www.wikidata.org/entity/Q138701319"
+      "source": "http://www.wikidata.org/entity/Q138701319",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20110.jpg"
     },
     {
       "id": "Q83647722",
@@ -51,7 +55,9 @@
       "country": "Algeria",
       "lat": 36.746111111,
       "lon": 3.072222222,
-      "source": "http://www.wikidata.org/entity/Q83647722"
+      "source": "http://www.wikidata.org/entity/Q83647722",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg"
     },
     {
       "id": "Q83647718",
@@ -68,7 +74,9 @@
       "country": "Algeria",
       "lat": 36.746111111,
       "lon": 3.072222222,
-      "source": "http://www.wikidata.org/entity/Q83647718"
+      "source": "http://www.wikidata.org/entity/Q83647718",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro%20-%20Pissarro%20and%20Durand-Ruel%20Snollaerts%2C%20931.png",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg"
     },
     {
       "id": "Q83647745",
@@ -85,7 +93,9 @@
       "country": "Algeria",
       "lat": 36.746111111,
       "lon": 3.072222222,
-      "source": "http://www.wikidata.org/entity/Q83647745"
+      "source": "http://www.wikidata.org/entity/Q83647745",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Self-Portrait%2C%20Aged%2021%20A21192.jpg"
     },
     {
       "id": "Q83647679",
@@ -102,7 +112,9 @@
       "country": "Algeria",
       "lat": 36.746111111,
       "lon": 3.072222222,
-      "source": "http://www.wikidata.org/entity/Q83647679"
+      "source": "http://www.wikidata.org/entity/Q83647679",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Delacroix%20-%20Giaour%20traversant%20un%20gu%C3%A9%20-%20MBA%20Alger.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Autoportrait%20-%20Eug%C3%A8ne%20Delacroix%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20RF%2025.jpg"
     },
     {
       "id": "Q115676208",
@@ -119,7 +131,9 @@
       "country": "Algeria",
       "lat": 36.746111111,
       "lon": 3.072222222,
-      "source": "http://www.wikidata.org/entity/Q115676208"
+      "source": "http://www.wikidata.org/entity/Q115676208",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Autoportrait%20-%20Eug%C3%A8ne%20Delacroix%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20RF%2025.jpg"
     },
     {
       "id": "Q83647662",
@@ -136,7 +150,9 @@
       "country": "Algeria",
       "lat": 36.746111111,
       "lon": 3.072222222,
-      "source": "http://www.wikidata.org/entity/Q83647662"
+      "source": "http://www.wikidata.org/entity/Q83647662",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustave%20Courbet%2C%20photograph%20Atelier%20Nadar%2C%20c.%201860s.jpg"
     },
     {
       "id": "Q83647705",
@@ -153,7 +169,9 @@
       "country": "Algeria",
       "lat": 36.746111111,
       "lon": 3.072222222,
-      "source": "http://www.wikidata.org/entity/Q83647705"
+      "source": "http://www.wikidata.org/entity/Q83647705",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Matisse%20-%20Carra%2C%20443.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Henri%20Matisse%201933%20May%2020.jpg"
     },
     {
       "id": "Q83647672",
@@ -170,7 +188,9 @@
       "country": "Algeria",
       "lat": 36.746111111,
       "lon": 3.072222222,
-      "source": "http://www.wikidata.org/entity/Q83647672"
+      "source": "http://www.wikidata.org/entity/Q83647672",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jacques-Louis%20David%20-%20Portrait%20of%20Marie-Fran%C3%A7oise%20Buron%20-%20WGA06039.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Self%20Portrait.jpg"
     },
     {
       "id": "Q29644600",
@@ -187,7 +207,9 @@
       "country": "Algeria",
       "lat": 36.746111111,
       "lon": 3.072222222,
-      "source": "http://www.wikidata.org/entity/Q29644600"
+      "source": "http://www.wikidata.org/entity/Q29644600",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%20Portrait%20de%20Jean-Pierre%20Cortot%2C%20sculpteur%20%281787-1843%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%2C%20Self-portrait.jpg"
     },
     {
       "id": "Q83647655",
@@ -204,7 +226,9 @@
       "country": "Algeria",
       "lat": 36.746111111,
       "lon": 3.072222222,
-      "source": "http://www.wikidata.org/entity/Q83647655"
+      "source": "http://www.wikidata.org/entity/Q83647655",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20-%20La%20thei%C3%A8re%20blanche%2C%20IG.3147.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg"
     },
     {
       "id": "Q83647689",
@@ -221,7 +245,9 @@
       "country": "Algeria",
       "lat": 36.746111111,
       "lon": 3.072222222,
-      "source": "http://www.wikidata.org/entity/Q83647689"
+      "source": "http://www.wikidata.org/entity/Q83647689",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gauguin%201885%20La%20Fenaison%20aux%20environs%20de%20Dieppe.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Gauguin%201891.png"
     },
     {
       "id": "Q83647736",
@@ -238,7 +264,9 @@
       "country": "Algeria",
       "lat": 36.746111111,
       "lon": 3.072222222,
-      "source": "http://www.wikidata.org/entity/Q83647736"
+      "source": "http://www.wikidata.org/entity/Q83647736",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%28Barcelona%29%20Autoretrat%20al%20mirall%20-%20by%20Suzanne%20Valadon.jpg"
     }
   ]
 }

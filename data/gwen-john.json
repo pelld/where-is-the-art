@@ -12,15 +12,16 @@
       "location": "Art Gallery of South Australia",
       "city": "Adelaide",
       "country": "Australia",
-      "lat": -34.920643,
-      "lon": 138.603942,
+      "lat": -34.920555555,
+      "lon": 138.603888888,
       "source": "http://www.wikidata.org/entity/Q104245405",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Self-portrait%20%281900%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -41,10 +42,11 @@
       "source": "http://www.wikidata.org/entity/Q119170309",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Self-portrait%20%281900%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -65,10 +67,11 @@
       "source": "http://www.wikidata.org/entity/Q77483366",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Woman%20with%20Cloak%20-%201926-4%20-%20Albright%E2%80%93Knox%20Art%20Gallery.tiff",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Self-portrait%20%281900%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -89,10 +92,11 @@
       "source": "http://www.wikidata.org/entity/Q60475048",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Interior%2C%201915%2C%201982.6.tif",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Self-portrait%20%281900%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -113,10 +117,11 @@
       "source": "http://www.wikidata.org/entity/Q20191950",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rue%20terre%20neuve%20meudon.PNG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Self-portrait%20%281900%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -137,10 +142,11 @@
       "source": "http://www.wikidata.org/entity/Q20191883",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20convalescent%201994.59.15.PNG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Self-portrait%20%281900%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -161,15 +167,16 @@
       "source": "http://www.wikidata.org/entity/Q119930679",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Self-portrait%20%281900%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
     {
-      "id": "Q50817310",
+      "id": "Q114346621",
       "title": "The Convalescent",
       "date": "1923",
       "type": "Painting",
@@ -182,13 +189,14 @@
       "country": "United Kingdom",
       "lat": 52.200278,
       "lon": 0.119444,
-      "source": "http://www.wikidata.org/entity/Q50817310",
+      "source": "http://www.wikidata.org/entity/Q114346621",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20The%20Convalescent%2C%20Circa%201923%20-%201924%2C%20PD.24-1951.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20The%20Convalescent.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Self-portrait%20%281900%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -200,19 +208,20 @@
       "attribution": "Accepted",
       "artistId": "gwen-john",
       "artistName": "Gwen John",
-      "locationId": "glynn-vivian-art-gallery-castle",
+      "locationId": "glynn-vivian-art-gallery-swansea",
       "location": "Glynn Vivian Art Gallery",
-      "city": "Castle",
+      "city": "Swansea",
       "country": "United Kingdom",
       "lat": 51.623888888,
       "lon": -3.944444444,
       "source": "http://www.wikidata.org/entity/Q119175073",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Self-portrait%20%281900%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -224,19 +233,20 @@
       "attribution": "Accepted",
       "artistId": "gwen-john",
       "artistName": "Gwen John",
-      "locationId": "glynn-vivian-art-gallery-castle",
+      "locationId": "glynn-vivian-art-gallery-swansea",
       "location": "Glynn Vivian Art Gallery",
-      "city": "Castle",
+      "city": "Swansea",
       "country": "United Kingdom",
       "lat": 51.623888888,
       "lon": -3.944444444,
       "source": "http://www.wikidata.org/entity/Q119729140",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Self-portrait%20%281900%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -257,10 +267,11 @@
       "source": "http://www.wikidata.org/entity/Q119170102",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Chlo%C3%AB%20Boughton-Leigh%2C%201910%E2%80%931914%2C%20LEEAG.PA.1955.0002%2C%20Leeds%20Art%20Gallery.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Self-portrait%20%281900%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -281,10 +292,11 @@
       "source": "http://www.wikidata.org/entity/Q119929994",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Self-portrait%20%281900%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -305,10 +317,11 @@
       "source": "http://www.wikidata.org/entity/Q119204468",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Self-portrait%20%281900%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -329,10 +342,11 @@
       "source": "http://www.wikidata.org/entity/Q119202101",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Self-portrait%20%281900%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -353,10 +367,11 @@
       "source": "http://www.wikidata.org/entity/Q119154403",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Self-portrait%20%281900%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -377,10 +392,11 @@
       "source": "http://www.wikidata.org/entity/Q20191121",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Girl%20with%20a%20Cat%20MET%201976.201.25.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Self-portrait%20%281900%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -401,10 +417,11 @@
       "source": "http://www.wikidata.org/entity/Q19917749",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mrs.%20Atkinson%20MET%201979.135.27.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Self-portrait%20%281900%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -425,10 +442,11 @@
       "source": "http://www.wikidata.org/entity/Q19883597",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Girl%20Reading%20at%20a%20Window%2C%201911%2C%20421.1971.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Self-portrait%20%281900%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -444,15 +462,16 @@
       "location": "Museum of Modern Art",
       "city": "Manhattan",
       "country": "United States",
-      "lat": 40.761666666,
-      "lon": -73.9775,
+      "lat": 40.761444444,
+      "lon": -73.977611111,
       "source": "http://www.wikidata.org/entity/Q19883747",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Girl%20with%20a%20Blue%20Scarf%2C%20c.%201915-20%2C%20400.1963.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Self-portrait%20%281900%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -473,10 +492,11 @@
       "source": "http://www.wikidata.org/entity/Q19883539",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/CRI%20166814.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Self-portrait%20%281900%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -497,10 +517,11 @@
       "source": "http://www.wikidata.org/entity/Q27973991",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20A%20Young%20Nun%20-%20GMA%201116%20-%20National%20Galleries%20of%20Scotland.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Self-portrait%20%281900%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -521,10 +542,11 @@
       "source": "http://www.wikidata.org/entity/Q27969528",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Portrait%20of%20a%20Girl%20in%20Grey%20-%20GML%205648%20-%20National%20Galleries%20of%20Scotland.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Self-portrait%20%281900%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -545,10 +567,11 @@
       "source": "http://www.wikidata.org/entity/Q28537363",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/N03174%2010.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Self-portrait%20%281900%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -569,10 +592,11 @@
       "source": "http://www.wikidata.org/entity/Q28540422",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/N04088%2010.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Self-portrait%20%281900%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -593,10 +617,11 @@
       "source": "http://www.wikidata.org/entity/Q28533054",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Dorelia%20in%20a%20Black%20Dress%2C%20c.1903%E2%80%934%2C%20N05910.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Self-portrait%20%281900%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -617,10 +642,11 @@
       "source": "http://www.wikidata.org/entity/Q28537351",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Nude%20Girl.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Self-portrait%20%281900%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -641,10 +667,11 @@
       "source": "http://www.wikidata.org/entity/Q23028489",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Self-portrait%20%281902%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Self-portrait%20%281900%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -665,10 +692,11 @@
       "source": "http://www.wikidata.org/entity/Q28538736",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20The%20Convalescent%2C%201918%E2%80%9319%2C%20N04861.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Self-portrait%20%281900%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -689,10 +717,11 @@
       "source": "http://www.wikidata.org/entity/Q28541177",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20The%20Nun%20%28Tate%20Britain%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Self-portrait%20%281900%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -713,10 +742,11 @@
       "source": "http://www.wikidata.org/entity/Q28532560",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Young%20Woman%20Holding%20a%20Black%20Cat%20%28Tate%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Self-portrait%20%281900%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -732,15 +762,16 @@
       "location": "National Gallery of Canada",
       "city": "Ottawa",
       "country": "Canada",
-      "lat": 45.429434,
-      "lon": -75.698386,
+      "lat": 45.429535,
+      "lon": -75.698906,
       "source": "http://www.wikidata.org/entity/Q59508474",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Young%20Woman%20in%20a%20Grey%20Cloak%2C%20c.%201920-1924%2C%204924.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Self-portrait%20%281900%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -761,10 +792,11 @@
       "source": "http://www.wikidata.org/entity/Q20421749",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20The%20friends%2C%20c.%201898-1899%2C%201737-4.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Self-portrait%20%281900%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -785,10 +817,11 @@
       "source": "http://www.wikidata.org/entity/Q20422080",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20The%20nun%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Self-portrait%20%281900%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -809,10 +842,11 @@
       "source": "http://www.wikidata.org/entity/Q76997910",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hill%20with%20Two%20Figures-%20View%20from%20the%20Artist%27s%20Studio%20%28gcf10280%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Self-portrait%20%281900%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -833,10 +867,11 @@
       "source": "http://www.wikidata.org/entity/Q76997912",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hillside-%20View%20from%20the%20Artist%27s%20Studio%20%28gcf10281%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Self-portrait%20%281900%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -857,10 +892,11 @@
       "source": "http://www.wikidata.org/entity/Q76997914",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/House%20Surrounded%20by%20Trees-%20View%20from%20the%20Artist%27s%20Studio%20%28gcf10288%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Self-portrait%20%281900%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -881,10 +917,11 @@
       "source": "http://www.wikidata.org/entity/Q76997916",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/House%20with%20Sky%20and%20Trees-%20View%20from%20the%20Artist%27s%20Studio%20%28gcf10285%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Self-portrait%20%281900%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -905,10 +942,11 @@
       "source": "http://www.wikidata.org/entity/Q76997919",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/House-%20View%20from%20the%20Artist%27s%20Studio%20%28gcf10278%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Self-portrait%20%281900%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -929,10 +967,11 @@
       "source": "http://www.wikidata.org/entity/Q76997922",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hut%20with%20Sky%20and%20Trees-%20View%20from%20the%20Artist%27s%20Studio%20%28gcf10286%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Self-portrait%20%281900%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -953,10 +992,11 @@
       "source": "http://www.wikidata.org/entity/Q76997924",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hut%20with%20Sky%2C%20Trees%20and%20Rooftops-%20View%20from%20the%20Artist%27s%20Studio%20%28gcf10287%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Self-portrait%20%281900%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -977,10 +1017,11 @@
       "source": "http://www.wikidata.org/entity/Q76997927",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rooftop%20and%20Lane-%20View%20from%20the%20Artist%27s%20Studio%20%28gcf10282%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Self-portrait%20%281900%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1001,10 +1042,11 @@
       "source": "http://www.wikidata.org/entity/Q76997929",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rooftop%20and%20Pathway-%20View%20from%20the%20Artist%27s%20Studio%20%28gcf10284%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Self-portrait%20%281900%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1025,10 +1067,11 @@
       "source": "http://www.wikidata.org/entity/Q76997932",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rooftop-%20View%20from%20the%20Artist%27s%20Studio%20%28gcf10283%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Self-portrait%20%281900%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1049,34 +1092,11 @@
       "source": "http://www.wikidata.org/entity/Q22977148",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Vase%20of%20Flowers%20-%20Gwen%20John.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Self-portrait%20%281900%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q76997935",
-      "title": "Vase of Flowers",
-      "date": "1920",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "gwen-john",
-      "artistName": "Gwen John",
-      "locationId": "national-library-of-wales-ceredigion",
-      "location": "National Library of Wales",
-      "city": "Ceredigion",
-      "country": "United Kingdom",
-      "lat": 52.414384,
-      "lon": -4.068469,
-      "source": "http://www.wikidata.org/entity/Q76997935",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Vase%20of%20Flowers%20%28gcf10279%29.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q274339",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1097,10 +1117,36 @@
       "source": "http://www.wikidata.org/entity/Q119170603",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Self-portrait%20%281900%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q76997935",
+      "title": "Vase of Flowers",
+      "date": "1920",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "gwen-john",
+      "artistName": "Gwen John",
+      "locationId": "national-library-of-wales-ceredigion",
+      "location": "National Library of Wales",
+      "city": "Ceredigion",
+      "country": "United Kingdom",
+      "lat": 52.414384,
+      "lon": -4.068469,
+      "source": "http://www.wikidata.org/entity/Q76997935",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Vase%20of%20Flowers%20%28gcf10279%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Self-portrait%20%281900%29.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q274339",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1112,19 +1158,20 @@
       "attribution": "Accepted",
       "artistId": "gwen-john",
       "artistName": "Gwen John",
-      "locationId": "national-museum-cardiff-castle",
+      "locationId": "national-museum-cardiff-cardiff",
       "location": "National Museum Cardiff",
-      "city": "Castle",
+      "city": "Cardiff",
       "country": "United Kingdom",
       "lat": 51.485577,
       "lon": -3.177128,
       "source": "http://www.wikidata.org/entity/Q119195890",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Self-portrait%20%281900%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1145,10 +1192,11 @@
       "source": "http://www.wikidata.org/entity/Q119158940",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20A%20corner%20of%20the%20artist%27s%20room%20in%20Paris%2C%20NMW%20A%203397.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Self-portrait%20%281900%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1169,10 +1217,11 @@
       "source": "http://www.wikidata.org/entity/Q114346656",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%2C%20A%20Corner%20of%20the%20Artist%27s%20Room%20in%20Paris%20%28Cardiff%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Self-portrait%20%281900%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1184,43 +1233,20 @@
       "attribution": "Accepted",
       "artistId": "gwen-john",
       "artistName": "Gwen John",
-      "locationId": "national-museum-cardiff-castle",
-      "location": "National Museum Cardiff",
-      "city": "Castle",
-      "country": "United Kingdom",
-      "lat": 51.485577,
-      "lon": -3.177128,
-      "source": "http://www.wikidata.org/entity/Q119860479",
-      "image": "",
-      "externalImage": "",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q274339",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q119729154",
-      "title": "Figure in Church",
-      "date": "Date unknown",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "gwen-john",
-      "artistName": "Gwen John",
       "locationId": "national-museum-cardiff-cardiff",
       "location": "National Museum Cardiff",
       "city": "Cardiff",
       "country": "United Kingdom",
       "lat": 51.485577,
       "lon": -3.177128,
-      "source": "http://www.wikidata.org/entity/Q119729154",
+      "source": "http://www.wikidata.org/entity/Q119860479",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Self-portrait%20%281900%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1241,10 +1267,36 @@
       "source": "http://www.wikidata.org/entity/Q119729149",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Self-portrait%20%281900%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q119729154",
+      "title": "Figure in Church",
+      "date": "Date unknown",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "gwen-john",
+      "artistName": "Gwen John",
+      "locationId": "national-museum-cardiff-cardiff",
+      "location": "National Museum Cardiff",
+      "city": "Cardiff",
+      "country": "United Kingdom",
+      "lat": 51.485577,
+      "lon": -3.177128,
+      "source": "http://www.wikidata.org/entity/Q119729154",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Self-portrait%20%281900%29.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q274339",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1256,19 +1308,20 @@
       "attribution": "Accepted",
       "artistId": "gwen-john",
       "artistName": "Gwen John",
-      "locationId": "national-museum-cardiff-castle",
+      "locationId": "national-museum-cardiff-cardiff",
       "location": "National Museum Cardiff",
-      "city": "Castle",
+      "city": "Cardiff",
       "country": "United Kingdom",
       "lat": 51.485577,
       "lon": -3.177128,
       "source": "http://www.wikidata.org/entity/Q119860275",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Self-portrait%20%281900%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1289,10 +1342,11 @@
       "source": "http://www.wikidata.org/entity/Q119860313",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Self-portrait%20%281900%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1313,10 +1367,11 @@
       "source": "http://www.wikidata.org/entity/Q119175367",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Girl%20in%20profile%2C%20NMW%20A%20148.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Self-portrait%20%281900%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1337,10 +1392,11 @@
       "source": "http://www.wikidata.org/entity/Q119173495",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Self-portrait%20%281900%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1352,19 +1408,20 @@
       "attribution": "Accepted",
       "artistId": "gwen-john",
       "artistName": "Gwen John",
-      "locationId": "national-museum-cardiff-castle",
+      "locationId": "national-museum-cardiff-cardiff",
       "location": "National Museum Cardiff",
-      "city": "Castle",
+      "city": "Cardiff",
       "country": "United Kingdom",
       "lat": 51.485577,
       "lon": -3.177128,
       "source": "http://www.wikidata.org/entity/Q119729144",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Self-portrait%20%281900%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1376,19 +1433,20 @@
       "attribution": "Accepted",
       "artistId": "gwen-john",
       "artistName": "Gwen John",
-      "locationId": "national-museum-cardiff-castle",
+      "locationId": "national-museum-cardiff-cardiff",
       "location": "National Museum Cardiff",
-      "city": "Castle",
+      "city": "Cardiff",
       "country": "United Kingdom",
       "lat": 51.485577,
       "lon": -3.177128,
       "source": "http://www.wikidata.org/entity/Q119729152",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Self-portrait%20%281900%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1409,10 +1467,11 @@
       "source": "http://www.wikidata.org/entity/Q119170435",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Self-portrait%20%281900%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1433,10 +1492,11 @@
       "source": "http://www.wikidata.org/entity/Q119729141",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Self-portrait%20%281900%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1448,19 +1508,20 @@
       "attribution": "Accepted",
       "artistId": "gwen-john",
       "artistName": "Gwen John",
-      "locationId": "national-museum-cardiff-castle",
+      "locationId": "national-museum-cardiff-cardiff",
       "location": "National Museum Cardiff",
-      "city": "Castle",
+      "city": "Cardiff",
       "country": "United Kingdom",
       "lat": 51.485577,
       "lon": -3.177128,
       "source": "http://www.wikidata.org/entity/Q119729146",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Self-portrait%20%281900%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1472,19 +1533,20 @@
       "attribution": "Accepted",
       "artistId": "gwen-john",
       "artistName": "Gwen John",
-      "locationId": "national-museum-cardiff-castle",
+      "locationId": "national-museum-cardiff-cardiff",
       "location": "National Museum Cardiff",
-      "city": "Castle",
+      "city": "Cardiff",
       "country": "United Kingdom",
       "lat": 51.485577,
       "lon": -3.177128,
       "source": "http://www.wikidata.org/entity/Q119197629",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Self-portrait%20%281900%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1505,10 +1567,11 @@
       "source": "http://www.wikidata.org/entity/Q119196645",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Self-portrait%20%281900%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1520,19 +1583,20 @@
       "attribution": "Accepted",
       "artistId": "gwen-john",
       "artistName": "Gwen John",
-      "locationId": "national-museum-cardiff-castle",
+      "locationId": "national-museum-cardiff-cardiff",
       "location": "National Museum Cardiff",
-      "city": "Castle",
+      "city": "Cardiff",
       "country": "United Kingdom",
       "lat": 51.485577,
       "lon": -3.177128,
       "source": "http://www.wikidata.org/entity/Q119860162",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Self-portrait%20%281900%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1553,15 +1617,16 @@
       "source": "http://www.wikidata.org/entity/Q119860481",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Self-portrait%20%281900%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
     {
-      "id": "Q119860382",
+      "id": "Q119860512",
       "title": "Woman in Profile",
       "date": "Date unknown",
       "type": "Painting",
@@ -1574,37 +1639,14 @@
       "country": "United Kingdom",
       "lat": 51.485577,
       "lon": -3.177128,
-      "source": "http://www.wikidata.org/entity/Q119860382",
+      "source": "http://www.wikidata.org/entity/Q119860512",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Self-portrait%20%281900%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q119860161",
-      "title": "Woman in Profile",
-      "date": "Date unknown",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "gwen-john",
-      "artistName": "Gwen John",
-      "locationId": "national-museum-cardiff-castle",
-      "location": "National Museum Cardiff",
-      "city": "Castle",
-      "country": "United Kingdom",
-      "lat": 51.485577,
-      "lon": -3.177128,
-      "source": "http://www.wikidata.org/entity/Q119860161",
-      "image": "",
-      "externalImage": "",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q274339",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1625,10 +1667,11 @@
       "source": "http://www.wikidata.org/entity/Q108746666",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Self-portrait%20%281900%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1649,10 +1692,11 @@
       "source": "http://www.wikidata.org/entity/Q28050855",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Self-portrait%20%281900%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Self-portrait%20%281900%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1673,10 +1717,11 @@
       "source": "http://www.wikidata.org/entity/Q119729147",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Self-portrait%20%281900%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1697,10 +1742,11 @@
       "source": "http://www.wikidata.org/entity/Q119158929",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20A%20Corner%20of%20the%20Artist%27s%20Room%20in%20Paris%2C%201907%E2%80%931909%2C%20VIS.2576%2C%20Museums%20Sheffield.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Self-portrait%20%281900%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1721,10 +1767,11 @@
       "source": "http://www.wikidata.org/entity/Q119199106",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Self-portrait%20%281900%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1745,10 +1792,11 @@
       "source": "http://www.wikidata.org/entity/Q119187577",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Self-portrait%20%281900%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1769,10 +1817,11 @@
       "source": "http://www.wikidata.org/entity/Q123510533",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/GwenJohn%20-%20Chlo%C3%AB%20Boughton-Leigh.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Self-portrait%20%281900%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1793,10 +1842,11 @@
       "source": "http://www.wikidata.org/entity/Q119145618",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Self-portrait%20%281900%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1817,10 +1867,11 @@
       "source": "http://www.wikidata.org/entity/Q119918782",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Self-portrait%20%281900%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1841,10 +1892,11 @@
       "source": "http://www.wikidata.org/entity/Q23729759",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Girl%20Holding%20a%20Rose%2C%201915%20to%201925%2C%20B1993.30.15.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Self-portrait%20%281900%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1865,10 +1917,11 @@
       "source": "http://www.wikidata.org/entity/Q23730351",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20La%20Chambre%20sur%20la%20Cour%2C%20between%201907%20and%201908%2C%20B2014.5.3.tif",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Self-portrait%20%281900%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1889,10 +1942,11 @@
       "source": "http://www.wikidata.org/entity/Q23734206",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Rue%20Terre%20Neuve%2C%20Meudon%2C%20between%201915%20and%201925%2C%20B1993.30.17.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Self-portrait%20%281900%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1913,10 +1967,11 @@
       "source": "http://www.wikidata.org/entity/Q23698457",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Seated%20Woman%20in%20a%20Broad-Brimmed%20Hat%2C%20B2012.30.34.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Self-portrait%20%281900%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1937,10 +1992,11 @@
       "source": "http://www.wikidata.org/entity/Q23763197",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Still%20Life%20with%20a%20Prayer%20Book%2C%20Shawl%2C%20Vase%20of%20Flowers%20and%20Inkwell%2C%20late%201920s%2C%20B2014.5.2.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Self-portrait%20%281900%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1961,10 +2017,11 @@
       "source": "http://www.wikidata.org/entity/Q23729757",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Study%20of%20a%20Nun%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Self-portrait%20%281900%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1985,10 +2042,11 @@
       "source": "http://www.wikidata.org/entity/Q23744707",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20The%20Brown%20Tea%20Pot%2C%20between%201915%20and%201916%2C%20B2001.2.107.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Self-portrait%20%281900%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2009,10 +2067,11 @@
       "source": "http://www.wikidata.org/entity/Q23729258",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20The%20Pilgrim%2C%20ca.%201920%2C%20B1993.30.16.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Self-portrait%20%281900%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2033,10 +2092,11 @@
       "source": "http://www.wikidata.org/entity/Q23699693",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Young%20Woman%20Wearing%20a%20Large%20Hat%2C%20ca.%201920%2C%20B1993.30.13.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Self-portrait%20%281900%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2057,10 +2117,11 @@
       "source": "http://www.wikidata.org/entity/Q23699257",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Young%20Woman%20Holding%20a%20Cat%2C%20ca.%201920%2C%20B1993.30.12.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Self-portrait%20%281900%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2081,10 +2142,11 @@
       "source": "http://www.wikidata.org/entity/Q23699101",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Young%20Woman%20in%20Mulberry%20Dress%2C%20Winter%201923%20to%201924%2C%20B2003.9.1.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Self-portrait%20%281900%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2105,10 +2167,11 @@
       "source": "http://www.wikidata.org/entity/Q109970792",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Young%20Woman%20playing%20a%20Violin%20-%20B1993.30.92%20-%20Yale%20Center%20for%20British%20Art.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Self-portrait%20%281900%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2129,10 +2192,11 @@
       "source": "http://www.wikidata.org/entity/Q49202731",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Self-portrait%20%281900%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2153,10 +2217,11 @@
       "source": "http://www.wikidata.org/entity/Q119729139",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Self-portrait%20%281900%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     }

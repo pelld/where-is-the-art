@@ -17,10 +17,11 @@
       "source": "http://www.wikidata.org/entity/Q86622024",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Rousseau%20-%20View%20of%20Ile%20de%20Cit%C3%A9%20Paris.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -41,10 +42,11 @@
       "source": "http://www.wikidata.org/entity/Q50120675",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -65,10 +67,11 @@
       "source": "http://www.wikidata.org/entity/Q20267455",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -89,10 +92,11 @@
       "source": "http://www.wikidata.org/entity/Q20263649",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Rousseau%20-%20Sawmill%2C%20Outskirts%20of%20Paris%20-%201950.133%20-%20Art%20Institute%20of%20Chicago.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -113,10 +117,11 @@
       "source": "http://www.wikidata.org/entity/Q20268115",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Rousseau%20-%20The%20Waterfall%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -137,10 +142,11 @@
       "source": "http://www.wikidata.org/entity/Q18686003",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Rousseau%20-%20Meadowland%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -161,10 +167,11 @@
       "source": "http://www.wikidata.org/entity/Q18686000",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Rousseau%20-%20Quai%20d%27Ivry%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -185,10 +192,11 @@
       "source": "http://www.wikidata.org/entity/Q71328914",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -200,19 +208,20 @@
       "attribution": "Accepted",
       "artistId": "henri-rousseau",
       "artistName": "Henri Rousseau",
-      "locationId": "barnes-foundation-merion-station",
+      "locationId": "barnes-foundation-philadelphia",
       "location": "Barnes Foundation",
-      "city": "Merion Station",
+      "city": "Philadelphia",
       "country": "United States",
       "lat": 39.960643,
       "lon": -75.172808,
       "source": "http://www.wikidata.org/entity/Q28130707",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Rousseau%20-%20Bouquet%20of%20Flowers%20%28Bouquet%20de%20fleurs%29%20-%20BF579%20-%20Barnes%20Foundation.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -224,19 +233,20 @@
       "attribution": "Accepted",
       "artistId": "henri-rousseau",
       "artistName": "Henri Rousseau",
-      "locationId": "barnes-foundation-merion-station",
+      "locationId": "barnes-foundation-philadelphia",
       "location": "Barnes Foundation",
-      "city": "Merion Station",
+      "city": "Philadelphia",
       "country": "United States",
       "lat": 39.960643,
       "lon": -75.172808,
       "source": "http://www.wikidata.org/entity/Q28130708",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Rousseau%20-%20Bouquet%20of%20Flowers%20with%20China%20Asters%20and%20Tokyos%20%28Bouquet%20de%20fleurs%20aux%20reines-marguerites%20et%20aux%20tokyos%29%20-%20BF580%20-%20Barnes%20Foundation.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -248,19 +258,20 @@
       "attribution": "Accepted",
       "artistId": "henri-rousseau",
       "artistName": "Henri Rousseau",
-      "locationId": "barnes-foundation-merion-station",
+      "locationId": "barnes-foundation-philadelphia",
       "location": "Barnes Foundation",
-      "city": "Merion Station",
+      "city": "Philadelphia",
       "country": "United States",
       "lat": 39.960643,
       "lon": -75.172808,
       "source": "http://www.wikidata.org/entity/Q28130706",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Landscape%20and%20Four%20Fisherman%20%28Paysage%20et%20quatre%20p%C3%AAcheurs%20%C3%A0%20la%20ligne%29%20by%20Henri%20Rousseau.%20Original%20from%20Barnes%20Foundation.%20Digitally%20enhanced%20by%20rawpixel.%20%2850434770951%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -281,10 +292,11 @@
       "source": "http://www.wikidata.org/entity/Q28130691",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Landscape%20and%20Four%20Young%20Girls%20%28Paysage%20et%20quatre%20jeunes%20filles%29%20%28ca.%201895%29%20by%20Henri%20Rousseau.%20Original%20from%20Barnes%20Foundation.%20Digitally%20enhanced%20by%20rawpixel.%20%2850434076013%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -305,10 +317,11 @@
       "source": "http://www.wikidata.org/entity/Q28130695",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Rousseau%20-%20Monkeys%20and%20Parrot%20in%20the%20Virgin%20Forest%20%28Singes%20et%20perroquet%20dans%20la%20for%C3%AAt%20vierge%29%20-%20BF397%20-%20Barnes%20Foundation.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -329,10 +342,11 @@
       "source": "http://www.wikidata.org/entity/Q28130690",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Rousseau%20-%20Outskirts%20of%20Paris%20%28Environs%20de%20Paris%29%20-%20BF844%20-%20Barnes%20Foundation.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -344,19 +358,20 @@
       "attribution": "Accepted",
       "artistId": "henri-rousseau",
       "artistName": "Henri Rousseau",
-      "locationId": "barnes-foundation-merion-station",
+      "locationId": "barnes-foundation-philadelphia",
       "location": "Barnes Foundation",
-      "city": "Merion Station",
+      "city": "Philadelphia",
       "country": "United States",
       "lat": 39.960643,
       "lon": -75.172808,
       "source": "http://www.wikidata.org/entity/Q28130694",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Rousseau%20-%20Portrait%20of%20a%20Woman%20in%20a%20Landscape%20%28Portrait%20de%20femme%20dans%20un%20paysage%29%20-%20BF260%20-%20Barnes%20Foundation.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -368,19 +383,20 @@
       "attribution": "Accepted",
       "artistId": "henri-rousseau",
       "artistName": "Henri Rousseau",
-      "locationId": "barnes-foundation-merion-station",
+      "locationId": "barnes-foundation-philadelphia",
       "location": "Barnes Foundation",
-      "city": "Merion Station",
+      "city": "Philadelphia",
       "country": "United States",
       "lat": 39.960643,
       "lon": -75.172808,
       "source": "http://www.wikidata.org/entity/Q28130698",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Rousseau%20-%20Scouts%20Attacked%20by%20a%20Tiger%20%28%C3%89claireurs%20attaqu%C3%A9s%20par%20un%20tigre%29%20-%20BF584%20-%20Barnes%20Foundation.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -392,19 +408,20 @@
       "attribution": "Accepted",
       "artistId": "henri-rousseau",
       "artistName": "Henri Rousseau",
-      "locationId": "barnes-foundation-merion-station",
+      "locationId": "barnes-foundation-philadelphia",
       "location": "Barnes Foundation",
-      "city": "Merion Station",
+      "city": "Philadelphia",
       "country": "United States",
       "lat": 39.960643,
       "lon": -75.172808,
       "source": "http://www.wikidata.org/entity/Q28130705",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Rousseau%20-%20Study%20for%20View%20of%20the%20Pont%20de%20S%C3%A8vres%20%28Esquisse%20pour%20Vue%20du%20Pont%20de%20S%C3%A8vres%29%20-%20BF861%20-%20Barnes%20Foundation.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -425,10 +442,11 @@
       "source": "http://www.wikidata.org/entity/Q28130689",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Rousseau%20-%20The%20Family%20%28La%20Famille%29%20-%20BF581%20-%20Barnes%20Foundation.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -449,10 +467,11 @@
       "source": "http://www.wikidata.org/entity/Q28130692",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Rousseau%20-%20The%20Laundry%20Boat%20of%20Pont%20de%20Charenton%20%28Le%20Bateau-lavoir%20du%20Pont%20de%20Charenton%29%20-%20BF856%20-%20Barnes%20Foundation.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -473,10 +492,11 @@
       "source": "http://www.wikidata.org/entity/Q28130693",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Rousseau%20-%20The%20Past%20and%20the%20Present%2C%20or%20Philosophical%20Thought%20%28Le%20Pass%C3%A9%20et%20le%20pr%C3%A9sent%2C%20ou%20Pens%C3%A9e%20philosophique%29%20-%20BF582%20-%20Barnes%20Foundation.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -488,19 +508,20 @@
       "attribution": "Accepted",
       "artistId": "henri-rousseau",
       "artistName": "Henri Rousseau",
-      "locationId": "barnes-foundation-merion-station",
+      "locationId": "barnes-foundation-philadelphia",
       "location": "Barnes Foundation",
-      "city": "Merion Station",
+      "city": "Philadelphia",
       "country": "United States",
       "lat": 39.960643,
       "lon": -75.172808,
       "source": "http://www.wikidata.org/entity/Q28130703",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Rousseau%20-%20The%20Rabbit%27s%20Meal%20%28Le%20Repas%20du%20lapin%29%20-%20BF578%20-%20Barnes%20Foundation.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -512,19 +533,20 @@
       "attribution": "Accepted",
       "artistId": "henri-rousseau",
       "artistName": "Henri Rousseau",
-      "locationId": "barnes-foundation-merion-station",
+      "locationId": "barnes-foundation-philadelphia",
       "location": "Barnes Foundation",
-      "city": "Merion Station",
+      "city": "Philadelphia",
       "country": "United States",
       "lat": 39.960643,
       "lon": -75.172808,
       "source": "http://www.wikidata.org/entity/Q28130697",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Rousseau%20-%20Unpleasant%20Surprise%20%28Mauvaise%20surprise%29%20-%20BF281%20-%20Barnes%20Foundation.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -536,19 +558,20 @@
       "attribution": "Accepted",
       "artistId": "henri-rousseau",
       "artistName": "Henri Rousseau",
-      "locationId": "barnes-foundation-merion-station",
+      "locationId": "barnes-foundation-philadelphia",
       "location": "Barnes Foundation",
-      "city": "Merion Station",
+      "city": "Philadelphia",
       "country": "United States",
       "lat": 39.960643,
       "lon": -75.172808,
       "source": "http://www.wikidata.org/entity/Q28130702",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Rousseau%20-%20View%20of%20Montsouris%20Park%2C%20the%20Kiosk%20%28Vue%20du%20Parc%20Montsouris%2C%20Le%20Kiosque%29%20-%20BF570%20-%20Barnes%20Foundation.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -560,19 +583,20 @@
       "attribution": "Accepted",
       "artistId": "henri-rousseau",
       "artistName": "Henri Rousseau",
-      "locationId": "barnes-foundation-merion-station",
+      "locationId": "barnes-foundation-philadelphia",
       "location": "Barnes Foundation",
-      "city": "Merion Station",
+      "city": "Philadelphia",
       "country": "United States",
       "lat": 39.960643,
       "lon": -75.172808,
       "source": "http://www.wikidata.org/entity/Q28130696",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Rousseau%20-%20View%20of%20the%20Quai%20d%27%20Asni%C3%A8res%20%28Vue%20du%20quai%20d%27Asni%C3%A8res%29%2C%20also%20called%20The%20Canal%20and%20Landscape%20with%20Tree%20Trunks%20%28Le%20Canal%20and%20Paysage%20avec%20troncs%20d%27arbre%29%20-%20BF583%20-%20Barnes%20Foundation.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -584,19 +608,20 @@
       "attribution": "Accepted",
       "artistId": "henri-rousseau",
       "artistName": "Henri Rousseau",
-      "locationId": "barnes-foundation-merion-station",
+      "locationId": "barnes-foundation-philadelphia",
       "location": "Barnes Foundation",
-      "city": "Merion Station",
+      "city": "Philadelphia",
       "country": "United States",
       "lat": 39.960643,
       "lon": -75.172808,
       "source": "http://www.wikidata.org/entity/Q28130699",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Rousseau%20-%20Woman%20Walking%20in%20an%20Exotic%20Forest%20%28Femme%20se%20promenant%20dans%20une%20for%C3%AAt%20exotique%29%20-%20BF388%20-%20Barnes%20Foundation.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -608,19 +633,20 @@
       "attribution": "Accepted",
       "artistId": "henri-rousseau",
       "artistName": "Henri Rousseau",
-      "locationId": "barnes-foundation-merion-station",
+      "locationId": "barnes-foundation-philadelphia",
       "location": "Barnes Foundation",
-      "city": "Merion Station",
+      "city": "Philadelphia",
       "country": "United States",
       "lat": 39.960643,
       "lon": -75.172808,
       "source": "http://www.wikidata.org/entity/Q28130701",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Rousseau%20-%20Woman%20with%20Basket%20of%20Eggs%20%28La%20Femme%20au%20panier%20d%27%C5%93ufs%29%20-%20BF544%20-%20Barnes%20Foundation.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -641,10 +667,11 @@
       "source": "http://www.wikidata.org/entity/Q7741023",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Rousseau%20%E2%80%94%20The%20Hungry%20Lion%20Throws%20Itself%20on%20the%20Antelope.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -665,10 +692,11 @@
       "source": "http://www.wikidata.org/entity/Q19859054",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Brooklyn%20Museum%20-%20Self-Portrait%20-%20Henri-Julien-F%C3%A9lix%20Rousseau%20called%20Le%20Douanier%20Rousseau.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -689,10 +717,11 @@
       "source": "http://www.wikidata.org/entity/Q124413256",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20-%20Village%20Landscape%20with%20Figures%2C%20ca.%201895-1910%2C%2067.24.13.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -713,10 +742,11 @@
       "source": "http://www.wikidata.org/entity/Q77476060",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Rousseau%20-%20Flowers%20in%20a%20Vase%20-%20RCA1939-17%20-%20Albright%E2%80%93Knox%20Art%20Gallery.tiff",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -737,10 +767,11 @@
       "source": "http://www.wikidata.org/entity/Q42883372",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Rousseau%20-%20House%20on%20the%20Outskirts%20of%20Paris%20%28Pittsburgh%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -761,10 +792,11 @@
       "source": "http://www.wikidata.org/entity/Q60515648",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Rousseau%20-%20Fight%20between%20a%20Tiger%20and%20a%20Buffalo%20-%201949.186%20-%20Cleveland%20Museum%20of%20ArtFXD.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -785,10 +817,11 @@
       "source": "http://www.wikidata.org/entity/Q60513324",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Rousseau%20-%20Outskirts%20of%20Paris%20-%201929.951%20-%20Cleveland%20Museum%20of%20Art.tif",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -809,10 +842,11 @@
       "source": "http://www.wikidata.org/entity/Q64516645",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Rousseau%20-%20A%20Corner%20of%20the%20Park%20at%20Bellevue%2C%20Autumn%2C%20Sunset%20%28Un%20Coin%20du%20plateau%20de%20Bellevue.%20automne%2C%20soleil%20couchant%29%20-%2077.114%20-%20Rhode%20Island%20School%20of%20Design%20Museum.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -833,10 +867,11 @@
       "source": "http://www.wikidata.org/entity/Q34616265",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Rousseau%20-%20Banks%20of%20the%20Oise.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -857,10 +892,11 @@
       "source": "http://www.wikidata.org/entity/Q4952174",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Rousseau%2C%20Boy%20on%20the%20Rocks%2C%201895-1897%2C%20NGA%2046538.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -881,15 +917,16 @@
       "source": "http://www.wikidata.org/entity/Q64513919",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Rousseau%20-%20Flowers%20in%20a%20Vase%20-%2042.220%20-%20Rhode%20Island%20School%20of%20Design%20Museum.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
     {
-      "id": "Q65508791",
+      "id": "Q65356819",
       "title": "La Guerre (The War)",
       "date": "1895",
       "type": "Painting",
@@ -902,13 +939,14 @@
       "country": "United States",
       "lat": 38.891388888,
       "lon": -77.02,
-      "source": "http://www.wikidata.org/entity/Q65508791",
+      "source": "http://www.wikidata.org/entity/Q65356819",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Rousseau%2C%20La%20Guerre%20%28The%20War%29%2C%20c.%201895%2C%20NGA%2048656.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Rousseau%2C%20La%20Guerre%20%28The%20War%29%2C%201895%2C%20NGA%2039156.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -929,10 +967,11 @@
       "source": "http://www.wikidata.org/entity/Q20190029",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rendezvous%20in%20the%20Forest%20A10387.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -953,10 +992,11 @@
       "source": "http://www.wikidata.org/entity/Q64573674",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Rousseau%2C%20Self-Portrait%2C%201895%2C%20NGA%2093029.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -977,10 +1017,11 @@
       "source": "http://www.wikidata.org/entity/Q19973313",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Rousseau%2C%20The%20Equatorial%20Jungle%2C%201909%2C%20NGA%2046688.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1001,10 +1042,11 @@
       "source": "http://www.wikidata.org/entity/Q20191494",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Rousseau%2C%20Tropical%20Forest%20with%20Monkeys%2C%201910%2C%20NGA%2061253.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1025,10 +1067,11 @@
       "source": "http://www.wikidata.org/entity/Q81759308",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Rousseau%20-%20The%20tiger%20hunt.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1049,10 +1092,11 @@
       "source": "http://www.wikidata.org/entity/Q62676187",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Customs%20Post%20by%20Henri%20Rousseau%20c1890.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1073,10 +1117,11 @@
       "source": "http://www.wikidata.org/entity/Q79133934",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Rousseau%20-%20Stroller%20and%20Child%20-%201963.83.FA%20-%20Dallas%20Museum%20of%20Art.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1097,10 +1142,11 @@
       "source": "http://www.wikidata.org/entity/Q64576476",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1121,10 +1167,11 @@
       "source": "http://www.wikidata.org/entity/Q64559643",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1145,10 +1192,11 @@
       "source": "http://www.wikidata.org/entity/Q81571496",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Rousseau%20-%20Rue%20en%20Banlieu.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1169,10 +1217,11 @@
       "source": "http://www.wikidata.org/entity/Q91421785",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Landscape%20with%20Watermill%20%28Henri%20Rousseau%29%20-%20Gothenburg%20Museum%20of%20Art%20-%20GKM%200735.tif",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1193,10 +1242,11 @@
       "source": "http://www.wikidata.org/entity/Q92640633",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Rousseau%20-%20Landscape%20with%20church%20spire.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1217,10 +1267,11 @@
       "source": "http://www.wikidata.org/entity/Q94178496",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20-%20Eva%20im%20irdischen%20Paradies%2C%20um%201906-07%2C%20HK-2992.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1241,10 +1292,11 @@
       "source": "http://www.wikidata.org/entity/Q70781292",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Rousseau%20-%20The%20Banks%20of%20the%20Oise%20-%201951.67%20-%20Fogg%20Museum.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1265,10 +1317,11 @@
       "source": "http://www.wikidata.org/entity/Q21725368",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Rousseau%20-%20In%20a%20Tropical%20Forest.%20Struggle%20between%20Tiger%20and%20Bull.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1289,10 +1342,11 @@
       "source": "http://www.wikidata.org/entity/Q21727971",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Rousseau%20-%20The%20Luxembourg%20Gardens.%20Monument%20to%20Shopin.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1313,10 +1367,11 @@
       "source": "http://www.wikidata.org/entity/Q27967991",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%27View%20of%20the%20Fortifications%20from%20the%20Porte%20de%20Vanves%27%20by%20Henri%20Rousseau%2C%201909%2C%20Hermitage.JPG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1337,10 +1392,11 @@
       "source": "http://www.wikidata.org/entity/Q83179710",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Rousseau%20-%20Vue%20des%20fortifications%20%28V%2090a%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1361,10 +1417,11 @@
       "source": "http://www.wikidata.org/entity/Q126075958",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Rousseau%20-%20Paysage%2C%20le%20pont.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1385,10 +1442,11 @@
       "source": "http://www.wikidata.org/entity/Q76628496",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Rousseau%20-%20Famille%20p%C3%AAchant%20%28esquisse%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1409,10 +1467,11 @@
       "source": "http://www.wikidata.org/entity/Q76627271",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1433,10 +1492,11 @@
       "source": "http://www.wikidata.org/entity/Q12842489",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Rousseau%20%28French%29%20-%20A%20Centennial%20of%20Independence%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1448,19 +1508,20 @@
       "attribution": "Accepted",
       "artistId": "henri-rousseau",
       "artistName": "Henri Rousseau",
-      "locationId": "kunsthaus-zurich-district-1",
+      "locationId": "kunsthaus-zurich-zurich",
       "location": "Kunsthaus Zürich",
-      "city": "District 1",
+      "city": "Zurich",
       "country": "Switzerland",
       "lat": 47.370277777,
       "lon": 8.548055555,
       "source": "http://www.wikidata.org/entity/Q3399446",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Rousseau%20-%20Portrait%20de%20Monsieur%20X.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1481,10 +1542,11 @@
       "source": "http://www.wikidata.org/entity/Q97924813",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Rousseau%20-%20La%20Promenade%20dans%20la%20for%C3%AAt%20-%202479%20-%20Kunsthaus%20Z%C3%BCrich.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1505,10 +1567,11 @@
       "source": "http://www.wikidata.org/entity/Q94636940",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1529,10 +1592,11 @@
       "source": "http://www.wikidata.org/entity/Q59511250",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20muse%20inspirant%20le%20po%C3%A8te.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1553,10 +1617,11 @@
       "source": "http://www.wikidata.org/entity/Q94636943",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Rousseau%20-%20Foret%20vierge%20au%20soleil%20couchant.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1577,10 +1642,11 @@
       "source": "http://www.wikidata.org/entity/Q123706351",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1592,19 +1658,20 @@
       "attribution": "Accepted",
       "artistId": "henri-rousseau",
       "artistName": "Henri Rousseau",
-      "locationId": "kunstmuseum-winterthur-beim-stadthaus-canton-of-zurich",
+      "locationId": "kunstmuseum-winterthur-beim-stadthaus-winterthur",
       "location": "Kunstmuseum Winterthur | Beim Stadthaus",
-      "city": "Canton of Zurich",
+      "city": "Winterthur",
       "country": "Switzerland",
       "lat": 47.50176,
       "lon": 8.73004,
       "source": "http://www.wikidata.org/entity/Q114692652",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20-%20Zur%20Feier%20des%20Kindes.jpeg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1625,10 +1692,11 @@
       "source": "http://www.wikidata.org/entity/Q122387825",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Rousseau%20-%20Vue%20de%20la%20passerelle%20de%20Passy%20%28bords%20de%20la%20Seine%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1649,10 +1717,11 @@
       "source": "http://www.wikidata.org/entity/Q122389468",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20-%20Vue%20du%20Pont%20de%20Grenelle%2C%20Trocadero%20%28Veduta%20del%20ponte%20Grenelle%2C%20Trocadero%29%2C%201891%20circa.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1673,10 +1742,11 @@
       "source": "http://www.wikidata.org/entity/Q67089143",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Landscape%20Milkmaids%20Nima.JPG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1692,15 +1762,16 @@
       "location": "Menard Art Museum",
       "city": "Komaki",
       "country": "Japan",
-      "lat": 35.288899,
-      "lon": 136.91978,
+      "lat": 35.288883,
+      "lon": 136.919837,
       "source": "http://www.wikidata.org/entity/Q96216693",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Rousseau%20-%20Landscape%20with%20Factory.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1721,10 +1792,11 @@
       "source": "http://www.wikidata.org/entity/Q113669665",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Rousseau%20-%20Apes%20in%20the%20Orange%20Grove.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1745,10 +1817,11 @@
       "source": "http://www.wikidata.org/entity/Q19912798",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Banks%20of%20the%20Bi%C3%A8vre%20near%20Bic%C3%AAtre%20MET%20DT232877.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1769,10 +1842,11 @@
       "source": "http://www.wikidata.org/entity/Q19912313",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Repast%20of%20the%20Lion%20MET%20DT50.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1793,10 +1867,11 @@
       "source": "http://www.wikidata.org/entity/Q97931292",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Vue%20du%20pont%20de%20Grenelle%20Henri%20Rousseau.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1817,10 +1892,11 @@
       "source": "http://www.wikidata.org/entity/Q3207251",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/HENRI%20ROUSSEAU%20-%20La%20Encantadora%20de%20Serpientes%20%28Museo%20de%20Orsay%2C%20Par%C3%ADs%2C%201907.%20%C3%93leo%20sobre%20lienzo%2C%20169%20x%20189.5%20cm%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1841,10 +1917,11 @@
       "source": "http://www.wikidata.org/entity/Q3778533",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Rousseau%20-%20La%20guerre.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1865,10 +1942,11 @@
       "source": "http://www.wikidata.org/entity/Q17495264",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Rousseau%2C%20known%20as%20le%20Douanier%20-%20Portrait%20of%20Madame%20M%3B%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1889,10 +1967,11 @@
       "source": "http://www.wikidata.org/entity/Q113677575",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20-%20Promeneurs%20dans%20un%20parc%2C%20entre%201900%20et%201910%2C%20RF%201963%2030.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1913,10 +1992,11 @@
       "source": "http://www.wikidata.org/entity/Q21849357",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Rousseau%2C%20dit%20le%20Douanier%20-%20The%20Wedding%20Party%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1937,10 +2017,11 @@
       "source": "http://www.wikidata.org/entity/Q97940397",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Rousseau%20-%20Bataille%20de%20Champigny%20-%20Episode%20de%20la%20guerre%20de%201870.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1961,10 +2042,11 @@
       "source": "http://www.wikidata.org/entity/Q52114843",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Rousseau%20-%20Portrait%20de%20Frumence%20Biche%20en%20civil.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1985,10 +2067,11 @@
       "source": "http://www.wikidata.org/entity/Q73120913",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Fran%C3%A7oise%20Foliot%20-%20Henri%20Rousseau%20-%20L%27Artiste%20peignant%20sa%20femme.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2009,10 +2092,11 @@
       "source": "http://www.wikidata.org/entity/Q120731613",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Nature%20morte%20aux%20cerises%2C%20par%20Henri%20Rousseau.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2033,10 +2117,11 @@
       "source": "http://www.wikidata.org/entity/Q18938468",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Rousseau%2C%20Der%20H%C3%BChnerhof%2C%201896-1898.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2057,10 +2142,11 @@
       "source": "http://www.wikidata.org/entity/Q57514732",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Rousseau%20-%20Portrait%20of%20a%20Woman%20%281895%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2081,10 +2167,11 @@
       "source": "http://www.wikidata.org/entity/Q20031614",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20de%20l%27artiste%20%C3%A0%20la%20lampe%20-%20Henri%20Rousseau%20-%20Mus%C3%A9e%20Picasso%20Paris.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2105,10 +2192,11 @@
       "source": "http://www.wikidata.org/entity/Q20031611",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20de%20la%20seconde%20femme%20de%20l%27artiste%20-%20Henri%20Rousseau%20-%20Mus%C3%A9e%20Picasso%20Paris.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2129,10 +2217,11 @@
       "source": "http://www.wikidata.org/entity/Q60668363",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Rousseau%20-%20The%20Representatives%20of%20Foreign%20Powers%20Coming%20to%20Greet%20the%20Republic%20as%20a%20Sign%20of%20Peace.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2153,10 +2242,11 @@
       "source": "http://www.wikidata.org/entity/Q20540106",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Julian%20F%C3%A9lix%20Rousseau%20-%20Lake%20of%20Geneva%20%28Lac%20Leman%29%20-%2048.598%20-%20Museum%20of%20Fine%20Arts.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2177,10 +2267,11 @@
       "source": "http://www.wikidata.org/entity/Q19018229",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Rousseau%20-%20The%20Eiffel%20Tower%20-%2098.299%20-%20Museum%20of%20Fine%20Arts.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2196,15 +2287,16 @@
       "location": "Museum of Modern Art",
       "city": "Manhattan",
       "country": "United States",
-      "lat": 40.761444444,
-      "lon": -73.977611111,
+      "lat": 40.761666666,
+      "lon": -73.9775,
       "source": "http://www.wikidata.org/entity/Q19883469",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Rousseau%20-%20Bouquet%20of%20Flowers%20with%20an%20Ivy%20Branch%20%28V%20232b%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2220,15 +2312,16 @@
       "location": "Museum of Modern Art",
       "city": "Manhattan",
       "country": "United States",
-      "lat": 40.761444444,
-      "lon": -73.977611111,
+      "lat": 40.761666666,
+      "lon": -73.9775,
       "source": "http://www.wikidata.org/entity/Q548141",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Rousseau%20005.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2244,15 +2337,16 @@
       "location": "Museum of Modern Art",
       "city": "Manhattan",
       "country": "United States",
-      "lat": 40.761444444,
-      "lon": -73.977611111,
+      "lat": 40.761666666,
+      "lon": -73.9775,
       "source": "http://www.wikidata.org/entity/Q1219263",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20Boh%C3%A9mienne%20endormie.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2273,10 +2367,11 @@
       "source": "http://www.wikidata.org/entity/Q27968265",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Rousseau%20-%20Statue%20de%20Diane%20au%20Parc%20%28Statue%20of%20Diana%20in%20the%20Park%29%20-%20GMA%204078%20-%20National%20Galleries%20of%20Scotland.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2297,10 +2392,11 @@
       "source": "http://www.wikidata.org/entity/Q28538241",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Rousseau%20-%20Bouquet%20of%20Flowers%20%28Tate%20Gallery%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2321,10 +2417,11 @@
       "source": "http://www.wikidata.org/entity/Q114413926",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Rousseau%20-%20Portrait%20of%20Joseph%20Brummer.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2345,10 +2442,11 @@
       "source": "http://www.wikidata.org/entity/Q960447",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Surprised-Rousseau.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2369,10 +2467,11 @@
       "source": "http://www.wikidata.org/entity/Q27954713",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20du%20p%C3%A8re%20de%20l%27artiste%20-%20Henri%20Rousseau.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2393,10 +2492,11 @@
       "source": "http://www.wikidata.org/entity/Q133814888",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2417,10 +2517,11 @@
       "source": "http://www.wikidata.org/entity/Q113669703",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%2C%20Exotic%20Landscape%20%281910%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2441,10 +2542,11 @@
       "source": "http://www.wikidata.org/entity/Q28796183",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Rousseau%20-%20Scene%20in%20Bagneux%20on%20the%20Outskirts%20of%20Paris%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2465,10 +2567,11 @@
       "source": "http://www.wikidata.org/entity/Q3549784",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri-Julien-F%C3%A9lix%20Rousseau%2C%20French%20-%20Carnival%20Evening%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2489,10 +2592,11 @@
       "source": "http://www.wikidata.org/entity/Q20816795",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Rousseau%20-%20Landscape%20%28Philadelphia%20Museum%20of%20Art%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2513,10 +2617,11 @@
       "source": "http://www.wikidata.org/entity/Q20816796",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Rousseau%20-%20Landscape%20with%20Cattle.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2528,19 +2633,20 @@
       "attribution": "Accepted",
       "artistId": "henri-rousseau",
       "artistName": "Henri Rousseau",
-      "locationId": "philadelphia-museum-of-art-philadelphia",
+      "locationId": "philadelphia-museum-of-art-philadelphia-county",
       "location": "Philadelphia Museum of Art",
-      "city": "Philadelphia",
+      "city": "Philadelphia County",
       "country": "United States",
       "lat": 39.965833333,
       "lon": -75.181388888,
       "source": "http://www.wikidata.org/entity/Q20816797",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Rousseau%20-%20Still%20Life%20with%20Flowers%20%28V%20St.%2014%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2561,10 +2667,11 @@
       "source": "http://www.wikidata.org/entity/Q15805823",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20-%20The%20Merry%20Jesters%2C%201906%2C%201950-134-176.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2576,19 +2683,20 @@
       "attribution": "Accepted",
       "artistId": "henri-rousseau",
       "artistName": "Henri Rousseau",
-      "locationId": "philadelphia-museum-of-art-philadelphia",
+      "locationId": "philadelphia-museum-of-art-philadelphia-county",
       "location": "Philadelphia Museum of Art",
-      "city": "Philadelphia",
+      "city": "Philadelphia County",
       "country": "United States",
       "lat": 39.965833333,
       "lon": -75.181388888,
       "source": "http://www.wikidata.org/entity/Q20816799",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Rousseau%20-%20Village%20Street.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2600,19 +2708,20 @@
       "attribution": "Accepted",
       "artistId": "henri-rousseau",
       "artistName": "Henri Rousseau",
-      "locationId": "philadelphia-museum-of-art-philadelphia",
+      "locationId": "philadelphia-museum-of-art-philadelphia-county",
       "location": "Philadelphia Museum of Art",
-      "city": "Philadelphia",
+      "city": "Philadelphia County",
       "country": "United States",
       "lat": 39.965833333,
       "lon": -75.181388888,
       "source": "http://www.wikidata.org/entity/Q20816800",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Rousseau%20-%20Young%20Girl%20in%20Pink.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2633,10 +2742,11 @@
       "source": "http://www.wikidata.org/entity/Q79790913",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Rousseau%20-%20Charenton-le-Pont.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2657,10 +2767,11 @@
       "source": "http://www.wikidata.org/entity/Q79790899",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Rousseau%20-%20Eve%20in%20the%20Garden%20of%20Eden.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2681,10 +2792,11 @@
       "source": "http://www.wikidata.org/entity/Q79790902",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Rousseau%20-%20Jungle%20with%20Lion.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2705,10 +2817,11 @@
       "source": "http://www.wikidata.org/entity/Q79790897",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Rousseau%20-%20Landscape%20with%20ruins.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2729,10 +2842,11 @@
       "source": "http://www.wikidata.org/entity/Q79790906",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Rousseau%20-%20Landscape%20with%20the%20Dirigible%20Republique%20and%20a%20Wright%20Airplane.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2753,10 +2867,11 @@
       "source": "http://www.wikidata.org/entity/Q19018285",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Rousseau%20-%20Seine%20und%20Eiffelturm%20in%20der%20Abendsonne%20-%201910.jpeg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2777,10 +2892,11 @@
       "source": "http://www.wikidata.org/entity/Q79790911",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Rousseau%20-%20The%20Moulin%20d%27Alfort.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2801,10 +2917,11 @@
       "source": "http://www.wikidata.org/entity/Q113660988",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Rousseau%2C%201910%2C%20Cheval%20attaqu%C3%A9%20par%20un%20jaguar%20%28Jaguar%20Attacking%20a%20Horse%29%2C%20oil%20on%20canvas%2C%20116%20x%2090%20cm%2C%20Pushkin%20Museum.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2825,10 +2942,11 @@
       "source": "http://www.wikidata.org/entity/Q4305932",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20Muse%20inspirant%20le%20po%C3%A8te.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2849,10 +2967,11 @@
       "source": "http://www.wikidata.org/entity/Q97930897",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Rousseau%20-%20Vue%20de%20pont%20de%20S%C3%A8vres.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2864,19 +2983,20 @@
       "attribution": "Accepted",
       "artistId": "henri-rousseau",
       "artistName": "Henri Rousseau",
-      "locationId": "santa-barbara-museum-of-art-santa-barbara",
+      "locationId": "santa-barbara-museum-of-art-santa-barbara-county",
       "location": "Santa Barbara Museum of Art",
-      "city": "Santa Barbara",
+      "city": "Santa Barbara County",
       "country": "United States",
       "lat": 34.4228,
       "lon": -119.703,
       "source": "http://www.wikidata.org/entity/Q70140566",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2897,10 +3017,11 @@
       "source": "http://www.wikidata.org/entity/Q107447921",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%2C%20Henri%20-%20The%20Beauty%20and%20The%20Beast%20-%20Sammlung%20Scharf%20Gerstenberg%20Berlin%20-%201908.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2921,10 +3042,11 @@
       "source": "http://www.wikidata.org/entity/Q133467619",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2945,10 +3067,11 @@
       "source": "http://www.wikidata.org/entity/Q19882985",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Rousseau%20-%20Les%20artilleurs.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2969,10 +3092,11 @@
       "source": "http://www.wikidata.org/entity/Q19882986",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Rousseau%20-%20The%20Football%20Players.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2993,10 +3117,11 @@
       "source": "http://www.wikidata.org/entity/Q90598775",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Rousseau%20%281844-1910%29%20-%20Child%20with%20a%20Doll%20in%20a%20Landscape%20-%2082-1963%20-%20Southampton%20City%20Art%20Gallery.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3017,10 +3142,11 @@
       "source": "http://www.wikidata.org/entity/Q64799322",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Avenue%20in%20Saint-Cloud%20Park%20%28SM%20sg404%29.png",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3041,10 +3167,11 @@
       "source": "http://www.wikidata.org/entity/Q3831743",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Rousseau%20-%20Liberty%20Inviting%20Artists%20to%20Take%20Part%20in%20the%2022nd%20Exhibition%20of%20the%20Societe%20des%20Artistes%20Independants.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3065,10 +3192,11 @@
       "source": "http://www.wikidata.org/entity/Q23940202",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Rousseau%20-%20Notre%20Dame%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3089,10 +3217,11 @@
       "source": "http://www.wikidata.org/entity/Q23940693",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Rousseau%20-%20The%20Pink%20Candle%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3113,10 +3242,11 @@
       "source": "http://www.wikidata.org/entity/Q66985814",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3137,10 +3267,11 @@
       "source": "http://www.wikidata.org/entity/Q85225265",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Rousseau%20-%20Tropical%20Landscape%2C%20American%20Indian%20Struggling%20with%20a%20Gorilla%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3161,10 +3292,11 @@
       "source": "http://www.wikidata.org/entity/Q49252391",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Rousseau%20-%20Banana%20Harvest%20-%202014.60.2%20-%20Yale%20University%20Art%20Gallery.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3185,10 +3317,11 @@
       "source": "http://www.wikidata.org/entity/Q49252322",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Rousseau%20-%20Le%20canal%20-%201980.12.12%20-%20Yale%20University%20Art%20Gallery.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q156386",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     }

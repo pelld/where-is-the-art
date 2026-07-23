@@ -3,6 +3,82 @@
   "country": "Greece",
   "artworks": [
     {
+      "id": "Q18226707",
+      "artistId": "el-greco",
+      "artistName": "El Greco",
+      "reviewStatus": "generated",
+      "title": "Pietà",
+      "date": "1580",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "collection-stavros-niarchos-athens",
+      "location": "Collection Stavros Niarchos",
+      "city": "Athens",
+      "country": "Greece",
+      "lat": 37.98123,
+      "lon": 23.75566,
+      "source": "http://www.wikidata.org/entity/Q18226707",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieta%20el%20greco.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Greco%20-%20Portrait%20of%20a%20Man%20-%20WGA10554.jpg"
+    },
+    {
+      "id": "Q103843132",
+      "artistId": "el-greco",
+      "artistName": "El Greco",
+      "reviewStatus": "generated",
+      "title": "The Tears of Saint Peter",
+      "date": "1600",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "collection-stavros-niarchos-athens",
+      "location": "Collection Stavros Niarchos",
+      "city": "Athens",
+      "country": "Greece",
+      "lat": 37.98123,
+      "lon": 23.75566,
+      "source": "http://www.wikidata.org/entity/Q103843132",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Greco%20-%20Saint%20Peter%20%28Stavros%20Niarchos%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Greco%20-%20Portrait%20of%20a%20Man%20-%20WGA10554.jpg"
+    },
+    {
+      "id": "Q3211447",
+      "artistId": "paul-cezanne",
+      "artistName": "Paul Cézanne",
+      "reviewStatus": "generated",
+      "title": "La Pendule noire (The Black Marble Clock)",
+      "date": "1869",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "collection-stavros-niarchos-athens",
+      "location": "Collection Stavros Niarchos",
+      "city": "Athens",
+      "country": "Greece",
+      "lat": 37.98123,
+      "lon": 23.75566,
+      "source": "http://www.wikidata.org/entity/Q3211447",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20Pendule%20noire%2C%20par%20Paul%20C%C3%A9zanne.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul-Cezanne.jpg"
+    },
+    {
+      "id": "Q11328772",
+      "artistId": "van-gogh",
+      "artistName": "Vincent van Gogh",
+      "reviewStatus": "generated",
+      "title": "Portrait of Patience Escalier",
+      "date": "1888",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "collection-stavros-niarchos-athens",
+      "location": "Collection Stavros Niarchos",
+      "city": "Athens",
+      "country": "Greece",
+      "lat": 37.98123,
+      "lon": 23.75566,
+      "source": "http://www.wikidata.org/entity/Q11328772",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Van%20Gogh%20-%20Bildnis%20Patience%20Escalier2.jpeg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Self-portrait%20-%20Vincent%20van%20Gogh.jpg"
+    },
+    {
       "id": "Q17436685",
       "artistId": "monet",
       "artistName": "Claude Monet",
@@ -17,7 +93,9 @@
       "country": "Greece",
       "lat": 37.969824762,
       "lon": 23.74259963,
-      "source": "http://www.wikidata.org/entity/Q17436685"
+      "source": "http://www.wikidata.org/entity/Q17436685",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Portail%20effet%20de%20matin%20W1353.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%201899%20Nadar%20crop.jpg"
     },
     {
       "id": "Q96241051",
@@ -34,7 +112,9 @@
       "country": "Greece",
       "lat": 37.969824762,
       "lon": 23.74259963,
-      "source": "http://www.wikidata.org/entity/Q96241051"
+      "source": "http://www.wikidata.org/entity/Q96241051",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Braque%2C%201908%2C%20photograph%20published%20in%20Gelett%20Burgess%2C%20The%20Wild%20Men%20of%20Paris%2C%20Architectural%20Record%2C%20May%201910.jpg"
     },
     {
       "id": "Q96241056",
@@ -51,7 +131,9 @@
       "country": "Greece",
       "lat": 37.969824762,
       "lon": 23.74259963,
-      "source": "http://www.wikidata.org/entity/Q96241056"
+      "source": "http://www.wikidata.org/entity/Q96241056",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Toulouse-Lautrec%20-%20Woman%20in%20Monsieur%20Forest%27s%20Garden%2C%201891.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Photolautrec.jpg"
     },
     {
       "id": "Q96241053",
@@ -68,7 +150,9 @@
       "country": "Greece",
       "lat": 37.969824762,
       "lon": 23.74259963,
-      "source": "http://www.wikidata.org/entity/Q96241053"
+      "source": "http://www.wikidata.org/entity/Q96241053",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Shagal%20Choumoff.jpg"
     },
     {
       "id": "Q96241044",
@@ -85,7 +169,9 @@
       "country": "Greece",
       "lat": 37.969824762,
       "lon": 23.74259963,
-      "source": "http://www.wikidata.org/entity/Q96241044"
+      "source": "http://www.wikidata.org/entity/Q96241044",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/C%C3%A9zanne%20-%20FWN%20176.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul-Cezanne.jpg"
     },
     {
       "id": "Q96241042",
@@ -102,7 +188,9 @@
       "country": "Greece",
       "lat": 37.969824762,
       "lon": 23.74259963,
-      "source": "http://www.wikidata.org/entity/Q96241042"
+      "source": "http://www.wikidata.org/entity/Q96241042",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/C%C3%A9zanne%20-%20FWN%20471.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul-Cezanne.jpg"
     },
     {
       "id": "Q52268439",
@@ -119,7 +207,9 @@
       "country": "Greece",
       "lat": 37.969824762,
       "lon": 23.74259963,
-      "source": "http://www.wikidata.org/entity/Q52268439"
+      "source": "http://www.wikidata.org/entity/Q52268439",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/PaulGauguin-1901-Still%20Life%20with%20Grapefruits.png",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Gauguin%201891.png"
     },
     {
       "id": "Q96241049",
@@ -136,7 +226,9 @@
       "country": "Greece",
       "lat": 37.969824762,
       "lon": 23.74259963,
-      "source": "http://www.wikidata.org/entity/Q96241049"
+      "source": "http://www.wikidata.org/entity/Q96241049",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Self-portrait-1889.jpg"
     },
     {
       "id": "Q15711253",
@@ -153,7 +245,9 @@
       "country": "Greece",
       "lat": 37.97593889,
       "lon": 23.74040833,
-      "source": "http://www.wikidata.org/entity/Q15711253"
+      "source": "http://www.wikidata.org/entity/Q15711253",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Greco%20-%20The%20Adoration%20of%20the%20Magi%20-%20Google%20Art%20Project%20%28721007%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Greco%20-%20Portrait%20of%20a%20Man%20-%20WGA10554.jpg"
     },
     {
       "id": "Q9396918",
@@ -170,7 +264,9 @@
       "country": "Greece",
       "lat": 37.97593889,
       "lon": 23.74040833,
-      "source": "http://www.wikidata.org/entity/Q9396918"
+      "source": "http://www.wikidata.org/entity/Q9396918",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Greco%20-%20St%20Luke%20Painting%20the%20Virgin%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Greco%20-%20Portrait%20of%20a%20Man%20-%20WGA10554.jpg"
     },
     {
       "id": "Q66622410",
@@ -187,7 +283,9 @@
       "country": "Greece",
       "lat": 37.9830099,
       "lon": 23.7193483,
-      "source": "http://www.wikidata.org/entity/Q66622410"
+      "source": "http://www.wikidata.org/entity/Q66622410",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Greco%20-%20Christ%20on%20the%20Cross%20with%20the%20Two%20Maries%20and%20St%20John%20-%20WGA10470.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Greco%20-%20Portrait%20of%20a%20Man%20-%20WGA10554.jpg"
     },
     {
       "id": "Q16622060",
@@ -204,7 +302,9 @@
       "country": "Greece",
       "lat": 37.986722222,
       "lon": 23.77825,
-      "source": "http://www.wikidata.org/entity/Q16622060"
+      "source": "http://www.wikidata.org/entity/Q16622060",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/El-greco%20st.peter.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Greco%20-%20Portrait%20of%20a%20Man%20-%20WGA10554.jpg"
     },
     {
       "id": "Q5781032",
@@ -221,7 +321,9 @@
       "country": "Greece",
       "lat": 37.986722222,
       "lon": 23.77825,
-      "source": "http://www.wikidata.org/entity/Q5781032"
+      "source": "http://www.wikidata.org/entity/Q5781032",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Greco%20-%20The%20Concert%20of%20the%20Angels%2C%20ca%201608-1614%2C%20%CE%A0.152.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Greco%20-%20Portrait%20of%20a%20Man%20-%20WGA10554.jpg"
     },
     {
       "id": "Q6121364",
@@ -238,7 +340,9 @@
       "country": "Greece",
       "lat": 37.986722222,
       "lon": 23.77825,
-      "source": "http://www.wikidata.org/entity/Q6121364"
+      "source": "http://www.wikidata.org/entity/Q6121364",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Greco%2003.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Greco%20-%20Portrait%20of%20a%20Man%20-%20WGA10554.jpg"
     },
     {
       "id": "Q88889029",
@@ -255,7 +359,9 @@
       "country": "Greece",
       "lat": 37.986722222,
       "lon": 23.77825,
-      "source": "http://www.wikidata.org/entity/Q88889029"
+      "source": "http://www.wikidata.org/entity/Q88889029",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%22Mounted%20Greek%20Warrior%22%20%281856%29%20-%20Eugene%20Delacroix.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Autoportrait%20-%20Eug%C3%A8ne%20Delacroix%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20RF%2025.jpg"
     },
     {
       "id": "Q102255832",
@@ -272,7 +378,9 @@
       "country": "Greece",
       "lat": 37.986722222,
       "lon": 23.77825,
-      "source": "http://www.wikidata.org/entity/Q102255832"
+      "source": "http://www.wikidata.org/entity/Q102255832",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Piet%20Mondriaan%20-%20Stammer%20mill%20with%20summer%20house%20-%202691%20-%20National%20Gallery%20of%20Athens.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Piet%20Mondriaan.jpg"
     },
     {
       "id": "Q88900262",
@@ -289,7 +397,9 @@
       "country": "Greece",
       "lat": 37.986722222,
       "lon": 23.77825,
-      "source": "http://www.wikidata.org/entity/Q88900262"
+      "source": "http://www.wikidata.org/entity/Q88900262",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rosa%20Bonheur%20-%20Two%20Horses%20-%20National%20Gallery%20of%20Greece.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Andr%C3%A9%20Adolphe-Eug%C3%A8ne%20Disd%C3%A9ri%20%28French%20-%20%28Rosa%20Bonheur%29%20-%20Google%20Art%20Project.jpg"
     },
     {
       "id": "Q105578072",
@@ -306,7 +416,9 @@
       "country": "Greece",
       "lat": 35.34180556,
       "lon": 25.13116667,
-      "source": "http://www.wikidata.org/entity/Q105578072"
+      "source": "http://www.wikidata.org/entity/Q105578072",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Greco%20-%20Baptism%20of%20Christ%202004%20CKS%2006967%200091%20091243.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Greco%20-%20Portrait%20of%20a%20Man%20-%20WGA10554.jpg"
     },
     {
       "id": "Q16556314",
@@ -323,7 +435,9 @@
       "country": "Greece",
       "lat": 35.34180556,
       "lon": 25.13116667,
-      "source": "http://www.wikidata.org/entity/Q16556314"
+      "source": "http://www.wikidata.org/entity/Q16556314",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Greco%20-%20Mount%20Sinai%20-%20WGA10419.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Greco%20-%20Portrait%20of%20a%20Man%20-%20WGA10554.jpg"
     },
     {
       "id": "Q3078569",
@@ -340,7 +454,9 @@
       "country": "Greece",
       "lat": 37.4465,
       "lon": 24.9451,
-      "source": "http://www.wikidata.org/entity/Q3078569"
+      "source": "http://www.wikidata.org/entity/Q3078569",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Dormition%20El%20Greco.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Greco%20-%20Portrait%20of%20a%20Man%20-%20WGA10554.jpg"
     },
     {
       "id": "Q42349624",
@@ -357,7 +473,9 @@
       "country": "Greece",
       "lat": 40.65811711,
       "lon": 22.93099881,
-      "source": "http://www.wikidata.org/entity/Q42349624"
+      "source": "http://www.wikidata.org/entity/Q42349624",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Farmhouse%20%28Malevich%2C%20ca.%201905%E2%80%9306%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg"
     }
   ]
 }

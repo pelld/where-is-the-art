@@ -17,7 +17,9 @@
       "country": "South Africa",
       "lat": -33.928984,
       "lon": 18.417174,
-      "source": "http://www.wikidata.org/entity/Q110792964"
+      "source": "http://www.wikidata.org/entity/Q110792964",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Gainsborough%20by%20Thomas%20Gainsborough.jpg"
     },
     {
       "id": "Q60607747",
@@ -34,7 +36,9 @@
       "country": "South Africa",
       "lat": -26.197,
       "lon": 28.0471,
-      "source": "http://www.wikidata.org/entity/Q60607747"
+      "source": "http://www.wikidata.org/entity/Q60607747",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Alfred%20Sisley%20-%20River%20Banks%20at%20Veneux%20-%20Johannesburg%20Art%20Gallery.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20110.jpg"
     },
     {
       "id": "Q60607407",
@@ -51,7 +55,9 @@
       "country": "South Africa",
       "lat": -26.197,
       "lon": 28.0471,
-      "source": "http://www.wikidata.org/entity/Q60607407"
+      "source": "http://www.wikidata.org/entity/Q60607407",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Pissarro%20-%20The%20Forest%20-%20Johannesburg%20Art%20Gallery.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg"
     },
     {
       "id": "Q60606924",
@@ -68,7 +74,9 @@
       "country": "South Africa",
       "lat": -26.197,
       "lon": 28.0471,
-      "source": "http://www.wikidata.org/entity/Q60606924"
+      "source": "http://www.wikidata.org/entity/Q60606924",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%20-%20Springtime%20-%20Johannesburg%20Art%20Gallery.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%201899%20Nadar%20crop.jpg"
     },
     {
       "id": "Q60607689",
@@ -85,7 +93,9 @@
       "country": "South Africa",
       "lat": -26.197,
       "lon": 28.0471,
-      "source": "http://www.wikidata.org/entity/Q60607689"
+      "source": "http://www.wikidata.org/entity/Q60607689",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Signac%20-%20La%20Rochelle%2C%20Leaving%20the%20harbourg%20-%20Johannesburg%20Art%20Gallery.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Seurat%20Paul%20Signac.jpg"
     }
   ]
 }

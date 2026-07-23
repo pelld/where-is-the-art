@@ -17,7 +17,9 @@
       "country": "New Zealand",
       "lat": -36.851354,
       "lon": 174.766237,
-      "source": "http://www.wikidata.org/entity/Q27877136"
+      "source": "http://www.wikidata.org/entity/Q27877136",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Giuseppe%20Crespi%20-%20The%20Scorning%20of%20Christ%20%28Christ%20Mocked%29%20-%201887-1-48%20-%20Auckland%20Art%20Gallery.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Anthony%20van%20Dyck%20-%20Self-portrait.jpg"
     },
     {
       "id": "Q27881836",
@@ -34,7 +36,9 @@
       "country": "New Zealand",
       "lat": -36.851354,
       "lon": 174.766237,
-      "source": "http://www.wikidata.org/entity/Q27881836"
+      "source": "http://www.wikidata.org/entity/Q27881836",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Murillo%20-%20Saint%20Joseph%20with%20the%20Infant%20Saviour%20%28Angels%20in%20the%20Clouds%29%20-%201927-2-3%20-%20Auckland%20Art%20Gallery.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg"
     },
     {
       "id": "Q27883272",
@@ -51,7 +55,9 @@
       "country": "New Zealand",
       "lat": -36.851354,
       "lon": 174.766237,
-      "source": "http://www.wikidata.org/entity/Q27883272"
+      "source": "http://www.wikidata.org/entity/Q27883272",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%20-%20Le%20pont%20japonais%20%28Japanese%20Bridge%29%20-%20L2016-18-1%20-%20Auckland%20Art%20Gallery.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%201899%20Nadar%20crop.jpg"
     },
     {
       "id": "Q27877032",
@@ -68,7 +74,9 @@
       "country": "New Zealand",
       "lat": -36.851354,
       "lon": 174.766237,
-      "source": "http://www.wikidata.org/entity/Q27877032"
+      "source": "http://www.wikidata.org/entity/Q27877032",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Giovanni%20Battista%20Tiepolo%20-%20Two%20Saints%20in%20Adoration%20-%201967-19-19%20-%20Auckland%20Art%20Gallery.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Tiepolo%2C%20Giovanni%20Battista%20-%20Fresken%20Treppenhaus%20des%20W%C3%BCrzburger%20Residenzschlosses%2C%20Szenen%20zur%20Apotheose%20des%20F%C3%BCrstbischofs%2C%20Detail%20Giovanni%20Battista%20Tiepolo%20-%201750-1753.jpg"
     },
     {
       "id": "Q27882897",
@@ -85,7 +93,9 @@
       "country": "New Zealand",
       "lat": -36.851354,
       "lon": 174.766237,
-      "source": "http://www.wikidata.org/entity/Q27882897"
+      "source": "http://www.wikidata.org/entity/Q27882897",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Giovanni%20Bellini%20-%20Copy%20of%20the%20Painting%20of%20the%20Transfiguration%20-%20U-164%20-%20Auckland%20Art%20Gallery.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Portr%C3%A6t%20af%20den%20venezianske%20maler%20Giovanni%20Bellini.jpg"
     },
     {
       "id": "Q27883390",
@@ -102,7 +112,9 @@
       "country": "New Zealand",
       "lat": -36.851354,
       "lon": 174.766237,
-      "source": "http://www.wikidata.org/entity/Q27883390"
+      "source": "http://www.wikidata.org/entity/Q27883390",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymous%20Bosch%20-%20The%20Temptation%20of%20Saint%20Anthony%20-%20U-269%20-%20Auckland%20Art%20Gallery.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg"
     },
     {
       "id": "Q27882610",
@@ -119,7 +131,9 @@
       "country": "New Zealand",
       "lat": -36.851354,
       "lon": 174.766237,
-      "source": "http://www.wikidata.org/entity/Q27882610"
+      "source": "http://www.wikidata.org/entity/Q27882610",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%20-%20The%20Wreck%20of%20a%20transport%20ship%20-%20M1956-1%20-%20Auckland%20Art%20Gallery.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%20auto-retrato.jpg"
     },
     {
       "id": "Q27876779",
@@ -136,7 +150,9 @@
       "country": "New Zealand",
       "lat": -36.851354,
       "lon": 174.766237,
-      "source": "http://www.wikidata.org/entity/Q27876779"
+      "source": "http://www.wikidata.org/entity/Q27876779",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%20-%20Yachting%20at%20Cowes%20-%201955-15%20-%20Auckland%20Art%20Gallery.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%20auto-retrato.jpg"
     },
     {
       "id": "Q27882920",
@@ -153,7 +169,9 @@
       "country": "New Zealand",
       "lat": -36.851354,
       "lon": 174.766237,
-      "source": "http://www.wikidata.org/entity/Q27882920"
+      "source": "http://www.wikidata.org/entity/Q27882920",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Constable%20by%20Daniel%20Gardner%2C%201796.JPG"
     },
     {
       "id": "Q27882731",
@@ -170,7 +188,9 @@
       "country": "New Zealand",
       "lat": -36.851354,
       "lon": 174.766237,
-      "source": "http://www.wikidata.org/entity/Q27882731"
+      "source": "http://www.wikidata.org/entity/Q27882731",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lavinia%20Fontana%20-%20Portrait%20of%20a%20Lady%20with%20a%20Dog%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lavinia%20Fontana%20-%20Autoritratto%20%28ca.%201577-85%29.jpg"
     },
     {
       "id": "Q27881992",
@@ -187,7 +207,9 @@
       "country": "New Zealand",
       "lat": -36.851354,
       "lon": 174.766237,
-      "source": "http://www.wikidata.org/entity/Q27881992"
+      "source": "http://www.wikidata.org/entity/Q27881992",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Gainsborough%20-%20George%20Lavington%2C%20Bishop%20of%20Exeter%20-%20M1960-1%20-%20Auckland%20Art%20Gallery.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Gainsborough%20by%20Thomas%20Gainsborough.jpg"
     },
     {
       "id": "Q27882729",
@@ -204,7 +226,9 @@
       "country": "New Zealand",
       "lat": -36.851354,
       "lon": 174.766237,
-      "source": "http://www.wikidata.org/entity/Q27882729"
+      "source": "http://www.wikidata.org/entity/Q27882729",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Gainsborough%20by%20Thomas%20Gainsborough.jpg"
     },
     {
       "id": "Q27877156",
@@ -221,7 +245,9 @@
       "country": "New Zealand",
       "lat": -36.851354,
       "lon": 174.766237,
-      "source": "http://www.wikidata.org/entity/Q27877156"
+      "source": "http://www.wikidata.org/entity/Q27877156",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Gainsborough%20-%20Portrait%20of%20John%20Sparrowe%20Esq%20-%20M1956-2-1%20-%20Auckland%20Art%20Gallery.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Gainsborough%20by%20Thomas%20Gainsborough.jpg"
     },
     {
       "id": "Q64597083",
@@ -238,7 +264,9 @@
       "country": "New Zealand",
       "lat": -45.87451,
       "lon": 170.50281,
-      "source": "http://www.wikidata.org/entity/Q64597083"
+      "source": "http://www.wikidata.org/entity/Q64597083",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%27La%20D%C3%A9b%C3%A2cle%27%2C%20oil%20on%20canvas%20painting%20by%20Monet%2C%201880%2C%20Dunedin%20Public%20Art%20Gallery.JPG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%201899%20Nadar%20crop.jpg"
     },
     {
       "id": "Q28473785",
@@ -255,7 +283,9 @@
       "country": "New Zealand",
       "lat": -41.290555555,
       "lon": 174.781944444,
-      "source": "http://www.wikidata.org/entity/Q28473785"
+      "source": "http://www.wikidata.org/entity/Q28473785",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste-Camille%20Corot%20c1850.png"
     },
     {
       "id": "Q138330299",
@@ -272,7 +302,9 @@
       "country": "New Zealand",
       "lat": -41.290555555,
       "lon": 174.781944444,
-      "source": "http://www.wikidata.org/entity/Q138330299"
+      "source": "http://www.wikidata.org/entity/Q138330299",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Musique%20diurne%2C%201940%20-%20Paul%20Klee.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Klee%201911.jpg"
     },
     {
       "id": "Q102037266",
@@ -289,7 +321,9 @@
       "country": "New Zealand",
       "lat": -39.93121667,
       "lon": 175.05332222,
-      "source": "http://www.wikidata.org/entity/Q102037266"
+      "source": "http://www.wikidata.org/entity/Q102037266",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rosa%20Bonheur%20-%20The%20Returned%20Relay%20-%20Sarjeant%20Gallery.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Andr%C3%A9%20Adolphe-Eug%C3%A8ne%20Disd%C3%A9ri%20%28French%20-%20%28Rosa%20Bonheur%29%20-%20Google%20Art%20Project.jpg"
     }
   ]
 }

@@ -17,10 +17,11 @@
       "source": "http://www.wikidata.org/entity/Q3220656",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Le%20Buffet%20-%20Jean%20Baptiste%20Sim%C3%A9on%20Chardin%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20INV%203198.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -41,10 +42,11 @@
       "source": "http://www.wikidata.org/entity/Q3212142",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20Raie%20-%20Jean%20Baptiste%20Sim%C3%A9on%20Chardin%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20INV%203197.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -65,10 +67,11 @@
       "source": "http://www.wikidata.org/entity/Q67515670",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20-%20Still%20Life%20with%20a%20Rib%20of%20Beef%2C%201739.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -84,15 +87,16 @@
       "location": "Art Gallery of Ontario",
       "city": "Toronto",
       "country": "Canada",
-      "lat": 43.653613,
-      "lon": -79.39278,
+      "lat": 43.653611111,
+      "lon": -79.392777777,
       "source": "http://www.wikidata.org/entity/Q116241565",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Sim%C3%A9on%20Chardin%20-%20Jar%20of%20Apricots%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -113,10 +117,11 @@
       "source": "http://www.wikidata.org/entity/Q20275876",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Baptiste%20Sim%C3%A9on%20Chardin%20-%20The%20White%20Tablecloth%20-%201944.699%20-%20Art%20Institute%20of%20Chicago.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -137,10 +142,11 @@
       "source": "http://www.wikidata.org/entity/Q119499687",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste%20Sim%C3%A9on%20Chardin%20%281699-1779%29%20%28after%29%20-%20Auguste-Gabriel%20Godefroy%20%28L%27enfant%20au%20toton%29%20-%20WA1957.47%20-%20Ashmolean%20Museum.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -160,11 +166,12 @@
       "lon": -1.26056,
       "source": "http://www.wikidata.org/entity/Q91350276",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste%20Sim%C3%A9on%20Chardin%20%281699-1779%29%20-%20Still%20Life%20of%20Kitchen%20Utensils%20-%20WA1927.3%20-%20Ashmolean%20Museum.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20-%20Still%20Life%20of%20Kitchen%20Utensils%2C%20c.%201733%E2%80%931734.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -185,10 +192,11 @@
       "source": "http://www.wikidata.org/entity/Q138413709",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20-%20Still%20Life%20with%20Herrings%2C%20circa%201731.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -209,10 +217,11 @@
       "source": "http://www.wikidata.org/entity/Q138392195",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20%28after%29%20-%20Auguste-Gabriel%20Godefroy%20%28L%27enfant%20au%20toton%29%2C%20WA1957.47.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -233,10 +242,11 @@
       "source": "http://www.wikidata.org/entity/Q71328895",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Knucklebones.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -257,10 +267,11 @@
       "source": "http://www.wikidata.org/entity/Q138412816",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20-%20Still%20Life%20with%20Copper%20Pot%2C%20Cabbage%2C%20Pestle%2C%20and%20Stove%2C%20Between%201732%20and%201740.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -281,10 +292,11 @@
       "source": "http://www.wikidata.org/entity/Q138414360",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20-%20The%20Copper%20Water%20Urn%2C%201732%E2%80%931740.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -305,10 +317,11 @@
       "source": "http://www.wikidata.org/entity/Q138412963",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20-%20Woman%20Doing%20Wash%20%28The%20Washerwoman%29%2C%201732%E2%80%931740.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -329,10 +342,11 @@
       "source": "http://www.wikidata.org/entity/Q138412976",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20-%20Woman%20Drawing%20Water%20from%20a%20Water%20Urn%2C%201732%E2%80%931740.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -353,15 +367,16 @@
       "source": "http://www.wikidata.org/entity/Q28795858",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste%20Sim%C3%A9on%20Chardin%20017.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
     {
-      "id": "Q87780394",
+      "id": "Q87780390",
       "title": "Still Life",
       "date": "1750",
       "type": "Painting",
@@ -374,13 +389,14 @@
       "country": "United Kingdom",
       "lat": 55.830936581,
       "lon": -4.307726421,
-      "source": "http://www.wikidata.org/entity/Q87780394",
+      "source": "http://www.wikidata.org/entity/Q87780390",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20-%20Still%20Life%2C%2035.58.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20-%20Still%20Life%2C%2035.55.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -401,10 +417,11 @@
       "source": "http://www.wikidata.org/entity/Q87780388",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20-%20Still%20Life%2C%20circa%201728-1730%2C%2035.54.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -425,10 +442,11 @@
       "source": "http://www.wikidata.org/entity/Q87780396",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20-%20The%20Ray%2C%20c.1728.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -449,10 +467,11 @@
       "source": "http://www.wikidata.org/entity/Q42877986",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Sim%C3%A9on%20Chardin%20-%20Water%20Glass%20and%20Jug%20-%20WGA04775.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -473,10 +492,11 @@
       "source": "http://www.wikidata.org/entity/Q138427302",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Sim%C3%A9on%20Chardin%20-%20Sealing%20the%20Letter%20-%20WGA04745.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -497,10 +517,11 @@
       "source": "http://www.wikidata.org/entity/Q138412283",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20-%20Basket%20of%20Plums%2C%201765.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -521,10 +542,11 @@
       "source": "http://www.wikidata.org/entity/Q104774556",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Sim%C3%A9on%20Chardin%20-%20Cooking%20Pots%20and%20Ladle%20with%20a%20White%20Cloth%20-%201975.17%20-%20Clark%20Art%20Institute.tiff",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -545,10 +567,11 @@
       "source": "http://www.wikidata.org/entity/Q104774555",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Sim%C3%A9on%20Chardin%20-%20Kitchen%20Utensils%20and%20Three%20Herrings%20or%20Whitings%20-%201975.16%20-%20Clark%20Art%20Institute.tiff",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -569,10 +592,11 @@
       "source": "http://www.wikidata.org/entity/Q60474697",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Clevelandart%201980.37.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -593,10 +617,11 @@
       "source": "http://www.wikidata.org/entity/Q60472554",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Clevelandart%201974.1.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -617,10 +642,11 @@
       "source": "http://www.wikidata.org/entity/Q20177825",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Fruit%2C%20Jug%2C%20and%20a%20Glass%20A12318.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -641,10 +667,11 @@
       "source": "http://www.wikidata.org/entity/Q20177882",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Sim%C3%A9on%20Chardin%20-%20Soap%20Bubbles%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -665,10 +692,11 @@
       "source": "http://www.wikidata.org/entity/Q20178264",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Still%20Life%20with%20a%20White%20Mug%20E10391.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -689,10 +717,11 @@
       "source": "http://www.wikidata.org/entity/Q20178038",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Sim%C3%A9on%20Chardin%20-%20Still-Life%20with%20Pheasant%20-%20WGA04771.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -713,10 +742,11 @@
       "source": "http://www.wikidata.org/entity/Q75868711",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Still%20Life%20with%20Ray%20and%20Basket%20of%20Onions%20-%20Jean%20Sim%C3%A9on%20Chardin%20-%20Google%20Cultural%20Institute.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -737,10 +767,11 @@
       "source": "http://www.wikidata.org/entity/Q12859917",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Sim%C3%A9on%20Chardin%2C%20The%20House%20of%20Cards%2C%20probably%201737%2C%20NGA%2097.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -761,10 +792,11 @@
       "source": "http://www.wikidata.org/entity/Q20177902",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Sim%C3%A9on%20Chardin%2C%20The%20Kitchen%20Maid%2C%201738%2C%20NGA%2041650.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -785,10 +817,11 @@
       "source": "http://www.wikidata.org/entity/Q20177928",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Little%20Schoolmistress%20A12328.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -809,10 +842,11 @@
       "source": "http://www.wikidata.org/entity/Q20177905",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Scullery%20Maid%20A34443.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -833,10 +867,11 @@
       "source": "http://www.wikidata.org/entity/Q125454650",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Sim%C3%A9on%20Chardin%20-%20Le%20Melon%20entam%C3%A9%20%281760%29.png",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -857,10 +892,11 @@
       "source": "http://www.wikidata.org/entity/Q27896517",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%2C%20Jean-Sim%C3%A9on%20-%20Vegetables%20for%20the%20Soup%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -881,10 +917,11 @@
       "source": "http://www.wikidata.org/entity/Q28797811",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Sim%C3%A9on%20Chardin%20-%20Young%20Student%20Drawing%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -905,10 +942,11 @@
       "source": "http://www.wikidata.org/entity/Q28060849",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/J.B.S.%20Chardin%20-%20Meisje%20in%20keuken%20-%20NK3243%20-%20Cultural%20Heritage%20Agency%20of%20the%20Netherlands%20Art%20Collection.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -929,10 +967,11 @@
       "source": "http://www.wikidata.org/entity/Q138414351",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20-%20The%20Bird-Song%20Organ%20or%20Lady%20Varying%20Her%20Amusements%2C%20about%201751.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -953,10 +992,11 @@
       "source": "http://www.wikidata.org/entity/Q64547398",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20-%20Still%20Life%2C%20ca.%201732%2C%2070.164.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -977,10 +1017,11 @@
       "source": "http://www.wikidata.org/entity/Q64548329",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20-%20Still%20Life%20with%20Dead%20Hare%2C%20ca.%201760.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1001,10 +1042,11 @@
       "source": "http://www.wikidata.org/entity/Q96748467",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/After%20Chardin%20-%20Still%20Life%20with%20a%20Ray%2C%201743%2C%20HC.P.1936.38.%28O%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1025,10 +1067,11 @@
       "source": "http://www.wikidata.org/entity/Q96748466",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20-%20Still%20Life%20with%20a%20Rib%20of%20Beef%2C%201743%2C%20HC.P.1936.39.%28O%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1049,10 +1092,11 @@
       "source": "http://www.wikidata.org/entity/Q87413370",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1073,10 +1117,11 @@
       "source": "http://www.wikidata.org/entity/Q138412820",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20-%20Portrait%20of%20a%20Man%2C%201773%2C%201939.89.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1097,10 +1142,11 @@
       "source": "http://www.wikidata.org/entity/Q107437341",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste%20Sim%C3%A9on%20Chardin%20%282.11.1699%20-%206.12.1779%29%20-%20Still%20life%20with%20a%20copper%20kettle%2C%20bottle%2C%20bowl%20with%20eggs%20and%20two%20leek%20plants%20-%201669%20-%20Gem%C3%A4ldegalerie.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1121,10 +1167,11 @@
       "source": "http://www.wikidata.org/entity/Q107443352",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste%20Sim%C3%A9on%20Chardin%20%282.11.1699%20-%206.12.1779%29%20-%20Still%20Life%20with%20a%20dead%20Pheasant%20and%20a%20Hunting%20Bag%20-%201944%20-%20Gem%C3%A4ldegalerie.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1145,10 +1192,11 @@
       "source": "http://www.wikidata.org/entity/Q47011187",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Der%20Zeichner%20-%20Gem%C3%A4ldegalerie%20Berlin%20-%204931123.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1169,10 +1217,11 @@
       "source": "http://www.wikidata.org/entity/Q133699366",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1193,10 +1242,11 @@
       "source": "http://www.wikidata.org/entity/Q106867340",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20-%20Blind%20Beggar%2C%201943.217.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1217,10 +1267,11 @@
       "source": "http://www.wikidata.org/entity/Q26921370",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Sim%C3%A9on%20Chardin%20-%20The%20Prayer%20before%20Meal%20-%20WGA04770.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1241,10 +1292,11 @@
       "source": "http://www.wikidata.org/entity/Q6038776",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%2C%20Jean-Baptiste%20Sim%C3%A9on%20-%20Still%20Life%20with%20Attributes%20of%20the%20Arts%20-%201766.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1265,10 +1317,11 @@
       "source": "http://www.wikidata.org/entity/Q15973749",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Sim%C3%A9on%20Chardin%20-%20The%20Laundress%20-%20WGA04761.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1289,17 +1342,18 @@
       "source": "http://www.wikidata.org/entity/Q27902235",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Sim%C3%A9on%20Chardin%20-%20Woman%20Taking%20Tea%20-%20WGA04749.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
     {
       "id": "Q8028687",
       "title": "The Cellar Boy",
-      "date": "1736",
+      "date": "1738",
       "type": "Painting",
       "attribution": "Accepted",
       "artistId": "jean-baptiste-simeon-chardin",
@@ -1313,10 +1367,11 @@
       "source": "http://www.wikidata.org/entity/Q8028687",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste%20Sim%C3%A9on%20Chardin%20-%20Le%20gar%C3%A7on%20de%20cave%20%28Hunterian%20Art%20Gallery%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1337,10 +1392,11 @@
       "source": "http://www.wikidata.org/entity/Q84513785",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste%20Sim%C3%A9on%20Chardin%20-%20La%20fille%20de%20cuisine%20%28Hunterian%20Art%20Gallery%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1361,10 +1417,11 @@
       "source": "http://www.wikidata.org/entity/Q133730959",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1385,10 +1442,11 @@
       "source": "http://www.wikidata.org/entity/Q20178619",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Sim%C3%A9on%20Chardin%20-%20Still%20Life%20with%20Fish%2C%20Vegetables%2C%20Goug%C3%A8res%2C%20Pots%2C%20and%20Cruets%20on%20a%20Table%20-%202003.13%20-%20J.%20Paul%20Getty%20Museum.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1409,10 +1467,11 @@
       "source": "http://www.wikidata.org/entity/Q20184729",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Sim%C3%A9on%20Chardin%20-%20Still%20Life%20with%20Peaches%2C%20a%20Silver%20Goblet%2C%20Grapes%2C%20and%20Walnuts%20-%2086.PA.544%20-%20J.%20Paul%20Getty%20Museum.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1433,10 +1492,11 @@
       "source": "http://www.wikidata.org/entity/Q108888330",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste%20Sim%C3%A9on%20Chardin%20018.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1457,10 +1517,11 @@
       "source": "http://www.wikidata.org/entity/Q20881587",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Soap%20Bubbles%20LACMA%20M.79.251.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1481,10 +1542,11 @@
       "source": "http://www.wikidata.org/entity/Q28113529",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20-%20Still%20Life%20with%20Copper%20Pot%2C%20Cheese%20and%20Eggs%2C%20c.%201730%20-%201735.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1505,10 +1567,11 @@
       "source": "http://www.wikidata.org/entity/Q19911699",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Soap%20Bubbles%20MET%20DP356133.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1529,10 +1592,11 @@
       "source": "http://www.wikidata.org/entity/Q110653861",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Soap%20Bubbles%20MET%20DP356133.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1553,10 +1617,11 @@
       "source": "http://www.wikidata.org/entity/Q19911959",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Sim%C3%A9on%20Chardin%20-%20La%20Soupi%C3%A8re%20en%20argent.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1577,10 +1642,11 @@
       "source": "http://www.wikidata.org/entity/Q85567670",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1601,10 +1667,11 @@
       "source": "http://www.wikidata.org/entity/Q20890804",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste-Sim%C3%A9on%20Chardin%20-%20The%20Attributes%20of%20the%20Arts%20and%20the%20Rewards%20Which%20Are%20Accorded%20Them%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1625,10 +1692,11 @@
       "source": "http://www.wikidata.org/entity/Q67403860",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20-%20Nature%20morte%20%C3%A0%20la%20raie%20et%20au%20panier%20d%E2%80%99oignons%2C%201731.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1649,10 +1717,11 @@
       "source": "http://www.wikidata.org/entity/Q104373051",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20-%20La%20Partie%20de%20billard%2C%20Vers%201720%2C%20P2081.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1673,10 +1742,11 @@
       "source": "http://www.wikidata.org/entity/Q97651318",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%2C%20Jean-Sim%C3%A9on%20-%20Nature%20morte%20au%20chaudron%20de%20cuivre%20-%20J%2019%20-%20Mus%C3%A9e%20Cognacq-Jay.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1697,10 +1767,11 @@
       "source": "http://www.wikidata.org/entity/Q17495909",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Sim%C3%A9on%20Chardin%20-%20Nature%20morte.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1721,10 +1792,11 @@
       "source": "http://www.wikidata.org/entity/Q122011644",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste%20Sim%C3%A9on%20Chardin%20-%20nature%20morte%20%28perdreau%2C%20b%C3%A9casse%2C%20vanneau%2C%20perdrix%20rouge%2C%20bigarade%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1745,34 +1817,11 @@
       "source": "http://www.wikidata.org/entity/Q138412981",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20lievremort-chasse.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q93897340",
-      "title": "Untitled record",
-      "date": "1730",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "jean-baptiste-simeon-chardin",
-      "artistName": "Jean-Baptiste-Siméon Chardin",
-      "locationId": "musee-de-la-chasse-et-de-la-nature-3rd-arrondissement-of-paris",
-      "location": "Musée de la Chasse et de la Nature",
-      "city": "3rd arrondissement of Paris",
-      "country": "France",
-      "lat": 48.86111111,
-      "lon": 2.35861111,
-      "source": "http://www.wikidata.org/entity/Q93897340",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Sim%C3%A9on%20Chardin%20-%20Un%20canard%20col-vert%20attach%C3%A9%20%C3%A0%20la%20muraille%20et%20une%20bigarade.JPG",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1793,10 +1842,36 @@
       "source": "http://www.wikidata.org/entity/Q115674204",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20-%20Wildenstein%201969%2C%2039.png",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q93897340",
+      "title": "Untitled record",
+      "date": "1730",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jean-baptiste-simeon-chardin",
+      "artistName": "Jean-Baptiste-Siméon Chardin",
+      "locationId": "musee-de-la-chasse-et-de-la-nature-3rd-arrondissement-of-paris",
+      "location": "Musée de la Chasse et de la Nature",
+      "city": "3rd arrondissement of Paris",
+      "country": "France",
+      "lat": 48.86111111,
+      "lon": 2.35861111,
+      "source": "http://www.wikidata.org/entity/Q93897340",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Sim%C3%A9on%20Chardin%20-%20Un%20canard%20col-vert%20attach%C3%A9%20%C3%A0%20la%20muraille%20et%20une%20bigarade.JPG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q207447",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1817,58 +1892,11 @@
       "source": "http://www.wikidata.org/entity/Q105434936",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Sim%C3%A9on%20Chardin%20-%20Still-Life%20with%20Two%20Rabbits%20-%20WGA04772.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q112056948",
-      "title": "Untitled record",
-      "date": "1732",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "jean-baptiste-simeon-chardin",
-      "artistName": "Jean-Baptiste-Siméon Chardin",
-      "locationId": "musee-de-picardie-amiens",
-      "location": "Musée de Picardie",
-      "city": "Amiens",
-      "country": "France",
-      "lat": 49.8905,
-      "lon": 2.2953,
-      "source": "http://www.wikidata.org/entity/Q112056948",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%28Toulouse%29%20Nature%20morte%20avec%20chaudron%2C%20po%C3%AAlon%2C%20fourneau%2C%20torchon%2C%20chou%2C%20deux%20oeufs%2C%20poireau%2C%20pain%20et%20trois%20harengs%20-%20Jean%20Sim%C3%A9on%20Chardin%20-%20Amiens%2C%20mus%C3%A9e%20de%20Picardie.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q112056946",
-      "title": "Untitled record",
-      "date": "1733",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "jean-baptiste-simeon-chardin",
-      "artistName": "Jean-Baptiste-Siméon Chardin",
-      "locationId": "musee-de-picardie-amiens",
-      "location": "Musée de Picardie",
-      "city": "Amiens",
-      "country": "France",
-      "lat": 49.8905,
-      "lon": 2.2953,
-      "source": "http://www.wikidata.org/entity/Q112056946",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20-%20Nature%20morte%20avec%20deux%20pieds%20de%20c%C3%A9leri%2C%20bo%C3%AEte%20%C3%A0%20%C3%A9pices%2C%20torchon%2C%20terrine%2C%20plat%2C%20%C3%A9cumoire%20et%20morceau%20de%20viande%2C%201732%2C%201733.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1889,34 +1917,61 @@
       "source": "http://www.wikidata.org/entity/Q112056955",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20-%20Nature%20morte%20%C3%A0%20la%20corbeille%20de%20raisins%2C%20avec%20trois%20pommes%2C%20une%20poire%20et%20deux%20massepains%2C%201765.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
     {
-      "id": "Q122262910",
+      "id": "Q112056948",
       "title": "Untitled record",
-      "date": "1764",
+      "date": "1732",
       "type": "Painting",
       "attribution": "Accepted",
       "artistId": "jean-baptiste-simeon-chardin",
       "artistName": "Jean-Baptiste-Siméon Chardin",
-      "locationId": "musee-des-beaux-arts-d-angers-angers",
-      "location": "Musée des Beaux-Arts d'Angers",
-      "city": "Angers",
+      "locationId": "musee-de-picardie-amiens",
+      "location": "Musée de Picardie",
+      "city": "Amiens",
       "country": "France",
-      "lat": 47.468888888,
-      "lon": -0.554722222,
-      "source": "http://www.wikidata.org/entity/Q122262910",
+      "lat": 49.8905,
+      "lon": 2.2953,
+      "source": "http://www.wikidata.org/entity/Q112056948",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20-%20Corbeille%20de%20raisins%2C%20pommes%20et%20poires%20et%20galettes%2C%201764%2C%20MBA%20J%2032%20%28J1881%29P.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%28Toulouse%29%20Nature%20morte%20avec%20chaudron%2C%20po%C3%AAlon%2C%20fourneau%2C%20torchon%2C%20chou%2C%20deux%20oeufs%2C%20poireau%2C%20pain%20et%20trois%20harengs%20-%20Jean%20Sim%C3%A9on%20Chardin%20-%20Amiens%2C%20mus%C3%A9e%20de%20Picardie.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q112056946",
+      "title": "Untitled record",
+      "date": "1733",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jean-baptiste-simeon-chardin",
+      "artistName": "Jean-Baptiste-Siméon Chardin",
+      "locationId": "musee-de-picardie-amiens",
+      "location": "Musée de Picardie",
+      "city": "Amiens",
+      "country": "France",
+      "lat": 49.8905,
+      "lon": 2.2953,
+      "source": "http://www.wikidata.org/entity/Q112056946",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20-%20Nature%20morte%20avec%20deux%20pieds%20de%20c%C3%A9leri%2C%20bo%C3%AEte%20%C3%A0%20%C3%A9pices%2C%20torchon%2C%20terrine%2C%20plat%2C%20%C3%A9cumoire%20et%20morceau%20de%20viande%2C%201732%2C%201733.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q207447",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1937,10 +1992,36 @@
       "source": "http://www.wikidata.org/entity/Q122262911",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20-%20Fruits%2C%20bouteille%2C%20pichet%20et%20massepain%2C%20MBA%20J%2034%20%28J1881%29P.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q122262910",
+      "title": "Untitled record",
+      "date": "1764",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jean-baptiste-simeon-chardin",
+      "artistName": "Jean-Baptiste-Siméon Chardin",
+      "locationId": "musee-des-beaux-arts-d-angers-angers",
+      "location": "Musée des Beaux-Arts d'Angers",
+      "city": "Angers",
+      "country": "France",
+      "lat": 47.468888888,
+      "lon": -0.554722222,
+      "source": "http://www.wikidata.org/entity/Q122262910",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20-%20Corbeille%20de%20raisins%2C%20pommes%20et%20poires%20et%20galettes%2C%201764%2C%20MBA%20J%2032%20%28J1881%29P.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q207447",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1961,10 +2042,11 @@
       "source": "http://www.wikidata.org/entity/Q112056792",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20-%20Nature%20morte%20au%20carr%C3%A9%20de%20viande%2C%201730.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1985,10 +2067,11 @@
       "source": "http://www.wikidata.org/entity/Q97330773",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Beaux-Arts%20de%20Carcassonne%20-%20La%20table%20d%27office%20ou%20Les%20appr%C3%AAts%20d%27un%20d%C3%A9jeuner%201756%20-%20Jean-Sim%C3%A9on%20Chardin%20-%20Joconde04400000593.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2009,10 +2092,11 @@
       "source": "http://www.wikidata.org/entity/Q114744031",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/ChartresMBAChardin%202.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2033,10 +2117,11 @@
       "source": "http://www.wikidata.org/entity/Q114744032",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/ChartresMBAChardin%201.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2057,10 +2142,11 @@
       "source": "http://www.wikidata.org/entity/Q112056831",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20-%20Basket%20of%20Peaches%20and%20Red%20and%20White%20Grapes%20with%20Wine%20Cooler%20and%20Stemmed%20Glass%2C%201759.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2080,35 +2166,12 @@
       "lon": -1.675,
       "source": "http://www.wikidata.org/entity/Q112056834",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste%20Sim%C3%A9on%20Chardin%20-%20Le%20Panier%20de%20Prune.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20-%20Le%20panier%20de%20prune%2C%201759%20vers.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q123550530",
-      "title": "Untitled record",
-      "date": "1701",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "jean-baptiste-simeon-chardin",
-      "artistName": "Jean-Baptiste-Siméon Chardin",
-      "locationId": "musee-des-beaux-arts-de-rennes-rennes",
-      "location": "Musée des Beaux-Arts de Rennes",
-      "city": "Rennes",
-      "country": "France",
-      "lat": 48.109444,
-      "lon": -1.675,
-      "source": "http://www.wikidata.org/entity/Q123550530",
-      "image": "",
-      "externalImage": "",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2129,17 +2192,18 @@
       "source": "http://www.wikidata.org/entity/Q123550435",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
     {
-      "id": "Q123416543",
+      "id": "Q123571244",
       "title": "Untitled record",
-      "date": "1739",
+      "date": "1701",
       "type": "Painting",
       "attribution": "Accepted",
       "artistId": "jean-baptiste-simeon-chardin",
@@ -2150,13 +2214,14 @@
       "country": "France",
       "lat": 48.109444,
       "lon": -1.675,
-      "source": "http://www.wikidata.org/entity/Q123416543",
+      "source": "http://www.wikidata.org/entity/Q123571244",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2177,10 +2242,36 @@
       "source": "http://www.wikidata.org/entity/Q123511978",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q123416543",
+      "title": "Untitled record",
+      "date": "1739",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jean-baptiste-simeon-chardin",
+      "artistName": "Jean-Baptiste-Siméon Chardin",
+      "locationId": "musee-des-beaux-arts-de-rennes-rennes",
+      "location": "Musée des Beaux-Arts de Rennes",
+      "city": "Rennes",
+      "country": "France",
+      "lat": 48.109444,
+      "lon": -1.675,
+      "source": "http://www.wikidata.org/entity/Q123416543",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q207447",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2201,10 +2292,11 @@
       "source": "http://www.wikidata.org/entity/Q115674417",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20-%20Plateau%20de%20p%C3%AAches%20avec%20noix%2C%20raisin%2C%20verre%20de%20vin%20et%20couteau%2C%201758.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2225,10 +2317,11 @@
       "source": "http://www.wikidata.org/entity/Q117217885",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2249,10 +2342,11 @@
       "source": "http://www.wikidata.org/entity/Q138412291",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20-%20Les%20attributs%20des%20Sciences.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2273,10 +2367,11 @@
       "source": "http://www.wikidata.org/entity/Q138412969",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20-%20Wildenstein%201969%2C%20105.png",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2297,10 +2392,11 @@
       "source": "http://www.wikidata.org/entity/Q138391744",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20%28attribu%C3%A9%20%C3%A0%29%20-%20Table%20de%20cuisine%20et%20ustensiles%20avec%20un%20carr%C3%A9%20de%20mouton%2C%20MP2017-11.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2321,10 +2417,11 @@
       "source": "http://www.wikidata.org/entity/Q124703832",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2336,19 +2433,20 @@
       "attribution": "Accepted",
       "artistId": "jean-baptiste-simeon-chardin",
       "artistName": "Jean-Baptiste-Siméon Chardin",
-      "locationId": "musee-thomas-henry-cherbourg-en-cotentin",
+      "locationId": "musee-thomas-henry-cherbourg-octeville",
       "location": "Musée Thomas-Henry",
-      "city": "Cherbourg-en-Cotentin",
+      "city": "Cherbourg-Octeville",
       "country": "France",
       "lat": 49.63722222,
       "lon": -1.62305556,
       "source": "http://www.wikidata.org/entity/Q138414341",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20-%20Table%20de%20cuisine%2C%201746%2C%20835.99.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2369,10 +2467,11 @@
       "source": "http://www.wikidata.org/entity/Q19926097",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Baptiste%20Sim%C3%A9on%20Chardin%20-%20Stilleven%20met%20vruchten%20en%20aardewerken%20kruik%20-%202575%20%28OK%29%20-%20Museum%20Boijmans%20Van%20Beuningen.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2393,34 +2492,11 @@
       "source": "http://www.wikidata.org/entity/Q138412254",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20-%20Le%20b%C3%A9n%C3%A9dict%C3%A9%2C%201761.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q91932517",
-      "title": "Untitled record",
-      "date": "1759",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "jean-baptiste-simeon-chardin",
-      "artistName": "Jean-Baptiste-Siméon Chardin",
-      "locationId": "museum-collection-am-romerholz-winterthur",
-      "location": "Museum collection Am Römerholz",
-      "city": "Winterthur",
-      "country": "Switzerland",
-      "lat": 47.511111111,
-      "lon": 8.731666666,
-      "source": "http://www.wikidata.org/entity/Q91932517",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20-%20Still%20Life%20with%20Water%20Glass%20and%20Fruit%2C%201759.png",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2441,10 +2517,61 @@
       "source": "http://www.wikidata.org/entity/Q91932498",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20-%20Building%20a%20House%20of%20Cards%2C%20c.1737.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q91932517",
+      "title": "Untitled record",
+      "date": "1759",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jean-baptiste-simeon-chardin",
+      "artistName": "Jean-Baptiste-Siméon Chardin",
+      "locationId": "museum-collection-am-romerholz-winterthur",
+      "location": "Museum collection Am Römerholz",
+      "city": "Winterthur",
+      "country": "Switzerland",
+      "lat": 47.511111111,
+      "lon": 8.731666666,
+      "source": "http://www.wikidata.org/entity/Q91932517",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20-%20Still%20Life%20with%20Water%20Glass%20and%20Fruit%2C%201759.png",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q207447",
+        "retrieved": "2026-07-23",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q91932505",
+      "title": "Untitled record",
+      "date": "1759",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jean-baptiste-simeon-chardin",
+      "artistName": "Jean-Baptiste-Siméon Chardin",
+      "locationId": "museum-collection-am-romerholz-stadt",
+      "location": "Museum collection Am Römerholz",
+      "city": "Stadt",
+      "country": "Switzerland",
+      "lat": 47.511111111,
+      "lon": 8.731666666,
+      "source": "http://www.wikidata.org/entity/Q91932505",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20-%20Still%20Life%20with%20Crystal%20Vessel%20and%20Fruit%2C%20c.%201759.png",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q207447",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2465,10 +2592,11 @@
       "source": "http://www.wikidata.org/entity/Q20540444",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Sim%C3%A9on%20Chardin%20-%20Goblet%20and%20Fruit%20-%2048.526%20-%20Museum%20of%20Fine%20Arts.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2489,10 +2617,11 @@
       "source": "http://www.wikidata.org/entity/Q20540452",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Sim%C3%A9on%20Chardin%20-%20Still%20Life%20with%20Teapot%2C%20Grapes%2C%20Chestnuts%2C%20and%20a%20Pear%20-%2083.177%20-%20Museum%20of%20Fine%20Arts.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2513,10 +2642,11 @@
       "source": "http://www.wikidata.org/entity/Q20540447",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Sim%C3%A9on%20Chardin%20-%20The%20Kitchen%20Table.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2537,10 +2667,11 @@
       "source": "http://www.wikidata.org/entity/Q28038944",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Sim%C3%A9on%20Chardin%20-%20Still%20Life%20with%20a%20Leg%20of%20Lamb%20-%20BF.1992.4%20-%20Museum%20of%20Fine%20Arts.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2561,10 +2692,11 @@
       "source": "http://www.wikidata.org/entity/Q28040674",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%2C%20Jean-Sim%C3%A9on%20-%20The%20Good%20Education%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2585,10 +2717,11 @@
       "source": "http://www.wikidata.org/entity/Q18685477",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste%20Sim%C3%A9on%20Chardin%20-%20A%20Vase%20of%20Flowers%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2609,10 +2742,11 @@
       "source": "http://www.wikidata.org/entity/Q27964800",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste%20Sim%C3%A9on%20Chardin%20%281699-1779%29%20-%20Still%20Life%2C%20The%20Kitchen%20Table%20-%20NG%20959%20-%20National%20Galleries%20of%20Scotland.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2633,10 +2767,11 @@
       "source": "http://www.wikidata.org/entity/Q26692567",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste%20Sim%C3%A9on%20Chardin%20%281699-1779%29%20-%20La%20Fontaine%20%28The%20Water%20Cistern%29%20-%20NG1664%20-%20National%20Gallery.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2657,10 +2792,11 @@
       "source": "http://www.wikidata.org/entity/Q26700484",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Imitator%20of%20Chardin%20-%20Still%20Life%20with%20Bottle%2C%20Glass%20and%20Loaf%2C%20NG1258.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2681,10 +2817,11 @@
       "source": "http://www.wikidata.org/entity/Q26708343",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste-Sim%C3%A9on%20Chardin%2C%20The%20House%20of%20Cards%2C%201736-37.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2705,10 +2842,11 @@
       "source": "http://www.wikidata.org/entity/Q26708346",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste%20Sim%C3%A9on%20Chardin%20015.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2729,10 +2867,11 @@
       "source": "http://www.wikidata.org/entity/Q52289225",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20governess.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2748,15 +2887,16 @@
       "location": "National Gallery of Canada",
       "city": "Ottawa",
       "country": "Canada",
-      "lat": 45.429535,
-      "lon": -75.698906,
+      "lat": 45.429434,
+      "lon": -75.698386,
       "source": "http://www.wikidata.org/entity/Q59549970",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2772,15 +2912,16 @@
       "location": "National Gallery of Canada",
       "city": "Ottawa",
       "country": "Canada",
-      "lat": 45.429535,
-      "lon": -75.698906,
+      "lat": 45.429434,
+      "lon": -75.698386,
       "source": "http://www.wikidata.org/entity/Q59508527",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2801,10 +2942,11 @@
       "source": "http://www.wikidata.org/entity/Q138392951",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20-%20A%20Still%20Life%20Two%20Rabbits%2C%20a%20Grey%20Partridge%2C%20Game%20Bag%20and%20a%20Powder%20Flask%2C%201731.png",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2825,10 +2967,11 @@
       "source": "http://www.wikidata.org/entity/Q77969892",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Les%20Tours%20de%20Cartes%20.PNG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2849,10 +2992,11 @@
       "source": "http://www.wikidata.org/entity/Q77982947",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20-%20The%20Schoolmistress%2C%20c.1735.png",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2873,10 +3017,11 @@
       "source": "http://www.wikidata.org/entity/Q138412312",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20-%20Les%20Tours%20de%20Cartes%2C%20c.1735.png",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2897,10 +3042,11 @@
       "source": "http://www.wikidata.org/entity/Q104537262",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste-Sim%C3%A9on%20Chardin%20-%20Still%20life%20with%20kitchen%20utensils%20-%20M.Ob.1318%20MNW%20-%20National%20Museum%20in%20Warsaw.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2921,10 +3067,11 @@
       "source": "http://www.wikidata.org/entity/Q105834803",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20Portrait%20of%20a%20boy.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2945,10 +3092,11 @@
       "source": "http://www.wikidata.org/entity/Q83647655",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20-%20La%20thei%C3%A8re%20blanche%2C%20IG.3147.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2969,10 +3117,11 @@
       "source": "http://www.wikidata.org/entity/Q110797270",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20-%20A%20Boar%27s%20Head%2C%20c.%201725.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2993,10 +3142,11 @@
       "source": "http://www.wikidata.org/entity/Q18602150",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Domestic%20Pleasures%20%28Jean%20Sim%C3%A9on%20Chardin%29%20-%20Nationalmuseum%20-%2017789.tif",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3017,10 +3167,11 @@
       "source": "http://www.wikidata.org/entity/Q110784776",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20-%20La%20Vinaigrette%20%28The%20Sedan%20Chair%29%2C%20NMH%202960.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3041,10 +3192,11 @@
       "source": "http://www.wikidata.org/entity/Q110804950",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20-%20Male%20nude%2C%20NMH%202961.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3065,10 +3217,11 @@
       "source": "http://www.wikidata.org/entity/Q18602148",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rabbit%20and%20Copper%20Pot%20%28Jean%20Sim%C3%A9on%20Chardin%29%20-%20Nationalmuseum%20-%2017788.tif",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3089,10 +3242,11 @@
       "source": "http://www.wikidata.org/entity/Q110784767",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20-%20Servant%20Pouring%20a%20Drink%20for%20a%20Billiard%20Player%2C%20NMH%202962.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3113,10 +3267,11 @@
       "source": "http://www.wikidata.org/entity/Q18601170",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Still%20Life%20with%20Kitchen%20Utensils%20and%20Vegetables%20%28Jean%20Sim%C3%A9on%20Chardin%29%20-%20Nationalmuseum%20-%20100530.tif",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3137,10 +3292,11 @@
       "source": "http://www.wikidata.org/entity/Q18602142",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Embroiderer%20%28Jean%20Sim%C3%A9on%20Chardin%29%20-%20Nationalmuseum%20-%2017781.tif",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3161,10 +3317,11 @@
       "source": "http://www.wikidata.org/entity/Q18602151",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Housekeeper%20%28Jean%20Sim%C3%A9on%20Chardin%29%20-%20Nationalmuseum%20-%2017790.tif",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3185,10 +3342,11 @@
       "source": "http://www.wikidata.org/entity/Q18602146",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste%20Sim%C3%A9on%20Chardin%20016.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3209,10 +3367,11 @@
       "source": "http://www.wikidata.org/entity/Q18602143",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Washerwoman%20%28Jean%20Sim%C3%A9on%20Chardin%29%20-%20Nationalmuseum%20-%2017783.tif",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3233,10 +3392,11 @@
       "source": "http://www.wikidata.org/entity/Q18602144",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20-%20Woman%20Drawing%20Water%20from%20a%20Water%20Urn%2C%20Signed%201733%20or%201735.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3257,10 +3417,11 @@
       "source": "http://www.wikidata.org/entity/Q12124233",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Young%20Student%20Drawing%20%28Jean%20Sim%C3%A9on%20Chardin%29%20-%20Nationalmuseum%20-%2017782.tif",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3281,10 +3442,11 @@
       "source": "http://www.wikidata.org/entity/Q124365404",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Sim%C3%A9on%20Chardin%20-%20Game%20Still-Life%20with%20Hunting%20Dog%20-%20WGA04743.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3305,10 +3467,11 @@
       "source": "http://www.wikidata.org/entity/Q104668430",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%27Still%20Life%20with%20Cooking%20Utensils%27%20by%20Jean-Baptiste%20Sim%C3%A9on%20Chardin%2C%20c.%201728-30%2C%20Norton%20Simon%20Museum.JPG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3329,10 +3492,11 @@
       "source": "http://www.wikidata.org/entity/Q104696644",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%27Still%20Life%20with%20Fowl%27%20by%20Jean-Baptiste%20Sim%C3%A9on%20Chardin%2C%20c.%201728-30%2C%20Norton%20Simon%20Museum.JPG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3353,10 +3517,11 @@
       "source": "http://www.wikidata.org/entity/Q27955166",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lille%20PdBA%20chardin%20gobelet%20argent.JPG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3368,19 +3533,20 @@
       "attribution": "Accepted",
       "artistId": "jean-baptiste-simeon-chardin",
       "artistName": "Jean-Baptiste-Siméon Chardin",
-      "locationId": "philadelphia-museum-of-art-philadelphia",
+      "locationId": "philadelphia-museum-of-art-philadelphia-county",
       "location": "Philadelphia Museum of Art",
-      "city": "Philadelphia",
+      "city": "Philadelphia County",
       "country": "United States",
       "lat": 39.965833333,
       "lon": -75.181388888,
       "source": "http://www.wikidata.org/entity/Q20808617",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste%20Sim%C3%A9on%20Chardin%20%28after%29%20-%20Scullery%20Maid%20-%20Philadelphia.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3401,10 +3567,11 @@
       "source": "http://www.wikidata.org/entity/Q18686471",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste-Sim%C3%A9on%20Chardin%2C%20French%20-%20Still%20Life%20with%20a%20Hare%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3425,10 +3592,11 @@
       "source": "http://www.wikidata.org/entity/Q20808618",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3440,19 +3608,20 @@
       "attribution": "Accepted",
       "artistId": "jean-baptiste-simeon-chardin",
       "artistName": "Jean-Baptiste-Siméon Chardin",
-      "locationId": "philadelphia-museum-of-art-philadelphia",
+      "locationId": "philadelphia-museum-of-art-philadelphia-county",
       "location": "Philadelphia Museum of Art",
-      "city": "Philadelphia",
+      "city": "Philadelphia County",
       "country": "United States",
       "lat": 39.965833333,
       "lon": -75.181388888,
       "source": "http://www.wikidata.org/entity/Q20808619",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Attributed%20to%20Chardin%20-%20Still%20Life%20with%20Cherries%20and%20Turnips%2C%20Cat.%20785.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3473,10 +3642,11 @@
       "source": "http://www.wikidata.org/entity/Q20808620",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Attributed%20to%20Chardin%20-%20Still%20Life%20with%20Eggs%2C%20Cheese%2C%20and%20a%20Pitcher%2C%20Cat.%20786.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3497,10 +3667,11 @@
       "source": "http://www.wikidata.org/entity/Q20808621",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3521,10 +3692,11 @@
       "source": "http://www.wikidata.org/entity/Q106775713",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste%20Sim%C3%A9on%20Chardin%20-%20Attributes%20of%20the%20Architect%20-%20y1935-5%20-%20Princeton%20University%20Art%20Museum.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3545,10 +3717,11 @@
       "source": "http://www.wikidata.org/entity/Q106773658",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste%20Sim%C3%A9on%20Chardin%20-%20Attributes%20of%20the%20Painter%20-%20y1935-4%20-%20Princeton%20University%20Art%20Museum.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3569,10 +3742,11 @@
       "source": "http://www.wikidata.org/entity/Q131744041",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3593,10 +3767,11 @@
       "source": "http://www.wikidata.org/entity/Q138427344",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20-%20%D0%9F%D0%B0%D1%80%D1%82%D0%B8%D1%8F%20%D0%B2%20%D0%B1%D0%B8%D0%BB%D0%BB%D0%B8%D0%B0%D1%80%D0%B4%2C%20%D0%96-2705.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3617,10 +3792,11 @@
       "source": "http://www.wikidata.org/entity/Q109836535",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20-%20STILL%20LIFE%20DEPICTING%20THE%20BAS-RELIEF%20%C2%ABAUTUMN%C2%BB%20BY%20BOUCHARDON%2C%201770.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3641,10 +3817,11 @@
       "source": "http://www.wikidata.org/entity/Q28802991",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste%20Simeon%20Chardin%20-%20Still%20life%20with%20attributes%20of%20the%20arts%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3665,10 +3842,11 @@
       "source": "http://www.wikidata.org/entity/Q78743964",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Sim%C3%A9on%20Chardin%20-%20The%20Silver%20Goblet%20-%2055-1934%20-%20Saint%20Louis%20Art%20Museum.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3689,10 +3867,11 @@
       "source": "http://www.wikidata.org/entity/Q86856776",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Sim%C3%A9on%20Chardin%20-%20The%20Monkey%20Antiquarian.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3713,10 +3892,11 @@
       "source": "http://www.wikidata.org/entity/Q20087649",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%2C%20Jean%20Sim%C3%A9on%20-%20Godefroy%2C%20Auguste%20Gabriel%20-%20Museu%20de%20Arte%20de%20S%C3%A3o%20Paulo%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3737,10 +3917,11 @@
       "source": "http://www.wikidata.org/entity/Q59591070",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Still%20Life%20with%20Dead%20Pheasant%20-%20Jean-Baptiste-Sim%C3%A9on%20Chardin%20-%20Google%20Cultural%20Institute.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3761,10 +3942,11 @@
       "source": "http://www.wikidata.org/entity/Q59591015",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste-Sim%C3%A9on%20Chardin%20-%20Stillleben%20mit%20totem%20Kaninchen%20%281728%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3785,10 +3967,11 @@
       "source": "http://www.wikidata.org/entity/Q59590881",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste%20Sim%C3%A9on%20Chardin%20029.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3809,10 +3992,11 @@
       "source": "http://www.wikidata.org/entity/Q59590930",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Still%20Life%20with%20Tin%20Pitcher%20and%20Peaches%20-%20Jean-Baptiste-Sim%C3%A9on%20Chardin%20-%20Google%20Cultural%20Institute.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3833,10 +4017,11 @@
       "source": "http://www.wikidata.org/entity/Q64789617",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Still%20Life%20with%20Partridge%20and%20Pear%20%28SM%202129%29.png",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3857,10 +4042,11 @@
       "source": "http://www.wikidata.org/entity/Q19857199",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20-%20Lady%20with%20a%20Bird-Organ%2C%201753.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3881,10 +4067,11 @@
       "source": "http://www.wikidata.org/entity/Q19857201",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20-%20Still%20Life%20with%20Plums%2C%20ca.%201730.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3905,10 +4092,11 @@
       "source": "http://www.wikidata.org/entity/Q138412796",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20-%20Still%20Life%20with%20Cat%20and%20Fish%2C%201728.png",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3929,15 +4117,16 @@
       "source": "http://www.wikidata.org/entity/Q23940103",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Sim%C3%A9on%20Chardin%20-%20Un%20bol%20de%20prunes%20%28ca.%201728%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
     {
-      "id": "Q21711811",
+      "id": "Q138412789",
       "title": "Still Life With Cat and Fish",
       "date": "1728",
       "type": "Painting",
@@ -3950,13 +4139,39 @@
       "country": "Spain",
       "lat": 40.416041,
       "lon": -3.694925,
-      "source": "http://www.wikidata.org/entity/Q21711811",
+      "source": "http://www.wikidata.org/entity/Q138412789",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Sim%C3%A9on%20Chardin%20-%20Still-Life%20with%20Cat%20and%20Fish%20-%20WGA04739.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20-%20Still%20Life%20With%20Cat%20and%20Fish%2C%201728.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q21711812",
+      "title": "Still Life With Cat and Rayfish",
+      "date": "1728",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jean-baptiste-simeon-chardin",
+      "artistName": "Jean-Baptiste-Siméon Chardin",
+      "locationId": "thyssen-bornemisza-museum-madrid",
+      "location": "Thyssen-Bornemisza Museum",
+      "city": "Madrid",
+      "country": "Spain",
+      "lat": 40.416041,
+      "lon": -3.694925,
+      "source": "http://www.wikidata.org/entity/Q21711812",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Sim%C3%A9on%20Chardin%20-%20Still-Life%20with%20Cat%20and%20Rayfish%20-%20WGA04740.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q207447",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3977,34 +4192,11 @@
       "source": "http://www.wikidata.org/entity/Q21712022",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20-%20Still%20Life%20with%20Pestle%20and%20Mortar%2C%20Pitcher%20and%20Copper%20Cauldron%2C%20ca.%201728%20-%201732.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q138413101",
-      "title": "Still-Life With Cat and Rayfish",
-      "date": "1728",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "jean-baptiste-simeon-chardin",
-      "artistName": "Jean-Baptiste-Siméon Chardin",
-      "locationId": "thyssen-bornemisza-museum-madrid",
-      "location": "Thyssen-Bornemisza Museum",
-      "city": "Madrid",
-      "country": "Spain",
-      "lat": 40.416041,
-      "lon": -3.694925,
-      "source": "http://www.wikidata.org/entity/Q138413101",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20-%20Still-Life%20With%20Cat%20and%20Rayfish%2C%201728.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -4020,15 +4212,16 @@
       "location": "Tokyo Fuji Art Museum",
       "city": "Yanomachi",
       "country": "Japan",
-      "lat": 35.686304,
-      "lon": 139.329079,
+      "lat": 35.686455,
+      "lon": 139.329493,
       "source": "http://www.wikidata.org/entity/Q45309362",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Baptiste%20Simeon%20-%20The%20Drawing%20Lesson.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -4049,10 +4242,11 @@
       "source": "http://www.wikidata.org/entity/Q28796747",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Sim%C3%A9on%20Chardin%20-%20Washerwoman%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -4073,17 +4267,18 @@
       "source": "http://www.wikidata.org/entity/Q28796748",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Sim%C3%A9on%20Chardin%20-%20Woman%20Drawing%20Water%20at%20the%20Cistern%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
     {
       "id": "Q6025666",
       "title": "Girl with Racket and Shuttlecock",
-      "date": "1737",
+      "date": "1740",
       "type": "Painting",
       "attribution": "Accepted",
       "artistId": "jean-baptiste-simeon-chardin",
@@ -4097,10 +4292,11 @@
       "source": "http://www.wikidata.org/entity/Q6025666",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste%20Sim%C3%A9on%20Chardin%20002.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -4121,10 +4317,11 @@
       "source": "http://www.wikidata.org/entity/Q114241466",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -4145,10 +4342,11 @@
       "source": "http://www.wikidata.org/entity/Q107358824",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Sim%C3%A9on%20Chardin%2C%20Boy%20Building%20a%20House%20of%20Cards%2C%201735%20at%20Waddesdon%20Manor.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -4169,10 +4367,11 @@
       "source": "http://www.wikidata.org/entity/Q124658076",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20-%20Still%20Life%20with%20Ray%2C%20Chicken%2C%20and%20Basket%20of%20Onions%2C%20c.%201732%2C%201940.353.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -4193,10 +4392,11 @@
       "source": "http://www.wikidata.org/entity/Q95918136",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20-%20Lapin%20avec%20une%20Gibeciere%2C%201736.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q207447",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     }

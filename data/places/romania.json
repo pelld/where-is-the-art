@@ -17,7 +17,28 @@
       "country": "Romania",
       "lat": 44.43978,
       "lon": 26.09598,
-      "source": "http://www.wikidata.org/entity/Q68372789"
+      "source": "http://www.wikidata.org/entity/Q68372789",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sisley.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20110.jpg"
+    },
+    {
+      "id": "Q89261558",
+      "artistId": "anthony-van-dyck",
+      "artistName": "Anthony van Dyck",
+      "reviewStatus": "generated",
+      "title": "Head of a Woman",
+      "date": "1638",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "national-museum-of-art-of-romania-bucharest",
+      "location": "National Museum of Art of Romania",
+      "city": "Bucharest",
+      "country": "Romania",
+      "lat": 44.43978,
+      "lon": 26.09598,
+      "source": "http://www.wikidata.org/entity/Q89261558",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Anton%20van%20dyck%2C%20studio%20di%20testa%20femminile.JPG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Anthony%20van%20Dyck%20-%20Self-portrait.jpg"
     },
     {
       "id": "Q68372784",
@@ -34,41 +55,9 @@
       "country": "Romania",
       "lat": 44.43978,
       "lon": 26.09598,
-      "source": "http://www.wikidata.org/entity/Q68372784"
-    },
-    {
-      "id": "Q68372817",
-      "artistId": "monet",
-      "artistName": "Claude Monet",
-      "reviewStatus": "generated",
-      "title": "Camille in green dress",
-      "date": "1866",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "national-museum-of-art-of-romania-bucharest",
-      "location": "National Museum of Art of Romania",
-      "city": "Bucharest",
-      "country": "Romania",
-      "lat": 44.43978,
-      "lon": 26.09598,
-      "source": "http://www.wikidata.org/entity/Q68372817"
-    },
-    {
-      "id": "Q68372814",
-      "artistId": "monet",
-      "artistName": "Claude Monet",
-      "reviewStatus": "generated",
-      "title": "fisher boats at Honfleur",
-      "date": "1866",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "national-museum-of-art-of-romania-bucharest",
-      "location": "National Museum of Art of Romania",
-      "city": "Bucharest",
-      "country": "Romania",
-      "lat": 44.43978,
-      "lon": 26.09598,
-      "source": "http://www.wikidata.org/entity/Q68372814"
+      "source": "http://www.wikidata.org/entity/Q68372784",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro%20-%20Pissarro%20and%20Durand-Ruel%20Snollaerts%2C%20439.png",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg"
     },
     {
       "id": "Q5965648",
@@ -85,7 +74,9 @@
       "country": "Romania",
       "lat": 44.43978,
       "lon": 26.09598,
-      "source": "http://www.wikidata.org/entity/Q5965648"
+      "source": "http://www.wikidata.org/entity/Q5965648",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Greco%20-%20The%20Adoration%20of%20the%20Shepherds%20%28Bukarest%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Greco%20-%20Portrait%20of%20a%20Man%20-%20WGA10554.jpg"
     },
     {
       "id": "Q16619520",
@@ -102,7 +93,9 @@
       "country": "Romania",
       "lat": 44.43978,
       "lon": 26.09598,
-      "source": "http://www.wikidata.org/entity/Q16619520"
+      "source": "http://www.wikidata.org/entity/Q16619520",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Greco%20-%20The%20Marriage%20of%20the%20Virgin%20-%20WGA10630.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Greco%20-%20Portrait%20of%20a%20Man%20-%20WGA10554.jpg"
     },
     {
       "id": "Q104214286",
@@ -119,7 +112,9 @@
       "country": "Romania",
       "lat": 44.43978,
       "lon": 26.09598,
-      "source": "http://www.wikidata.org/entity/Q104214286"
+      "source": "http://www.wikidata.org/entity/Q104214286",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20greco%2C%20martirio%20di%20s.%20amurizio%20e%20la%20legione%20tebana%2C%2001%20%28cropped%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Greco%20-%20Portrait%20of%20a%20Man%20-%20WGA10554.jpg"
     },
     {
       "id": "Q86297750",
@@ -136,7 +131,9 @@
       "country": "Romania",
       "lat": 44.43978,
       "lon": 26.09598,
-      "source": "http://www.wikidata.org/entity/Q86297750"
+      "source": "http://www.wikidata.org/entity/Q86297750",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Francisco%20de%20zurbaran%2C%20s.%20biagio.JPG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Francisco%20de%20Zurbar%C3%A1n%20autoportrait.jpg"
     },
     {
       "id": "Q68372770",
@@ -153,7 +150,28 @@
       "country": "Romania",
       "lat": 44.43978,
       "lon": 26.09598,
-      "source": "http://www.wikidata.org/entity/Q68372770"
+      "source": "http://www.wikidata.org/entity/Q68372770",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Signac%20-%20Gate%20%28Saint-Tropez%29%2C%20Inv.%2083652526.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Seurat%20Paul%20Signac.jpg"
+    },
+    {
+      "id": "Q21791465",
+      "artistId": "rembrandt",
+      "artistName": "Rembrandt",
+      "reviewStatus": "generated",
+      "title": "Haman begs Esther for his life",
+      "date": "1660",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "national-museum-of-art-of-romania-bucharest",
+      "location": "National Museum of Art of Romania",
+      "city": "Bucharest",
+      "country": "Romania",
+      "lat": 44.43978,
+      "lon": 26.09598,
+      "source": "http://www.wikidata.org/entity/Q21791465",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20-%20Haman%20Begging%20the%20Mercy%20of%20Esther.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20van%20Rijn%20-%20Self-Portrait%20-%20Google%20Art%20Project.jpg"
     },
     {
       "id": "Q114860155",
@@ -170,7 +188,9 @@
       "country": "Romania",
       "lat": 44.43978,
       "lon": 26.09598,
-      "source": "http://www.wikidata.org/entity/Q114860155"
+      "source": "http://www.wikidata.org/entity/Q114860155",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Tintoretto%20-%20Marcantonio%20Barbaro%2C%201593.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Tintoretto%20-%20Self-Portrait%20as%20a%20Young%20Man%2C%20ca.%201548%2C%20CAI.103%20%28cropped%29.jpg"
     },
     {
       "id": "Q131450157",
@@ -187,7 +207,9 @@
       "country": "Romania",
       "lat": 44.43978,
       "lon": 26.09598,
-      "source": "http://www.wikidata.org/entity/Q131450157"
+      "source": "http://www.wikidata.org/entity/Q131450157",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Tintoretto%20-%20Annunciation%20%281577%20National%20Museum%20of%20Art%20of%20Romania%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Tintoretto%20-%20Self-Portrait%20as%20a%20Young%20Man%2C%20ca.%201548%2C%20CAI.103%20%28cropped%29.jpg"
     },
     {
       "id": "Q93629415",
@@ -204,7 +226,9 @@
       "country": "Romania",
       "lat": 44.46085,
       "lon": 26.091,
-      "source": "http://www.wikidata.org/entity/Q93629415"
+      "source": "http://www.wikidata.org/entity/Q93629415",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Afred%20Sisley%20-%20Pont%20sur%20la%20Seine%20-%20Mus%C3%A9e%20Zambaccian.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20110.jpg"
     },
     {
       "id": "Q93629421",
@@ -221,7 +245,9 @@
       "country": "Romania",
       "lat": 44.46085,
       "lon": 26.091,
-      "source": "http://www.wikidata.org/entity/Q93629421"
+      "source": "http://www.wikidata.org/entity/Q93629421",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Pissarro%20-%20Portrait%20de%20fillette%20-%20Mus%C3%A9e%20Zambaccian.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg"
     },
     {
       "id": "Q93629433",
@@ -238,10 +264,12 @@
       "country": "Romania",
       "lat": 44.46085,
       "lon": 26.091,
-      "source": "http://www.wikidata.org/entity/Q93629433"
+      "source": "http://www.wikidata.org/entity/Q93629433",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Eug%C3%A8ne%20Delacroix%20-%20Odalisque%20-%20Mus%C3%A9e%20Zambaccian.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Autoportrait%20-%20Eug%C3%A8ne%20Delacroix%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20RF%2025.jpg"
     },
     {
-      "id": "Q93629426",
+      "id": "Q93629423",
       "artistId": "henri-matisse",
       "artistName": "Henri Matisse",
       "reviewStatus": "generated",
@@ -255,7 +283,28 @@
       "country": "Romania",
       "lat": 44.46085,
       "lon": 26.091,
-      "source": "http://www.wikidata.org/entity/Q93629426"
+      "source": "http://www.wikidata.org/entity/Q93629423",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mus%C3%A9e%20Zambaccian%20%28tableaux%202%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Henri%20Matisse%201933%20May%2020.jpg"
+    },
+    {
+      "id": "Q93629436",
+      "artistId": "jean-baptiste-camille-corot",
+      "artistName": "Jean-Baptiste-Camille Corot",
+      "reviewStatus": "generated",
+      "title": "Landscape with lake",
+      "date": "Date unknown",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "zambaccian-museum-bucharest",
+      "location": "Zambaccian Museum",
+      "city": "Bucharest",
+      "country": "Romania",
+      "lat": 44.46085,
+      "lon": 26.091,
+      "source": "http://www.wikidata.org/entity/Q93629436",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Corot%20-%20Paysage%20avec%20un%20lac%20-%20Mus%C3%A9e%20Zambaccian.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste-Camille%20Corot%20c1850.png"
     },
     {
       "id": "Q93629437",
@@ -272,7 +321,9 @@
       "country": "Romania",
       "lat": 44.46085,
       "lon": 26.091,
-      "source": "http://www.wikidata.org/entity/Q93629437"
+      "source": "http://www.wikidata.org/entity/Q93629437",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Corot%20-%20Nymphe%20au%20repos%20-%20Mus%C3%A9e%20Zambaccian.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste-Camille%20Corot%20c1850.png"
     },
     {
       "id": "Q68372798",
@@ -289,24 +340,9 @@
       "country": "Romania",
       "lat": 44.46085,
       "lon": 26.091,
-      "source": "http://www.wikidata.org/entity/Q68372798"
-    },
-    {
-      "id": "Q93629428",
-      "artistId": "pierre-bonnard",
-      "artistName": "Pierre Bonnard",
-      "reviewStatus": "generated",
-      "title": "Untitled record",
-      "date": "Date unknown",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "zambaccian-museum-bucharest",
-      "location": "Zambaccian Museum",
-      "city": "Bucharest",
-      "country": "Romania",
-      "lat": 44.46085,
-      "lon": 26.091,
-      "source": "http://www.wikidata.org/entity/Q93629428"
+      "source": "http://www.wikidata.org/entity/Q68372798",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/C%C3%A9zanne%20-%20FWN%20519.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul-Cezanne.jpg"
     },
     {
       "id": "Q3553389",
@@ -323,7 +359,9 @@
       "country": "Romania",
       "lat": 45.7965,
       "lon": 24.15061111,
-      "source": "http://www.wikidata.org/entity/Q3553389"
+      "source": "http://www.wikidata.org/entity/Q3553389",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20van%20Eyck%20-%20Man%20in%20a%20Blue%20Cap%20%28c.1430%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20van%20Eyck%20-%20Portrait%20of%20a%20Man%20%28Self%20Portrait%3F%29%201433.jpg"
     },
     {
       "id": "Q116962041",
@@ -340,7 +378,9 @@
       "country": "Romania",
       "lat": 45.7965,
       "lon": 24.15061111,
-      "source": "http://www.wikidata.org/entity/Q116962041"
+      "source": "http://www.wikidata.org/entity/Q116962041",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20d.%C3%84.%20-%20Madonna%20mit%20dem%20Kind%20und%20dem%20Johannesknaben%20%28Brukenthal-Museum%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20d.%20%C3%84.%20063.jpg"
     },
     {
       "id": "Q28045350",
@@ -357,7 +397,9 @@
       "country": "Romania",
       "lat": 45.7965,
       "lon": 24.15061111,
-      "source": "http://www.wikidata.org/entity/Q28045350"
+      "source": "http://www.wikidata.org/entity/Q28045350",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ecce%20Homo%20by%20Titian.JPG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Vecellio%20di%20Gregorio%20Tiziano%20-%20autoritratto.jpg"
     }
   ]
 }

@@ -17,7 +17,9 @@
       "country": "Finland",
       "lat": 60.16833333,
       "lon": 24.93722222,
-      "source": "http://www.wikidata.org/entity/Q130581844"
+      "source": "http://www.wikidata.org/entity/Q130581844",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Signac%20-%20Pont%20de%20Grenelle%2C%201899%2C%20FC%20328.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Seurat%20Paul%20Signac.jpg"
     },
     {
       "id": "Q130583261",
@@ -34,7 +36,9 @@
       "country": "Finland",
       "lat": 60.16833333,
       "lon": 24.93722222,
-      "source": "http://www.wikidata.org/entity/Q130583261"
+      "source": "http://www.wikidata.org/entity/Q130583261",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Self-portrait-1889.jpg"
     },
     {
       "id": "Q136269246",
@@ -51,7 +55,9 @@
       "country": "Finland",
       "lat": 60.1700846,
       "lon": 24.9439789,
-      "source": "http://www.wikidata.org/entity/Q136269246"
+      "source": "http://www.wikidata.org/entity/Q136269246",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Levitsky%20by%20Repin.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ilya%20Repin%20%281909%29.jpg"
     },
     {
       "id": "Q11895977",
@@ -68,7 +74,9 @@
       "country": "Finland",
       "lat": 60.17166667,
       "lon": 24.93694444,
-      "source": "http://www.wikidata.org/entity/Q11895977"
+      "source": "http://www.wikidata.org/entity/Q11895977",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Amedeo%20Modigliani%20-%20Portrait%20of%20the%20Artist%20L%C3%A9opold%20Survage%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Amedeo%20Modigliani%201918%20restored.jpg"
     },
     {
       "id": "Q20797025",
@@ -85,24 +93,9 @@
       "country": "Finland",
       "lat": 60.17166667,
       "lon": 24.93694444,
-      "source": "http://www.wikidata.org/entity/Q20797025"
-    },
-    {
-      "id": "Q11873950",
-      "artistId": "edvard-munch",
-      "artistName": "Edvard Munch",
-      "reviewStatus": "generated",
-      "title": "Bathing Men",
-      "date": "1900",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "finnish-national-gallery-helsinki",
-      "location": "Finnish National Gallery",
-      "city": "Helsinki",
-      "country": "Finland",
-      "lat": 60.17166667,
-      "lon": 24.93694444,
-      "source": "http://www.wikidata.org/entity/Q11873950"
+      "source": "http://www.wikidata.org/entity/Q20797025",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Antoine%20Watteau%20%281684%E2%88%921721%29-%20The%20Swing%20-%20Keinu%20-%20Gunga%20%2829358967782%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%28Treviso%29%20The%20painter%20Antoine%20Watteau%20by%20Rosalba%20Carriera%20-%20Museo%20civico%20di%20Santa%20Caterina.jpg"
     },
     {
       "id": "Q18889974",
@@ -119,7 +112,9 @@
       "country": "Finland",
       "lat": 60.17166667,
       "lon": 24.93694444,
-      "source": "http://www.wikidata.org/entity/Q18889974"
+      "source": "http://www.wikidata.org/entity/Q18889974",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Munch%20-%20Portrait%20of%20Gustaf%20Schiefler%2C%201908%2C%20A%20II%20856.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Edvard%20Munch%201933-2.jpg"
     },
     {
       "id": "Q20795244",
@@ -136,7 +131,9 @@
       "country": "Finland",
       "lat": 60.17166667,
       "lon": 24.93694444,
-      "source": "http://www.wikidata.org/entity/Q20795244"
+      "source": "http://www.wikidata.org/entity/Q20795244",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mazeppa%20on%20the%20Dying%20Horse%20-%20Delacroix%2C%201824.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Autoportrait%20-%20Eug%C3%A8ne%20Delacroix%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20RF%2025.jpg"
     },
     {
       "id": "Q20781419",
@@ -153,7 +150,9 @@
       "country": "Finland",
       "lat": 60.17166667,
       "lon": 24.93694444,
-      "source": "http://www.wikidata.org/entity/Q20781419"
+      "source": "http://www.wikidata.org/entity/Q20781419",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Fran%C3%A7ois%20Boucher%20-%20Dana%C3%AB%20-%20A%20I%20548%20-%20Finnish%20National%20Gallery.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Boucher%20par%20Gustav%20Lundberg%201741.jpg"
     },
     {
       "id": "Q20797306",
@@ -170,7 +169,28 @@
       "country": "Finland",
       "lat": 60.17166667,
       "lon": 24.93694444,
-      "source": "http://www.wikidata.org/entity/Q20797306"
+      "source": "http://www.wikidata.org/entity/Q20797306",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Giovanni%20Battista%20Tiepolo%20%281696%E2%80%931770%29-%20The%20Rape%20of%20the%20Sabine%20Women%20-%20Sabiinitarten%20ry%C3%B6st%C3%B6%20-%20Sabinskornas%20bortr%C3%B6vanden%20%2829178832180%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Tiepolo%2C%20Giovanni%20Battista%20-%20Fresken%20Treppenhaus%20des%20W%C3%BCrzburger%20Residenzschlosses%2C%20Szenen%20zur%20Apotheose%20des%20F%C3%BCrstbischofs%2C%20Detail%20Giovanni%20Battista%20Tiepolo%20-%201750-1753.jpg"
+    },
+    {
+      "id": "Q18346868",
+      "artistId": "honore-daumier",
+      "artistName": "Honoré Daumier",
+      "reviewStatus": "generated",
+      "title": "Man under lock and key",
+      "date": "Date unknown",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "finnish-national-gallery-helsinki",
+      "location": "Finnish National Gallery",
+      "city": "Helsinki",
+      "country": "Finland",
+      "lat": 60.17166667,
+      "lon": 24.93694444,
+      "source": "http://www.wikidata.org/entity/Q18346868",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Honor%C3%A9%20Daumier%20-%20Man%20under%20lock%20and%20key%20-%20A-2002-174%20-%20Finnish%20National%20Gallery.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Honore%20Daumier-Nadar.jpg"
     },
     {
       "id": "Q20771437",
@@ -187,7 +207,9 @@
       "country": "Finland",
       "lat": 60.17166667,
       "lon": 24.93694444,
-      "source": "http://www.wikidata.org/entity/Q20771437"
+      "source": "http://www.wikidata.org/entity/Q20771437",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ilya%20Repin%20%281909%29.jpg"
     },
     {
       "id": "Q20087079",
@@ -204,7 +226,9 @@
       "country": "Finland",
       "lat": 60.17166667,
       "lon": 24.93694444,
-      "source": "http://www.wikidata.org/entity/Q20087079"
+      "source": "http://www.wikidata.org/entity/Q20087079",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ilya%20Repin%20-%20Portrait%20of%20A.%20Gallen-Kallela.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ilya%20Repin%20%281909%29.jpg"
     },
     {
       "id": "Q20797445",
@@ -221,7 +245,9 @@
       "country": "Finland",
       "lat": 60.17166667,
       "lon": 24.93694444,
-      "source": "http://www.wikidata.org/entity/Q20797445"
+      "source": "http://www.wikidata.org/entity/Q20797445",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ilya%20Repin%20%281909%29.jpg"
     },
     {
       "id": "Q20781465",
@@ -238,7 +264,9 @@
       "country": "Finland",
       "lat": 60.17166667,
       "lon": 24.93694444,
-      "source": "http://www.wikidata.org/entity/Q20781465"
+      "source": "http://www.wikidata.org/entity/Q20781465",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ilja%20Jefimovit%C5%A1%20Repin%20-%20Chuguev%20landscape%20-%20A-1995-79%20-%20Finnish%20National%20Gallery.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ilya%20Repin%20%281909%29.jpg"
     },
     {
       "id": "Q18689738",
@@ -255,7 +283,9 @@
       "country": "Finland",
       "lat": 60.17166667,
       "lon": 24.93694444,
-      "source": "http://www.wikidata.org/entity/Q18689738"
+      "source": "http://www.wikidata.org/entity/Q18689738",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ilya%20Yefimovich%20Repin%20-%20Dancing%20Natalie%20Nordmann%20-%20A%20II%201754%2044%20-%20Finnish%20National%20Gallery.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ilya%20Repin%20%281909%29.jpg"
     },
     {
       "id": "Q20797232",
@@ -272,7 +302,9 @@
       "country": "Finland",
       "lat": 60.17166667,
       "lon": 24.93694444,
-      "source": "http://www.wikidata.org/entity/Q20797232"
+      "source": "http://www.wikidata.org/entity/Q20797232",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ilya%20Repin%20-%20Double%20Portrait%20of%20Natalia%20Nordman%20and%20Ilya%20Repin.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ilya%20Repin%20%281909%29.jpg"
     },
     {
       "id": "Q20799376",
@@ -289,7 +321,9 @@
       "country": "Finland",
       "lat": 60.17166667,
       "lon": 24.93694444,
-      "source": "http://www.wikidata.org/entity/Q20799376"
+      "source": "http://www.wikidata.org/entity/Q20799376",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ilya%20Repin%20%281909%29.jpg"
     },
     {
       "id": "Q20799480",
@@ -306,7 +340,9 @@
       "country": "Finland",
       "lat": 60.17166667,
       "lon": 24.93694444,
-      "source": "http://www.wikidata.org/entity/Q20799480"
+      "source": "http://www.wikidata.org/entity/Q20799480",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ilja%20Jefimovit%C5%A1%20Repin%20-%20Party%20for%20the%20Aristocracy%20-%20A-2005-161%20-%20Finnish%20National%20Gallery.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ilya%20Repin%20%281909%29.jpg"
     },
     {
       "id": "Q20784495",
@@ -323,7 +359,9 @@
       "country": "Finland",
       "lat": 60.17166667,
       "lon": 24.93694444,
-      "source": "http://www.wikidata.org/entity/Q20784495"
+      "source": "http://www.wikidata.org/entity/Q20784495",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ilya%20Repin%20%281909%29.jpg"
     },
     {
       "id": "Q11866313",
@@ -340,7 +378,9 @@
       "country": "Finland",
       "lat": 60.17166667,
       "lon": 24.93694444,
-      "source": "http://www.wikidata.org/entity/Q11866313"
+      "source": "http://www.wikidata.org/entity/Q11866313",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ilya%20Repin%20-%20Portrait%20of%20Jelizaveta%20Zvantseva%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ilya%20Repin%20%281909%29.jpg"
     },
     {
       "id": "Q20799262",
@@ -357,7 +397,9 @@
       "country": "Finland",
       "lat": 60.17166667,
       "lon": 24.93694444,
-      "source": "http://www.wikidata.org/entity/Q20799262"
+      "source": "http://www.wikidata.org/entity/Q20799262",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ilya%20Repin%20-%20Portrait%20of%20Mykola%20Murashko%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ilya%20Repin%20%281909%29.jpg"
     },
     {
       "id": "Q20780876",
@@ -374,7 +416,9 @@
       "country": "Finland",
       "lat": 60.17166667,
       "lon": 24.93694444,
-      "source": "http://www.wikidata.org/entity/Q20780876"
+      "source": "http://www.wikidata.org/entity/Q20780876",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ilja%20Jefimovit%C5%A1%20Repin%20-%20Portrait%20of%20the%20artist%20Rafael%20S.%20Levitsky%20-%20A%20II%201372%20-%20Finnish%20National%20Gallery.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ilya%20Repin%20%281909%29.jpg"
     },
     {
       "id": "Q20789687",
@@ -391,7 +435,9 @@
       "country": "Finland",
       "lat": 60.17166667,
       "lon": 24.93694444,
-      "source": "http://www.wikidata.org/entity/Q20789687"
+      "source": "http://www.wikidata.org/entity/Q20789687",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ilja%20Jefimovit%C5%A1%20Repin%20-%20Portrait%20of%20the%20Artist%27s%20Daughter%20Nadezhda%20Repina%20-%20A%20II%201369%20-%20Finnish%20National%20Gallery.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ilya%20Repin%20%281909%29.jpg"
     },
     {
       "id": "Q20782603",
@@ -408,7 +454,9 @@
       "country": "Finland",
       "lat": 60.17166667,
       "lon": 24.93694444,
-      "source": "http://www.wikidata.org/entity/Q20782603"
+      "source": "http://www.wikidata.org/entity/Q20782603",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Nordman%20by%20Repin%201900.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ilya%20Repin%20%281909%29.jpg"
     },
     {
       "id": "Q20797166",
@@ -425,7 +473,9 @@
       "country": "Finland",
       "lat": 60.17166667,
       "lon": 24.93694444,
-      "source": "http://www.wikidata.org/entity/Q20797166"
+      "source": "http://www.wikidata.org/entity/Q20797166",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ilya%20Repin%20%281909%29.jpg"
     },
     {
       "id": "Q20781003",
@@ -442,7 +492,9 @@
       "country": "Finland",
       "lat": 60.17166667,
       "lon": 24.93694444,
-      "source": "http://www.wikidata.org/entity/Q20781003"
+      "source": "http://www.wikidata.org/entity/Q20781003",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ilja%20Jefimovit%C5%A1%20Repin%20-%20St%20Nicholas%2C%20sketch%20-%20A-1995-85%20-%20Finnish%20National%20Gallery.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ilya%20Repin%20%281909%29.jpg"
     },
     {
       "id": "Q20792203",
@@ -459,7 +511,9 @@
       "country": "Finland",
       "lat": 60.17166667,
       "lon": 24.93694444,
-      "source": "http://www.wikidata.org/entity/Q20792203"
+      "source": "http://www.wikidata.org/entity/Q20792203",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ilya%20Repin%20%281909%29.jpg"
     },
     {
       "id": "Q20776328",
@@ -476,7 +530,9 @@
       "country": "Finland",
       "lat": 60.17166667,
       "lon": 24.93694444,
-      "source": "http://www.wikidata.org/entity/Q20776328"
+      "source": "http://www.wikidata.org/entity/Q20776328",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ilya%20Repin%20%281909%29.jpg"
     },
     {
       "id": "Q112153090",
@@ -493,7 +549,9 @@
       "country": "Finland",
       "lat": 60.17166667,
       "lon": 24.93694444,
-      "source": "http://www.wikidata.org/entity/Q112153090"
+      "source": "http://www.wikidata.org/entity/Q112153090",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Repin%20Finnish%20celebrities.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ilya%20Repin%20%281909%29.jpg"
     },
     {
       "id": "Q20781869",
@@ -510,7 +568,9 @@
       "country": "Finland",
       "lat": 60.17166667,
       "lon": 24.93694444,
-      "source": "http://www.wikidata.org/entity/Q20781869"
+      "source": "http://www.wikidata.org/entity/Q20781869",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ilja%20Jefimovit%C5%A1%20Repin%20-%20The%20Procurator%20-%20A%20II%201490%20-%20Finnish%20National%20Gallery.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ilya%20Repin%20%281909%29.jpg"
     },
     {
       "id": "Q20783397",
@@ -527,41 +587,9 @@
       "country": "Finland",
       "lat": 60.17166667,
       "lon": 24.93694444,
-      "source": "http://www.wikidata.org/entity/Q20783397"
-    },
-    {
-      "id": "Q20795295",
-      "artistId": "ilya-repin",
-      "artistName": "Ilya Repin",
-      "reviewStatus": "generated",
-      "title": "Untitled record",
-      "date": "1878",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "finnish-national-gallery-helsinki",
-      "location": "Finnish National Gallery",
-      "city": "Helsinki",
-      "country": "Finland",
-      "lat": 60.17166667,
-      "lon": 24.93694444,
-      "source": "http://www.wikidata.org/entity/Q20795295"
-    },
-    {
-      "id": "Q20782692",
-      "artistId": "ilya-repin",
-      "artistName": "Ilya Repin",
-      "reviewStatus": "generated",
-      "title": "Untitled record",
-      "date": "1883",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "finnish-national-gallery-helsinki",
-      "location": "Finnish National Gallery",
-      "city": "Helsinki",
-      "country": "Finland",
-      "lat": 60.17166667,
-      "lon": 24.93694444,
-      "source": "http://www.wikidata.org/entity/Q20782692"
+      "source": "http://www.wikidata.org/entity/Q20783397",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ilja%20Jefimovit%C5%A1%20Repin%20-%20The%20Scytheman%20-%20A-1995-88%20-%20Finnish%20National%20Gallery.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ilya%20Repin%20%281909%29.jpg"
     },
     {
       "id": "Q20798973",
@@ -578,7 +606,9 @@
       "country": "Finland",
       "lat": 60.17166667,
       "lon": 24.93694444,
-      "source": "http://www.wikidata.org/entity/Q20798973"
+      "source": "http://www.wikidata.org/entity/Q20798973",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ilja%20Jefimovit%C5%A1%20Repin%20-%20Univormu%20-%20A%20III%201754-71%20-%20Finnish%20National%20Gallery.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ilya%20Repin%20%281909%29.jpg"
     },
     {
       "id": "Q20789588",
@@ -595,7 +625,47 @@
       "country": "Finland",
       "lat": 60.17166667,
       "lon": 24.93694444,
-      "source": "http://www.wikidata.org/entity/Q20789588"
+      "source": "http://www.wikidata.org/entity/Q20789588",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ilya%20Repin%20%281909%29.jpg"
+    },
+    {
+      "id": "Q20795295",
+      "artistId": "ilya-repin",
+      "artistName": "Ilya Repin",
+      "reviewStatus": "generated",
+      "title": "Untitled record",
+      "date": "1878",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "finnish-national-gallery-helsinki",
+      "location": "Finnish National Gallery",
+      "city": "Helsinki",
+      "country": "Finland",
+      "lat": 60.17166667,
+      "lon": 24.93694444,
+      "source": "http://www.wikidata.org/entity/Q20795295",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ilja%20Jefimovit%C5%A1%20Repin%20-%20Maalaistalon%20piha%20-%20A-1995-76%20-%20Finnish%20National%20Gallery.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ilya%20Repin%20%281909%29.jpg"
+    },
+    {
+      "id": "Q20782692",
+      "artistId": "ilya-repin",
+      "artistName": "Ilya Repin",
+      "reviewStatus": "generated",
+      "title": "Untitled record",
+      "date": "1883",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "finnish-national-gallery-helsinki",
+      "location": "Finnish National Gallery",
+      "city": "Helsinki",
+      "country": "Finland",
+      "lat": 60.17166667,
+      "lon": 24.93694444,
+      "source": "http://www.wikidata.org/entity/Q20782692",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ilja%20Jefimovit%C5%A1%20Repin%20-%20Tytt%C3%B6%20p%C3%B6yd%C3%A4n%20%C3%A4%C3%A4ress%C3%A4%20-%20A-1995-86%20-%20Finnish%20National%20Gallery.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ilya%20Repin%20%281909%29.jpg"
     },
     {
       "id": "Q20790159",
@@ -612,7 +682,9 @@
       "country": "Finland",
       "lat": 60.17166667,
       "lon": 24.93694444,
-      "source": "http://www.wikidata.org/entity/Q20790159"
+      "source": "http://www.wikidata.org/entity/Q20790159",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ilja%20Jefimovit%C5%A1%20Repin%20-%20Vinter%20Landscape%20-%20A%20II%201368%20-%20Finnish%20National%20Gallery.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ilya%20Repin%20%281909%29.jpg"
     },
     {
       "id": "Q20791518",
@@ -629,7 +701,9 @@
       "country": "Finland",
       "lat": 60.17166667,
       "lon": 24.93694444,
-      "source": "http://www.wikidata.org/entity/Q20791518"
+      "source": "http://www.wikidata.org/entity/Q20791518",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ilya%20Repin%20%281909%29.jpg"
     },
     {
       "id": "Q20778017",
@@ -646,7 +720,9 @@
       "country": "Finland",
       "lat": 60.17166667,
       "lon": 24.93694444,
-      "source": "http://www.wikidata.org/entity/Q20778017"
+      "source": "http://www.wikidata.org/entity/Q20778017",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/I.%20E.%20Repin.%20Writing%20Doctor.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ilya%20Repin%20%281909%29.jpg"
     },
     {
       "id": "Q20800356",
@@ -663,7 +739,9 @@
       "country": "Finland",
       "lat": 60.17166667,
       "lon": 24.93694444,
-      "source": "http://www.wikidata.org/entity/Q20800356"
+      "source": "http://www.wikidata.org/entity/Q20800356",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ilja%20Jefimovit%C5%A1%20Repin%20-%20Young%20Boy%20Carrying%20an%20Icon%2C%20sketch%20-%20A-1995-87%20-%20Finnish%20National%20Gallery.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ilya%20Repin%20%281909%29.jpg"
     },
     {
       "id": "Q20775503",
@@ -680,7 +758,9 @@
       "country": "Finland",
       "lat": 60.17166667,
       "lon": 24.93694444,
-      "source": "http://www.wikidata.org/entity/Q20775503"
+      "source": "http://www.wikidata.org/entity/Q20775503",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ilja%20Jefimovit%C5%A1%20Repin%20-%20Young%20Woman%20in%20Pink%20-%20A-1995-83%20-%20Finnish%20National%20Gallery.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ilya%20Repin%20%281909%29.jpg"
     },
     {
       "id": "Q18689628",
@@ -697,7 +777,9 @@
       "country": "Finland",
       "lat": 60.17166667,
       "lon": 24.93694444,
-      "source": "http://www.wikidata.org/entity/Q18689628"
+      "source": "http://www.wikidata.org/entity/Q18689628",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste-Camille%20Corot%20c1850.png"
     },
     {
       "id": "Q20792242",
@@ -714,7 +796,9 @@
       "country": "Finland",
       "lat": 60.17166667,
       "lon": 24.93694444,
-      "source": "http://www.wikidata.org/entity/Q20792242"
+      "source": "http://www.wikidata.org/entity/Q20792242",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-baptiste%20camille%20corot%2C%20paesaggio%2C%201850-75%20circa.JPG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste-Camille%20Corot%20c1850.png"
     },
     {
       "id": "Q20795117",
@@ -731,7 +815,9 @@
       "country": "Finland",
       "lat": 60.17166667,
       "lon": 24.93694444,
-      "source": "http://www.wikidata.org/entity/Q20795117"
+      "source": "http://www.wikidata.org/entity/Q20795117",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-baptiste%20camille%20corot%2C%20paesaggio%2C%20atmosfera%20serale.JPG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste-Camille%20Corot%20c1850.png"
     },
     {
       "id": "Q18346889",
@@ -748,7 +834,9 @@
       "country": "Finland",
       "lat": 60.17166667,
       "lon": 24.93694444,
-      "source": "http://www.wikidata.org/entity/Q18346889"
+      "source": "http://www.wikidata.org/entity/Q18346889",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Fran%C3%A7ois%20Millet%20-%20Monsieur%20Frigot%20-%20A-2002-338%20-%20Finnish%20National%20Gallery.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-FrancoisMillet%28Nadar%29.jpg"
     },
     {
       "id": "Q20779069",
@@ -765,7 +853,9 @@
       "country": "Finland",
       "lat": 60.17166667,
       "lon": 24.93694444,
-      "source": "http://www.wikidata.org/entity/Q20779069"
+      "source": "http://www.wikidata.org/entity/Q20779069",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20d.%C3%84.%20-%20Lucretia%20%281530%2C%20Sinebrychoffin%20Taidemuseo%2C%20Helsinki%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20d.%20%C3%84.%20063.jpg"
     },
     {
       "id": "Q20776436",
@@ -782,7 +872,9 @@
       "country": "Finland",
       "lat": 60.17166667,
       "lon": 24.93694444,
-      "source": "http://www.wikidata.org/entity/Q20776436"
+      "source": "http://www.wikidata.org/entity/Q20776436",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%2C%20the%20Elder%20-%20vanhempi%20-%20den%20%C3%A4ldre%20%281472%28%3F%29%E2%80%931553%29-%20Portrait%20of%20a%20Young%20Woman%20-%20Nuoren%20naisen%20muotokuva%20-%20Portr%C3%A4tt%20av%20en%20ung%20kvinna%20%2829433104736%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20d.%20%C3%84.%20063.jpg"
     },
     {
       "id": "Q3703475",
@@ -799,7 +891,9 @@
       "country": "Finland",
       "lat": 60.17166667,
       "lon": 24.93694444,
-      "source": "http://www.wikidata.org/entity/Q3703475"
+      "source": "http://www.wikidata.org/entity/Q3703475",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Shagal%20Choumoff.jpg"
     },
     {
       "id": "Q11880397",
@@ -816,7 +910,9 @@
       "country": "Finland",
       "lat": 60.17166667,
       "lon": 24.93694444,
-      "source": "http://www.wikidata.org/entity/Q11880397"
+      "source": "http://www.wikidata.org/entity/Q11880397",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20C%C3%A9zanne%20-%20The%20Road%20Bridge%20at%20L%27Estaque%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul-Cezanne.jpg"
     },
     {
       "id": "Q5412116",
@@ -833,7 +929,9 @@
       "country": "Finland",
       "lat": 60.17166667,
       "lon": 24.93694444,
-      "source": "http://www.wikidata.org/entity/Q5412116"
+      "source": "http://www.wikidata.org/entity/Q5412116",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Gauguin%20-%20Landscape%20with%20a%20Pig%20and%20a%20Horse%20%28Hiva%20Oa%29%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Gauguin%201891.png"
     },
     {
       "id": "Q20785404",
@@ -850,7 +948,9 @@
       "country": "Finland",
       "lat": 60.17166667,
       "lon": 24.93694444,
-      "source": "http://www.wikidata.org/entity/Q20785404"
+      "source": "http://www.wikidata.org/entity/Q20785404",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Gauguin%20-%20Landscape%20in%20Tahiti%20%28Mahana%20Ma%C3%A0%29%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Gauguin%201891.png"
     },
     {
       "id": "Q20771387",
@@ -867,7 +967,9 @@
       "country": "Finland",
       "lat": 60.17166667,
       "lon": 24.93694444,
-      "source": "http://www.wikidata.org/entity/Q20771387"
+      "source": "http://www.wikidata.org/entity/Q20771387",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Signac%20-%20Antibes%2C%20A%20II%201455.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Seurat%20Paul%20Signac.jpg"
     },
     {
       "id": "Q20798503",
@@ -884,7 +986,9 @@
       "country": "Finland",
       "lat": 60.17166667,
       "lon": 24.93694444,
-      "source": "http://www.wikidata.org/entity/Q20798503"
+      "source": "http://www.wikidata.org/entity/Q20798503",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Signac%20-%20St%20Julien-Beauchene%20-%20A%20II%201121%20-%20Finnish%20National%20Gallery.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Seurat%20Paul%20Signac.jpg"
     },
     {
       "id": "Q20781101",
@@ -901,7 +1005,9 @@
       "country": "Finland",
       "lat": 60.17166667,
       "lon": 24.93694444,
-      "source": "http://www.wikidata.org/entity/Q20781101"
+      "source": "http://www.wikidata.org/entity/Q20781101",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Self-portrait-1889.jpg"
     },
     {
       "id": "Q20787872",
@@ -918,7 +1024,9 @@
       "country": "Finland",
       "lat": 60.17166667,
       "lon": 24.93694444,
-      "source": "http://www.wikidata.org/entity/Q20787872"
+      "source": "http://www.wikidata.org/entity/Q20787872",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20Harmensz.%20van%20Rijn%20%281606%E2%88%921669%29-%20Monk%20Reading%20-%20Lukeva%20munkki%20-%20L%C3%A4sande%20munk%20%2829433036826%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20van%20Rijn%20-%20Self-Portrait%20-%20Google%20Art%20Project.jpg"
     },
     {
       "id": "Q18689641",
@@ -935,7 +1043,9 @@
       "country": "Finland",
       "lat": 60.17166667,
       "lon": 24.93694444,
-      "source": "http://www.wikidata.org/entity/Q18689641"
+      "source": "http://www.wikidata.org/entity/Q18689641",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Vincent%20van%20Gogh%20-%20Street%20in%20Auvers-sur-Oise%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Self-portrait%20-%20Vincent%20van%20Gogh.jpg"
     }
   ]
 }

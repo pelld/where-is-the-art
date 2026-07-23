@@ -17,7 +17,9 @@
       "country": "Cuba",
       "lat": 23.1314788,
       "lon": -82.354984,
-      "source": "http://www.wikidata.org/entity/Q131541399"
+      "source": "http://www.wikidata.org/entity/Q131541399",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Murillo%20-%20La%20Sagrada%20Familia%20com%20San%20Juanito.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg"
     },
     {
       "id": "Q131541221",
@@ -34,7 +36,9 @@
       "country": "Cuba",
       "lat": 23.1314788,
       "lon": -82.354984,
-      "source": "http://www.wikidata.org/entity/Q131541221"
+      "source": "http://www.wikidata.org/entity/Q131541221",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Murillo%20-%20La%20Virgen%20con%20el%20Ni%C3%B1o.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg"
     },
     {
       "id": "Q104437362",
@@ -51,7 +55,9 @@
       "country": "Cuba",
       "lat": 23.1314788,
       "lon": -82.354984,
-      "source": "http://www.wikidata.org/entity/Q104437362"
+      "source": "http://www.wikidata.org/entity/Q104437362",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Greco%20-%20Crucifixi%C3%B3n%20con%20la%20Virgen%20y%20San%20Juan.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Greco%20-%20Portrait%20of%20a%20Man%20-%20WGA10554.jpg"
     },
     {
       "id": "Q79055360",
@@ -68,7 +74,9 @@
       "country": "Cuba",
       "lat": 23.14022222,
       "lon": -82.35719444,
-      "source": "http://www.wikidata.org/entity/Q79055360"
+      "source": "http://www.wikidata.org/entity/Q79055360",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Eug%C3%A8ne%20Delacroix%20-%20Tigre.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Autoportrait%20-%20Eug%C3%A8ne%20Delacroix%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20RF%2025.jpg"
     },
     {
       "id": "Q113826985",
@@ -85,7 +93,9 @@
       "country": "Cuba",
       "lat": 23.14022222,
       "lon": -82.35719444,
-      "source": "http://www.wikidata.org/entity/Q113826985"
+      "source": "http://www.wikidata.org/entity/Q113826985",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20Virgen%20y%20el%20Ni%C3%B1o%20de%20la%20manzana%2C%20por%20Francisco%20de%20Zurbar%C3%A1n.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Francisco%20de%20Zurbar%C3%A1n%20autoportrait.jpg"
     },
     {
       "id": "Q83651170",
@@ -102,7 +112,9 @@
       "country": "Cuba",
       "lat": 23.1314788,
       "lon": -82.354984,
-      "source": "http://www.wikidata.org/entity/Q83651170"
+      "source": "http://www.wikidata.org/entity/Q83651170",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustave%20Coubet%20-%20La%20Ola.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustave%20Courbet%2C%20photograph%20Atelier%20Nadar%2C%20c.%201860s.jpg"
     },
     {
       "id": "Q79055362",
@@ -119,7 +131,9 @@
       "country": "Cuba",
       "lat": 23.1314788,
       "lon": -82.354984,
-      "source": "http://www.wikidata.org/entity/Q79055362"
+      "source": "http://www.wikidata.org/entity/Q79055362",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Auguste%20Dominique%20Ingres%20-%20Retrato%20del%20Duque%20de%20Orleans.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%2C%20Self-portrait.jpg"
     },
     {
       "id": "Q83727740",
@@ -136,7 +150,9 @@
       "country": "Cuba",
       "lat": 23.1314788,
       "lon": -82.354984,
-      "source": "http://www.wikidata.org/entity/Q83727740"
+      "source": "http://www.wikidata.org/entity/Q83727740",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Corot%20-%20Brunoy%20%28Camino%20de%20la%20granja%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste-Camille%20Corot%20c1850.png"
     },
     {
       "id": "Q18177926",
@@ -153,41 +169,9 @@
       "country": "Cuba",
       "lat": 23.1314788,
       "lon": -82.354984,
-      "source": "http://www.wikidata.org/entity/Q18177926"
-    },
-    {
-      "id": "Q116963213",
-      "artistId": "lucas-cranach-the-elder",
-      "artistName": "Lucas Cranach the Elder",
-      "reviewStatus": "generated",
-      "title": "Adam and Eve",
-      "date": "1535",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "national-museum-of-fine-arts-of-cuba-havana",
-      "location": "National Museum of Fine Arts of Cuba",
-      "city": "Havana",
-      "country": "Cuba",
-      "lat": 23.1314788,
-      "lon": -82.354984,
-      "source": "http://www.wikidata.org/entity/Q116963213"
-    },
-    {
-      "id": "Q116962307",
-      "artistId": "lucas-cranach-the-elder",
-      "artistName": "Lucas Cranach the Elder",
-      "reviewStatus": "generated",
-      "title": "The Resurrection [left wing]",
-      "date": "1520",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "national-museum-of-fine-arts-of-cuba-havana",
-      "location": "National Museum of Fine Arts of Cuba",
-      "city": "Havana",
-      "country": "Cuba",
-      "lat": 23.1314788,
-      "lon": -82.354984,
-      "source": "http://www.wikidata.org/entity/Q116962307"
+      "source": "http://www.wikidata.org/entity/Q18177926",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Corot%20-%20A%20Velha%20Ponte%20de%20Mantes%2C%20c.%201855.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste-Camille%20Corot%20c1850.png"
     }
   ]
 }

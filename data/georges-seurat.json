@@ -1,6 +1,31 @@
 {
   "artworks": [
     {
+      "id": "Q18919413",
+      "title": "Gravelines Channel",
+      "date": "1890",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "georges-seurat",
+      "artistName": "Georges Seurat",
+      "locationId": "annonciade-museum-saint-tropez",
+      "location": "Annonciade Museum",
+      "city": "Saint-Tropez",
+      "country": "France",
+      "lat": 43.271079,
+      "lon": 6.637123,
+      "source": "http://www.wikidata.org/entity/Q18919413",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Seurat-Gravelines-Annonciade.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q34013",
+        "retrieved": "2026-07-23",
+        "reviewStatus": "generated"
+      }
+    },
+    {
       "id": "Q1044742",
       "title": "A Sunday Afternoon on the Island of La Grande Jatte",
       "date": "1884",
@@ -17,10 +42,11 @@
       "source": "http://www.wikidata.org/entity/Q1044742",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/A%20Sunday%20on%20La%20Grande%20Jatte%2C%20Georges%20Seurat%2C%201884.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -41,10 +67,11 @@
       "source": "http://www.wikidata.org/entity/Q20268092",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%20-%20Final%20Study%20for%20%22Bathers%20at%20Asni%C3%A8res%22%20-%201962.578%20-%20Art%20Institute%20of%20Chicago.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -65,10 +92,11 @@
       "source": "http://www.wikidata.org/entity/Q20268413",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%20-%20Oil%20Sketch%20for%20%22La%20Grande%20Jatte%22%20-%201981.15%20-%20Art%20Institute%20of%20Chicago.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -89,10 +117,11 @@
       "source": "http://www.wikidata.org/entity/Q112114743",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -113,10 +142,11 @@
       "source": "http://www.wikidata.org/entity/Q71328898",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%20-%20Preparatory%20Sketch%20for%20the%20Painting%20La%20Gr%C3%A8ve%20du%20Bas-Butin%2C%20Honfleur%20PC%20169.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -137,10 +167,11 @@
       "source": "http://www.wikidata.org/entity/Q28130733",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%20-%20Entrance%20of%20The%20Port%20of%20Honfleur%20%28Entr%C3%A9e%20du%20port%20d%E2%80%99Honfleur%29%20-%20BF942%20-%20Barnes%20Foundation.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -161,10 +192,11 @@
       "source": "http://www.wikidata.org/entity/Q28130730",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%20-%20Four%20Boats%20at%20Grandcamp%20%28Quatre%20bateaux%20%C3%A0%20Grandcamp%29%20-%20BF1185%20-%20Barnes%20Foundation.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -176,19 +208,20 @@
       "attribution": "Accepted",
       "artistId": "georges-seurat",
       "artistName": "Georges Seurat",
-      "locationId": "barnes-foundation-merion-station",
+      "locationId": "barnes-foundation-philadelphia",
       "location": "Barnes Foundation",
-      "city": "Merion Station",
+      "city": "Philadelphia",
       "country": "United States",
       "lat": 39.960643,
       "lon": -75.172808,
       "source": "http://www.wikidata.org/entity/Q28130731",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%20-%20Group%20of%20Figures%20%28Study%20for%20%22Un%20dimanche%20%C3%A0%20la%20Grande%20Jatte%22%29%20-%20BF2506%20-%20Barnes%20Foundation.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -209,10 +242,11 @@
       "source": "http://www.wikidata.org/entity/Q3793848",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%20-%20The%20Ladies%27%20Man%20%28L%27Homme%20%C3%A0%20femmes%29%20-%20BF1149%20-%20Barnes%20Foundation.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -233,10 +267,11 @@
       "source": "http://www.wikidata.org/entity/Q3234845",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%20-%20Models%20%28Poseuses%29%20-%20BF811%20-%20Barnes%20Foundation.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -248,19 +283,20 @@
       "attribution": "Accepted",
       "artistId": "georges-seurat",
       "artistName": "Georges Seurat",
-      "locationId": "barnes-foundation-merion-station",
+      "locationId": "barnes-foundation-philadelphia",
       "location": "Barnes Foundation",
-      "city": "Merion Station",
+      "city": "Philadelphia",
       "country": "United States",
       "lat": 39.960643,
       "lon": -75.172808,
       "source": "http://www.wikidata.org/entity/Q28130729",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%20-%20Two%20Sailboats%20at%20Grandcamp%20%28Deux%20voiliers%20%C3%A0%20Grandcamp%29%20-%20BF1153%20-%20Barnes%20Foundation.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -281,10 +317,11 @@
       "source": "http://www.wikidata.org/entity/Q90735791",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%20-%20Sunset%20PC%209.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -305,10 +342,11 @@
       "source": "http://www.wikidata.org/entity/Q77491378",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%20-%20%C3%89tude%20pour%20%22La%20Grande%20Jatte%22%20%28Study%20for%20%22La%20Grande%20Jatte%22%29%20-%201948-7%20-%20Albright%E2%80%93Knox%20Art%20Gallery.tiff",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -329,10 +367,11 @@
       "source": "http://www.wikidata.org/entity/Q3976306",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%20-%20%C3%89tude%20pour%20%22Le%20Chahut%22%20%28Study%20for%20%22Le%20Chahut%22%29%20-%201943-10%20-%20Albright%E2%80%93Knox%20Art%20Gallery.tiff",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -353,10 +392,11 @@
       "source": "http://www.wikidata.org/entity/Q60757372",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Clevelandart%201958.344.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -377,10 +417,11 @@
       "source": "http://www.wikidata.org/entity/Q60465161",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%20-%20Study%20for%20%22Bathers%20at%20Asni%C3%A8res%22%20-%201958.51%20-%20Cleveland%20Museum%20of%20Art.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -401,10 +442,11 @@
       "source": "http://www.wikidata.org/entity/Q20189665",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/A%20Summer%20Landscape%20C17089.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -425,10 +467,11 @@
       "source": "http://www.wikidata.org/entity/Q20189581",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bathers%20-%20Study%20for%20Bathers%20at%20Asni%C3%A8res%20C17509.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -449,10 +492,11 @@
       "source": "http://www.wikidata.org/entity/Q20189600",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Figures%20in%20a%20Landscape%20C16890.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -473,10 +517,11 @@
       "source": "http://www.wikidata.org/entity/Q20189492",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Haymakers%20at%20Montfermeil%20C16629.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -497,10 +542,11 @@
       "source": "http://www.wikidata.org/entity/Q20189498",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Haystacks%20C17507.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -521,10 +567,11 @@
       "source": "http://www.wikidata.org/entity/Q20189626",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Horse%20and%20Boats%20C17510.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -545,10 +592,11 @@
       "source": "http://www.wikidata.org/entity/Q20189720",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Study%20for%20La%20Grande%20Jatte%2C%20Georges%20Seurat%2C%201884.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -569,10 +617,11 @@
       "source": "http://www.wikidata.org/entity/Q20189514",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Man%20with%20a%20Hoe%20C16560.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -593,10 +642,11 @@
       "source": "http://www.wikidata.org/entity/Q20189540",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Peasant%20with%20a%20Hoe%20C16531.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -617,10 +667,11 @@
       "source": "http://www.wikidata.org/entity/Q20190227",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Seascape%20%28Gravelines%29%20A17554.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -641,10 +692,11 @@
       "source": "http://www.wikidata.org/entity/Q20189963",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%20046.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -665,10 +717,11 @@
       "source": "http://www.wikidata.org/entity/Q64571667",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%2C%20Study%20after%20%22The%20Models%22%2C%201888%2C%20NGA%2074269.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -689,10 +742,11 @@
       "source": "http://www.wikidata.org/entity/Q20189724",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Study%20of%20Figures%20for%20La%20Grande%20Jatte%20C17090.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -713,10 +767,11 @@
       "source": "http://www.wikidata.org/entity/Q3793238",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Seurat%2C%20Georges%20-%20The%20Channel%20of%20Gravelines%2C%20Petit%20Fort%20Philippe%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -737,10 +792,11 @@
       "source": "http://www.wikidata.org/entity/Q20189827",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lighthouse%20at%20Honfleur%201886%20Georges%20Seurat.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -761,10 +817,11 @@
       "source": "http://www.wikidata.org/entity/Q20189658",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Seine%20with%20Clothing%20on%20the%20Bank%20C16017.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -785,10 +842,11 @@
       "source": "http://www.wikidata.org/entity/Q20189560",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Stone%20Breaker%20C17508.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -809,10 +867,11 @@
       "source": "http://www.wikidata.org/entity/Q20189671",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Watering%20Can%20-%20Garden%20at%20Le%20Raincy%20C16561.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -828,15 +887,16 @@
       "location": "Collection unknown",
       "city": "Northampton",
       "country": "United States",
-      "lat": 42.318502,
-      "lon": -72.636378,
+      "lat": 42.3189,
+      "lon": -72.6361,
       "source": "http://www.wikidata.org/entity/Q3713920",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Grand%20Jatte%20%28study%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -857,10 +917,11 @@
       "source": "http://www.wikidata.org/entity/Q3848104",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%20-%20Beach%20at%20Gravelines%20PC%20207.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -881,10 +942,11 @@
       "source": "http://www.wikidata.org/entity/Q3908058",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%20012.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -900,15 +962,16 @@
       "location": "Courtauld Gallery",
       "city": "City of Westminster",
       "country": "United Kingdom",
-      "lat": 51.511568,
-      "lon": -0.117712,
+      "lat": 51.51083333,
+      "lon": -0.11722222,
       "source": "http://www.wikidata.org/entity/Q3766163",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Young%20Woman%20Powdering%20Herself%20Georges%20Seurat.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -929,10 +992,11 @@
       "source": "http://www.wikidata.org/entity/Q88311886",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%20-%20Boat%20by%20the%20Riverbank%20PC%2080.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -953,10 +1017,11 @@
       "source": "http://www.wikidata.org/entity/Q88311888",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Seurat%20Homme%20dans%20une%20barque%201884.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -977,10 +1042,11 @@
       "source": "http://www.wikidata.org/entity/Q88311890",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%20-%20Man%20painting%20a%20boat%20PC%2072.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1001,10 +1067,11 @@
       "source": "http://www.wikidata.org/entity/Q88311895",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%20-%20Study%20for%20Le%20Chahut%20PC%20200.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1025,10 +1092,11 @@
       "source": "http://www.wikidata.org/entity/Q79173183",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%20-%20Grassy%20Riverbank%20-%201985.R.68%20-%20Dallas%20Museum%20of%20Art.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1049,10 +1117,11 @@
       "source": "http://www.wikidata.org/entity/Q64574509",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Pierre%20Seurat%20-%20View%20of%20Le%20Crotoy%20from%20Upstream%20-%2070.183%20-%20Detroit%20Institute%20of%20Arts.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1073,10 +1142,11 @@
       "source": "http://www.wikidata.org/entity/Q96748460",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Head%20of%20a%20Young%20Girl%20Seurat.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1097,10 +1167,11 @@
       "source": "http://www.wikidata.org/entity/Q3821251",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%20-%20La%20Tour%20Eiffel%20%28ca.%201889%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1121,10 +1192,11 @@
       "source": "http://www.wikidata.org/entity/Q119145067",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%20-%20Study%20for%20A%20Sunday%20on%20the%20Island%20of%20La%20Grand%20Jatte%20-%20Couple%20Walking%20PC%20140.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1145,10 +1217,11 @@
       "source": "http://www.wikidata.org/entity/Q50816044",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Seurat%20Rue%20Saint-Vincent.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1169,34 +1242,11 @@
       "source": "http://www.wikidata.org/entity/Q15966848",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q64410170",
-      "title": "La Grande Jatte (Study VII)",
-      "date": "1884",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "georges-seurat",
-      "artistName": "Georges Seurat",
-      "locationId": "foundation-e-g-buhrle-collection-zurich",
-      "location": "Foundation E.G. Bührle Collection",
-      "city": "Zurich",
-      "country": "Switzerland",
-      "lat": 47.353045,
-      "lon": 8.561758,
-      "source": "http://www.wikidata.org/entity/Q64410170",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%20-%20%C3%89tude%20pour%20La%20Grande%20Jatte%20PC%20129.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1217,10 +1267,11 @@
       "source": "http://www.wikidata.org/entity/Q70781282",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%20036.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1241,10 +1292,11 @@
       "source": "http://www.wikidata.org/entity/Q3745913",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Pierre%20Seurat%20-%20Vase%20of%20Flowers%20-%201974.100%20-%20Harvard%20Art%20Museums.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1265,10 +1317,11 @@
       "source": "http://www.wikidata.org/entity/Q27967940",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%20-%20View%20of%20Fort%20Samson.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1289,10 +1342,11 @@
       "source": "http://www.wikidata.org/entity/Q116767186",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%20-%20Le%20tas%20de%20pierres.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1313,10 +1367,11 @@
       "source": "http://www.wikidata.org/entity/Q83179707",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%20-%20Vers%20le%20bourg%20PC%2063.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1337,10 +1392,11 @@
       "source": "http://www.wikidata.org/entity/Q130006653",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Madame%20Seurat%2C%20the%20Artist%27s%20Mother%20%28Madame%20Seurat%2C%20m%C3%A8re%29%2C%20by%20Georges%20Seurat%20%28Getty%20108VJM%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1361,10 +1417,11 @@
       "source": "http://www.wikidata.org/entity/Q87842421",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%20001.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1385,10 +1442,11 @@
       "source": "http://www.wikidata.org/entity/Q87842423",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%20030.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1409,10 +1467,11 @@
       "source": "http://www.wikidata.org/entity/Q87842426",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Riverbanks%20Seurat.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1428,15 +1487,16 @@
       "location": "Kröller-Müller Museum",
       "city": "Ede",
       "country": "Netherlands",
-      "lat": 52.095833333,
-      "lon": 5.816944444,
+      "lat": 52.0956046,
+      "lon": 5.8174138,
       "source": "http://www.wikidata.org/entity/Q3617404",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1886%20Seurat%20Hafen%20von%20Honfleur%20anagoria.JPG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1457,10 +1517,11 @@
       "source": "http://www.wikidata.org/entity/Q3796592",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%20-%20Bout%20de%20la%20jet%C3%A9e%20%C3%A0%20Honfleur%20PC%20171.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1472,19 +1533,20 @@
       "attribution": "Accepted",
       "artistId": "georges-seurat",
       "artistName": "Georges Seurat",
-      "locationId": "kroller-muller-museum-otterlo",
+      "locationId": "kroller-muller-museum-ede",
       "location": "Kröller-Müller Museum",
-      "city": "Otterlo",
+      "city": "Ede",
       "country": "Netherlands",
-      "lat": 52.0956046,
-      "lon": 5.8174138,
+      "lat": 52.095833333,
+      "lon": 5.816944444,
       "source": "http://www.wikidata.org/entity/Q3835761",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%2C%201889-90%2C%20Le%20Chahut%2C%20Kr%C3%B6ller-M%C3%BCller%20Museum.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1496,19 +1558,20 @@
       "attribution": "Accepted",
       "artistId": "georges-seurat",
       "artistName": "Georges Seurat",
-      "locationId": "kroller-muller-museum-ede",
+      "locationId": "kroller-muller-museum-otterlo",
       "location": "Kröller-Müller Museum",
-      "city": "Ede",
+      "city": "Otterlo",
       "country": "Netherlands",
-      "lat": 52.095833333,
-      "lon": 5.816944444,
+      "lat": 52.0956046,
+      "lon": 5.8174138,
       "source": "http://www.wikidata.org/entity/Q3712836",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%20057.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1520,19 +1583,45 @@
       "attribution": "Accepted",
       "artistId": "georges-seurat",
       "artistName": "Georges Seurat",
-      "locationId": "kroller-muller-museum-ede",
+      "locationId": "kroller-muller-museum-otterlo",
       "location": "Kröller-Müller Museum",
-      "city": "Ede",
+      "city": "Otterlo",
       "country": "Netherlands",
       "lat": 52.095833333,
       "lon": 5.816944444,
       "source": "http://www.wikidata.org/entity/Q3793239",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1890%20Seurat%20Kanal%20von%20Gravelines%20anagoria.JPG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q64410170",
+      "title": "La Grande Jatte (Study VII)",
+      "date": "1884",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "georges-seurat",
+      "artistName": "Georges Seurat",
+      "locationId": "kunsthaus-zurich-district-1",
+      "location": "Kunsthaus Zürich",
+      "city": "District 1",
+      "country": "Switzerland",
+      "lat": 47.370277777,
+      "lon": 8.548055555,
+      "source": "http://www.wikidata.org/entity/Q64410170",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%20-%20%C3%89tude%20pour%20La%20Grande%20Jatte%20PC%20129.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q34013",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1553,10 +1642,11 @@
       "source": "http://www.wikidata.org/entity/Q64410171",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%20-%20%C3%89tude%20pour%20Parade%20de%20cirque%20PC%20187.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1568,19 +1658,20 @@
       "attribution": "Accepted",
       "artistId": "georges-seurat",
       "artistName": "Georges Seurat",
-      "locationId": "kunsthaus-zurich-zurich",
+      "locationId": "kunsthaus-zurich-district-1",
       "location": "Kunsthaus Zürich",
-      "city": "Zurich",
+      "city": "District 1",
       "country": "Switzerland",
       "lat": 47.370277777,
       "lon": 8.548055555,
       "source": "http://www.wikidata.org/entity/Q19710108",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%20-%20Le%20jardinier.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1596,15 +1687,16 @@
       "location": "Kunstmuseum Basel",
       "city": "Basel",
       "country": "Switzerland",
-      "lat": 47.554032,
-      "lon": 7.594193,
+      "lat": 47.554167,
+      "lon": 7.594167,
       "source": "http://www.wikidata.org/entity/Q126824865",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%20-%20Paysage%20-%20Dreyfus%20PC%2022.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1620,15 +1712,16 @@
       "location": "Menard Art Museum",
       "city": "Komaki",
       "country": "Japan",
-      "lat": 35.288899,
-      "lon": 136.91978,
+      "lat": 35.288883,
+      "lon": 136.919837,
       "source": "http://www.wikidata.org/entity/Q67584932",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%27Paysan%20travaillant%27%20by%20Georges%20Seurat%2C%201882-83.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1649,10 +1742,11 @@
       "source": "http://www.wikidata.org/entity/Q78638850",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%20-%20A%20Man%20Leaning%20on%20a%20Parapet%20-%202019.141.17%20-%20Metropolitan%20Museum%20of%20Art.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1673,10 +1767,11 @@
       "source": "http://www.wikidata.org/entity/Q29384922",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Aman-Jean%20%28Portrait%20of%20Edmond%20Fran%C3%A7ois%20Aman-Jean%29%20MET%20172701.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1697,10 +1792,11 @@
       "source": "http://www.wikidata.org/entity/Q134970637",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Embroidery%3B%20The%20Artist%27s%20Mother%20MET%20DT200589.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1721,10 +1817,11 @@
       "source": "http://www.wikidata.org/entity/Q3976307",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%20034.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1745,10 +1842,11 @@
       "source": "http://www.wikidata.org/entity/Q19905268",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gray%20Weather%2C%20Grande%20Jatte%20MET%20DT1945.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1769,10 +1867,11 @@
       "source": "http://www.wikidata.org/entity/Q20186455",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%20038.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1793,10 +1892,11 @@
       "source": "http://www.wikidata.org/entity/Q134970818",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/House%20at%20Dusk%20%28La%20Cit%C3%A9%29%20MET%20DT211327.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1817,10 +1917,11 @@
       "source": "http://www.wikidata.org/entity/Q19912804",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Landscape%20at%20Saint-Ouen%20MET%20DT9036.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1841,10 +1942,11 @@
       "source": "http://www.wikidata.org/entity/Q29385300",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Study%20for%20%22Poseuses%22%20MET%20DP359022.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1865,10 +1967,11 @@
       "source": "http://www.wikidata.org/entity/Q3823444",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%20066.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1889,10 +1992,11 @@
       "source": "http://www.wikidata.org/entity/Q3965263",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%20063.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1913,10 +2017,11 @@
       "source": "http://www.wikidata.org/entity/Q19912803",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Gardener%20MET%20DT1499.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1937,10 +2042,11 @@
       "source": "http://www.wikidata.org/entity/Q15971189",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Hand%20of%20Poussin%2C%20after%20Ingres%20MET%201987.326.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1961,10 +2067,11 @@
       "source": "http://www.wikidata.org/entity/Q20188335",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Lighthouse%20at%20Honfleur%20MET%20DT3307.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -1985,10 +2092,11 @@
       "source": "http://www.wikidata.org/entity/Q20186434",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Mower%20MET%20SLP0206.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2009,10 +2117,11 @@
       "source": "http://www.wikidata.org/entity/Q19912395",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/View%20of%20the%20Seine%20MET%20DT211328.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2033,10 +2142,11 @@
       "source": "http://www.wikidata.org/entity/Q20890819",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%20-%20Port-en-Bessin%20-%2055.38%20-%20Minneapolis%20Institute%20of%20Arts.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2057,10 +2167,11 @@
       "source": "http://www.wikidata.org/entity/Q96098657",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%20-%20Paysage%2C%20L%20Ile%20de%20la%20Grande-Jatte%20PC130.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2081,10 +2192,11 @@
       "source": "http://www.wikidata.org/entity/Q114005367",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%20-%20For%C3%AAt%20de%20Barbizon%20%C3%A0%20l%27automne.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2105,10 +2217,11 @@
       "source": "http://www.wikidata.org/entity/Q3899880",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%20007.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2129,10 +2242,11 @@
       "source": "http://www.wikidata.org/entity/Q3900691",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Seurat%20Pescatori.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2153,10 +2267,11 @@
       "source": "http://www.wikidata.org/entity/Q3602905",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2177,10 +2292,11 @@
       "source": "http://www.wikidata.org/entity/Q15971214",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2201,10 +2317,11 @@
       "source": "http://www.wikidata.org/entity/Q3882034",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Seurat%20Il%20povero%20pescatore.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2225,10 +2342,11 @@
       "source": "http://www.wikidata.org/entity/Q3766158",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%20-%20Le%20petit%20paysan%20en%20bleu.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2249,10 +2367,11 @@
       "source": "http://www.wikidata.org/entity/Q3832504",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lisi%C3%A8re%20de%20bois%20au%20printemps%2C%20Georges%20Seurat%2C%20vers%201882-1883%20%2816411914023%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2273,10 +2392,11 @@
       "source": "http://www.wikidata.org/entity/Q3853687",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2297,10 +2417,11 @@
       "source": "http://www.wikidata.org/entity/Q130378239",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2321,10 +2442,11 @@
       "source": "http://www.wikidata.org/entity/Q3955440",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Alley%20in%20the%20Forest%20Barbizon%20%28All%C3%A9e%20en%20for%C3%AAt%2C%20Barbizon%29%20by%20Georges%20Seurat.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2345,10 +2467,11 @@
       "source": "http://www.wikidata.org/entity/Q3888858",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Champs%20%C3%A0%20Barbizon%20%28Field%20in%20Barbizon%29%20by%20Georges%20Seurat.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2369,10 +2492,11 @@
       "source": "http://www.wikidata.org/entity/Q3908651",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%20049.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2393,10 +2517,11 @@
       "source": "http://www.wikidata.org/entity/Q3859806",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Seurat%20Modella%20di%20profilo.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2417,10 +2542,11 @@
       "source": "http://www.wikidata.org/entity/Q1119387",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Seurat%20Modella%20di%20spalle.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2441,10 +2567,11 @@
       "source": "http://www.wikidata.org/entity/Q3859805",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Seurat%20Modella%20in%20piedi.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2465,10 +2592,11 @@
       "source": "http://www.wikidata.org/entity/Q3859804",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Poseuse%20debout%2C%20de%20face%2C%20%C3%A9tude%20pour%20Les%20Poseuses%20%28ca.%201887%29%20Georges%20Seurat%20%28Mus%C3%A9e%20d%27Orsay%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2489,10 +2617,11 @@
       "source": "http://www.wikidata.org/entity/Q3941966",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%20-%20Ruines%20%C3%A0%20Grandcamp.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2513,10 +2642,11 @@
       "source": "http://www.wikidata.org/entity/Q3766184",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat-%20Etude%20pour%20Un%20dimanche%20apr%C3%A8s-midi%20%C3%A0%20l%27%C3%AEle%20de%20la%20Grande%20Jatte%20PC%20120.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2537,10 +2667,11 @@
       "source": "http://www.wikidata.org/entity/Q2275610",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%20-%20The%20Circus%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2561,10 +2692,11 @@
       "source": "http://www.wikidata.org/entity/Q3976298",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%20065.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2585,10 +2717,11 @@
       "source": "http://www.wikidata.org/entity/Q130421382",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2609,10 +2742,11 @@
       "source": "http://www.wikidata.org/entity/Q3607971",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Seurat%20Arbres%2C%20Hiver.JPG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2633,10 +2767,11 @@
       "source": "http://www.wikidata.org/entity/Q3888853",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%20-%20Paysage%20d%27%C3%8Ele-de-France.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2657,34 +2792,11 @@
       "source": "http://www.wikidata.org/entity/Q3824328",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%20018.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q18919413",
-      "title": "Gravelines Channel",
-      "date": "1890",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "georges-seurat",
-      "artistName": "Georges Seurat",
-      "locationId": "musee-national-d-art-moderne-quartier-saint-merri",
-      "location": "Musée National d'Art Moderne",
-      "city": "Quartier Saint-Merri",
-      "country": "France",
-      "lat": 48.86063847,
-      "lon": 2.352277186,
-      "source": "http://www.wikidata.org/entity/Q18919413",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Seurat-Gravelines-Annonciade.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2705,10 +2817,11 @@
       "source": "http://www.wikidata.org/entity/Q20539818",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Pierre%20Seurat%20-%20Woman%20in%20a%20Park%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2729,10 +2842,11 @@
       "source": "http://www.wikidata.org/entity/Q28039625",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%20-%20Young%20Woman%20Powdering%20Herself%20-%2098.301%20-%20Museum%20of%20Fine%20Arts.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2748,15 +2862,16 @@
       "location": "Museum of Modern Art",
       "city": "Manhattan",
       "country": "United States",
-      "lat": 40.761444444,
-      "lon": -73.977611111,
+      "lat": 40.761666666,
+      "lon": -73.9775,
       "source": "http://www.wikidata.org/entity/Q3786544",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges-Pierre%20Seurat%20-%20Honfleur%2C%20un%20soir%2C%20embouchure%20de%20la%20Seine%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2772,15 +2887,16 @@
       "location": "Museum of Modern Art",
       "city": "Manhattan",
       "country": "United States",
-      "lat": 40.761444444,
-      "lon": -73.977611111,
+      "lat": 40.761666666,
+      "lon": -73.9775,
       "source": "http://www.wikidata.org/entity/Q3775512",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges-Pierre%20Seurat%20-%20Grandcamp%2C%20un%20soir%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2796,15 +2912,16 @@
       "location": "Museum of Modern Art",
       "city": "Manhattan",
       "country": "United States",
-      "lat": 40.761444444,
-      "lon": -73.977611111,
+      "lat": 40.761666666,
+      "lon": -73.9775,
       "source": "http://www.wikidata.org/entity/Q3818974",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%20032.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2820,15 +2937,16 @@
       "location": "Museum of Modern Art",
       "city": "Manhattan",
       "country": "United States",
-      "lat": 40.761444444,
-      "lon": -73.977611111,
+      "lat": 40.761666666,
+      "lon": -73.9775,
       "source": "http://www.wikidata.org/entity/Q3793240",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges-Pierre%20Seurat%20-%20The%20Channel%20at%20Gravelines%2C%20Evening%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2849,10 +2967,11 @@
       "source": "http://www.wikidata.org/entity/Q27974810",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%20%281859-1891%29%20-%20Study%20for%20%27Une%20Baignade%27%20-%20NG%202222%20-%20National%20Galleries%20of%20Scotland.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2873,10 +2992,11 @@
       "source": "http://www.wikidata.org/entity/Q18684436",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%20-%20La%20Luzerne%2C%20Saint-Denis%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2897,10 +3017,11 @@
       "source": "http://www.wikidata.org/entity/Q18684469",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%20-%20Seated%20Nude-%20Study%20for%20%27Une%20Baignade%27%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2921,10 +3042,11 @@
       "source": "http://www.wikidata.org/entity/Q26691811",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%20%281859-1891%29%20-%20A%20River%20Bank%20%28The%20Seine%20at%20Asni%C3%A8res%29%20-%20NG6559%20-%20National%20Gallery.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2945,10 +3067,11 @@
       "source": "http://www.wikidata.org/entity/Q1090837",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Baigneurs%20a%20Asnieres.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2969,10 +3092,11 @@
       "source": "http://www.wikidata.org/entity/Q26691800",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%20-%20Study%20for%20Bathers%20at%20Asni%C3%A8res%20PC%2091.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -2993,10 +3117,11 @@
       "source": "http://www.wikidata.org/entity/Q3603728",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%20%281859-1891%29%20-%20Clothes%20on%20the%20Grass%20%28V%C3%AAtements%20sur%20l%27herbe%29%20-%20L727%20-%20National%20Gallery.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3017,10 +3142,11 @@
       "source": "http://www.wikidata.org/entity/Q26691806",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%20%281859-1891%29%20-%20Study%20for%20%27La%20Grande%20Jatte%27%20-%20NG6560%20-%20National%20Gallery.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3041,10 +3167,11 @@
       "source": "http://www.wikidata.org/entity/Q26705602",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Seurat-Le%20Bec%20du%20Hoc%20%C3%A0%20Grandcamp.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3065,10 +3192,11 @@
       "source": "http://www.wikidata.org/entity/Q26689536",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%20%281859-1891%29%20-%20Study%20for%20%27La%20Grande%20Jatte%27%20-%20NG6556%20-%20National%20Gallery.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3089,10 +3217,11 @@
       "source": "http://www.wikidata.org/entity/Q26492621",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%20016.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3113,10 +3242,11 @@
       "source": "http://www.wikidata.org/entity/Q3713940",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%20050.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3137,10 +3267,11 @@
       "source": "http://www.wikidata.org/entity/Q26708470",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%20-%20The%20Rainbow%20Study%20for%20Bathers%20at%20Asni%C3%A8res.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3161,10 +3292,11 @@
       "source": "http://www.wikidata.org/entity/Q26523288",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%20%281859-1891%29%20-%20The%20Seine%20seen%20from%20La%20Grande%20Jatte%20-%20NG6558%20-%20National%20Gallery.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3185,10 +3317,11 @@
       "source": "http://www.wikidata.org/entity/Q50734518",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%20-%20Study%20for%20Le%20Bec%20du%20Hoc%2C%20Grandcamp%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3209,10 +3342,11 @@
       "source": "http://www.wikidata.org/entity/Q110745406",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Seurat%20-%20Studie%20f%C3%B6r%20m%C3%A5lningen%20Badarna%20i%20Asni%C3%A8res%201884.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3233,10 +3367,11 @@
       "source": "http://www.wikidata.org/entity/Q18600244",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Bridge%20at%20Bineau%20%28Georges%20Seurat%29%20-%20Nationalmuseum%20-%2023400.tif",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3257,10 +3392,11 @@
       "source": "http://www.wikidata.org/entity/Q19607558",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Seurat%20Angelica%20%28apr%C3%A8s%20Ingres%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3281,10 +3417,11 @@
       "source": "http://www.wikidata.org/entity/Q118054308",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%27The%20Stone%20Breakers%2C%20Le%20Raincy%27%20by%20Georges%20Seurat%2C%20Norton%20Simon%20Museum.JPG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3305,10 +3442,11 @@
       "source": "http://www.wikidata.org/entity/Q3888838",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paysage%20%C3%A0%20Grandcamp%2C%20par%20Georges%20Seurat.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3329,10 +3467,11 @@
       "source": "http://www.wikidata.org/entity/Q114797914",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%20-%20Artist%20at%20Work%20%28Le%20Peintre%20au%20Travail%29%2C%20c1884%20-Philadelphia%20Museum%20of%20Art%201952-61-118-pma2018.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3353,10 +3492,11 @@
       "source": "http://www.wikidata.org/entity/Q18685714",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%2C%20French%20-%20Moored%20Boats%20and%20Trees%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3377,10 +3517,11 @@
       "source": "http://www.wikidata.org/entity/Q114797912",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%20-%20Seated%20Woman%20%28Study%20for%20La%20Grande%20Jatte%29%2C%20c1885%20-Philadelphia%20Museum%20of%20Art%201963-181-180-pma2018.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3392,19 +3533,20 @@
       "attribution": "Accepted",
       "artistId": "georges-seurat",
       "artistName": "Georges Seurat",
-      "locationId": "philadelphia-museum-of-art-philadelphia",
+      "locationId": "philadelphia-museum-of-art-philadelphia-county",
       "location": "Philadelphia Museum of Art",
-      "city": "Philadelphia",
+      "city": "Philadelphia County",
       "country": "United States",
       "lat": 39.965833333,
       "lon": -75.181388888,
       "source": "http://www.wikidata.org/entity/Q18685709",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%2C%20French%20-%20Trombonist%20%28Study%20for%20%22Circus%20Side%20Show%22%29%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3425,10 +3567,11 @@
       "source": "http://www.wikidata.org/entity/Q79790954",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%20-%20Low%20Tide%20at%20Grandcamp%20PC%20155.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3449,10 +3592,11 @@
       "source": "http://www.wikidata.org/entity/Q67959131",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3473,10 +3617,11 @@
       "source": "http://www.wikidata.org/entity/Q67959133",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%20-%20La%20Grande%20Jatte%2C%20the%20White%20Dog%20-%20Rosengart%20collection.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3497,10 +3642,11 @@
       "source": "http://www.wikidata.org/entity/Q13571392",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%20026.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3521,10 +3667,11 @@
       "source": "http://www.wikidata.org/entity/Q78692826",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Pierre%20Seurat%20-%20Port-en-Bessin%2C%20The%20Outer%20Harbor%20%28Low%20Tide%29%20-%204-1934%20-%20Saint%20Louis%20Art%20Museum.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3540,15 +3687,16 @@
       "location": "Scottish National Gallery",
       "city": "City of Edinburgh",
       "country": "United Kingdom",
-      "lat": 55.950899738,
-      "lon": -3.195660636,
+      "lat": 55.950902,
+      "lon": -3.195686,
       "source": "http://www.wikidata.org/entity/Q124051216",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/A%20Study%20for%20%27Une%20Baignade%27.PNG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3569,10 +3717,11 @@
       "source": "http://www.wikidata.org/entity/Q19912500",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/GUGG%20A%20Shop%20and%20Two%20Figures.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3593,10 +3742,11 @@
       "source": "http://www.wikidata.org/entity/Q19912493",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/GUGG%20Child%20in%20White.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3617,10 +3767,11 @@
       "source": "http://www.wikidata.org/entity/Q19883012",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Farm%20Women%20at%20Work%20by%20Georges%20Seurat%2C%201882-83.JPG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3641,10 +3792,11 @@
       "source": "http://www.wikidata.org/entity/Q113496797",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3665,10 +3817,11 @@
       "source": "http://www.wikidata.org/entity/Q19883011",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%20008.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3689,10 +3842,11 @@
       "source": "http://www.wikidata.org/entity/Q3687747",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%20002.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3713,10 +3867,11 @@
       "source": "http://www.wikidata.org/entity/Q19912489",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/GUGG%20Seated%20Monkey.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3737,10 +3892,11 @@
       "source": "http://www.wikidata.org/entity/Q19912498",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/GUGG%20The%20Clipper.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3761,10 +3917,11 @@
       "source": "http://www.wikidata.org/entity/Q19912487",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/GUGG%20The%20Gateway.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3785,10 +3942,11 @@
       "source": "http://www.wikidata.org/entity/Q19912496",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/GUGG%20The%20Meadow.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3809,10 +3967,11 @@
       "source": "http://www.wikidata.org/entity/Q124724902",
       "image": "",
       "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3833,10 +3992,11 @@
       "source": "http://www.wikidata.org/entity/Q110894272",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/George%20Seurat%20-%20River%27s%20Edge%20PC%2077.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3857,10 +4017,11 @@
       "source": "http://www.wikidata.org/entity/Q64578123",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%20-%20%C3%89tude%20pour%20Une%20baignade%20%C3%A0%20Asni%C3%A8res%20PC%2096.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3881,10 +4042,11 @@
       "source": "http://www.wikidata.org/entity/Q64540662",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%20-%20The%20Channel%20at%20Gravelines%2C%20Petit-Fort-Philippe%20PC%20208.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3905,10 +4067,11 @@
       "source": "http://www.wikidata.org/entity/Q23939888",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges-Pierre%20Seurat%20-%20The%20Stone%20Breaker%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3929,10 +4092,11 @@
       "source": "http://www.wikidata.org/entity/Q19838019",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/De%20Seine%20bij%20Courbevoie%20-%20s0489S1998%20-%20Van%20Gogh%20Museum.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3953,10 +4117,11 @@
       "source": "http://www.wikidata.org/entity/Q85225383",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%20-%20Houses%20and%20Garden%20PC%2029.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -3977,10 +4142,11 @@
       "source": "http://www.wikidata.org/entity/Q107351629",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%20062.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -4001,10 +4167,11 @@
       "source": "http://www.wikidata.org/entity/Q116143435",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%20-%20Figure%20massive%20dans%20un%20paysage%20%C3%A0%20Barbizon%20PC%2027.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -4025,10 +4192,11 @@
       "source": "http://www.wikidata.org/entity/Q49261336",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%20-%20A%20Fisherman%20-%201966.79.14%20-%20Yale%20University%20Art%20Gallery.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -4049,10 +4217,11 @@
       "source": "http://www.wikidata.org/entity/Q49261198",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%20-%20Black%20Cow%20in%20a%20Meadow%20-%201969.96.1%20-%20Yale%20University%20Art%20Gallery.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -4073,10 +4242,11 @@
       "source": "http://www.wikidata.org/entity/Q114804020",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%20-%20L%E2%80%99%C3%A9cho%20%28Echo%29%2C%20c1883-1884%20-%20Yale%20University%20Art%20Gallery.tif",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -4097,10 +4267,11 @@
       "source": "http://www.wikidata.org/entity/Q114804108",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Seurat%20-%20Seated%20Boy%20with%20Straw%20Hat%2C%20study%20for%20Bathers%20at%20Asni%C3%A8res%2C%201883%E2%80%9384.tif",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     },
@@ -4121,10 +4292,11 @@
       "source": "http://www.wikidata.org/entity/Q49261266",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%20-%20Two%20Stonebreaker%20-%201969.96.2%20-%20Yale%20University%20Art%20Gallery.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q34013",
-        "retrieved": "2026-07-22",
+        "retrieved": "2026-07-23",
         "reviewStatus": "generated"
       }
     }
