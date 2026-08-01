@@ -98,25 +98,6 @@
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%28Treviso%29%20The%20painter%20Antoine%20Watteau%20by%20Rosalba%20Carriera%20-%20Museo%20civico%20di%20Santa%20Caterina.jpg"
     },
     {
-      "id": "Q18889974",
-      "artistId": "edvard-munch",
-      "artistName": "Edvard Munch",
-      "reviewStatus": "generated",
-      "title": "Gustav Schiefler",
-      "date": "1908",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "finnish-national-gallery-helsinki",
-      "location": "Finnish National Gallery",
-      "city": "Helsinki",
-      "country": "Finland",
-      "lat": 60.17166667,
-      "lon": 24.93694444,
-      "source": "http://www.wikidata.org/entity/Q18889974",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Munch%20-%20Portrait%20of%20Gustaf%20Schiefler%2C%201908%2C%20A%20II%20856.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Edvard%20Munch%201933-2.jpg"
-    },
-    {
       "id": "Q20795244",
       "artistId": "eugene-delacroix",
       "artistName": "Eugène Delacroix",
@@ -172,25 +153,6 @@
       "source": "http://www.wikidata.org/entity/Q20797306",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Giovanni%20Battista%20Tiepolo%20%281696%E2%80%931770%29-%20The%20Rape%20of%20the%20Sabine%20Women%20-%20Sabiinitarten%20ry%C3%B6st%C3%B6%20-%20Sabinskornas%20bortr%C3%B6vanden%20%2829178832180%29.jpg",
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Tiepolo%2C%20Giovanni%20Battista%20-%20Fresken%20Treppenhaus%20des%20W%C3%BCrzburger%20Residenzschlosses%2C%20Szenen%20zur%20Apotheose%20des%20F%C3%BCrstbischofs%2C%20Detail%20Giovanni%20Battista%20Tiepolo%20-%201750-1753.jpg"
-    },
-    {
-      "id": "Q18346868",
-      "artistId": "honore-daumier",
-      "artistName": "Honoré Daumier",
-      "reviewStatus": "generated",
-      "title": "Man under lock and key",
-      "date": "Date unknown",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "finnish-national-gallery-helsinki",
-      "location": "Finnish National Gallery",
-      "city": "Helsinki",
-      "country": "Finland",
-      "lat": 60.17166667,
-      "lon": 24.93694444,
-      "source": "http://www.wikidata.org/entity/Q18346868",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Honor%C3%A9%20Daumier%20-%20Man%20under%20lock%20and%20key%20-%20A-2002-174%20-%20Finnish%20National%20Gallery.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Honore%20Daumier-Nadar.jpg"
     },
     {
       "id": "Q20771437",

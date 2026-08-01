@@ -250,25 +250,6 @@
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Gainsborough%20by%20Thomas%20Gainsborough.jpg"
     },
     {
-      "id": "Q64597083",
-      "artistId": "monet",
-      "artistName": "Claude Monet",
-      "reviewStatus": "generated",
-      "title": "La Débâcle",
-      "date": "1880",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "dunedin-public-art-gallery-dunedin-city",
-      "location": "Dunedin Public Art Gallery",
-      "city": "Dunedin City",
-      "country": "New Zealand",
-      "lat": -45.87451,
-      "lon": 170.50281,
-      "source": "http://www.wikidata.org/entity/Q64597083",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%27La%20D%C3%A9b%C3%A2cle%27%2C%20oil%20on%20canvas%20painting%20by%20Monet%2C%201880%2C%20Dunedin%20Public%20Art%20Gallery.JPG",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%201899%20Nadar%20crop.jpg"
-    },
-    {
       "id": "Q28473785",
       "artistId": "jean-baptiste-camille-corot",
       "artistName": "Jean-Baptiste-Camille Corot",

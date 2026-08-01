@@ -193,25 +193,6 @@
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20110.jpg"
     },
     {
-      "id": "Q27953704",
-      "artistId": "amedeo-modigliani",
-      "artistName": "Amedeo Modigliani",
-      "reviewStatus": "generated",
-      "title": "Bust of a Woman",
-      "date": "1919",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "national-museum-of-fine-arts-argentina-buenos-aires",
-      "location": "National Museum of Fine Arts, Argentina",
-      "city": "Buenos Aires",
-      "country": "Argentina",
-      "lat": -34.583986,
-      "lon": -58.39297,
-      "source": "http://www.wikidata.org/entity/Q27953704",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Modigliani%20-%20Figura%20de%20mujer.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Amedeo%20Modigliani%201918%20restored.jpg"
-    },
-    {
       "id": "Q27953674",
       "artistId": "amedeo-modigliani",
       "artistName": "Amedeo Modigliani",
@@ -228,6 +209,25 @@
       "lon": -58.39297,
       "source": "http://www.wikidata.org/entity/Q27953674",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Modigliani%20-%20Busto%20de%20mulher.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Amedeo%20Modigliani%201918%20restored.jpg"
+    },
+    {
+      "id": "Q27953704",
+      "artistId": "amedeo-modigliani",
+      "artistName": "Amedeo Modigliani",
+      "reviewStatus": "generated",
+      "title": "Bust of a Woman",
+      "date": "1919",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "national-museum-of-fine-arts-argentina-buenos-aires",
+      "location": "National Museum of Fine Arts, Argentina",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "lat": -34.583986,
+      "lon": -58.39297,
+      "source": "http://www.wikidata.org/entity/Q27953704",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Modigliani%20-%20Figura%20de%20mujer.jpg",
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Amedeo%20Modigliani%201918%20restored.jpg"
     },
     {
@@ -894,25 +894,6 @@
       "source": "http://www.wikidata.org/entity/Q27954713",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20du%20p%C3%A8re%20de%20l%27artiste%20-%20Henri%20Rousseau.jpg",
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg"
-    },
-    {
-      "id": "Q18669871",
-      "artistId": "honore-daumier",
-      "artistName": "Honoré Daumier",
-      "reviewStatus": "generated",
-      "title": "Untitled record",
-      "date": "1900",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "national-museum-of-fine-arts-argentina-buenos-aires",
-      "location": "National Museum of Fine Arts, Argentina",
-      "city": "Buenos Aires",
-      "country": "Argentina",
-      "lat": -34.583986,
-      "lon": -58.39297,
-      "source": "http://www.wikidata.org/entity/Q18669871",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Honor%C3%A9%20Daumier%20-%20Les%20Amateurs%20d%E2%80%99estampes.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Honore%20Daumier-Nadar.jpg"
     },
     {
       "id": "Q18177859",

@@ -60,25 +60,6 @@
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg"
     },
     {
-      "id": "Q60606924",
-      "artistId": "monet",
-      "artistName": "Claude Monet",
-      "reviewStatus": "generated",
-      "title": "Springtime",
-      "date": "1875",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "johannesburg-art-gallery-joubert-park",
-      "location": "Johannesburg Art Gallery",
-      "city": "Joubert Park",
-      "country": "South Africa",
-      "lat": -26.197,
-      "lon": 28.0471,
-      "source": "http://www.wikidata.org/entity/Q60606924",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%20-%20Springtime%20-%20Johannesburg%20Art%20Gallery.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%201899%20Nadar%20crop.jpg"
-    },
-    {
       "id": "Q60607689",
       "artistId": "paul-signac",
       "artistName": "Paul Signac",

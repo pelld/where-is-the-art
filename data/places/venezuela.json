@@ -22,25 +22,6 @@
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg"
     },
     {
-      "id": "Q108354260",
-      "artistId": "monet",
-      "artistName": "Claude Monet",
-      "reviewStatus": "generated",
-      "title": "Untitled record",
-      "date": "1886",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "contemporary-art-museum-of-caracas-caracas",
-      "location": "Contemporary Art Museum of Caracas",
-      "city": "Caracas",
-      "country": "Venezuela",
-      "lat": 10.498527,
-      "lon": -66.899623,
-      "source": "http://www.wikidata.org/entity/Q108354260",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%20%22Las%20Pir%C3%A1mides%20a%20Port-Coton%22%20%281886%29%20%C3%93leo%20sobre%20tela%3B%2065%2C5%20x%2081%2C5%20cm.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%201899%20Nadar%20crop.jpg"
-    },
-    {
       "id": "Q17631819",
       "artistId": "henri-matisse",
       "artistName": "Henri Matisse",

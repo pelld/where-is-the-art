@@ -22,25 +22,6 @@
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Greco%20-%20Portrait%20of%20a%20Man%20-%20WGA10554.jpg"
     },
     {
-      "id": "Q123560193",
-      "artistId": "monet",
-      "artistName": "Claude Monet",
-      "reviewStatus": "generated",
-      "title": "Fishing boats in Honfleur",
-      "date": "1868",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "calouste-gulbenkian-museum-avenidas-novas",
-      "location": "Calouste Gulbenkian Museum",
-      "city": "Avenidas Novas",
-      "country": "Portugal",
-      "lat": 38.736666666,
-      "lon": -9.154166666,
-      "source": "http://www.wikidata.org/entity/Q123560193",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Boats%20by%20Claude%20Monet.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%201899%20Nadar%20crop.jpg"
-    },
-    {
       "id": "Q10335777",
       "artistId": "monet",
       "artistName": "Claude Monet",
@@ -345,12 +326,12 @@
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre%20Auguste%20Renoir%2C%20uncropped%20image.jpg"
     },
     {
-      "id": "Q3610098",
+      "id": "Q21484378",
       "artistId": "rembrandt",
       "artistName": "Rembrandt",
       "reviewStatus": "generated",
-      "title": "Pallas Athena",
-      "date": "1657",
+      "title": "Seated old man with a cane in fanciful costume",
+      "date": "1645",
       "type": "Painting",
       "attribution": "Accepted",
       "locationId": "calouste-gulbenkian-museum-avenidas-novas",
@@ -359,8 +340,8 @@
       "country": "Portugal",
       "lat": 38.736666666,
       "lon": -9.154166666,
-      "source": "http://www.wikidata.org/entity/Q3610098",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pallas%20Athena%20by%20Rembrandt%20Museu%20Calouste%20Gulbenkian%201488.jpg",
+      "source": "http://www.wikidata.org/entity/Q21484378",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gulbenkian%20rembrandt.jpg",
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20van%20Rijn%20-%20Self-Portrait%20-%20Google%20Art%20Project.jpg"
     },
     {
@@ -438,25 +419,6 @@
       "source": "http://www.wikidata.org/entity/Q115118947",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Narciso%20Gustave%20Courbet%2001.jpg",
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustave%20Courbet%2C%20photograph%20Atelier%20Nadar%2C%20c.%201860s.jpg"
-    },
-    {
-      "id": "Q62129152",
-      "artistId": "anthony-van-dyck",
-      "artistName": "Anthony van Dyck",
-      "reviewStatus": "generated",
-      "title": "Portrait of Lucas Vorsterman the Elder",
-      "date": "1630",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "national-museum-of-ancient-art-estrela",
-      "location": "National Museum of Ancient Art",
-      "city": "Estrela",
-      "country": "Portugal",
-      "lat": 38.7053,
-      "lon": -9.16072,
-      "source": "http://www.wikidata.org/entity/Q62129152",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Anthony%20van%20Dyck%20-%20Portrait%20of%20Lucas%20Vorsterman%20the%20Elder.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Anthony%20van%20Dyck%20-%20Self-portrait.jpg"
     },
     {
       "id": "Q131541131",
@@ -855,25 +817,6 @@
       "lon": -9.16072,
       "source": "http://www.wikidata.org/entity/Q30005234",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Salome%20by%20Lucas%20Cranach%20the%20Elder%20-%201st%20third%20of%2016th%20century%20-%20oil%20on%20oak.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20d.%20%C3%84.%20063.jpg"
-    },
-    {
-      "id": "Q96354815",
-      "artistId": "lucas-cranach-the-elder",
-      "artistName": "Lucas Cranach the Elder",
-      "reviewStatus": "generated",
-      "title": "St Catherine",
-      "date": "1600",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "national-museum-of-ancient-art-estrela",
-      "location": "National Museum of Ancient Art",
-      "city": "Estrela",
-      "country": "Portugal",
-      "lat": 38.7053,
-      "lon": -9.16072,
-      "source": "http://www.wikidata.org/entity/Q96354815",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Imitatore%20di%20cranach%20il%20vecchio%2C%20santa%20caterina%20d%27alessandria%2C%20xvi%20secolo%20circa%20b.jpg",
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20d.%20%C3%84.%20063.jpg"
     },
     {

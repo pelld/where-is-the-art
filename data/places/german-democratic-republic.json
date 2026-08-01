@@ -17,7 +17,9 @@
       "country": "German Democratic Republic",
       "lat": 51.1802,
       "lon": 14.4271,
-      "source": "http://www.wikidata.org/entity/Q116962342"
+      "source": "http://www.wikidata.org/entity/Q116962342",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20d.%20%C3%84.%20063.jpg"
     }
   ]
 }

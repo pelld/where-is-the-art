@@ -60,25 +60,6 @@
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Self-portrait-1889.jpg"
     },
     {
-      "id": "Q66363872",
-      "artistId": "pierre-auguste-renoir",
-      "artistName": "Pierre-Auguste Renoir",
-      "reviewStatus": "generated",
-      "title": "Vera Sergine Renoir",
-      "date": "1914",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "botero-museum-bogota",
-      "location": "Botero Museum",
-      "city": "Bogotá",
-      "country": "Colombia",
-      "lat": 4.596702536,
-      "lon": -74.073370905,
-      "source": "http://www.wikidata.org/entity/Q66363872",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Renoir%20-%20Vera%20Sergine%20Renoir%2C%201914.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre%20Auguste%20Renoir%2C%20uncropped%20image.jpg"
-    },
-    {
       "id": "Q108333696",
       "artistId": "alfred-sisley",
       "artistName": "Alfred Sisley",

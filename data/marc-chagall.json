@@ -8,12 +8,12 @@
       "attribution": "Accepted",
       "artistId": "marc-chagall",
       "artistName": "Marc Chagall",
-      "locationId": "albertina-innere-stadt",
+      "locationId": "albertina-vienna",
       "location": "Albertina",
-      "city": "Innere Stadt",
+      "city": "Vienna",
       "country": "Austria",
-      "lat": 48.204561111,
-      "lon": 16.368319444,
+      "lat": 48.204722222,
+      "lon": 16.368333333,
       "source": "http://www.wikidata.org/entity/Q106690821",
       "image": "",
       "externalImage": "",
@@ -21,32 +21,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q117358646",
-      "title": "Untitled record",
-      "date": "1914",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "marc-chagall",
-      "artistName": "Marc Chagall",
-      "locationId": "albertina-vienna",
-      "location": "Albertina",
-      "city": "Vienna",
-      "country": "Austria",
-      "lat": 48.204561111,
-      "lon": 16.368319444,
-      "source": "http://www.wikidata.org/entity/Q117358646",
-      "image": "",
-      "externalImage": "",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Shagal%20Choumoff.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -58,12 +33,12 @@
       "attribution": "Accepted",
       "artistId": "marc-chagall",
       "artistName": "Marc Chagall",
-      "locationId": "albertina-vienna",
+      "locationId": "albertina-innere-stadt",
       "location": "Albertina",
-      "city": "Vienna",
+      "city": "Innere Stadt",
       "country": "Austria",
-      "lat": 48.204561111,
-      "lon": 16.368319444,
+      "lat": 48.204722222,
+      "lon": 16.368333333,
       "source": "http://www.wikidata.org/entity/Q117358662",
       "image": "",
       "externalImage": "",
@@ -71,7 +46,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -87,8 +62,8 @@
       "location": "Albertina",
       "city": "Vienna",
       "country": "Austria",
-      "lat": 48.204561111,
-      "lon": 16.368319444,
+      "lat": 48.204722222,
+      "lon": 16.368333333,
       "source": "http://www.wikidata.org/entity/Q115902254",
       "image": "",
       "externalImage": "",
@@ -96,7 +71,32 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q117358646",
+      "title": "Untitled record",
+      "date": "1914",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "marc-chagall",
+      "artistName": "Marc Chagall",
+      "locationId": "albertina-vienna",
+      "location": "Albertina",
+      "city": "Vienna",
+      "country": "Austria",
+      "lat": 48.204722222,
+      "lon": 16.368333333,
+      "source": "http://www.wikidata.org/entity/Q117358646",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Shagal%20Choumoff.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q93284",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -121,7 +121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -146,7 +146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -171,7 +171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -196,7 +196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -221,7 +221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -246,7 +246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -271,7 +271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -296,7 +296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -321,7 +321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -346,7 +346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -371,7 +371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -396,7 +396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -421,7 +421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -446,7 +446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -471,7 +471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -496,7 +496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -521,7 +521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -546,7 +546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -571,7 +571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -596,7 +596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -621,7 +621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -646,7 +646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -671,7 +671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -696,7 +696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -721,7 +721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -746,7 +746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -771,7 +771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -796,7 +796,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -821,7 +821,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -846,12 +846,12 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
     {
-      "id": "Q75121913",
+      "id": "Q75121170",
       "title": "Anger I",
       "date": "1925",
       "type": "Painting",
@@ -864,14 +864,14 @@
       "country": "United States",
       "lat": 38.891388888,
       "lon": -77.02,
-      "source": "http://www.wikidata.org/entity/Q75121913",
+      "source": "http://www.wikidata.org/entity/Q75121170",
       "image": "",
       "externalImage": "",
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Shagal%20Choumoff.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -896,7 +896,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -921,7 +921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -946,7 +946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -971,7 +971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -996,7 +996,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -1021,7 +1021,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -1046,7 +1046,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -1071,7 +1071,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -1096,7 +1096,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -1121,7 +1121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -1146,7 +1146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -1171,7 +1171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -1196,7 +1196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -1221,7 +1221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -1246,7 +1246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -1271,7 +1271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -1296,7 +1296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -1321,7 +1321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -1346,7 +1346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -1371,7 +1371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -1396,7 +1396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -1421,7 +1421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -1446,7 +1446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -1471,7 +1471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -1496,7 +1496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -1521,7 +1521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -1546,7 +1546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -1571,7 +1571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -1596,7 +1596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -1621,7 +1621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -1646,7 +1646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -1671,7 +1671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -1696,7 +1696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -1721,7 +1721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -1746,7 +1746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -1771,7 +1771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -1796,12 +1796,12 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
     {
-      "id": "Q65361735",
+      "id": "Q75121083",
       "title": "Fire in the City",
       "date": "1922",
       "type": "Painting",
@@ -1814,14 +1814,14 @@
       "country": "United States",
       "lat": 38.891388888,
       "lon": -77.02,
-      "source": "http://www.wikidata.org/entity/Q65361735",
+      "source": "http://www.wikidata.org/entity/Q75121083",
       "image": "",
       "externalImage": "",
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Shagal%20Choumoff.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -1846,7 +1846,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -1871,7 +1871,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -1896,7 +1896,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -1921,12 +1921,12 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
     {
-      "id": "Q65080913",
+      "id": "Q75121097",
       "title": "Grandfather's House",
       "date": "1922",
       "type": "Painting",
@@ -1939,14 +1939,14 @@
       "country": "United States",
       "lat": 38.891388888,
       "lon": -77.02,
-      "source": "http://www.wikidata.org/entity/Q65080913",
+      "source": "http://www.wikidata.org/entity/Q75121097",
       "image": "",
       "externalImage": "",
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Shagal%20Choumoff.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -1971,7 +1971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -1996,7 +1996,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -2021,7 +2021,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -2046,7 +2046,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -2071,7 +2071,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -2096,7 +2096,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -2121,7 +2121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -2146,7 +2146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -2171,7 +2171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -2196,7 +2196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -2221,7 +2221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -2246,7 +2246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -2271,7 +2271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -2296,7 +2296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -2321,7 +2321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -2346,7 +2346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -2371,7 +2371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -2396,12 +2396,12 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
     {
-      "id": "Q65080915",
+      "id": "Q75121086",
       "title": "House in Vitebsk",
       "date": "1922",
       "type": "Painting",
@@ -2414,14 +2414,14 @@
       "country": "United States",
       "lat": 38.891388888,
       "lon": -77.02,
-      "source": "http://www.wikidata.org/entity/Q65080915",
+      "source": "http://www.wikidata.org/entity/Q75121086",
       "image": "",
       "externalImage": "",
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Shagal%20Choumoff.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -2446,7 +2446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -2471,7 +2471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -2496,7 +2496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -2521,7 +2521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -2546,7 +2546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -2571,7 +2571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -2596,7 +2596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -2621,7 +2621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -2646,7 +2646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -2671,7 +2671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -2696,7 +2696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -2721,7 +2721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -2746,7 +2746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -2771,7 +2771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -2796,7 +2796,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -2821,7 +2821,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -2846,7 +2846,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -2871,7 +2871,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -2896,7 +2896,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -2921,7 +2921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -2946,7 +2946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -2971,7 +2971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -2996,7 +2996,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -3021,7 +3021,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -3046,7 +3046,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -3071,7 +3071,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -3096,7 +3096,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -3121,7 +3121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -3146,7 +3146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -3171,7 +3171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -3196,7 +3196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -3221,7 +3221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -3246,7 +3246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -3271,7 +3271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -3296,7 +3296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -3321,7 +3321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -3346,7 +3346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -3371,7 +3371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -3396,7 +3396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -3421,7 +3421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -3446,7 +3446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -3471,7 +3471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -3496,7 +3496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -3521,7 +3521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -3546,7 +3546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -3571,7 +3571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -3596,7 +3596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -3621,7 +3621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -3646,7 +3646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -3671,7 +3671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -3696,7 +3696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -3721,7 +3721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -3746,7 +3746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -3771,7 +3771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -3796,7 +3796,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -3821,7 +3821,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -3846,7 +3846,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -3871,7 +3871,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -3896,7 +3896,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -3921,7 +3921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -3946,7 +3946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -3971,7 +3971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -3996,7 +3996,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -4021,7 +4021,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -4046,7 +4046,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -4071,7 +4071,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -4096,7 +4096,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -4121,7 +4121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -4146,7 +4146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -4171,7 +4171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -4196,7 +4196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -4221,7 +4221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -4246,7 +4246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -4271,7 +4271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -4296,7 +4296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -4321,7 +4321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -4346,7 +4346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -4371,7 +4371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -4396,7 +4396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -4421,7 +4421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -4446,7 +4446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -4471,7 +4471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -4496,7 +4496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -4521,7 +4521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -4546,7 +4546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -4571,7 +4571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -4596,7 +4596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -4621,7 +4621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -4646,7 +4646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -4671,7 +4671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -4696,7 +4696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -4721,7 +4721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -4746,7 +4746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -4771,7 +4771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -4796,7 +4796,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -4821,7 +4821,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -4846,7 +4846,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -4871,7 +4871,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -4896,7 +4896,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -4921,7 +4921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -4946,7 +4946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -4971,7 +4971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -4996,12 +4996,12 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
     {
-      "id": "Q65080917",
+      "id": "Q75118252",
       "title": "Pokrowa Street, Vitebsk",
       "date": "1922",
       "type": "Painting",
@@ -5014,14 +5014,14 @@
       "country": "United States",
       "lat": 38.891388888,
       "lon": -77.02,
-      "source": "http://www.wikidata.org/entity/Q65080917",
+      "source": "http://www.wikidata.org/entity/Q75118252",
       "image": "",
       "externalImage": "",
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Shagal%20Choumoff.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -5046,7 +5046,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -5071,7 +5071,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -5096,7 +5096,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -5121,7 +5121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -5146,7 +5146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -5171,7 +5171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -5196,7 +5196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -5221,7 +5221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -5246,7 +5246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -5271,7 +5271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -5296,7 +5296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -5321,7 +5321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -5346,7 +5346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -5371,7 +5371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -5396,7 +5396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -5421,7 +5421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -5446,7 +5446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -5471,7 +5471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -5496,7 +5496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -5521,7 +5521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -5546,7 +5546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -5571,7 +5571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -5596,7 +5596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -5621,7 +5621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -5646,7 +5646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -5671,7 +5671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -5696,7 +5696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -5721,7 +5721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -5746,7 +5746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -5771,7 +5771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -5796,7 +5796,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -5821,7 +5821,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -5846,7 +5846,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -5871,7 +5871,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -5896,7 +5896,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -5921,7 +5921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -5946,7 +5946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -5971,7 +5971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -5996,7 +5996,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -6021,7 +6021,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -6046,7 +6046,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -6071,7 +6071,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -6096,7 +6096,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -6121,7 +6121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -6146,7 +6146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -6171,7 +6171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -6196,7 +6196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -6221,7 +6221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -6246,7 +6246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -6271,7 +6271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -6296,7 +6296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -6321,7 +6321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -6346,7 +6346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -6371,7 +6371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -6396,7 +6396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -6421,7 +6421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -6446,7 +6446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -6471,7 +6471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -6496,7 +6496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -6521,7 +6521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -6546,7 +6546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -6571,7 +6571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -6596,7 +6596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -6621,7 +6621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -6646,7 +6646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -6671,7 +6671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -6696,7 +6696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -6721,7 +6721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -6746,7 +6746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -6771,7 +6771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -6796,7 +6796,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -6821,7 +6821,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -6846,7 +6846,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -6871,7 +6871,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -6896,7 +6896,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -6921,7 +6921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -6946,7 +6946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -6971,7 +6971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -6996,7 +6996,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -7021,12 +7021,12 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
     {
-      "id": "Q75121282",
+      "id": "Q65361943",
       "title": "The Fox and the Grapes",
       "date": "1927",
       "type": "Painting",
@@ -7039,14 +7039,14 @@
       "country": "United States",
       "lat": 38.891388888,
       "lon": -77.02,
-      "source": "http://www.wikidata.org/entity/Q75121282",
+      "source": "http://www.wikidata.org/entity/Q65361943",
       "image": "",
       "externalImage": "",
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Shagal%20Choumoff.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -7071,7 +7071,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -7096,7 +7096,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -7121,7 +7121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -7146,7 +7146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -7171,7 +7171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -7196,7 +7196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -7221,7 +7221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -7246,7 +7246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -7271,7 +7271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -7296,7 +7296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -7321,7 +7321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -7346,7 +7346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -7371,7 +7371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -7396,7 +7396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -7421,7 +7421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -7446,7 +7446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -7471,7 +7471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -7496,7 +7496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -7521,7 +7521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -7546,7 +7546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -7571,7 +7571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -7596,7 +7596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -7621,7 +7621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -7646,7 +7646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -7671,7 +7671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -7696,7 +7696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -7721,7 +7721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -7746,7 +7746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -7771,7 +7771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -7796,7 +7796,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -7821,7 +7821,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -7846,7 +7846,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -7871,7 +7871,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -7896,7 +7896,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -7921,7 +7921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -7946,7 +7946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -7971,7 +7971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -7996,7 +7996,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -8021,7 +8021,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -8046,7 +8046,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -8071,7 +8071,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -8096,7 +8096,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -8121,7 +8121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -8146,7 +8146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -8171,7 +8171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -8196,7 +8196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -8221,7 +8221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -8246,7 +8246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -8271,7 +8271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -8296,7 +8296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -8321,7 +8321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -8346,7 +8346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -8371,7 +8371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -8396,7 +8396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -8421,7 +8421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -8446,7 +8446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -8471,7 +8471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -8496,7 +8496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -8521,12 +8521,12 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
     {
-      "id": "Q65511142",
+      "id": "Q65511145",
       "title": "The Tale of the Ebony Horse",
       "date": "1945",
       "type": "Painting",
@@ -8539,14 +8539,14 @@
       "country": "United States",
       "lat": 38.891388888,
       "lon": -77.02,
-      "source": "http://www.wikidata.org/entity/Q65511142",
+      "source": "http://www.wikidata.org/entity/Q65511145",
       "image": "",
       "externalImage": "",
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Shagal%20Choumoff.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -8571,7 +8571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -8596,7 +8596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -8621,7 +8621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -8646,7 +8646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -8671,7 +8671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -8696,7 +8696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -8721,7 +8721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -8746,7 +8746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -8771,7 +8771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -8796,7 +8796,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -8821,7 +8821,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -8846,7 +8846,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -8871,7 +8871,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -8896,7 +8896,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -8921,7 +8921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -8946,7 +8946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -8971,7 +8971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -8996,7 +8996,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -9021,7 +9021,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -9046,7 +9046,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -9071,7 +9071,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -9096,7 +9096,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -9121,7 +9121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -9146,7 +9146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -9171,7 +9171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -9196,7 +9196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -9221,7 +9221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -9246,7 +9246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -9271,7 +9271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -9296,57 +9296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q3630757",
-      "title": "Self-Portrait with Seven Fingers",
-      "date": "1912",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "marc-chagall",
-      "artistName": "Marc Chagall",
-      "locationId": "cultural-heritage-agency-of-the-netherlands-art-collection-location-un",
-      "location": "Cultural Heritage Agency of the Netherlands Art Collection",
-      "city": "Location unknown",
-      "country": "Country unknown",
-      "lat": 52.038333,
-      "lon": 4.334167,
-      "source": "http://www.wikidata.org/entity/Q3630757",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Self%20Portrait%20with%20Seven%20Fingers.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Shagal%20Choumoff.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q3796269",
-      "title": "The Fiddler",
-      "date": "1912",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "marc-chagall",
-      "artistName": "Marc Chagall",
-      "locationId": "cultural-heritage-agency-of-the-netherlands-art-collection-location-un",
-      "location": "Cultural Heritage Agency of the Netherlands Art Collection",
-      "city": "Location unknown",
-      "country": "Country unknown",
-      "lat": 52.038333,
-      "lon": 4.334167,
-      "source": "http://www.wikidata.org/entity/Q3796269",
-      "image": "",
-      "externalImage": "",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Shagal%20Choumoff.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -9371,7 +9321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -9396,7 +9346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -9421,7 +9371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -9446,32 +9396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q65240160",
-      "title": "Untitled record",
-      "date": "1964",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "marc-chagall",
-      "artistName": "Marc Chagall",
-      "locationId": "fondation-maeght-saint-paul-de-vence",
-      "location": "Fondation Maeght",
-      "city": "Saint-Paul-de-Vence",
-      "country": "France",
-      "lat": 43.70059,
-      "lon": 7.115085,
-      "source": "http://www.wikidata.org/entity/Q65240160",
-      "image": "",
-      "externalImage": "",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Shagal%20Choumoff.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -9496,7 +9421,57 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q65240160",
+      "title": "Untitled record",
+      "date": "1964",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "marc-chagall",
+      "artistName": "Marc Chagall",
+      "locationId": "fondation-maeght-saint-paul-de-vence",
+      "location": "Fondation Maeght",
+      "city": "Saint-Paul-de-Vence",
+      "country": "France",
+      "lat": 43.70059,
+      "lon": 7.115085,
+      "source": "http://www.wikidata.org/entity/Q65240160",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Shagal%20Choumoff.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q93284",
+        "retrieved": "2026-08-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q105714380",
+      "title": "Untitled record",
+      "date": "1909",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "marc-chagall",
+      "artistName": "Marc Chagall",
+      "locationId": "foundation-e-g-buhrle-collection-zurich",
+      "location": "Foundation E.G. Bührle Collection",
+      "city": "Zurich",
+      "country": "Switzerland",
+      "lat": 47.353045,
+      "lon": 8.561758,
+      "source": "http://www.wikidata.org/entity/Q105714380",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Shagal%20Choumoff.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q93284",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -9521,7 +9496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -9546,7 +9521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -9571,7 +9546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -9596,7 +9571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -9621,7 +9596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -9646,7 +9621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -9671,7 +9646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -9696,7 +9671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -9721,7 +9696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -9746,7 +9721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -9771,7 +9746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -9796,7 +9771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -9821,32 +9796,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q50939023",
-      "title": "Blue Village",
-      "date": "1968",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "marc-chagall",
-      "artistName": "Marc Chagall",
-      "locationId": "hungarian-national-gallery-budapest-district-i",
-      "location": "Hungarian National Gallery",
-      "city": "Budapest District I",
-      "country": "Hungary",
-      "lat": 47.4962283,
-      "lon": 19.0397733,
-      "source": "http://www.wikidata.org/entity/Q50939023",
-      "image": "",
-      "externalImage": "",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Shagal%20Choumoff.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -9871,7 +9821,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -9896,7 +9846,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -9921,7 +9871,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -9946,7 +9896,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -9971,7 +9921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -9996,7 +9946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -10021,7 +9971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -10046,7 +9996,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -10071,7 +10021,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -10096,7 +10046,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -10121,7 +10071,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -10146,7 +10096,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -10171,7 +10121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -10196,7 +10146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -10221,7 +10171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -10246,7 +10196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -10271,7 +10221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -10296,7 +10246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -10321,7 +10271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -10346,7 +10296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -10371,7 +10321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -10396,7 +10346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -10421,32 +10371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q105714380",
-      "title": "Untitled record",
-      "date": "1909",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "marc-chagall",
-      "artistName": "Marc Chagall",
-      "locationId": "kunsthaus-zurich-zurich",
-      "location": "Kunsthaus Zürich",
-      "city": "Zurich",
-      "country": "Switzerland",
-      "lat": 47.370277777,
-      "lon": 8.548055555,
-      "source": "http://www.wikidata.org/entity/Q105714380",
-      "image": "",
-      "externalImage": "",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Shagal%20Choumoff.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -10471,7 +10396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -10496,7 +10421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -10521,7 +10446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -10546,7 +10471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -10571,7 +10496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -10596,7 +10521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -10621,7 +10546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -10646,7 +10571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -10671,7 +10596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -10696,7 +10621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -10721,32 +10646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q3821631",
-      "title": "La Maison bleue",
-      "date": "1917",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "marc-chagall",
-      "artistName": "Marc Chagall",
-      "locationId": "liege-fine-arts-museum-liege",
-      "location": "Liege Fine Arts Museum",
-      "city": "Liège",
-      "country": "Belgium",
-      "lat": 50.64623,
-      "lon": 5.58037,
-      "source": "http://www.wikidata.org/entity/Q3821631",
-      "image": "",
-      "externalImage": "",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Shagal%20Choumoff.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -10771,7 +10671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -10796,7 +10696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -10821,7 +10721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -10846,7 +10746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -10871,7 +10771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -10896,7 +10796,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -10921,7 +10821,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -10946,7 +10846,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -10971,7 +10871,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -10996,7 +10896,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -11021,7 +10921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -11046,7 +10946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -11071,7 +10971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -11096,7 +10996,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -11121,7 +11021,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -11146,7 +11046,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -11171,7 +11071,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -11196,7 +11096,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -11221,7 +11121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -11246,7 +11146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -11271,7 +11171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -11296,7 +11196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -11321,7 +11221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -11346,7 +11246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -11371,7 +11271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -11396,7 +11296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -11421,7 +11321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -11446,7 +11346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -11471,7 +11371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -11496,7 +11396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -11521,7 +11421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -11546,7 +11446,32 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q3821631",
+      "title": "La Maison bleue",
+      "date": "1917",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "marc-chagall",
+      "artistName": "Marc Chagall",
+      "locationId": "musee-d-art-moderne-et-d-art-contemporain-liege",
+      "location": "Musée d'Art moderne et d'Art contemporain",
+      "city": "Liège",
+      "country": "Belgium",
+      "lat": 50.6274,
+      "lon": 5.57686,
+      "source": "http://www.wikidata.org/entity/Q3821631",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Shagal%20Choumoff.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q93284",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -11571,7 +11496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -11596,7 +11521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -11621,7 +11546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -11646,7 +11571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -11671,7 +11596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -11696,7 +11621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -11721,7 +11646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -11746,7 +11671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -11771,257 +11696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q3933399",
-      "title": "Untitled record",
-      "date": "1937",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "marc-chagall",
-      "artistName": "Marc Chagall",
-      "locationId": "musee-national-d-art-moderne-quartier-saint-merri",
-      "location": "Musée National d'Art Moderne",
-      "city": "Quartier Saint-Merri",
-      "country": "France",
-      "lat": 48.86063847,
-      "lon": 2.352277186,
-      "source": "http://www.wikidata.org/entity/Q3933399",
-      "image": "",
-      "externalImage": "",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Shagal%20Choumoff.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q3795357",
-      "title": "Untitled record",
-      "date": "1968",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "marc-chagall",
-      "artistName": "Marc Chagall",
-      "locationId": "musee-national-d-art-moderne-quartier-saint-merri",
-      "location": "Musée National d'Art Moderne",
-      "city": "Quartier Saint-Merri",
-      "country": "France",
-      "lat": 48.86063847,
-      "lon": 2.352277186,
-      "source": "http://www.wikidata.org/entity/Q3795357",
-      "image": "",
-      "externalImage": "",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Shagal%20Choumoff.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q3795053",
-      "title": "Untitled record",
-      "date": "1955",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "marc-chagall",
-      "artistName": "Marc Chagall",
-      "locationId": "musee-national-d-art-moderne-quartier-saint-merri",
-      "location": "Musée National d'Art Moderne",
-      "city": "Quartier Saint-Merri",
-      "country": "France",
-      "lat": 48.86063847,
-      "lon": 2.352277186,
-      "source": "http://www.wikidata.org/entity/Q3795053",
-      "image": "",
-      "externalImage": "",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Shagal%20Choumoff.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q3733008",
-      "title": "Untitled record",
-      "date": "1966",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "marc-chagall",
-      "artistName": "Marc Chagall",
-      "locationId": "musee-national-d-art-moderne-quartier-saint-merri",
-      "location": "Musée National d'Art Moderne",
-      "city": "Quartier Saint-Merri",
-      "country": "France",
-      "lat": 48.86063847,
-      "lon": 2.352277186,
-      "source": "http://www.wikidata.org/entity/Q3733008",
-      "image": "",
-      "externalImage": "",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Shagal%20Choumoff.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q3794652",
-      "title": "Untitled record",
-      "date": "1922",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "marc-chagall",
-      "artistName": "Marc Chagall",
-      "locationId": "musee-national-d-art-moderne-quartier-saint-merri",
-      "location": "Musée National d'Art Moderne",
-      "city": "Quartier Saint-Merri",
-      "country": "France",
-      "lat": 48.86063847,
-      "lon": 2.352277186,
-      "source": "http://www.wikidata.org/entity/Q3794652",
-      "image": "",
-      "externalImage": "",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Shagal%20Choumoff.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q3866204",
-      "title": "Untitled record",
-      "date": "1950",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "marc-chagall",
-      "artistName": "Marc Chagall",
-      "locationId": "musee-national-d-art-moderne-quartier-saint-merri",
-      "location": "Musée National d'Art Moderne",
-      "city": "Quartier Saint-Merri",
-      "country": "France",
-      "lat": 48.86063847,
-      "lon": 2.352277186,
-      "source": "http://www.wikidata.org/entity/Q3866204",
-      "image": "",
-      "externalImage": "",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Shagal%20Choumoff.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q3209648",
-      "title": "Untitled record",
-      "date": "1943",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "marc-chagall",
-      "artistName": "Marc Chagall",
-      "locationId": "musee-national-d-art-moderne-quartier-saint-merri",
-      "location": "Musée National d'Art Moderne",
-      "city": "Quartier Saint-Merri",
-      "country": "France",
-      "lat": 48.86063847,
-      "lon": 2.352277186,
-      "source": "http://www.wikidata.org/entity/Q3209648",
-      "image": "",
-      "externalImage": "",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Shagal%20Choumoff.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q135581150",
-      "title": "Untitled record",
-      "date": "1914",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "marc-chagall",
-      "artistName": "Marc Chagall",
-      "locationId": "musee-national-d-art-moderne-quartier-saint-merri",
-      "location": "Musée National d'Art Moderne",
-      "city": "Quartier Saint-Merri",
-      "country": "France",
-      "lat": 48.86063847,
-      "lon": 2.352277186,
-      "source": "http://www.wikidata.org/entity/Q135581150",
-      "image": "",
-      "externalImage": "",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Shagal%20Choumoff.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q135581138",
-      "title": "Untitled record",
-      "date": "1908",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "marc-chagall",
-      "artistName": "Marc Chagall",
-      "locationId": "musee-national-d-art-moderne-quartier-saint-merri",
-      "location": "Musée National d'Art Moderne",
-      "city": "Quartier Saint-Merri",
-      "country": "France",
-      "lat": 48.86063847,
-      "lon": 2.352277186,
-      "source": "http://www.wikidata.org/entity/Q135581138",
-      "image": "",
-      "externalImage": "",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Shagal%20Choumoff.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q121365110",
-      "title": "Untitled record",
-      "date": "1940",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "marc-chagall",
-      "artistName": "Marc Chagall",
-      "locationId": "musee-national-d-art-moderne-quartier-saint-merri",
-      "location": "Musée National d'Art Moderne",
-      "city": "Quartier Saint-Merri",
-      "country": "France",
-      "lat": 48.86063847,
-      "lon": 2.352277186,
-      "source": "http://www.wikidata.org/entity/Q121365110",
-      "image": "",
-      "externalImage": "",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Shagal%20Choumoff.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -12046,7 +11721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -12071,7 +11746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -12096,7 +11771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -12121,7 +11796,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -12146,7 +11821,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -12171,7 +11846,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -12196,7 +11871,32 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q62517843",
+      "title": "Untitled record",
+      "date": "1955",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "marc-chagall",
+      "artistName": "Marc Chagall",
+      "locationId": "musee-national-d-art-moderne-quartier-saint-merri",
+      "location": "Musée National d'Art Moderne",
+      "city": "Quartier Saint-Merri",
+      "country": "France",
+      "lat": 48.86063847,
+      "lon": 2.352277186,
+      "source": "http://www.wikidata.org/entity/Q62517843",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Shagal%20Choumoff.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q93284",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -12221,7 +11921,232 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q3733008",
+      "title": "Untitled record",
+      "date": "1966",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "marc-chagall",
+      "artistName": "Marc Chagall",
+      "locationId": "musee-national-d-art-moderne-quartier-saint-merri",
+      "location": "Musée National d'Art Moderne",
+      "city": "Quartier Saint-Merri",
+      "country": "France",
+      "lat": 48.86063847,
+      "lon": 2.352277186,
+      "source": "http://www.wikidata.org/entity/Q3733008",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Shagal%20Choumoff.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q93284",
+        "retrieved": "2026-08-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q3794652",
+      "title": "Untitled record",
+      "date": "1922",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "marc-chagall",
+      "artistName": "Marc Chagall",
+      "locationId": "musee-national-d-art-moderne-quartier-saint-merri",
+      "location": "Musée National d'Art Moderne",
+      "city": "Quartier Saint-Merri",
+      "country": "France",
+      "lat": 48.86063847,
+      "lon": 2.352277186,
+      "source": "http://www.wikidata.org/entity/Q3794652",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Shagal%20Choumoff.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q93284",
+        "retrieved": "2026-08-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q3209648",
+      "title": "Untitled record",
+      "date": "1943",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "marc-chagall",
+      "artistName": "Marc Chagall",
+      "locationId": "musee-national-d-art-moderne-quartier-saint-merri",
+      "location": "Musée National d'Art Moderne",
+      "city": "Quartier Saint-Merri",
+      "country": "France",
+      "lat": 48.86063847,
+      "lon": 2.352277186,
+      "source": "http://www.wikidata.org/entity/Q3209648",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Shagal%20Choumoff.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q93284",
+        "retrieved": "2026-08-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q135581150",
+      "title": "Untitled record",
+      "date": "1914",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "marc-chagall",
+      "artistName": "Marc Chagall",
+      "locationId": "musee-national-d-art-moderne-quartier-saint-merri",
+      "location": "Musée National d'Art Moderne",
+      "city": "Quartier Saint-Merri",
+      "country": "France",
+      "lat": 48.86063847,
+      "lon": 2.352277186,
+      "source": "http://www.wikidata.org/entity/Q135581150",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Shagal%20Choumoff.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q93284",
+        "retrieved": "2026-08-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q135581138",
+      "title": "Untitled record",
+      "date": "1908",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "marc-chagall",
+      "artistName": "Marc Chagall",
+      "locationId": "musee-national-d-art-moderne-quartier-saint-merri",
+      "location": "Musée National d'Art Moderne",
+      "city": "Quartier Saint-Merri",
+      "country": "France",
+      "lat": 48.86063847,
+      "lon": 2.352277186,
+      "source": "http://www.wikidata.org/entity/Q135581138",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Shagal%20Choumoff.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q93284",
+        "retrieved": "2026-08-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q121365110",
+      "title": "Untitled record",
+      "date": "1940",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "marc-chagall",
+      "artistName": "Marc Chagall",
+      "locationId": "musee-national-d-art-moderne-quartier-saint-merri",
+      "location": "Musée National d'Art Moderne",
+      "city": "Quartier Saint-Merri",
+      "country": "France",
+      "lat": 48.86063847,
+      "lon": 2.352277186,
+      "source": "http://www.wikidata.org/entity/Q121365110",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Shagal%20Choumoff.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q93284",
+        "retrieved": "2026-08-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q3933399",
+      "title": "Untitled record",
+      "date": "1937",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "marc-chagall",
+      "artistName": "Marc Chagall",
+      "locationId": "musee-national-d-art-moderne-quartier-saint-merri",
+      "location": "Musée National d'Art Moderne",
+      "city": "Quartier Saint-Merri",
+      "country": "France",
+      "lat": 48.86063847,
+      "lon": 2.352277186,
+      "source": "http://www.wikidata.org/entity/Q3933399",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Shagal%20Choumoff.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q93284",
+        "retrieved": "2026-08-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q3795357",
+      "title": "Untitled record",
+      "date": "1968",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "marc-chagall",
+      "artistName": "Marc Chagall",
+      "locationId": "musee-national-d-art-moderne-quartier-saint-merri",
+      "location": "Musée National d'Art Moderne",
+      "city": "Quartier Saint-Merri",
+      "country": "France",
+      "lat": 48.86063847,
+      "lon": 2.352277186,
+      "source": "http://www.wikidata.org/entity/Q3795357",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Shagal%20Choumoff.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q93284",
+        "retrieved": "2026-08-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q3866204",
+      "title": "Untitled record",
+      "date": "1950",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "marc-chagall",
+      "artistName": "Marc Chagall",
+      "locationId": "musee-national-d-art-moderne-quartier-saint-merri",
+      "location": "Musée National d'Art Moderne",
+      "city": "Quartier Saint-Merri",
+      "country": "France",
+      "lat": 48.86063847,
+      "lon": 2.352277186,
+      "source": "http://www.wikidata.org/entity/Q3866204",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Shagal%20Choumoff.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q93284",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -12246,32 +12171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q20816262",
-      "title": "Purim",
-      "date": "Date unknown",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "marc-chagall",
-      "artistName": "Marc Chagall",
-      "locationId": "museum-folkwang-stadtbezirk-ii-essen",
-      "location": "Museum Folkwang",
-      "city": "Stadtbezirk II (Essen)",
-      "country": "Germany",
-      "lat": 51.4417,
-      "lon": 7.00417,
-      "source": "http://www.wikidata.org/entity/Q20816262",
-      "image": "",
-      "externalImage": "",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Shagal%20Choumoff.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -12296,7 +12196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -12321,7 +12221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -12346,7 +12246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -12371,7 +12271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -12396,7 +12296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -12421,7 +12321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -12446,7 +12346,32 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q50939023",
+      "title": "Blue Village",
+      "date": "1968",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "marc-chagall",
+      "artistName": "Marc Chagall",
+      "locationId": "museum-of-fine-arts-budapest-zuglo",
+      "location": "Museum of Fine Arts, Budapest",
+      "city": "Zugló",
+      "country": "Hungary",
+      "lat": 47.51587,
+      "lon": 19.07678,
+      "source": "http://www.wikidata.org/entity/Q50939023",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Shagal%20Choumoff.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q93284",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -12471,7 +12396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -12496,7 +12421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -12521,7 +12446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -12546,7 +12471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -12571,7 +12496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -12596,7 +12521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -12621,7 +12546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -12646,7 +12571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -12671,7 +12596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -12696,7 +12621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -12721,7 +12646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -12746,7 +12671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -12771,7 +12696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -12796,7 +12721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -12821,7 +12746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -12846,7 +12771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -12871,7 +12796,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -12896,7 +12821,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -12921,7 +12846,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -12946,7 +12871,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -12971,7 +12896,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -12996,7 +12921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -13021,7 +12946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -13046,7 +12971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -13071,7 +12996,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -13096,7 +13021,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -13121,7 +13046,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -13146,7 +13071,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -13171,7 +13096,32 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q20816262",
+      "title": "Purim",
+      "date": "Date unknown",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "marc-chagall",
+      "artistName": "Marc Chagall",
+      "locationId": "philadelphia-museum-of-art-philadelphia-county",
+      "location": "Philadelphia Museum of Art",
+      "city": "Philadelphia County",
+      "country": "United States",
+      "lat": 39.965833333,
+      "lon": -75.181388888,
+      "source": "http://www.wikidata.org/entity/Q20816262",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Shagal%20Choumoff.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q93284",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -13196,7 +13146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -13221,7 +13171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -13246,7 +13196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -13271,7 +13221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -13296,7 +13246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -13321,7 +13271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -13346,7 +13296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -13371,7 +13321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -13396,7 +13346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -13421,7 +13371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -13446,7 +13396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -13471,7 +13421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -13496,7 +13446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -13521,7 +13471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -13546,7 +13496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -13571,7 +13521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -13596,7 +13546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -13621,7 +13571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -13646,7 +13596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -13671,7 +13621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -13696,7 +13646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -13721,7 +13671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -13746,7 +13696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -13771,7 +13721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -13796,7 +13746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -13821,7 +13771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -13846,7 +13796,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -13871,7 +13821,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -13896,7 +13846,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -13921,7 +13871,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -13946,7 +13896,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -13971,7 +13921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -13996,7 +13946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -14021,7 +13971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -14046,7 +13996,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -14071,7 +14021,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -14096,7 +14046,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -14121,7 +14071,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -14146,7 +14096,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -14171,7 +14121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -14196,7 +14146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -14221,7 +14171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -14246,7 +14196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -14271,7 +14221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -14296,7 +14246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -14312,8 +14262,8 @@
       "location": "Stedelijk Museum Amsterdam",
       "city": "Amsterdam",
       "country": "Netherlands",
-      "lat": 52.357778,
-      "lon": 4.879722,
+      "lat": 52.358011,
+      "lon": 4.879755,
       "source": "http://www.wikidata.org/entity/Q24055700",
       "image": "",
       "externalImage": "",
@@ -14321,7 +14271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -14346,7 +14296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -14362,8 +14312,8 @@
       "location": "Stedelijk Museum Amsterdam",
       "city": "Amsterdam",
       "country": "Netherlands",
-      "lat": 52.357778,
-      "lon": 4.879722,
+      "lat": 52.358011,
+      "lon": 4.879755,
       "source": "http://www.wikidata.org/entity/Q24055699",
       "image": "",
       "externalImage": "",
@@ -14371,7 +14321,32 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q3630757",
+      "title": "Self-Portrait with Seven Fingers",
+      "date": "1912",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "marc-chagall",
+      "artistName": "Marc Chagall",
+      "locationId": "stedelijk-museum-amsterdam-amsterdam",
+      "location": "Stedelijk Museum Amsterdam",
+      "city": "Amsterdam",
+      "country": "Netherlands",
+      "lat": 52.358011,
+      "lon": 4.879755,
+      "source": "http://www.wikidata.org/entity/Q3630757",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Self%20Portrait%20with%20Seven%20Fingers.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Shagal%20Choumoff.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q93284",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -14396,7 +14371,32 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q3796269",
+      "title": "The Fiddler",
+      "date": "1912",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "marc-chagall",
+      "artistName": "Marc Chagall",
+      "locationId": "stedelijk-museum-amsterdam-amsterdam",
+      "location": "Stedelijk Museum Amsterdam",
+      "city": "Amsterdam",
+      "country": "Netherlands",
+      "lat": 52.357778,
+      "lon": 4.879722,
+      "source": "http://www.wikidata.org/entity/Q3796269",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Shagal%20Choumoff.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q93284",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -14421,7 +14421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -14446,7 +14446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -14462,8 +14462,8 @@
       "location": "Stedelijk Museum Amsterdam",
       "city": "Amsterdam",
       "country": "Netherlands",
-      "lat": 52.357778,
-      "lon": 4.879722,
+      "lat": 52.358011,
+      "lon": 4.879755,
       "source": "http://www.wikidata.org/entity/Q24055701",
       "image": "",
       "externalImage": "",
@@ -14471,7 +14471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -14487,8 +14487,8 @@
       "location": "Stedelijk Museum Amsterdam",
       "city": "Amsterdam",
       "country": "Netherlands",
-      "lat": 52.357778,
-      "lon": 4.879722,
+      "lat": 52.358011,
+      "lon": 4.879755,
       "source": "http://www.wikidata.org/entity/Q28095292",
       "image": "",
       "externalImage": "",
@@ -14496,7 +14496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -14521,7 +14521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -14546,7 +14546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -14571,7 +14571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -14596,7 +14596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -14621,7 +14621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -14646,7 +14646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -14671,7 +14671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -14696,7 +14696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -14721,7 +14721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -14746,7 +14746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -14771,7 +14771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -14796,7 +14796,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -14821,7 +14821,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -14846,7 +14846,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -14871,7 +14871,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -14896,7 +14896,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -14921,7 +14921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -14946,7 +14946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -14971,7 +14971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -14996,7 +14996,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -15021,7 +15021,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -15046,7 +15046,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -15071,7 +15071,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -15096,7 +15096,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -15121,7 +15121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -15146,7 +15146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -15171,7 +15171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -15196,7 +15196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -15221,7 +15221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -15246,7 +15246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -15271,7 +15271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -15296,7 +15296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -15321,7 +15321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -15346,7 +15346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -15371,7 +15371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -15396,7 +15396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -15421,7 +15421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -15446,7 +15446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -15471,7 +15471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -15496,7 +15496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -15521,7 +15521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -15546,7 +15546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -15571,7 +15571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     },
@@ -15596,7 +15596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q93284",
-        "retrieved": "2026-07-23",
+        "retrieved": "2026-08-01",
         "reviewStatus": "generated"
       }
     }

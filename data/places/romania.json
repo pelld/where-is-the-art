@@ -22,25 +22,6 @@
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20110.jpg"
     },
     {
-      "id": "Q89261558",
-      "artistId": "anthony-van-dyck",
-      "artistName": "Anthony van Dyck",
-      "reviewStatus": "generated",
-      "title": "Head of a Woman",
-      "date": "1638",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "national-museum-of-art-of-romania-bucharest",
-      "location": "National Museum of Art of Romania",
-      "city": "Bucharest",
-      "country": "Romania",
-      "lat": 44.43978,
-      "lon": 26.09598,
-      "source": "http://www.wikidata.org/entity/Q89261558",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Anton%20van%20dyck%2C%20studio%20di%20testa%20femminile.JPG",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Anthony%20van%20Dyck%20-%20Self-portrait.jpg"
-    },
-    {
       "id": "Q68372784",
       "artistId": "camille-pissarro",
       "artistName": "Camille Pissarro",
@@ -153,25 +134,6 @@
       "source": "http://www.wikidata.org/entity/Q68372770",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Signac%20-%20Gate%20%28Saint-Tropez%29%2C%20Inv.%2083652526.jpg",
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Seurat%20Paul%20Signac.jpg"
-    },
-    {
-      "id": "Q21791465",
-      "artistId": "rembrandt",
-      "artistName": "Rembrandt",
-      "reviewStatus": "generated",
-      "title": "Haman begs Esther for his life",
-      "date": "1660",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "national-museum-of-art-of-romania-bucharest",
-      "location": "National Museum of Art of Romania",
-      "city": "Bucharest",
-      "country": "Romania",
-      "lat": 44.43978,
-      "lon": 26.09598,
-      "source": "http://www.wikidata.org/entity/Q21791465",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20-%20Haman%20Begging%20the%20Mercy%20of%20Esther.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20van%20Rijn%20-%20Self-Portrait%20-%20Google%20Art%20Project.jpg"
     },
     {
       "id": "Q114860155",
@@ -343,6 +305,25 @@
       "source": "http://www.wikidata.org/entity/Q68372798",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/C%C3%A9zanne%20-%20FWN%20519.jpg",
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul-Cezanne.jpg"
+    },
+    {
+      "id": "Q93629428",
+      "artistId": "pierre-bonnard",
+      "artistName": "Pierre Bonnard",
+      "reviewStatus": "generated",
+      "title": "Untitled record",
+      "date": "Date unknown",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "zambaccian-museum-bucharest",
+      "location": "Zambaccian Museum",
+      "city": "Bucharest",
+      "country": "Romania",
+      "lat": 44.46085,
+      "lon": 26.091,
+      "source": "http://www.wikidata.org/entity/Q93629428",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre%20Bonnard%20-%20Nature%20morte%20devant%20la%20fen%C3%AAtre%20-%20Mus%C3%A9e%20Zambaccian.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Self-portrait-1889.jpg"
     },
     {
       "id": "Q3553389",

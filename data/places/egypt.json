@@ -231,12 +231,12 @@
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Gauguin%201891.png"
     },
     {
-      "id": "Q4118041",
-      "artistId": "van-gogh",
-      "artistName": "Vincent van Gogh",
+      "id": "Q84056444",
+      "artistId": "pierre-auguste-renoir",
+      "artistName": "Pierre-Auguste Renoir",
       "reviewStatus": "generated",
-      "title": "Poppy Flowers",
-      "date": "1887",
+      "title": "Untitled record",
+      "date": "Date unknown",
       "type": "Painting",
       "attribution": "Accepted",
       "locationId": "mohamed-mahmoud-khalil-museum-giza-governorate",
@@ -245,9 +245,9 @@
       "country": "Egypt",
       "lat": 30.0356,
       "lon": 31.2197,
-      "source": "http://www.wikidata.org/entity/Q4118041",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Van%20Gogh%20-%20Vase%20mit%20Pechnelken.jpeg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Self-portrait%20-%20Vincent%20van%20Gogh.jpg"
+      "source": "http://www.wikidata.org/entity/Q84056444",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre%20Auguste%20Renoir%2C%20uncropped%20image.jpg"
     }
   ]
 }

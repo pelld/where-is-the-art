@@ -250,6 +250,25 @@
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Gauguin%201891.png"
     },
     {
+      "id": "Q83647727",
+      "artistId": "pierre-auguste-renoir",
+      "artistName": "Pierre-Auguste Renoir",
+      "reviewStatus": "generated",
+      "title": "Untitled record",
+      "date": "1877",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "national-museum-of-fine-arts-of-algiers-algiers",
+      "location": "National Museum of Fine Arts of Algiers",
+      "city": "Algiers",
+      "country": "Algeria",
+      "lat": 36.746111111,
+      "lon": 3.072222222,
+      "source": "http://www.wikidata.org/entity/Q83647727",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20038.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre%20Auguste%20Renoir%2C%20uncropped%20image.jpg"
+    },
+    {
       "id": "Q83647736",
       "artistId": "suzanne-valadon",
       "artistName": "Suzanne Valadon",
@@ -266,7 +285,7 @@
       "lon": 3.072222222,
       "source": "http://www.wikidata.org/entity/Q83647736",
       "externalImage": "",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%28Barcelona%29%20Autoretrat%20al%20mirall%20-%20by%20Suzanne%20Valadon.jpg"
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Suzanne%20Valadon.%20Portrait%20au%20chapeau%2C%20photographie%2C%20vers%201885.%20Ville%20de%20Paris%20Biblioth%C3%A8que%20Marguerite%20Durand%20%28BMD%29.jpg"
     }
   ]
 }

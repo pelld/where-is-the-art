@@ -41,6 +41,25 @@
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg"
     },
     {
+      "id": "Q116962642",
+      "artistId": "lucas-cranach-the-elder",
+      "artistName": "Lucas Cranach the Elder",
+      "reviewStatus": "generated",
+      "title": "Lot and his Daughters",
+      "date": "1529",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "moravian-gallery-in-brno-brno",
+      "location": "Moravian Gallery in Brno",
+      "city": "Brno",
+      "country": "Czech Republic",
+      "lat": 49.195508,
+      "lon": 16.604365,
+      "source": "http://www.wikidata.org/entity/Q116962642",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20d.%C3%84.%20-%20Lot%20und%20seine%20T%C3%B6chter%20%28Moravian%20Gallery%2C%20Brno%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20d.%20%C3%84.%20063.jpg"
+    },
+    {
       "id": "Q55410384",
       "artistId": "lucas-cranach-the-elder",
       "artistName": "Lucas Cranach the Elder",
@@ -191,25 +210,6 @@
       "source": "http://www.wikidata.org/entity/Q116962793",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Werkstatt%20Lucas%20Cranach%20der%20%C3%84ltere%20-%20The%20Ill-Matched%20Lovers%2C%20CZ%20OPH%20HS241%20FR285B.jpg",
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20d.%20%C3%84.%20063.jpg"
-    },
-    {
-      "id": "Q111340569",
-      "artistId": "peter-paul-rubens",
-      "artistName": "Peter Paul Rubens",
-      "reviewStatus": "generated",
-      "title": "The Gathering of the Gods on Olympus",
-      "date": "1602",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "prague-castle-picture-gallery-prague-1",
-      "location": "Prague Castle Picture Gallery",
-      "city": "Prague 1",
-      "country": "Czech Republic",
-      "lat": 50.0909,
-      "lon": 14.3984,
-      "source": "http://www.wikidata.org/entity/Q111340569",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rubens-shromazdeni-pho102-kopriva-20150914-174044.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Peter%20Paul%20Rubens%20-%20Portrait%20of%20the%20Artist%20-%20Google%20Art%20Project.jpg"
     },
     {
       "id": "Q136459733",
