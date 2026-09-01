@@ -21,7 +21,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -46,7 +46,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -71,7 +71,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -96,7 +96,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -121,7 +121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -146,7 +146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -171,32 +171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q119457503",
-      "title": "Judith receiving the Ancients of Bethulia",
-      "date": "Date unknown",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "paolo-veronese",
-      "artistName": "Paolo Veronese",
-      "locationId": "ashmolean-museum-oxford",
-      "location": "Ashmolean Museum",
-      "city": "Oxford",
-      "country": "United Kingdom",
-      "lat": 51.75556,
-      "lon": -1.26056,
-      "source": "http://www.wikidata.org/entity/Q119457503",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Veronese%20%281528-1588%29%20%28circle%20of%29%20-%20Judith%20receiving%20the%20Ancients%20of%20Bethulia%20-%20WA1926.3%20-%20Ashmolean%20Museum.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Veronese%20-%20AUTORITRATTO%20%282%29%20-%20Museo%20dell%27Ermitage.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -221,7 +196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -246,7 +221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -271,7 +246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -296,7 +271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -321,7 +296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -346,7 +321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -371,7 +346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -396,7 +371,32 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q29477223",
+      "title": "Cupid with Two Dogs",
+      "date": "1577",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "paolo-veronese",
+      "artistName": "Paolo Veronese",
+      "locationId": "bavarian-state-painting-collections-munich",
+      "location": "Bavarian State Painting Collections",
+      "city": "Munich",
+      "country": "Germany",
+      "lat": 48.149583,
+      "lon": 11.571776,
+      "source": "http://www.wikidata.org/entity/Q29477223",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Veronese%2C%20amore%20tra%20due%20cani.JPG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Veronese%20-%20AUTORITRATTO%20%282%29%20-%20Museo%20dell%27Ermitage.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q9440",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -421,7 +421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -446,7 +446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -471,7 +471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -496,7 +496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -521,7 +521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -546,7 +546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -571,7 +571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -596,7 +596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -621,7 +621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -646,7 +646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -671,7 +671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -696,7 +696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -721,37 +721,12 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
     {
-      "id": "Q29919211",
-      "title": "The Infant Saint John the Baptist",
-      "date": "1562",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "paolo-veronese",
-      "artistName": "Paolo Veronese",
-      "locationId": "bavarian-state-painting-collections-munich",
-      "location": "Bavarian State Painting Collections",
-      "city": "Munich",
-      "country": "Germany",
-      "lat": 48.149583,
-      "lon": 11.571776,
-      "source": "http://www.wikidata.org/entity/Q29919211",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Veronese%20%28Paolo%20Caliari%29%20-%20Johannes%20der%20T%C3%A4ufer%20als%20Kind%20-%201178%20-%20Bavarian%20State%20Painting%20Collections.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Veronese%20-%20AUTORITRATTO%20%282%29%20-%20Museo%20dell%27Ermitage.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q30098132",
+      "id": "Q30096542",
       "title": "Untitled record",
       "date": "1558",
       "type": "Painting",
@@ -764,39 +739,14 @@
       "country": "Germany",
       "lat": 48.149583,
       "lon": 11.571776,
-      "source": "http://www.wikidata.org/entity/Q30098132",
+      "source": "http://www.wikidata.org/entity/Q30096542",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Veronese%20-%20Die%20Anbetung%20durch%20die%20K%C3%B6nige%20-%20918%20-%20Bavarian%20State%20Painting%20Collections.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Veronese%20-%20Allegorie%20des%20Handels%20%28Peperit%20discordia%20Foedus%29%20-%2010452%20-%20Bavarian%20State%20Painting%20Collections.jpg",
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Veronese%20-%20AUTORITRATTO%20%282%29%20-%20Museo%20dell%27Ermitage.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q29477223",
-      "title": "Untitled record",
-      "date": "1577",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "paolo-veronese",
-      "artistName": "Paolo Veronese",
-      "locationId": "bavarian-state-painting-collections-munich",
-      "location": "Bavarian State Painting Collections",
-      "city": "Munich",
-      "country": "Germany",
-      "lat": 48.149583,
-      "lon": 11.571776,
-      "source": "http://www.wikidata.org/entity/Q29477223",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Veronese%2C%20amore%20tra%20due%20cani.JPG",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Veronese%20-%20AUTORITRATTO%20%282%29%20-%20Museo%20dell%27Ermitage.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -821,32 +771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q30094364",
-      "title": "Venus with the sleeping Adonis",
-      "date": "1558",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "paolo-veronese",
-      "artistName": "Paolo Veronese",
-      "locationId": "bavarian-state-painting-collections-munich",
-      "location": "Bavarian State Painting Collections",
-      "city": "Munich",
-      "country": "Germany",
-      "lat": 48.149583,
-      "lon": 11.571776,
-      "source": "http://www.wikidata.org/entity/Q30094364",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Veronese%20%28Kopie%20nach%29%20-%20Venus%20mit%20dem%20schlafenden%20Adonis%20-%205519%20-%20Bavarian%20State%20Painting%20Collections.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Veronese%20-%20AUTORITRATTO%20%282%29%20-%20Museo%20dell%27Ermitage.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -871,7 +796,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -896,7 +821,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -921,7 +846,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -946,7 +871,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -971,7 +896,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -996,7 +921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1021,7 +946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1046,7 +971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1071,7 +996,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1096,7 +1021,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1121,7 +1046,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1146,7 +1071,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1171,7 +1096,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1196,7 +1121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1221,7 +1146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1246,7 +1171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1271,107 +1196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q118878079",
-      "title": "Cybele",
-      "date": "Date unknown",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "paolo-veronese",
-      "artistName": "Paolo Veronese",
-      "locationId": "christ-church-oxford",
-      "location": "Christ Church",
-      "city": "Oxford",
-      "country": "United Kingdom",
-      "lat": 51.7502,
-      "lon": -1.25585,
-      "source": "http://www.wikidata.org/entity/Q118878079",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Veronese%20%281528-1588%29%20%28after%29%20-%20Cybele%20-%20JBS%20110%20-%20Christ%20Church.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Veronese%20-%20AUTORITRATTO%20%282%29%20-%20Museo%20dell%27Ermitage.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q118877914",
-      "title": "Juno",
-      "date": "Date unknown",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "paolo-veronese",
-      "artistName": "Paolo Veronese",
-      "locationId": "christ-church-oxford",
-      "location": "Christ Church",
-      "city": "Oxford",
-      "country": "United Kingdom",
-      "lat": 51.7502,
-      "lon": -1.25585,
-      "source": "http://www.wikidata.org/entity/Q118877914",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Veronese%20%281528-1588%29%20%28after%29%20-%20Juno%20-%20JBS%20108%20-%20Christ%20Church.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Veronese%20-%20AUTORITRATTO%20%282%29%20-%20Museo%20dell%27Ermitage.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q118876998",
-      "title": "Jupiter",
-      "date": "Date unknown",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "paolo-veronese",
-      "artistName": "Paolo Veronese",
-      "locationId": "christ-church-oxford",
-      "location": "Christ Church",
-      "city": "Oxford",
-      "country": "United Kingdom",
-      "lat": 51.7502,
-      "lon": -1.25585,
-      "source": "http://www.wikidata.org/entity/Q118876998",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Veronese%20%281528-1588%29%20%28after%29%20-%20Jupiter%20-%20JBS%20107%20-%20Christ%20Church.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Veronese%20-%20AUTORITRATTO%20%282%29%20-%20Museo%20dell%27Ermitage.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q118878074",
-      "title": "Neptune",
-      "date": "Date unknown",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "paolo-veronese",
-      "artistName": "Paolo Veronese",
-      "locationId": "christ-church-oxford",
-      "location": "Christ Church",
-      "city": "Oxford",
-      "country": "United Kingdom",
-      "lat": 51.7502,
-      "lon": -1.25585,
-      "source": "http://www.wikidata.org/entity/Q118878074",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Veronese%20%281528-1588%29%20%28after%29%20-%20Neptune%20-%20JBS%20109%20-%20Christ%20Church.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Veronese%20-%20AUTORITRATTO%20%282%29%20-%20Museo%20dell%27Ermitage.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1396,7 +1221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1421,7 +1246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1446,7 +1271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1471,7 +1296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1496,7 +1321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1521,7 +1346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1546,7 +1371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1571,7 +1396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1596,7 +1421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1621,7 +1446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1646,32 +1471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q105099743",
-      "title": "The Feast in the House of Simon the Pharisee",
-      "date": "1572",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "paolo-veronese",
-      "artistName": "Paolo Veronese",
-      "locationId": "collection-unknown-versailles",
-      "location": "Collection unknown",
-      "city": "Versailles",
-      "country": "France",
-      "lat": 48.8044,
-      "lon": 2.12197,
-      "source": "http://www.wikidata.org/entity/Q105099743",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Veronese%20-%20Le%20Repas%20chez%20Simon%20le%20Pharisien%20-%20Google%20Art%20Project.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Veronese%20-%20AUTORITRATTO%20%282%29%20-%20Museo%20dell%27Ermitage.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1696,7 +1496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1721,7 +1521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1746,7 +1546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1771,7 +1571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1787,8 +1587,8 @@
       "location": "Courtauld Gallery",
       "city": "City of Westminster",
       "country": "United Kingdom",
-      "lat": 51.51083333,
-      "lon": -0.11722222,
+      "lat": 51.511568,
+      "lon": -0.117712,
       "source": "http://www.wikidata.org/entity/Q118876353",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Veronese%20%28and%20workshop%29%20-%20Baptism%20of%20Christ%2C%201580%E2%80%931588.jpg",
@@ -1796,7 +1596,57 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q28102514",
+      "title": "Christ on the Cross",
+      "date": "1649",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "paolo-veronese",
+      "artistName": "Paolo Veronese",
+      "locationId": "cultural-heritage-agency-of-the-netherlands-art-collection-location-un",
+      "location": "Cultural Heritage Agency of the Netherlands Art Collection",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 52.038333,
+      "lon": 4.334167,
+      "source": "http://www.wikidata.org/entity/Q28102514",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Veronese%20-%20Christus%20aan%20het%20kruis%20-%20E141%20-%20Instituut%20Collectie%20Nederland.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Veronese%20-%20AUTORITRATTO%20%282%29%20-%20Museo%20dell%27Ermitage.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q9440",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q28088548",
+      "title": "Untitled record",
+      "date": "1837",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "paolo-veronese",
+      "artistName": "Paolo Veronese",
+      "locationId": "cultural-heritage-agency-of-the-netherlands-art-collection-location-un",
+      "location": "Cultural Heritage Agency of the Netherlands Art Collection",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 52.038333,
+      "lon": 4.334167,
+      "source": "http://www.wikidata.org/entity/Q28088548",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Veronese%20-%20AUTORITRATTO%20%282%29%20-%20Museo%20dell%27Ermitage.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q9440",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1821,7 +1671,432 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q2900098",
+      "title": "Bathsheba at Her Bath",
+      "date": "1550",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "paolo-veronese",
+      "artistName": "Paolo Veronese",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q2900098",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bathsheba%20in%20her%20bath-Veronese-MBA%20Lyon%20A63-IMG%200319.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Veronese%20-%20AUTORITRATTO%20%282%29%20-%20Museo%20dell%27Ermitage.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q9440",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q18617031",
+      "title": "Crucifixion",
+      "date": "1584",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "paolo-veronese",
+      "artistName": "Paolo Veronese",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q18617031",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Veronese%20010.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Veronese%20-%20AUTORITRATTO%20%282%29%20-%20Museo%20dell%27Ermitage.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q9440",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q18573215",
+      "title": "Esther and Ahasuerus",
+      "date": "1577",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "paolo-veronese",
+      "artistName": "Paolo Veronese",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q18573215",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Esther%20et%20Assu%C3%A9rus%20-%20Paul%20V%C3%A9ron%C3%A8se%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20INV%20138%20%3B%20MR%20387%20-%20photo%202.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Veronese%20-%20AUTORITRATTO%20%282%29%20-%20Museo%20dell%27Ermitage.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q9440",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q18573249",
+      "title": "Jupiter Hurling Thunderbolts at the Vices",
+      "date": "1553",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "paolo-veronese",
+      "artistName": "Paolo Veronese",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q18573249",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Veronese%20-%20Giove%20che%20fulmina%20i%20vizi%20%281554-1556%29%20-%20Sala%20del%20Consiglio%20dei%20Dieci%20-%20Palazzo%20Ducale.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Veronese%20-%20AUTORITRATTO%20%282%29%20-%20Museo%20dell%27Ermitage.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q9440",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q18573246",
+      "title": "Madonna and Child between St. Justina and St. George, with a Kneeling Benedictine Monk",
+      "date": "1554",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "paolo-veronese",
+      "artistName": "Paolo Veronese",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q18573246",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20veronese%2C%20madonna%20col%20bambino%20tra%20i%20santi%20giorgio%20e%20giustina%20con%20un%20benedettino%20inginocchiato%2C%201554%20ca.%2002.JPG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Veronese%20-%20AUTORITRATTO%20%282%29%20-%20Museo%20dell%27Ermitage.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q9440",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q18209062",
+      "title": "Portrait of a Venetian Woman, called La Belle Nani",
+      "date": "1560",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "paolo-veronese",
+      "artistName": "Paolo Veronese",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q18209062",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Veronese%20040.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Veronese%20-%20AUTORITRATTO%20%282%29%20-%20Museo%20dell%27Ermitage.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q9440",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q18573252",
+      "title": "Portrait of a Woman with a Child and a Dog",
+      "date": "1546",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "paolo-veronese",
+      "artistName": "Paolo Veronese",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q18573252",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Veronese%20038.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Veronese%20-%20AUTORITRATTO%20%282%29%20-%20Museo%20dell%27Ermitage.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q9440",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q18573251",
+      "title": "St. Mark Crowning the Virtues",
+      "date": "1556",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "paolo-veronese",
+      "artistName": "Paolo Veronese",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q18573251",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Saint%20Marc%20r%C3%A9compensant%20les%20vertus%20-%20Paul%20V%C3%A9ron%C3%A8se%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20INV%20148.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Veronese%20-%20AUTORITRATTO%20%282%29%20-%20Museo%20dell%27Ermitage.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q9440",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q11091298",
+      "title": "Supper at Emmaus",
+      "date": "1559",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "paolo-veronese",
+      "artistName": "Paolo Veronese",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q11091298",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Les%20P%C3%A8lerins%20d%27Emma%C3%BCs%20-%20Paolo%20Veronese%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20INV%20146%20%3B%20MR%20385.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Veronese%20-%20AUTORITRATTO%20%282%29%20-%20Museo%20dell%27Ermitage.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q9440",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q18573218",
+      "title": "Susannah and the Elders",
+      "date": "1550",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "paolo-veronese",
+      "artistName": "Paolo Veronese",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q18573218",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Suzanne%20et%20les%20Vieillards%20-%20Paolo%20Caliari%2C%20dit%20Veronese%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20INV%20137%20%3B%20MR%20388.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Veronese%20-%20AUTORITRATTO%20%282%29%20-%20Museo%20dell%27Ermitage.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q9440",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q18573245",
+      "title": "The Flight of Loth",
+      "date": "1550",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "paolo-veronese",
+      "artistName": "Paolo Veronese",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q18573245",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20Fuite%20de%20Lot%20-%20Paul%20V%C3%A9ron%C3%A8se%20-%20Q18573245.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Veronese%20-%20AUTORITRATTO%20%282%29%20-%20Museo%20dell%27Ermitage.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q9440",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q18573243",
+      "title": "The Olympians: Jupiter, Apollo, Diana and Mars",
+      "date": "1557",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "paolo-veronese",
+      "artistName": "Paolo Veronese",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q18573243",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Veronese%20-%20Les%20Sept%20Divinit%C3%A9s%20plan%C3%A9taires%20Jupiter%2C%20Apollon%2C%20Diane%20et%20Mars%2C%20RF%202183.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Veronese%20-%20AUTORITRATTO%20%282%29%20-%20Museo%20dell%27Ermitage.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q9440",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q18573253",
+      "title": "The Olympians: Venus, Saturn and Mercury",
+      "date": "1557",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "paolo-veronese",
+      "artistName": "Paolo Veronese",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q18573253",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Veronese%20-%20Les%20Sept%20Divinit%C3%A9s%20plan%C3%A9taires%20V%C3%A9nus%2C%20Saturne%20et%20Mercure%2C%20RF%202183%20bis.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Veronese%20-%20AUTORITRATTO%20%282%29%20-%20Museo%20dell%27Ermitage.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q9440",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q115672085",
+      "title": "The Pilgrims of Emmaus",
+      "date": "1550",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "paolo-veronese",
+      "artistName": "Paolo Veronese",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q115672085",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Veronese%20-%20AUTORITRATTO%20%282%29%20-%20Museo%20dell%27Ermitage.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q9440",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q18573248",
+      "title": "The Raising of Jairus' daughter",
+      "date": "1546",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "paolo-veronese",
+      "artistName": "Paolo Veronese",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q18573248",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Veronese%20cat01c.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Veronese%20-%20AUTORITRATTO%20%282%29%20-%20Museo%20dell%27Ermitage.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q9440",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q185255",
+      "title": "The Wedding at Cana",
+      "date": "1562",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "paolo-veronese",
+      "artistName": "Paolo Veronese",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q185255",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Les%20Noces%20de%20Cana%20-%20Paolo%20Veronese%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20INV%20142%20%3B%20MR%20384.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Veronese%20-%20AUTORITRATTO%20%282%29%20-%20Museo%20dell%27Ermitage.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q9440",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q115673726",
+      "title": "Untitled record",
+      "date": "1850",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "paolo-veronese",
+      "artistName": "Paolo Veronese",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q115673726",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Veronese%20-%20Genre%20de%20-%20Trois%20personnages%2C%20INV%2020824.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Veronese%20-%20AUTORITRATTO%20%282%29%20-%20Museo%20dell%27Ermitage.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q9440",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1846,7 +2121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1871,39 +2146,14 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q130742238",
-      "title": "Adonis and Venus",
-      "date": "1561",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "paolo-veronese",
-      "artistName": "Paolo Veronese",
-      "locationId": "deutsche-barockgalerie-augsburg",
-      "location": "Deutsche Barockgalerie",
-      "city": "Augsburg",
-      "country": "Germany",
-      "lat": 48.365,
-      "lon": 10.8992,
-      "source": "http://www.wikidata.org/entity/Q130742238",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Augsburg%20Schaezlerpalais%20Mattes%202013-05-05%20%2830%29.JPG",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Veronese%20-%20AUTORITRATTO%20%282%29%20-%20Museo%20dell%27Ermitage.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
     {
       "id": "Q4009575",
       "title": "Venus and Adonis",
-      "date": "1562",
+      "date": "1564",
       "type": "Painting",
       "attribution": "Accepted",
       "artistId": "paolo-veronese",
@@ -1916,12 +2166,12 @@
       "lon": 10.8992,
       "source": "http://www.wikidata.org/entity/Q4009575",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Veronese%2C%20Paolo%20-%20Venus%20and%20Adonis%20-%20c.%201562.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Veronese%20-%20Venus%20und%20Adonis%2C%201563-65%2C%2012583.jpg",
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Veronese%20-%20AUTORITRATTO%20%282%29%20-%20Museo%20dell%27Ermitage.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1946,7 +2196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1971,7 +2221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1996,7 +2246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2021,7 +2271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2046,7 +2296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2071,7 +2321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2096,7 +2346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2121,7 +2371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2146,7 +2396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2171,7 +2421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2196,7 +2446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2221,7 +2471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2246,7 +2496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2271,7 +2521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2296,7 +2546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2321,7 +2571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2346,7 +2596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2371,7 +2621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2396,7 +2646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2421,7 +2671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2446,7 +2696,32 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q111645357",
+      "title": "David with the Head of Goliath",
+      "date": "1580",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "paolo-veronese",
+      "artistName": "Paolo Veronese",
+      "locationId": "fuhrermuseum-linz",
+      "location": "Führermuseum",
+      "city": "Linz",
+      "country": "Austria",
+      "lat": 48.2901,
+      "lon": 14.292,
+      "source": "http://www.wikidata.org/entity/Q111645357",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Battista%20Farinato%20gen.%20Zelotti%20%281532-1592%29%20-%20David%20mit%20dem%20Haupt%20des%20Goliath%20-%202127%20-%20F%C3%BChrermuseum.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Veronese%20-%20AUTORITRATTO%20%282%29%20-%20Museo%20dell%27Ermitage.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q9440",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2471,7 +2746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2496,7 +2771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2521,7 +2796,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2546,7 +2821,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2571,7 +2846,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2591,12 +2866,12 @@
       "lon": 12.492144,
       "source": "http://www.wikidata.org/entity/Q103993781",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Veronese%20-%20St%20John%20the%20Baptist%20Preaching%20-%20WGA24813.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Veronese%20-%20Predica%20del%20Battista%2C%201562%20circa%2C%20137.jpg",
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Veronese%20-%20AUTORITRATTO%20%282%29%20-%20Museo%20dell%27Ermitage.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2621,7 +2896,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2646,7 +2921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2671,7 +2946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2696,7 +2971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2721,7 +2996,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2746,7 +3021,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2771,7 +3046,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2796,7 +3071,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2821,7 +3096,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2846,7 +3121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2871,7 +3146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2896,7 +3171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2921,7 +3196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2946,7 +3221,32 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q124253360",
+      "title": "Madonna and Child with Saints Joseph, Justina, Francis of Assisi, John the Baptist and Jerome",
+      "date": "1563",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "paolo-veronese",
+      "artistName": "Paolo Veronese",
+      "locationId": "gallerie-dell-accademia-venice",
+      "location": "Gallerie dell'Accademia",
+      "city": "Venice",
+      "country": "Italy",
+      "lat": 45.431078,
+      "lon": 12.328139,
+      "source": "http://www.wikidata.org/entity/Q124253360",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Accademia%20-%20Madonna%20col%20Bambino%20e%20i%20Santi%20Giuseppe%2C%20Giustina%2C%20Francesco%2C%20Giovanni%20Battista%20fanciullo%20e%20Girolamo%20by%20Veronese.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Veronese%20-%20AUTORITRATTO%20%282%29%20-%20Museo%20dell%27Ermitage.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q9440",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2971,7 +3271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2996,7 +3296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3021,7 +3321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3046,7 +3346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3071,32 +3371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q124253360",
-      "title": "Untitled record",
-      "date": "1562",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "paolo-veronese",
-      "artistName": "Paolo Veronese",
-      "locationId": "gallerie-dell-accademia-venice",
-      "location": "Gallerie dell'Accademia",
-      "city": "Venice",
-      "country": "Italy",
-      "lat": 45.431078,
-      "lon": 12.328139,
-      "source": "http://www.wikidata.org/entity/Q124253360",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Accademia%20-%20Madonna%20col%20Bambino%20e%20i%20Santi%20Giuseppe%2C%20Giustina%2C%20Francesco%2C%20Giovanni%20Battista%20fanciullo%20e%20Girolamo%20by%20Veronese.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Veronese%20-%20AUTORITRATTO%20%282%29%20-%20Museo%20dell%27Ermitage.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3121,7 +3396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3146,7 +3421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3171,7 +3446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3196,32 +3471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q73284061",
-      "title": "Portrait of a Gentleman of the Soranzo Family",
-      "date": "1585",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "paolo-veronese",
-      "artistName": "Paolo Veronese",
-      "locationId": "harewood-house-harewood",
-      "location": "Harewood House",
-      "city": "Harewood",
-      "country": "United Kingdom",
-      "lat": 53.8969,
-      "lon": -1.5273,
-      "source": "http://www.wikidata.org/entity/Q73284061",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Veronese%20%281528-1588%29%20-%20Portrait%20of%20a%20Gentleman%20of%20the%20Soranzo%20Family%20-%20NG6694%20-%20National%20Gallery.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Veronese%20-%20AUTORITRATTO%20%282%29%20-%20Museo%20dell%27Ermitage.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3246,7 +3496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3271,7 +3521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3296,7 +3546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3321,7 +3571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3346,7 +3596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3371,7 +3621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3396,7 +3646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3421,7 +3671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3446,7 +3696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3471,32 +3721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q105368116",
-      "title": "The Finding of Moses",
-      "date": "1650",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "paolo-veronese",
-      "artistName": "Paolo Veronese",
-      "locationId": "hunterian-museum-and-art-gallery-glasgow-city",
-      "location": "Hunterian Museum and Art Gallery",
-      "city": "Glasgow City",
-      "country": "United Kingdom",
-      "lat": 55.871944444,
-      "lon": -4.288611111,
-      "source": "http://www.wikidata.org/entity/Q105368116",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Veronese%20%281528-1588%29%20%28copy%20after%29%20-%20The%20Finding%20of%20Moses%20by%20Pharaoh%E2%80%99s%20Daughter%20-%20GLAHA-43837%20-%20Hunterian%20Museum%20and%20Art%20Gallery.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Veronese%20-%20AUTORITRATTO%20%282%29%20-%20Museo%20dell%27Ermitage.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3521,7 +3746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3546,7 +3771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3571,7 +3796,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3596,7 +3821,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3621,7 +3846,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3646,7 +3871,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3671,7 +3896,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3696,7 +3921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3721,7 +3946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3746,7 +3971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3771,7 +3996,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3796,7 +4021,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3821,7 +4046,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3846,7 +4071,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3871,7 +4096,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3896,7 +4121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3921,7 +4146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3946,7 +4171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3971,7 +4196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3996,7 +4221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4021,7 +4246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4046,7 +4271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4071,7 +4296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4096,32 +4321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q27921713",
-      "title": "Saint John the Baptist",
-      "date": "1580",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "paolo-veronese",
-      "artistName": "Paolo Veronese",
-      "locationId": "kunsthistorisches-museum-vienna",
-      "location": "Kunsthistorisches Museum",
-      "city": "Vienna",
-      "country": "Austria",
-      "lat": 48.203880555,
-      "lon": 16.3616,
-      "source": "http://www.wikidata.org/entity/Q27921713",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Veronese%20-%20Saint%20John%20Agnus%20Dei%20GG%201545.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Veronese%20-%20AUTORITRATTO%20%282%29%20-%20Museo%20dell%27Ermitage.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4146,7 +4346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4171,7 +4371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4196,7 +4396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4221,7 +4421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4246,14 +4446,14 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
     {
       "id": "Q27979463",
       "title": "The Sacrifice of Isaac",
-      "date": "1588",
+      "date": "1580",
       "type": "Painting",
       "attribution": "Accepted",
       "artistId": "paolo-veronese",
@@ -4266,12 +4466,12 @@
       "lon": 16.3616,
       "source": "http://www.wikidata.org/entity/Q27979463",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Caliari%2C%20gen.%20Veronese%20und%20Werkstatt%20-%20Opferung%20Isaaks%20-%20GG%203825%20-%20Kunsthistorisches%20Museum.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Veronese%20-%20Sacrificio%20di%20Isacco%20%28KHM%20Vienna%29.jpg",
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Veronese%20-%20AUTORITRATTO%20%282%29%20-%20Museo%20dell%27Ermitage.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4296,7 +4496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4321,7 +4521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4346,7 +4546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4371,7 +4571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4396,7 +4596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4421,32 +4621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q28088548",
-      "title": "Untitled record",
-      "date": "1837",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "paolo-veronese",
-      "artistName": "Paolo Veronese",
-      "locationId": "mauritshuis-the-hague",
-      "location": "Mauritshuis",
-      "city": "The Hague",
-      "country": "Netherlands",
-      "lat": 52.080388888,
-      "lon": 4.314305555,
-      "source": "http://www.wikidata.org/entity/Q28088548",
-      "image": "",
-      "externalImage": "",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Veronese%20-%20AUTORITRATTO%20%282%29%20-%20Museo%20dell%27Ermitage.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4471,7 +4646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4496,7 +4671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4521,7 +4696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4546,7 +4721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4571,7 +4746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4596,7 +4771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4621,7 +4796,32 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q105099743",
+      "title": "The Feast in the House of Simon the Pharisee",
+      "date": "1572",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "paolo-veronese",
+      "artistName": "Paolo Veronese",
+      "locationId": "musee-de-l-histoire-de-france-versailles",
+      "location": "Musée de l'Histoire de France",
+      "city": "Versailles",
+      "country": "France",
+      "lat": 48.8044,
+      "lon": 2.12197,
+      "source": "http://www.wikidata.org/entity/Q105099743",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Veronese%20-%20Le%20Repas%20chez%20Simon%20le%20Pharisien%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Veronese%20-%20AUTORITRATTO%20%282%29%20-%20Museo%20dell%27Ermitage.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q9440",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4646,7 +4846,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4671,7 +4871,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4696,7 +4896,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4721,7 +4921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4746,7 +4946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4771,7 +4971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4796,7 +4996,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4821,132 +5021,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q123469712",
-      "title": "Untitled record",
-      "date": "1701",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "paolo-veronese",
-      "artistName": "Paolo Veronese",
-      "locationId": "musee-des-beaux-arts-de-rennes-rennes",
-      "location": "Musée des Beaux-Arts de Rennes",
-      "city": "Rennes",
-      "country": "France",
-      "lat": 48.109444,
-      "lon": -1.675,
-      "source": "http://www.wikidata.org/entity/Q123469712",
-      "image": "",
-      "externalImage": "",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Veronese%20-%20AUTORITRATTO%20%282%29%20-%20Museo%20dell%27Ermitage.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q123506789",
-      "title": "Untitled record",
-      "date": "1501",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "paolo-veronese",
-      "artistName": "Paolo Veronese",
-      "locationId": "musee-des-beaux-arts-de-rennes-rennes",
-      "location": "Musée des Beaux-Arts de Rennes",
-      "city": "Rennes",
-      "country": "France",
-      "lat": 48.109444,
-      "lon": -1.675,
-      "source": "http://www.wikidata.org/entity/Q123506789",
-      "image": "",
-      "externalImage": "",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Veronese%20-%20AUTORITRATTO%20%282%29%20-%20Museo%20dell%27Ermitage.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q123504036",
-      "title": "Untitled record",
-      "date": "1601",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "paolo-veronese",
-      "artistName": "Paolo Veronese",
-      "locationId": "musee-des-beaux-arts-de-rennes-rennes",
-      "location": "Musée des Beaux-Arts de Rennes",
-      "city": "Rennes",
-      "country": "France",
-      "lat": 48.109444,
-      "lon": -1.675,
-      "source": "http://www.wikidata.org/entity/Q123504036",
-      "image": "",
-      "externalImage": "",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Veronese%20-%20AUTORITRATTO%20%282%29%20-%20Museo%20dell%27Ermitage.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q123504078",
-      "title": "Untitled record",
-      "date": "1851",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "paolo-veronese",
-      "artistName": "Paolo Veronese",
-      "locationId": "musee-des-beaux-arts-de-rennes-rennes",
-      "location": "Musée des Beaux-Arts de Rennes",
-      "city": "Rennes",
-      "country": "France",
-      "lat": 48.109444,
-      "lon": -1.675,
-      "source": "http://www.wikidata.org/entity/Q123504078",
-      "image": "",
-      "externalImage": "",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Veronese%20-%20AUTORITRATTO%20%282%29%20-%20Museo%20dell%27Ermitage.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q123506076",
-      "title": "Untitled record",
-      "date": "1641",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "paolo-veronese",
-      "artistName": "Paolo Veronese",
-      "locationId": "musee-des-beaux-arts-de-rennes-rennes",
-      "location": "Musée des Beaux-Arts de Rennes",
-      "city": "Rennes",
-      "country": "France",
-      "lat": 48.109444,
-      "lon": -1.675,
-      "source": "http://www.wikidata.org/entity/Q123506076",
-      "image": "",
-      "externalImage": "",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Veronese%20-%20AUTORITRATTO%20%282%29%20-%20Museo%20dell%27Ermitage.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4971,7 +5046,57 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q123469712",
+      "title": "Untitled record",
+      "date": "1701",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "paolo-veronese",
+      "artistName": "Paolo Veronese",
+      "locationId": "musee-des-beaux-arts-de-rennes-rennes",
+      "location": "Musée des Beaux-Arts de Rennes",
+      "city": "Rennes",
+      "country": "France",
+      "lat": 48.109444,
+      "lon": -1.675,
+      "source": "http://www.wikidata.org/entity/Q123469712",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Veronese%20-%20AUTORITRATTO%20%282%29%20-%20Museo%20dell%27Ermitage.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q9440",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q123506789",
+      "title": "Untitled record",
+      "date": "1501",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "paolo-veronese",
+      "artistName": "Paolo Veronese",
+      "locationId": "musee-des-beaux-arts-de-rennes-rennes",
+      "location": "Musée des Beaux-Arts de Rennes",
+      "city": "Rennes",
+      "country": "France",
+      "lat": 48.109444,
+      "lon": -1.675,
+      "source": "http://www.wikidata.org/entity/Q123506789",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Veronese%20-%20AUTORITRATTO%20%282%29%20-%20Museo%20dell%27Ermitage.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q9440",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4996,7 +5121,82 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q123504036",
+      "title": "Untitled record",
+      "date": "1601",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "paolo-veronese",
+      "artistName": "Paolo Veronese",
+      "locationId": "musee-des-beaux-arts-de-rennes-rennes",
+      "location": "Musée des Beaux-Arts de Rennes",
+      "city": "Rennes",
+      "country": "France",
+      "lat": 48.109444,
+      "lon": -1.675,
+      "source": "http://www.wikidata.org/entity/Q123504036",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Veronese%20-%20AUTORITRATTO%20%282%29%20-%20Museo%20dell%27Ermitage.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q9440",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q123504078",
+      "title": "Untitled record",
+      "date": "1851",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "paolo-veronese",
+      "artistName": "Paolo Veronese",
+      "locationId": "musee-des-beaux-arts-de-rennes-rennes",
+      "location": "Musée des Beaux-Arts de Rennes",
+      "city": "Rennes",
+      "country": "France",
+      "lat": 48.109444,
+      "lon": -1.675,
+      "source": "http://www.wikidata.org/entity/Q123504078",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Veronese%20-%20AUTORITRATTO%20%282%29%20-%20Museo%20dell%27Ermitage.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q9440",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q123506076",
+      "title": "Untitled record",
+      "date": "1641",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "paolo-veronese",
+      "artistName": "Paolo Veronese",
+      "locationId": "musee-des-beaux-arts-de-rennes-rennes",
+      "location": "Musée des Beaux-Arts de Rennes",
+      "city": "Rennes",
+      "country": "France",
+      "lat": 48.109444,
+      "lon": -1.675,
+      "source": "http://www.wikidata.org/entity/Q123506076",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Veronese%20-%20AUTORITRATTO%20%282%29%20-%20Museo%20dell%27Ermitage.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q9440",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5021,7 +5221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5046,7 +5246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5071,7 +5271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5096,7 +5296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5121,7 +5321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5146,7 +5346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5171,7 +5371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5196,7 +5396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5221,7 +5421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5246,7 +5446,32 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q27698583",
+      "title": "Hercules and Iole",
+      "date": "1585",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "paolo-veronese",
+      "artistName": "Paolo Veronese",
+      "locationId": "museo-del-prado-madrid",
+      "location": "Museo del Prado",
+      "city": "Madrid",
+      "country": "Spain",
+      "lat": 40.413888888,
+      "lon": -3.692222222,
+      "source": "http://www.wikidata.org/entity/Q27698583",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Veronese%2C%20Paolo%20-%20Hercules%20and%20Iole.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Veronese%20-%20AUTORITRATTO%20%282%29%20-%20Museo%20dell%27Ermitage.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q9440",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5271,7 +5496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5296,7 +5521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5321,7 +5546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5346,7 +5571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5371,32 +5596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q27698583",
-      "title": "The homeless Cain and his Family",
-      "date": "1585",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "paolo-veronese",
-      "artistName": "Paolo Veronese",
-      "locationId": "museo-del-prado-madrid",
-      "location": "Museo del Prado",
-      "city": "Madrid",
-      "country": "Spain",
-      "lat": 40.413888888,
-      "lon": -3.692222222,
-      "source": "http://www.wikidata.org/entity/Q27698583",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Cain%20and%20his%20family%20wandering.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Veronese%20-%20AUTORITRATTO%20%282%29%20-%20Museo%20dell%27Ermitage.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5421,14 +5621,14 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
     {
       "id": "Q27698853",
       "title": "The Sacrifice of Isaac",
-      "date": "1586",
+      "date": "1585",
       "type": "Painting",
       "attribution": "Accepted",
       "artistId": "paolo-veronese",
@@ -5446,7 +5646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5471,32 +5671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q60022099",
-      "title": "Untitled record",
-      "date": "1601",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "paolo-veronese",
-      "artistName": "Paolo Veronese",
-      "locationId": "museo-del-prado-madrid",
-      "location": "Museo del Prado",
-      "city": "Madrid",
-      "country": "Spain",
-      "lat": 40.413888888,
-      "lon": -3.692222222,
-      "source": "http://www.wikidata.org/entity/Q60022099",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Adoraci%C3%B3n%20de%20los%20Reyes%20Magos%20de%20Paolo%20Farinati.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Veronese%20-%20AUTORITRATTO%20%282%29%20-%20Museo%20dell%27Ermitage.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5521,7 +5696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5546,7 +5721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5571,7 +5746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5596,7 +5771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5621,7 +5796,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5646,7 +5821,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5671,7 +5846,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5696,7 +5871,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5721,7 +5896,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5746,7 +5921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5771,7 +5946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5796,7 +5971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5821,7 +5996,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5846,7 +6021,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5871,32 +6046,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q2900098",
-      "title": "Bathsheba at Her Bath",
-      "date": "1575",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "paolo-veronese",
-      "artistName": "Paolo Veronese",
-      "locationId": "museum-of-fine-arts-of-lyon-lyon",
-      "location": "Museum of Fine Arts of Lyon",
-      "city": "Lyon",
-      "country": "France",
-      "lat": 45.766944444,
-      "lon": 4.833611111,
-      "source": "http://www.wikidata.org/entity/Q2900098",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bathsheba%20in%20her%20bath-Veronese-MBA%20Lyon%20A63-IMG%200319.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Veronese%20-%20AUTORITRATTO%20%282%29%20-%20Museo%20dell%27Ermitage.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5921,7 +6071,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5946,7 +6096,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5958,9 +6108,9 @@
       "attribution": "Accepted",
       "artistId": "paolo-veronese",
       "artistName": "Paolo Veronese",
-      "locationId": "museum-of-fine-arts-budapest-zuglo",
+      "locationId": "museum-of-fine-arts-budapest-budapest-district-xiv",
       "location": "Museum of Fine Arts, Budapest",
-      "city": "Zugló",
+      "city": "Budapest district XIV",
       "country": "Hungary",
       "lat": 47.51587,
       "lon": 19.07678,
@@ -5971,7 +6121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5983,9 +6133,9 @@
       "attribution": "Accepted",
       "artistId": "paolo-veronese",
       "artistName": "Paolo Veronese",
-      "locationId": "museum-of-fine-arts-budapest-zuglo",
+      "locationId": "museum-of-fine-arts-budapest-budapest-district-xiv",
       "location": "Museum of Fine Arts, Budapest",
-      "city": "Zugló",
+      "city": "Budapest district XIV",
       "country": "Hungary",
       "lat": 47.51587,
       "lon": 19.07678,
@@ -5996,7 +6146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6008,9 +6158,9 @@
       "attribution": "Accepted",
       "artistId": "paolo-veronese",
       "artistName": "Paolo Veronese",
-      "locationId": "museum-of-fine-arts-budapest-zuglo",
+      "locationId": "museum-of-fine-arts-budapest-budapest-district-xiv",
       "location": "Museum of Fine Arts, Budapest",
-      "city": "Zugló",
+      "city": "Budapest district XIV",
       "country": "Hungary",
       "lat": 47.51587,
       "lon": 19.07678,
@@ -6021,7 +6171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6033,9 +6183,9 @@
       "attribution": "Accepted",
       "artistId": "paolo-veronese",
       "artistName": "Paolo Veronese",
-      "locationId": "museum-of-fine-arts-budapest-zuglo",
+      "locationId": "museum-of-fine-arts-budapest-budapest-district-xiv",
       "location": "Museum of Fine Arts, Budapest",
-      "city": "Zugló",
+      "city": "Budapest district XIV",
       "country": "Hungary",
       "lat": 47.51587,
       "lon": 19.07678,
@@ -6046,7 +6196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6071,7 +6221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6096,7 +6246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6121,7 +6271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6146,7 +6296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6171,7 +6321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6196,7 +6346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6221,7 +6371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6246,7 +6396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6271,7 +6421,32 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q73284061",
+      "title": "Portrait of a Gentleman of the Soranzo Family",
+      "date": "1585",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "paolo-veronese",
+      "artistName": "Paolo Veronese",
+      "locationId": "national-gallery-city-of-westminster",
+      "location": "National Gallery",
+      "city": "City of Westminster",
+      "country": "United Kingdom",
+      "lat": 51.508888888,
+      "lon": -0.128333333,
+      "source": "http://www.wikidata.org/entity/Q73284061",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Veronese%20%281528-1588%29%20-%20Portrait%20of%20a%20Gentleman%20of%20the%20Soranzo%20Family%20-%20NG6694%20-%20National%20Gallery.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Veronese%20-%20AUTORITRATTO%20%282%29%20-%20Museo%20dell%27Ermitage.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q9440",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6296,7 +6471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6321,7 +6496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6346,7 +6521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6371,7 +6546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6396,7 +6571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6421,7 +6596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6446,7 +6621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6471,7 +6646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6496,7 +6671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6521,7 +6696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6546,7 +6721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6571,7 +6746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6596,7 +6771,32 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q112181490",
+      "title": "Christ Washing the Feet of the Disciples",
+      "date": "1584",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "paolo-veronese",
+      "artistName": "Paolo Veronese",
+      "locationId": "national-gallery-prague-location-unknown",
+      "location": "National Gallery Prague",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 50.101111,
+      "lon": 14.4325,
+      "source": "http://www.wikidata.org/entity/Q112181490",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Veronese%20-%20Christ%20Washing%20the%20Feet%20of%20the%20Disciples%20-%20WGA24846.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Veronese%20-%20AUTORITRATTO%20%282%29%20-%20Museo%20dell%27Ermitage.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q9440",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6621,7 +6821,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6646,7 +6846,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6671,7 +6871,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6683,9 +6883,9 @@
       "attribution": "Accepted",
       "artistId": "paolo-veronese",
       "artistName": "Paolo Veronese",
-      "locationId": "nationalmuseum-stockholm",
+      "locationId": "nationalmuseum-stockholm-municipality",
       "location": "Nationalmuseum",
-      "city": "Stockholm",
+      "city": "Stockholm Municipality",
       "country": "Sweden",
       "lat": 59.328611111,
       "lon": 18.078055555,
@@ -6696,7 +6896,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6708,9 +6908,9 @@
       "attribution": "Accepted",
       "artistId": "paolo-veronese",
       "artistName": "Paolo Veronese",
-      "locationId": "nationalmuseum-stockholm",
+      "locationId": "nationalmuseum-stockholm-municipality",
       "location": "Nationalmuseum",
-      "city": "Stockholm",
+      "city": "Stockholm Municipality",
       "country": "Sweden",
       "lat": 59.328611111,
       "lon": 18.078055555,
@@ -6721,7 +6921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6733,9 +6933,9 @@
       "attribution": "Accepted",
       "artistId": "paolo-veronese",
       "artistName": "Paolo Veronese",
-      "locationId": "nationalmuseum-stockholm",
+      "locationId": "nationalmuseum-stockholm-municipality",
       "location": "Nationalmuseum",
-      "city": "Stockholm",
+      "city": "Stockholm Municipality",
       "country": "Sweden",
       "lat": 59.328611111,
       "lon": 18.078055555,
@@ -6746,32 +6946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q28102514",
-      "title": "Christ on the Cross",
-      "date": "1649",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "paolo-veronese",
-      "artistName": "Paolo Veronese",
-      "locationId": "our-lord-in-the-attic-museum-amsterdam",
-      "location": "Our Lord in the Attic Museum",
-      "city": "Amsterdam",
-      "country": "Netherlands",
-      "lat": 52.375076,
-      "lon": 4.899363,
-      "source": "http://www.wikidata.org/entity/Q28102514",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Veronese%20-%20Christus%20aan%20het%20kruis%20-%20E141%20-%20Instituut%20Collectie%20Nederland.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Veronese%20-%20AUTORITRATTO%20%282%29%20-%20Museo%20dell%27Ermitage.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6796,7 +6971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6821,7 +6996,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6846,7 +7021,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6871,7 +7046,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6896,7 +7071,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6921,7 +7096,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6946,7 +7121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6971,7 +7146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6996,7 +7171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7021,32 +7196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q111645357",
-      "title": "David with the Head of Goliath",
-      "date": "1557",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "paolo-veronese",
-      "artistName": "Paolo Veronese",
-      "locationId": "prague-castle-hradcany",
-      "location": "Prague Castle",
-      "city": "Hradčany",
-      "country": "Czech Republic",
-      "lat": 50.09,
-      "lon": 14.4,
-      "source": "http://www.wikidata.org/entity/Q111645357",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Battista%20Farinato%20gen.%20Zelotti%20%281532-1592%29%20-%20David%20mit%20dem%20Haupt%20des%20Goliath%20-%202127%20-%20F%C3%BChrermuseum.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Veronese%20-%20AUTORITRATTO%20%282%29%20-%20Museo%20dell%27Ermitage.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7071,7 +7221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7096,7 +7246,82 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q28029243",
+      "title": "David Victorious Over Goliath",
+      "date": "1567",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "paolo-veronese",
+      "artistName": "Paolo Veronese",
+      "locationId": "royal-collection-location-unknown",
+      "location": "Royal Collection",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 51.501,
+      "lon": -0.142,
+      "source": "http://www.wikidata.org/entity/Q28029243",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Veronese%20%281528-88%29%20-%20David%20Victorious%20Over%20Goliath%20-%20RCIN%20402613%20-%20Royal%20Collection.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Veronese%20-%20AUTORITRATTO%20%282%29%20-%20Museo%20dell%27Ermitage.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q9440",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q28029244",
+      "title": "Judith with the Head of Holofernes",
+      "date": "1564",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "paolo-veronese",
+      "artistName": "Paolo Veronese",
+      "locationId": "royal-collection-location-unknown",
+      "location": "Royal Collection",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 51.501,
+      "lon": -0.142,
+      "source": "http://www.wikidata.org/entity/Q28029244",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Veronese%20%281528-88%29%20-%20Judith%20with%20the%20Head%20of%20Holofernes%20-%20RCIN%20402615%20-%20Royal%20Collection.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Veronese%20-%20AUTORITRATTO%20%282%29%20-%20Museo%20dell%27Ermitage.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q9440",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q27925248",
+      "title": "Mystic marriage of St. Catherine",
+      "date": "1565",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "paolo-veronese",
+      "artistName": "Paolo Veronese",
+      "locationId": "royal-collection-location-unknown",
+      "location": "Royal Collection",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 51.501,
+      "lon": -0.142,
+      "source": "http://www.wikidata.org/entity/Q27925248",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Veronese%20%28Verona%201528-1588%29%20and%20Workshop%20-%20The%20Mystic%20Marriage%20of%20St%20Catherine%20of%20Alexandria%20-%20RCIN%20407216%20-%20Royal%20Collection.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Veronese%20-%20AUTORITRATTO%20%282%29%20-%20Museo%20dell%27Ermitage.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q9440",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7121,7 +7346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7146,7 +7371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7171,7 +7396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7196,7 +7421,32 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q81755677",
+      "title": "The Martyrdom of St George",
+      "date": "1564",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "paolo-veronese",
+      "artistName": "Paolo Veronese",
+      "locationId": "san-giorgio-in-braida-verona",
+      "location": "San Giorgio in Braida",
+      "city": "Verona",
+      "country": "Italy",
+      "lat": 45.448888888,
+      "lon": 10.995936111,
+      "source": "http://www.wikidata.org/entity/Q81755677",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Veronese%20023.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Veronese%20-%20AUTORITRATTO%20%282%29%20-%20Museo%20dell%27Ermitage.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q9440",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7221,7 +7471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7246,7 +7496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7271,7 +7521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7296,7 +7546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7316,12 +7566,12 @@
       "lon": -122.338133,
       "source": "http://www.wikidata.org/entity/Q74162657",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Marte%20y%20Venus%20Seattle%2001.JPG",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Veronese%20-%20Venus%20and%20Adonis%2C%201570s%2C%20K1552%2C%20Seattle%20Art%20Museum.jpg",
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Veronese%20-%20AUTORITRATTO%20%282%29%20-%20Museo%20dell%27Ermitage.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7346,7 +7596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7371,7 +7621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7396,7 +7646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7421,7 +7671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7446,7 +7696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7471,7 +7721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7496,7 +7746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7521,7 +7771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7546,7 +7796,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7571,7 +7821,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7596,7 +7846,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7621,7 +7871,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7646,7 +7896,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7671,7 +7921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7696,7 +7946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7721,7 +7971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7746,7 +7996,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7771,7 +8021,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7796,7 +8046,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7821,7 +8071,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7846,7 +8096,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7871,7 +8121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7896,7 +8146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7921,7 +8171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7946,7 +8196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7971,7 +8221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7996,7 +8246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8021,7 +8271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8046,7 +8296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8071,7 +8321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8096,32 +8346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q119457514",
-      "title": "Christ and the Centurion (Matthew 8:5)",
-      "date": "Date unknown",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "paolo-veronese",
-      "artistName": "Paolo Veronese",
-      "locationId": "victoria-and-albert-museum-royal-borough-of-kensington-and-chelsea",
-      "location": "Victoria and Albert Museum",
-      "city": "Royal Borough of Kensington and Chelsea",
-      "country": "United Kingdom",
-      "lat": 51.49685,
-      "lon": -0.17162,
-      "source": "http://www.wikidata.org/entity/Q119457514",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Veronese%20%281528-1588%29%20%28after%29%20-%20Christ%20and%20the%20Centurion%20%28Matthew%208-5%29%20-%20CAI.96%20-%20Victoria%20and%20Albert%20Museum.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Veronese%20-%20AUTORITRATTO%20%282%29%20-%20Museo%20dell%27Ermitage.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8146,7 +8371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8171,7 +8396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8196,7 +8421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8221,7 +8446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8246,7 +8471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8271,7 +8496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8296,7 +8521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8321,7 +8546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8346,14 +8571,14 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
     {
       "id": "Q119457517",
       "title": "Venus and Adonis",
-      "date": "Date unknown",
+      "date": "1570",
       "type": "Painting",
       "attribution": "Accepted",
       "artistId": "paolo-veronese",
@@ -8371,7 +8596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8396,7 +8621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9440",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     }

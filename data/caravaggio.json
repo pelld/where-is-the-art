@@ -21,7 +21,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -46,7 +46,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -71,7 +71,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -96,7 +96,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -121,7 +121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -146,7 +146,32 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q141202870",
+      "title": "Untitled record",
+      "date": "1610",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "caravaggio",
+      "artistName": "Caravaggio",
+      "locationId": "cavaillon-hotel-d-agar-cavaillon",
+      "location": "Cavaillon - Hotel d'Agar",
+      "city": "Cavaillon",
+      "country": "France",
+      "lat": 43.835597,
+      "lon": 5.036096,
+      "source": "http://www.wikidata.org/entity/Q141202870",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bild-Ottavio%20Leoni%2C%20Caravaggio.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q42207",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -171,32 +196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q663133",
-      "title": "The Cardsharps",
-      "date": "1596",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "caravaggio",
-      "artistName": "Caravaggio",
-      "locationId": "collection-unknown-fort-worth",
-      "location": "Collection unknown",
-      "city": "Fort Worth",
-      "country": "United States",
-      "lat": 32.748611111,
-      "lon": -97.365,
-      "source": "http://www.wikidata.org/entity/Q663133",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Caravaggio%20-%20The%20Cardsharps%20%281596-97%29%20Kimbell%20Art%20Museum.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bild-Ottavio%20Leoni%2C%20Caravaggio.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q42207",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -221,7 +221,32 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q577248",
+      "title": "Saint Matthew and the Angel",
+      "date": "1602",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "caravaggio",
+      "artistName": "Caravaggio",
+      "locationId": "contarelli-chapel-rome",
+      "location": "Contarelli Chapel",
+      "city": "Rome",
+      "country": "Italy",
+      "lat": 41.89944444,
+      "lon": 12.47472222,
+      "source": "http://www.wikidata.org/entity/Q577248",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Caravaggio%20%28Michelangelo%20Merisi%29%20%281571%20-%201610%29%20-%20The%20Evangelist%20Matthew%20-%20365%20-%20Gem%C3%A4ldegalerie.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bild-Ottavio%20Leoni%2C%20Caravaggio.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q42207",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -246,7 +271,107 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q597114",
+      "title": "Death of the Virgin",
+      "date": "1603",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "caravaggio",
+      "artistName": "Caravaggio",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q597114",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Death%20of%20the%20Virgin-Caravaggio%20%281606%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bild-Ottavio%20Leoni%2C%20Caravaggio.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q42207",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q945164",
+      "title": "Portrait of Alof de Wignacourt and his Page",
+      "date": "1600",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "caravaggio",
+      "artistName": "Caravaggio",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q945164",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20d%27Alof%20de%20Wignacourt%20-%20Le%20Caravage%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20INV%2057%20%3B%20MR%20103.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bild-Ottavio%20Leoni%2C%20Caravaggio.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q42207",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q2610675",
+      "title": "The Fortune Teller",
+      "date": "1594",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "caravaggio",
+      "artistName": "Caravaggio",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q2610675",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Fortune%20Teller-Caravaggio%20%28Louvre%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bild-Ottavio%20Leoni%2C%20Caravaggio.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q42207",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q106492784",
+      "title": "Crucifixion of S Peter",
+      "date": "Date unknown",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "caravaggio",
+      "artistName": "Caravaggio",
+      "locationId": "department-of-prints-and-drawings-of-the-louvre-location-unknown",
+      "location": "Department of Prints and Drawings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111111,
+      "lon": 2.335833333,
+      "source": "http://www.wikidata.org/entity/Q106492784",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Copie%20d%27apr%C3%A8s%20AMERIGHI%20Caravaggio%20-%20Crucifixion%20de%20saint%20Pierre%2C%20INV%206039%2C%20Recto.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bild-Ottavio%20Leoni%2C%20Caravaggio.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q42207",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -271,7 +396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -296,7 +421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -321,7 +446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -346,7 +471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -371,7 +496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -396,7 +521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -421,7 +546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -446,7 +571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -471,7 +596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -496,7 +621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -521,7 +646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -546,7 +671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -571,7 +696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -596,7 +721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -621,7 +746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -646,7 +771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -671,7 +796,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -696,7 +821,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -721,7 +846,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -746,7 +871,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -771,7 +896,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -796,7 +921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -821,7 +946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -846,7 +971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -871,7 +996,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -896,32 +1021,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q577248",
-      "title": "Saint Matthew and the Angel",
-      "date": "1602",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "caravaggio",
-      "artistName": "Caravaggio",
-      "locationId": "gemaldegalerie-berlin-bezirk-mitte",
-      "location": "Gemäldegalerie Berlin",
-      "city": "Bezirk Mitte",
-      "country": "Germany",
-      "lat": 52.508611111,
-      "lon": 13.364722222,
-      "source": "http://www.wikidata.org/entity/Q577248",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Caravaggio%20%28Michelangelo%20Merisi%29%20%281571%20-%201610%29%20-%20The%20Evangelist%20Matthew%20-%20365%20-%20Gem%C3%A4ldegalerie.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bild-Ottavio%20Leoni%2C%20Caravaggio.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q42207",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -946,7 +1046,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -971,7 +1071,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -996,7 +1096,32 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q663133",
+      "title": "The Cardsharps",
+      "date": "1596",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "caravaggio",
+      "artistName": "Caravaggio",
+      "locationId": "kimbell-art-museum-fort-worth",
+      "location": "Kimbell Art Museum",
+      "city": "Fort Worth",
+      "country": "United States",
+      "lat": 32.748611111,
+      "lon": -97.365,
+      "source": "http://www.wikidata.org/entity/Q663133",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Caravaggio%20-%20The%20Cardsharps%20%281596-97%29%20Kimbell%20Art%20Museum.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bild-Ottavio%20Leoni%2C%20Caravaggio.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q42207",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1021,7 +1146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1046,7 +1171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1071,7 +1196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1096,7 +1221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1121,7 +1246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1146,7 +1271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1171,7 +1296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1196,7 +1321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1221,7 +1346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1246,7 +1371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1271,7 +1396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1296,7 +1421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1321,7 +1446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1346,7 +1471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1371,7 +1496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1396,7 +1521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1421,7 +1546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1446,7 +1571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1471,7 +1596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1496,7 +1621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1521,7 +1646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1546,7 +1671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1571,7 +1696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1596,7 +1721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1621,7 +1746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1646,7 +1771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1671,7 +1796,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1696,7 +1821,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1721,7 +1846,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1746,7 +1871,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1771,7 +1896,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1796,7 +1921,57 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q2574120",
+      "title": "Boy Peeling Fruit",
+      "date": "1592",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "caravaggio",
+      "artistName": "Caravaggio",
+      "locationId": "royal-collection-location-unknown",
+      "location": "Royal Collection",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 51.501,
+      "lon": -0.142,
+      "source": "http://www.wikidata.org/entity/Q2574120",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Michelangelo%20Merisi%20da%20Caravaggio%20%28Milan%201571-Port%27%20Ercole%201610%29%20-%20Boy%20Peeling%20Fruit%20-%20RCIN%20402612%20-%20Royal%20Collection.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bild-Ottavio%20Leoni%2C%20Caravaggio.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q42207",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q1460179",
+      "title": "The Calling of Saints Peter and Andrew",
+      "date": "1606",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "caravaggio",
+      "artistName": "Caravaggio",
+      "locationId": "royal-collection-location-unknown",
+      "location": "Royal Collection",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 51.501,
+      "lon": -0.142,
+      "source": "http://www.wikidata.org/entity/Q1460179",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Michelangelo%20Merisi%20da%20Caravaggio%20%28Milan%201571-Port%27%20Ercole%201610%29%20-%20The%20Calling%20of%20Saints%20Peter%20and%20Andrew%20-%20RCIN%20402824%20-%20Hampton%20Court%20Palace.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bild-Ottavio%20Leoni%2C%20Caravaggio.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q42207",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1821,7 +1996,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1846,7 +2021,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1871,7 +2046,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1896,7 +2071,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1921,7 +2096,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1946,7 +2121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1962,8 +2137,8 @@
       "location": "Santa Maria del Popolo",
       "city": "Rome",
       "country": "Italy",
-      "lat": 41.911358,
-      "lon": 12.476033,
+      "lat": 41.911448,
+      "lon": 12.476483,
       "source": "http://www.wikidata.org/entity/Q2273517",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Conversion%20on%20the%20Way%20to%20Damascus-Caravaggio%20%28c.1600-1%29.jpg",
@@ -1971,7 +2146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1987,8 +2162,8 @@
       "location": "Santa Maria del Popolo",
       "city": "Rome",
       "country": "Italy",
-      "lat": 41.911358,
-      "lon": 12.476033,
+      "lat": 41.911448,
+      "lon": 12.476483,
       "source": "http://www.wikidata.org/entity/Q685916",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Crucifixion%20of%20Saint%20Peter-Caravaggio%20%28c.1600%29.jpg",
@@ -1996,7 +2171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2012,8 +2187,8 @@
       "location": "Santa Maria del Popolo",
       "city": "Rome",
       "country": "Italy",
-      "lat": 41.911358,
-      "lon": 12.476033,
+      "lat": 41.911448,
+      "lon": 12.476483,
       "source": "http://www.wikidata.org/entity/Q26766739",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Annibale%20Carracci%20e%20Caravaggio%2C%20Cappella%20Cerasi.jpg",
@@ -2021,7 +2196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2046,7 +2221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2071,7 +2246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2096,7 +2271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2121,7 +2296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2146,7 +2321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2171,7 +2346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2196,7 +2371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2221,7 +2396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2246,7 +2421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2271,7 +2446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2296,7 +2471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q42207",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     }

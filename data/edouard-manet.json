@@ -21,7 +21,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -46,7 +46,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -71,7 +71,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -96,7 +96,107 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q107340285",
+      "title": "Argenteuil, Boat (study)",
+      "date": "1874",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "edouard-manet",
+      "artistName": "Édouard Manet",
+      "locationId": "amgueddfa-cymru-museum-wales-wales",
+      "location": "Amgueddfa Cymru – Museum Wales",
+      "city": "Wales",
+      "country": "United Kingdom",
+      "lat": 51.485577,
+      "lon": -3.177128,
+      "source": "http://www.wikidata.org/entity/Q107340285",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Manet%20-%20Segelboote%20in%20Argenteuil.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Manet%2C%20en%20buste%2C%20de%20face%20-%20Nadar.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q40599",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q978841",
+      "title": "Effect of Snow on Petit-Montrouge",
+      "date": "1870",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "edouard-manet",
+      "artistName": "Édouard Manet",
+      "locationId": "amgueddfa-cymru-museum-wales-wales",
+      "location": "Amgueddfa Cymru – Museum Wales",
+      "city": "Wales",
+      "country": "United Kingdom",
+      "lat": 51.485577,
+      "lon": -3.177128,
+      "source": "http://www.wikidata.org/entity/Q978841",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Manet%20-%20Effet%20de%20neige%20%C3%A0%20Petit%E2%80%93Montrouge.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Manet%2C%20en%20buste%2C%20de%20face%20-%20Nadar.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q40599",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q104806107",
+      "title": "Portrait of Jules de Jouy",
+      "date": "1879",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "edouard-manet",
+      "artistName": "Édouard Manet",
+      "locationId": "amgueddfa-cymru-museum-wales-wales",
+      "location": "Amgueddfa Cymru – Museum Wales",
+      "city": "Wales",
+      "country": "United Kingdom",
+      "lat": 51.485577,
+      "lon": -3.177128,
+      "source": "http://www.wikidata.org/entity/Q104806107",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20manet%20Portrait%20of%20Jules%20de%20Jouy%20%28Museum%20Cardiff%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Manet%2C%20en%20buste%2C%20de%20face%20-%20Nadar.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q40599",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q7759156",
+      "title": "The Rabbit",
+      "date": "1881",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "edouard-manet",
+      "artistName": "Édouard Manet",
+      "locationId": "amgueddfa-cymru-museum-wales-wales",
+      "location": "Amgueddfa Cymru – Museum Wales",
+      "city": "Wales",
+      "country": "United Kingdom",
+      "lat": 51.485577,
+      "lon": -3.177128,
+      "source": "http://www.wikidata.org/entity/Q7759156",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Manet%2C%20Edouard%20-%20The%20Rabbit%20%281881%29.png",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Manet%2C%20en%20buste%2C%20de%20face%20-%20Nadar.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q40599",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -121,7 +221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -146,7 +246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -171,7 +271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -196,7 +296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -221,7 +321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -246,7 +346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -271,7 +371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -296,7 +396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -321,7 +421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -346,7 +446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -371,7 +471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -396,7 +496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -421,7 +521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -446,7 +546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -471,7 +571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -496,7 +596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -521,7 +621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -546,7 +646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -571,7 +671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -596,7 +696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -621,7 +721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -646,7 +746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -671,7 +771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -696,7 +796,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -721,7 +821,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -746,7 +846,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -771,7 +871,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -796,7 +896,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -821,7 +921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -846,7 +946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -871,7 +971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -896,7 +996,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -921,7 +1021,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -946,7 +1046,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -971,7 +1071,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -996,7 +1096,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1021,7 +1121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1046,7 +1146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1071,7 +1171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1096,7 +1196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1121,7 +1221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1146,7 +1246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1171,7 +1271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1196,12 +1296,12 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
     {
-      "id": "Q65019580",
+      "id": "Q65222752",
       "title": "At the Prado (Au Prado)",
       "date": "1865",
       "type": "Painting",
@@ -1214,14 +1314,14 @@
       "country": "United States",
       "lat": 38.891388888,
       "lon": -77.02,
-      "source": "http://www.wikidata.org/entity/Q65019580",
+      "source": "http://www.wikidata.org/entity/Q65222752",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Edouard%20Manet%2C%20At%20the%20Prado%20%28Au%20Prado%29%2C%201865-1868%2C%20NGA%208684.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Edouard%20Manet%2C%20At%20the%20Prado%20%28Au%20Prado%29%2C%201865-1868%2C%20NGA%2041994.jpg",
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Manet%2C%20en%20buste%2C%20de%20face%20-%20Nadar.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1246,7 +1346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1271,7 +1371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1296,7 +1396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1321,7 +1421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1346,7 +1446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1371,7 +1471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1396,7 +1496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1421,7 +1521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1446,7 +1546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1471,7 +1571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1496,7 +1596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1521,7 +1621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1546,7 +1646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1571,7 +1671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1596,7 +1696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1621,7 +1721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1646,7 +1746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1671,7 +1771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1696,7 +1796,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1721,7 +1821,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1746,7 +1846,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1771,7 +1871,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1796,7 +1896,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1821,7 +1921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1846,7 +1946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1871,7 +1971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1896,7 +1996,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1921,7 +2021,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1946,7 +2046,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1971,12 +2071,12 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
     {
-      "id": "Q74885158",
+      "id": "Q65071967",
       "title": "Polichinelle",
       "date": "1874",
       "type": "Painting",
@@ -1989,14 +2089,14 @@
       "country": "United States",
       "lat": 38.891388888,
       "lon": -77.02,
-      "source": "http://www.wikidata.org/entity/Q74885158",
+      "source": "http://www.wikidata.org/entity/Q65071967",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Polichinelle%20-%20Edouard%20Manet%20-%20National%20Gallery%20of%20Art%201990.65.1.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Edouard%20Manet%2C%20Polichinelle%2C%201874%2C%20NGA%2033843.jpg",
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Manet%2C%20en%20buste%2C%20de%20face%20-%20Nadar.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2021,32 +2121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q72753447",
-      "title": "Portrait of Georges Clemenceau",
-      "date": "1879",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "edouard-manet",
-      "artistName": "Édouard Manet",
-      "locationId": "collection-unknown-fort-worth",
-      "location": "Collection unknown",
-      "city": "Fort Worth",
-      "country": "United States",
-      "lat": 32.748611111,
-      "lon": -97.365,
-      "source": "http://www.wikidata.org/entity/Q72753447",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%27Portrait%20of%20Georges%20Clemenceau%27%2C%20Kimbell%20Art%20Museum.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Manet%2C%20en%20buste%2C%20de%20face%20-%20Nadar.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2071,7 +2146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2096,7 +2171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2121,7 +2196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2146,7 +2221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2171,7 +2246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2196,7 +2271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2221,7 +2296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2246,7 +2321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2271,7 +2346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2296,7 +2371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2321,7 +2396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2346,7 +2421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2371,7 +2446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2396,7 +2471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2421,7 +2496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2446,7 +2521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2471,7 +2546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2496,7 +2571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2521,7 +2596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2546,7 +2621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2571,7 +2646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2596,7 +2671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2621,7 +2696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2646,7 +2721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2671,7 +2746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2696,7 +2771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2721,7 +2796,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2746,7 +2821,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2771,7 +2846,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2796,7 +2871,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2821,7 +2896,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2846,7 +2921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2871,7 +2946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2896,7 +2971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2921,7 +2996,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2937,8 +3012,8 @@
       "location": "Courtauld Gallery",
       "city": "City of Westminster",
       "country": "United Kingdom",
-      "lat": 51.51083333,
-      "lon": -0.11722222,
+      "lat": 51.511568,
+      "lon": -0.117712,
       "source": "http://www.wikidata.org/entity/Q1245354",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Un%20bar%20aux%20Folies-Berg%C3%A8re%20d%27E.%20Manet%20%28Fondation%20Vuitton%2C%20Paris%29%20%2833539037428%29.jpg",
@@ -2946,7 +3021,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2962,8 +3037,8 @@
       "location": "Courtauld Gallery",
       "city": "City of Westminster",
       "country": "United Kingdom",
-      "lat": 51.51083333,
-      "lon": -0.11722222,
+      "lat": 51.511568,
+      "lon": -0.117712,
       "source": "http://www.wikidata.org/entity/Q88311936",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Manet%20-%20Study%20for%20Le%20D%C3%A9jeuner%20sur%20l%27herbe.jpg",
@@ -2971,7 +3046,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2996,7 +3071,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3021,7 +3096,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3046,7 +3121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3071,7 +3146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3096,7 +3171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3121,7 +3196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3146,7 +3221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3171,7 +3246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3183,10 +3258,10 @@
       "attribution": "Accepted",
       "artistId": "edouard-manet",
       "artistName": "Édouard Manet",
-      "locationId": "denver-art-museum-denver-county",
+      "locationId": "denver-art-museum-location-unknown",
       "location": "Denver Art Museum",
-      "city": "Denver County",
-      "country": "United States",
+      "city": "Location unknown",
+      "country": "Country unknown",
       "lat": 39.737188,
       "lon": -104.989345,
       "source": "http://www.wikidata.org/entity/Q30005095",
@@ -3196,7 +3271,57 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q45042508",
+      "title": "Madonna of the Rabbit",
+      "date": "1850",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "edouard-manet",
+      "artistName": "Édouard Manet",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q45042508",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Manet%20-%20La%20Vierge%20au%20lapin.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Manet%2C%20en%20buste%2C%20de%20face%20-%20Nadar.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q40599",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q17495098",
+      "title": "Portrait of Antonin Proust",
+      "date": "1872",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "edouard-manet",
+      "artistName": "Édouard Manet",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q17495098",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Manet%20-%20Portrait%20d%27Antonin%20Proust.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Manet%2C%20en%20buste%2C%20de%20face%20-%20Nadar.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q40599",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3221,7 +3346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3246,7 +3371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3271,32 +3396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q70781248",
-      "title": "Skating",
-      "date": "1877",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "edouard-manet",
-      "artistName": "Édouard Manet",
-      "locationId": "fogg-museum-cambridge",
-      "location": "Fogg Museum",
-      "city": "Cambridge",
-      "country": "United States",
-      "lat": 42.37409,
-      "lon": -71.114358,
-      "source": "http://www.wikidata.org/entity/Q70781248",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Edouard%20Manet%20-%20Skating%20-%201951.50%20-%20Fogg%20Museum.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Manet%2C%20en%20buste%2C%20de%20face%20-%20Nadar.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3321,7 +3421,107 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q64174096",
+      "title": "Oloron-Sainte-Marie",
+      "date": "1871",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "edouard-manet",
+      "artistName": "Édouard Manet",
+      "locationId": "foundation-e-g-buhrle-collection-zurich",
+      "location": "Foundation E.G. Bührle Collection",
+      "city": "Zurich",
+      "country": "Switzerland",
+      "lat": 47.353045,
+      "lon": 8.561758,
+      "source": "http://www.wikidata.org/entity/Q64174096",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Manet%20-%20Oloron-Sainte-Marie.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Manet%2C%20en%20buste%2C%20de%20face%20-%20Nadar.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q40599",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q64174097",
+      "title": "The Bassin d'Arcachon",
+      "date": "1871",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "edouard-manet",
+      "artistName": "Édouard Manet",
+      "locationId": "foundation-e-g-buhrle-collection-zurich",
+      "location": "Foundation E.G. Bührle Collection",
+      "city": "Zurich",
+      "country": "Switzerland",
+      "lat": 47.353045,
+      "lon": 8.561758,
+      "source": "http://www.wikidata.org/entity/Q64174097",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Manet%20-%20Le%20Bassin%20d%27Arcachon%20-%2060%20-%20Foundation%20E.G.%20B%C3%BChrle%20Collection.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Manet%2C%20en%20buste%2C%20de%20face%20-%20Nadar.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q40599",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q28668567",
+      "title": "The Swallows",
+      "date": "1873",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "edouard-manet",
+      "artistName": "Édouard Manet",
+      "locationId": "foundation-e-g-buhrle-collection-zurich",
+      "location": "Foundation E.G. Bührle Collection",
+      "city": "Zurich",
+      "country": "Switzerland",
+      "lat": 47.353045,
+      "lon": 8.561758,
+      "source": "http://www.wikidata.org/entity/Q28668567",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Manet%20-%20Hirondelles.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Manet%2C%20en%20buste%2C%20de%20face%20-%20Nadar.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q40599",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q64174099",
+      "title": "Young Woman in Oriental Garb",
+      "date": "1871",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "edouard-manet",
+      "artistName": "Édouard Manet",
+      "locationId": "foundation-e-g-buhrle-collection-zurich",
+      "location": "Foundation E.G. Bührle Collection",
+      "city": "Zurich",
+      "country": "Switzerland",
+      "lat": 47.353045,
+      "lon": 8.561758,
+      "source": "http://www.wikidata.org/entity/Q64174099",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Manet%20-%20La%20Sultane%20-%2062%20-%20Foundation%20E.G.%20B%C3%BChrle%20Collection.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Manet%2C%20en%20buste%2C%20de%20face%20-%20Nadar.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q40599",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3346,7 +3546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3371,7 +3571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3396,7 +3596,32 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q68716638",
+      "title": "Untitled record",
+      "date": "1882",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "edouard-manet",
+      "artistName": "Édouard Manet",
+      "locationId": "hahnloser-collection-in-villa-flora-mattenbach",
+      "location": "Hahnloser Collection in Villa Flora",
+      "city": "Mattenbach",
+      "country": "Switzerland",
+      "lat": 47.49643,
+      "lon": 8.73539,
+      "source": "http://www.wikidata.org/entity/Q68716638",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Manet%20-%20Amazone%20%28RW%20396%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Manet%2C%20en%20buste%2C%20de%20face%20-%20Nadar.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q40599",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3421,7 +3646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3446,7 +3671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3471,7 +3696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3496,7 +3721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3521,7 +3746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3546,7 +3771,32 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q70781248",
+      "title": "Skating",
+      "date": "1877",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "edouard-manet",
+      "artistName": "Édouard Manet",
+      "locationId": "harvard-art-museums-cambridge",
+      "location": "Harvard Art Museums",
+      "city": "Cambridge",
+      "country": "United States",
+      "lat": 42.37416667,
+      "lon": -71.11472222,
+      "source": "http://www.wikidata.org/entity/Q70781248",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Edouard%20Manet%20-%20Skating%20-%201951.50%20-%20Fogg%20Museum.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Manet%2C%20en%20buste%2C%20de%20face%20-%20Nadar.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q40599",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3571,7 +3821,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3596,7 +3846,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3621,7 +3871,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3646,7 +3896,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3671,7 +3921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3696,7 +3946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3721,7 +3971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3746,7 +3996,32 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q29253942",
+      "title": "La Négresse",
+      "date": "1862",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "edouard-manet",
+      "artistName": "Édouard Manet",
+      "locationId": "honolulu-museum-of-art-honolulu",
+      "location": "Honolulu Museum of Art",
+      "city": "Honolulu",
+      "country": "United States",
+      "lat": 21.303898,
+      "lon": -157.848708,
+      "source": "http://www.wikidata.org/entity/Q29253942",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Edouard%20Manet%20-%20La%20N%C3%A9gresse.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Manet%2C%20en%20buste%2C%20de%20face%20-%20Nadar.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q40599",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3771,7 +4046,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3796,7 +4071,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3821,7 +4096,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3846,7 +4121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3871,7 +4146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3896,7 +4171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3921,7 +4196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3946,7 +4221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3971,7 +4246,32 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q72753447",
+      "title": "Portrait of Georges Clemenceau",
+      "date": "1879",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "edouard-manet",
+      "artistName": "Édouard Manet",
+      "locationId": "kimbell-art-museum-fort-worth",
+      "location": "Kimbell Art Museum",
+      "city": "Fort Worth",
+      "country": "United States",
+      "lat": 32.748611111,
+      "lon": -97.365,
+      "source": "http://www.wikidata.org/entity/Q72753447",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%27Portrait%20of%20Georges%20Clemenceau%27%2C%20Kimbell%20Art%20Museum.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Manet%2C%20en%20buste%2C%20de%20face%20-%20Nadar.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q40599",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3996,7 +4296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4021,7 +4321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4046,7 +4346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4071,32 +4371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q28668567",
-      "title": "Hirondelles",
-      "date": "1873",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "edouard-manet",
-      "artistName": "Édouard Manet",
-      "locationId": "kunsthaus-zurich-district-1",
-      "location": "Kunsthaus Zürich",
-      "city": "District 1",
-      "country": "Switzerland",
-      "lat": 47.370277777,
-      "lon": 8.548055555,
-      "source": "http://www.wikidata.org/entity/Q28668567",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Manet%20-%20Hirondelles.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Manet%2C%20en%20buste%2C%20de%20face%20-%20Nadar.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4121,57 +4396,32 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
     {
       "id": "Q3227448",
       "title": "Le Suicidé",
-      "date": "1879",
+      "date": "1877",
       "type": "Painting",
       "attribution": "Accepted",
       "artistId": "edouard-manet",
       "artistName": "Édouard Manet",
-      "locationId": "kunsthaus-zurich-district-1",
+      "locationId": "kunsthaus-zurich-zurich",
       "location": "Kunsthaus Zürich",
-      "city": "District 1",
+      "city": "Zurich",
       "country": "Switzerland",
       "lat": 47.370277777,
       "lon": 8.548055555,
       "source": "http://www.wikidata.org/entity/Q3227448",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Edouard%20Manet%20-%20Le%20Suicid%C3%A9.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Manet%20-%20Le%20Suicid%C3%A9%20-%2063%20-%20Foundation%20E.G.%20B%C3%BChrle%20Collection.jpg",
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Manet%2C%20en%20buste%2C%20de%20face%20-%20Nadar.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q64174096",
-      "title": "Oloron-Sainte-Marie",
-      "date": "1871",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "edouard-manet",
-      "artistName": "Édouard Manet",
-      "locationId": "kunsthaus-zurich-district-1",
-      "location": "Kunsthaus Zürich",
-      "city": "District 1",
-      "country": "Switzerland",
-      "lat": 47.370277777,
-      "lon": 8.548055555,
-      "source": "http://www.wikidata.org/entity/Q64174096",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Manet%20-%20Oloron-Sainte-Marie.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Manet%2C%20en%20buste%2C%20de%20face%20-%20Nadar.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4196,32 +4446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q64174097",
-      "title": "The Bassin d'Arcachon",
-      "date": "1871",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "edouard-manet",
-      "artistName": "Édouard Manet",
-      "locationId": "kunsthaus-zurich-zurich",
-      "location": "Kunsthaus Zürich",
-      "city": "Zurich",
-      "country": "Switzerland",
-      "lat": 47.370277777,
-      "lon": 8.548055555,
-      "source": "http://www.wikidata.org/entity/Q64174097",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Manet%20-%20Le%20Bassin%20d%27Arcachon%20-%2060%20-%20Foundation%20E.G.%20B%C3%BChrle%20Collection.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Manet%2C%20en%20buste%2C%20de%20face%20-%20Nadar.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4246,32 +4471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q64174099",
-      "title": "Young Woman in Oriental Garb",
-      "date": "1871",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "edouard-manet",
-      "artistName": "Édouard Manet",
-      "locationId": "kunsthaus-zurich-zurich",
-      "location": "Kunsthaus Zürich",
-      "city": "Zurich",
-      "country": "Switzerland",
-      "lat": 47.370277777,
-      "lon": 8.548055555,
-      "source": "http://www.wikidata.org/entity/Q64174099",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Manet%20-%20La%20Sultane%20-%2062%20-%20Foundation%20E.G.%20B%C3%BChrle%20Collection.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Manet%2C%20en%20buste%2C%20de%20face%20-%20Nadar.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4296,7 +4496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4321,7 +4521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4346,7 +4546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4371,7 +4571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4396,7 +4596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4421,7 +4621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4446,7 +4646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4471,7 +4671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4496,7 +4696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4521,7 +4721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4546,7 +4746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4571,7 +4771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4596,7 +4796,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4621,7 +4821,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4646,7 +4846,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4671,7 +4871,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4696,7 +4896,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4721,7 +4921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4746,7 +4946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4771,7 +4971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4796,7 +4996,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4821,7 +5021,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4846,7 +5046,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4871,7 +5071,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4896,7 +5096,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4921,7 +5121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4946,7 +5146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4971,7 +5171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4996,7 +5196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5021,7 +5221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5046,7 +5246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5071,7 +5271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5096,7 +5296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5121,7 +5321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5146,7 +5346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5171,7 +5371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5196,7 +5396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5221,7 +5421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5246,7 +5446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5271,7 +5471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5296,7 +5496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5321,7 +5521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5346,7 +5546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5371,7 +5571,32 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q17495108",
+      "title": "Berthe Morisot with a Fan",
+      "date": "1874",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "edouard-manet",
+      "artistName": "Édouard Manet",
+      "locationId": "musee-d-orsay-7th-arrondissement-of-paris",
+      "location": "Musée d'Orsay",
+      "city": "7th arrondissement of Paris",
+      "country": "France",
+      "lat": 48.859972,
+      "lon": 2.326527,
+      "source": "http://www.wikidata.org/entity/Q17495108",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Berthe%20Morisot%20Manet%20Lille%202918.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Manet%2C%20en%20buste%2C%20de%20face%20-%20Nadar.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q40599",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5396,7 +5621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5421,7 +5646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5446,7 +5671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5471,7 +5696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5496,7 +5721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5521,7 +5746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5546,7 +5771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5571,7 +5796,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5596,7 +5821,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5621,7 +5846,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5646,7 +5871,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5671,7 +5896,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5696,7 +5921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5721,7 +5946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5746,7 +5971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5771,7 +5996,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5796,7 +6021,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5821,7 +6046,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5846,7 +6071,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5871,7 +6096,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5896,7 +6121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5921,7 +6146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5946,7 +6171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5971,7 +6196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5996,112 +6221,12 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
     {
-      "id": "Q61890657",
-      "title": "Untitled record",
-      "date": "1882",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "edouard-manet",
-      "artistName": "Édouard Manet",
-      "locationId": "musee-d-orsay-7th-arrondissement-of-paris",
-      "location": "Musée d'Orsay",
-      "city": "7th arrondissement of Paris",
-      "country": "France",
-      "lat": 48.859972,
-      "lon": 2.326527,
-      "source": "http://www.wikidata.org/entity/Q61890657",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Manet%20-%20Portrait%20de%20Mademoiselle%20Hecht%20en%20chapeau.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Manet%2C%20en%20buste%2C%20de%20face%20-%20Nadar.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q130421393",
-      "title": "Untitled record",
-      "date": "1871",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "edouard-manet",
-      "artistName": "Édouard Manet",
-      "locationId": "musee-d-orsay-7th-arrondissement-of-paris",
-      "location": "Musée d'Orsay",
-      "city": "7th arrondissement of Paris",
-      "country": "France",
-      "lat": 48.859972,
-      "lon": 2.326527,
-      "source": "http://www.wikidata.org/entity/Q130421393",
-      "image": "",
-      "externalImage": "",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Manet%2C%20en%20buste%2C%20de%20face%20-%20Nadar.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q123326044",
-      "title": "Untitled record",
-      "date": "1880",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "edouard-manet",
-      "artistName": "Édouard Manet",
-      "locationId": "musee-d-orsay-7th-arrondissement-of-paris",
-      "location": "Musée d'Orsay",
-      "city": "7th arrondissement of Paris",
-      "country": "France",
-      "lat": 48.859972,
-      "lon": 2.326527,
-      "source": "http://www.wikidata.org/entity/Q123326044",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Manet%20-%20Buste%20nu%20de%20Jeune%20Femme.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Manet%2C%20en%20buste%2C%20de%20face%20-%20Nadar.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q130421296",
-      "title": "Untitled record",
-      "date": "Date unknown",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "edouard-manet",
-      "artistName": "Édouard Manet",
-      "locationId": "musee-d-orsay-7th-arrondissement-of-paris",
-      "location": "Musée d'Orsay",
-      "city": "7th arrondissement of Paris",
-      "country": "France",
-      "lat": 48.859972,
-      "lon": 2.326527,
-      "source": "http://www.wikidata.org/entity/Q130421296",
-      "image": "",
-      "externalImage": "",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Manet%2C%20en%20buste%2C%20de%20face%20-%20Nadar.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q17495875",
+      "id": "Q17496061",
       "title": "Untitled record",
       "date": "1864",
       "type": "Painting",
@@ -6114,39 +6239,14 @@
       "country": "France",
       "lat": 48.859972,
       "lon": 2.326527,
-      "source": "http://www.wikidata.org/entity/Q17495875",
+      "source": "http://www.wikidata.org/entity/Q17496061",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Manet%20-%20Tiges%20de%20Pivoines%20et%20S%C3%A8cateur.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Stillleben%2C%20Vase%20mit%20Pfingstrosen%20%281864-1865%29%20-%20Edouard%20Manet%20%28Mus%C3%A9e%20d%27Orsay%2C%20Paris%29.jpg",
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Manet%2C%20en%20buste%2C%20de%20face%20-%20Nadar.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q123286691",
-      "title": "Untitled record",
-      "date": "1879",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "edouard-manet",
-      "artistName": "Édouard Manet",
-      "locationId": "musee-d-orsay-7th-arrondissement-of-paris",
-      "location": "Musée d'Orsay",
-      "city": "7th arrondissement of Paris",
-      "country": "France",
-      "lat": 48.859972,
-      "lon": 2.326527,
-      "source": "http://www.wikidata.org/entity/Q123286691",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Manet%20-%20Portrait%20de%20Mme%20Zola.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Manet%2C%20en%20buste%2C%20de%20face%20-%20Nadar.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6171,7 +6271,132 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q17491531",
+      "title": "Untitled record",
+      "date": "1882",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "edouard-manet",
+      "artistName": "Édouard Manet",
+      "locationId": "musee-d-orsay-7th-arrondissement-of-paris",
+      "location": "Musée d'Orsay",
+      "city": "7th arrondissement of Paris",
+      "country": "France",
+      "lat": 48.859972,
+      "lon": 2.326527,
+      "source": "http://www.wikidata.org/entity/Q17491531",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Manet%20-%20Fleurs%20dans%20un%20vase%20de%20cristal.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Manet%2C%20en%20buste%2C%20de%20face%20-%20Nadar.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q40599",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q130421393",
+      "title": "Untitled record",
+      "date": "1871",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "edouard-manet",
+      "artistName": "Édouard Manet",
+      "locationId": "musee-d-orsay-7th-arrondissement-of-paris",
+      "location": "Musée d'Orsay",
+      "city": "7th arrondissement of Paris",
+      "country": "France",
+      "lat": 48.859972,
+      "lon": 2.326527,
+      "source": "http://www.wikidata.org/entity/Q130421393",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Manet%2C%20en%20buste%2C%20de%20face%20-%20Nadar.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q40599",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q123326044",
+      "title": "Untitled record",
+      "date": "1880",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "edouard-manet",
+      "artistName": "Édouard Manet",
+      "locationId": "musee-d-orsay-7th-arrondissement-of-paris",
+      "location": "Musée d'Orsay",
+      "city": "7th arrondissement of Paris",
+      "country": "France",
+      "lat": 48.859972,
+      "lon": 2.326527,
+      "source": "http://www.wikidata.org/entity/Q123326044",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Manet%20-%20Buste%20nu%20de%20Jeune%20Femme.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Manet%2C%20en%20buste%2C%20de%20face%20-%20Nadar.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q40599",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q130421296",
+      "title": "Untitled record",
+      "date": "Date unknown",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "edouard-manet",
+      "artistName": "Édouard Manet",
+      "locationId": "musee-d-orsay-7th-arrondissement-of-paris",
+      "location": "Musée d'Orsay",
+      "city": "7th arrondissement of Paris",
+      "country": "France",
+      "lat": 48.859972,
+      "lon": 2.326527,
+      "source": "http://www.wikidata.org/entity/Q130421296",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Manet%2C%20en%20buste%2C%20de%20face%20-%20Nadar.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q40599",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q123286691",
+      "title": "Untitled record",
+      "date": "1879",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "edouard-manet",
+      "artistName": "Édouard Manet",
+      "locationId": "musee-d-orsay-7th-arrondissement-of-paris",
+      "location": "Musée d'Orsay",
+      "city": "7th arrondissement of Paris",
+      "country": "France",
+      "lat": 48.859972,
+      "lon": 2.326527,
+      "source": "http://www.wikidata.org/entity/Q123286691",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Manet%20-%20Portrait%20de%20Mme%20Zola.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Manet%2C%20en%20buste%2C%20de%20face%20-%20Nadar.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q40599",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6196,7 +6421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6221,7 +6446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6246,7 +6471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6271,7 +6496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6296,7 +6521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6321,7 +6546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6346,7 +6571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6371,7 +6596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6396,7 +6621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6421,7 +6646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6446,32 +6671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q17495098",
-      "title": "Portrait of Antonin Proust",
-      "date": "1872",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "edouard-manet",
-      "artistName": "Édouard Manet",
-      "locationId": "musee-fabre-montpellier",
-      "location": "Musée Fabre",
-      "city": "Montpellier",
-      "country": "France",
-      "lat": 43.611736111,
-      "lon": 3.880191666,
-      "source": "http://www.wikidata.org/entity/Q17495098",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Manet%20-%20Portrait%20d%27Antonin%20Proust.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Manet%2C%20en%20buste%2C%20de%20face%20-%20Nadar.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6496,7 +6696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6521,7 +6721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6546,7 +6746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6571,7 +6771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6596,57 +6796,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q29910086",
-      "title": "Untitled record",
-      "date": "Date unknown",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "edouard-manet",
-      "artistName": "Édouard Manet",
-      "locationId": "museum-boijmans-van-beuningen-rotterdam",
-      "location": "Museum Boijmans Van Beuningen",
-      "city": "Rotterdam",
-      "country": "Netherlands",
-      "lat": 51.914215,
-      "lon": 4.473341,
-      "source": "http://www.wikidata.org/entity/Q29910086",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Detailstudie%20van%20Bazaine%2C%20schets%20van%20een%20kat%20-%20Museum%20Boijmans%20Van%20Beuningen%20-%20Edouard%20Manet.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Manet%2C%20en%20buste%2C%20de%20face%20-%20Nadar.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q29911388",
-      "title": "Untitled record",
-      "date": "1880",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "edouard-manet",
-      "artistName": "Édouard Manet",
-      "locationId": "museum-boijmans-van-beuningen-rotterdam",
-      "location": "Museum Boijmans Van Beuningen",
-      "city": "Rotterdam",
-      "country": "Netherlands",
-      "lat": 51.914215,
-      "lon": 4.473341,
-      "source": "http://www.wikidata.org/entity/Q29911388",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Studieblad%20met%20vijf%20pruimen%20-%20Museum%20Boijmans%20Van%20Beuningen%20-%20Edouard%20Manet.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Manet%2C%20en%20buste%2C%20de%20face%20-%20Nadar.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6671,7 +6821,57 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q29910086",
+      "title": "Untitled record",
+      "date": "Date unknown",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "edouard-manet",
+      "artistName": "Édouard Manet",
+      "locationId": "museum-boijmans-van-beuningen-rotterdam",
+      "location": "Museum Boijmans Van Beuningen",
+      "city": "Rotterdam",
+      "country": "Netherlands",
+      "lat": 51.914215,
+      "lon": 4.473341,
+      "source": "http://www.wikidata.org/entity/Q29910086",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Detailstudie%20van%20Bazaine%2C%20schets%20van%20een%20kat%20-%20Museum%20Boijmans%20Van%20Beuningen%20-%20Edouard%20Manet.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Manet%2C%20en%20buste%2C%20de%20face%20-%20Nadar.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q40599",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q29911388",
+      "title": "Untitled record",
+      "date": "1880",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "edouard-manet",
+      "artistName": "Édouard Manet",
+      "locationId": "museum-boijmans-van-beuningen-rotterdam",
+      "location": "Museum Boijmans Van Beuningen",
+      "city": "Rotterdam",
+      "country": "Netherlands",
+      "lat": 51.914215,
+      "lon": 4.473341,
+      "source": "http://www.wikidata.org/entity/Q29911388",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Studieblad%20met%20vijf%20pruimen%20-%20Museum%20Boijmans%20Van%20Beuningen%20-%20Edouard%20Manet.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Manet%2C%20en%20buste%2C%20de%20face%20-%20Nadar.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q40599",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6696,7 +6896,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6721,7 +6921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6746,7 +6946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6771,7 +6971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6796,7 +6996,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6821,7 +7021,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6846,7 +7046,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6871,7 +7071,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6896,7 +7096,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6921,7 +7121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6946,7 +7146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6971,7 +7171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6996,7 +7196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7021,7 +7221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7046,7 +7246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7071,7 +7271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7096,7 +7296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7121,7 +7321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7146,7 +7346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7171,7 +7371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7196,7 +7396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7221,7 +7421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7246,7 +7446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7271,7 +7471,57 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q103929408",
+      "title": "Basket of Pears",
+      "date": "1882",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "edouard-manet",
+      "artistName": "Édouard Manet",
+      "locationId": "museum-ordrupgaard-gentofte-municipality",
+      "location": "Museum Ordrupgaard",
+      "city": "Gentofte Municipality",
+      "country": "Denmark",
+      "lat": 55.766944,
+      "lon": 12.563333,
+      "source": "http://www.wikidata.org/entity/Q103929408",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Manet%20-%20Corbeille%20de%20poires%20%28RW%20354%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Manet%2C%20en%20buste%2C%20de%20face%20-%20Nadar.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q40599",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q65966893",
+      "title": "Woman Fastening Her Garter",
+      "date": "1878",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "edouard-manet",
+      "artistName": "Édouard Manet",
+      "locationId": "museum-ordrupgaard-gentofte-municipality",
+      "location": "Museum Ordrupgaard",
+      "city": "Gentofte Municipality",
+      "country": "Denmark",
+      "lat": 55.766944,
+      "lon": 12.563333,
+      "source": "http://www.wikidata.org/entity/Q65966893",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Manet%2C%20Femme%20%C3%A0%20la%20Jarreti%C3%A8re%20%281878%E2%80%931879%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Manet%2C%20en%20buste%2C%20de%20face%20-%20Nadar.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q40599",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7296,7 +7546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7321,7 +7571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7346,7 +7596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7371,7 +7621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7396,7 +7646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7421,7 +7671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7446,7 +7696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7471,7 +7721,32 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q117215045",
+      "title": "Portrait of Antonio Proust",
+      "date": "1855",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "edouard-manet",
+      "artistName": "Édouard Manet",
+      "locationId": "national-gallery-prague-location-unknown",
+      "location": "National Gallery Prague",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 50.101111,
+      "lon": 14.4325,
+      "source": "http://www.wikidata.org/entity/Q117215045",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Manet%20-%20Portrait%20of%20Antonio%20Proust%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Manet%2C%20en%20buste%2C%20de%20face%20-%20Nadar.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q40599",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7487,8 +7762,8 @@
       "location": "National Museum of Art, Architecture and Design",
       "city": "Oslo",
       "country": "Norway",
-      "lat": 59.91162657,
-      "lon": 10.729235164,
+      "lat": 59.911666666,
+      "lon": 10.729166666,
       "source": "http://www.wikidata.org/entity/Q51882612",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Manet%20-%20Madame%20Manet%20in%20the%20Conservatory%20-%20NG.M.01286%20-%20National%20Museum%20of%20Art%2C%20Architecture%20and%20Design.jpg",
@@ -7496,7 +7771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7512,8 +7787,8 @@
       "location": "National Museum of Art, Architecture and Design",
       "city": "Oslo",
       "country": "Norway",
-      "lat": 59.91162657,
-      "lon": 10.729235164,
+      "lat": 59.911666666,
+      "lon": 10.729166666,
       "source": "http://www.wikidata.org/entity/Q110444031",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Manet%20-%20Portrett%20av%20maleren%20Giuseppe%20de%20Nittis%20-%20NG.M.02173%20-%20National%20Museum%20of%20Art%2C%20Architecture%20and%20Design.jpg",
@@ -7521,7 +7796,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7537,8 +7812,8 @@
       "location": "National Museum of Art, Architecture and Design",
       "city": "Oslo",
       "country": "Norway",
-      "lat": 59.91162657,
-      "lon": 10.729235164,
+      "lat": 59.911666666,
+      "lon": 10.729166666,
       "source": "http://www.wikidata.org/entity/Q55432263",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Manet%20-%20Surprised%20nymph%20-%20NG.M.01182%20-%20National%20Museum%20of%20Art%2C%20Architecture%20and%20Design.jpg",
@@ -7546,7 +7821,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7562,8 +7837,8 @@
       "location": "National Museum of Art, Architecture and Design",
       "city": "Oslo",
       "country": "Norway",
-      "lat": 59.91162657,
-      "lon": 10.729235164,
+      "lat": 59.911666666,
+      "lon": 10.729166666,
       "source": "http://www.wikidata.org/entity/Q55422279",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Manet%20-%20Fra%20Verdensutstillingen%20i%20Paris%20i%201867%20-%20Google%20Art%20Project.jpg",
@@ -7571,7 +7846,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7596,7 +7871,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7621,7 +7896,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7646,7 +7921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7671,7 +7946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7696,7 +7971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7721,7 +7996,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7746,7 +8021,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7758,9 +8033,9 @@
       "attribution": "Accepted",
       "artistId": "edouard-manet",
       "artistName": "Édouard Manet",
-      "locationId": "nationalmuseum-stockholm",
+      "locationId": "nationalmuseum-stockholm-municipality",
       "location": "Nationalmuseum",
-      "city": "Stockholm",
+      "city": "Stockholm Municipality",
       "country": "Sweden",
       "lat": 59.328611111,
       "lon": 18.078055555,
@@ -7771,7 +8046,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7796,7 +8071,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7821,7 +8096,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7846,7 +8121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7871,7 +8146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7896,7 +8171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7921,7 +8196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7946,82 +8221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q103929408",
-      "title": "Basket of Pears",
-      "date": "1882",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "edouard-manet",
-      "artistName": "Édouard Manet",
-      "locationId": "ordrupgaard-gentofte-municipality",
-      "location": "Ordrupgaard",
-      "city": "Gentofte Municipality",
-      "country": "Denmark",
-      "lat": 55.766944,
-      "lon": 12.563333,
-      "source": "http://www.wikidata.org/entity/Q103929408",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Manet%20-%20Corbeille%20de%20poires%20%28RW%20354%29.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Manet%2C%20en%20buste%2C%20de%20face%20-%20Nadar.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q65966893",
-      "title": "Woman Fastening Her Garter",
-      "date": "1878",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "edouard-manet",
-      "artistName": "Édouard Manet",
-      "locationId": "ordrupgaard-gentofte-municipality",
-      "location": "Ordrupgaard",
-      "city": "Gentofte Municipality",
-      "country": "Denmark",
-      "lat": 55.766944,
-      "lon": 12.563333,
-      "source": "http://www.wikidata.org/entity/Q65966893",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Manet%2C%20Femme%20%C3%A0%20la%20Jarreti%C3%A8re%20%281878%E2%80%931879%29.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Manet%2C%20en%20buste%2C%20de%20face%20-%20Nadar.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q17495108",
-      "title": "Berthe Morisot with a Fan",
-      "date": "1874",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "edouard-manet",
-      "artistName": "Édouard Manet",
-      "locationId": "palais-des-beaux-arts-de-lille-lille",
-      "location": "Palais des Beaux-Arts de Lille",
-      "city": "Lille",
-      "country": "France",
-      "lat": 50.6309226,
-      "lon": 3.0611729,
-      "source": "http://www.wikidata.org/entity/Q17495108",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Berthe%20Morisot%20Manet%20Lille%202918.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Manet%2C%20en%20buste%2C%20de%20face%20-%20Nadar.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8046,7 +8246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8071,7 +8271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8096,7 +8296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8121,7 +8321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8146,7 +8346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8171,7 +8371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8196,7 +8396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8221,7 +8421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8246,32 +8446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q29253942",
-      "title": "La Négresse",
-      "date": "1862",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "edouard-manet",
-      "artistName": "Édouard Manet",
-      "locationId": "pinacoteca-giovanni-e-marella-agnelli-turin",
-      "location": "Pinacoteca Giovanni e Marella Agnelli",
-      "city": "Turin",
-      "country": "Italy",
-      "lat": 45.03243,
-      "lon": 7.665732,
-      "source": "http://www.wikidata.org/entity/Q29253942",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Edouard%20Manet%20-%20La%20N%C3%A9gresse.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Manet%2C%20en%20buste%2C%20de%20face%20-%20Nadar.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8296,7 +8471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8321,7 +8496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8346,7 +8521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8371,7 +8546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8396,7 +8571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8421,7 +8596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8446,7 +8621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8471,7 +8646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8496,7 +8671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8521,7 +8696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8546,7 +8721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8571,7 +8746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8596,7 +8771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8621,7 +8796,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8646,7 +8821,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8671,7 +8846,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8696,7 +8871,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8721,7 +8896,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8746,7 +8921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8771,7 +8946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8796,7 +8971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8821,7 +8996,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8846,7 +9021,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8871,7 +9046,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8896,7 +9071,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8921,7 +9096,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8946,7 +9121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8971,7 +9146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8996,7 +9171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9021,7 +9196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9046,7 +9221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9071,7 +9246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9096,7 +9271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9121,7 +9296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9146,32 +9321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q68716638",
-      "title": "Untitled record",
-      "date": "1882",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "edouard-manet",
-      "artistName": "Édouard Manet",
-      "locationId": "villa-flora-mattenbach",
-      "location": "Villa Flora",
-      "city": "Mattenbach",
-      "country": "Switzerland",
-      "lat": 47.496489073,
-      "lon": 8.735236159,
-      "source": "http://www.wikidata.org/entity/Q68716638",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Manet%20-%20Amazone%20%28RW%20396%29.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Manet%2C%20en%20buste%2C%20de%20face%20-%20Nadar.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9196,7 +9346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9221,7 +9371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9246,7 +9396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9271,7 +9421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9296,7 +9446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9321,7 +9471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9346,7 +9496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9371,7 +9521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9396,7 +9546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q40599",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     }

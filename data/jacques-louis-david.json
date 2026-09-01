@@ -21,7 +21,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -46,7 +46,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -71,7 +71,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -96,7 +96,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -121,7 +121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -146,7 +146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -171,7 +171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -196,7 +196,32 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q19801102",
+      "title": "Napoleon Crossing the Alps",
+      "date": "1801",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jacques-louis-david",
+      "artistName": "Jacques-Louis David",
+      "locationId": "belvedere-landstra-e",
+      "location": "Belvedere",
+      "city": "Landstraße",
+      "country": "Austria",
+      "lat": 48.191388888,
+      "lon": 16.380833333,
+      "source": "http://www.wikidata.org/entity/Q19801102",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Napoleon%20at%20the%20Great%20St.%20Bernard%20-%20Jacques-Louis%20David%20-%20Google%20Cultural%20Institute.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Self%20Portrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q83155",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -221,7 +246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -246,7 +271,32 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q59201",
+      "title": "Napoleon Crossing the Alps",
+      "date": "1801",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jacques-louis-david",
+      "artistName": "Jacques-Louis David",
+      "locationId": "chateau-de-malmaison-rueil-malmaison",
+      "location": "Château de Malmaison",
+      "city": "Rueil-Malmaison",
+      "country": "France",
+      "lat": 48.8708,
+      "lon": 2.166848,
+      "source": "http://www.wikidata.org/entity/Q59201",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20-%20Napoleon%20crossing%20the%20Alps%20-%20Malmaison2.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Self%20Portrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q83155",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -271,7 +321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -296,7 +346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -321,7 +371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -346,7 +396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -371,7 +421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -396,7 +446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -421,7 +471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -446,7 +496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -471,7 +521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -496,7 +546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -521,7 +571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -546,7 +596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -571,7 +621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -596,7 +646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -621,7 +671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -646,7 +696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -671,7 +721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -696,7 +746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -721,7 +771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -746,7 +796,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -771,7 +821,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -796,7 +846,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -821,32 +871,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q18683217",
-      "title": "Coronation of Emperor Napoleon I and Coronation of the Empress Josephine",
-      "date": "1808",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "jacques-louis-david",
-      "artistName": "Jacques-Louis David",
-      "locationId": "collection-unknown-versailles",
-      "location": "Collection unknown",
-      "city": "Versailles",
-      "country": "France",
-      "lat": 48.8044,
-      "lon": 2.12197,
-      "source": "http://www.wikidata.org/entity/Q18683217",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jacques%20Louis%20David%20-%20Le%20couronnement%20de%20l%27Empereur%20et%20de%20l%27Imp%C3%A9ratrice%2C%202%20d%C3%A9cembre%201804%20-%20Google%20Art%20Project.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Self%20Portrait.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -871,7 +896,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -896,7 +921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -921,7 +946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -946,7 +971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -971,7 +996,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -996,7 +1021,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1021,7 +1046,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1046,7 +1071,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1071,7 +1096,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1096,7 +1121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1121,7 +1146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1146,7 +1171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1171,7 +1196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1196,7 +1221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1221,7 +1246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1246,7 +1271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1271,7 +1296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1296,7 +1321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1321,7 +1346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1346,7 +1371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1371,32 +1396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q19801150",
-      "title": "Napoleon Crossing the Alps",
-      "date": "1802",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "jacques-louis-david",
-      "artistName": "Jacques-Louis David",
-      "locationId": "collection-unknown-versailles",
-      "location": "Collection unknown",
-      "city": "Versailles",
-      "country": "France",
-      "lat": 48.8044,
-      "lon": 2.12197,
-      "source": "http://www.wikidata.org/entity/Q19801150",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jacques%20Louis%20David%20-%20Bonaparte%20franchissant%20le%20Grand%20Saint-Bernard%2C%2020%20mai%201800%20-%20Google%20Art%20Project.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Self%20Portrait.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1421,7 +1421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1446,7 +1446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1471,7 +1471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1496,7 +1496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1521,32 +1521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q121438380",
-      "title": "Pius VII, pope (1740-1823)",
-      "date": "1806",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "jacques-louis-david",
-      "artistName": "Jacques-Louis David",
-      "locationId": "collection-unknown-versailles",
-      "location": "Collection unknown",
-      "city": "Versailles",
-      "country": "France",
-      "lat": 48.8044,
-      "lon": 2.12197,
-      "source": "http://www.wikidata.org/entity/Q121438380",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Pope%20Pius%20VII%20Chiaramonti%20%28by%20Jacques-Louis%20David%29%20%E2%80%93%20National%20Museum%20of%20the%20Palace%20of%20Versailles.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Self%20Portrait.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1571,32 +1546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q98431807",
-      "title": "Portrait of Bertrand Barère de Vieuzac",
-      "date": "1790",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "jacques-louis-david",
-      "artistName": "Jacques-Louis David",
-      "locationId": "collection-unknown-versailles",
-      "location": "Collection unknown",
-      "city": "Versailles",
-      "country": "France",
-      "lat": 48.8044,
-      "lon": 2.12197,
-      "source": "http://www.wikidata.org/entity/Q98431807",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Barere-Jacques%20Louis%20David.png",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Self%20Portrait.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1621,7 +1571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1646,7 +1596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1671,7 +1621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1696,7 +1646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1721,7 +1671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1746,7 +1696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1771,12 +1721,12 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
     {
-      "id": "Q64580183",
+      "id": "Q64580231",
       "title": "San Giovanni Laterano and a Baptistry",
       "date": "1775",
       "type": "Painting",
@@ -1789,14 +1739,14 @@
       "country": "United States",
       "lat": 38.891388888,
       "lon": -77.02,
-      "source": "http://www.wikidata.org/entity/Q64580183",
+      "source": "http://www.wikidata.org/entity/Q64580231",
       "image": "",
       "externalImage": "",
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Self%20Portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1821,7 +1771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1846,7 +1796,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1871,7 +1821,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1896,7 +1846,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1921,32 +1871,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q3207608",
-      "title": "The Anger of Achilles",
-      "date": "1819",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "jacques-louis-david",
-      "artistName": "Jacques-Louis David",
-      "locationId": "collection-unknown-fort-worth",
-      "location": "Collection unknown",
-      "city": "Fort Worth",
-      "country": "United States",
-      "lat": 32.748611111,
-      "lon": -97.365,
-      "source": "http://www.wikidata.org/entity/Q3207608",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jacques-Louis%20David%20-%20The%20Anger%20of%20Achilles%20-%20Google%20Art%20Project.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Self%20Portrait.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1971,7 +1896,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1996,7 +1921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2021,7 +1946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2046,7 +1971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2071,7 +1996,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2096,7 +2021,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2121,7 +2046,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2146,7 +2071,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2171,7 +2096,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2196,7 +2121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2221,7 +2146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2246,7 +2171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2271,7 +2196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2296,7 +2221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2321,7 +2246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2346,7 +2271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2371,7 +2296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2396,7 +2321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2421,7 +2346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2446,7 +2371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2471,7 +2396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2496,7 +2421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2521,7 +2446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2546,7 +2471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2571,7 +2496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2596,7 +2521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2621,7 +2546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2646,7 +2571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2671,7 +2596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2696,7 +2621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2721,7 +2646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2746,7 +2671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2771,7 +2696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2796,7 +2721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2821,7 +2746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2846,7 +2771,907 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q29862495",
+      "title": "Belisarius Begging for Alms",
+      "date": "1784",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jacques-louis-david",
+      "artistName": "Jacques-Louis David",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q29862495",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Louvre%20david%20belisaire%20reconnu.JPG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Self%20Portrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q83155",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q19008978",
+      "title": "Catherine-Marie-Jeanne Tallard",
+      "date": "1795",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jacques-louis-david",
+      "artistName": "Jacques-Louis David",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q19008978",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/David%201754%20Marie%20Jeanne%20Tallard%2007265%20recadr%C3%A9.JPG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Self%20Portrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q83155",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q972295",
+      "title": "Leonidas at Thermopylae",
+      "date": "1814",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jacques-louis-david",
+      "artistName": "Jacques-Louis David",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q972295",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/L%C3%A9onidas%20aux%20Thermopyles%20-%20Jacques-Louis%20David%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20INV%203690%20%3B%20L%203711.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Self%20Portrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q83155",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q19008799",
+      "title": "Mr. and Mrs. Antoine Mongez",
+      "date": "1812",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jacques-louis-david",
+      "artistName": "Jacques-Louis David",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q19008799",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20Mongez-David.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Self%20Portrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q83155",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q2254945",
+      "title": "Paris and Helen",
+      "date": "1788",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jacques-louis-david",
+      "artistName": "Jacques-Louis David",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q2254945",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Les%20amours%20de%20P%C3%A2ris%20et%20d%27H%C3%A9l%C3%A8ne%20-%20Jacques-Louis%20David%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20INV%203696%20%3B%20MR%201439.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Self%20Portrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q83155",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q3399374",
+      "title": "Portrait d'Alexandre Lenoir",
+      "date": "1816",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jacques-louis-david",
+      "artistName": "Jacques-Louis David",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q3399374",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Alexandre%20Lenoir%20by%20Jacques%20Louis%20David.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Self%20Portrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q83155",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q15615004",
+      "title": "Portrait of Charles-Pierre Pécoul",
+      "date": "1784",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jacques-louis-david",
+      "artistName": "Jacques-Louis David",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q15615004",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Charles-Pierre%20Pecoul%20par%20David.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Self%20Portrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q83155",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q29643408",
+      "title": "Portrait of Juliette de Villeneuve",
+      "date": "1824",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jacques-louis-david",
+      "artistName": "Jacques-Louis David",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q29643408",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jacques-Louis%20David%2C%20Juliette%20de%20Villeneuve.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Self%20Portrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q83155",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q19008821",
+      "title": "Portrait of Madame Charles-Pierre Pecoul",
+      "date": "1784",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jacques-louis-david",
+      "artistName": "Jacques-Louis David",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q19008821",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Genevi%C3%A8ve%20Jacqueline%20Pecoul%20par%20David.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Self%20Portrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q83155",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q3399485",
+      "title": "Portrait of Madame de Verninac",
+      "date": "1799",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jacques-louis-david",
+      "artistName": "Jacques-Louis David",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q3399485",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Madame%20de%20Verninac%2C%20n%C3%A9e%20Henriette%20Delacroix%20-%20Jacques%20Louis%20David%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20RF%201942%2016.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Self%20Portrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q83155",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q3399409",
+      "title": "Portrait of Madame Emilie Seriziat and her Son",
+      "date": "1795",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jacques-louis-david",
+      "artistName": "Jacques-Louis David",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q3399409",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Madame-Seriziat%20Jacques-Louis-David%201795.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Self%20Portrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q83155",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q3399448",
+      "title": "Portrait of Madame Marie-Louise Trudaine",
+      "date": "1794",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jacques-louis-david",
+      "artistName": "Jacques-Louis David",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q3399448",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Marie-Louise%20Trudaine%2C%20by%20Jacques%20Louis%20David.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Self%20Portrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q83155",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q2619037",
+      "title": "Portrait of Madame Récamier",
+      "date": "1800",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jacques-louis-david",
+      "artistName": "Jacques-Louis David",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q2619037",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Juliette%20R%C3%A9camier%2C%20n%C3%A9e%20Bernard%20-%20Jacques-Louis%20David%20-%20Mus%C3%A9e%20duLouvre%20Peintures%20INV%203708.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Self%20Portrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q83155",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q3399458",
+      "title": "Portrait of Pierre Sériziat",
+      "date": "1795",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jacques-louis-david",
+      "artistName": "Jacques-Louis David",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q3399458",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre%20S%C3%A9riziat%20-%20Jacques-Louis%20David%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20RF%201281.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Self%20Portrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q83155",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q3399514",
+      "title": "Portrait of Pope Pius VII",
+      "date": "1805",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jacques-louis-david",
+      "artistName": "Jacques-Louis David",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q3399514",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jacques-Louis%20David%20018.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Self%20Portrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q83155",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q3399481",
+      "title": "Portrait of the Marquise d'Orvilliers",
+      "date": "1790",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jacques-louis-david",
+      "artistName": "Jacques-Louis David",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q3399481",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20marquise%20d%27Orvilliers%2C%20n%C3%A9e%20Jeanne-Robertine%20Rilliet%20-%20Jacques-Louis%20David%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20RF%202418.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Self%20Portrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q83155",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q2872714",
+      "title": "Self-portrait",
+      "date": "1794",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jacques-louis-david",
+      "artistName": "Jacques-Louis David",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q2872714",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Self%20Portrait.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Self%20Portrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q83155",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q1231009",
+      "title": "The Coronation of Napoleon",
+      "date": "1807",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jacques-louis-david",
+      "artistName": "Jacques-Louis David",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q1231009",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Le%20Sacre%20de%20Napol%C3%A9on%20-%20Jacques-Louis%20David%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20INV%203699%20%3B%20MR%201437.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Self%20Portrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q83155",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q29862489",
+      "title": "The Coronation of Napoleon I",
+      "date": "1805",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jacques-louis-david",
+      "artistName": "Jacques-Louis David",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q29862489",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Self%20Portrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q83155",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q1314013",
+      "title": "The Intervention of the Sabine Women",
+      "date": "1799",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jacques-louis-david",
+      "artistName": "Jacques-Louis David",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q1314013",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Intervention%20of%20the%20Sabine%20Women%20-%20David%20%28Louvre%20INV%203691%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Self%20Portrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q83155",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q2533791",
+      "title": "The Lictors Bring to Brutus the Bodies of His Sons",
+      "date": "1789",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jacques-louis-david",
+      "artistName": "Jacques-Louis David",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q2533791",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Brutus.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Self%20Portrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q83155",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q476458",
+      "title": "The Oath of the Horatii",
+      "date": "1784",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jacques-louis-david",
+      "artistName": "Jacques-Louis David",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q476458",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Le%20Serment%20des%20Horaces%20-%20Jacques-Louis%20David%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20INV%203692%20%3B%20MR%201432.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Self%20Portrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q83155",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q29862474",
+      "title": "Three Women of Gand",
+      "date": "1812",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jacques-louis-david",
+      "artistName": "Jacques-Louis David",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q29862474",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Les%20Trois%20Dames%20de%20Gand%20-%20J.L.%20David.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Self%20Portrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q83155",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q3387593",
+      "title": "Unfinished Portrait of General Bonaparte",
+      "date": "1797",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jacques-louis-david",
+      "artistName": "Jacques-Louis David",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q3387593",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jacques-Louis%20David%20011.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Self%20Portrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q83155",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q29862493",
+      "title": "Untitled record",
+      "date": "1795",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jacques-louis-david",
+      "artistName": "Jacques-Louis David",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q29862493",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jacques-Louis%20David%20-%20Portrait%20of%20Gaspar%20Mayer%20-%20WGA6074.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Self%20Portrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q83155",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q115670627",
+      "title": "Untitled record",
+      "date": "1782",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jacques-louis-david",
+      "artistName": "Jacques-Louis David",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q115670627",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jacques-Louis%20David%20-%20Le%20Christ%20en%20croix%2C%201782.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Self%20Portrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q83155",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q29862476",
+      "title": "Untitled record",
+      "date": "1812",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jacques-louis-david",
+      "artistName": "Jacques-Louis David",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q29862476",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Self%20Portrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q83155",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q29862498",
+      "title": "Untitled record",
+      "date": "1784",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jacques-louis-david",
+      "artistName": "Jacques-Louis David",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q29862498",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Self%20Portrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q83155",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q29862503",
+      "title": "Untitled record",
+      "date": "1790",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jacques-louis-david",
+      "artistName": "Jacques-Louis David",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q29862503",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Filippo%20Mazzei.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Self%20Portrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q83155",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q29862484",
+      "title": "Untitled record",
+      "date": "1887",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jacques-louis-david",
+      "artistName": "Jacques-Louis David",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q29862484",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Self%20Portrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q83155",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q29862500",
+      "title": "Vue des Jardins du Luxembourg",
+      "date": "1794",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jacques-louis-david",
+      "artistName": "Jacques-Louis David",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q29862500",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Vue%20des%20Jardins%20du%20Luxembourg%20%281794%29%20Jacques%20Louis%20David.png",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Self%20Portrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q83155",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q138785840",
+      "title": "Emperor Napoleon I crowning himself",
+      "date": "1805",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jacques-louis-david",
+      "artistName": "Jacques-Louis David",
+      "locationId": "department-of-prints-and-drawings-of-the-louvre-location-unknown",
+      "location": "Department of Prints and Drawings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111111,
+      "lon": 2.335833333,
+      "source": "http://www.wikidata.org/entity/Q138785840",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20-%20L%27Empereur%20Napol%C3%A9on%20Ier%20se%20couronnant%20lui-m%C3%AAme%2C%20RF%204377%2C%20Recto.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Self%20Portrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q83155",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q137780018",
+      "title": "Homer Reciting his Verses to the Greeks",
+      "date": "1794",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jacques-louis-david",
+      "artistName": "Jacques-Louis David",
+      "locationId": "department-of-prints-and-drawings-of-the-louvre-location-unknown",
+      "location": "Department of Prints and Drawings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111111,
+      "lon": 2.335833333,
+      "source": "http://www.wikidata.org/entity/Q137780018",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jacques-Louis%20David%20-%20Homer%20Reciting%20his%20Verses%20to%20the%20Greeks%20-%20WGA06120.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Self%20Portrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q83155",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q3291553",
+      "title": "Marie Antoinette Being Taken to Her Execution",
+      "date": "1793",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jacques-louis-david",
+      "artistName": "Jacques-Louis David",
+      "locationId": "department-of-prints-and-drawings-of-the-louvre-location-unknown",
+      "location": "Department of Prints and Drawings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111111,
+      "lon": 2.335833333,
+      "source": "http://www.wikidata.org/entity/Q3291553",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Marie%20Antoinette%20Adult13.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Self%20Portrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q83155",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q130748906",
+      "title": "Untitled record",
+      "date": "1790",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jacques-louis-david",
+      "artistName": "Jacques-Louis David",
+      "locationId": "department-of-prints-and-drawings-of-the-louvre-location-unknown",
+      "location": "Department of Prints and Drawings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111111,
+      "lon": 2.335833333,
+      "source": "http://www.wikidata.org/entity/Q130748906",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Self%20Portrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q83155",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q138787157",
+      "title": "Untitled record",
+      "date": "1797",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jacques-louis-david",
+      "artistName": "Jacques-Louis David",
+      "locationId": "department-of-prints-and-drawings-of-the-louvre-location-unknown",
+      "location": "Department of Prints and Drawings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111111,
+      "lon": 2.335833333,
+      "source": "http://www.wikidata.org/entity/Q138787157",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20-%20Etude%20pour%20Bonaparte%20debout%2C%20avec%20des%20chevaux%20et%20des%20cavaliers%20derri%C3%A8re%2C%20RF%2052524%2C%20Recto.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Self%20Portrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q83155",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2871,7 +3696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2896,7 +3721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2921,7 +3746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2946,14 +3771,14 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
     {
-      "id": "Q70781089",
-      "title": "Calliope Mourning Homer",
-      "date": "1812",
+      "id": "Q3399461",
+      "title": "Emmanuel Joseph Sieyès (1748-1836)",
+      "date": "1817",
       "type": "Painting",
       "attribution": "Accepted",
       "artistId": "jacques-louis-david",
@@ -2964,64 +3789,14 @@
       "country": "United States",
       "lat": 42.37409,
       "lon": -71.114358,
-      "source": "http://www.wikidata.org/entity/Q70781089",
+      "source": "http://www.wikidata.org/entity/Q3399461",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Circle%20of%20Jacques-Louis%20David%20-%20Calliope%20Mourning%20Homer%20-%201943.231%20-%20Fogg%20Museum.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jacques-Louis%20David%20-%20Portrait%20of%20Emmanuel-Joseph%20Siey%C3%A8s%20-%20WGA06098.jpg",
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Self%20Portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q70781085",
-      "title": "Emperor Napoleon I",
-      "date": "1807",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "jacques-louis-david",
-      "artistName": "Jacques-Louis David",
-      "locationId": "fogg-museum-cambridge",
-      "location": "Fogg Museum",
-      "city": "Cambridge",
-      "country": "United States",
-      "lat": 42.37409,
-      "lon": -71.114358,
-      "source": "http://www.wikidata.org/entity/Q70781085",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jacques-Louis%20David%20%E2%80%93%20Emperor%20Napoleon%20I%20%281769-1821%29%20%E2%80%93%20Google%20Art%20Project.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Self%20Portrait.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q70781074",
-      "title": "Portrait of a Young Woman",
-      "date": "1800",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "jacques-louis-david",
-      "artistName": "Jacques-Louis David",
-      "locationId": "fogg-museum-cambridge",
-      "location": "Fogg Museum",
-      "city": "Cambridge",
-      "country": "United States",
-      "lat": 42.37409,
-      "lon": -71.114358,
-      "source": "http://www.wikidata.org/entity/Q70781074",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20a%20Young%20Woman%20-%20Jacques-Louis%20David.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Self%20Portrait.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3046,7 +3821,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3071,7 +3846,32 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q70781089",
+      "title": "Calliope Mourning Homer",
+      "date": "1812",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jacques-louis-david",
+      "artistName": "Jacques-Louis David",
+      "locationId": "harvard-art-museums-cambridge",
+      "location": "Harvard Art Museums",
+      "city": "Cambridge",
+      "country": "United States",
+      "lat": 42.37416667,
+      "lon": -71.11472222,
+      "source": "http://www.wikidata.org/entity/Q70781089",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Circle%20of%20Jacques-Louis%20David%20-%20Calliope%20Mourning%20Homer%20-%201943.231%20-%20Fogg%20Museum.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Self%20Portrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q83155",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3096,14 +3896,14 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
     {
-      "id": "Q3399461",
-      "title": "Emmanuel Joseph Sieyès (1748-1836)",
-      "date": "1817",
+      "id": "Q70781085",
+      "title": "Emperor Napoleon I",
+      "date": "1807",
       "type": "Painting",
       "attribution": "Accepted",
       "artistId": "jacques-louis-david",
@@ -3114,14 +3914,39 @@
       "country": "United States",
       "lat": 42.37416667,
       "lon": -71.11472222,
-      "source": "http://www.wikidata.org/entity/Q3399461",
+      "source": "http://www.wikidata.org/entity/Q70781085",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jacques-Louis%20David%20-%20Portrait%20of%20Emmanuel-Joseph%20Siey%C3%A8s%20-%20WGA06098.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jacques-Louis%20David%20%E2%80%93%20Emperor%20Napoleon%20I%20%281769-1821%29%20%E2%80%93%20Google%20Art%20Project.jpg",
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Self%20Portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q70781074",
+      "title": "Portrait of a Young Woman",
+      "date": "1800",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jacques-louis-david",
+      "artistName": "Jacques-Louis David",
+      "locationId": "harvard-art-museums-cambridge",
+      "location": "Harvard Art Museums",
+      "city": "Cambridge",
+      "country": "United States",
+      "lat": 42.37416667,
+      "lon": -71.11472222,
+      "source": "http://www.wikidata.org/entity/Q70781074",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20a%20Young%20Woman%20-%20Jacques-Louis%20David.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Self%20Portrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q83155",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3146,7 +3971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3171,7 +3996,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3196,7 +4021,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3221,7 +4046,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3246,7 +4071,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3271,32 +4096,32 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
     {
-      "id": "Q19801102",
-      "title": "Napoleon Crossing the Alps",
-      "date": "1801",
+      "id": "Q3207608",
+      "title": "The Anger of Achilles",
+      "date": "1819",
       "type": "Painting",
       "attribution": "Accepted",
       "artistId": "jacques-louis-david",
       "artistName": "Jacques-Louis David",
-      "locationId": "kunsthistorisches-museum-vienna",
-      "location": "Kunsthistorisches Museum",
-      "city": "Vienna",
-      "country": "Austria",
-      "lat": 48.203880555,
-      "lon": 16.3616,
-      "source": "http://www.wikidata.org/entity/Q19801102",
+      "locationId": "kimbell-art-museum-fort-worth",
+      "location": "Kimbell Art Museum",
+      "city": "Fort Worth",
+      "country": "United States",
+      "lat": 32.748611111,
+      "lon": -97.365,
+      "source": "http://www.wikidata.org/entity/Q3207608",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Napoleon%20at%20the%20Great%20St.%20Bernard%20-%20Jacques-Louis%20David%20-%20Google%20Cultural%20Institute.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jacques-Louis%20David%20-%20The%20Anger%20of%20Achilles%20-%20Google%20Art%20Project.jpg",
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Self%20Portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3321,7 +4146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3346,7 +4171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3371,7 +4196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3396,7 +4221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3421,7 +4246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3446,32 +4271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q96178331",
-      "title": "The Death of Socrates",
-      "date": "1786",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "jacques-louis-david",
-      "artistName": "Jacques-Louis David",
-      "locationId": "metropolitan-museum-of-art-manhattan",
-      "location": "Metropolitan Museum of Art",
-      "city": "Manhattan",
-      "country": "United States",
-      "lat": 40.779444444,
-      "lon": -73.963333333,
-      "source": "http://www.wikidata.org/entity/Q96178331",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Death%20of%20Socrates%20MET%20DP845000.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Self%20Portrait.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3496,7 +4296,32 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q96178331",
+      "title": "The Death of Socrates",
+      "date": "1786",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jacques-louis-david",
+      "artistName": "Jacques-Louis David",
+      "locationId": "metropolitan-museum-of-art-manhattan",
+      "location": "Metropolitan Museum of Art",
+      "city": "Manhattan",
+      "country": "United States",
+      "lat": 40.779444444,
+      "lon": -73.963333333,
+      "source": "http://www.wikidata.org/entity/Q96178331",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Death%20of%20Socrates%20MET%20DP845000.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Self%20Portrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q83155",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3521,7 +4346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3546,7 +4371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3571,7 +4396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3596,7 +4421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3621,7 +4446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3646,7 +4471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3671,7 +4496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3696,7 +4521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3721,7 +4546,107 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q18683217",
+      "title": "Coronation of Emperor Napoleon I and Coronation of the Empress Josephine",
+      "date": "1808",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jacques-louis-david",
+      "artistName": "Jacques-Louis David",
+      "locationId": "musee-de-l-histoire-de-france-versailles",
+      "location": "Musée de l'Histoire de France",
+      "city": "Versailles",
+      "country": "France",
+      "lat": 48.8044,
+      "lon": 2.12197,
+      "source": "http://www.wikidata.org/entity/Q18683217",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jacques%20Louis%20David%20-%20Le%20couronnement%20de%20l%27Empereur%20et%20de%20l%27Imp%C3%A9ratrice%2C%202%20d%C3%A9cembre%201804%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Self%20Portrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q83155",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q19801150",
+      "title": "Napoleon Crossing the Alps",
+      "date": "1802",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jacques-louis-david",
+      "artistName": "Jacques-Louis David",
+      "locationId": "musee-de-l-histoire-de-france-versailles",
+      "location": "Musée de l'Histoire de France",
+      "city": "Versailles",
+      "country": "France",
+      "lat": 48.8044,
+      "lon": 2.12197,
+      "source": "http://www.wikidata.org/entity/Q19801150",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jacques%20Louis%20David%20-%20Bonaparte%20franchissant%20le%20Grand%20Saint-Bernard%2C%2020%20mai%201800%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Self%20Portrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q83155",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q121438380",
+      "title": "Pius VII, pope (1740-1823)",
+      "date": "1806",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jacques-louis-david",
+      "artistName": "Jacques-Louis David",
+      "locationId": "musee-de-l-histoire-de-france-versailles",
+      "location": "Musée de l'Histoire de France",
+      "city": "Versailles",
+      "country": "France",
+      "lat": 48.8044,
+      "lon": 2.12197,
+      "source": "http://www.wikidata.org/entity/Q121438380",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Pope%20Pius%20VII%20Chiaramonti%20%28by%20Jacques-Louis%20David%29%20%E2%80%93%20National%20Museum%20of%20the%20Palace%20of%20Versailles.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Self%20Portrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q83155",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q98431807",
+      "title": "Portrait of Bertrand Barère de Vieuzac",
+      "date": "1790",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jacques-louis-david",
+      "artistName": "Jacques-Louis David",
+      "locationId": "musee-de-l-histoire-de-france-versailles",
+      "location": "Musée de l'Histoire de France",
+      "city": "Versailles",
+      "country": "France",
+      "lat": 48.8044,
+      "lon": 2.12197,
+      "source": "http://www.wikidata.org/entity/Q98431807",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Barere-Jacques%20Louis%20David.png",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Self%20Portrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q83155",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3746,7 +4671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3771,7 +4696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3796,7 +4721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3821,7 +4746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3846,7 +4771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3871,7 +4796,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3896,7 +4821,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3921,7 +4846,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3946,12 +4871,12 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
     {
-      "id": "Q123550393",
+      "id": "Q123529268",
       "title": "Untitled record",
       "date": "1826",
       "type": "Painting",
@@ -3964,39 +4889,14 @@
       "country": "France",
       "lat": 48.109444,
       "lon": -1.675,
-      "source": "http://www.wikidata.org/entity/Q123550393",
+      "source": "http://www.wikidata.org/entity/Q123529268",
       "image": "",
       "externalImage": "",
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Self%20Portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q123554526",
-      "title": "Untitled record",
-      "date": "1801",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "jacques-louis-david",
-      "artistName": "Jacques-Louis David",
-      "locationId": "musee-des-beaux-arts-de-rennes-rennes",
-      "location": "Musée des Beaux-Arts de Rennes",
-      "city": "Rennes",
-      "country": "France",
-      "lat": 48.109444,
-      "lon": -1.675,
-      "source": "http://www.wikidata.org/entity/Q123554526",
-      "image": "",
-      "externalImage": "",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Self%20Portrait.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4021,7 +4921,32 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q123555923",
+      "title": "Untitled record",
+      "date": "1801",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jacques-louis-david",
+      "artistName": "Jacques-Louis David",
+      "locationId": "musee-des-beaux-arts-de-rennes-rennes",
+      "location": "Musée des Beaux-Arts de Rennes",
+      "city": "Rennes",
+      "country": "France",
+      "lat": 48.109444,
+      "lon": -1.675,
+      "source": "http://www.wikidata.org/entity/Q123555923",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Self%20Portrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q83155",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4046,7 +4971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4071,7 +4996,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4096,7 +5021,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4121,7 +5046,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4146,7 +5071,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4171,7 +5096,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4196,7 +5121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4221,7 +5146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4246,7 +5171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4271,7 +5196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4296,7 +5221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4321,7 +5246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4346,7 +5271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4371,7 +5296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4396,7 +5321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4421,7 +5346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4446,32 +5371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q116284353",
-      "title": "Portrait of Pope Pius VII",
-      "date": "1805",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "jacques-louis-david",
-      "artistName": "Jacques-Louis David",
-      "locationId": "musee-national-du-chateau-de-fontainebleau-fontainebleau",
-      "location": "Musée national du Château de Fontainebleau",
-      "city": "Fontainebleau",
-      "country": "France",
-      "lat": 48.40222,
-      "lon": 2.70056,
-      "source": "http://www.wikidata.org/entity/Q116284353",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20-%20Portrait%20du%20pape%20Pie%20VII%2C%201805%2C%20Inv.3702.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Self%20Portrait.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4496,7 +5396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4521,7 +5421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4546,7 +5446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4571,7 +5471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4596,7 +5496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4621,7 +5521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4646,7 +5546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4671,7 +5571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4696,7 +5596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4721,7 +5621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4746,7 +5646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4771,7 +5671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4787,8 +5687,8 @@
       "location": "National Gallery of Canada",
       "city": "Ottawa",
       "country": "Canada",
-      "lat": 45.429434,
-      "lon": -75.698386,
+      "lat": 45.429535,
+      "lon": -75.698906,
       "source": "http://www.wikidata.org/entity/Q59493931",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jacques-Louis%20David%20-%20Pierre%20S%C3%A9riziat.jpg",
@@ -4796,7 +5696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4821,7 +5721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4846,7 +5746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4871,32 +5771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q2749266",
-      "title": "Portrait of Count Stanislas Potocki",
-      "date": "1780",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "jacques-louis-david",
-      "artistName": "Jacques-Louis David",
-      "locationId": "national-museum-in-warsaw-srodmiescie",
-      "location": "National Museum in Warsaw",
-      "city": "Śródmieście",
-      "country": "Poland",
-      "lat": 52.231666666,
-      "lon": 21.024722222,
-      "source": "http://www.wikidata.org/entity/Q2749266",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jacques-Louis%20David%20-%20Equestrian%20portrait%20of%20Stanis%C5%82aw%20Kostka%20Potocki%20-%20Google%20Art%20Project.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Self%20Portrait.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4921,7 +5796,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4933,9 +5808,9 @@
       "attribution": "Accepted",
       "artistId": "jacques-louis-david",
       "artistName": "Jacques-Louis David",
-      "locationId": "nationalmuseum-stockholm",
+      "locationId": "nationalmuseum-stockholm-municipality",
       "location": "Nationalmuseum",
-      "city": "Stockholm",
+      "city": "Stockholm Municipality",
       "country": "Sweden",
       "lat": 59.328611111,
       "lon": 18.078055555,
@@ -4946,12 +5821,12 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
     {
-      "id": "Q108752109",
+      "id": "Q110783211",
       "title": "Altare",
       "date": "Date unknown",
       "type": "Painting",
@@ -4964,6 +5839,31 @@
       "country": "Sweden",
       "lat": 59.328611111,
       "lon": 18.078055555,
+      "source": "http://www.wikidata.org/entity/Q110783211",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20-%20Altare%2C%20NMH%201211969.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Self%20Portrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q83155",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q108752109",
+      "title": "Altare",
+      "date": "Date unknown",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jacques-louis-david",
+      "artistName": "Jacques-Louis David",
+      "locationId": "nationalmuseum-stockholm-municipality",
+      "location": "Nationalmuseum",
+      "city": "Stockholm Municipality",
+      "country": "Sweden",
+      "lat": 59.328611111,
+      "lon": 18.078055555,
       "source": "http://www.wikidata.org/entity/Q108752109",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20-%20Altare%2C%20NMH%201221969.jpg",
@@ -4971,7 +5871,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4983,9 +5883,9 @@
       "attribution": "Accepted",
       "artistId": "jacques-louis-david",
       "artistName": "Jacques-Louis David",
-      "locationId": "nationalmuseum-stockholm",
+      "locationId": "nationalmuseum-stockholm-municipality",
       "location": "Nationalmuseum",
-      "city": "Stockholm",
+      "city": "Stockholm Municipality",
       "country": "Sweden",
       "lat": 59.328611111,
       "lon": 18.078055555,
@@ -4996,7 +5896,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5008,9 +5908,9 @@
       "attribution": "Accepted",
       "artistId": "jacques-louis-david",
       "artistName": "Jacques-Louis David",
-      "locationId": "nationalmuseum-stockholm",
+      "locationId": "nationalmuseum-stockholm-municipality",
       "location": "Nationalmuseum",
-      "city": "Stockholm",
+      "city": "Stockholm Municipality",
       "country": "Sweden",
       "lat": 59.328611111,
       "lon": 18.078055555,
@@ -5021,7 +5921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5033,9 +5933,9 @@
       "attribution": "Accepted",
       "artistId": "jacques-louis-david",
       "artistName": "Jacques-Louis David",
-      "locationId": "nationalmuseum-stockholm",
+      "locationId": "nationalmuseum-stockholm-municipality",
       "location": "Nationalmuseum",
-      "city": "Stockholm",
+      "city": "Stockholm Municipality",
       "country": "Sweden",
       "lat": 59.328611111,
       "lon": 18.078055555,
@@ -5046,7 +5946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5071,7 +5971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5096,7 +5996,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5108,9 +6008,9 @@
       "attribution": "Accepted",
       "artistId": "jacques-louis-david",
       "artistName": "Jacques-Louis David",
-      "locationId": "nationalmuseum-stockholm",
+      "locationId": "nationalmuseum-stockholm-municipality",
       "location": "Nationalmuseum",
-      "city": "Stockholm",
+      "city": "Stockholm Municipality",
       "country": "Sweden",
       "lat": 59.328611111,
       "lon": 18.078055555,
@@ -5121,7 +6021,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5146,7 +6046,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5158,9 +6058,9 @@
       "attribution": "Accepted",
       "artistId": "jacques-louis-david",
       "artistName": "Jacques-Louis David",
-      "locationId": "nationalmuseum-stockholm",
+      "locationId": "nationalmuseum-stockholm-municipality",
       "location": "Nationalmuseum",
-      "city": "Stockholm",
+      "city": "Stockholm Municipality",
       "country": "Sweden",
       "lat": 59.328611111,
       "lon": 18.078055555,
@@ -5171,7 +6071,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5196,7 +6096,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5208,9 +6108,9 @@
       "attribution": "Accepted",
       "artistId": "jacques-louis-david",
       "artistName": "Jacques-Louis David",
-      "locationId": "nationalmuseum-stockholm",
+      "locationId": "nationalmuseum-stockholm-municipality",
       "location": "Nationalmuseum",
-      "city": "Stockholm",
+      "city": "Stockholm Municipality",
       "country": "Sweden",
       "lat": 59.328611111,
       "lon": 18.078055555,
@@ -5221,7 +6121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5246,7 +6146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5258,9 +6158,9 @@
       "attribution": "Accepted",
       "artistId": "jacques-louis-david",
       "artistName": "Jacques-Louis David",
-      "locationId": "nationalmuseum-stockholm",
+      "locationId": "nationalmuseum-stockholm-municipality",
       "location": "Nationalmuseum",
-      "city": "Stockholm",
+      "city": "Stockholm Municipality",
       "country": "Sweden",
       "lat": 59.328611111,
       "lon": 18.078055555,
@@ -5271,7 +6171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5296,7 +6196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5321,7 +6221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5346,7 +6246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5358,9 +6258,9 @@
       "attribution": "Accepted",
       "artistId": "jacques-louis-david",
       "artistName": "Jacques-Louis David",
-      "locationId": "nationalmuseum-stockholm",
+      "locationId": "nationalmuseum-stockholm-municipality",
       "location": "Nationalmuseum",
-      "city": "Stockholm",
+      "city": "Stockholm Municipality",
       "country": "Sweden",
       "lat": 59.328611111,
       "lon": 18.078055555,
@@ -5371,7 +6271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5383,9 +6283,9 @@
       "attribution": "Accepted",
       "artistId": "jacques-louis-david",
       "artistName": "Jacques-Louis David",
-      "locationId": "nationalmuseum-stockholm",
+      "locationId": "nationalmuseum-stockholm-municipality",
       "location": "Nationalmuseum",
-      "city": "Stockholm",
+      "city": "Stockholm Municipality",
       "country": "Sweden",
       "lat": 59.328611111,
       "lon": 18.078055555,
@@ -5396,7 +6296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5421,7 +6321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5433,9 +6333,9 @@
       "attribution": "Accepted",
       "artistId": "jacques-louis-david",
       "artistName": "Jacques-Louis David",
-      "locationId": "nationalmuseum-stockholm",
+      "locationId": "nationalmuseum-stockholm-municipality",
       "location": "Nationalmuseum",
-      "city": "Stockholm",
+      "city": "Stockholm Municipality",
       "country": "Sweden",
       "lat": 59.328611111,
       "lon": 18.078055555,
@@ -5446,7 +6346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5471,7 +6371,32 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q110783317",
+      "title": "Diana med en hind",
+      "date": "Date unknown",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jacques-louis-david",
+      "artistName": "Jacques-Louis David",
+      "locationId": "nationalmuseum-stockholm-municipality",
+      "location": "Nationalmuseum",
+      "city": "Stockholm Municipality",
+      "country": "Sweden",
+      "lat": 59.328611111,
+      "lon": 18.078055555,
+      "source": "http://www.wikidata.org/entity/Q110783317",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20-%20Diana%20med%20en%20hind%2C%20NMH%20641969.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Self%20Portrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q83155",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5483,9 +6408,9 @@
       "attribution": "Accepted",
       "artistId": "jacques-louis-david",
       "artistName": "Jacques-Louis David",
-      "locationId": "nationalmuseum-stockholm",
+      "locationId": "nationalmuseum-stockholm-municipality",
       "location": "Nationalmuseum",
-      "city": "Stockholm",
+      "city": "Stockholm Municipality",
       "country": "Sweden",
       "lat": 59.328611111,
       "lon": 18.078055555,
@@ -5496,7 +6421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5508,9 +6433,9 @@
       "attribution": "Accepted",
       "artistId": "jacques-louis-david",
       "artistName": "Jacques-Louis David",
-      "locationId": "nationalmuseum-stockholm",
+      "locationId": "nationalmuseum-stockholm-municipality",
       "location": "Nationalmuseum",
-      "city": "Stockholm",
+      "city": "Stockholm Municipality",
       "country": "Sweden",
       "lat": 59.328611111,
       "lon": 18.078055555,
@@ -5521,7 +6446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5533,9 +6458,9 @@
       "attribution": "Accepted",
       "artistId": "jacques-louis-david",
       "artistName": "Jacques-Louis David",
-      "locationId": "nationalmuseum-stockholm",
+      "locationId": "nationalmuseum-stockholm-municipality",
       "location": "Nationalmuseum",
-      "city": "Stockholm",
+      "city": "Stockholm Municipality",
       "country": "Sweden",
       "lat": 59.328611111,
       "lon": 18.078055555,
@@ -5546,7 +6471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5571,7 +6496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5583,9 +6508,9 @@
       "attribution": "Accepted",
       "artistId": "jacques-louis-david",
       "artistName": "Jacques-Louis David",
-      "locationId": "nationalmuseum-stockholm",
+      "locationId": "nationalmuseum-stockholm-municipality",
       "location": "Nationalmuseum",
-      "city": "Stockholm",
+      "city": "Stockholm Municipality",
       "country": "Sweden",
       "lat": 59.328611111,
       "lon": 18.078055555,
@@ -5596,7 +6521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5608,9 +6533,9 @@
       "attribution": "Accepted",
       "artistId": "jacques-louis-david",
       "artistName": "Jacques-Louis David",
-      "locationId": "nationalmuseum-stockholm",
+      "locationId": "nationalmuseum-stockholm-municipality",
       "location": "Nationalmuseum",
-      "city": "Stockholm",
+      "city": "Stockholm Municipality",
       "country": "Sweden",
       "lat": 59.328611111,
       "lon": 18.078055555,
@@ -5621,7 +6546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5633,9 +6558,9 @@
       "attribution": "Accepted",
       "artistId": "jacques-louis-david",
       "artistName": "Jacques-Louis David",
-      "locationId": "nationalmuseum-stockholm",
+      "locationId": "nationalmuseum-stockholm-municipality",
       "location": "Nationalmuseum",
-      "city": "Stockholm",
+      "city": "Stockholm Municipality",
       "country": "Sweden",
       "lat": 59.328611111,
       "lon": 18.078055555,
@@ -5646,7 +6571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5671,7 +6596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5683,9 +6608,9 @@
       "attribution": "Accepted",
       "artistId": "jacques-louis-david",
       "artistName": "Jacques-Louis David",
-      "locationId": "nationalmuseum-stockholm",
+      "locationId": "nationalmuseum-stockholm-municipality",
       "location": "Nationalmuseum",
-      "city": "Stockholm",
+      "city": "Stockholm Municipality",
       "country": "Sweden",
       "lat": 59.328611111,
       "lon": 18.078055555,
@@ -5696,7 +6621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5721,7 +6646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5733,9 +6658,9 @@
       "attribution": "Accepted",
       "artistId": "jacques-louis-david",
       "artistName": "Jacques-Louis David",
-      "locationId": "nationalmuseum-stockholm",
+      "locationId": "nationalmuseum-stockholm-municipality",
       "location": "Nationalmuseum",
-      "city": "Stockholm",
+      "city": "Stockholm Municipality",
       "country": "Sweden",
       "lat": 59.328611111,
       "lon": 18.078055555,
@@ -5746,7 +6671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5771,7 +6696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5783,9 +6708,9 @@
       "attribution": "Accepted",
       "artistId": "jacques-louis-david",
       "artistName": "Jacques-Louis David",
-      "locationId": "nationalmuseum-stockholm",
+      "locationId": "nationalmuseum-stockholm-municipality",
       "location": "Nationalmuseum",
-      "city": "Stockholm",
+      "city": "Stockholm Municipality",
       "country": "Sweden",
       "lat": 59.328611111,
       "lon": 18.078055555,
@@ -5796,7 +6721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5821,7 +6746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5833,9 +6758,9 @@
       "attribution": "Accepted",
       "artistId": "jacques-louis-david",
       "artistName": "Jacques-Louis David",
-      "locationId": "nationalmuseum-stockholm",
+      "locationId": "nationalmuseum-stockholm-municipality",
       "location": "Nationalmuseum",
-      "city": "Stockholm",
+      "city": "Stockholm Municipality",
       "country": "Sweden",
       "lat": 59.328611111,
       "lon": 18.078055555,
@@ -5846,7 +6771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5858,9 +6783,9 @@
       "attribution": "Accepted",
       "artistId": "jacques-louis-david",
       "artistName": "Jacques-Louis David",
-      "locationId": "nationalmuseum-stockholm",
+      "locationId": "nationalmuseum-stockholm-municipality",
       "location": "Nationalmuseum",
-      "city": "Stockholm",
+      "city": "Stockholm Municipality",
       "country": "Sweden",
       "lat": 59.328611111,
       "lon": 18.078055555,
@@ -5871,7 +6796,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5883,9 +6808,9 @@
       "attribution": "Accepted",
       "artistId": "jacques-louis-david",
       "artistName": "Jacques-Louis David",
-      "locationId": "nationalmuseum-stockholm",
+      "locationId": "nationalmuseum-stockholm-municipality",
       "location": "Nationalmuseum",
-      "city": "Stockholm",
+      "city": "Stockholm Municipality",
       "country": "Sweden",
       "lat": 59.328611111,
       "lon": 18.078055555,
@@ -5896,7 +6821,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5908,9 +6833,9 @@
       "attribution": "Accepted",
       "artistId": "jacques-louis-david",
       "artistName": "Jacques-Louis David",
-      "locationId": "nationalmuseum-stockholm",
+      "locationId": "nationalmuseum-stockholm-municipality",
       "location": "Nationalmuseum",
-      "city": "Stockholm",
+      "city": "Stockholm Municipality",
       "country": "Sweden",
       "lat": 59.328611111,
       "lon": 18.078055555,
@@ -5921,7 +6846,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5933,9 +6858,9 @@
       "attribution": "Accepted",
       "artistId": "jacques-louis-david",
       "artistName": "Jacques-Louis David",
-      "locationId": "nationalmuseum-stockholm",
+      "locationId": "nationalmuseum-stockholm-municipality",
       "location": "Nationalmuseum",
-      "city": "Stockholm",
+      "city": "Stockholm Municipality",
       "country": "Sweden",
       "lat": 59.328611111,
       "lon": 18.078055555,
@@ -5946,7 +6871,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5958,9 +6883,9 @@
       "attribution": "Accepted",
       "artistId": "jacques-louis-david",
       "artistName": "Jacques-Louis David",
-      "locationId": "nationalmuseum-stockholm",
+      "locationId": "nationalmuseum-stockholm-municipality",
       "location": "Nationalmuseum",
-      "city": "Stockholm",
+      "city": "Stockholm Municipality",
       "country": "Sweden",
       "lat": 59.328611111,
       "lon": 18.078055555,
@@ -5971,7 +6896,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5983,9 +6908,9 @@
       "attribution": "Accepted",
       "artistId": "jacques-louis-david",
       "artistName": "Jacques-Louis David",
-      "locationId": "nationalmuseum-stockholm",
+      "locationId": "nationalmuseum-stockholm-municipality",
       "location": "Nationalmuseum",
-      "city": "Stockholm",
+      "city": "Stockholm Municipality",
       "country": "Sweden",
       "lat": 59.328611111,
       "lon": 18.078055555,
@@ -5996,7 +6921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6008,9 +6933,9 @@
       "attribution": "Accepted",
       "artistId": "jacques-louis-david",
       "artistName": "Jacques-Louis David",
-      "locationId": "nationalmuseum-stockholm",
+      "locationId": "nationalmuseum-stockholm-municipality",
       "location": "Nationalmuseum",
-      "city": "Stockholm",
+      "city": "Stockholm Municipality",
       "country": "Sweden",
       "lat": 59.328611111,
       "lon": 18.078055555,
@@ -6021,7 +6946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6046,7 +6971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6071,7 +6996,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6083,9 +7008,9 @@
       "attribution": "Accepted",
       "artistId": "jacques-louis-david",
       "artistName": "Jacques-Louis David",
-      "locationId": "nationalmuseum-stockholm",
+      "locationId": "nationalmuseum-stockholm-municipality",
       "location": "Nationalmuseum",
-      "city": "Stockholm",
+      "city": "Stockholm Municipality",
       "country": "Sweden",
       "lat": 59.328611111,
       "lon": 18.078055555,
@@ -6096,7 +7021,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6121,7 +7046,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6133,9 +7058,9 @@
       "attribution": "Accepted",
       "artistId": "jacques-louis-david",
       "artistName": "Jacques-Louis David",
-      "locationId": "nationalmuseum-stockholm",
+      "locationId": "nationalmuseum-stockholm-municipality",
       "location": "Nationalmuseum",
-      "city": "Stockholm",
+      "city": "Stockholm Municipality",
       "country": "Sweden",
       "lat": 59.328611111,
       "lon": 18.078055555,
@@ -6146,7 +7071,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6158,9 +7083,9 @@
       "attribution": "Accepted",
       "artistId": "jacques-louis-david",
       "artistName": "Jacques-Louis David",
-      "locationId": "nationalmuseum-stockholm",
+      "locationId": "nationalmuseum-stockholm-municipality",
       "location": "Nationalmuseum",
-      "city": "Stockholm",
+      "city": "Stockholm Municipality",
       "country": "Sweden",
       "lat": 59.328611111,
       "lon": 18.078055555,
@@ -6171,7 +7096,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6183,9 +7108,9 @@
       "attribution": "Accepted",
       "artistId": "jacques-louis-david",
       "artistName": "Jacques-Louis David",
-      "locationId": "nationalmuseum-stockholm",
+      "locationId": "nationalmuseum-stockholm-municipality",
       "location": "Nationalmuseum",
-      "city": "Stockholm",
+      "city": "Stockholm Municipality",
       "country": "Sweden",
       "lat": 59.328611111,
       "lon": 18.078055555,
@@ -6196,7 +7121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6208,9 +7133,9 @@
       "attribution": "Accepted",
       "artistId": "jacques-louis-david",
       "artistName": "Jacques-Louis David",
-      "locationId": "nationalmuseum-stockholm",
+      "locationId": "nationalmuseum-stockholm-municipality",
       "location": "Nationalmuseum",
-      "city": "Stockholm",
+      "city": "Stockholm Municipality",
       "country": "Sweden",
       "lat": 59.328611111,
       "lon": 18.078055555,
@@ -6221,7 +7146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6246,7 +7171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6258,9 +7183,9 @@
       "attribution": "Accepted",
       "artistId": "jacques-louis-david",
       "artistName": "Jacques-Louis David",
-      "locationId": "nationalmuseum-stockholm",
+      "locationId": "nationalmuseum-stockholm-municipality",
       "location": "Nationalmuseum",
-      "city": "Stockholm",
+      "city": "Stockholm Municipality",
       "country": "Sweden",
       "lat": 59.328611111,
       "lon": 18.078055555,
@@ -6271,7 +7196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6296,7 +7221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6308,9 +7233,9 @@
       "attribution": "Accepted",
       "artistId": "jacques-louis-david",
       "artistName": "Jacques-Louis David",
-      "locationId": "nationalmuseum-stockholm",
+      "locationId": "nationalmuseum-stockholm-municipality",
       "location": "Nationalmuseum",
-      "city": "Stockholm",
+      "city": "Stockholm Municipality",
       "country": "Sweden",
       "lat": 59.328611111,
       "lon": 18.078055555,
@@ -6321,7 +7246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6333,9 +7258,9 @@
       "attribution": "Accepted",
       "artistId": "jacques-louis-david",
       "artistName": "Jacques-Louis David",
-      "locationId": "nationalmuseum-stockholm",
+      "locationId": "nationalmuseum-stockholm-municipality",
       "location": "Nationalmuseum",
-      "city": "Stockholm",
+      "city": "Stockholm Municipality",
       "country": "Sweden",
       "lat": 59.328611111,
       "lon": 18.078055555,
@@ -6346,7 +7271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6358,9 +7283,9 @@
       "attribution": "Accepted",
       "artistId": "jacques-louis-david",
       "artistName": "Jacques-Louis David",
-      "locationId": "nationalmuseum-stockholm",
+      "locationId": "nationalmuseum-stockholm-municipality",
       "location": "Nationalmuseum",
-      "city": "Stockholm",
+      "city": "Stockholm Municipality",
       "country": "Sweden",
       "lat": 59.328611111,
       "lon": 18.078055555,
@@ -6371,7 +7296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6383,9 +7308,9 @@
       "attribution": "Accepted",
       "artistId": "jacques-louis-david",
       "artistName": "Jacques-Louis David",
-      "locationId": "nationalmuseum-stockholm",
+      "locationId": "nationalmuseum-stockholm-municipality",
       "location": "Nationalmuseum",
-      "city": "Stockholm",
+      "city": "Stockholm Municipality",
       "country": "Sweden",
       "lat": 59.328611111,
       "lon": 18.078055555,
@@ -6396,7 +7321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6421,7 +7346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6433,9 +7358,9 @@
       "attribution": "Accepted",
       "artistId": "jacques-louis-david",
       "artistName": "Jacques-Louis David",
-      "locationId": "nationalmuseum-stockholm",
+      "locationId": "nationalmuseum-stockholm-municipality",
       "location": "Nationalmuseum",
-      "city": "Stockholm",
+      "city": "Stockholm Municipality",
       "country": "Sweden",
       "lat": 59.328611111,
       "lon": 18.078055555,
@@ -6446,7 +7371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6458,9 +7383,9 @@
       "attribution": "Accepted",
       "artistId": "jacques-louis-david",
       "artistName": "Jacques-Louis David",
-      "locationId": "nationalmuseum-stockholm",
+      "locationId": "nationalmuseum-stockholm-municipality",
       "location": "Nationalmuseum",
-      "city": "Stockholm",
+      "city": "Stockholm Municipality",
       "country": "Sweden",
       "lat": 59.328611111,
       "lon": 18.078055555,
@@ -6471,7 +7396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6483,9 +7408,9 @@
       "attribution": "Accepted",
       "artistId": "jacques-louis-david",
       "artistName": "Jacques-Louis David",
-      "locationId": "nationalmuseum-stockholm",
+      "locationId": "nationalmuseum-stockholm-municipality",
       "location": "Nationalmuseum",
-      "city": "Stockholm",
+      "city": "Stockholm Municipality",
       "country": "Sweden",
       "lat": 59.328611111,
       "lon": 18.078055555,
@@ -6496,7 +7421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6508,9 +7433,9 @@
       "attribution": "Accepted",
       "artistId": "jacques-louis-david",
       "artistName": "Jacques-Louis David",
-      "locationId": "nationalmuseum-stockholm",
+      "locationId": "nationalmuseum-stockholm-municipality",
       "location": "Nationalmuseum",
-      "city": "Stockholm",
+      "city": "Stockholm Municipality",
       "country": "Sweden",
       "lat": 59.328611111,
       "lon": 18.078055555,
@@ -6521,7 +7446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6533,9 +7458,9 @@
       "attribution": "Accepted",
       "artistId": "jacques-louis-david",
       "artistName": "Jacques-Louis David",
-      "locationId": "nationalmuseum-stockholm",
+      "locationId": "nationalmuseum-stockholm-municipality",
       "location": "Nationalmuseum",
-      "city": "Stockholm",
+      "city": "Stockholm Municipality",
       "country": "Sweden",
       "lat": 59.328611111,
       "lon": 18.078055555,
@@ -6546,7 +7471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6558,9 +7483,9 @@
       "attribution": "Accepted",
       "artistId": "jacques-louis-david",
       "artistName": "Jacques-Louis David",
-      "locationId": "nationalmuseum-stockholm",
+      "locationId": "nationalmuseum-stockholm-municipality",
       "location": "Nationalmuseum",
-      "city": "Stockholm",
+      "city": "Stockholm Municipality",
       "country": "Sweden",
       "lat": 59.328611111,
       "lon": 18.078055555,
@@ -6571,7 +7496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6583,9 +7508,9 @@
       "attribution": "Accepted",
       "artistId": "jacques-louis-david",
       "artistName": "Jacques-Louis David",
-      "locationId": "nationalmuseum-stockholm",
+      "locationId": "nationalmuseum-stockholm-municipality",
       "location": "Nationalmuseum",
-      "city": "Stockholm",
+      "city": "Stockholm Municipality",
       "country": "Sweden",
       "lat": 59.328611111,
       "lon": 18.078055555,
@@ -6596,7 +7521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6608,9 +7533,9 @@
       "attribution": "Accepted",
       "artistId": "jacques-louis-david",
       "artistName": "Jacques-Louis David",
-      "locationId": "nationalmuseum-stockholm",
+      "locationId": "nationalmuseum-stockholm-municipality",
       "location": "Nationalmuseum",
-      "city": "Stockholm",
+      "city": "Stockholm Municipality",
       "country": "Sweden",
       "lat": 59.328611111,
       "lon": 18.078055555,
@@ -6621,7 +7546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6633,9 +7558,9 @@
       "attribution": "Accepted",
       "artistId": "jacques-louis-david",
       "artistName": "Jacques-Louis David",
-      "locationId": "nationalmuseum-stockholm",
+      "locationId": "nationalmuseum-stockholm-municipality",
       "location": "Nationalmuseum",
-      "city": "Stockholm",
+      "city": "Stockholm Municipality",
       "country": "Sweden",
       "lat": 59.328611111,
       "lon": 18.078055555,
@@ -6646,7 +7571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6671,7 +7596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6696,7 +7621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6721,7 +7646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6746,7 +7671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6758,9 +7683,9 @@
       "attribution": "Accepted",
       "artistId": "jacques-louis-david",
       "artistName": "Jacques-Louis David",
-      "locationId": "nationalmuseum-stockholm",
+      "locationId": "nationalmuseum-stockholm-municipality",
       "location": "Nationalmuseum",
-      "city": "Stockholm",
+      "city": "Stockholm Municipality",
       "country": "Sweden",
       "lat": 59.328611111,
       "lon": 18.078055555,
@@ -6771,7 +7696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6796,12 +7721,62 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
     {
-      "id": "Q110783438",
+      "id": "Q110783361",
+      "title": "Stående kvinna i antik dräkt",
+      "date": "Date unknown",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jacques-louis-david",
+      "artistName": "Jacques-Louis David",
+      "locationId": "nationalmuseum-stockholm-municipality",
+      "location": "Nationalmuseum",
+      "city": "Stockholm Municipality",
+      "country": "Sweden",
+      "lat": 59.328611111,
+      "lon": 18.078055555,
+      "source": "http://www.wikidata.org/entity/Q110783361",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20-%20St%C3%A5ende%20kvinna%20i%20antik%20dr%C3%A4kt%2C%20NMH%20491969.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Self%20Portrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q83155",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q110783442",
+      "title": "Stående man i toga",
+      "date": "Date unknown",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jacques-louis-david",
+      "artistName": "Jacques-Louis David",
+      "locationId": "nationalmuseum-stockholm-municipality",
+      "location": "Nationalmuseum",
+      "city": "Stockholm Municipality",
+      "country": "Sweden",
+      "lat": 59.328611111,
+      "lon": 18.078055555,
+      "source": "http://www.wikidata.org/entity/Q110783442",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20-%20St%C3%A5ende%20man%20i%20toga%2C%20NMH%20271969.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Self%20Portrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q83155",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q110765399",
       "title": "Stående man i toga",
       "date": "Date unknown",
       "type": "Painting",
@@ -6814,14 +7789,14 @@
       "country": "Sweden",
       "lat": 59.328611111,
       "lon": 18.078055555,
-      "source": "http://www.wikidata.org/entity/Q110783438",
+      "source": "http://www.wikidata.org/entity/Q110765399",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20-%20St%C3%A5ende%20man%20i%20toga%2C%20NMH%20291969.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20-%20St%C3%A5ende%20man%20i%20toga%2C%20NMH%20281969.jpg",
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Self%20Portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6846,12 +7821,12 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
     {
-      "id": "Q110763112",
+      "id": "Q110783213",
       "title": "Studier av huvuden på antika krigare",
       "date": "Date unknown",
       "type": "Painting",
@@ -6864,6 +7839,31 @@
       "country": "Sweden",
       "lat": 59.328611111,
       "lon": 18.078055555,
+      "source": "http://www.wikidata.org/entity/Q110783213",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20-%20Studier%20av%20huvuden%20p%C3%A5%20antika%20krigare%2C%20NMH%201131969.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Self%20Portrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q83155",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q110763112",
+      "title": "Studier av huvuden på antika krigare",
+      "date": "Date unknown",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jacques-louis-david",
+      "artistName": "Jacques-Louis David",
+      "locationId": "nationalmuseum-stockholm-municipality",
+      "location": "Nationalmuseum",
+      "city": "Stockholm Municipality",
+      "country": "Sweden",
+      "lat": 59.328611111,
+      "lon": 18.078055555,
       "source": "http://www.wikidata.org/entity/Q110763112",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20-%20Studier%20av%20huvuden%20p%C3%A5%20antika%20krigare%2C%20NMH%201141969.jpg",
@@ -6871,7 +7871,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6883,9 +7883,9 @@
       "attribution": "Accepted",
       "artistId": "jacques-louis-david",
       "artistName": "Jacques-Louis David",
-      "locationId": "nationalmuseum-stockholm",
+      "locationId": "nationalmuseum-stockholm-municipality",
       "location": "Nationalmuseum",
-      "city": "Stockholm",
+      "city": "Stockholm Municipality",
       "country": "Sweden",
       "lat": 59.328611111,
       "lon": 18.078055555,
@@ -6896,7 +7896,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6921,7 +7921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6946,7 +7946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6958,9 +7958,9 @@
       "attribution": "Accepted",
       "artistId": "jacques-louis-david",
       "artistName": "Jacques-Louis David",
-      "locationId": "nationalmuseum-stockholm",
+      "locationId": "nationalmuseum-stockholm-municipality",
       "location": "Nationalmuseum",
-      "city": "Stockholm",
+      "city": "Stockholm Municipality",
       "country": "Sweden",
       "lat": 59.328611111,
       "lon": 18.078055555,
@@ -6971,7 +7971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6983,9 +7983,9 @@
       "attribution": "Accepted",
       "artistId": "jacques-louis-david",
       "artistName": "Jacques-Louis David",
-      "locationId": "nationalmuseum-stockholm",
+      "locationId": "nationalmuseum-stockholm-municipality",
       "location": "Nationalmuseum",
-      "city": "Stockholm",
+      "city": "Stockholm Municipality",
       "country": "Sweden",
       "lat": 59.328611111,
       "lon": 18.078055555,
@@ -6996,7 +7996,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7008,9 +8008,9 @@
       "attribution": "Accepted",
       "artistId": "jacques-louis-david",
       "artistName": "Jacques-Louis David",
-      "locationId": "nationalmuseum-stockholm",
+      "locationId": "nationalmuseum-stockholm-municipality",
       "location": "Nationalmuseum",
-      "city": "Stockholm",
+      "city": "Stockholm Municipality",
       "country": "Sweden",
       "lat": 59.328611111,
       "lon": 18.078055555,
@@ -7021,7 +8021,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7046,7 +8046,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7071,7 +8071,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7083,9 +8083,9 @@
       "attribution": "Accepted",
       "artistId": "jacques-louis-david",
       "artistName": "Jacques-Louis David",
-      "locationId": "nationalmuseum-stockholm",
+      "locationId": "nationalmuseum-stockholm-municipality",
       "location": "Nationalmuseum",
-      "city": "Stockholm",
+      "city": "Stockholm Municipality",
       "country": "Sweden",
       "lat": 59.328611111,
       "lon": 18.078055555,
@@ -7096,7 +8096,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7121,7 +8121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7133,9 +8133,9 @@
       "attribution": "Accepted",
       "artistId": "jacques-louis-david",
       "artistName": "Jacques-Louis David",
-      "locationId": "nationalmuseum-stockholm",
+      "locationId": "nationalmuseum-stockholm-municipality",
       "location": "Nationalmuseum",
-      "city": "Stockholm",
+      "city": "Stockholm Municipality",
       "country": "Sweden",
       "lat": 59.328611111,
       "lon": 18.078055555,
@@ -7146,7 +8146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7171,7 +8171,32 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q2749266",
+      "title": "Portrait of Count Stanislas Potocki",
+      "date": "1780",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jacques-louis-david",
+      "artistName": "Jacques-Louis David",
+      "locationId": "palace-museum-in-wilanow-wilanow",
+      "location": "Palace Museum in Wilanów",
+      "city": "Wilanów",
+      "country": "Poland",
+      "lat": 52.16516667,
+      "lon": 21.09030833,
+      "source": "http://www.wikidata.org/entity/Q2749266",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jacques-Louis%20David%20-%20Equestrian%20portrait%20of%20Stanis%C5%82aw%20Kostka%20Potocki%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Self%20Portrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q83155",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7196,7 +8221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7221,7 +8246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7246,7 +8271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7271,7 +8296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7296,7 +8321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7321,7 +8346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7346,7 +8371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7371,7 +8396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7396,7 +8421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7421,7 +8446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7446,7 +8471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7471,7 +8496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7496,7 +8521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7521,7 +8546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7546,7 +8571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7571,7 +8596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7596,7 +8621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7621,32 +8646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q59201",
-      "title": "Napoleon Crossing the Alps",
-      "date": "1801",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "jacques-louis-david",
-      "artistName": "Jacques-Louis David",
-      "locationId": "rueil-malmaison-hauts-de-seine",
-      "location": "Rueil-Malmaison",
-      "city": "Hauts-de-Seine",
-      "country": "France",
-      "lat": 48.877777777,
-      "lon": 2.188333333,
-      "source": "http://www.wikidata.org/entity/Q59201",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20-%20Napoleon%20crossing%20the%20Alps%20-%20Malmaison2.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Self%20Portrait.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7671,7 +8671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7696,7 +8696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7721,7 +8721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7733,12 +8733,12 @@
       "attribution": "Accepted",
       "artistId": "jacques-louis-david",
       "artistName": "Jacques-Louis David",
-      "locationId": "vasari-corridor-florence",
-      "location": "Vasari Corridor",
+      "locationId": "uffizi-gallery-florence",
+      "location": "Uffizi Gallery",
       "city": "Florence",
       "country": "Italy",
-      "lat": 43.768997,
-      "lon": 11.256379,
+      "lat": 43.768333333,
+      "lon": 11.255277777,
       "source": "http://www.wikidata.org/entity/Q2872721",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jacques%20Louis%20David%20auto%20portrait%20Florence.jpg",
@@ -7746,7 +8746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7771,7 +8771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q83155",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     }

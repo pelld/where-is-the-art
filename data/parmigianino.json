@@ -21,7 +21,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9348",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -46,7 +46,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9348",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -71,7 +71,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9348",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -96,32 +96,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9348",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q1896483",
-      "title": "Madonna and Child",
-      "date": "1528",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "parmigianino",
-      "artistName": "Parmigianino",
-      "locationId": "collection-unknown-fort-worth",
-      "location": "Collection unknown",
-      "city": "Fort Worth",
-      "country": "United States",
-      "lat": 32.748611111,
-      "lon": -97.365,
-      "source": "http://www.wikidata.org/entity/Q1896483",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%27The%20Madonna%20and%20Child%27%2C%20oil%20on%20panel%20painting%20by%20Parmigianino%20%28Girolamo%20Francesco%20Maria%20Mazzola%29.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Parmigianino%20Selfportrait.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q9348",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -146,7 +121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9348",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -171,7 +146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9348",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -196,7 +171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9348",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -221,7 +196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9348",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -246,7 +221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9348",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -271,7 +246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9348",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -296,7 +271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9348",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -321,7 +296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9348",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -346,7 +321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9348",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -371,7 +346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9348",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -387,8 +362,8 @@
       "location": "Courtauld Gallery",
       "city": "City of Westminster",
       "country": "United Kingdom",
-      "lat": 51.51083333,
-      "lon": -0.11722222,
+      "lat": 51.511568,
+      "lon": -0.117712,
       "source": "http://www.wikidata.org/entity/Q3842425",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Parmigianino%2C%20madonna%20col%20bambino%20courtauld%20galleries.jpg",
@@ -396,7 +371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9348",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -412,8 +387,8 @@
       "location": "Courtauld Gallery",
       "city": "City of Westminster",
       "country": "United Kingdom",
-      "lat": 51.51083333,
-      "lon": -0.11722222,
+      "lat": 51.511568,
+      "lon": -0.117712,
       "source": "http://www.wikidata.org/entity/Q3873235",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Parmigianino%20-%20Rest%20on%20the%20Flight%20into%20Egypt%2C%201523%E2%80%931524%2C%20P.1978.PG.308.jpg",
@@ -421,7 +396,32 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9348",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q3851963",
+      "title": "Mystic Marriage of St. Catherine",
+      "date": "1528",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "parmigianino",
+      "artistName": "Parmigianino",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q3851963",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Le%20Mariage%20mystique%20de%20sainte%20Catherine%20-%20Parmigianino%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20RF%201992%20411.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Parmigianino%20Selfportrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q9348",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -446,7 +446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9348",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -471,7 +471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9348",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -496,7 +496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9348",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -521,7 +521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9348",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -546,7 +546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9348",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -571,7 +571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9348",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -596,7 +596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9348",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -621,7 +621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9348",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -646,7 +646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9348",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -671,7 +671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9348",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -696,7 +696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9348",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -721,7 +721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9348",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -746,7 +746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9348",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -771,7 +771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9348",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -796,7 +796,32 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9348",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q1896483",
+      "title": "Madonna and Child",
+      "date": "1528",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "parmigianino",
+      "artistName": "Parmigianino",
+      "locationId": "kimbell-art-museum-fort-worth",
+      "location": "Kimbell Art Museum",
+      "city": "Fort Worth",
+      "country": "United States",
+      "lat": 32.748611111,
+      "lon": -97.365,
+      "source": "http://www.wikidata.org/entity/Q1896483",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%27The%20Madonna%20and%20Child%27%2C%20oil%20on%20panel%20painting%20by%20Parmigianino%20%28Girolamo%20Francesco%20Maria%20Mazzola%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Parmigianino%20Selfportrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q9348",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -821,7 +846,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9348",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -846,7 +871,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9348",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -871,7 +896,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9348",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -896,7 +921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9348",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -921,7 +946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9348",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -946,7 +971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9348",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -971,82 +996,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9348",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q123537647",
-      "title": "Untitled record",
-      "date": "1788",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "parmigianino",
-      "artistName": "Parmigianino",
-      "locationId": "musee-des-beaux-arts-de-rennes-rennes",
-      "location": "Musée des Beaux-Arts de Rennes",
-      "city": "Rennes",
-      "country": "France",
-      "lat": 48.109444,
-      "lon": -1.675,
-      "source": "http://www.wikidata.org/entity/Q123537647",
-      "image": "",
-      "externalImage": "",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Parmigianino%20Selfportrait.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q9348",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q123551011",
-      "title": "Untitled record",
-      "date": "1501",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "parmigianino",
-      "artistName": "Parmigianino",
-      "locationId": "musee-des-beaux-arts-de-rennes-rennes",
-      "location": "Musée des Beaux-Arts de Rennes",
-      "city": "Rennes",
-      "country": "France",
-      "lat": 48.109444,
-      "lon": -1.675,
-      "source": "http://www.wikidata.org/entity/Q123551011",
-      "image": "",
-      "externalImage": "",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Parmigianino%20Selfportrait.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q9348",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q123510136",
-      "title": "Untitled record",
-      "date": "1601",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "parmigianino",
-      "artistName": "Parmigianino",
-      "locationId": "musee-des-beaux-arts-de-rennes-rennes",
-      "location": "Musée des Beaux-Arts de Rennes",
-      "city": "Rennes",
-      "country": "France",
-      "lat": 48.109444,
-      "lon": -1.675,
-      "source": "http://www.wikidata.org/entity/Q123510136",
-      "image": "",
-      "externalImage": "",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Parmigianino%20Selfportrait.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q9348",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1071,7 +1021,32 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9348",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q123563650",
+      "title": "Untitled record",
+      "date": "1601",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "parmigianino",
+      "artistName": "Parmigianino",
+      "locationId": "musee-des-beaux-arts-de-rennes-rennes",
+      "location": "Musée des Beaux-Arts de Rennes",
+      "city": "Rennes",
+      "country": "France",
+      "lat": 48.109444,
+      "lon": -1.675,
+      "source": "http://www.wikidata.org/entity/Q123563650",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Parmigianino%20Selfportrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q9348",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1096,7 +1071,57 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9348",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q123511783",
+      "title": "Untitled record",
+      "date": "1501",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "parmigianino",
+      "artistName": "Parmigianino",
+      "locationId": "musee-des-beaux-arts-de-rennes-rennes",
+      "location": "Musée des Beaux-Arts de Rennes",
+      "city": "Rennes",
+      "country": "France",
+      "lat": 48.109444,
+      "lon": -1.675,
+      "source": "http://www.wikidata.org/entity/Q123511783",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Parmigianino%20Selfportrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q9348",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q123509581",
+      "title": "Untitled record",
+      "date": "1788",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "parmigianino",
+      "artistName": "Parmigianino",
+      "locationId": "musee-des-beaux-arts-de-rennes-rennes",
+      "location": "Musée des Beaux-Arts de Rennes",
+      "city": "Rennes",
+      "country": "France",
+      "lat": 48.109444,
+      "lon": -1.675,
+      "source": "http://www.wikidata.org/entity/Q123509581",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Parmigianino%20Selfportrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q9348",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1121,7 +1146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9348",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1146,7 +1171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9348",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1171,7 +1196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9348",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1196,7 +1221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9348",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1221,7 +1246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9348",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1246,7 +1271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9348",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1271,7 +1296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9348",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1296,7 +1321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9348",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1321,7 +1346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9348",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1346,7 +1371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9348",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1371,7 +1396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9348",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1396,7 +1421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9348",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1421,7 +1446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9348",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1446,7 +1471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9348",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1471,7 +1496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9348",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1496,7 +1521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9348",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1521,7 +1546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9348",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1537,8 +1562,8 @@
       "location": "National Museum of Art, Architecture and Design",
       "city": "Oslo",
       "country": "Norway",
-      "lat": 59.91162657,
-      "lon": 10.729235164,
+      "lat": 59.911666666,
+      "lon": 10.729166666,
       "source": "http://www.wikidata.org/entity/Q129978661",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Parmigianino%20-%20Saint%20Cecilia%20-%20NG.K%26H.B.15274%20-%20National%20Museum%20of%20Art%2C%20Architecture%20and%20Design.jpg",
@@ -1546,7 +1571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9348",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1571,7 +1596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9348",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1583,9 +1608,9 @@
       "attribution": "Accepted",
       "artistId": "parmigianino",
       "artistName": "Parmigianino",
-      "locationId": "nationalmuseum-stockholm",
+      "locationId": "nationalmuseum-stockholm-municipality",
       "location": "Nationalmuseum",
-      "city": "Stockholm",
+      "city": "Stockholm Municipality",
       "country": "Sweden",
       "lat": 59.328611111,
       "lon": 18.078055555,
@@ -1596,7 +1621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9348",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1608,9 +1633,9 @@
       "attribution": "Accepted",
       "artistId": "parmigianino",
       "artistName": "Parmigianino",
-      "locationId": "nationalmuseum-stockholm",
+      "locationId": "nationalmuseum-stockholm-municipality",
       "location": "Nationalmuseum",
-      "city": "Stockholm",
+      "city": "Stockholm Municipality",
       "country": "Sweden",
       "lat": 59.328611111,
       "lon": 18.078055555,
@@ -1621,7 +1646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9348",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1633,9 +1658,9 @@
       "attribution": "Accepted",
       "artistId": "parmigianino",
       "artistName": "Parmigianino",
-      "locationId": "nationalmuseum-stockholm",
+      "locationId": "nationalmuseum-stockholm-municipality",
       "location": "Nationalmuseum",
-      "city": "Stockholm",
+      "city": "Stockholm Municipality",
       "country": "Sweden",
       "lat": 59.328611111,
       "lon": 18.078055555,
@@ -1646,7 +1671,32 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9348",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q110745380",
+      "title": "Draped Woman Seated to the Front Holding a Globe in her Right Hand, a Staff in her left",
+      "date": "Date unknown",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "parmigianino",
+      "artistName": "Parmigianino",
+      "locationId": "nationalmuseum-stockholm-municipality",
+      "location": "Nationalmuseum",
+      "city": "Stockholm Municipality",
+      "country": "Sweden",
+      "lat": 59.328611111,
+      "lon": 18.078055555,
+      "source": "http://www.wikidata.org/entity/Q110745380",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Parmigianino%20-%20Draped%20Woman%20Seated%20to%20the%20Front%20Holding%20a%20Globe%20in%20her%20Right%20Hand%2C%20a%20Staff%20in%20her%20left%2C%20NMH%202461863.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Parmigianino%20Selfportrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q9348",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1671,7 +1721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9348",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1683,9 +1733,9 @@
       "attribution": "Accepted",
       "artistId": "parmigianino",
       "artistName": "Parmigianino",
-      "locationId": "nationalmuseum-stockholm",
+      "locationId": "nationalmuseum-stockholm-municipality",
       "location": "Nationalmuseum",
-      "city": "Stockholm",
+      "city": "Stockholm Municipality",
       "country": "Sweden",
       "lat": 59.328611111,
       "lon": 18.078055555,
@@ -1696,7 +1746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9348",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1708,9 +1758,9 @@
       "attribution": "Accepted",
       "artistId": "parmigianino",
       "artistName": "Parmigianino",
-      "locationId": "nationalmuseum-stockholm",
+      "locationId": "nationalmuseum-stockholm-municipality",
       "location": "Nationalmuseum",
-      "city": "Stockholm",
+      "city": "Stockholm Municipality",
       "country": "Sweden",
       "lat": 59.328611111,
       "lon": 18.078055555,
@@ -1721,7 +1771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9348",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1746,7 +1796,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9348",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1771,7 +1821,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9348",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1796,7 +1846,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9348",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1808,9 +1858,9 @@
       "attribution": "Accepted",
       "artistId": "parmigianino",
       "artistName": "Parmigianino",
-      "locationId": "nationalmuseum-stockholm",
+      "locationId": "nationalmuseum-stockholm-municipality",
       "location": "Nationalmuseum",
-      "city": "Stockholm",
+      "city": "Stockholm Municipality",
       "country": "Sweden",
       "lat": 59.328611111,
       "lon": 18.078055555,
@@ -1821,7 +1871,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9348",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1833,9 +1883,9 @@
       "attribution": "Accepted",
       "artistId": "parmigianino",
       "artistName": "Parmigianino",
-      "locationId": "nationalmuseum-stockholm",
+      "locationId": "nationalmuseum-stockholm-municipality",
       "location": "Nationalmuseum",
-      "city": "Stockholm",
+      "city": "Stockholm Municipality",
       "country": "Sweden",
       "lat": 59.328611111,
       "lon": 18.078055555,
@@ -1846,7 +1896,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9348",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1858,9 +1908,9 @@
       "attribution": "Accepted",
       "artistId": "parmigianino",
       "artistName": "Parmigianino",
-      "locationId": "nationalmuseum-stockholm",
+      "locationId": "nationalmuseum-stockholm-municipality",
       "location": "Nationalmuseum",
-      "city": "Stockholm",
+      "city": "Stockholm Municipality",
       "country": "Sweden",
       "lat": 59.328611111,
       "lon": 18.078055555,
@@ -1871,7 +1921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9348",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1896,7 +1946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9348",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1908,9 +1958,9 @@
       "attribution": "Accepted",
       "artistId": "parmigianino",
       "artistName": "Parmigianino",
-      "locationId": "nationalmuseum-stockholm",
+      "locationId": "nationalmuseum-stockholm-municipality",
       "location": "Nationalmuseum",
-      "city": "Stockholm",
+      "city": "Stockholm Municipality",
       "country": "Sweden",
       "lat": 59.328611111,
       "lon": 18.078055555,
@@ -1921,7 +1971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9348",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1933,9 +1983,9 @@
       "attribution": "Accepted",
       "artistId": "parmigianino",
       "artistName": "Parmigianino",
-      "locationId": "nationalmuseum-stockholm",
+      "locationId": "nationalmuseum-stockholm-municipality",
       "location": "Nationalmuseum",
-      "city": "Stockholm",
+      "city": "Stockholm Municipality",
       "country": "Sweden",
       "lat": 59.328611111,
       "lon": 18.078055555,
@@ -1946,7 +1996,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9348",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1971,7 +2021,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9348",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1996,7 +2046,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9348",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2021,7 +2071,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9348",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2046,7 +2096,107 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9348",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q3858368",
+      "title": "Pallas Athena",
+      "date": "1534",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "parmigianino",
+      "artistName": "Parmigianino",
+      "locationId": "royal-collection-location-unknown",
+      "location": "Royal Collection",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 51.501,
+      "lon": -0.142,
+      "source": "http://www.wikidata.org/entity/Q3858368",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Parmigianino%20%28Parma%201503-Casalmaggiore%201540%29%20-%20Pallas%20Athena%20-%20RCIN%20405765%20-%20Royal%20Collection.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Parmigianino%20Selfportrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q9348",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q28035519",
+      "title": "Portrait of a Young Nobleman",
+      "date": "1531",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "parmigianino",
+      "artistName": "Parmigianino",
+      "locationId": "royal-collection-location-unknown",
+      "location": "Royal Collection",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 51.501,
+      "lon": -0.142,
+      "source": "http://www.wikidata.org/entity/Q28035519",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Parmigianino%20%28Parma%201503-Casalmaggiore%201540%29%20-%20Portrait%20of%20a%20Young%20Nobleman%20-%20RCIN%20406025%20-%20Royal%20Collection.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Parmigianino%20Selfportrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q9348",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q131396659",
+      "title": "Self-portrait",
+      "date": "1524",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "parmigianino",
+      "artistName": "Parmigianino",
+      "locationId": "royal-collection-location-unknown",
+      "location": "Royal Collection",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 51.501,
+      "lon": -0.142,
+      "source": "http://www.wikidata.org/entity/Q131396659",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Parmigianino%20-%20A%20self-portrait%20c.%201524%2C%20RCIN%20990529.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Parmigianino%20Selfportrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q9348",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q3937704",
+      "title": "Untitled record",
+      "date": "1529",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "parmigianino",
+      "artistName": "Parmigianino",
+      "locationId": "royal-collection-location-unknown",
+      "location": "Royal Collection",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 51.501,
+      "lon": -0.142,
+      "source": "http://www.wikidata.org/entity/Q3937704",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Parmigianino%2C%20ritratto%20di%20giovane%20hampoton%20court.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Parmigianino%20Selfportrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q9348",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2071,7 +2221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9348",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2096,7 +2246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9348",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2121,7 +2271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9348",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2146,7 +2296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9348",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2171,7 +2321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9348",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2196,7 +2346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9348",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2221,7 +2371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9348",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2246,7 +2396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9348",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2271,7 +2421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9348",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2296,7 +2446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9348",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2321,7 +2471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9348",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2346,7 +2496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9348",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2371,7 +2521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9348",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2396,7 +2546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9348",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2421,7 +2571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9348",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2446,7 +2596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9348",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2471,7 +2621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9348",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2496,7 +2646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q9348",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     }

@@ -1,6 +1,31 @@
 {
   "artworks": [
     {
+      "id": "Q107340201",
+      "title": "Woman and Child in a Meadow at Bougival",
+      "date": "1882",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "berthe-morisot",
+      "artistName": "Berthe Morisot",
+      "locationId": "amgueddfa-cymru-museum-wales-wales",
+      "location": "Amgueddfa Cymru – Museum Wales",
+      "city": "Wales",
+      "country": "United Kingdom",
+      "lat": 51.485577,
+      "lon": -3.177128,
+      "source": "http://www.wikidata.org/entity/Q107340201",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Amgueddfa%20Cymru%20-%20Menyw%20a%20Phlentyn%20mewn%20D%C3%B4l%20yn%20Bougival%20-%20Woman%20and%20Child%20in%20a%20meadow%20at%20Bougival%20-%20222978.jpeg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Morisot%20berthe%20photo.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q105320",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
       "id": "Q83811607",
       "title": "The Flute Player",
       "date": "1890",
@@ -21,7 +46,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -46,7 +71,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -71,7 +96,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -96,7 +121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -121,7 +146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -146,7 +171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -171,7 +196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -196,7 +221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -221,7 +246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -246,7 +271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -271,7 +296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -296,7 +321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -321,7 +346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -346,32 +371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q83507822",
-      "title": "Untitled record",
-      "date": "1882",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "berthe-morisot",
-      "artistName": "Berthe Morisot",
-      "locationId": "collection-bemberg-toulouse",
-      "location": "Collection Bemberg",
-      "city": "Toulouse",
-      "country": "France",
-      "lat": 43.6003,
-      "lon": 1.44206,
-      "source": "http://www.wikidata.org/entity/Q83507822",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bemberg%20Fondation%20Toulouse%20-%20Femme%20au%20jardin%20%28Villa%20Arnulphi%20%C3%A0%20Nice%29%20-%20Berthe%20Morisot%201882%20Inv.2113%2056x33.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Morisot%20berthe%20photo.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -396,7 +396,32 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q83507822",
+      "title": "Untitled record",
+      "date": "1882",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "berthe-morisot",
+      "artistName": "Berthe Morisot",
+      "locationId": "collection-bemberg-toulouse",
+      "location": "Collection Bemberg",
+      "city": "Toulouse",
+      "country": "France",
+      "lat": 43.6003,
+      "lon": 1.44206,
+      "source": "http://www.wikidata.org/entity/Q83507822",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bemberg%20Fondation%20Toulouse%20-%20Femme%20au%20jardin%20%28Villa%20Arnulphi%20%C3%A0%20Nice%29%20-%20Berthe%20Morisot%201882%20Inv.2113%2056x33.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Morisot%20berthe%20photo.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q105320",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -421,7 +446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -446,7 +471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -471,7 +496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -496,7 +521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -521,7 +546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -546,7 +571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -571,7 +596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -596,7 +621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -621,7 +646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -646,7 +671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -671,7 +696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -696,7 +721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -721,7 +746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -746,7 +771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -771,7 +796,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -796,7 +821,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -821,7 +846,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -846,7 +871,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -871,7 +896,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -896,7 +921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -921,7 +946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -946,7 +971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -971,7 +996,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -996,7 +1021,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1021,7 +1046,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1046,7 +1071,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1071,7 +1096,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1096,7 +1121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1121,7 +1146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1146,7 +1171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1171,7 +1196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1196,7 +1221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1221,7 +1246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1233,10 +1258,10 @@
       "attribution": "Accepted",
       "artistId": "berthe-morisot",
       "artistName": "Berthe Morisot",
-      "locationId": "denver-art-museum-denver-county",
+      "locationId": "denver-art-museum-location-unknown",
       "location": "Denver Art Museum",
-      "city": "Denver County",
-      "country": "United States",
+      "city": "Location unknown",
+      "country": "Country unknown",
       "lat": 39.737188,
       "lon": -104.989345,
       "source": "http://www.wikidata.org/entity/Q106925091",
@@ -1246,7 +1271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1258,10 +1283,10 @@
       "attribution": "Accepted",
       "artistId": "berthe-morisot",
       "artistName": "Berthe Morisot",
-      "locationId": "denver-art-museum-denver-county",
+      "locationId": "denver-art-museum-location-unknown",
       "location": "Denver Art Museum",
-      "city": "Denver County",
-      "country": "United States",
+      "city": "Location unknown",
+      "country": "Country unknown",
       "lat": 39.737188,
       "lon": -104.989345,
       "source": "http://www.wikidata.org/entity/Q106925116",
@@ -1271,7 +1296,32 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q113086488",
+      "title": "Portrait of madame Pillaut",
+      "date": "1895",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "berthe-morisot",
+      "artistName": "Berthe Morisot",
+      "locationId": "department-of-prints-and-drawings-of-the-louvre-location-unknown",
+      "location": "Department of Prints and Drawings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111111,
+      "lon": 2.335833333,
+      "source": "http://www.wikidata.org/entity/Q113086488",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Morisot%20-%20rosalie-reisener.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Morisot%20berthe%20photo.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q105320",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1296,7 +1346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1321,7 +1371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1346,7 +1396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1371,7 +1421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1396,7 +1446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1421,7 +1471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1446,7 +1496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1471,7 +1521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1496,7 +1546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1521,7 +1571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1546,7 +1596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1571,7 +1621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1596,7 +1646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1621,7 +1671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1646,7 +1696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1671,7 +1721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1696,7 +1746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1721,7 +1771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1746,7 +1796,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1771,7 +1821,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1796,7 +1846,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1821,7 +1871,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1846,7 +1896,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1871,7 +1921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1896,7 +1946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1921,7 +1971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1946,7 +1996,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1971,7 +2021,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1996,7 +2046,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2021,7 +2071,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2046,7 +2096,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2071,7 +2121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2096,7 +2146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2121,7 +2171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2146,7 +2196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2166,12 +2216,12 @@
       "lon": 2.326527,
       "source": "http://www.wikidata.org/entity/Q5966403",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Berthe%20Morisot%20-%20The%20Cradle%20-%20Google%20Art%20Project.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Berthe%20Morisot%20-%20Le%20berceau.jpg",
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Morisot%20berthe%20photo.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2196,7 +2246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2221,7 +2271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2246,7 +2296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2271,7 +2321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2296,7 +2346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2321,7 +2371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2346,7 +2396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2371,7 +2421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2396,7 +2446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2421,7 +2471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2446,7 +2496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2471,7 +2521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2496,7 +2546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2521,7 +2571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2546,7 +2596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2571,7 +2621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2596,7 +2646,32 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q105099642",
+      "title": "Le Repas chez Simon, d'après Paolo Veronese",
+      "date": "1860",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "berthe-morisot",
+      "artistName": "Berthe Morisot",
+      "locationId": "musee-marmottan-monet-16th-arrondissement-of-paris",
+      "location": "Musée Marmottan Monet",
+      "city": "16th arrondissement of Paris",
+      "country": "France",
+      "lat": 48.859279605,
+      "lon": 2.267383323,
+      "source": "http://www.wikidata.org/entity/Q105099642",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Morisot%20berthe%20photo.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q105320",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2621,7 +2696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2646,7 +2721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2671,7 +2746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2696,7 +2771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2721,7 +2796,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2746,32 +2821,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q105099642",
-      "title": "Untitled record",
-      "date": "1860",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "berthe-morisot",
-      "artistName": "Berthe Morisot",
-      "locationId": "musee-marmottan-monet-16th-arrondissement-of-paris",
-      "location": "Musée Marmottan Monet",
-      "city": "16th arrondissement of Paris",
-      "country": "France",
-      "lat": 48.859279605,
-      "lon": 2.267383323,
-      "source": "http://www.wikidata.org/entity/Q105099642",
-      "image": "",
-      "externalImage": "",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Morisot%20berthe%20photo.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2796,7 +2846,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2821,7 +2871,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2846,7 +2896,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2871,7 +2921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2896,7 +2946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2921,7 +2971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2946,7 +2996,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2971,7 +3021,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2996,7 +3046,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3021,7 +3071,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3046,7 +3096,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3071,7 +3121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3096,7 +3146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3121,7 +3171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3146,7 +3196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3171,7 +3221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3196,7 +3246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3221,7 +3271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3246,7 +3296,57 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q65966733",
+      "title": "Portrait of Madame Hubbard",
+      "date": "1874",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "berthe-morisot",
+      "artistName": "Berthe Morisot",
+      "locationId": "museum-ordrupgaard-gentofte-municipality",
+      "location": "Museum Ordrupgaard",
+      "city": "Gentofte Municipality",
+      "country": "Denmark",
+      "lat": 55.766944,
+      "lon": 12.563333,
+      "source": "http://www.wikidata.org/entity/Q65966733",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Morisot%20-%20Portrait%20de%20madame%20Hubard.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Morisot%20berthe%20photo.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q105320",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q65966433",
+      "title": "Young Girl with Cage",
+      "date": "1885",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "berthe-morisot",
+      "artistName": "Berthe Morisot",
+      "locationId": "museum-ordrupgaard-gentofte-municipality",
+      "location": "Museum Ordrupgaard",
+      "city": "Gentofte Municipality",
+      "country": "Denmark",
+      "lat": 55.766944,
+      "lon": 12.563333,
+      "source": "http://www.wikidata.org/entity/Q65966433",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Berthe%20Morisot%20-%20Le%20corsage%20rouge%20-%20Ordrupgaard.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Morisot%20berthe%20photo.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q105320",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3271,32 +3371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q26505093",
-      "title": "Girl on a Divan",
-      "date": "1885",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "berthe-morisot",
-      "artistName": "Berthe Morisot",
-      "locationId": "national-gallery-city-of-westminster",
-      "location": "National Gallery",
-      "city": "City of Westminster",
-      "country": "United Kingdom",
-      "lat": 51.508888888,
-      "lon": -0.128333333,
-      "source": "http://www.wikidata.org/entity/Q26505093",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Berthe%20Morisot%20%281841-1895%29%20-%20Girl%20on%20a%20Divan%20%28Jeune%20femme%20au%20divan%29%20-%20L720%20-%20National%20Gallery.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Morisot%20berthe%20photo.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3321,7 +3396,32 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q141176594",
+      "title": "Embroidery",
+      "date": "1889",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "berthe-morisot",
+      "artistName": "Berthe Morisot",
+      "locationId": "national-gallery-of-victoria-city-of-melbourne",
+      "location": "National Gallery of Victoria",
+      "city": "City of Melbourne",
+      "country": "Australia",
+      "lat": -37.8225,
+      "lon": 144.968888888,
+      "source": "http://www.wikidata.org/entity/Q141176594",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Morisot%20-%20Embroidery%2C%201889%2C%202022.1526.png",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Morisot%20berthe%20photo.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q105320",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3337,8 +3437,8 @@
       "location": "National Museum of Art, Architecture and Design",
       "city": "Oslo",
       "country": "Norway",
-      "lat": 59.91162657,
-      "lon": 10.729235164,
+      "lat": 59.911666666,
+      "lon": 10.729166666,
       "source": "http://www.wikidata.org/entity/Q55432230",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Berthe%20Morisot%20-%20On%20the%20Banks%20of%20the%20Seine%20at%20Bougival%20-%20NG.M.01544%20-%20National%20Museum%20of%20Art%2C%20Architecture%20and%20Design.jpg",
@@ -3346,7 +3446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3371,7 +3471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3396,7 +3496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3421,7 +3521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3446,7 +3546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3458,9 +3558,9 @@
       "attribution": "Accepted",
       "artistId": "berthe-morisot",
       "artistName": "Berthe Morisot",
-      "locationId": "nationalmuseum-stockholm",
+      "locationId": "nationalmuseum-stockholm-municipality",
       "location": "Nationalmuseum",
-      "city": "Stockholm",
+      "city": "Stockholm Municipality",
       "country": "Sweden",
       "lat": 59.328611111,
       "lon": 18.078055555,
@@ -3471,7 +3571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3496,7 +3596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3521,7 +3621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3546,7 +3646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3571,7 +3671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3596,57 +3696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q65966733",
-      "title": "Portrait of Madame Hubbard",
-      "date": "1874",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "berthe-morisot",
-      "artistName": "Berthe Morisot",
-      "locationId": "ordrupgaard-gentofte-municipality",
-      "location": "Ordrupgaard",
-      "city": "Gentofte Municipality",
-      "country": "Denmark",
-      "lat": 55.766944,
-      "lon": 12.563333,
-      "source": "http://www.wikidata.org/entity/Q65966733",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Morisot%20-%20Portrait%20de%20madame%20Hubard.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Morisot%20berthe%20photo.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q65966433",
-      "title": "Young Girl with Cage",
-      "date": "1885",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "berthe-morisot",
-      "artistName": "Berthe Morisot",
-      "locationId": "ordrupgaard-gentofte-municipality",
-      "location": "Ordrupgaard",
-      "city": "Gentofte Municipality",
-      "country": "Denmark",
-      "lat": 55.766944,
-      "lon": 12.563333,
-      "source": "http://www.wikidata.org/entity/Q65966433",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Berthe%20Morisot%20-%20Le%20corsage%20rouge%20-%20Ordrupgaard.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Morisot%20berthe%20photo.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3671,7 +3721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3696,7 +3746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3721,7 +3771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3746,7 +3796,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3771,7 +3821,32 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q26505093",
+      "title": "Girl on a Divan",
+      "date": "1885",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "berthe-morisot",
+      "artistName": "Berthe Morisot",
+      "locationId": "tate-city-of-westminster",
+      "location": "Tate",
+      "city": "City of Westminster",
+      "country": "United Kingdom",
+      "lat": 51.491062,
+      "lon": -0.127789,
+      "source": "http://www.wikidata.org/entity/Q26505093",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Berthe%20Morisot%20%281841-1895%29%20-%20Girl%20on%20a%20Divan%20%28Jeune%20femme%20au%20divan%29%20-%20L720%20-%20National%20Gallery.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Morisot%20berthe%20photo.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q105320",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3796,7 +3871,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3821,7 +3896,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3846,7 +3921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3871,7 +3946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3896,7 +3971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3921,7 +3996,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3946,7 +4021,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3971,7 +4046,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3996,7 +4071,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4021,7 +4096,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4037,8 +4112,8 @@
       "location": "Tokyo Fuji Art Museum",
       "city": "Yanomachi",
       "country": "Japan",
-      "lat": 35.686455,
-      "lon": 139.329493,
+      "lat": 35.686304,
+      "lon": 139.329079,
       "source": "http://www.wikidata.org/entity/Q79889801",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Morisot%20-%20On%20the%20Terrace%2C%201874.jpg",
@@ -4046,7 +4121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4071,7 +4146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4096,7 +4171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4121,14 +4196,14 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
     {
       "id": "Q23008978",
       "title": "The Jetty",
-      "date": "1880",
+      "date": "1875",
       "type": "Painting",
       "attribution": "Accepted",
       "artistId": "berthe-morisot",
@@ -4146,7 +4221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4171,7 +4246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4196,7 +4271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4221,7 +4296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4246,7 +4321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4271,7 +4346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4296,7 +4371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q105320",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     }

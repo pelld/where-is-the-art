@@ -21,7 +21,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -46,7 +46,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -71,7 +71,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -96,7 +96,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -121,7 +121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -146,7 +146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -171,7 +171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -196,7 +196,57 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q107340202",
+      "title": "Sunset, Port of Rouen (Steamboats)",
+      "date": "1898",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "camille-pissarro",
+      "artistName": "Camille Pissarro",
+      "locationId": "amgueddfa-cymru-museum-wales-wales",
+      "location": "Amgueddfa Cymru – Museum Wales",
+      "city": "Wales",
+      "country": "United Kingdom",
+      "lat": 51.485577,
+      "lon": -3.177128,
+      "source": "http://www.wikidata.org/entity/Q107340202",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Amgueddfa%20Cymru%20-%20Machlud%20Haul%2C%20Porthladd%20Rouen%20%28Llongau%20Ager%29%20-%20Sunset%2C%20the%20Port%20of%20Rouen%20%28Steamboats%29%20-%20210730.jpeg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q134741",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q22675575",
+      "title": "The Pont-Neuf, Effect of Snow (Second Series)",
+      "date": "1902",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "camille-pissarro",
+      "artistName": "Camille Pissarro",
+      "locationId": "amgueddfa-cymru-museum-wales-wales",
+      "location": "Amgueddfa Cymru – Museum Wales",
+      "city": "Wales",
+      "country": "United Kingdom",
+      "lat": 51.485577,
+      "lon": -3.177128,
+      "source": "http://www.wikidata.org/entity/Q22675575",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Amgueddfa%20Cymru%20-%20Pont%20Neuf%2C%20Effaith%20Eira%2C%20ail%20gyfres%20-%20Pont%20Neuf%2C%20Snow%20Effect%2C%202nd%20series%20-%202690.jpeg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q134741",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -221,7 +271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -246,7 +296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -271,7 +321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -296,7 +346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -321,7 +371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -346,7 +396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -371,7 +421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -396,7 +446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -421,7 +471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -446,7 +496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -471,7 +521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -496,7 +546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -521,7 +571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -546,7 +596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -571,7 +621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -596,7 +646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -621,7 +671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -646,7 +696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -671,7 +721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -696,7 +746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -721,7 +771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -746,7 +796,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -771,7 +821,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -796,7 +846,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -821,7 +871,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -846,7 +896,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -871,7 +921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -896,7 +946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -921,7 +971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -946,7 +996,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -971,7 +1021,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -996,7 +1046,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1021,7 +1071,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1046,7 +1096,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1071,7 +1121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1096,7 +1146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1121,7 +1171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1146,7 +1196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1171,7 +1221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1196,7 +1246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1221,7 +1271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1246,7 +1296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1271,7 +1321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1296,7 +1346,32 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q98152415",
+      "title": "Le Pont Boieldieu, Rouen, Soleil Couchant [The Pont Boieldieu at Sunset]",
+      "date": "1896",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "camille-pissarro",
+      "artistName": "Camille Pissarro",
+      "locationId": "birmingham-museums-trust-birmingham",
+      "location": "Birmingham Museums Trust",
+      "city": "Birmingham",
+      "country": "United Kingdom",
+      "lat": 52.480278,
+      "lon": -1.903611,
+      "source": "http://www.wikidata.org/entity/Q98152415",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro%20-%20Le%20pont%20Boieldieu%20%C3%A0%20Rouen%2C%20soleil%20couchant%2C%201896.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q134741",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1321,7 +1396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1346,7 +1421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1371,7 +1446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1396,7 +1471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1421,7 +1496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1446,7 +1521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1458,9 +1533,9 @@
       "attribution": "Accepted",
       "artistId": "camille-pissarro",
       "artistName": "Camille Pissarro",
-      "locationId": "building-of-the-winterthur-museum-of-art-lind",
+      "locationId": "building-of-the-winterthur-museum-of-art-winterthur",
       "location": "Building of the Winterthur Museum of Art",
-      "city": "Lind",
+      "city": "Winterthur",
       "country": "Switzerland",
       "lat": 47.501517502,
       "lon": 8.730394267,
@@ -1471,7 +1546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1496,7 +1571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1521,7 +1596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1546,7 +1621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1571,7 +1646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1596,7 +1671,32 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q141243712",
+      "title": "Untitled record",
+      "date": "1853",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "camille-pissarro",
+      "artistName": "Camille Pissarro",
+      "locationId": "central-bank-of-venezuela-location-unknown",
+      "location": "Central Bank of Venezuela",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 10.51,
+      "lon": -66.9152,
+      "source": "http://www.wikidata.org/entity/Q141243712",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Vegetacion%20Tropical%20Camille%20Pissarro.JPG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q134741",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1621,7 +1721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1646,7 +1746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1671,7 +1771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1696,7 +1796,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1721,7 +1821,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1746,7 +1846,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1771,7 +1871,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1796,7 +1896,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1821,7 +1921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1846,7 +1946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1871,7 +1971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1896,7 +1996,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1921,7 +2021,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1946,7 +2046,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1971,7 +2071,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1996,7 +2096,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2021,7 +2121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2046,7 +2146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2071,7 +2171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2096,7 +2196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2121,7 +2221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2146,7 +2246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2171,7 +2271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2196,7 +2296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2221,7 +2321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2246,7 +2346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2271,7 +2371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2296,7 +2396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2321,7 +2421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2346,7 +2446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2371,7 +2471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2396,7 +2496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2421,7 +2521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2446,7 +2546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2471,12 +2571,12 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
     {
-      "id": "Q65222074",
+      "id": "Q65071095",
       "title": "Chestnut Vendors (Marchands de marrons)",
       "date": "1878",
       "type": "Painting",
@@ -2489,14 +2589,14 @@
       "country": "United States",
       "lat": 38.891388888,
       "lon": -77.02,
-      "source": "http://www.wikidata.org/entity/Q65222074",
+      "source": "http://www.wikidata.org/entity/Q65071095",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Pissarro%2C%20Chestnut%20Vendors%20%28Marchands%20de%20marrons%29%2C%201878%2C%20NGA%2042016.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Pissarro%2C%20Chestnut%20Vendors%20%28Marchands%20de%20marrons%29%2C%201878%2C%20NGA%2033410.jpg",
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2521,7 +2621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2546,7 +2646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2571,7 +2671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2596,7 +2696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2621,7 +2721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2646,7 +2746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2671,7 +2771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2696,7 +2796,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2721,7 +2821,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2746,7 +2846,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2771,7 +2871,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2796,7 +2896,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2821,7 +2921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2846,7 +2946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2871,7 +2971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2896,7 +2996,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2921,7 +3021,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2946,32 +3046,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q21403398",
-      "title": "Near Sydenham Hill",
-      "date": "1871",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "camille-pissarro",
-      "artistName": "Camille Pissarro",
-      "locationId": "collection-unknown-fort-worth",
-      "location": "Collection unknown",
-      "city": "Fort Worth",
-      "country": "United States",
-      "lat": 32.748611111,
-      "lon": -97.365,
-      "source": "http://www.wikidata.org/entity/Q21403398",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Pissarro%20-%20Near%20Sydenham%20Hill%20-%20Google%20Art%20Project.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2996,7 +3071,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3021,7 +3096,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3046,7 +3121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3071,7 +3146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3096,7 +3171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3121,7 +3196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3146,7 +3221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3171,7 +3246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3196,7 +3271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3221,7 +3296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3246,7 +3321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3271,7 +3346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3296,7 +3371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3321,7 +3396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3346,7 +3421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3371,7 +3446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3396,7 +3471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3421,7 +3496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3446,7 +3521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3471,7 +3546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3496,7 +3571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3521,7 +3596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3546,7 +3621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3571,7 +3646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3596,7 +3671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3621,7 +3696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3646,7 +3721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3671,7 +3746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3696,7 +3771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3721,7 +3796,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3746,7 +3821,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3771,7 +3846,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3796,7 +3871,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3821,7 +3896,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3846,7 +3921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3871,7 +3946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3896,7 +3971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3921,7 +3996,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3946,7 +4021,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3971,7 +4046,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3996,7 +4071,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4021,7 +4096,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4046,7 +4121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4071,7 +4146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4096,7 +4171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4121,7 +4196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4137,8 +4212,8 @@
       "location": "Courtauld Gallery",
       "city": "City of Westminster",
       "country": "United Kingdom",
-      "lat": 51.51083333,
-      "lon": -0.11722222,
+      "lat": 51.511568,
+      "lon": -0.117712,
       "source": "http://www.wikidata.org/entity/Q19973922",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Pissarro%20-%20Quais%20de%20Rouen%20%281883%29.jpg",
@@ -4146,7 +4221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4171,7 +4246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4196,7 +4271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4221,7 +4296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4246,7 +4321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4271,7 +4346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4296,7 +4371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4321,7 +4396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4346,7 +4421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4371,7 +4446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4396,7 +4471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4421,7 +4496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4433,10 +4508,10 @@
       "attribution": "Accepted",
       "artistId": "camille-pissarro",
       "artistName": "Camille Pissarro",
-      "locationId": "denver-art-museum-denver-county",
+      "locationId": "denver-art-museum-location-unknown",
       "location": "Denver Art Museum",
-      "city": "Denver County",
-      "country": "United States",
+      "city": "Location unknown",
+      "country": "Country unknown",
       "lat": 39.737188,
       "lon": -104.989345,
       "source": "http://www.wikidata.org/entity/Q21324788",
@@ -4446,7 +4521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4458,10 +4533,10 @@
       "attribution": "Accepted",
       "artistId": "camille-pissarro",
       "artistName": "Camille Pissarro",
-      "locationId": "denver-art-museum-denver-county",
+      "locationId": "denver-art-museum-location-unknown",
       "location": "Denver Art Museum",
-      "city": "Denver County",
-      "country": "United States",
+      "city": "Location unknown",
+      "country": "Country unknown",
       "lat": 39.737188,
       "lon": -104.989345,
       "source": "http://www.wikidata.org/entity/Q21293316",
@@ -4471,7 +4546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4483,10 +4558,10 @@
       "attribution": "Accepted",
       "artistId": "camille-pissarro",
       "artistName": "Camille Pissarro",
-      "locationId": "denver-art-museum-denver-county",
+      "locationId": "denver-art-museum-location-unknown",
       "location": "Denver Art Museum",
-      "city": "Denver County",
-      "country": "United States",
+      "city": "Location unknown",
+      "country": "Country unknown",
       "lat": 39.737188,
       "lon": -104.989345,
       "source": "http://www.wikidata.org/entity/Q106925243",
@@ -4496,7 +4571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4508,10 +4583,10 @@
       "attribution": "Accepted",
       "artistId": "camille-pissarro",
       "artistName": "Camille Pissarro",
-      "locationId": "denver-art-museum-denver",
+      "locationId": "denver-art-museum-location-unknown",
       "location": "Denver Art Museum",
-      "city": "Denver",
-      "country": "United States",
+      "city": "Location unknown",
+      "country": "Country unknown",
       "lat": 39.737188,
       "lon": -104.989345,
       "source": "http://www.wikidata.org/entity/Q22047671",
@@ -4521,7 +4596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4533,10 +4608,10 @@
       "attribution": "Accepted",
       "artistId": "camille-pissarro",
       "artistName": "Camille Pissarro",
-      "locationId": "denver-art-museum-denver-county",
+      "locationId": "denver-art-museum-location-unknown",
       "location": "Denver Art Museum",
-      "city": "Denver County",
-      "country": "United States",
+      "city": "Location unknown",
+      "country": "Country unknown",
       "lat": 39.737188,
       "lon": -104.989345,
       "source": "http://www.wikidata.org/entity/Q106925101",
@@ -4546,7 +4621,57 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q29654796",
+      "title": "Untitled record",
+      "date": "1895",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "camille-pissarro",
+      "artistName": "Camille Pissarro",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q29654796",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro%20-%20L%27ABREUVOIR%2C%201895.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q134741",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q29654795",
+      "title": "Untitled record",
+      "date": "1877",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "camille-pissarro",
+      "artistName": "Camille Pissarro",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q29654795",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro%20-%20Paysage%20%C3%A0%20Pontoise%2C%201877.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q134741",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4571,7 +4696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4596,7 +4721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4621,7 +4746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4646,7 +4771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4671,7 +4796,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4696,7 +4821,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4721,7 +4846,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4746,7 +4871,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4771,7 +4896,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4796,7 +4921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4821,7 +4946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4846,7 +4971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4871,7 +4996,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4896,7 +5021,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4921,7 +5046,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4946,7 +5071,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4971,7 +5096,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4996,7 +5121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5021,32 +5146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q64174092",
-      "title": "The Road to Osny at Pontoise, Hoar Frost",
-      "date": "1873",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "camille-pissarro",
-      "artistName": "Camille Pissarro",
-      "locationId": "foundation-e-g-buhrle-collection-zurich",
-      "location": "Foundation E.G. Bührle Collection",
-      "city": "Zurich",
-      "country": "Switzerland",
-      "lat": 47.353045,
-      "lon": 8.561758,
-      "source": "http://www.wikidata.org/entity/Q64174092",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Pissarro%20-%20Route%20d%27Osny%20%C3%A0%20Pontoise%2C%20gel%C3%A9e%20blanche%20-%20118%20-%20Foundation%20E.G.%20B%C3%BChrle%20Collection.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5071,7 +5171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5096,7 +5196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5121,7 +5221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5146,7 +5246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5171,7 +5271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5196,7 +5296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5221,7 +5321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5246,7 +5346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5271,7 +5371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5296,7 +5396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5321,7 +5421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5346,7 +5446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5371,7 +5471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5396,7 +5496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5421,7 +5521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5446,7 +5546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5471,7 +5571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5496,7 +5596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5521,7 +5621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5546,7 +5646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5571,7 +5671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5596,7 +5696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5621,7 +5721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5646,7 +5746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5671,7 +5771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5696,7 +5796,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5721,7 +5821,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5746,7 +5846,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5771,7 +5871,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5796,7 +5896,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5821,7 +5921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5846,7 +5946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5871,7 +5971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5896,7 +5996,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5921,7 +6021,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5946,7 +6046,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5971,7 +6071,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5996,7 +6096,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6021,7 +6121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6046,7 +6146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6071,7 +6171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6096,7 +6196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6121,7 +6221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6146,7 +6246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6171,7 +6271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6196,7 +6296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6221,7 +6321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6246,7 +6346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6271,7 +6371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6296,7 +6396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6321,7 +6421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6346,7 +6446,32 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q21403398",
+      "title": "Near Sydenham Hill",
+      "date": "1871",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "camille-pissarro",
+      "artistName": "Camille Pissarro",
+      "locationId": "kimbell-art-museum-fort-worth",
+      "location": "Kimbell Art Museum",
+      "city": "Fort Worth",
+      "country": "United States",
+      "lat": 32.748611111,
+      "lon": -97.365,
+      "source": "http://www.wikidata.org/entity/Q21403398",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Pissarro%20-%20Near%20Sydenham%20Hill%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q134741",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6371,7 +6496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6396,7 +6521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6421,7 +6546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6446,7 +6571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6471,7 +6596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6496,7 +6621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6521,7 +6646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6546,7 +6671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6571,7 +6696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6596,7 +6721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6621,7 +6746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6646,7 +6771,32 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q64174092",
+      "title": "The Road to Osny at Pontoise, Hoar Frost",
+      "date": "1873",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "camille-pissarro",
+      "artistName": "Camille Pissarro",
+      "locationId": "kunsthaus-zurich-district-1",
+      "location": "Kunsthaus Zürich",
+      "city": "District 1",
+      "country": "Switzerland",
+      "lat": 47.370277777,
+      "lon": 8.548055555,
+      "source": "http://www.wikidata.org/entity/Q64174092",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Pissarro%20-%20Route%20d%27Osny%20%C3%A0%20Pontoise%2C%20gel%C3%A9e%20blanche%20-%20118%20-%20Foundation%20E.G.%20B%C3%BChrle%20Collection.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q134741",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6671,7 +6821,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6696,7 +6846,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6721,7 +6871,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6746,7 +6896,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6771,7 +6921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6796,7 +6946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6821,7 +6971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6846,7 +6996,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6871,7 +7021,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6896,7 +7046,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6921,7 +7071,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6946,7 +7096,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6971,7 +7121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6996,7 +7146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7021,7 +7171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7046,7 +7196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7071,7 +7221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7096,7 +7246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7121,7 +7271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7146,7 +7296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7171,7 +7321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7196,7 +7346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7221,7 +7371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7246,7 +7396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7271,7 +7421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7296,7 +7446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7321,7 +7471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7346,7 +7496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7371,7 +7521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7396,7 +7546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7421,7 +7571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7446,7 +7596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7471,7 +7621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7496,7 +7646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7521,7 +7671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7546,7 +7696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7571,7 +7721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7596,7 +7746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7621,7 +7771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7646,7 +7796,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7671,7 +7821,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7696,7 +7846,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7721,7 +7871,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7746,7 +7896,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7771,7 +7921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7796,7 +7946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7821,7 +7971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7846,7 +7996,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7871,7 +8021,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7896,7 +8046,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7921,7 +8071,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7946,7 +8096,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7971,7 +8121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7996,7 +8146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8021,7 +8171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8046,7 +8196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8071,7 +8221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8096,7 +8246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8121,7 +8271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8146,7 +8296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8171,7 +8321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8196,7 +8346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8221,7 +8371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8246,7 +8396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8271,7 +8421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8296,7 +8446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8321,7 +8471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8346,7 +8496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8371,7 +8521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8396,7 +8546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8421,7 +8571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8446,7 +8596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8471,32 +8621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q21290031",
-      "title": "Untitled record",
-      "date": "1863",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "camille-pissarro",
-      "artistName": "Camille Pissarro",
-      "locationId": "musee-camille-pissarro-pontoise",
-      "location": "Musée Camille Pissarro",
-      "city": "Pontoise",
-      "country": "France",
-      "lat": 49.04823,
-      "lon": 2.09995,
-      "source": "http://www.wikidata.org/entity/Q21290031",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Pissarro%20-%20Barges%20%C3%A0%20La%20Roche-Guyon.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8521,7 +8646,32 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q21290031",
+      "title": "Untitled record",
+      "date": "1863",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "camille-pissarro",
+      "artistName": "Camille Pissarro",
+      "locationId": "musee-d-art-et-d-histoire-pissarro-pontoise-pontoise",
+      "location": "Musée d'Art et d'Histoire Pissarro - Pontoise",
+      "city": "Pontoise",
+      "country": "France",
+      "lat": 49.04823,
+      "lon": 2.09995,
+      "source": "http://www.wikidata.org/entity/Q21290031",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Pissarro%20-%20Barges%20%C3%A0%20La%20Roche-Guyon.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q134741",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8546,7 +8696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8571,7 +8721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8596,7 +8746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8621,7 +8771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8646,7 +8796,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8671,7 +8821,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8696,7 +8846,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8721,7 +8871,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8741,12 +8891,12 @@
       "lon": 2.326527,
       "source": "http://www.wikidata.org/entity/Q17491581",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Pissarro%20-%20Gel%C3%A9e%20blanche%2C%20ancienne%20route%20d%C2%B4Ennery%2C%20Pontoise%20-%201873.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Pissarro%20-%20Gel%C3%A9e%20blanche.jpg",
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8771,7 +8921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8796,7 +8946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8821,7 +8971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8846,7 +8996,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8871,7 +9021,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8896,7 +9046,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8921,7 +9071,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8946,7 +9096,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8971,7 +9121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8996,7 +9146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9021,7 +9171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9046,7 +9196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9071,7 +9221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9096,7 +9246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9121,7 +9271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9146,7 +9296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9171,7 +9321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9196,7 +9346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9221,7 +9371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9246,7 +9396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9271,7 +9421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9296,7 +9446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9321,7 +9471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9346,7 +9496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9371,7 +9521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9396,7 +9546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9421,7 +9571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9446,7 +9596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9471,7 +9621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9496,7 +9646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9521,7 +9671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9546,7 +9696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9571,7 +9721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9596,7 +9746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9621,7 +9771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9646,7 +9796,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9671,7 +9821,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9696,7 +9846,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9721,7 +9871,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9746,7 +9896,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9771,7 +9921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9796,7 +9946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9821,7 +9971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9846,7 +9996,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9871,7 +10021,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9896,7 +10046,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9921,7 +10071,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9946,7 +10096,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9971,7 +10121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9996,7 +10146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -10021,7 +10171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -10046,7 +10196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -10071,7 +10221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -10096,7 +10246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -10121,7 +10271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -10146,7 +10296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -10171,7 +10321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -10196,7 +10346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -10221,7 +10371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -10233,20 +10383,20 @@
       "attribution": "Accepted",
       "artistId": "camille-pissarro",
       "artistName": "Camille Pissarro",
-      "locationId": "museum-langmatt-sidney-and-jenny-brown-foundation-location-unknown",
+      "locationId": "museum-langmatt-sidney-and-jenny-brown-foundation-baden",
       "location": "Museum Langmatt Sidney and Jenny Brown Foundation",
-      "city": "Location unknown",
+      "city": "Baden",
       "country": "Switzerland",
       "lat": 47.4813834,
       "lon": 8.30753512,
       "source": "http://www.wikidata.org/entity/Q22666437",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Automne%20%C3%A1%20%C3%89ragny%2C%20Camille%20Pissarro%20-%203159%20%28cropped%29.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Pissarro%20-%20Automne%20dans%20le%20pr%C3%A9%20%C3%A0%20%C3%89ragny%20-%201294.jpg",
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -10258,9 +10408,9 @@
       "attribution": "Accepted",
       "artistId": "camille-pissarro",
       "artistName": "Camille Pissarro",
-      "locationId": "museum-langmatt-sidney-and-jenny-brown-foundation-location-unknown",
+      "locationId": "museum-langmatt-sidney-and-jenny-brown-foundation-baden",
       "location": "Museum Langmatt Sidney and Jenny Brown Foundation",
-      "city": "Location unknown",
+      "city": "Baden",
       "country": "Switzerland",
       "lat": 47.4813834,
       "lon": 8.30753512,
@@ -10271,7 +10421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -10283,9 +10433,9 @@
       "attribution": "Accepted",
       "artistId": "camille-pissarro",
       "artistName": "Camille Pissarro",
-      "locationId": "museum-langmatt-sidney-and-jenny-brown-foundation-location-unknown",
+      "locationId": "museum-langmatt-sidney-and-jenny-brown-foundation-baden",
       "location": "Museum Langmatt Sidney and Jenny Brown Foundation",
-      "city": "Location unknown",
+      "city": "Baden",
       "country": "Switzerland",
       "lat": 47.4813834,
       "lon": 8.30753512,
@@ -10296,7 +10446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -10308,9 +10458,9 @@
       "attribution": "Accepted",
       "artistId": "camille-pissarro",
       "artistName": "Camille Pissarro",
-      "locationId": "museum-langmatt-sidney-and-jenny-brown-foundation-location-unknown",
+      "locationId": "museum-langmatt-sidney-and-jenny-brown-foundation-baden",
       "location": "Museum Langmatt Sidney and Jenny Brown Foundation",
-      "city": "Location unknown",
+      "city": "Baden",
       "country": "Switzerland",
       "lat": 47.4813834,
       "lon": 8.30753512,
@@ -10321,7 +10471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -10333,9 +10483,9 @@
       "attribution": "Accepted",
       "artistId": "camille-pissarro",
       "artistName": "Camille Pissarro",
-      "locationId": "museum-langmatt-sidney-and-jenny-brown-foundation-location-unknown",
+      "locationId": "museum-langmatt-sidney-and-jenny-brown-foundation-baden",
       "location": "Museum Langmatt Sidney and Jenny Brown Foundation",
-      "city": "Location unknown",
+      "city": "Baden",
       "country": "Switzerland",
       "lat": 47.4813834,
       "lon": 8.30753512,
@@ -10346,7 +10496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -10358,9 +10508,9 @@
       "attribution": "Accepted",
       "artistId": "camille-pissarro",
       "artistName": "Camille Pissarro",
-      "locationId": "museum-langmatt-sidney-and-jenny-brown-foundation-location-unknown",
+      "locationId": "museum-langmatt-sidney-and-jenny-brown-foundation-baden",
       "location": "Museum Langmatt Sidney and Jenny Brown Foundation",
-      "city": "Location unknown",
+      "city": "Baden",
       "country": "Switzerland",
       "lat": 47.4813834,
       "lon": 8.30753512,
@@ -10371,7 +10521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -10383,9 +10533,9 @@
       "attribution": "Accepted",
       "artistId": "camille-pissarro",
       "artistName": "Camille Pissarro",
-      "locationId": "museum-langmatt-sidney-and-jenny-brown-foundation-location-unknown",
+      "locationId": "museum-langmatt-sidney-and-jenny-brown-foundation-baden",
       "location": "Museum Langmatt Sidney and Jenny Brown Foundation",
-      "city": "Location unknown",
+      "city": "Baden",
       "country": "Switzerland",
       "lat": 47.4813834,
       "lon": 8.30753512,
@@ -10396,7 +10546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -10421,7 +10571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -10446,7 +10596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -10471,7 +10621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -10496,7 +10646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -10521,7 +10671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -10546,7 +10696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -10571,7 +10721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -10596,7 +10746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -10621,7 +10771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -10646,7 +10796,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -10671,7 +10821,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -10696,7 +10846,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -10721,7 +10871,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -10746,7 +10896,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -10758,9 +10908,9 @@
       "attribution": "Accepted",
       "artistId": "camille-pissarro",
       "artistName": "Camille Pissarro",
-      "locationId": "museum-of-fine-arts-budapest-zuglo",
+      "locationId": "museum-of-fine-arts-budapest-budapest-district-xiv",
       "location": "Museum of Fine Arts, Budapest",
-      "city": "Zugló",
+      "city": "Budapest district XIV",
       "country": "Hungary",
       "lat": 47.51587,
       "lon": 19.07678,
@@ -10771,7 +10921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -10796,7 +10946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -10821,7 +10971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -10846,7 +10996,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -10871,7 +11021,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -10896,7 +11046,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -10921,7 +11071,207 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q70207681",
+      "title": "Landscape from the Antilles, Rider and Donkey on a Road",
+      "date": "1856",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "camille-pissarro",
+      "artistName": "Camille Pissarro",
+      "locationId": "museum-ordrupgaard-gentofte-municipality",
+      "location": "Museum Ordrupgaard",
+      "city": "Gentofte Municipality",
+      "country": "Denmark",
+      "lat": 55.766944,
+      "lon": 12.563333,
+      "source": "http://www.wikidata.org/entity/Q70207681",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Pissarro%2C%20Landskab%20fra%20Antillerne%20rytter%20og%20%C3%A6sel%20p%C3%A5%20en%20vej%2C%201856%2C%20Ordrupgaard.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q134741",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q21235546",
+      "title": "Morning sun in the rue Saint-Honoré. Place du Théâtre Francais",
+      "date": "1898",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "camille-pissarro",
+      "artistName": "Camille Pissarro",
+      "locationId": "museum-ordrupgaard-gentofte-municipality",
+      "location": "Museum Ordrupgaard",
+      "city": "Gentofte Municipality",
+      "country": "Denmark",
+      "lat": 55.766944,
+      "lon": 12.563333,
+      "source": "http://www.wikidata.org/entity/Q21235546",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20Rue%20Saint-Honor%C3%A9%2C%20matin%2C%20effet%20de%20soleil.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q134741",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q21233173",
+      "title": "On the Bank of the ravine de Saint-Antoine, L'Hermitage, Pontoise",
+      "date": "1876",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "camille-pissarro",
+      "artistName": "Camille Pissarro",
+      "locationId": "museum-ordrupgaard-gentofte-municipality",
+      "location": "Museum Ordrupgaard",
+      "city": "Gentofte Municipality",
+      "country": "Denmark",
+      "lat": 55.766944,
+      "lon": 12.563333,
+      "source": "http://www.wikidata.org/entity/Q21233173",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro%20-%20Pissarro%20and%20Durand-Ruel%20Snollaerts%2C%20446.png",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q134741",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q21192436",
+      "title": "Plum Trees in Blossom, Éragny",
+      "date": "1894",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "camille-pissarro",
+      "artistName": "Camille Pissarro",
+      "locationId": "museum-ordrupgaard-gentofte-municipality",
+      "location": "Museum Ordrupgaard",
+      "city": "Gentofte Municipality",
+      "country": "Denmark",
+      "lat": 55.766944,
+      "lon": 12.563333,
+      "source": "http://www.wikidata.org/entity/Q21192436",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Pissarro%20-%20Flowering%20Plum%20Tree%2C%20Eragny.JPG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q134741",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q57585934",
+      "title": "Portrait of a boy",
+      "date": "1853",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "camille-pissarro",
+      "artistName": "Camille Pissarro",
+      "locationId": "museum-ordrupgaard-gentofte-municipality",
+      "location": "Museum Ordrupgaard",
+      "city": "Gentofte Municipality",
+      "country": "Denmark",
+      "lat": 55.766944,
+      "lon": 12.563333,
+      "source": "http://www.wikidata.org/entity/Q57585934",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Pissarro%2C%20Portr%C3%A6t%20af%20en%20dreng%2C%201852-1855.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q134741",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q21235025",
+      "title": "Rue Saint-Lazare, Effect of Sunlight",
+      "date": "1897",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "camille-pissarro",
+      "artistName": "Camille Pissarro",
+      "locationId": "museum-ordrupgaard-gentofte-municipality",
+      "location": "Museum Ordrupgaard",
+      "city": "Gentofte Municipality",
+      "country": "Denmark",
+      "lat": 55.766944,
+      "lon": 12.563333,
+      "source": "http://www.wikidata.org/entity/Q21235025",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rue%20Saint-Lazare%2C%20Effect%20of%20Sunlight.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q134741",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q21235201",
+      "title": "The Stairs and a Corner of the Garden at Eragny",
+      "date": "1897",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "camille-pissarro",
+      "artistName": "Camille Pissarro",
+      "locationId": "museum-ordrupgaard-gentofte-municipality",
+      "location": "Museum Ordrupgaard",
+      "city": "Gentofte Municipality",
+      "country": "Denmark",
+      "lat": 55.766944,
+      "lon": 12.563333,
+      "source": "http://www.wikidata.org/entity/Q21235201",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro%20-%20Pissarro%20and%20Durand-Ruel%20Snollaerts%2C%201184.png",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q134741",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q21233409",
+      "title": "Viez of Bazincourt, Effect of Snow, Evening",
+      "date": "1894",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "camille-pissarro",
+      "artistName": "Camille Pissarro",
+      "locationId": "museum-ordrupgaard-gentofte-municipality",
+      "location": "Museum Ordrupgaard",
+      "city": "Gentofte Municipality",
+      "country": "Denmark",
+      "lat": 55.766944,
+      "lon": 12.563333,
+      "source": "http://www.wikidata.org/entity/Q21233409",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro%20-%20Pissarro%20and%20Durand-Ruel%20Snollaerts%2C%201020.png",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q134741",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -10946,7 +11296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -10971,7 +11321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -10996,7 +11346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -11021,7 +11371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -11046,57 +11396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q28541285",
-      "title": "A Corner of the Meadow at Eragny",
-      "date": "1902",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "camille-pissarro",
-      "artistName": "Camille Pissarro",
-      "locationId": "national-gallery-city-of-westminster",
-      "location": "National Gallery",
-      "city": "City of Westminster",
-      "country": "United Kingdom",
-      "lat": 51.508888888,
-      "lon": -0.128333333,
-      "source": "http://www.wikidata.org/entity/Q28541285",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro%20-%20A%20Corner%20of%20the%20Meadow%20at%20Eragny%2C%201902.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q26517788",
-      "title": "A Wool-Carder",
-      "date": "1880",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "camille-pissarro",
-      "artistName": "Camille Pissarro",
-      "locationId": "national-gallery-city-of-westminster",
-      "location": "National Gallery",
-      "city": "City of Westminster",
-      "country": "United Kingdom",
-      "lat": 51.508888888,
-      "lon": -0.128333333,
-      "source": "http://www.wikidata.org/entity/Q26517788",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Pissarro%2C%20A%20Wool-Carder%2C%201880%2C%20L721%2C%20National%20Gallery.png",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -11121,7 +11421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -11146,7 +11446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -11171,7 +11471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -11196,7 +11496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -11221,7 +11521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -11246,7 +11546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -11271,7 +11571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -11296,32 +11596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q28539996",
-      "title": "The Pilots’ Jetty, Le Havre, Morning, Cloudy and Misty Weather",
-      "date": "1903",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "camille-pissarro",
-      "artistName": "Camille Pissarro",
-      "locationId": "national-gallery-city-of-westminster",
-      "location": "National Gallery",
-      "city": "City of Westminster",
-      "country": "United Kingdom",
-      "lat": 51.508888888,
-      "lon": -0.128333333,
-      "source": "http://www.wikidata.org/entity/Q28539996",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro%20-%20The%20Pilots%E2%80%99%20Jetty%2C%20Le%20Havre%2C%20Morning%2C%20Cloudy%20and%20Misty%20Weather%2C%201903.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -11346,32 +11621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q21705162",
-      "title": "The Young Country Servant",
-      "date": "1882",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "camille-pissarro",
-      "artistName": "Camille Pissarro",
-      "locationId": "national-gallery-city-of-westminster",
-      "location": "National Gallery",
-      "city": "City of Westminster",
-      "country": "United Kingdom",
-      "lat": 51.508888888,
-      "lon": -0.128333333,
-      "source": "http://www.wikidata.org/entity/Q21705162",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Pissarro%20-%20The%20Little%20Country%20Maid%20%281882%29.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -11396,7 +11646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -11412,8 +11662,8 @@
       "location": "National Gallery of Canada",
       "city": "Ottawa",
       "country": "Canada",
-      "lat": 45.429434,
-      "lon": -75.698386,
+      "lat": 45.429535,
+      "lon": -75.698906,
       "source": "http://www.wikidata.org/entity/Q5407253",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hay%20Harvest%20at%20%C3%89ragny%2C%201901%2C%20Camille%20Pissarro.jpg",
@@ -11421,7 +11671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -11446,7 +11696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -11471,7 +11721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -11496,7 +11746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -11521,7 +11771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -11546,7 +11796,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -11571,7 +11821,82 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q21694335",
+      "title": "Peasant Woman and Child Returning from the Fields, Auvers-sur-Oise",
+      "date": "1881",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "camille-pissarro",
+      "artistName": "Camille Pissarro",
+      "locationId": "national-gallery-prague-location-unknown",
+      "location": "National Gallery Prague",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 50.101111,
+      "lon": 14.4325,
+      "source": "http://www.wikidata.org/entity/Q21694335",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Pissarro%20-%20In%20the%20Vegetable%20Garden.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q134741",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q21293327",
+      "title": "Pontoise",
+      "date": "1867",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "camille-pissarro",
+      "artistName": "Camille Pissarro",
+      "locationId": "national-gallery-prague-location-unknown",
+      "location": "National Gallery Prague",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 50.101111,
+      "lon": 14.4325,
+      "source": "http://www.wikidata.org/entity/Q21293327",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Pissarro%20-%20Le%20Gardin%20de%20Mauboisson%2C%20Pontoise.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q134741",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q21849226",
+      "title": "The Gardens at Le Valhermeil, Auvers-sur-Oise",
+      "date": "1880",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "camille-pissarro",
+      "artistName": "Camille Pissarro",
+      "locationId": "national-gallery-prague-location-unknown",
+      "location": "National Gallery Prague",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 50.101111,
+      "lon": 14.4325,
+      "source": "http://www.wikidata.org/entity/Q21849226",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro%20Jardin%20a%20Valhermeil.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q134741",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -11596,7 +11921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -11621,7 +11946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -11646,7 +11971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -11671,7 +11996,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -11696,7 +12021,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -11721,7 +12046,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -11746,7 +12071,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -11771,7 +12096,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -11796,7 +12121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -11821,7 +12146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -11846,7 +12171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -11871,7 +12196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -11896,7 +12221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -11921,7 +12246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -11946,7 +12271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -11971,7 +12296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -11996,7 +12321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -12008,9 +12333,9 @@
       "attribution": "Accepted",
       "artistId": "camille-pissarro",
       "artistName": "Camille Pissarro",
-      "locationId": "nationalmuseum-stockholm",
+      "locationId": "nationalmuseum-stockholm-municipality",
       "location": "Nationalmuseum",
-      "city": "Stockholm",
+      "city": "Stockholm Municipality",
       "country": "Sweden",
       "lat": 59.328611111,
       "lon": 18.078055555,
@@ -12021,7 +12346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -12046,7 +12371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -12058,9 +12383,9 @@
       "attribution": "Accepted",
       "artistId": "camille-pissarro",
       "artistName": "Camille Pissarro",
-      "locationId": "nationalmuseum-stockholm",
+      "locationId": "nationalmuseum-stockholm-municipality",
       "location": "Nationalmuseum",
-      "city": "Stockholm",
+      "city": "Stockholm Municipality",
       "country": "Sweden",
       "lat": 59.328611111,
       "lon": 18.078055555,
@@ -12071,7 +12396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -12083,9 +12408,9 @@
       "attribution": "Accepted",
       "artistId": "camille-pissarro",
       "artistName": "Camille Pissarro",
-      "locationId": "nationalmuseum-stockholm",
+      "locationId": "nationalmuseum-stockholm-municipality",
       "location": "Nationalmuseum",
-      "city": "Stockholm",
+      "city": "Stockholm Municipality",
       "country": "Sweden",
       "lat": 59.328611111,
       "lon": 18.078055555,
@@ -12096,7 +12421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -12121,7 +12446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -12146,7 +12471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -12171,7 +12496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -12196,7 +12521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -12221,7 +12546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -12246,7 +12571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -12271,32 +12596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q20536939",
-      "title": "Landscape near Pontoise. A Peasant Walking along the Path",
-      "date": "1880",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "camille-pissarro",
-      "artistName": "Camille Pissarro",
-      "locationId": "ny-carlsberg-glyptotek-copenhagen-municipality",
-      "location": "Ny Carlsberg Glyptotek",
-      "city": "Copenhagen Municipality",
-      "country": "Denmark",
-      "lat": 55.6725,
-      "lon": 12.571944444,
-      "source": "http://www.wikidata.org/entity/Q20536939",
-      "image": "",
-      "externalImage": "",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -12321,32 +12621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q20422165",
-      "title": "View of Pont-Neuf with Statue of Henri IV",
-      "date": "1901",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "camille-pissarro",
-      "artistName": "Camille Pissarro",
-      "locationId": "ny-carlsberg-glyptotek-copenhagen-municipality",
-      "location": "Ny Carlsberg Glyptotek",
-      "city": "Copenhagen Municipality",
-      "country": "Denmark",
-      "lat": 55.6725,
-      "lon": 12.571944444,
-      "source": "http://www.wikidata.org/entity/Q20422165",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The-raised-tarrace-of-the-pont-neuf-and-statue-of-henri-iv-1901.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -12371,32 +12646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q20354652",
-      "title": "Woodland scene. Spring",
-      "date": "1878",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "camille-pissarro",
-      "artistName": "Camille Pissarro",
-      "locationId": "ny-carlsberg-glyptotek-copenhagen-municipality",
-      "location": "Ny Carlsberg Glyptotek",
-      "city": "Copenhagen Municipality",
-      "country": "Denmark",
-      "lat": 55.6725,
-      "lon": 12.571944444,
-      "source": "http://www.wikidata.org/entity/Q20354652",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Pissarro%20024.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -12421,207 +12671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q70207681",
-      "title": "Landscape from the Antilles, Rider and Donkey on a Road",
-      "date": "1856",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "camille-pissarro",
-      "artistName": "Camille Pissarro",
-      "locationId": "ordrupgaard-gentofte-municipality",
-      "location": "Ordrupgaard",
-      "city": "Gentofte Municipality",
-      "country": "Denmark",
-      "lat": 55.766944,
-      "lon": 12.563333,
-      "source": "http://www.wikidata.org/entity/Q70207681",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Pissarro%2C%20Landskab%20fra%20Antillerne%20rytter%20og%20%C3%A6sel%20p%C3%A5%20en%20vej%2C%201856%2C%20Ordrupgaard.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q21235546",
-      "title": "Morning sun in the rue Saint-Honoré. Place du Théâtre Francais",
-      "date": "1898",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "camille-pissarro",
-      "artistName": "Camille Pissarro",
-      "locationId": "ordrupgaard-gentofte-municipality",
-      "location": "Ordrupgaard",
-      "city": "Gentofte Municipality",
-      "country": "Denmark",
-      "lat": 55.766944,
-      "lon": 12.563333,
-      "source": "http://www.wikidata.org/entity/Q21235546",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20Rue%20Saint-Honor%C3%A9%2C%20matin%2C%20effet%20de%20soleil.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q21233173",
-      "title": "On the Bank of the ravine de Saint-Antoine, L'Hermitage, Pontoise",
-      "date": "1876",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "camille-pissarro",
-      "artistName": "Camille Pissarro",
-      "locationId": "ordrupgaard-gentofte-municipality",
-      "location": "Ordrupgaard",
-      "city": "Gentofte Municipality",
-      "country": "Denmark",
-      "lat": 55.766944,
-      "lon": 12.563333,
-      "source": "http://www.wikidata.org/entity/Q21233173",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro%20-%20Pissarro%20and%20Durand-Ruel%20Snollaerts%2C%20446.png",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q21192436",
-      "title": "Plum Trees in Blossom, Éragny",
-      "date": "1894",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "camille-pissarro",
-      "artistName": "Camille Pissarro",
-      "locationId": "ordrupgaard-gentofte-municipality",
-      "location": "Ordrupgaard",
-      "city": "Gentofte Municipality",
-      "country": "Denmark",
-      "lat": 55.766944,
-      "lon": 12.563333,
-      "source": "http://www.wikidata.org/entity/Q21192436",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Pissarro%20-%20Flowering%20Plum%20Tree%2C%20Eragny.JPG",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q57585934",
-      "title": "Portrait of a boy",
-      "date": "1853",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "camille-pissarro",
-      "artistName": "Camille Pissarro",
-      "locationId": "ordrupgaard-gentofte-municipality",
-      "location": "Ordrupgaard",
-      "city": "Gentofte Municipality",
-      "country": "Denmark",
-      "lat": 55.766944,
-      "lon": 12.563333,
-      "source": "http://www.wikidata.org/entity/Q57585934",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Pissarro%2C%20Portr%C3%A6t%20af%20en%20dreng%2C%201852-1855.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q21235025",
-      "title": "Rue Saint-Lazare, Effect of Sunlight",
-      "date": "1897",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "camille-pissarro",
-      "artistName": "Camille Pissarro",
-      "locationId": "ordrupgaard-gentofte-municipality",
-      "location": "Ordrupgaard",
-      "city": "Gentofte Municipality",
-      "country": "Denmark",
-      "lat": 55.766944,
-      "lon": 12.563333,
-      "source": "http://www.wikidata.org/entity/Q21235025",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rue%20Saint-Lazare%2C%20Effect%20of%20Sunlight.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q21235201",
-      "title": "The Stairs and a Corner of the Garden at Eragny",
-      "date": "1897",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "camille-pissarro",
-      "artistName": "Camille Pissarro",
-      "locationId": "ordrupgaard-gentofte-municipality",
-      "location": "Ordrupgaard",
-      "city": "Gentofte Municipality",
-      "country": "Denmark",
-      "lat": 55.766944,
-      "lon": 12.563333,
-      "source": "http://www.wikidata.org/entity/Q21235201",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro%20-%20Pissarro%20and%20Durand-Ruel%20Snollaerts%2C%201184.png",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q21233409",
-      "title": "Viez of Bazincourt, Effect of Snow, Evening",
-      "date": "1894",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "camille-pissarro",
-      "artistName": "Camille Pissarro",
-      "locationId": "ordrupgaard-gentofte-municipality",
-      "location": "Ordrupgaard",
-      "city": "Gentofte Municipality",
-      "country": "Denmark",
-      "lat": 55.766944,
-      "lon": 12.563333,
-      "source": "http://www.wikidata.org/entity/Q21233409",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro%20-%20Pissarro%20and%20Durand-Ruel%20Snollaerts%2C%201020.png",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -12646,7 +12696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -12671,7 +12721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -12696,7 +12746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -12721,7 +12771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -12746,7 +12796,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -12771,7 +12821,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -12796,7 +12846,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -12821,7 +12871,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -12846,7 +12896,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -12871,7 +12921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -12896,7 +12946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -12921,7 +12971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -12946,7 +12996,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -12971,7 +13021,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -12996,7 +13046,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -13021,7 +13071,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -13046,7 +13096,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -13071,7 +13121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -13096,7 +13146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -13121,7 +13171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -13146,7 +13196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -13171,7 +13221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -13196,7 +13246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -13221,7 +13271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -13246,7 +13296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -13271,7 +13321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -13296,7 +13346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -13321,7 +13371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -13346,7 +13396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -13371,7 +13421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -13396,7 +13446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -13421,7 +13471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -13446,7 +13496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -13471,7 +13521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -13496,7 +13546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -13521,7 +13571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -13546,7 +13596,32 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q20536939",
+      "title": "Landscape near Pontoise. A Peasant Walking along the Path",
+      "date": "1880",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "camille-pissarro",
+      "artistName": "Camille Pissarro",
+      "locationId": "statens-museum-for-kunst-copenhagen-municipality",
+      "location": "Statens Museum for Kunst",
+      "city": "Copenhagen Municipality",
+      "country": "Denmark",
+      "lat": 55.68889,
+      "lon": 12.57861,
+      "source": "http://www.wikidata.org/entity/Q20536939",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q134741",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -13571,7 +13646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -13596,7 +13671,57 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q20422165",
+      "title": "View of Pont-Neuf with Statue of Henri IV",
+      "date": "1901",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "camille-pissarro",
+      "artistName": "Camille Pissarro",
+      "locationId": "statens-museum-for-kunst-copenhagen-municipality",
+      "location": "Statens Museum for Kunst",
+      "city": "Copenhagen Municipality",
+      "country": "Denmark",
+      "lat": 55.68889,
+      "lon": 12.57861,
+      "source": "http://www.wikidata.org/entity/Q20422165",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The-raised-tarrace-of-the-pont-neuf-and-statue-of-henri-iv-1901.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q134741",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q20354652",
+      "title": "Woodland scene. Spring",
+      "date": "1878",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "camille-pissarro",
+      "artistName": "Camille Pissarro",
+      "locationId": "statens-museum-for-kunst-copenhagen-municipality",
+      "location": "Statens Museum for Kunst",
+      "city": "Copenhagen Municipality",
+      "country": "Denmark",
+      "lat": 55.68889,
+      "lon": 12.57861,
+      "source": "http://www.wikidata.org/entity/Q20354652",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Pissarro%20024.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q134741",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -13621,7 +13746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -13646,7 +13771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -13671,7 +13796,132 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q28541285",
+      "title": "A Corner of the Meadow at Eragny",
+      "date": "1902",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "camille-pissarro",
+      "artistName": "Camille Pissarro",
+      "locationId": "tate-city-of-westminster",
+      "location": "Tate",
+      "city": "City of Westminster",
+      "country": "United Kingdom",
+      "lat": 51.491062,
+      "lon": -0.127789,
+      "source": "http://www.wikidata.org/entity/Q28541285",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro%20-%20A%20Corner%20of%20the%20Meadow%20at%20Eragny%2C%201902.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q134741",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q26517788",
+      "title": "A Wool-Carder",
+      "date": "1880",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "camille-pissarro",
+      "artistName": "Camille Pissarro",
+      "locationId": "tate-city-of-westminster",
+      "location": "Tate",
+      "city": "City of Westminster",
+      "country": "United Kingdom",
+      "lat": 51.491062,
+      "lon": -0.127789,
+      "source": "http://www.wikidata.org/entity/Q26517788",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Pissarro%2C%20A%20Wool-Carder%2C%201880%2C%20L721%2C%20National%20Gallery.png",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q134741",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q22683822",
+      "title": "Self-Portrait with Hat",
+      "date": "1903",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "camille-pissarro",
+      "artistName": "Camille Pissarro",
+      "locationId": "tate-city-of-westminster",
+      "location": "Tate",
+      "city": "City of Westminster",
+      "country": "United Kingdom",
+      "lat": 51.491062,
+      "lon": -0.127789,
+      "source": "http://www.wikidata.org/entity/Q22683822",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Pissarro%20-%20Self-portrait2%20-%20Tate%20Britain.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q134741",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q28539996",
+      "title": "The Pilots’ Jetty, Le Havre, Morning, Cloudy and Misty Weather",
+      "date": "1903",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "camille-pissarro",
+      "artistName": "Camille Pissarro",
+      "locationId": "tate-city-of-westminster",
+      "location": "Tate",
+      "city": "City of Westminster",
+      "country": "United Kingdom",
+      "lat": 51.491062,
+      "lon": -0.127789,
+      "source": "http://www.wikidata.org/entity/Q28539996",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro%20-%20The%20Pilots%E2%80%99%20Jetty%2C%20Le%20Havre%2C%20Morning%2C%20Cloudy%20and%20Misty%20Weather%2C%201903.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q134741",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q21705162",
+      "title": "The Young Country Servant",
+      "date": "1882",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "camille-pissarro",
+      "artistName": "Camille Pissarro",
+      "locationId": "tate-city-of-westminster",
+      "location": "Tate",
+      "city": "City of Westminster",
+      "country": "United Kingdom",
+      "lat": 51.491062,
+      "lon": -0.127789,
+      "source": "http://www.wikidata.org/entity/Q21705162",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Pissarro%20-%20The%20Little%20Country%20Maid%20%281882%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q134741",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -13696,7 +13946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -13721,7 +13971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -13746,7 +13996,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -13771,7 +14021,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -13796,7 +14046,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -13821,7 +14071,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -13846,7 +14096,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -13871,7 +14121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -13896,7 +14146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -13921,7 +14171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -13946,7 +14196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -13971,7 +14221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -13996,7 +14246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -14021,7 +14271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -14046,7 +14296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -14071,7 +14321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -14096,7 +14346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -14121,7 +14371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -14146,7 +14396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -14171,7 +14421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -14196,7 +14446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -14221,7 +14471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -14246,7 +14496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -14271,7 +14521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -14296,7 +14546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -14321,7 +14571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -14346,7 +14596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -14371,7 +14621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -14396,7 +14646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -14421,7 +14671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -14446,7 +14696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -14471,7 +14721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -14496,7 +14746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -14521,7 +14771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -14546,7 +14796,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -14571,7 +14821,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -14596,7 +14846,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -14621,7 +14871,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -14646,7 +14896,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -14671,7 +14921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -14696,7 +14946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -14721,7 +14971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -14746,7 +14996,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -14771,7 +15021,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -14796,7 +15046,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -14821,7 +15071,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -14846,7 +15096,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -14871,7 +15121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -14896,7 +15146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -14921,7 +15171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -14946,7 +15196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -14971,7 +15221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -14996,7 +15246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -15021,7 +15271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -15046,7 +15296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -15071,7 +15321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -15096,7 +15346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -15121,7 +15371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -15146,7 +15396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -15171,7 +15421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -15196,7 +15446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q134741",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     }

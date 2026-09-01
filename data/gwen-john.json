@@ -1,6 +1,81 @@
 {
   "artworks": [
     {
+      "id": "Q110684812",
+      "title": "Ivy Leaves in a White Jug - Gwendoline Mary John",
+      "date": "1920",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "gwen-john",
+      "artistName": "Gwen John",
+      "locationId": "aberdeen-archives-gallery-and-museums-collections-aberdeen-city",
+      "location": "Aberdeen Archives, Gallery and Museums collections",
+      "city": "Aberdeen City",
+      "country": "United Kingdom",
+      "lat": 57.148191,
+      "lon": -2.102713,
+      "source": "http://www.wikidata.org/entity/Q110684812",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ivy%20Leaves%20in%20a%20White%20Jug%20-%20Gwendoline%20Mary%20John%20-%20ABDAG007492.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Self-portrait%20%281900%29.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q274339",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q110683457",
+      "title": "Sainte Thérèse de l'enfant Jésus à Quinze Ans - Gwendoline Mary John",
+      "date": "1929",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "gwen-john",
+      "artistName": "Gwen John",
+      "locationId": "aberdeen-archives-gallery-and-museums-collections-aberdeen-city",
+      "location": "Aberdeen Archives, Gallery and Museums collections",
+      "city": "Aberdeen City",
+      "country": "United Kingdom",
+      "lat": 57.148191,
+      "lon": -2.102713,
+      "source": "http://www.wikidata.org/entity/Q110683457",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sainte%20Th%C3%A9r%C3%A8se%20de%20l%27enfant%20J%C3%A9sus%20%C3%A0%20Quinze%20Ans%20-%20Gwendoline%20Mary%20John%20-%20ABDAG002837.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Self-portrait%20%281900%29.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q274339",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q110683456",
+      "title": "Seated Girl Holding a Piece of Sewing",
+      "date": "1920",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "gwen-john",
+      "artistName": "Gwen John",
+      "locationId": "aberdeen-archives-gallery-and-museums-collections-aberdeen-city",
+      "location": "Aberdeen Archives, Gallery and Museums collections",
+      "city": "Aberdeen City",
+      "country": "United Kingdom",
+      "lat": 57.148191,
+      "lon": -2.102713,
+      "source": "http://www.wikidata.org/entity/Q110683456",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Seated%20Girl%20Holding%20a%20Piece%20of%20Sewing%20-%20Gwendoline%20Mary%20John%20-%20ABDAG002836.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Self-portrait%20%281900%29.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q274339",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
       "id": "Q104245405",
       "title": "The convalescent",
       "date": "1922",
@@ -21,7 +96,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -46,7 +121,32 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q98149864",
+      "title": "Woman Holding a Flower",
+      "date": "1915",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "gwen-john",
+      "artistName": "Gwen John",
+      "locationId": "birmingham-museums-trust-birmingham",
+      "location": "Birmingham Museums Trust",
+      "city": "Birmingham",
+      "country": "United Kingdom",
+      "lat": 52.480278,
+      "lon": -1.903611,
+      "source": "http://www.wikidata.org/entity/Q98149864",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Woman%20Holding%20a%20Flower%2C%201908%20-%201922%2C%201949P32.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Self-portrait%20%281900%29.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q274339",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -71,7 +171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -96,7 +196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -121,7 +221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -146,7 +246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -171,7 +271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -196,7 +296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -221,7 +321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -246,7 +346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -271,7 +371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -296,7 +396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -321,7 +421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -346,7 +446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -371,7 +471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -396,7 +496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -421,7 +521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -446,7 +546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -471,7 +571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -496,7 +596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -521,7 +621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -546,57 +646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q28537363",
-      "title": "A Lady Reading",
-      "date": "1910",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "gwen-john",
-      "artistName": "Gwen John",
-      "locationId": "national-gallery-city-of-westminster",
-      "location": "National Gallery",
-      "city": "City of Westminster",
-      "country": "United Kingdom",
-      "lat": 51.508888888,
-      "lon": -0.128333333,
-      "source": "http://www.wikidata.org/entity/Q28537363",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/N03174%2010.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Self-portrait%20%281900%29.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q274339",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q28540422",
-      "title": "Chloë Boughton-Leigh",
-      "date": "1906",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "gwen-john",
-      "artistName": "Gwen John",
-      "locationId": "national-gallery-city-of-westminster",
-      "location": "National Gallery",
-      "city": "City of Westminster",
-      "country": "United Kingdom",
-      "lat": 51.508888888,
-      "lon": -0.128333333,
-      "source": "http://www.wikidata.org/entity/Q28540422",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/N04088%2010.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Self-portrait%20%281900%29.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q274339",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -621,57 +671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q28537351",
-      "title": "Nude Girl",
-      "date": "1909",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "gwen-john",
-      "artistName": "Gwen John",
-      "locationId": "national-gallery-city-of-westminster",
-      "location": "National Gallery",
-      "city": "City of Westminster",
-      "country": "United Kingdom",
-      "lat": 51.508888888,
-      "lon": -0.128333333,
-      "source": "http://www.wikidata.org/entity/Q28537351",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Nude%20Girl.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Self-portrait%20%281900%29.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q274339",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q23028489",
-      "title": "Self-portrait",
-      "date": "1902",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "gwen-john",
-      "artistName": "Gwen John",
-      "locationId": "national-gallery-city-of-westminster",
-      "location": "National Gallery",
-      "city": "City of Westminster",
-      "country": "United Kingdom",
-      "lat": 51.508888888,
-      "lon": -0.128333333,
-      "source": "http://www.wikidata.org/entity/Q23028489",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Self-portrait%20%281902%29.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Self-portrait%20%281900%29.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q274339",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -696,32 +696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q28541177",
-      "title": "The Nun",
-      "date": "1918",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "gwen-john",
-      "artistName": "Gwen John",
-      "locationId": "national-gallery-city-of-westminster",
-      "location": "National Gallery",
-      "city": "City of Westminster",
-      "country": "United Kingdom",
-      "lat": 51.508888888,
-      "lon": -0.128333333,
-      "source": "http://www.wikidata.org/entity/Q28541177",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20The%20Nun%20%28Tate%20Britain%29.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Self-portrait%20%281900%29.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q274339",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -746,7 +721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -771,7 +746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -796,7 +771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -821,7 +796,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -846,7 +821,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -871,7 +846,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -896,7 +871,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -921,7 +896,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -946,7 +921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -971,7 +946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -996,7 +971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1021,7 +996,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1046,7 +1021,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1071,7 +1046,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1096,7 +1071,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1121,7 +1096,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1146,7 +1121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1171,7 +1146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1196,7 +1171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1221,7 +1196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1246,7 +1221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1271,7 +1246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1296,7 +1271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1321,7 +1296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1346,7 +1321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1371,7 +1346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1396,7 +1371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1421,7 +1396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1446,7 +1421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1471,7 +1446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1496,7 +1471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1521,7 +1496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1546,7 +1521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1571,7 +1546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1596,7 +1571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1621,7 +1596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1646,7 +1621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1671,7 +1646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1696,7 +1671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1721,7 +1696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1746,7 +1721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1771,7 +1746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1796,7 +1771,382 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q28537363",
+      "title": "A Lady Reading",
+      "date": "1910",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "gwen-john",
+      "artistName": "Gwen John",
+      "locationId": "tate-city-of-westminster",
+      "location": "Tate",
+      "city": "City of Westminster",
+      "country": "United Kingdom",
+      "lat": 51.491062,
+      "lon": -0.127789,
+      "source": "http://www.wikidata.org/entity/Q28537363",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/N03174%2010.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Self-portrait%20%281900%29.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q274339",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q108736978",
+      "title": "A Lady Reading",
+      "date": "1911",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "gwen-john",
+      "artistName": "Gwen John",
+      "locationId": "tate-city-of-westminster",
+      "location": "Tate",
+      "city": "City of Westminster",
+      "country": "United Kingdom",
+      "lat": 51.491062,
+      "lon": -0.127789,
+      "source": "http://www.wikidata.org/entity/Q108736978",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Self-portrait%20%281900%29.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q274339",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q108746616",
+      "title": "Annabella",
+      "date": "Date unknown",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "gwen-john",
+      "artistName": "Gwen John",
+      "locationId": "tate-city-of-westminster",
+      "location": "Tate",
+      "city": "City of Westminster",
+      "country": "United Kingdom",
+      "lat": 51.491062,
+      "lon": -0.127789,
+      "source": "http://www.wikidata.org/entity/Q108746616",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Self-portrait%20%281900%29.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q274339",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q108746762",
+      "title": "Cat",
+      "date": "Date unknown",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "gwen-john",
+      "artistName": "Gwen John",
+      "locationId": "tate-city-of-westminster",
+      "location": "Tate",
+      "city": "City of Westminster",
+      "country": "United Kingdom",
+      "lat": 51.491062,
+      "lon": -0.127789,
+      "source": "http://www.wikidata.org/entity/Q108746762",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Self-portrait%20%281900%29.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q274339",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q28540422",
+      "title": "Chloë Boughton-Leigh",
+      "date": "1906",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "gwen-john",
+      "artistName": "Gwen John",
+      "locationId": "tate-city-of-westminster",
+      "location": "Tate",
+      "city": "City of Westminster",
+      "country": "United Kingdom",
+      "lat": 51.491062,
+      "lon": -0.127789,
+      "source": "http://www.wikidata.org/entity/Q28540422",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/N04088%2010.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Self-portrait%20%281900%29.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q274339",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q119154669",
+      "title": "Chloë Boughton-Leigh (1868–1947)",
+      "date": "Date unknown",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "gwen-john",
+      "artistName": "Gwen John",
+      "locationId": "tate-city-of-westminster",
+      "location": "Tate",
+      "city": "City of Westminster",
+      "country": "United Kingdom",
+      "lat": 51.491062,
+      "lon": -0.127789,
+      "source": "http://www.wikidata.org/entity/Q119154669",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Self-portrait%20%281900%29.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q274339",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q108736409",
+      "title": "Dorelia in a Black Dress",
+      "date": "Date unknown",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "gwen-john",
+      "artistName": "Gwen John",
+      "locationId": "tate-city-of-westminster",
+      "location": "Tate",
+      "city": "City of Westminster",
+      "country": "United Kingdom",
+      "lat": 51.491062,
+      "lon": -0.127789,
+      "source": "http://www.wikidata.org/entity/Q108736409",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Self-portrait%20%281900%29.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q274339",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q28537351",
+      "title": "Nude Girl",
+      "date": "1909",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "gwen-john",
+      "artistName": "Gwen John",
+      "locationId": "tate-city-of-westminster",
+      "location": "Tate",
+      "city": "City of Westminster",
+      "country": "United Kingdom",
+      "lat": 51.491062,
+      "lon": -0.127789,
+      "source": "http://www.wikidata.org/entity/Q28537351",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Nude%20Girl.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Self-portrait%20%281900%29.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q274339",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q23028489",
+      "title": "Self-portrait",
+      "date": "1902",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "gwen-john",
+      "artistName": "Gwen John",
+      "locationId": "tate-city-of-westminster",
+      "location": "Tate",
+      "city": "City of Westminster",
+      "country": "United Kingdom",
+      "lat": 51.491062,
+      "lon": -0.127789,
+      "source": "http://www.wikidata.org/entity/Q23028489",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Self-portrait%20%281902%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Self-portrait%20%281900%29.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q274339",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q108746590",
+      "title": "Study of a Child",
+      "date": "Date unknown",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "gwen-john",
+      "artistName": "Gwen John",
+      "locationId": "tate-city-of-westminster",
+      "location": "Tate",
+      "city": "City of Westminster",
+      "country": "United Kingdom",
+      "lat": 51.491062,
+      "lon": -0.127789,
+      "source": "http://www.wikidata.org/entity/Q108746590",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Self-portrait%20%281900%29.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q274339",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q108746569",
+      "title": "Study of a Girl Holding a Doll",
+      "date": "Date unknown",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "gwen-john",
+      "artistName": "Gwen John",
+      "locationId": "tate-city-of-westminster",
+      "location": "Tate",
+      "city": "City of Westminster",
+      "country": "United Kingdom",
+      "lat": 51.491062,
+      "lon": -0.127789,
+      "source": "http://www.wikidata.org/entity/Q108746569",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Self-portrait%20%281900%29.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q274339",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q108735984",
+      "title": "The Convalescent",
+      "date": "Date unknown",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "gwen-john",
+      "artistName": "Gwen John",
+      "locationId": "tate-city-of-westminster",
+      "location": "Tate",
+      "city": "City of Westminster",
+      "country": "United Kingdom",
+      "lat": 51.491062,
+      "lon": -0.127789,
+      "source": "http://www.wikidata.org/entity/Q108735984",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Self-portrait%20%281900%29.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q274339",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q28541177",
+      "title": "The Nun",
+      "date": "1918",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "gwen-john",
+      "artistName": "Gwen John",
+      "locationId": "tate-city-of-westminster",
+      "location": "Tate",
+      "city": "City of Westminster",
+      "country": "United Kingdom",
+      "lat": 51.491062,
+      "lon": -0.127789,
+      "source": "http://www.wikidata.org/entity/Q28541177",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20The%20Nun%20%28Tate%20Britain%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Self-portrait%20%281900%29.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q274339",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q108734285",
+      "title": "The Nun",
+      "date": "Date unknown",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "gwen-john",
+      "artistName": "Gwen John",
+      "locationId": "tate-city-of-westminster",
+      "location": "Tate",
+      "city": "City of Westminster",
+      "country": "United Kingdom",
+      "lat": 51.491062,
+      "lon": -0.127789,
+      "source": "http://www.wikidata.org/entity/Q108734285",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Self-portrait%20%281900%29.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q274339",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q108736328",
+      "title": "Young Woman Holding a Cat",
+      "date": "Date unknown",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "gwen-john",
+      "artistName": "Gwen John",
+      "locationId": "tate-city-of-westminster",
+      "location": "Tate",
+      "city": "City of Westminster",
+      "country": "United Kingdom",
+      "lat": 51.491062,
+      "lon": -0.127789,
+      "source": "http://www.wikidata.org/entity/Q108736328",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwen%20John%20-%20Self-portrait%20%281900%29.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q274339",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1821,7 +2171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1846,7 +2196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1871,7 +2221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1896,7 +2246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1921,7 +2271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1946,7 +2296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1971,7 +2321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1996,7 +2346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2021,7 +2371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2046,7 +2396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2071,7 +2421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2096,7 +2446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2121,7 +2471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2146,7 +2496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2171,7 +2521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2196,7 +2546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2221,7 +2571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q274339",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     }

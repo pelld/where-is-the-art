@@ -21,7 +21,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -46,7 +46,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -71,7 +71,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -96,7 +96,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -121,7 +121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -146,7 +146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -171,7 +171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -196,7 +196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -221,7 +221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -246,7 +246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -271,7 +271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -296,7 +296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -321,7 +321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -346,7 +346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -371,7 +371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -396,7 +396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -421,7 +421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -446,7 +446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -471,7 +471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -496,32 +496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q100729848",
-      "title": "Ferdinand-Philippe-Louis, Duke of Orleans",
-      "date": "1843",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "jean-auguste-dominique-ingres",
-      "artistName": "Jean-Auguste-Dominique Ingres",
-      "locationId": "collection-unknown-versailles",
-      "location": "Collection unknown",
-      "city": "Versailles",
-      "country": "France",
-      "lat": 48.8044,
-      "lon": 2.12197,
-      "source": "http://www.wikidata.org/entity/Q100729848",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ferdinand-Philippe-Henri.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%2C%20Self-portrait.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -546,7 +521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -571,7 +546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -596,7 +571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -621,7 +596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -646,7 +621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -671,7 +646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -696,7 +671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -721,7 +696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -746,7 +721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -771,7 +746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -796,7 +771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -821,7 +796,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -846,7 +821,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -871,32 +846,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q123139649",
-      "title": "Prince Ferdinand Philippe of Orléans, Duke of Orléans",
-      "date": "1842",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "jean-auguste-dominique-ingres",
-      "artistName": "Jean-Auguste-Dominique Ingres",
-      "locationId": "collection-unknown-versailles",
-      "location": "Collection unknown",
-      "city": "Versailles",
-      "country": "France",
-      "lat": 48.8044,
-      "lon": 2.12197,
-      "source": "http://www.wikidata.org/entity/Q123139649",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ferdinand-P.JPG",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%2C%20Self-portrait.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -921,7 +871,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -946,7 +896,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -971,7 +921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -996,7 +946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1021,7 +971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1046,7 +996,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1071,7 +1021,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1096,7 +1046,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1121,7 +1071,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1146,7 +1096,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1171,7 +1121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1196,7 +1146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1221,7 +1171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1246,7 +1196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1271,7 +1221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1287,8 +1237,8 @@
       "location": "Courtauld Gallery",
       "city": "City of Westminster",
       "country": "United Kingdom",
-      "lat": 51.51083333,
-      "lon": -0.11722222,
+      "lat": 51.511568,
+      "lon": -0.117712,
       "source": "http://www.wikidata.org/entity/Q131311526",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%20-%20Study%20for%20La%20Grande%20Odalisque%2C%20D.1995.XX.1.png",
@@ -1296,32 +1246,1182 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
     {
-      "id": "Q2909911",
-      "title": "Bonaparte, First Consul",
-      "date": "1803",
+      "id": "Q29855250",
+      "title": "Angélique",
+      "date": "1819",
       "type": "Painting",
       "attribution": "Accepted",
       "artistId": "jean-auguste-dominique-ingres",
       "artistName": "Jean-Auguste-Dominique Ingres",
-      "locationId": "curtius-museum-liege",
-      "location": "Curtius Museum",
-      "city": "Liège",
-      "country": "Belgium",
-      "lat": 50.6471,
-      "lon": 5.58357,
-      "source": "http://www.wikidata.org/entity/Q2909911",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q29855250",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Auguste%20Dominique%20Ingres%2C%20Portrait%20de%20Napol%C3%A9on%20Bonaparte%20en%20premier%20consul.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-auguste-dominique%20ingres%2C%20angelica%2C%201819.JPG",
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%2C%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q19753125",
+      "title": "Charles Cordier",
+      "date": "1811",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jean-auguste-dominique-ingres",
+      "artistName": "Jean-Auguste-Dominique Ingres",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q19753125",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Charles-Joseph-Laurent%20Cordier%20-%20Ingres.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%2C%20Self-portrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q23380",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q17177339",
+      "title": "Don Pedro of Toledo Kissing Henry IV's Sword",
+      "date": "1831",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jean-auguste-dominique-ingres",
+      "artistName": "Jean-Auguste-Dominique Ingres",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q17177339",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Auguste%20Dominique%20Ingres%20-%20The%20Sword%20of%20Henry%20IV%20-%20WGA11851.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%2C%20Self-portrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q23380",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q16038428",
+      "title": "Edme Bochet",
+      "date": "1811",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jean-auguste-dominique-ingres",
+      "artistName": "Jean-Auguste-Dominique Ingres",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q16038428",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20d%27Edme%20Bochet.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%2C%20Self-portrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q23380",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q29855253",
+      "title": "Études pour l' Apothéose d'Homère",
+      "date": "1826",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jean-auguste-dominique-ingres",
+      "artistName": "Jean-Auguste-Dominique Ingres",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q29855253",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%20-%20Etudes%20pour%20L%27Apoth%C3%A9ose%20d%27Hom%C3%A8re%2C%20RF%202471.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%2C%20Self-portrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q23380",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q15727627",
+      "title": "Ferdinand-Philippe d'Orleans by Ingres - RF 2005-13",
+      "date": "1842",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jean-auguste-dominique-ingres",
+      "artistName": "Jean-Auguste-Dominique Ingres",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q15727627",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/75%20-%20Mus%C3%A9e%20du%20Louvre%20-%20Ferdinand-Philippe%20d%27Orl%C3%A9ans%20par%20Ingres%20-%20RF%202005-13.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%2C%20Self-portrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q23380",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q1978815",
+      "title": "Grande Odalisque",
+      "date": "1810",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jean-auguste-dominique-ingres",
+      "artistName": "Jean-Auguste-Dominique Ingres",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q1978815",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20grande%20odalisque%20-%20Jean-Auguste%20Dominique%20Ingres%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20RF%201158.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%2C%20Self-portrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q23380",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q1087247",
+      "title": "Jesus Returning the Keys to St. Peter",
+      "date": "1820",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jean-auguste-dominique-ingres",
+      "artistName": "Jean-Auguste-Dominique Ingres",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q1087247",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%2C%20Jean%20-%20Jesus%20Returning%20the%20Keys%20to%20St.%20Peter%20-%201820.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%2C%20Self-portrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q23380",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q6456889",
+      "title": "Joan of Arc at the Coronation of Charles VII",
+      "date": "1854",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jean-auguste-dominique-ingres",
+      "artistName": "Jean-Auguste-Dominique Ingres",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q6456889",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%20coronation%20charles%20vii.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%2C%20Self-portrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q23380",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q29851269",
+      "title": "L'Espérance",
+      "date": "1842",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jean-auguste-dominique-ingres",
+      "artistName": "Jean-Auguste-Dominique Ingres",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q29851269",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%20-%20L%27ESPERANCE%2C%201842.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%2C%20Self-portrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q23380",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q29851027",
+      "title": "La Foi",
+      "date": "1842",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jean-auguste-dominique-ingres",
+      "artistName": "Jean-Auguste-Dominique Ingres",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q29851027",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%20-%20Cardboard%20for%20the%20windows%20of%20the%20Chapel%20of%20St.%20Ferdinand%20Faith%2C%201842.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%2C%20Self-portrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q23380",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q29855256",
+      "title": "Le Pape Pie VII tenant chapelle",
+      "date": "1819",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jean-auguste-dominique-ingres",
+      "artistName": "Jean-Auguste-Dominique Ingres",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q29855256",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%20-%20Pope%20Pius%20VII%20%28Luigi%20Barnaba%20Chiaramonti%29%20attending%20chapel%2C%201820.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%2C%20Self-portrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q23380",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q18397435",
+      "title": "Le Père Desmarets",
+      "date": "1805",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jean-auguste-dominique-ingres",
+      "artistName": "Jean-Auguste-Dominique Ingres",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q18397435",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%28Toulouse%29%20Portrait%20du%20%27p%C3%A8re%20Desmarets%27%20par%20Ingres.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%2C%20Self-portrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q23380",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q18397401",
+      "title": "Luigi Cherubini and the Muse of Lyric Poetry",
+      "date": "1842",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jean-auguste-dominique-ingres",
+      "artistName": "Jean-Auguste-Dominique Ingres",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q18397401",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%20cherubini.JPG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%2C%20Self-portrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q23380",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q15617847",
+      "title": "Madame Rivière",
+      "date": "1805",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jean-auguste-dominique-ingres",
+      "artistName": "Jean-Auguste-Dominique Ingres",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q15617847",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%20Madame%20Rivi%C3%A8re%201805.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%2C%20Self-portrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q23380",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q24011",
+      "title": "Mademoiselle Caroline Rivière",
+      "date": "1806",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jean-auguste-dominique-ingres",
+      "artistName": "Jean-Auguste-Dominique Ingres",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q24011",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mademoiselle%20Caroline%20Rivi%C3%A8re%20-%20Jean-Auguste-Dominique%20Ingres%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20MI%201447.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%2C%20Self-portrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q23380",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q1282840",
+      "title": "Napoleon I on his Imperial Throne",
+      "date": "1806",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jean-auguste-dominique-ingres",
+      "artistName": "Jean-Auguste-Dominique Ingres",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q1282840",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%2C%20Napoleon%20on%20his%20Imperial%20throne.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%2C%20Self-portrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q23380",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q5818528",
+      "title": "Oedipus and the Sphinx",
+      "date": "1808",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jean-auguste-dominique-ingres",
+      "artistName": "Jean-Auguste-Dominique Ingres",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q5818528",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%C5%92dipe%20explique%20l%27%C3%A9nigme%20du%20sphinx%20-%20Jean-Auguste%20Dominique%20Ingres%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20RF%20218.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%2C%20Self-portrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q23380",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q29851542",
+      "title": "Portrait of Auguste François Talma",
+      "date": "1812",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jean-auguste-dominique-ingres",
+      "artistName": "Jean-Auguste-Dominique Ingres",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q29851542",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%20-%20Portrait%20of%20Auguste%20Francois%20Talma%2C%20Ensign%2C%20nephew%20of%20the%20tragedian%20Talma.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%2C%20Self-portrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q23380",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q3399494",
+      "title": "Portrait of Louis-Mathieu Molé",
+      "date": "1834",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jean-auguste-dominique-ingres",
+      "artistName": "Jean-Auguste-Dominique Ingres",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q3399494",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-auguste-dominique%20ingres%2C%20ritratto%20del%20conte%20mathieu-louis%20mol%C3%A9%2C%201834%2C%2001.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%2C%20Self-portrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q23380",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q17796696",
+      "title": "Portrait of Madame Marcotte de Sainte-Marie",
+      "date": "1826",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jean-auguste-dominique-ingres",
+      "artistName": "Jean-Auguste-Dominique Ingres",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q17796696",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%28Paris%29%20Madame%20Marcotte%20de%20Sainte-Marie%20-%20Ingres%20-%20Mus%C3%A9e%20du%20Louvre.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%2C%20Self-portrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q23380",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q16038636",
+      "title": "Portrait of Madame Panckoucke",
+      "date": "1811",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jean-auguste-dominique-ingres",
+      "artistName": "Jean-Auguste-Dominique Ingres",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q16038636",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mme%20Panckoucke.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%2C%20Self-portrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q23380",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q2985455",
+      "title": "Portrait of Monsieur Bertin",
+      "date": "1832",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jean-auguste-dominique-ingres",
+      "artistName": "Jean-Auguste-Dominique Ingres",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q2985455",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Louis-Francois%20Bertin.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%2C%20Self-portrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q23380",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q15617821",
+      "title": "Portrait of Philibert Rivière",
+      "date": "1805",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jean-auguste-dominique-ingres",
+      "artistName": "Jean-Auguste-Dominique Ingres",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q15617821",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%28Paris%29%20Philibert%20Rivi%C3%A8re%20par%20Ingres%20-%20Mus%C3%A9e%20du%20Louvre.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%2C%20Self-portrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q23380",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q29851444",
+      "title": "Profile of Raphael, Hands of Raphael, Racine and Poussin, studies for The Apotheosis of Homer",
+      "date": "1837",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jean-auguste-dominique-ingres",
+      "artistName": "Jean-Auguste-Dominique Ingres",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q29851444",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%20-%20Etudes%20pour%20L%27Apoth%C3%A9ose%20d%27Hom%C3%A8re%2C%20RF%202746.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%2C%20Self-portrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q23380",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q3439636",
+      "title": "Ruggiero Rescuing Angelica",
+      "date": "1819",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jean-auguste-dominique-ingres",
+      "artistName": "Jean-Auguste-Dominique Ingres",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q3439636",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Roger%20d%C3%A9livrant%20Ang%C3%A9lique%20-%20Jean-Auguste-Dominique%20Ingres%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20INV%205419%20%3B%20L%203636.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%2C%20Self-portrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q23380",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q3202169",
+      "title": "The Apotheosis of Homer",
+      "date": "1827",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jean-auguste-dominique-ingres",
+      "artistName": "Jean-Auguste-Dominique Ingres",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q3202169",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hom%C3%A8re%20d%C3%A9ifi%C3%A9%2C%20dit%20aussi%20L%27apoth%C3%A9ose%20d%27Hom%C3%A8re%20-%20Jean-Auguste%20Dominique%20Ingres%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20INV%205417%20%3B%20C%20196.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%2C%20Self-portrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q23380",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q29855229",
+      "title": "The Feet of Homer, Study for Tha Apotheosis of Homer",
+      "date": "1826",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jean-auguste-dominique-ingres",
+      "artistName": "Jean-Auguste-Dominique Ingres",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q29855229",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%20-%20ETUDE%20POUR%20L%27APOTHEOSE%20D%27HOMERE%2C%20RF%203773.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%2C%20Self-portrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q23380",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q29851461",
+      "title": "The Little Bather; Harem interior",
+      "date": "1828",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jean-auguste-dominique-ingres",
+      "artistName": "Jean-Auguste-Dominique Ingres",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q29851461",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20Petite%20Baigneuse.%20Int%C3%A9rieur%20de%20harem%20de%20Jean-Auguste-Dominique%20Ingres.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%2C%20Self-portrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q23380",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q29851123",
+      "title": "The Sculptor Lorenzo Bartolini - Ingres - Louvre RF 1942-24",
+      "date": "1820",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jean-auguste-dominique-ingres",
+      "artistName": "Jean-Auguste-Dominique Ingres",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q29851123",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%2C%20Self-portrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q23380",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q2027662",
+      "title": "The Turkish Bath",
+      "date": "1862",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jean-auguste-dominique-ingres",
+      "artistName": "Jean-Auguste-Dominique Ingres",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q2027662",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Le%20Bain%20Turc%2C%20by%20Jean%20Auguste%20Dominique%20Ingres%2C%20from%20C2RMFFXD.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%2C%20Self-portrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q23380",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q3080509",
+      "title": "The Valpinçon Bather",
+      "date": "1808",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jean-auguste-dominique-ingres",
+      "artistName": "Jean-Auguste-Dominique Ingres",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q3080509",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Auguste-Dominique%20Ingres%20-%20La%20Baigneuse%20Valpin%C3%A7on.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%2C%20Self-portrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q23380",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q61022727",
+      "title": "The Virgin Adoring the Host",
+      "date": "1854",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jean-auguste-dominique-ingres",
+      "artistName": "Jean-Auguste-Dominique Ingres",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q61022727",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%20the%20virgin%20of%20the%20host.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%2C%20Self-portrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q23380",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q130304463",
+      "title": "Untitled record",
+      "date": "1814",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jean-auguste-dominique-ingres",
+      "artistName": "Jean-Auguste-Dominique Ingres",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q130304463",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%20-%20T%C3%AAte%20de%20la%20Grande%20Odalisque%2C%201814.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%2C%20Self-portrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q23380",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q115674003",
+      "title": "Untitled record",
+      "date": "1809",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jean-auguste-dominique-ingres",
+      "artistName": "Jean-Auguste-Dominique Ingres",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q115674003",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%2C%20Self-portrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q23380",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q115670615",
+      "title": "Untitled record",
+      "date": "1825",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jean-auguste-dominique-ingres",
+      "artistName": "Jean-Auguste-Dominique Ingres",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q115670615",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%2C%20Self-portrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q23380",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q29851316",
+      "title": "Untitled record",
+      "date": "1842",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jean-auguste-dominique-ingres",
+      "artistName": "Jean-Auguste-Dominique Ingres",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q29851316",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%20-%20Carton%20pour%20les%20vitraux%20de%20la%20chapelle%20Saint-Ferdinand%20sainte%20Rosalie%2C%201842.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%2C%20Self-portrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q23380",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q29644754",
+      "title": "Untitled record",
+      "date": "1816",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jean-auguste-dominique-ingres",
+      "artistName": "Jean-Auguste-Dominique Ingres",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q29644754",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%20-%20Portrait%20de%20l%27abb%C3%A9%20de%20Bonald.png",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%2C%20Self-portrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q23380",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q29855213",
+      "title": "Untitled record",
+      "date": "1844",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jean-auguste-dominique-ingres",
+      "artistName": "Jean-Auguste-Dominique Ingres",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q29855213",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%2C%20Self-portrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q23380",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q29851207",
+      "title": "Untitled record",
+      "date": "1818",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jean-auguste-dominique-ingres",
+      "artistName": "Jean-Auguste-Dominique Ingres",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q29851207",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%2C%20Self-portrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q23380",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q29851018",
+      "title": "Untitled record",
+      "date": "1860",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jean-auguste-dominique-ingres",
+      "artistName": "Jean-Auguste-Dominique Ingres",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q29851018",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%2C%20Self-portrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q23380",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q29851067",
+      "title": "Vénus anadyomène",
+      "date": "1837",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jean-auguste-dominique-ingres",
+      "artistName": "Jean-Auguste-Dominique Ingres",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q29851067",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/1848%20Jean-Auguste-Dominique%20Ingres%20-%20Venus%20Anadyom%C3%A8ne.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%2C%20Self-portrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q23380",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q58197317",
+      "title": "Henrietta Harvey and her half-sister, Elizabeth Norton",
+      "date": "1804",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jean-auguste-dominique-ingres",
+      "artistName": "Jean-Auguste-Dominique Ingres",
+      "locationId": "department-of-prints-and-drawings-of-the-louvre-location-unknown",
+      "location": "Department of Prints and Drawings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111111,
+      "lon": 2.335833333,
+      "source": "http://www.wikidata.org/entity/Q58197317",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%20-%20Henrietta%20Harvey%20and%20her%20half-sister%2C%20Elizabeth%20Norton.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%2C%20Self-portrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q23380",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q99237035",
+      "title": "Portrait of Madame Gabriac, née Sophie Allart",
+      "date": "1836",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jean-auguste-dominique-ingres",
+      "artistName": "Jean-Auguste-Dominique Ingres",
+      "locationId": "department-of-prints-and-drawings-of-the-louvre-location-unknown",
+      "location": "Department of Prints and Drawings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111111,
+      "lon": 2.335833333,
+      "source": "http://www.wikidata.org/entity/Q99237035",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%20-%20Madame%20Gabriac%2C%20n%C3%A9e%20Sophie%20Allart%2003.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%2C%20Self-portrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q23380",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q131301561",
+      "title": "Seated Woman, Study for the Odyssey in The Apotheosis of Homer",
+      "date": "1825",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jean-auguste-dominique-ingres",
+      "artistName": "Jean-Auguste-Dominique Ingres",
+      "locationId": "department-of-prints-and-drawings-of-the-louvre-location-unknown",
+      "location": "Department of Prints and Drawings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111111,
+      "lon": 2.335833333,
+      "source": "http://www.wikidata.org/entity/Q131301561",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%2C%20Self-portrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q23380",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q98940052",
+      "title": "The Forestier Family",
+      "date": "1806",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jean-auguste-dominique-ingres",
+      "artistName": "Jean-Auguste-Dominique Ingres",
+      "locationId": "department-of-prints-and-drawings-of-the-louvre-location-unknown",
+      "location": "Department of Prints and Drawings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111111,
+      "lon": 2.335833333,
+      "source": "http://www.wikidata.org/entity/Q98940052",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%2C%20Self-portrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q23380",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q111433884",
+      "title": "Untitled record",
+      "date": "1798",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jean-auguste-dominique-ingres",
+      "artistName": "Jean-Auguste-Dominique Ingres",
+      "locationId": "department-of-prints-and-drawings-of-the-louvre-location-unknown",
+      "location": "Department of Prints and Drawings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111111,
+      "lon": 2.335833333,
+      "source": "http://www.wikidata.org/entity/Q111433884",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%28Paris%29%20Portrait%20de%20Mademoiselle%20Barbara%20Bansi%20-%20Mus%C3%A9e%20du%20Louvre.JPEG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%2C%20Self-portrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q23380",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1346,7 +2446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1371,7 +2471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1396,57 +2496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q18010742",
-      "title": "Odalisque à l'esclave",
-      "date": "1839",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "jean-auguste-dominique-ingres",
-      "artistName": "Jean-Auguste-Dominique Ingres",
-      "locationId": "fogg-museum-cambridge",
-      "location": "Fogg Museum",
-      "city": "Cambridge",
-      "country": "United States",
-      "lat": 42.37409,
-      "lon": -71.114358,
-      "source": "http://www.wikidata.org/entity/Q18010742",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%20Odalisque%20esclave%20Fogg%20Art.jpeg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%2C%20Self-portrait.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q18222088",
-      "title": "Raphael and the Fornarina",
-      "date": "1814",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "jean-auguste-dominique-ingres",
-      "artistName": "Jean-Auguste-Dominique Ingres",
-      "locationId": "fogg-museum-cambridge",
-      "location": "Fogg Museum",
-      "city": "Cambridge",
-      "country": "United States",
-      "lat": 42.37409,
-      "lon": -71.114358,
-      "source": "http://www.wikidata.org/entity/Q18222088",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Auguste-Dominique%20Ingres%20-%20Raphael%20and%20the%20Fornarina%20-%201943.252%20-%20Fogg%20Museum.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%2C%20Self-portrait.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1471,7 +2521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1496,7 +2546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1521,7 +2571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1546,7 +2596,57 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q18010742",
+      "title": "Odalisque à l'esclave",
+      "date": "1839",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jean-auguste-dominique-ingres",
+      "artistName": "Jean-Auguste-Dominique Ingres",
+      "locationId": "harvard-art-museums-cambridge",
+      "location": "Harvard Art Museums",
+      "city": "Cambridge",
+      "country": "United States",
+      "lat": 42.37416667,
+      "lon": -71.11472222,
+      "source": "http://www.wikidata.org/entity/Q18010742",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%20Odalisque%20esclave%20Fogg%20Art.jpeg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%2C%20Self-portrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q23380",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q18222088",
+      "title": "Raphael and the Fornarina",
+      "date": "1814",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jean-auguste-dominique-ingres",
+      "artistName": "Jean-Auguste-Dominique Ingres",
+      "locationId": "harvard-art-museums-cambridge",
+      "location": "Harvard Art Museums",
+      "city": "Cambridge",
+      "country": "United States",
+      "lat": 42.37416667,
+      "lon": -71.11472222,
+      "source": "http://www.wikidata.org/entity/Q18222088",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Auguste-Dominique%20Ingres%20-%20Raphael%20and%20the%20Fornarina%20-%201943.252%20-%20Fogg%20Museum.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%2C%20Self-portrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q23380",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1571,7 +2671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1596,7 +2696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1621,7 +2721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1646,7 +2746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1671,7 +2771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1696,7 +2796,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1721,7 +2821,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1746,7 +2846,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1771,7 +2871,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1796,7 +2896,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1821,7 +2921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1846,7 +2946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1871,7 +2971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1896,7 +2996,32 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q2909911",
+      "title": "Bonaparte, First Consul",
+      "date": "1803",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jean-auguste-dominique-ingres",
+      "artistName": "Jean-Auguste-Dominique Ingres",
+      "locationId": "liege-fine-arts-museum-liege",
+      "location": "Liege Fine Arts Museum",
+      "city": "Liège",
+      "country": "Belgium",
+      "lat": 50.64623,
+      "lon": 5.58037,
+      "source": "http://www.wikidata.org/entity/Q2909911",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%28Montauban%29%20Napol%C3%A9on%20Bonaparte%20en%201e%20consul%20-%20Jean-Auguste-Dominique%20Ingres.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%2C%20Self-portrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q23380",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1921,7 +3046,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1946,7 +3071,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1971,7 +3096,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1996,7 +3121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2021,7 +3146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2046,7 +3171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2071,7 +3196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2096,7 +3221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2121,7 +3246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2146,7 +3271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2171,7 +3296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2196,7 +3321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2221,7 +3346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2246,7 +3371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2271,7 +3396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2296,7 +3421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2321,7 +3446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2346,7 +3471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2371,7 +3496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2396,7 +3521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2421,7 +3546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2446,7 +3571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2471,7 +3596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2496,7 +3621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2521,7 +3646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2546,7 +3671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2571,7 +3696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2596,7 +3721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2621,7 +3746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2646,7 +3771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2671,32 +3796,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q61022727",
-      "title": "The Virgin Adoring the Host",
-      "date": "1854",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "jean-auguste-dominique-ingres",
-      "artistName": "Jean-Auguste-Dominique Ingres",
-      "locationId": "musee-d-orsay-7th-arrondissement-of-paris",
-      "location": "Musée d'Orsay",
-      "city": "7th arrondissement of Paris",
-      "country": "France",
-      "lat": 48.859972,
-      "lon": 2.326527,
-      "source": "http://www.wikidata.org/entity/Q61022727",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%20the%20virgin%20of%20the%20host.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%2C%20Self-portrait.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2721,57 +3821,57 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
     {
-      "id": "Q115670883",
-      "title": "Untitled record",
-      "date": "1814",
+      "id": "Q100729848",
+      "title": "Ferdinand-Philippe-Louis, Duke of Orleans",
+      "date": "1843",
       "type": "Painting",
       "attribution": "Accepted",
       "artistId": "jean-auguste-dominique-ingres",
       "artistName": "Jean-Auguste-Dominique Ingres",
-      "locationId": "musee-de-cambrai-cambrai",
-      "location": "Musée de Cambrai",
-      "city": "Cambrai",
+      "locationId": "musee-de-l-histoire-de-france-versailles",
+      "location": "Musée de l'Histoire de France",
+      "city": "Versailles",
       "country": "France",
-      "lat": 50.1732,
-      "lon": 3.22968,
-      "source": "http://www.wikidata.org/entity/Q115670883",
+      "lat": 48.8044,
+      "lon": 2.12197,
+      "source": "http://www.wikidata.org/entity/Q100729848",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/T%C3%AAte%20de%20la%20grande%20odalisque%20couch%C3%A9e%20par%20Jean-Auguste-Dominique%20Ingres.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ferdinand-Philippe-Henri.jpg",
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%2C%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
     {
-      "id": "Q1282840",
-      "title": "Napoleon I on his Imperial Throne",
-      "date": "1806",
+      "id": "Q123139649",
+      "title": "Prince Ferdinand Philippe of Orléans, Duke of Orléans",
+      "date": "1842",
       "type": "Painting",
       "attribution": "Accepted",
       "artistId": "jean-auguste-dominique-ingres",
       "artistName": "Jean-Auguste-Dominique Ingres",
-      "locationId": "musee-de-l-armee-7th-arrondissement-of-paris",
-      "location": "Musée de l'Armée",
-      "city": "7th arrondissement of Paris",
+      "locationId": "musee-de-l-histoire-de-france-versailles",
+      "location": "Musée de l'Histoire de France",
+      "city": "Versailles",
       "country": "France",
-      "lat": 48.85694444,
-      "lon": 2.31277778,
-      "source": "http://www.wikidata.org/entity/Q1282840",
+      "lat": 48.8044,
+      "lon": 2.12197,
+      "source": "http://www.wikidata.org/entity/Q123139649",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%2C%20Napoleon%20on%20his%20Imperial%20throne.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ferdinand-P.JPG",
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%2C%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2796,7 +3896,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2821,7 +3921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2846,32 +3946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q18397435",
-      "title": "Le Père Desmarets",
-      "date": "1805",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "jean-auguste-dominique-ingres",
-      "artistName": "Jean-Auguste-Dominique Ingres",
-      "locationId": "musee-des-augustins-toulouse",
-      "location": "Musée des Augustins",
-      "city": "Toulouse",
-      "country": "France",
-      "lat": 43.601,
-      "lon": 1.446,
-      "source": "http://www.wikidata.org/entity/Q18397435",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%20Desmarais%20%28D%201952%201%29.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%2C%20Self-portrait.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2896,7 +3971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2921,32 +3996,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q100731553",
-      "title": "Untitled record",
-      "date": "1866",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "jean-auguste-dominique-ingres",
-      "artistName": "Jean-Auguste-Dominique Ingres",
-      "locationId": "musee-des-beaux-arts-d-angers-angers",
-      "location": "Musée des Beaux-Arts d'Angers",
-      "city": "Angers",
-      "country": "France",
-      "lat": 47.468888888,
-      "lon": -0.554722222,
-      "source": "http://www.wikidata.org/entity/Q100731553",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%20-%20Les%20Tragiques%20grecs%2C%201866.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%2C%20Self-portrait.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2971,7 +4021,32 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q100731553",
+      "title": "Untitled record",
+      "date": "1866",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jean-auguste-dominique-ingres",
+      "artistName": "Jean-Auguste-Dominique Ingres",
+      "locationId": "musee-des-beaux-arts-d-angers-angers",
+      "location": "Musée des Beaux-Arts d'Angers",
+      "city": "Angers",
+      "country": "France",
+      "lat": 47.468888888,
+      "lon": -0.554722222,
+      "source": "http://www.wikidata.org/entity/Q100731553",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%20-%20Les%20Tragiques%20grecs%2C%201866.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%2C%20Self-portrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q23380",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2996,7 +4071,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3021,7 +4096,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3046,7 +4121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3071,7 +4146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3096,7 +4171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3116,12 +4191,12 @@
       "lon": 1.094722,
       "source": "http://www.wikidata.org/entity/Q15918393",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%2C%20Belle%20Zelie.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%28Rouen%29%20Portrait%20de%20femme%20dit%20la%20%27Belle%20Z%C3%A9lie%27%20par%20Ingres%20-%20Mus%C3%A9e%20des%20Beaux-Arts%20de%20Rouen.jpg",
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%2C%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3146,7 +4221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3171,7 +4246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3196,7 +4271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3221,7 +4296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3246,7 +4321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3271,7 +4346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3296,7 +4371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3321,7 +4396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3346,7 +4421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3371,7 +4446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3396,7 +4471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3421,7 +4496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3446,32 +4521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q1087247",
-      "title": "Jesus Returning the Keys to St. Peter",
-      "date": "1820",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "jean-auguste-dominique-ingres",
-      "artistName": "Jean-Auguste-Dominique Ingres",
-      "locationId": "musee-ingres-bourdelle-montauban",
-      "location": "Musée Ingres Bourdelle",
-      "city": "Montauban",
-      "country": "France",
-      "lat": 44.016944,
-      "lon": 1.351667,
-      "source": "http://www.wikidata.org/entity/Q1087247",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%2C%20Jean%20-%20Jesus%20Returning%20the%20Keys%20to%20St.%20Peter%20-%201820.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%2C%20Self-portrait.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3496,7 +4546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3521,7 +4571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3541,12 +4591,12 @@
       "lon": 1.351667,
       "source": "http://www.wikidata.org/entity/Q61031283",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Male%20torso%20ingres.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%28Montauban%29%20Torse%20d%27homme%20-%20Dominique%20Ingres%20-%20Mus%C3%A9e%20Ingres%20Bourdelle.jpg",
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%2C%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3571,7 +4621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3596,7 +4646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3621,7 +4671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3646,7 +4696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3671,7 +4721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3696,7 +4746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3721,7 +4771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3746,7 +4796,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3771,7 +4821,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3796,7 +4846,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3821,7 +4871,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3846,7 +4896,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3871,7 +4921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3896,32 +4946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q120718236",
-      "title": "Untitled record",
-      "date": "1821",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "jean-auguste-dominique-ingres",
-      "artistName": "Jean-Auguste-Dominique Ingres",
-      "locationId": "musee-ingres-bourdelle-montauban",
-      "location": "Musée Ingres Bourdelle",
-      "city": "Montauban",
-      "country": "France",
-      "lat": 44.016944,
-      "lon": 1.351667,
-      "source": "http://www.wikidata.org/entity/Q120718236",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Condottiere%20%28by%20Jean-Auguste-Dominique%20Ingres%29.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%2C%20Self-portrait.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3946,7 +4971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3971,7 +4996,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3996,7 +5021,32 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q120718236",
+      "title": "Untitled record",
+      "date": "1821",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jean-auguste-dominique-ingres",
+      "artistName": "Jean-Auguste-Dominique Ingres",
+      "locationId": "musee-ingres-bourdelle-montauban",
+      "location": "Musée Ingres Bourdelle",
+      "city": "Montauban",
+      "country": "France",
+      "lat": 44.016944,
+      "lon": 1.351667,
+      "source": "http://www.wikidata.org/entity/Q120718236",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Condottiere%20%28by%20Jean-Auguste-Dominique%20Ingres%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%2C%20Self-portrait.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q23380",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4021,7 +5071,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4046,7 +5096,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4071,7 +5121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4096,7 +5146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4121,7 +5171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4146,7 +5196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4171,7 +5221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4196,7 +5246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4221,7 +5271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4246,7 +5296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4271,7 +5321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4296,7 +5346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4321,7 +5371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4346,32 +5396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q130304463",
-      "title": "Untitled record",
-      "date": "1814",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "jean-auguste-dominique-ingres",
-      "artistName": "Jean-Auguste-Dominique Ingres",
-      "locationId": "museum-of-grenoble-grenoble",
-      "location": "Museum of Grenoble",
-      "city": "Grenoble",
-      "country": "France",
-      "lat": 45.1945,
-      "lon": 5.7324,
-      "source": "http://www.wikidata.org/entity/Q130304463",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%20-%20T%C3%AAte%20de%20la%20Grande%20Odalisque%2C%201814.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%2C%20Self-portrait.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4391,12 +5416,12 @@
       "lon": -1.547222222,
       "source": "http://www.wikidata.org/entity/Q3292681",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Madame%20de%20Senonnes.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%28Nantes%29%20Portrait%20de%20Madame%20de%20Senonnes%20par%20Ingres%20-%20Mus%C3%A9e%20d%27Arts%20de%20Nantes.jpg",
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%2C%20Self-portrait.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4421,7 +5446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4446,7 +5471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4471,7 +5496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4496,7 +5521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4521,7 +5546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4546,7 +5571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4571,7 +5596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4596,7 +5621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4621,7 +5646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4646,7 +5671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4671,7 +5696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4683,9 +5708,9 @@
       "attribution": "Accepted",
       "artistId": "jean-auguste-dominique-ingres",
       "artistName": "Jean-Auguste-Dominique Ingres",
-      "locationId": "nationalmuseum-stockholm",
+      "locationId": "nationalmuseum-stockholm-municipality",
       "location": "Nationalmuseum",
-      "city": "Stockholm",
+      "city": "Stockholm Municipality",
       "country": "Sweden",
       "lat": 59.328611111,
       "lon": 18.078055555,
@@ -4696,7 +5721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4721,7 +5746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4746,7 +5771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4771,7 +5796,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4796,7 +5821,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4821,7 +5846,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4846,7 +5871,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4871,7 +5896,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4896,7 +5921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4921,7 +5946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4946,7 +5971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4971,7 +5996,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4996,7 +6021,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5021,7 +6046,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5046,7 +6071,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5071,7 +6096,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5096,7 +6121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5121,7 +6146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5146,7 +6171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5171,7 +6196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5196,7 +6221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5221,7 +6246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5246,7 +6271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5271,7 +6296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5296,7 +6321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5321,7 +6346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5346,7 +6371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5371,7 +6396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5396,7 +6421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5421,7 +6446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5446,7 +6471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5471,7 +6496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5496,7 +6521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5521,7 +6546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5546,7 +6571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5571,7 +6596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5596,7 +6621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5621,7 +6646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5646,7 +6671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q23380",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     }

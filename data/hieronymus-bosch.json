@@ -21,7 +21,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -46,7 +46,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -71,7 +71,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -96,7 +96,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -121,7 +121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -146,7 +146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -171,7 +171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -196,7 +196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -221,7 +221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -246,7 +246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -271,7 +271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -296,7 +296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -321,7 +321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -346,7 +346,132 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q405814",
+      "title": "Ship of Fools",
+      "date": "1500",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "hieronymus-bosch",
+      "artistName": "Hieronymus Bosch",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q405814",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jheronimus%20Bosch%20011.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q130531",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q121265114",
+      "title": "Ars Moriendi",
+      "date": "Date unknown",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "hieronymus-bosch",
+      "artistName": "Hieronymus Bosch",
+      "locationId": "department-of-prints-and-drawings-of-the-louvre-location-unknown",
+      "location": "Department of Prints and Drawings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111111,
+      "lon": 2.335833333,
+      "source": "http://www.wikidata.org/entity/Q121265114",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jheronimus%20Bosch%20%28cropped%29.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q130531",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q13726061",
+      "title": "Ship of Fools",
+      "date": "1500",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "hieronymus-bosch",
+      "artistName": "Hieronymus Bosch",
+      "locationId": "department-of-prints-and-drawings-of-the-louvre-location-unknown",
+      "location": "Department of Prints and Drawings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111111,
+      "lon": 2.335833333,
+      "source": "http://www.wikidata.org/entity/Q13726061",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/TheShipOfFools%28BoschDrawingStudy%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q130531",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q23042193",
+      "title": "The Conjurer",
+      "date": "Date unknown",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "hieronymus-bosch",
+      "artistName": "Hieronymus Bosch",
+      "locationId": "department-of-prints-and-drawings-of-the-louvre-location-unknown",
+      "location": "Department of Prints and Drawings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111111,
+      "lon": 2.335833333,
+      "source": "http://www.wikidata.org/entity/Q23042193",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bosch%20follower%20Conjurer%20%28recto%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q130531",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q14853426",
+      "title": "Untitled record",
+      "date": "1465",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "hieronymus-bosch",
+      "artistName": "Hieronymus Bosch",
+      "locationId": "department-of-prints-and-drawings-of-the-louvre-location-unknown",
+      "location": "Department of Prints and Drawings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111111,
+      "lon": 2.335833333,
+      "source": "http://www.wikidata.org/entity/Q14853426",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Possibly%20Jheronimus%20Bosch%20001%20recto%2001.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q130531",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -371,7 +496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -396,7 +521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -421,7 +546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -446,7 +571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -471,7 +596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -496,7 +621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -521,7 +646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -546,7 +671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -566,12 +691,12 @@
       "lon": 13.364722222,
       "source": "http://www.wikidata.org/entity/Q26696382",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20%28ca.%201450%20-%208.1516%29%20-%20John%20on%20Patmos%20-%20Scenes%20of%20the%20Passion%20of%20Christ%20-%201647A%20-%20Gem%C3%A4ldegalerie.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jheronimus%20Bosch%20Scenes%20from%20the%20Passion%20%28full%29.jpg",
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -596,7 +721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -621,7 +746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -646,7 +771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -671,7 +796,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -696,7 +821,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -721,7 +846,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -746,7 +871,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -771,7 +896,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -796,7 +921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -821,7 +946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -846,7 +971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -871,7 +996,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -896,7 +1021,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -921,7 +1046,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -946,7 +1071,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -971,7 +1096,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -996,7 +1121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1021,7 +1146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1046,7 +1171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1071,7 +1196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1096,7 +1221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1121,7 +1246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1146,7 +1271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1171,7 +1296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1196,7 +1321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1221,7 +1346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1246,7 +1371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1271,7 +1396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1296,7 +1421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1321,7 +1446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1346,7 +1471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1371,7 +1496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1396,7 +1521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1421,7 +1546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1446,7 +1571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1471,7 +1596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1496,7 +1621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1521,7 +1646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1546,7 +1671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1571,7 +1696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1596,7 +1721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1621,7 +1746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1646,7 +1771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1671,7 +1796,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1696,7 +1821,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1721,7 +1846,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1746,7 +1871,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1771,7 +1896,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1796,7 +1921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1821,7 +1946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1846,7 +1971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1871,7 +1996,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1896,7 +2021,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1921,14 +2046,14 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
     {
       "id": "Q680128",
       "title": "Christ Carrying the Cross",
-      "date": "1510",
+      "date": "1515",
       "type": "Painting",
       "attribution": "Accepted",
       "artistId": "hieronymus-bosch",
@@ -1946,7 +2071,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1971,7 +2096,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1983,9 +2108,9 @@
       "attribution": "Accepted",
       "artistId": "hieronymus-bosch",
       "artistName": "Hieronymus Bosch",
-      "locationId": "museum-of-fine-arts-budapest-zuglo",
+      "locationId": "museum-of-fine-arts-budapest-budapest-district-xiv",
       "location": "Museum of Fine Arts, Budapest",
-      "city": "Zugló",
+      "city": "Budapest district XIV",
       "country": "Hungary",
       "lat": 47.51587,
       "lon": 19.07678,
@@ -1996,21 +2121,21 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
     {
       "id": "Q50896457",
       "title": "The Garden of Earthly Delights",
-      "date": "1500",
+      "date": "1520",
       "type": "Painting",
       "attribution": "Accepted",
       "artistId": "hieronymus-bosch",
       "artistName": "Hieronymus Bosch",
-      "locationId": "museum-of-fine-arts-budapest-zuglo",
+      "locationId": "museum-of-fine-arts-budapest-budapest-district-xiv",
       "location": "Museum of Fine Arts, Budapest",
-      "city": "Zugló",
+      "city": "Budapest district XIV",
       "country": "Hungary",
       "lat": 47.51587,
       "lon": 19.07678,
@@ -2021,7 +2146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2046,7 +2171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2071,7 +2196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2096,7 +2221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2121,7 +2246,32 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q26678545",
+      "title": "The Adoration of the Kings",
+      "date": "1514",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "hieronymus-bosch",
+      "artistName": "Hieronymus Bosch",
+      "locationId": "national-trust-location-unknown",
+      "location": "National Trust",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 51.5637,
+      "lon": -1.7972,
+      "source": "http://www.wikidata.org/entity/Q26678545",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Follower%20of%20Hieronymus%20Bosch%20-%20Adoration%20of%20the%20Magi%20-%20Upton%20House%20%28open%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q130531",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2146,7 +2296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2171,7 +2321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2196,7 +2346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2221,7 +2371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2246,7 +2396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2271,7 +2421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2296,14 +2446,14 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
     {
       "id": "Q4680459",
       "title": "Adoration of the Magi",
-      "date": "1520",
+      "date": "1600",
       "type": "Painting",
       "attribution": "Accepted",
       "artistId": "hieronymus-bosch",
@@ -2321,7 +2471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2346,7 +2496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2371,7 +2521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2396,7 +2546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2421,7 +2571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2446,7 +2596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2471,7 +2621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2496,7 +2646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2521,7 +2671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2546,7 +2696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2571,7 +2721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2596,7 +2746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2621,7 +2771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2646,7 +2796,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2671,7 +2821,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2696,7 +2846,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2717,11 +2867,11 @@
       "source": "http://www.wikidata.org/entity/Q119650979",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20%28c.1450-1516%29%20%28and%20workshop%29%20-%20Christ%20before%20Pilate%2C%20Set%20within%20Grisailles%20of%20the%20Forces%20of%20Evil%20%28outsides%20of%20two%20wings%29%20-%20446744%20-%20Upton%20House.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jheronimus%20Bosch%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2746,32 +2896,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q26678545",
-      "title": "The Adoration of the Kings",
-      "date": "1514",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "hieronymus-bosch",
-      "artistName": "Hieronymus Bosch",
-      "locationId": "upton-house-ratley-and-upton",
-      "location": "Upton House",
-      "city": "Ratley and Upton",
-      "country": "United Kingdom",
-      "lat": 52.1083,
-      "lon": -1.4616,
-      "source": "http://www.wikidata.org/entity/Q26678545",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Follower%20of%20Hieronymus%20Bosch%20-%20Adoration%20of%20the%20Magi%20-%20Upton%20House%20%28open%29.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q130531",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2796,7 +2921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2817,11 +2942,11 @@
       "source": "http://www.wikidata.org/entity/Q118678886",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20%28c.1450-1516%29%20%28copy%20after%29%20-%20The%20Garden%20of%20Earthly%20Delights%20-%2044972i%20-%20Wellcome%20Collection.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20by%20Cornelis%20Cort.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jheronimus%20Bosch%20%28cropped%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2846,7 +2971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q130531",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     }

@@ -3,25 +3,6 @@
   "country": "Argentina",
   "artworks": [
     {
-      "id": "Q20819142",
-      "artistId": "turner",
-      "artistName": "J. M. W. Turner",
-      "reviewStatus": "generated",
-      "title": "Juliet and her Nurse",
-      "date": "1836",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "amalita-collection-buenos-aires",
-      "location": "AMALITA Collection",
-      "city": "Buenos Aires",
-      "country": "Argentina",
-      "lat": -34.599619,
-      "lon": -58.364956,
-      "source": "http://www.wikidata.org/entity/Q20819142",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/J.%20M.%20W.%20Turner%20-%20Juliet%20and%20her%20Nurse%20%281836%29%20Google%20Art%20Project.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%20auto-retrato.jpg"
-    },
-    {
       "id": "Q116869013",
       "artistId": "marc-chagall",
       "artistName": "Marc Chagall",
@@ -193,25 +174,6 @@
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20110.jpg"
     },
     {
-      "id": "Q27953674",
-      "artistId": "amedeo-modigliani",
-      "artistName": "Amedeo Modigliani",
-      "reviewStatus": "generated",
-      "title": "Bust of a Woman",
-      "date": "2000",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "national-museum-of-fine-arts-argentina-buenos-aires",
-      "location": "National Museum of Fine Arts, Argentina",
-      "city": "Buenos Aires",
-      "country": "Argentina",
-      "lat": -34.583986,
-      "lon": -58.39297,
-      "source": "http://www.wikidata.org/entity/Q27953674",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Modigliani%20-%20Busto%20de%20mulher.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Amedeo%20Modigliani%201918%20restored.jpg"
-    },
-    {
       "id": "Q27953704",
       "artistId": "amedeo-modigliani",
       "artistName": "Amedeo Modigliani",
@@ -228,6 +190,25 @@
       "lon": -58.39297,
       "source": "http://www.wikidata.org/entity/Q27953704",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Modigliani%20-%20Figura%20de%20mujer.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Amedeo%20Modigliani%201918%20restored.jpg"
+    },
+    {
+      "id": "Q27953674",
+      "artistId": "amedeo-modigliani",
+      "artistName": "Amedeo Modigliani",
+      "reviewStatus": "generated",
+      "title": "Bust of a Woman",
+      "date": "2000",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "national-museum-of-fine-arts-argentina-buenos-aires",
+      "location": "National Museum of Fine Arts, Argentina",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "lat": -34.583986,
+      "lon": -58.39297,
+      "source": "http://www.wikidata.org/entity/Q27953674",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Modigliani%20-%20Busto%20de%20mulher.jpg",
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Amedeo%20Modigliani%201918%20restored.jpg"
     },
     {
@@ -896,6 +877,25 @@
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg"
     },
     {
+      "id": "Q18669871",
+      "artistId": "honore-daumier",
+      "artistName": "Honoré Daumier",
+      "reviewStatus": "generated",
+      "title": "Untitled record",
+      "date": "1900",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "national-museum-of-fine-arts-argentina-buenos-aires",
+      "location": "National Museum of Fine Arts, Argentina",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "lat": -34.583986,
+      "lon": -58.39297,
+      "source": "http://www.wikidata.org/entity/Q18669871",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Honor%C3%A9%20Daumier%20-%20Les%20Amateurs%20d%E2%80%99estampes.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Honore%20Daumier-Nadar.jpg"
+    },
+    {
       "id": "Q18177859",
       "artistId": "jean-baptiste-camille-corot",
       "artistName": "Jean-Baptiste-Camille Corot",
@@ -988,7 +988,7 @@
       "lon": -58.39297,
       "source": "http://www.wikidata.org/entity/Q27951197",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Zeichnung%20zu%20Volks%20by%20K%C3%A4the%20Kollwitz%2C%201921.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg"
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/K%C3%A4the%20Kollwitz%20by%20Hugo%20Erfurth%2C%201927.jpg"
     },
     {
       "id": "Q27950676",
@@ -1143,25 +1143,6 @@
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre%20Auguste%20Renoir%2C%20uncropped%20image.jpg"
     },
     {
-      "id": "Q21531808",
-      "artistId": "rembrandt",
-      "artistName": "Rembrandt",
-      "reviewStatus": "generated",
-      "title": "Young Woman with a Gold Chain",
-      "date": "1634",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "national-museum-of-fine-arts-argentina-buenos-aires",
-      "location": "National Museum of Fine Arts, Argentina",
-      "city": "Buenos Aires",
-      "country": "Argentina",
-      "lat": -34.583986,
-      "lon": -58.39297,
-      "source": "http://www.wikidata.org/entity/Q21531808",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Harmensz%20van%20Rijn%20REMBRANDT%20y%20Taller%20-%20Retrato%20de%20mujer%20joven%20-%20Google%20Art%20Project.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20van%20Rijn%20-%20Self-Portrait%20-%20Google%20Art%20Project.jpg"
-    },
-    {
       "id": "Q27950490",
       "artistId": "rosa-bonheur",
       "artistName": "Rosa Bonheur",
@@ -1255,6 +1236,25 @@
       "source": "http://www.wikidata.org/entity/Q27954980",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Secretario%20-%20Tiziano.jpg",
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Vecellio%20di%20Gregorio%20Tiziano%20-%20autoritratto.jpg"
+    },
+    {
+      "id": "Q26220238",
+      "artistId": "van-gogh",
+      "artistName": "Vincent van Gogh",
+      "reviewStatus": "generated",
+      "title": "Le Moulin de la Galette",
+      "date": "1886",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "national-museum-of-fine-arts-argentina-buenos-aires",
+      "location": "National Museum of Fine Arts, Argentina",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "lat": -34.583986,
+      "lon": -58.39297,
+      "source": "http://www.wikidata.org/entity/Q26220238",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Vincent%20van%20Gogh%20-%20Le%20Moulin%20de%20la%20Galette%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Self-portrait%20-%20Vincent%20van%20Gogh.jpg"
     },
     {
       "id": "Q27951187",

@@ -288,6 +288,25 @@
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Self-portrait-1889.jpg"
     },
     {
+      "id": "Q131742158",
+      "artistId": "pierre-bonnard",
+      "artistName": "Pierre Bonnard",
+      "reviewStatus": "generated",
+      "title": "Woman reading a book",
+      "date": "1905",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "national-museum-of-serbia-belgrade",
+      "location": "National Museum of Serbia",
+      "city": "Belgrade",
+      "country": "Serbia",
+      "lat": 44.81677,
+      "lon": 20.45965,
+      "source": "http://www.wikidata.org/entity/Q131742158",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Self-portrait-1889.jpg"
+    },
+    {
       "id": "Q7068331",
       "artistId": "pierre-auguste-renoir",
       "artistName": "Pierre-Auguste Renoir",
@@ -342,7 +361,7 @@
       "lon": 20.45965,
       "source": "http://www.wikidata.org/entity/Q131742159",
       "externalImage": "",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Suzanne%20Valadon.%20Portrait%20au%20chapeau%2C%20photographie%2C%20vers%201885.%20Ville%20de%20Paris%20Biblioth%C3%A8que%20Marguerite%20Durand%20%28BMD%29.jpg"
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%28Barcelona%29%20Autoretrat%20al%20mirall%20-%20by%20Suzanne%20Valadon.jpg"
     },
     {
       "id": "Q136324112",

@@ -1,6 +1,81 @@
 {
   "artworks": [
     {
+      "id": "Q140880917",
+      "title": "La Sorcière, tête d'étude",
+      "date": "1802",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "marie-guillemine-benoist",
+      "artistName": "Marie-Guillemine Benoist",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q140880917",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Marie-Guillemine%20Benoist%20-%20Self-portrait%2C%201786.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q118810",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q1923320",
+      "title": "Portrait of Madeleine",
+      "date": "1800",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "marie-guillemine-benoist",
+      "artistName": "Marie-Guillemine Benoist",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q1923320",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20d%27une%20femme%20noire%20-%20Marie-Guillemine%20Benoist%20Mus%C3%A9e%20du%20Louvre%20Peintures%20INV%202508.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Marie-Guillemine%20Benoist%20-%20Self-portrait%2C%201786.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q118810",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q111160045",
+      "title": "Five busts of men",
+      "date": "1797",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "marie-guillemine-benoist",
+      "artistName": "Marie-Guillemine Benoist",
+      "locationId": "department-of-prints-and-drawings-of-the-louvre-location-unknown",
+      "location": "Department of Prints and Drawings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111111,
+      "lon": 2.335833333,
+      "source": "http://www.wikidata.org/entity/Q111160045",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Marie-Guillemine%20Benoist%20-%20Self-portrait%2C%201786.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q118810",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
       "id": "Q98608822",
       "title": "Psyche Bidding Her Family Farewell",
       "date": "1791",
@@ -21,7 +96,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q118810",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -46,7 +121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q118810",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -71,7 +146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q118810",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -96,7 +171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q118810",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -121,7 +196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q118810",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -146,7 +221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q118810",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -171,7 +246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q118810",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -196,7 +271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q118810",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -221,7 +296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q118810",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -246,7 +321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q118810",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -271,7 +346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q118810",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -296,7 +371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q118810",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -321,7 +396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q118810",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -346,7 +421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q118810",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -371,7 +446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q118810",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -396,7 +471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q118810",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -421,7 +496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q118810",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -446,7 +521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q118810",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -471,7 +546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q118810",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -496,7 +571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q118810",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -521,7 +596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q118810",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -546,7 +621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q118810",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     }

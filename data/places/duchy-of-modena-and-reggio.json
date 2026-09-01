@@ -1,0 +1,25 @@
+{
+  "id": "duchy-of-modena-and-reggio",
+  "country": "Duchy of Modena and Reggio",
+  "artworks": [
+    {
+      "id": "Q140479200",
+      "artistId": "tintoretto",
+      "artistName": "Tintoretto",
+      "reviewStatus": "generated",
+      "title": "Deucalion and Pyrrha Praying before the Statue of the Goddess Themis",
+      "date": "1542",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "galleria-estense-modena",
+      "location": "Galleria Estense",
+      "city": "Modena",
+      "country": "Duchy of Modena and Reggio",
+      "lat": 44.648018,
+      "lon": 10.921177,
+      "source": "http://www.wikidata.org/entity/Q140479200",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jacopo%20Tintoretto%20-%20Deucalion%20and%20Pyrrha%20Praying%20before%20the%20Statue%20of%20the%20Goddess%20Themis%20-%20WGA22663.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Tintoretto%20-%20Self-Portrait%20as%20a%20Young%20Man%2C%20ca.%201548%2C%20CAI.103%20%28cropped%29.jpg"
+    }
+  ]
+}

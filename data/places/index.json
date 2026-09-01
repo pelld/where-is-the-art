@@ -1,74 +1,74 @@
 {
-  "generatedAt": "2026-08-01T07:46:57.947Z",
+  "generatedAt": "2026-09-01T10:20:03.222Z",
   "countries": [
     {
       "id": "united-states",
       "name": "United States",
-      "works": 14007,
+      "works": 13655,
       "artists": 100,
-      "institutions": 257,
-      "cities": 165
+      "institutions": 258,
+      "cities": 163
     },
     {
       "id": "united-kingdom",
       "name": "United Kingdom",
-      "works": 3202,
+      "works": 3926,
       "artists": 88,
-      "institutions": 303,
-      "cities": 199
+      "institutions": 295,
+      "cities": 188
     },
     {
       "id": "france",
       "name": "France",
-      "works": 2842,
-      "artists": 87,
-      "institutions": 236,
-      "cities": 177
+      "works": 2783,
+      "artists": 88,
+      "institutions": 231,
+      "cities": 173
     },
     {
       "id": "germany",
       "name": "Germany",
-      "works": 2176,
-      "artists": 86,
+      "works": 2154,
+      "artists": 85,
       "institutions": 137,
-      "cities": 87
+      "cities": 88
     },
     {
       "id": "italy",
       "name": "Italy",
-      "works": 1354,
+      "works": 1349,
       "artists": 68,
-      "institutions": 248,
-      "cities": 76
+      "institutions": 252,
+      "cities": 77
     },
     {
       "id": "netherlands",
       "name": "Netherlands",
-      "works": 1259,
-      "artists": 71,
-      "institutions": 46,
+      "works": 1255,
+      "artists": 70,
+      "institutions": 44,
       "cities": 30
     },
     {
       "id": "spain",
       "name": "Spain",
-      "works": 1157,
-      "artists": 70,
-      "institutions": 94,
-      "cities": 46
+      "works": 1161,
+      "artists": 69,
+      "institutions": 95,
+      "cities": 47
     },
     {
       "id": "switzerland",
       "name": "Switzerland",
-      "works": 827,
-      "artists": 55,
-      "institutions": 43,
-      "cities": 31
+      "works": 819,
+      "artists": 56,
+      "institutions": 44,
+      "cities": 32
     },
     {
       "id": "russia",
       "name": "Russia",
-      "works": 781,
+      "works": 795,
       "artists": 63,
       "institutions": 51,
       "cities": 40
@@ -76,103 +76,103 @@
     {
       "id": "norway",
       "name": "Norway",
-      "works": 718,
-      "artists": 30,
-      "institutions": 7,
-      "cities": 4
+      "works": 675,
+      "artists": 29,
+      "institutions": 9,
+      "cities": 5
     },
     {
       "id": "japan",
       "name": "Japan",
-      "works": 593,
+      "works": 597,
       "artists": 54,
-      "institutions": 69,
-      "cities": 64
+      "institutions": 68,
+      "cities": 63
     },
     {
       "id": "sweden",
       "name": "Sweden",
-      "works": 544,
-      "artists": 61,
-      "institutions": 9,
-      "cities": 4
+      "works": 540,
+      "artists": 60,
+      "institutions": 13,
+      "cities": 7
     },
     {
       "id": "austria",
       "name": "Austria",
-      "works": 505,
-      "artists": 61,
+      "works": 480,
+      "artists": 60,
       "institutions": 24,
       "cities": 7
     },
     {
       "id": "belgium",
       "name": "Belgium",
-      "works": 401,
+      "works": 382,
       "artists": 56,
-      "institutions": 40,
-      "cities": 19
+      "institutions": 34,
+      "cities": 17
     },
     {
       "id": "denmark",
       "name": "Denmark",
-      "works": 244,
-      "artists": 49,
-      "institutions": 7,
+      "works": 270,
+      "artists": 50,
+      "institutions": 9,
       "cities": 6
     },
     {
       "id": "canada",
       "name": "Canada",
-      "works": 168,
-      "artists": 50,
-      "institutions": 11,
-      "cities": 8
-    },
-    {
-      "id": "ireland",
-      "name": "Ireland",
-      "works": 137,
+      "works": 161,
       "artists": 49,
-      "institutions": 4,
-      "cities": 2
+      "institutions": 10,
+      "cities": 7
     },
     {
       "id": "hungary",
       "name": "Hungary",
-      "works": 135,
-      "artists": 40,
+      "works": 130,
+      "artists": 39,
       "institutions": 5,
       "cities": 5
     },
     {
       "id": "australia",
       "name": "Australia",
-      "works": 126,
-      "artists": 49,
+      "works": 129,
+      "artists": 50,
       "institutions": 7,
       "cities": 7
     },
     {
+      "id": "ireland",
+      "name": "Ireland",
+      "works": 126,
+      "artists": 50,
+      "institutions": 4,
+      "cities": 2
+    },
+    {
       "id": "brazil",
       "name": "Brazil",
-      "works": 122,
+      "works": 124,
       "artists": 46,
-      "institutions": 10,
-      "cities": 6
+      "institutions": 13,
+      "cities": 7
     },
     {
       "id": "poland",
       "name": "Poland",
-      "works": 114,
-      "artists": 48,
+      "works": 112,
+      "artists": 47,
       "institutions": 19,
       "cities": 12
     },
     {
       "id": "israel",
       "name": "Israel",
-      "works": 102,
+      "works": 98,
       "artists": 33,
       "institutions": 5,
       "cities": 5
@@ -188,10 +188,10 @@
     {
       "id": "mexico",
       "name": "Mexico",
-      "works": 78,
+      "works": 81,
       "artists": 26,
       "institutions": 13,
-      "cities": 5
+      "cities": 6
     },
     {
       "id": "argentina",
@@ -204,26 +204,26 @@
     {
       "id": "finland",
       "name": "Finland",
-      "works": 53,
-      "artists": 16,
+      "works": 55,
+      "artists": 18,
       "institutions": 3,
-      "cities": 1
-    },
-    {
-      "id": "palestine",
-      "name": "Palestine",
-      "works": 45,
-      "artists": 22,
-      "institutions": 1,
       "cities": 1
     },
     {
       "id": "portugal",
       "name": "Portugal",
-      "works": 45,
+      "works": 46,
       "artists": 20,
       "institutions": 5,
       "cities": 4
+    },
+    {
+      "id": "palestine",
+      "name": "Palestine",
+      "works": 44,
+      "artists": 20,
+      "institutions": 1,
+      "cities": 1
     },
     {
       "id": "armenia",
@@ -237,9 +237,17 @@
       "id": "greece",
       "name": "Greece",
       "works": 28,
-      "artists": 12,
+      "artists": 13,
       "institutions": 8,
       "cities": 5
+    },
+    {
+      "id": "serbia",
+      "name": "Serbia",
+      "works": 21,
+      "artists": 16,
+      "institutions": 1,
+      "cities": 1
     },
     {
       "id": "romania",
@@ -250,14 +258,6 @@
       "cities": 2
     },
     {
-      "id": "serbia",
-      "name": "Serbia",
-      "works": 20,
-      "artists": 16,
-      "institutions": 1,
-      "cities": 1
-    },
-    {
       "id": "ukraine",
       "name": "Ukraine",
       "works": 20,
@@ -266,18 +266,10 @@
       "cities": 7
     },
     {
-      "id": "new-zealand",
-      "name": "New Zealand",
+      "id": "egypt",
+      "name": "Egypt",
       "works": 16,
-      "artists": 13,
-      "institutions": 3,
-      "cities": 3
-    },
-    {
-      "id": "algeria",
-      "name": "Algeria",
-      "works": 15,
-      "artists": 12,
+      "artists": 8,
       "institutions": 1,
       "cities": 1
     },
@@ -290,51 +282,59 @@
       "cities": 2
     },
     {
-      "id": "egypt",
-      "name": "Egypt",
-      "works": 13,
-      "artists": 8,
+      "id": "new-zealand",
+      "name": "New Zealand",
+      "works": 15,
+      "artists": 12,
+      "institutions": 4,
+      "cities": 4
+    },
+    {
+      "id": "algeria",
+      "name": "Algeria",
+      "works": 14,
+      "artists": 12,
       "institutions": 1,
       "cities": 1
     },
     {
       "id": "cuba",
       "name": "Cuba",
-      "works": 12,
-      "artists": 9,
+      "works": 10,
+      "artists": 8,
       "institutions": 1,
       "cities": 1
     },
     {
       "id": "czech-republic",
       "name": "Czech Republic",
-      "works": 12,
-      "artists": 5,
+      "works": 10,
+      "artists": 6,
       "institutions": 4,
       "cities": 4
     },
     {
       "id": "united-arab-emirates",
       "name": "United Arab Emirates",
-      "works": 12,
-      "artists": 12,
+      "works": 10,
+      "artists": 10,
       "institutions": 1,
       "cities": 1
     },
     {
       "id": "colombia",
       "name": "Colombia",
-      "works": 8,
-      "artists": 7,
+      "works": 7,
+      "artists": 6,
       "institutions": 2,
       "cities": 2
     },
     {
-      "id": "slovakia",
-      "name": "Slovakia",
+      "id": "kingdom-of-italy",
+      "name": "Kingdom of Italy",
       "works": 7,
       "artists": 5,
-      "institutions": 2,
+      "institutions": 1,
       "cities": 1
     },
     {
@@ -344,6 +344,14 @@
       "artists": 1,
       "institutions": 2,
       "cities": 2
+    },
+    {
+      "id": "slovakia",
+      "name": "Slovakia",
+      "works": 6,
+      "artists": 4,
+      "institutions": 2,
+      "cities": 1
     },
     {
       "id": "chile",
@@ -356,8 +364,8 @@
     {
       "id": "south-africa",
       "name": "South Africa",
-      "works": 4,
-      "artists": 4,
+      "works": 5,
+      "artists": 5,
       "institutions": 2,
       "cities": 2
     },
@@ -386,22 +394,6 @@
       "cities": 2
     },
     {
-      "id": "luxembourg",
-      "name": "Luxembourg",
-      "works": 3,
-      "artists": 3,
-      "institutions": 2,
-      "cities": 1
-    },
-    {
-      "id": "turkey",
-      "name": "Turkey",
-      "works": 3,
-      "artists": 2,
-      "institutions": 1,
-      "cities": 1
-    },
-    {
       "id": "bavaria",
       "name": "Bavaria",
       "works": 2,
@@ -410,12 +402,12 @@
       "cities": 1
     },
     {
-      "id": "india",
-      "name": "India",
+      "id": "luxembourg",
+      "name": "Luxembourg",
       "works": 2,
       "artists": 2,
       "institutions": 2,
-      "cities": 2
+      "cities": 1
     },
     {
       "id": "malta",
@@ -434,6 +426,14 @@
       "cities": 1
     },
     {
+      "id": "turkey",
+      "name": "Turkey",
+      "works": 2,
+      "artists": 1,
+      "institutions": 1,
+      "cities": 1
+    },
+    {
       "id": "croatia",
       "name": "Croatia",
       "works": 1,
@@ -442,8 +442,8 @@
       "cities": 1
     },
     {
-      "id": "german-democratic-republic",
-      "name": "German Democratic Republic",
+      "id": "duchy-of-modena-and-reggio",
+      "name": "Duchy of Modena and Reggio",
       "works": 1,
       "artists": 1,
       "institutions": 1,
@@ -452,6 +452,14 @@
     {
       "id": "guernsey",
       "name": "Guernsey",
+      "works": 1,
+      "artists": 1,
+      "institutions": 1,
+      "cities": 1
+    },
+    {
+      "id": "india",
+      "name": "India",
       "works": 1,
       "artists": 1,
       "institutions": 1,

@@ -98,25 +98,6 @@
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Rivera%20-%20Google%20Art%20Project%20%28cropped%29.jpg"
     },
     {
-      "id": "Q129255773",
-      "artistId": "anthony-van-dyck",
-      "artistName": "Anthony van Dyck",
-      "reviewStatus": "generated",
-      "title": "Head of a bearded Man",
-      "date": "1650",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "museo-nacional-de-san-carlos-cuauhtemoc",
-      "location": "Museo Nacional de San Carlos",
-      "city": "Cuauhtémoc",
-      "country": "Mexico",
-      "lat": 19.43804,
-      "lon": -99.1519,
-      "source": "http://www.wikidata.org/entity/Q129255773",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Antoon%20van%20Dyck%20-%20Cabe%C3%A7a%20de%20homem%20barbado.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Anthony%20van%20Dyck%20-%20Self-portrait.jpg"
-    },
-    {
       "id": "Q91063454",
       "artistId": "francisco-de-zurbaran",
       "artistName": "Francisco de Zurbarán",
@@ -174,6 +155,25 @@
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Rivera%20-%20Google%20Art%20Project%20%28cropped%29.jpg"
     },
     {
+      "id": "Q61745465",
+      "artistId": "diego-rivera",
+      "artistName": "Diego Rivera",
+      "reviewStatus": "generated",
+      "title": "Untitled record",
+      "date": "1967",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "collection-unknown-location-unknown",
+      "location": "Collection unknown",
+      "city": "Location unknown",
+      "country": "Mexico",
+      "lat": 19.42036,
+      "lon": -99.18204,
+      "source": "http://www.wikidata.org/entity/Q61745465",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Rivera%20-%20Google%20Art%20Project%20%28cropped%29.jpg"
+    },
+    {
       "id": "Q104640981",
       "artistId": "el-greco",
       "artistName": "El Greco",
@@ -191,25 +191,6 @@
       "source": "http://www.wikidata.org/entity/Q104640981",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Greco%20-%20Saint%20Francis%20receiving%20the%20Stigmata%2C%20Alberto%20Pani%2C%20Mexico%20City.jpg",
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Greco%20-%20Portrait%20of%20a%20Man%20-%20WGA10554.jpg"
-    },
-    {
-      "id": "Q61745465",
-      "artistId": "diego-rivera",
-      "artistName": "Diego Rivera",
-      "reviewStatus": "generated",
-      "title": "Untitled record",
-      "date": "1967",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "collection-unknown-mexico-city",
-      "location": "Collection unknown",
-      "city": "Mexico City",
-      "country": "Mexico",
-      "lat": 19.42036,
-      "lon": -99.18204,
-      "source": "http://www.wikidata.org/entity/Q61745465",
-      "externalImage": "",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Rivera%20-%20Google%20Art%20Project%20%28cropped%29.jpg"
     },
     {
       "id": "Q28339146",
@@ -380,7 +361,7 @@
       "lon": -99.20462,
       "source": "http://www.wikidata.org/entity/Q131542819",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Perez%20Murillo%20-%20Ecce%20Homo.JPG",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg"
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Autorretrato%20de%20Murillo.jpg"
     },
     {
       "id": "Q24569472",
@@ -418,7 +399,7 @@
       "lon": -99.20462,
       "source": "http://www.wikidata.org/entity/Q131537857",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Murillo%20-%20Retrato%20de%20un%20caballero.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg"
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Autorretrato%20de%20Murillo.jpg"
     },
     {
       "id": "Q131537854",
@@ -437,7 +418,7 @@
       "lon": -99.20462,
       "source": "http://www.wikidata.org/entity/Q131537854",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Murillo%20-%20Tres%20%C3%81ngeles%20Ni%C3%B1os.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg"
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Autorretrato%20de%20Murillo.jpg"
     },
     {
       "id": "Q130287438",
@@ -554,25 +535,6 @@
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20self%20portrait%201855FXD.jpg"
     },
     {
-      "id": "Q117112742",
-      "artistId": "edgar-degas",
-      "artistName": "Edgar Degas",
-      "reviewStatus": "generated",
-      "title": "Untitled record",
-      "date": "Date unknown",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "museo-soumaya-mexico-city",
-      "location": "Museo Soumaya",
-      "city": "Mexico City",
-      "country": "Mexico",
-      "lat": 19.44066,
-      "lon": -99.20462,
-      "source": "http://www.wikidata.org/entity/Q117112742",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%27Seaside%20Landscape%27%20%28ca.%201895-1898%29%20by%20Edgar%20Degas%20-%20Museo%20Soumaya%20-%20Mexico%202024.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20self%20portrait%201855FXD.jpg"
-    },
-    {
       "id": "Q130287441",
       "artistId": "edgar-degas",
       "artistName": "Edgar Degas",
@@ -589,6 +551,25 @@
       "lon": -99.20462,
       "source": "http://www.wikidata.org/entity/Q130287441",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20-%20Woman%20Washing%2C%20c.%201906.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20self%20portrait%201855FXD.jpg"
+    },
+    {
+      "id": "Q117112742",
+      "artistId": "edgar-degas",
+      "artistName": "Edgar Degas",
+      "reviewStatus": "generated",
+      "title": "Untitled record",
+      "date": "Date unknown",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "museo-soumaya-mexico-city",
+      "location": "Museo Soumaya",
+      "city": "Mexico City",
+      "country": "Mexico",
+      "lat": 19.44066,
+      "lon": -99.20462,
+      "source": "http://www.wikidata.org/entity/Q117112742",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%27Seaside%20Landscape%27%20%28ca.%201895-1898%29%20by%20Edgar%20Degas%20-%20Museo%20Soumaya%20-%20Mexico%202024.jpg",
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20self%20portrait%201855FXD.jpg"
     },
     {
@@ -934,6 +915,44 @@
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Photolautrec.jpg"
     },
     {
+      "id": "Q25412604",
+      "artistId": "honore-daumier",
+      "artistName": "Honoré Daumier",
+      "reviewStatus": "generated",
+      "title": "The Legislative Belly",
+      "date": "1834",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "museo-soumaya-mexico-city",
+      "location": "Museo Soumaya",
+      "city": "Mexico City",
+      "country": "Mexico",
+      "lat": 19.44066,
+      "lon": -99.20462,
+      "source": "http://www.wikidata.org/entity/Q25412604",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Honore%20Daumier-Nadar.jpg"
+    },
+    {
+      "id": "Q25412603",
+      "artistId": "honore-daumier",
+      "artistName": "Honoré Daumier",
+      "reviewStatus": "generated",
+      "title": "Untitled record",
+      "date": "1854",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "museo-soumaya-mexico-city",
+      "location": "Museo Soumaya",
+      "city": "Mexico City",
+      "country": "Mexico",
+      "lat": 19.44066,
+      "lon": -99.20462,
+      "source": "http://www.wikidata.org/entity/Q25412603",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Honore%20Daumier-Nadar.jpg"
+    },
+    {
       "id": "Q130297864",
       "artistId": "jean-auguste-dominique-ingres",
       "artistName": "Jean-Auguste-Dominique Ingres",
@@ -970,6 +989,25 @@
       "source": "http://www.wikidata.org/entity/Q76563345",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%20-%20Paolo%20and%20Francesca.jpg",
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%2C%20Self-portrait.jpg"
+    },
+    {
+      "id": "Q76563331",
+      "artistId": "jean-baptiste-camille-corot",
+      "artistName": "Jean-Baptiste-Camille Corot",
+      "reviewStatus": "generated",
+      "title": "Farmyard with a Rider and a Little Girl in the Foreground",
+      "date": "Date unknown",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "museo-soumaya-mexico-city",
+      "location": "Museo Soumaya",
+      "city": "Mexico City",
+      "country": "Mexico",
+      "lat": 19.44066,
+      "lon": -99.20462,
+      "source": "http://www.wikidata.org/entity/Q76563331",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste-Camille%20Corot%20c1850.png"
     },
     {
       "id": "Q18177864",
@@ -1083,6 +1121,25 @@
       "lon": -99.20462,
       "source": "http://www.wikidata.org/entity/Q47009609",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20de%20femme%20au%20grand%20chapeau%20par%20Pierre%20Bonnard%20%28mus%C3%A9e%20Soumaya%2C%20Mexico%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Self-portrait-1889.jpg"
+    },
+    {
+      "id": "Q130297854",
+      "artistId": "pierre-bonnard",
+      "artistName": "Pierre Bonnard",
+      "reviewStatus": "generated",
+      "title": "Terrace by the Sea",
+      "date": "1910",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "museo-soumaya-mexico-city",
+      "location": "Museo Soumaya",
+      "city": "Mexico City",
+      "country": "Mexico",
+      "lat": 19.44066,
+      "lon": -99.20462,
+      "source": "http://www.wikidata.org/entity/Q130297854",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%27Terrace%20by%20the%20Sea%27%20%28ca%201910%29%20by%20Pierre%20Bonnard%20-%20Museo%20Soumaya%20-%20Mexico%202024.jpg",
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Self-portrait-1889.jpg"
     },
     {

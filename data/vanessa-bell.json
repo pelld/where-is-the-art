@@ -1,6 +1,31 @@
 {
   "artworks": [
     {
+      "id": "Q119677704",
+      "title": "Still Life by the Studio Window",
+      "date": "1950",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "vanessa-bell",
+      "artistName": "Vanessa Bell",
+      "locationId": "aberdeen-archives-gallery-and-museums-collections-aberdeen-city",
+      "location": "Aberdeen Archives, Gallery and Museums collections",
+      "city": "Aberdeen City",
+      "country": "United Kingdom",
+      "lat": 57.148191,
+      "lon": -2.102713,
+      "source": "http://www.wikidata.org/entity/Q119677704",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Roger%20Fry%20Vanessa%20Bell.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q255294",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
       "id": "Q104211610",
       "title": "Bedroom, Gordon Square",
       "date": "1912",
@@ -21,7 +46,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q255294",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -46,7 +71,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q255294",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -71,7 +96,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q255294",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -96,7 +121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q255294",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -121,7 +146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q255294",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -146,7 +171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q255294",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -171,7 +196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q255294",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -196,7 +221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q255294",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -221,7 +246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q255294",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -246,7 +271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q255294",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -271,7 +296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q255294",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -296,7 +321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q255294",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -321,7 +346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q255294",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -346,7 +371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q255294",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -371,7 +396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q255294",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -396,7 +421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q255294",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -421,7 +446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q255294",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -446,7 +471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q255294",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -471,7 +496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q255294",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -496,7 +521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q255294",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -521,7 +546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q255294",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -546,7 +571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q255294",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -571,7 +596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q255294",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -596,7 +621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q255294",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -621,7 +646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q255294",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -646,7 +671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q255294",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -671,7 +696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q255294",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -696,7 +721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q255294",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -721,7 +746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q255294",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -746,7 +771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q255294",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -771,7 +796,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q255294",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -796,7 +821,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q255294",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -821,7 +846,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q255294",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -846,7 +871,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q255294",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -871,7 +896,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q255294",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -896,7 +921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q255294",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -921,7 +946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q255294",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -946,7 +971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q255294",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -971,7 +996,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q255294",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -996,7 +1021,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q255294",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1021,7 +1046,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q255294",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1046,7 +1071,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q255294",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1071,7 +1096,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q255294",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1096,7 +1121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q255294",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1121,7 +1146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q255294",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1146,7 +1171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q255294",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1171,7 +1196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q255294",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1196,7 +1221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q255294",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1221,7 +1246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q255294",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1246,7 +1271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q255294",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1271,7 +1296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q255294",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1296,7 +1321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q255294",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1321,7 +1346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q255294",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1346,7 +1371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q255294",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1371,7 +1396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q255294",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1396,7 +1421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q255294",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1421,7 +1446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q255294",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1446,7 +1471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q255294",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1471,7 +1496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q255294",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1496,7 +1521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q255294",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1521,7 +1546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q255294",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1546,7 +1571,132 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q255294",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q119915398",
+      "title": "Angelica Garnett, née Bell (1918–2012), as 'Mistress Millament' in 'The Way of the World' (from the play by William Congreve)",
+      "date": "Date unknown",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "vanessa-bell",
+      "artistName": "Vanessa Bell",
+      "locationId": "government-art-collection-location-unknown",
+      "location": "Government Art Collection",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 51.499444,
+      "lon": -0.124167,
+      "source": "http://www.wikidata.org/entity/Q119915398",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Roger%20Fry%20Vanessa%20Bell.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q255294",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q119677819",
+      "title": "Asters and Hydrangeas",
+      "date": "Date unknown",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "vanessa-bell",
+      "artistName": "Vanessa Bell",
+      "locationId": "government-art-collection-location-unknown",
+      "location": "Government Art Collection",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 51.499444,
+      "lon": -0.124167,
+      "source": "http://www.wikidata.org/entity/Q119677819",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Roger%20Fry%20Vanessa%20Bell.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q255294",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q119171430",
+      "title": "Byzantine Lady",
+      "date": "1912",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "vanessa-bell",
+      "artistName": "Vanessa Bell",
+      "locationId": "government-art-collection-location-unknown",
+      "location": "Government Art Collection",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 51.499444,
+      "lon": -0.124167,
+      "source": "http://www.wikidata.org/entity/Q119171430",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Roger%20Fry%20Vanessa%20Bell.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q255294",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q119247757",
+      "title": "Flowers",
+      "date": "Date unknown",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "vanessa-bell",
+      "artistName": "Vanessa Bell",
+      "locationId": "government-art-collection-location-unknown",
+      "location": "Government Art Collection",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 51.499444,
+      "lon": -0.124167,
+      "source": "http://www.wikidata.org/entity/Q119247757",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Roger%20Fry%20Vanessa%20Bell.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q255294",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q119915548",
+      "title": "White Roses",
+      "date": "Date unknown",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "vanessa-bell",
+      "artistName": "Vanessa Bell",
+      "locationId": "government-art-collection-location-unknown",
+      "location": "Government Art Collection",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 51.499444,
+      "lon": -0.124167,
+      "source": "http://www.wikidata.org/entity/Q119915548",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Roger%20Fry%20Vanessa%20Bell.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q255294",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1571,7 +1721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q255294",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1596,7 +1746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q255294",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1621,7 +1771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q255294",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1646,7 +1796,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q255294",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1671,7 +1821,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q255294",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1696,7 +1846,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q255294",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1721,7 +1871,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q255294",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1746,7 +1896,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q255294",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1771,7 +1921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q255294",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1796,7 +1946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q255294",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1821,7 +1971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q255294",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1846,7 +1996,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q255294",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1871,7 +2021,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q255294",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1896,7 +2046,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q255294",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1921,7 +2071,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q255294",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1946,7 +2096,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q255294",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1971,7 +2121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q255294",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1996,7 +2146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q255294",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2021,7 +2171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q255294",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2046,7 +2196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q255294",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2071,7 +2221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q255294",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2096,7 +2246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q255294",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2121,7 +2271,332 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q255294",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q52235813",
+      "title": "Apples",
+      "date": "1916",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "vanessa-bell",
+      "artistName": "Vanessa Bell",
+      "locationId": "national-trust-location-unknown",
+      "location": "National Trust",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 51.5637,
+      "lon": -1.7972,
+      "source": "http://www.wikidata.org/entity/Q52235813",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Roger%20Fry%20Vanessa%20Bell.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q255294",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q52235804",
+      "title": "Bottles on a Table",
+      "date": "1916",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "vanessa-bell",
+      "artistName": "Vanessa Bell",
+      "locationId": "national-trust-location-unknown",
+      "location": "National Trust",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 51.5637,
+      "lon": -1.7972,
+      "source": "http://www.wikidata.org/entity/Q52235804",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Roger%20Fry%20Vanessa%20Bell.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q255294",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q52237664",
+      "title": "Flowers",
+      "date": "1951",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "vanessa-bell",
+      "artistName": "Vanessa Bell",
+      "locationId": "national-trust-location-unknown",
+      "location": "National Trust",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 51.5637,
+      "lon": -1.7972,
+      "source": "http://www.wikidata.org/entity/Q52237664",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Roger%20Fry%20Vanessa%20Bell.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q255294",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q52235863",
+      "title": "Haystack and Rickyard",
+      "date": "1920",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "vanessa-bell",
+      "artistName": "Vanessa Bell",
+      "locationId": "national-trust-location-unknown",
+      "location": "National Trust",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 51.5637,
+      "lon": -1.7972,
+      "source": "http://www.wikidata.org/entity/Q52235863",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Roger%20Fry%20Vanessa%20Bell.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q255294",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q52235758",
+      "title": "Jug of Flowers",
+      "date": "1933",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "vanessa-bell",
+      "artistName": "Vanessa Bell",
+      "locationId": "national-trust-location-unknown",
+      "location": "National Trust",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 51.5637,
+      "lon": -1.7972,
+      "source": "http://www.wikidata.org/entity/Q52235758",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Roger%20Fry%20Vanessa%20Bell.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q255294",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q52235883",
+      "title": "Leonard Woolf's Dog 'Sally'",
+      "date": "1939",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "vanessa-bell",
+      "artistName": "Vanessa Bell",
+      "locationId": "national-trust-location-unknown",
+      "location": "National Trust",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 51.5637,
+      "lon": -1.7972,
+      "source": "http://www.wikidata.org/entity/Q52235883",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Roger%20Fry%20Vanessa%20Bell.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q255294",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q52235765",
+      "title": "Newhaven Harbour",
+      "date": "1936",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "vanessa-bell",
+      "artistName": "Vanessa Bell",
+      "locationId": "national-trust-location-unknown",
+      "location": "National Trust",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 51.5637,
+      "lon": -1.7972,
+      "source": "http://www.wikidata.org/entity/Q52235765",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Roger%20Fry%20Vanessa%20Bell.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q255294",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q52235822",
+      "title": "Quentin Bell (1910–1996) Reading",
+      "date": "1937",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "vanessa-bell",
+      "artistName": "Vanessa Bell",
+      "locationId": "national-trust-location-unknown",
+      "location": "National Trust",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 51.5637,
+      "lon": -1.7972,
+      "source": "http://www.wikidata.org/entity/Q52235822",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Roger%20Fry%20Vanessa%20Bell.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q255294",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q52235910",
+      "title": "Still Life of a Vase and Vegetables",
+      "date": "Date unknown",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "vanessa-bell",
+      "artistName": "Vanessa Bell",
+      "locationId": "national-trust-location-unknown",
+      "location": "National Trust",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 51.5637,
+      "lon": -1.7972,
+      "source": "http://www.wikidata.org/entity/Q52235910",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Roger%20Fry%20Vanessa%20Bell.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q255294",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q52235793",
+      "title": "The Duomo, Pisa",
+      "date": "1912",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "vanessa-bell",
+      "artistName": "Vanessa Bell",
+      "locationId": "national-trust-location-unknown",
+      "location": "National Trust",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 51.5637,
+      "lon": -1.7972,
+      "source": "http://www.wikidata.org/entity/Q52235793",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Roger%20Fry%20Vanessa%20Bell.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q255294",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q52236002",
+      "title": "The Pond, Monk's House Garden, Rodmell",
+      "date": "1935",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "vanessa-bell",
+      "artistName": "Vanessa Bell",
+      "locationId": "national-trust-location-unknown",
+      "location": "National Trust",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 51.5637,
+      "lon": -1.7972,
+      "source": "http://www.wikidata.org/entity/Q52236002",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Roger%20Fry%20Vanessa%20Bell.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q255294",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q52235786",
+      "title": "View of a Italian Town through an Archway",
+      "date": "1912",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "vanessa-bell",
+      "artistName": "Vanessa Bell",
+      "locationId": "national-trust-location-unknown",
+      "location": "National Trust",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 51.5637,
+      "lon": -1.7972,
+      "source": "http://www.wikidata.org/entity/Q52235786",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Roger%20Fry%20Vanessa%20Bell.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q255294",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q52235776",
+      "title": "Virginia Woolf (1882-1941)",
+      "date": "1912",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "vanessa-bell",
+      "artistName": "Vanessa Bell",
+      "locationId": "national-trust-location-unknown",
+      "location": "National Trust",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 51.5637,
+      "lon": -1.7972,
+      "source": "http://www.wikidata.org/entity/Q52235776",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Roger%20Fry%20Vanessa%20Bell.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q255294",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2146,7 +2621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q255294",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2171,7 +2646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q255294",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2196,7 +2671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q255294",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2221,7 +2696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q255294",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2246,7 +2721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q255294",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2271,7 +2746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q255294",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2296,7 +2771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q255294",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2321,7 +2796,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q255294",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2346,7 +2821,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q255294",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2371,7 +2846,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q255294",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2396,7 +2871,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q255294",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2421,7 +2896,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q255294",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2446,7 +2921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q255294",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2471,7 +2946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q255294",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2496,7 +2971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q255294",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2521,7 +2996,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q255294",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2546,7 +3021,182 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q255294",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q28555471",
+      "title": "Abstract Painting",
+      "date": "1914",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "vanessa-bell",
+      "artistName": "Vanessa Bell",
+      "locationId": "tate-city-of-westminster",
+      "location": "Tate",
+      "city": "City of Westminster",
+      "country": "United Kingdom",
+      "lat": 51.491062,
+      "lon": -0.127789,
+      "source": "http://www.wikidata.org/entity/Q28555471",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Roger%20Fry%20Vanessa%20Bell.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q255294",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q28549232",
+      "title": "Frederick and Jessie Etchells Painting",
+      "date": "1912",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "vanessa-bell",
+      "artistName": "Vanessa Bell",
+      "locationId": "tate-city-of-westminster",
+      "location": "Tate",
+      "city": "City of Westminster",
+      "country": "United Kingdom",
+      "lat": 51.491062,
+      "lon": -0.127789,
+      "source": "http://www.wikidata.org/entity/Q28549232",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Roger%20Fry%20Vanessa%20Bell.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q255294",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q28548736",
+      "title": "Helen Dudley",
+      "date": "1915",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "vanessa-bell",
+      "artistName": "Vanessa Bell",
+      "locationId": "tate-city-of-westminster",
+      "location": "Tate",
+      "city": "City of Westminster",
+      "country": "United Kingdom",
+      "lat": 51.491062,
+      "lon": -0.127789,
+      "source": "http://www.wikidata.org/entity/Q28548736",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Roger%20Fry%20Vanessa%20Bell.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q255294",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q28563746",
+      "title": "Mrs St John Hutchinson",
+      "date": "1915",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "vanessa-bell",
+      "artistName": "Vanessa Bell",
+      "locationId": "tate-city-of-westminster",
+      "location": "Tate",
+      "city": "City of Westminster",
+      "country": "United Kingdom",
+      "lat": 51.491062,
+      "lon": -0.127789,
+      "source": "http://www.wikidata.org/entity/Q28563746",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Roger%20Fry%20Vanessa%20Bell.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q255294",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q28548722",
+      "title": "Still Life on Corner of a Mantelpiece",
+      "date": "1914",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "vanessa-bell",
+      "artistName": "Vanessa Bell",
+      "locationId": "tate-city-of-westminster",
+      "location": "Tate",
+      "city": "City of Westminster",
+      "country": "United Kingdom",
+      "lat": 51.491062,
+      "lon": -0.127789,
+      "source": "http://www.wikidata.org/entity/Q28548722",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Roger%20Fry%20Vanessa%20Bell.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q255294",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q28566364",
+      "title": "Studland Beach. Verso: Group of Male Nudes by Duncan Grant",
+      "date": "1912",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "vanessa-bell",
+      "artistName": "Vanessa Bell",
+      "locationId": "tate-city-of-westminster",
+      "location": "Tate",
+      "city": "City of Westminster",
+      "country": "United Kingdom",
+      "lat": 51.491062,
+      "lon": -0.127789,
+      "source": "http://www.wikidata.org/entity/Q28566364",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Roger%20Fry%20Vanessa%20Bell.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q255294",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q28566532",
+      "title": "The Tub",
+      "date": "1917",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "vanessa-bell",
+      "artistName": "Vanessa Bell",
+      "locationId": "tate-city-of-westminster",
+      "location": "Tate",
+      "city": "City of Westminster",
+      "country": "United Kingdom",
+      "lat": 51.491062,
+      "lon": -0.127789,
+      "source": "http://www.wikidata.org/entity/Q28566532",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Roger%20Fry%20Vanessa%20Bell.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q255294",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2571,7 +3221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q255294",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2596,7 +3246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q255294",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2621,7 +3271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q255294",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2646,7 +3296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q255294",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2671,7 +3321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q255294",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2696,7 +3346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q255294",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2721,7 +3371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q255294",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2746,7 +3396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q255294",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2771,7 +3421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q255294",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2796,7 +3446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q255294",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2821,7 +3471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q255294",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2837,8 +3487,8 @@
       "location": "Williamson Art Gallery and Museum",
       "city": "Wirral",
       "country": "United Kingdom",
-      "lat": 53.3834,
-      "lon": -3.04333,
+      "lat": 53.38468,
+      "lon": -3.039918,
       "source": "http://www.wikidata.org/entity/Q119677765",
       "image": "",
       "externalImage": "",
@@ -2846,7 +3496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q255294",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2862,8 +3512,8 @@
       "location": "Williamson Art Gallery and Museum",
       "city": "Wirral",
       "country": "United Kingdom",
-      "lat": 53.3834,
-      "lon": -3.04333,
+      "lat": 53.38468,
+      "lon": -3.039918,
       "source": "http://www.wikidata.org/entity/Q119255330",
       "image": "",
       "externalImage": "",
@@ -2871,7 +3521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q255294",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2896,7 +3546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q255294",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2921,7 +3571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q255294",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2946,7 +3596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q255294",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2971,7 +3621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q255294",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2996,7 +3646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q255294",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3021,7 +3671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q255294",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     }

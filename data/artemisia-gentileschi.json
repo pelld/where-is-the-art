@@ -21,7 +21,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q212657",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -46,7 +46,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q212657",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -71,7 +71,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q212657",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -96,32 +96,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q212657",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q130333490",
-      "title": "Penitent Mary Magdalene",
-      "date": "1625",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "artemisia-gentileschi",
-      "artistName": "Artemisia Gentileschi",
-      "locationId": "collection-unknown-fort-worth",
-      "location": "Collection unknown",
-      "city": "Fort Worth",
-      "country": "United States",
-      "lat": 32.748611111,
-      "lon": -97.365,
-      "source": "http://www.wikidata.org/entity/Q130333490",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Marie%20Madeleine%20p%C3%A9nitente.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Artemisia%20Gentileschi%20Selfportrait%20Martyr.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q212657",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -146,7 +121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q212657",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -171,7 +146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q212657",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -196,7 +171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q212657",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -221,7 +196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q212657",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -246,7 +221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q212657",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -271,7 +246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q212657",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -296,7 +271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q212657",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -321,7 +296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q212657",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -346,7 +321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q212657",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -371,7 +346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q212657",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -396,7 +371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q212657",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -421,7 +396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q212657",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -446,7 +421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q212657",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -471,7 +446,32 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q212657",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q130333490",
+      "title": "Penitent Mary Magdalene",
+      "date": "1625",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "artemisia-gentileschi",
+      "artistName": "Artemisia Gentileschi",
+      "locationId": "kimbell-art-museum-fort-worth",
+      "location": "Kimbell Art Museum",
+      "city": "Fort Worth",
+      "country": "United States",
+      "lat": 32.748611111,
+      "lon": -97.365,
+      "source": "http://www.wikidata.org/entity/Q130333490",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Marie%20Madeleine%20p%C3%A9nitente.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Artemisia%20Gentileschi%20Selfportrait%20Martyr.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q212657",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -496,7 +496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q212657",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -521,7 +521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q212657",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -546,7 +546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q212657",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -571,7 +571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q212657",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -596,7 +596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q212657",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -621,7 +621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q212657",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -646,7 +646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q212657",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -671,7 +671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q212657",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -696,7 +696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q212657",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -721,7 +721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q212657",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -746,7 +746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q212657",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -771,7 +771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q212657",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -796,7 +796,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q212657",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -821,7 +821,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q212657",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -846,7 +846,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q212657",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -871,7 +871,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q212657",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -883,9 +883,9 @@
       "attribution": "Accepted",
       "artistId": "artemisia-gentileschi",
       "artistName": "Artemisia Gentileschi",
-      "locationId": "museum-of-fine-arts-budapest-zuglo",
+      "locationId": "museum-of-fine-arts-budapest-budapest-district-xiv",
       "location": "Museum of Fine Arts, Budapest",
-      "city": "Zugló",
+      "city": "Budapest district XIV",
       "country": "Hungary",
       "lat": 47.51587,
       "lon": 19.07678,
@@ -896,7 +896,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q212657",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -908,9 +908,9 @@
       "attribution": "Accepted",
       "artistId": "artemisia-gentileschi",
       "artistName": "Artemisia Gentileschi",
-      "locationId": "museum-of-fine-arts-budapest-zuglo",
+      "locationId": "museum-of-fine-arts-budapest-budapest-district-xiv",
       "location": "Museum of Fine Arts, Budapest",
-      "city": "Zugló",
+      "city": "Budapest district XIV",
       "country": "Hungary",
       "lat": 47.51587,
       "lon": 19.07678,
@@ -921,7 +921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q212657",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -946,7 +946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q212657",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -962,8 +962,8 @@
       "location": "National Museum of Art, Architecture and Design",
       "city": "Oslo",
       "country": "Norway",
-      "lat": 59.91162657,
-      "lon": 10.729235164,
+      "lat": 59.911666666,
+      "lon": 10.729166666,
       "source": "http://www.wikidata.org/entity/Q29044280",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Orazio%20Gentileschi%2C%20Artemisia%20Gentileschi%20-%20Judith%20and%20her%20Maidservant%20with%20the%20Head%20of%20Holofernes%20-%20NG.M.02073%20-%20National%20Museum%20of%20Art%2C%20Architecture%20and%20Design.jpg",
@@ -971,7 +971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q212657",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -987,8 +987,8 @@
       "location": "National Museum of Art, Architecture and Design",
       "city": "Oslo",
       "country": "Norway",
-      "lat": 59.91162657,
-      "lon": 10.729235164,
+      "lat": 59.911666666,
+      "lon": 10.729166666,
       "source": "http://www.wikidata.org/entity/Q114417791",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Artemisia%20Gentileschi%20-%20Judith%20and%20her%20Maidservant%20with%20the%20Head%20of%20Holofernes%20-%20NMK.LAAN.2022.0028%20-%20National%20Museum%20of%20Art%2C%20Architecture%20and%20Design.jpg",
@@ -996,7 +996,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q212657",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1012,8 +1012,8 @@
       "location": "National Museum of Art, Architecture and Design",
       "city": "Oslo",
       "country": "Norway",
-      "lat": 59.91162657,
-      "lon": 10.729235164,
+      "lat": 59.911666666,
+      "lon": 10.729166666,
       "source": "http://www.wikidata.org/entity/Q55431936",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Artemisia%20Gentileschi%20-%20Mary%20Magdalene%20penitent%20-%20NG.M.00236%20-%20National%20Museum%20of%20Art%2C%20Architecture%20and%20Design.jpg",
@@ -1021,7 +1021,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q212657",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1037,8 +1037,8 @@
       "location": "National Museum of Art, Architecture and Design",
       "city": "Oslo",
       "country": "Norway",
-      "lat": 59.91162657,
-      "lon": 10.729235164,
+      "lat": 59.911666666,
+      "lon": 10.729166666,
       "source": "http://www.wikidata.org/entity/Q112629691",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Artemisia%20Gentileschi%20-%20Self-Portrait%20as%20Saint%20Catherine%20of%20Alexandria%20-%20NMK.LAAN.2021.0013%20-%20National%20Museum%20of%20Art%2C%20Architecture%20and%20Design%20%28cropped%29.jpg",
@@ -1046,7 +1046,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q212657",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1058,9 +1058,9 @@
       "attribution": "Accepted",
       "artistId": "artemisia-gentileschi",
       "artistName": "Artemisia Gentileschi",
-      "locationId": "nationalmuseum-stockholm",
+      "locationId": "nationalmuseum-stockholm-municipality",
       "location": "Nationalmuseum",
-      "city": "Stockholm",
+      "city": "Stockholm Municipality",
       "country": "Sweden",
       "lat": 59.328611111,
       "lon": 18.078055555,
@@ -1071,7 +1071,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q212657",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1096,7 +1096,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q212657",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1121,7 +1121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q212657",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1146,7 +1146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q212657",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1171,7 +1171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q212657",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1196,7 +1196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q212657",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1221,7 +1221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q212657",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1246,7 +1246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q212657",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1271,7 +1271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q212657",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1296,7 +1296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q212657",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1321,7 +1321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q212657",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1346,7 +1346,57 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q212657",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q3630745",
+      "title": "Self-Portrait as the Allegory of Painting",
+      "date": "1630",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "artemisia-gentileschi",
+      "artistName": "Artemisia Gentileschi",
+      "locationId": "royal-collection-location-unknown",
+      "location": "Royal Collection",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 51.501,
+      "lon": -0.142,
+      "source": "http://www.wikidata.org/entity/Q3630745",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Self-Portrait%20as%20the%20Allegory%20of%20Painting%20%28La%20Pittura%29%20-%20Artemisia%20Gentileschi.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Artemisia%20Gentileschi%20Selfportrait%20Martyr.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q212657",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q123821093",
+      "title": "Susanna and the Elders",
+      "date": "1639",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "artemisia-gentileschi",
+      "artistName": "Artemisia Gentileschi",
+      "locationId": "royal-collection-location-unknown",
+      "location": "Royal Collection",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 51.501,
+      "lon": -0.142,
+      "source": "http://www.wikidata.org/entity/Q123821093",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Susanna%20and%20the%20Elders%2C%20by%20Artemisia%20Gentileschi%20%28c.1638-40%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Artemisia%20Gentileschi%20Selfportrait%20Martyr.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q212657",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1371,7 +1421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q212657",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1396,7 +1446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q212657",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1421,7 +1471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q212657",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1446,7 +1496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q212657",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1471,7 +1521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q212657",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1496,7 +1546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q212657",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1521,7 +1571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q212657",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1546,7 +1596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q212657",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1571,7 +1621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q212657",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1596,7 +1646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q212657",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1621,7 +1671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q212657",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1646,7 +1696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q212657",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1671,7 +1721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q212657",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1696,7 +1746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q212657",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     }

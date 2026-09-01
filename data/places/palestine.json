@@ -3,25 +3,6 @@
   "country": "Palestine",
   "artworks": [
     {
-      "id": "Q1362177",
-      "artistId": "albrecht-durer",
-      "artistName": "Albrecht Dürer",
-      "reviewStatus": "generated",
-      "title": "Melencolia I",
-      "date": "1514",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "israel-museum-jerusalem",
-      "location": "Israel Museum",
-      "city": "Jerusalem",
-      "country": "Palestine",
-      "lat": 31.7725,
-      "lon": 35.204166666,
-      "source": "http://www.wikidata.org/entity/Q1362177",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Albrecht%20D%C3%BCrer%20-%20Melencolia%20I%20-%20Google%20Art%20Project%20%28427760%29.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/D%C3%BCrer%20Alte%20Pinakothek.jpg"
-    },
-    {
       "id": "Q3937493",
       "artistId": "amedeo-modigliani",
       "artistName": "Amedeo Modigliani",
@@ -323,7 +304,7 @@
       "lon": 35.204166666,
       "source": "http://www.wikidata.org/entity/Q95951414",
       "externalImage": "",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustav%20Klimt%201912.jpg"
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustav%20Klimt%20in%201887.jpg"
     },
     {
       "id": "Q76627022",
@@ -402,25 +383,6 @@
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg"
     },
     {
-      "id": "Q76626447",
-      "artistId": "turner",
-      "artistName": "J. M. W. Turner",
-      "reviewStatus": "generated",
-      "title": "Jerusalem from the Mount of Olives",
-      "date": "1830",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "israel-museum-jerusalem",
-      "location": "Israel Museum",
-      "city": "Jerusalem",
-      "country": "Palestine",
-      "lat": 31.7725,
-      "lon": 35.204166666,
-      "source": "http://www.wikidata.org/entity/Q76626447",
-      "externalImage": "",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%20auto-retrato.jpg"
-    },
-    {
       "id": "Q76844473",
       "artistId": "jean-baptiste-camille-corot",
       "artistName": "Jean-Baptiste-Camille Corot",
@@ -495,6 +457,25 @@
       "source": "http://www.wikidata.org/entity/Q76626220",
       "externalImage": "",
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Shagal%20Choumoff.jpg"
+    },
+    {
+      "id": "Q28797018",
+      "artistId": "paul-cezanne",
+      "artistName": "Paul Cézanne",
+      "reviewStatus": "generated",
+      "title": "Country House by a River",
+      "date": "1890",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "israel-museum-jerusalem",
+      "location": "Israel Museum",
+      "city": "Jerusalem",
+      "country": "Palestine",
+      "lat": 31.7725,
+      "lon": 35.204166666,
+      "source": "http://www.wikidata.org/entity/Q28797018",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20C%C3%A9zanne%20-%20Country%20House%20by%20a%20River%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul-Cezanne.jpg"
     },
     {
       "id": "Q28797026",
@@ -649,6 +630,25 @@
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Klee%201911.jpg"
     },
     {
+      "id": "Q76844469",
+      "artistId": "pierre-bonnard",
+      "artistName": "Pierre Bonnard",
+      "reviewStatus": "generated",
+      "title": "The Dining Room",
+      "date": "1923",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "israel-museum-jerusalem",
+      "location": "Israel Museum",
+      "city": "Jerusalem",
+      "country": "Palestine",
+      "lat": 31.7725,
+      "lon": 35.204166666,
+      "source": "http://www.wikidata.org/entity/Q76844469",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Self-portrait-1889.jpg"
+    },
+    {
       "id": "Q102258280",
       "artistId": "piet-mondrian",
       "artistName": "Piet Mondrian",
@@ -799,25 +799,6 @@
       "source": "http://www.wikidata.org/entity/Q76626535",
       "externalImage": "",
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg"
-    },
-    {
-      "id": "Q26221150",
-      "artistId": "van-gogh",
-      "artistName": "Vincent van Gogh",
-      "reviewStatus": "generated",
-      "title": "Green Ears of Wheat",
-      "date": "1888",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "israel-museum-jerusalem",
-      "location": "Israel Museum",
-      "city": "Jerusalem",
-      "country": "Palestine",
-      "lat": 31.7725,
-      "lon": 35.204166666,
-      "source": "http://www.wikidata.org/entity/Q26221150",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Van%20Gogh%20-%20Gr%C3%BCne%20Kornhalme.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Self-portrait%20-%20Vincent%20van%20Gogh.jpg"
     },
     {
       "id": "Q76625674",

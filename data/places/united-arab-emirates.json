@@ -136,25 +136,6 @@
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Gauguin%201891.png"
     },
     {
-      "id": "Q80569582",
-      "artistId": "pierre-auguste-renoir",
-      "artistName": "Pierre-Auguste Renoir",
-      "reviewStatus": "generated",
-      "title": "The Cup of Chocolate",
-      "date": "1877",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "louvre-abu-dhabi-abu-dhabi",
-      "location": "Louvre Abu Dhabi",
-      "city": "Abu Dhabi",
-      "country": "United Arab Emirates",
-      "lat": 24.533,
-      "lon": 54.40001,
-      "source": "http://www.wikidata.org/entity/Q80569582",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Chocolate%20Cup%20%281878%29%20by%20Pierre-Auguste%20Renoir%20in%20the%20Louvre%20Abu%20Dhabi.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre%20Auguste%20Renoir%2C%20uncropped%20image.jpg"
-    },
-    {
       "id": "Q102257724",
       "artistId": "piet-mondrian",
       "artistName": "Piet Mondrian",
@@ -172,25 +153,6 @@
       "source": "http://www.wikidata.org/entity/Q102257724",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Piet%20Mondriaan%20-%20Composition%20with%20blue%2C%20red%2C%20yellow%2C%20and%20black%20-%20B142%20-%20Piet%20Mondrian%2C%20catalogue%20raisonn%C3%A9.jpg",
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Piet%20Mondriaan.jpg"
-    },
-    {
-      "id": "Q21518246",
-      "artistId": "rembrandt",
-      "artistName": "Rembrandt",
-      "reviewStatus": "generated",
-      "title": "Head of Christ",
-      "date": "1648",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "louvre-abu-dhabi-abu-dhabi",
-      "location": "Louvre Abu Dhabi",
-      "city": "Abu Dhabi",
-      "country": "United Arab Emirates",
-      "lat": 24.533,
-      "lon": 54.40001,
-      "source": "http://www.wikidata.org/entity/Q21518246",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20Oil%20Study%20of%20Christ.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20van%20Rijn%20-%20Self-Portrait%20-%20Google%20Art%20Project.jpg"
     },
     {
       "id": "Q69460555",

@@ -41,25 +41,6 @@
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Photolautrec.jpg"
     },
     {
-      "id": "Q108333703",
-      "artistId": "pierre-bonnard",
-      "artistName": "Pierre Bonnard",
-      "reviewStatus": "generated",
-      "title": "Nude on the Chair",
-      "date": "1935",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "botero-museum-bogota",
-      "location": "Botero Museum",
-      "city": "Bogotá",
-      "country": "Colombia",
-      "lat": 4.596702536,
-      "lon": -74.073370905,
-      "source": "http://www.wikidata.org/entity/Q108333703",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre%20Bonnard%20Pierre%20Bonnard%20Nude%204.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Self-portrait-1889.jpg"
-    },
-    {
       "id": "Q108333696",
       "artistId": "alfred-sisley",
       "artistName": "Alfred Sisley",

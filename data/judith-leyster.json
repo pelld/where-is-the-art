@@ -21,7 +21,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q232423",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -46,7 +46,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q232423",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -71,7 +71,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q232423",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -96,7 +96,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q232423",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -121,7 +121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q232423",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -146,7 +146,32 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q232423",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q18981996",
+      "title": "Carousing Couple",
+      "date": "1630",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "judith-leyster",
+      "artistName": "Judith Leyster",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q18981996",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Judith%20Leyster%20-%20Carousing%20Couple%20-%20WGA12954.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Self-portrait%20by%20Judith%20Leyster.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q232423",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -171,7 +196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q232423",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -196,7 +221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q232423",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -221,7 +246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q232423",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -246,7 +271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q232423",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -271,7 +296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q232423",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -296,7 +321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q232423",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -321,7 +346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q232423",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -346,7 +371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q232423",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -371,7 +396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q232423",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -396,7 +421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q232423",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -421,7 +446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q232423",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -446,7 +471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q232423",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -471,7 +496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q232423",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -496,7 +521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q232423",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -521,7 +546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q232423",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -546,7 +571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q232423",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -571,7 +596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q232423",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -596,7 +621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q232423",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -621,7 +646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q232423",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -646,7 +671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q232423",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -671,7 +696,32 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q232423",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q18118034",
+      "title": "Standing Cavalier",
+      "date": "1630",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "judith-leyster",
+      "artistName": "Judith Leyster",
+      "locationId": "royal-collection-location-unknown",
+      "location": "Royal Collection",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 51.501,
+      "lon": -0.142,
+      "source": "http://www.wikidata.org/entity/Q18118034",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Style%20of%20Frans%20Hals%20%28Antwerp%20c.%201580-Haarlem%201666%29%20-%20Study%20of%20a%20Standing%20Man%20-%20RCIN%20404807%20-%20Royal%20Collection.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Self-portrait%20by%20Judith%20Leyster.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q232423",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -696,7 +746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q232423",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -721,7 +771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q232423",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     }

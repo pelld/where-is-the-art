@@ -21,7 +21,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -46,7 +46,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -71,7 +71,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -96,7 +96,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -121,7 +121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -146,7 +146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -171,7 +171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -196,7 +196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -221,7 +221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -246,7 +246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -271,7 +271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -296,7 +296,32 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q73916251",
+      "title": "The Descent of the Holy Ghost",
+      "date": "1500",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "sandro-botticelli",
+      "artistName": "Sandro Botticelli",
+      "locationId": "birmingham-museums-trust-birmingham",
+      "location": "Birmingham Museums Trust",
+      "city": "Birmingham",
+      "country": "United Kingdom",
+      "lat": 52.480278,
+      "lon": -1.903611,
+      "source": "http://www.wikidata.org/entity/Q73916251",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Botticelli%20Birmingham%2088.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sandro%20Botticelli%20Self-portrait%20ca%201475.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q5669",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -321,7 +346,32 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q107287185",
+      "title": "Madonna and Child with Angels Carrying Candlesticks",
+      "date": "1487",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "sandro-botticelli",
+      "artistName": "Sandro Botticelli",
+      "locationId": "bode-museum-bezirk-mitte",
+      "location": "Bode Museum",
+      "city": "Bezirk Mitte",
+      "country": "Germany",
+      "lat": 52.521944444,
+      "lon": 13.394722222,
+      "source": "http://www.wikidata.org/entity/Q107287185",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Botticelli%20-%20Madonna%20dei%20Candelesi.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sandro%20Botticelli%20Self-portrait%20ca%201475.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q5669",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -346,7 +396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -371,7 +421,32 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q30312526",
+      "title": "Allegory of Abundance",
+      "date": "1485",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "sandro-botticelli",
+      "artistName": "Sandro Botticelli",
+      "locationId": "british-museum-london-borough-of-camden",
+      "location": "British Museum",
+      "city": "London Borough of Camden",
+      "country": "United Kingdom",
+      "lat": 51.519444444,
+      "lon": -0.126944444,
+      "source": "http://www.wikidata.org/entity/Q30312526",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20Breughel%20%28II%29%20-%20Allegory%20of%20abundance.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sandro%20Botticelli%20Self-portrait%20ca%201475.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q5669",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -396,7 +471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -421,7 +496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -446,7 +521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -471,7 +546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -496,7 +571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -521,7 +596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -546,7 +621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -571,7 +646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -596,7 +671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -621,7 +696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -646,7 +721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -671,7 +746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -696,7 +771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -721,7 +796,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -746,7 +821,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -762,8 +837,8 @@
       "location": "Courtauld Gallery",
       "city": "City of Westminster",
       "country": "United Kingdom",
-      "lat": 51.51083333,
-      "lon": -0.11722222,
+      "lat": 51.511568,
+      "lon": -0.117712,
       "source": "http://www.wikidata.org/entity/Q119241811",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sandro%20Botticelli%20%281444-1445-1510%29%20%28copy%20after%29%20-%20Feast%20in%20the%20House%20of%20Simon%20%28predella%2C%20panel%20two%29%20-%20P.1947.Lf.41.2%20-%20Courtauld%20Gallery.jpg",
@@ -771,7 +846,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -787,8 +862,8 @@
       "location": "Courtauld Gallery",
       "city": "City of Westminster",
       "country": "United Kingdom",
-      "lat": 51.51083333,
-      "lon": -0.11722222,
+      "lat": 51.511568,
+      "lon": -0.117712,
       "source": "http://www.wikidata.org/entity/Q2416277",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Botticelli%2C%20Pala%20della%20Convertite.jpg",
@@ -796,7 +871,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -812,8 +887,8 @@
       "location": "Courtauld Gallery",
       "city": "City of Westminster",
       "country": "United Kingdom",
-      "lat": 51.51083333,
-      "lon": -0.11722222,
+      "lat": 51.511568,
+      "lon": -0.117712,
       "source": "http://www.wikidata.org/entity/Q119217607",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sandro%20Botticelli%20%281444-1445-1510%29%20-%20Last%20Moments%20of%20the%20Magdalene%20%28predella%2C%20panel%20four%29%20-%20P.1947.Lf.41.4%20-%20Courtauld%20Gallery.jpg",
@@ -821,7 +896,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -837,8 +912,8 @@
       "location": "Courtauld Gallery",
       "city": "City of Westminster",
       "country": "United Kingdom",
-      "lat": 51.51083333,
-      "lon": -0.11722222,
+      "lat": 51.511568,
+      "lon": -0.117712,
       "source": "http://www.wikidata.org/entity/Q119217602",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sandro%20Botticelli%20%281444-1445-1510%29%20%28copy%20after%29%20-%20Noli%20me%20Tangere%20%28predella%2C%20panel%20three%29%20-%20P.1947.Lf.41.3%20-%20Courtauld%20Gallery.jpg",
@@ -846,7 +921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -862,8 +937,8 @@
       "location": "Courtauld Gallery",
       "city": "City of Westminster",
       "country": "United Kingdom",
-      "lat": 51.51083333,
-      "lon": -0.11722222,
+      "lat": 51.511568,
+      "lon": -0.117712,
       "source": "http://www.wikidata.org/entity/Q119241713",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sandro%20Botticelli%20%281444-1445-1510%29%20%28copy%20after%29%20-%20Scenes%20from%20the%20Life%20of%20Mary%20Magdalene%2C%20Modern%20Copy%20after%20Sandro%20Botticelli%20%28four%20predella%20panels%29%20-%20P.1947.Lf.41%20-%20Courtauld%20Gallery.jpg",
@@ -871,7 +946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -896,7 +971,232 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q6287319",
+      "title": "A Young Man Being Introduced to the Seven Liberal Arts",
+      "date": "1483",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "sandro-botticelli",
+      "artistName": "Sandro Botticelli",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q6287319",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sandro%20Botticelli%20028.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sandro%20Botticelli%20Self-portrait%20ca%201475.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q5669",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q15935036",
+      "title": "Madonna and Child",
+      "date": "1465",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "sandro-botticelli",
+      "artistName": "Sandro Botticelli",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q15935036",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20Vierge%20et%20l%27Enfant%2C%20dite%20Madone%20des%20Guidi%20de%20Faenza%20-%20Sandro%20Botticelli%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20RF%202099.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sandro%20Botticelli%20Self-portrait%20ca%201475.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q5669",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q18572522",
+      "title": "Madonna and Child with Five Angels",
+      "date": "1470",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "sandro-botticelli",
+      "artistName": "Sandro Botticelli",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q18572522",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Botticelli%20Louvre%2011.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sandro%20Botticelli%20Self-portrait%20ca%201475.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q5669",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q9500247",
+      "title": "Madonna and Child with the Young St. John the Baptist",
+      "date": "1500",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "sandro-botticelli",
+      "artistName": "Sandro Botticelli",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q9500247",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Botticelli%2004%20Louvre.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sandro%20Botticelli%20Self-portrait%20ca%201475.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q5669",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q18572532",
+      "title": "Portrait of a Young Man",
+      "date": "1487",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "sandro-botticelli",
+      "artistName": "Sandro Botticelli",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q18572532",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Botticelli%20Portrait%20young%20man%20Louvre.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sandro%20Botticelli%20Self-portrait%20ca%201475.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q5669",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q16928482",
+      "title": "Portrait of a Young Man",
+      "date": "1490",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "sandro-botticelli",
+      "artistName": "Sandro Botticelli",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q16928482",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sandro%20Botticelli%20-%20Portrait%20of%20a%20Youth%20-%20WGA2803.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sandro%20Botticelli%20Self-portrait%20ca%201475.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q5669",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q18572534",
+      "title": "Three Scenes from the Story of Esther",
+      "date": "1470",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "sandro-botticelli",
+      "artistName": "Sandro Botticelli",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q18572534",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Trois%20sc%C3%A8nes%20de%20l%27histoire%20d%27Esther%20-%20Filippino%20Lippi%20%3B%20Sandro%20Botticelli%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20RF%201972%2013.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sandro%20Botticelli%20Self-portrait%20ca%201475.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q5669",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q29651893",
+      "title": "Untitled record",
+      "date": "1500",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "sandro-botticelli",
+      "artistName": "Sandro Botticelli",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q29651893",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Botticelli-V%C3%A9nus%20et%20trois%20putti.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sandro%20Botticelli%20Self-portrait%20ca%201475.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q5669",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q117480811",
+      "title": "Untitled record",
+      "date": "1490",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "sandro-botticelli",
+      "artistName": "Sandro Botticelli",
+      "locationId": "department-of-prints-and-drawings-of-the-louvre-location-unknown",
+      "location": "Department of Prints and Drawings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111111,
+      "lon": 2.335833333,
+      "source": "http://www.wikidata.org/entity/Q117480811",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Botticelli%20-%20%C3%A9cole%20de%20-%20Un%20miracle%20de%20saint%20Jean%20l%27Evang%C3%A9liste%2C%20INV%202686%2C%20Recto.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sandro%20Botticelli%20Self-portrait%20ca%201475.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q5669",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -921,7 +1221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -946,7 +1246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -971,7 +1271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -996,7 +1296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1021,7 +1321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1046,7 +1346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1071,7 +1371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1096,7 +1396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1121,7 +1421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1146,7 +1446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1171,7 +1471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1196,7 +1496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1221,7 +1521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1246,7 +1546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1271,7 +1571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1296,7 +1596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1321,32 +1621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q107287185",
-      "title": "Madonna and Child with Angels Carrying Candlesticks",
-      "date": "1487",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "sandro-botticelli",
-      "artistName": "Sandro Botticelli",
-      "locationId": "gemaldegalerie-berlin-bezirk-mitte",
-      "location": "Gemäldegalerie Berlin",
-      "city": "Bezirk Mitte",
-      "country": "Germany",
-      "lat": 52.508611111,
-      "lon": 13.364722222,
-      "source": "http://www.wikidata.org/entity/Q107287185",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Botticelli%20-%20Madonna%20dei%20Candelesi.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sandro%20Botticelli%20Self-portrait%20ca%201475.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1371,7 +1646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1396,7 +1671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1421,7 +1696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1446,7 +1721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1471,7 +1746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1496,7 +1771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1521,7 +1796,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1546,7 +1821,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1571,7 +1846,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1596,7 +1871,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1621,7 +1896,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1646,7 +1921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1671,7 +1946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1696,7 +1971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1721,7 +1996,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1746,7 +2021,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1771,7 +2046,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1796,7 +2071,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1821,7 +2096,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1846,7 +2121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1871,7 +2146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1896,7 +2171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1921,7 +2196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1946,7 +2221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1971,7 +2246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1996,7 +2271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2021,7 +2296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2046,7 +2321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2071,32 +2346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q29651893",
-      "title": "Untitled record",
-      "date": "1500",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "sandro-botticelli",
-      "artistName": "Sandro Botticelli",
-      "locationId": "musee-du-petit-palais-avignon",
-      "location": "Musée du Petit Palais",
-      "city": "Avignon",
-      "country": "France",
-      "lat": 43.95263889,
-      "lon": 4.80638889,
-      "source": "http://www.wikidata.org/entity/Q29651893",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Botticelli-V%C3%A9nus%20et%20trois%20putti.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sandro%20Botticelli%20Self-portrait%20ca%201475.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2121,7 +2371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2146,7 +2396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2171,7 +2421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2196,7 +2446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2221,32 +2471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q30312526",
-      "title": "Allegory of Abundance",
-      "date": "1485",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "sandro-botticelli",
-      "artistName": "Sandro Botticelli",
-      "locationId": "museo-del-prado-madrid",
-      "location": "Museo del Prado",
-      "city": "Madrid",
-      "country": "Spain",
-      "lat": 40.413888888,
-      "lon": -3.692222222,
-      "source": "http://www.wikidata.org/entity/Q30312526",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20Breughel%20%28II%29%20-%20Allegory%20of%20abundance.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sandro%20Botticelli%20Self-portrait%20ca%201475.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2271,7 +2496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2296,7 +2521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2321,7 +2546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2346,7 +2571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2371,7 +2596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2396,7 +2621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2421,7 +2646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2446,7 +2671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2471,7 +2696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2496,7 +2721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2521,7 +2746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2546,7 +2771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2571,7 +2796,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2596,7 +2821,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2621,7 +2846,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2646,7 +2871,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2671,7 +2896,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2696,7 +2921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2721,7 +2946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2746,7 +2971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2771,7 +2996,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2796,7 +3021,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2821,7 +3046,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2846,7 +3071,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2871,7 +3096,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2896,7 +3121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2921,7 +3146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2946,7 +3171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2971,7 +3196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2996,7 +3221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3021,7 +3246,57 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q110773409",
+      "title": "Two draped men sitting, one standing",
+      "date": "Date unknown",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "sandro-botticelli",
+      "artistName": "Sandro Botticelli",
+      "locationId": "nationalmuseum-stockholm",
+      "location": "Nationalmuseum",
+      "city": "Stockholm",
+      "country": "Sweden",
+      "lat": 59.328611111,
+      "lon": 18.078055555,
+      "source": "http://www.wikidata.org/entity/Q110773409",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Davide%20Ghirlandaio%20-%20Two%20draped%20men%20sitting%2C%20one%20standing%20-%20NMH%2064-1863%20-%20Nationalmuseum.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sandro%20Botticelli%20Self-portrait%20ca%201475.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q5669",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q110750871",
+      "title": "Two draped men standing",
+      "date": "Date unknown",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "sandro-botticelli",
+      "artistName": "Sandro Botticelli",
+      "locationId": "nationalmuseum-stockholm-municipality",
+      "location": "Nationalmuseum",
+      "city": "Stockholm Municipality",
+      "country": "Sweden",
+      "lat": 59.328611111,
+      "lon": 18.078055555,
+      "source": "http://www.wikidata.org/entity/Q110750871",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Davide%20Ghirlandaio%20-%20Two%20draped%20men%20standing%20-%20NMH%2066-1863%20-%20Nationalmuseum.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sandro%20Botticelli%20Self-portrait%20ca%201475.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q5669",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3046,7 +3321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3071,7 +3346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3096,7 +3371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3121,7 +3396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3146,7 +3421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3171,7 +3446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3196,7 +3471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3221,7 +3496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3246,7 +3521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3271,7 +3546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3296,7 +3571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3321,7 +3596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3346,7 +3621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3371,7 +3646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3396,7 +3671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3421,7 +3696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3446,7 +3721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3471,7 +3746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3496,7 +3771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3512,8 +3787,8 @@
       "location": "Shipley Art Gallery",
       "city": "Gateshead",
       "country": "United Kingdom",
-      "lat": 54.95,
-      "lon": -1.602,
+      "lat": 54.949874,
+      "lon": -1.600469,
       "source": "http://www.wikidata.org/entity/Q119651147",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sandro%20Botticelli%20%281444-1445-1510%29%20%28after%29%20-%20Detail%20from%20Botticelli%27s%20%27Primavera%27%20-%20TWCMS%20%2C%20F6124%20-%20Shipley%20Art%20Gallery.jpg",
@@ -3521,7 +3796,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3546,7 +3821,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3571,7 +3846,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3596,7 +3871,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3621,7 +3896,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3646,7 +3921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3671,7 +3946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3696,32 +3971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q488825",
-      "title": "Adoration of the Magi",
-      "date": "1475",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "sandro-botticelli",
-      "artistName": "Sandro Botticelli",
-      "locationId": "uffizi-gallery-florence",
-      "location": "Uffizi Gallery",
-      "city": "Florence",
-      "country": "Italy",
-      "lat": 43.768333333,
-      "lon": 11.255277777,
-      "source": "http://www.wikidata.org/entity/Q488825",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Zanobi-Altar.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sandro%20Botticelli%20Self-portrait%20ca%201475.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3746,7 +3996,32 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q488825",
+      "title": "Adoration of the Magi",
+      "date": "1475",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "sandro-botticelli",
+      "artistName": "Sandro Botticelli",
+      "locationId": "uffizi-gallery-florence",
+      "location": "Uffizi Gallery",
+      "city": "Florence",
+      "country": "Italy",
+      "lat": 43.768333333,
+      "lon": 11.255277777,
+      "source": "http://www.wikidata.org/entity/Q488825",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Zanobi-Altar.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sandro%20Botticelli%20Self-portrait%20ca%201475.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q5669",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3771,7 +4046,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3796,7 +4071,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3821,7 +4096,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3846,7 +4121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3871,7 +4146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3896,7 +4171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3921,7 +4196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3946,7 +4221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3971,7 +4246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3996,7 +4271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4021,7 +4296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4046,7 +4321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4071,7 +4346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4096,7 +4371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4121,7 +4396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4146,7 +4421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4171,7 +4446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4196,7 +4471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4221,7 +4496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4246,7 +4521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4271,7 +4546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4296,7 +4571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4321,7 +4596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q5669",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     }

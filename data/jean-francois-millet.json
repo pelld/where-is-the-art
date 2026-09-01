@@ -21,7 +21,207 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q107340264",
+      "title": "Gust of Wind",
+      "date": "1872",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jean-francois-millet",
+      "artistName": "Jean-François Millet",
+      "locationId": "amgueddfa-cymru-museum-wales-wales",
+      "location": "Amgueddfa Cymru – Museum Wales",
+      "city": "Wales",
+      "country": "United Kingdom",
+      "lat": 51.485577,
+      "lon": -3.177128,
+      "source": "http://www.wikidata.org/entity/Q107340264",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Fran%C3%A7ois%20Millet%20%281814-1875%29%20-%20Gust%20of%20Wind%20-%20NMW%20A%202475%20-%20National%20Museum%20Wales.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-FrancoisMillet%28Nadar%29.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q148458",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q107340265",
+      "title": "Seated Shepherdess",
+      "date": "Date unknown",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jean-francois-millet",
+      "artistName": "Jean-François Millet",
+      "locationId": "amgueddfa-cymru-museum-wales-wales",
+      "location": "Amgueddfa Cymru – Museum Wales",
+      "city": "Wales",
+      "country": "United Kingdom",
+      "lat": 51.485577,
+      "lon": -3.177128,
+      "source": "http://www.wikidata.org/entity/Q107340265",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Fran%C3%A7ois%20Millet%20%281814-1875%29%20-%20Seated%20Shepherdess%20-%20NMW%20A%20585%20-%20National%20Museum%20Wales.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-FrancoisMillet%28Nadar%29.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q148458",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q107340266",
+      "title": "The Good Samaritan",
+      "date": "1846",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jean-francois-millet",
+      "artistName": "Jean-François Millet",
+      "locationId": "amgueddfa-cymru-museum-wales-wales",
+      "location": "Amgueddfa Cymru – Museum Wales",
+      "city": "Wales",
+      "country": "United Kingdom",
+      "lat": 51.485577,
+      "lon": -3.177128,
+      "source": "http://www.wikidata.org/entity/Q107340266",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Fran%C3%A7ois%20Millet%20%281814-1875%29%20-%20The%20Good%20Samaritan%20-%20NMW%20A%202477%20-%20National%20Museum%20Wales.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-FrancoisMillet%28Nadar%29.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q148458",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q107340267",
+      "title": "The Goose Girl at Gruchy",
+      "date": "1855",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jean-francois-millet",
+      "artistName": "Jean-François Millet",
+      "locationId": "amgueddfa-cymru-museum-wales-wales",
+      "location": "Amgueddfa Cymru – Museum Wales",
+      "city": "Wales",
+      "country": "United Kingdom",
+      "lat": 51.485577,
+      "lon": -3.177128,
+      "source": "http://www.wikidata.org/entity/Q107340267",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Fran%C3%A7ois%20Millet%20%281814-1875%29%20-%20The%20Goose%20Girl%20at%20Gruchy%20-%20NMW%20A%202479%20-%20National%20Museum%20Wales.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-FrancoisMillet%28Nadar%29.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q148458",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q107340268",
+      "title": "The Peasant Family",
+      "date": "1871",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jean-francois-millet",
+      "artistName": "Jean-François Millet",
+      "locationId": "amgueddfa-cymru-museum-wales-wales",
+      "location": "Amgueddfa Cymru – Museum Wales",
+      "city": "Wales",
+      "country": "United Kingdom",
+      "lat": 51.485577,
+      "lon": -3.177128,
+      "source": "http://www.wikidata.org/entity/Q107340268",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Millet%20Famille%20de%20paysans.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-FrancoisMillet%28Nadar%29.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q148458",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q107340269",
+      "title": "The Shooting Stars",
+      "date": "1848",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jean-francois-millet",
+      "artistName": "Jean-François Millet",
+      "locationId": "amgueddfa-cymru-museum-wales-wales",
+      "location": "Amgueddfa Cymru – Museum Wales",
+      "city": "Wales",
+      "country": "United Kingdom",
+      "lat": 51.485577,
+      "lon": -3.177128,
+      "source": "http://www.wikidata.org/entity/Q107340269",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Fran%C3%A7ois%20Millet%20%281814-1875%29%20-%20The%20Shooting%20Stars%20-%20NMW%20A%202476%20-%20National%20Museum%20Wales.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-FrancoisMillet%28Nadar%29.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q148458",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q107340270",
+      "title": "The Sower",
+      "date": "1847",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jean-francois-millet",
+      "artistName": "Jean-François Millet",
+      "locationId": "amgueddfa-cymru-museum-wales-wales",
+      "location": "Amgueddfa Cymru – Museum Wales",
+      "city": "Wales",
+      "country": "United Kingdom",
+      "lat": 51.485577,
+      "lon": -3.177128,
+      "source": "http://www.wikidata.org/entity/Q107340270",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Fran%C3%A7ois%20Millet%20-%20Le%20Semeur%20%281840s%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-FrancoisMillet%28Nadar%29.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q148458",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q107340271",
+      "title": "Winter, The Faggot Gatherers",
+      "date": "1872",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jean-francois-millet",
+      "artistName": "Jean-François Millet",
+      "locationId": "amgueddfa-cymru-museum-wales-wales",
+      "location": "Amgueddfa Cymru – Museum Wales",
+      "city": "Wales",
+      "country": "United Kingdom",
+      "lat": 51.485577,
+      "lon": -3.177128,
+      "source": "http://www.wikidata.org/entity/Q107340271",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Fran%C3%A7ois%20Millet%20%281814-1875%29%20-%20Winter%2C%20The%20Faggot%20Gatherers%20-%20NMW%20A%202478%20-%20National%20Museum%20Wales.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-FrancoisMillet%28Nadar%29.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q148458",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -46,7 +246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -71,7 +271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -96,7 +296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -121,7 +321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -146,7 +346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -171,7 +371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -196,7 +396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -221,7 +421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -246,7 +446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -271,7 +471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -296,7 +496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -321,7 +521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -346,7 +546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -371,7 +571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -396,7 +596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -421,7 +621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -446,7 +646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -471,7 +671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -496,7 +696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -521,7 +721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -546,7 +746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -571,7 +771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -596,7 +796,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -621,7 +821,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -646,7 +846,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -671,7 +871,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -696,7 +896,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -721,7 +921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -746,7 +946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -771,7 +971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -796,7 +996,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -821,7 +1021,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -846,7 +1046,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -871,7 +1071,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -896,7 +1096,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -921,7 +1121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -946,7 +1146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -971,7 +1171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -996,7 +1196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1021,7 +1221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1046,7 +1246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1071,7 +1271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1096,7 +1296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1121,7 +1321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1146,7 +1346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1171,7 +1371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1196,7 +1396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1221,7 +1421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1246,7 +1446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1271,7 +1471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1296,7 +1496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1321,7 +1521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1333,10 +1533,10 @@
       "attribution": "Accepted",
       "artistId": "jean-francois-millet",
       "artistName": "Jean-François Millet",
-      "locationId": "denver-art-museum-denver-county",
+      "locationId": "denver-art-museum-location-unknown",
       "location": "Denver Art Museum",
-      "city": "Denver County",
-      "country": "United States",
+      "city": "Location unknown",
+      "country": "Country unknown",
       "lat": 39.737188,
       "lon": -104.989345,
       "source": "http://www.wikidata.org/entity/Q106925094",
@@ -1346,7 +1546,182 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q20012954",
+      "title": "La Brûleuse d'herbes",
+      "date": "1859",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jean-francois-millet",
+      "artistName": "Jean-François Millet",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q20012954",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20Br%C3%BBleuse%20d%27herbes%20-%20Jean-Fran%C3%A7ois%20Millet%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20RF%201437.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-FrancoisMillet%28Nadar%29.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q148458",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q29842528",
+      "title": "La lessiveuse",
+      "date": "1862",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jean-francois-millet",
+      "artistName": "Jean-François Millet",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q29842528",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Fran%C3%A7ois%20Millet%20%28II%29%20015.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-FrancoisMillet%28Nadar%29.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q148458",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q29842524",
+      "title": "Maternal Precaution",
+      "date": "1857",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jean-francois-millet",
+      "artistName": "Jean-François Millet",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q29842524",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%27La%20Pr%C3%A9caution%20maternelle%27%20by%20Jean-Fran%C3%A7ois%20Millet%2C%20c%201855-1857.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-FrancoisMillet%28Nadar%29.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q148458",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q27477138",
+      "title": "The Winnower",
+      "date": "1848",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jean-francois-millet",
+      "artistName": "Jean-François Millet",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q27477138",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Fran%C3%A7ois%20Millet%20%28II%29%20-%20The%20Winnower%20-%20WGA15688.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-FrancoisMillet%28Nadar%29.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q148458",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q29842534",
+      "title": "The woodcutter",
+      "date": "1853",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jean-francois-millet",
+      "artistName": "Jean-François Millet",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q29842534",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-fran%C3%A7ois%20millet%2C%20i%20taglialegna%2C%201855%20ca.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-FrancoisMillet%28Nadar%29.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q148458",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q29842523",
+      "title": "Trussing Hay",
+      "date": "1837",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jean-francois-millet",
+      "artistName": "Jean-François Millet",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q29842523",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Fran%C3%A7ois%20Millet%20%28II%29%20-%20Trussing%20Hay%20-%20WGA15689.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-FrancoisMillet%28Nadar%29.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q148458",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q29842535",
+      "title": "Untitled record",
+      "date": "1675",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jean-francois-millet",
+      "artistName": "Jean-François Millet",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q29842535",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-FrancoisMillet%28Nadar%29.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q148458",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1371,7 +1746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1396,32 +1771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q106860756",
-      "title": "Shepherds Resting",
-      "date": "Date unknown",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "jean-francois-millet",
-      "artistName": "Jean-François Millet",
-      "locationId": "fogg-museum-cambridge",
-      "location": "Fogg Museum",
-      "city": "Cambridge",
-      "country": "United States",
-      "lat": 42.37409,
-      "lon": -71.114358,
-      "source": "http://www.wikidata.org/entity/Q106860756",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Fran%C3%A7ois%20Millet%20-%20Shepherds%20Resting%20-%201933.23%20-%20Fogg%20Museum.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-FrancoisMillet%28Nadar%29.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1446,7 +1796,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1471,7 +1821,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1496,7 +1846,32 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q106860756",
+      "title": "Shepherds Resting",
+      "date": "Date unknown",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jean-francois-millet",
+      "artistName": "Jean-François Millet",
+      "locationId": "harvard-art-museums-cambridge",
+      "location": "Harvard Art Museums",
+      "city": "Cambridge",
+      "country": "United States",
+      "lat": 42.37416667,
+      "lon": -71.11472222,
+      "source": "http://www.wikidata.org/entity/Q106860756",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Fran%C3%A7ois%20Millet%20-%20Shepherds%20Resting%20-%201933.23%20-%20Fogg%20Museum.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-FrancoisMillet%28Nadar%29.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q148458",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1521,7 +1896,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1546,7 +1921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1571,7 +1946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1596,7 +1971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1621,7 +1996,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1646,7 +2021,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1671,7 +2046,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1696,7 +2071,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1721,7 +2096,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1746,7 +2121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1771,7 +2146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1796,7 +2171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1821,7 +2196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1846,7 +2221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1871,7 +2246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1896,7 +2271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1921,7 +2296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1946,7 +2321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1971,7 +2346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1996,7 +2371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2021,7 +2396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2046,7 +2421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2071,7 +2446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2096,7 +2471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2121,7 +2496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2146,7 +2521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2171,7 +2546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2196,7 +2571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2221,7 +2596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2246,7 +2621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2271,7 +2646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2296,7 +2671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2321,7 +2696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2346,7 +2721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2371,7 +2746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2396,7 +2771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2421,7 +2796,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2446,7 +2821,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2471,7 +2846,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2496,7 +2871,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2521,7 +2896,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2546,7 +2921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2571,7 +2946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2596,7 +2971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2621,7 +2996,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2646,12 +3021,12 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
     {
-      "id": "Q130388391",
+      "id": "Q64472072",
       "title": "Untitled record",
       "date": "Date unknown",
       "type": "Painting",
@@ -2664,114 +3039,14 @@
       "country": "France",
       "lat": 48.859972,
       "lon": 2.326527,
-      "source": "http://www.wikidata.org/entity/Q130388391",
+      "source": "http://www.wikidata.org/entity/Q64472072",
       "image": "",
       "externalImage": "",
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-FrancoisMillet%28Nadar%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q17491467",
-      "title": "Untitled record",
-      "date": "1844",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "jean-francois-millet",
-      "artistName": "Jean-François Millet",
-      "locationId": "musee-d-orsay-7th-arrondissement-of-paris",
-      "location": "Musée d'Orsay",
-      "city": "7th arrondissement of Paris",
-      "country": "France",
-      "lat": 48.859972,
-      "lon": 2.326527,
-      "source": "http://www.wikidata.org/entity/Q17491467",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Femme%20nue%20couch%C3%A9e%2C%20Jean-Fran%C3%A7ois%20Millet.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-FrancoisMillet%28Nadar%29.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q17491928",
-      "title": "Untitled record",
-      "date": "1869",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "jean-francois-millet",
-      "artistName": "Jean-François Millet",
-      "locationId": "musee-d-orsay-7th-arrondissement-of-paris",
-      "location": "Musée d'Orsay",
-      "city": "7th arrondissement of Paris",
-      "country": "France",
-      "lat": 48.859972,
-      "lon": 2.326527,
-      "source": "http://www.wikidata.org/entity/Q17491928",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Millet%20-%20La%20Couseuse%2C%20RF%201593.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-FrancoisMillet%28Nadar%29.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q17495314",
-      "title": "Untitled record",
-      "date": "1850",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "jean-francois-millet",
-      "artistName": "Jean-François Millet",
-      "locationId": "musee-d-orsay-7th-arrondissement-of-paris",
-      "location": "Musée d'Orsay",
-      "city": "7th arrondissement of Paris",
-      "country": "France",
-      "lat": 48.859972,
-      "lon": 2.326527,
-      "source": "http://www.wikidata.org/entity/Q17495314",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Millet%20-%20Portrait%20de%20Paul%20Fran%C3%A7ois%20Collot%20marchand%20de%20nouveaut%C3%A9s.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-FrancoisMillet%28Nadar%29.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q17491216",
-      "title": "Untitled record",
-      "date": "1848",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "jean-francois-millet",
-      "artistName": "Jean-François Millet",
-      "locationId": "musee-d-orsay-7th-arrondissement-of-paris",
-      "location": "Musée d'Orsay",
-      "city": "7th arrondissement of Paris",
-      "country": "France",
-      "lat": 48.859972,
-      "lon": 2.326527,
-      "source": "http://www.wikidata.org/entity/Q17491216",
-      "image": "",
-      "externalImage": "",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-FrancoisMillet%28Nadar%29.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2796,14 +3071,14 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
     {
-      "id": "Q17492413",
+      "id": "Q17495314",
       "title": "Untitled record",
-      "date": "1856",
+      "date": "1850",
       "type": "Painting",
       "attribution": "Accepted",
       "artistId": "jean-francois-millet",
@@ -2814,39 +3089,14 @@
       "country": "France",
       "lat": 48.859972,
       "lon": 2.326527,
-      "source": "http://www.wikidata.org/entity/Q17492413",
+      "source": "http://www.wikidata.org/entity/Q17495314",
       "image": "",
-      "externalImage": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Millet%20-%20Portrait%20de%20Paul%20Fran%C3%A7ois%20Collot%20marchand%20de%20nouveaut%C3%A9s.jpg",
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-FrancoisMillet%28Nadar%29.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q17492556",
-      "title": "Untitled record",
-      "date": "1874",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "jean-francois-millet",
-      "artistName": "Jean-François Millet",
-      "locationId": "musee-d-orsay-7th-arrondissement-of-paris",
-      "location": "Musée d'Orsay",
-      "city": "7th arrondissement of Paris",
-      "country": "France",
-      "lat": 48.859972,
-      "lon": 2.326527,
-      "source": "http://www.wikidata.org/entity/Q17492556",
-      "image": "",
-      "externalImage": "",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-FrancoisMillet%28Nadar%29.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2871,7 +3121,132 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q17491467",
+      "title": "Untitled record",
+      "date": "1844",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jean-francois-millet",
+      "artistName": "Jean-François Millet",
+      "locationId": "musee-d-orsay-7th-arrondissement-of-paris",
+      "location": "Musée d'Orsay",
+      "city": "7th arrondissement of Paris",
+      "country": "France",
+      "lat": 48.859972,
+      "lon": 2.326527,
+      "source": "http://www.wikidata.org/entity/Q17491467",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Femme%20nue%20couch%C3%A9e%2C%20Jean-Fran%C3%A7ois%20Millet.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-FrancoisMillet%28Nadar%29.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q148458",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q17492413",
+      "title": "Untitled record",
+      "date": "1856",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jean-francois-millet",
+      "artistName": "Jean-François Millet",
+      "locationId": "musee-d-orsay-7th-arrondissement-of-paris",
+      "location": "Musée d'Orsay",
+      "city": "7th arrondissement of Paris",
+      "country": "France",
+      "lat": 48.859972,
+      "lon": 2.326527,
+      "source": "http://www.wikidata.org/entity/Q17492413",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-FrancoisMillet%28Nadar%29.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q148458",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q17492556",
+      "title": "Untitled record",
+      "date": "1874",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jean-francois-millet",
+      "artistName": "Jean-François Millet",
+      "locationId": "musee-d-orsay-7th-arrondissement-of-paris",
+      "location": "Musée d'Orsay",
+      "city": "7th arrondissement of Paris",
+      "country": "France",
+      "lat": 48.859972,
+      "lon": 2.326527,
+      "source": "http://www.wikidata.org/entity/Q17492556",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-FrancoisMillet%28Nadar%29.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q148458",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q17491928",
+      "title": "Untitled record",
+      "date": "1869",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jean-francois-millet",
+      "artistName": "Jean-François Millet",
+      "locationId": "musee-d-orsay-7th-arrondissement-of-paris",
+      "location": "Musée d'Orsay",
+      "city": "7th arrondissement of Paris",
+      "country": "France",
+      "lat": 48.859972,
+      "lon": 2.326527,
+      "source": "http://www.wikidata.org/entity/Q17491928",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Millet%20-%20La%20Couseuse%2C%20RF%201593.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-FrancoisMillet%28Nadar%29.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q148458",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q17491216",
+      "title": "Untitled record",
+      "date": "1848",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jean-francois-millet",
+      "artistName": "Jean-François Millet",
+      "locationId": "musee-d-orsay-7th-arrondissement-of-paris",
+      "location": "Musée d'Orsay",
+      "city": "7th arrondissement of Paris",
+      "country": "France",
+      "lat": 48.859972,
+      "lon": 2.326527,
+      "source": "http://www.wikidata.org/entity/Q17491216",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-FrancoisMillet%28Nadar%29.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q148458",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2896,7 +3271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2921,7 +3296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2946,7 +3321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2971,7 +3346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2996,7 +3371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3021,7 +3396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3046,7 +3421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3071,7 +3446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3096,7 +3471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3121,7 +3496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3146,7 +3521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3171,7 +3546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3196,7 +3571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3221,7 +3596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3246,7 +3621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3271,32 +3646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q115701438",
-      "title": "Untitled record",
-      "date": "1875",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "jean-francois-millet",
-      "artistName": "Jean-François Millet",
-      "locationId": "musee-thomas-henry-cherbourg-octeville",
-      "location": "Musée Thomas-Henry",
-      "city": "Cherbourg-Octeville",
-      "country": "France",
-      "lat": 49.63722222,
-      "lon": -1.62305556,
-      "source": "http://www.wikidata.org/entity/Q115701438",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/FermeduTourp%2C%20Millet.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-FrancoisMillet%28Nadar%29.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3321,7 +3671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3346,7 +3696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3358,9 +3708,9 @@
       "attribution": "Accepted",
       "artistId": "jean-francois-millet",
       "artistName": "Jean-François Millet",
-      "locationId": "musee-thomas-henry-cherbourg-octeville",
+      "locationId": "musee-thomas-henry-cherbourg-en-cotentin",
       "location": "Musée Thomas-Henry",
-      "city": "Cherbourg-Octeville",
+      "city": "Cherbourg-en-Cotentin",
       "country": "France",
       "lat": 49.63722222,
       "lon": -1.62305556,
@@ -3371,7 +3721,32 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q115701438",
+      "title": "Untitled record",
+      "date": "1875",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jean-francois-millet",
+      "artistName": "Jean-François Millet",
+      "locationId": "musee-thomas-henry-cherbourg-octeville",
+      "location": "Musée Thomas-Henry",
+      "city": "Cherbourg-Octeville",
+      "country": "France",
+      "lat": 49.63722222,
+      "lon": -1.62305556,
+      "source": "http://www.wikidata.org/entity/Q115701438",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/FermeduTourp%2C%20Millet.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-FrancoisMillet%28Nadar%29.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q148458",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3396,7 +3771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3421,7 +3796,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3446,7 +3821,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3471,7 +3846,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3496,7 +3871,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3521,7 +3896,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3546,7 +3921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3571,7 +3946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3596,7 +3971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3621,7 +3996,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3646,7 +4021,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3671,7 +4046,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3696,7 +4071,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3721,7 +4096,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3746,7 +4121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3771,7 +4146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3796,7 +4171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3821,7 +4196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3846,7 +4221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3871,7 +4246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3896,7 +4271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3921,7 +4296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3946,7 +4321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3971,7 +4346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3996,7 +4371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4021,7 +4396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4046,7 +4421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4071,7 +4446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4096,7 +4471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4121,7 +4496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4146,7 +4521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4171,7 +4546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4196,7 +4571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4221,7 +4596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4246,7 +4621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4271,7 +4646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4296,7 +4671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4321,7 +4696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4346,7 +4721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4371,7 +4746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4396,7 +4771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4421,7 +4796,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4446,7 +4821,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4471,7 +4846,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4496,7 +4871,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4521,7 +4896,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4546,7 +4921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4571,7 +4946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4596,7 +4971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4621,7 +4996,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4646,7 +5021,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4671,7 +5046,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4696,7 +5071,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4721,7 +5096,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4746,7 +5121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4771,7 +5146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4796,7 +5171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4821,7 +5196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4846,7 +5221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4871,7 +5246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4896,7 +5271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4921,7 +5296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4946,7 +5321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4971,7 +5346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4996,7 +5371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5008,9 +5383,9 @@
       "attribution": "Accepted",
       "artistId": "jean-francois-millet",
       "artistName": "Jean-François Millet",
-      "locationId": "nationalmuseum-stockholm",
+      "locationId": "nationalmuseum-stockholm-municipality",
       "location": "Nationalmuseum",
-      "city": "Stockholm",
+      "city": "Stockholm Municipality",
       "country": "Sweden",
       "lat": 59.328611111,
       "lon": 18.078055555,
@@ -5021,7 +5396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5033,9 +5408,9 @@
       "attribution": "Accepted",
       "artistId": "jean-francois-millet",
       "artistName": "Jean-François Millet",
-      "locationId": "nationalmuseum-stockholm",
+      "locationId": "nationalmuseum-stockholm-municipality",
       "location": "Nationalmuseum",
-      "city": "Stockholm",
+      "city": "Stockholm Municipality",
       "country": "Sweden",
       "lat": 59.328611111,
       "lon": 18.078055555,
@@ -5046,7 +5421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5058,9 +5433,9 @@
       "attribution": "Accepted",
       "artistId": "jean-francois-millet",
       "artistName": "Jean-François Millet",
-      "locationId": "nationalmuseum-stockholm",
+      "locationId": "nationalmuseum-stockholm-municipality",
       "location": "Nationalmuseum",
-      "city": "Stockholm",
+      "city": "Stockholm Municipality",
       "country": "Sweden",
       "lat": 59.328611111,
       "lon": 18.078055555,
@@ -5071,7 +5446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5083,9 +5458,9 @@
       "attribution": "Accepted",
       "artistId": "jean-francois-millet",
       "artistName": "Jean-François Millet",
-      "locationId": "nationalmuseum-stockholm",
+      "locationId": "nationalmuseum-stockholm-municipality",
       "location": "Nationalmuseum",
-      "city": "Stockholm",
+      "city": "Stockholm Municipality",
       "country": "Sweden",
       "lat": 59.328611111,
       "lon": 18.078055555,
@@ -5096,7 +5471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5108,9 +5483,9 @@
       "attribution": "Accepted",
       "artistId": "jean-francois-millet",
       "artistName": "Jean-François Millet",
-      "locationId": "nationalmuseum-stockholm",
+      "locationId": "nationalmuseum-stockholm-municipality",
       "location": "Nationalmuseum",
-      "city": "Stockholm",
+      "city": "Stockholm Municipality",
       "country": "Sweden",
       "lat": 59.328611111,
       "lon": 18.078055555,
@@ -5121,7 +5496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5133,9 +5508,9 @@
       "attribution": "Accepted",
       "artistId": "jean-francois-millet",
       "artistName": "Jean-François Millet",
-      "locationId": "nationalmuseum-stockholm",
+      "locationId": "nationalmuseum-stockholm-municipality",
       "location": "Nationalmuseum",
-      "city": "Stockholm",
+      "city": "Stockholm Municipality",
       "country": "Sweden",
       "lat": 59.328611111,
       "lon": 18.078055555,
@@ -5146,7 +5521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5171,7 +5546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5196,7 +5571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5221,7 +5596,32 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q110779590",
+      "title": "Landskapsstudie",
+      "date": "Date unknown",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "jean-francois-millet",
+      "artistName": "Jean-François Millet",
+      "locationId": "nationalmuseum-stockholm-municipality",
+      "location": "Nationalmuseum",
+      "city": "Stockholm Municipality",
+      "country": "Sweden",
+      "lat": 59.328611111,
+      "lon": 18.078055555,
+      "source": "http://www.wikidata.org/entity/Q110779590",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Fran%C3%A7ois%20Millet%20-%20Landskapsstudie%20-%20NMH%2037-1930%20-%20Nationalmuseum.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-FrancoisMillet%28Nadar%29.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q148458",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5246,7 +5646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5271,7 +5671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5283,9 +5683,9 @@
       "attribution": "Accepted",
       "artistId": "jean-francois-millet",
       "artistName": "Jean-François Millet",
-      "locationId": "nationalmuseum-stockholm",
+      "locationId": "nationalmuseum-stockholm-municipality",
       "location": "Nationalmuseum",
-      "city": "Stockholm",
+      "city": "Stockholm Municipality",
       "country": "Sweden",
       "lat": 59.328611111,
       "lon": 18.078055555,
@@ -5296,7 +5696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5308,9 +5708,9 @@
       "attribution": "Accepted",
       "artistId": "jean-francois-millet",
       "artistName": "Jean-François Millet",
-      "locationId": "nationalmuseum-stockholm",
+      "locationId": "nationalmuseum-stockholm-municipality",
       "location": "Nationalmuseum",
-      "city": "Stockholm",
+      "city": "Stockholm Municipality",
       "country": "Sweden",
       "lat": 59.328611111,
       "lon": 18.078055555,
@@ -5321,7 +5721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5333,9 +5733,9 @@
       "attribution": "Accepted",
       "artistId": "jean-francois-millet",
       "artistName": "Jean-François Millet",
-      "locationId": "nationalmuseum-stockholm",
+      "locationId": "nationalmuseum-stockholm-municipality",
       "location": "Nationalmuseum",
-      "city": "Stockholm",
+      "city": "Stockholm Municipality",
       "country": "Sweden",
       "lat": 59.328611111,
       "lon": 18.078055555,
@@ -5346,7 +5746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5371,7 +5771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5383,9 +5783,9 @@
       "attribution": "Accepted",
       "artistId": "jean-francois-millet",
       "artistName": "Jean-François Millet",
-      "locationId": "nationalmuseum-stockholm",
+      "locationId": "nationalmuseum-stockholm-municipality",
       "location": "Nationalmuseum",
-      "city": "Stockholm",
+      "city": "Stockholm Municipality",
       "country": "Sweden",
       "lat": 59.328611111,
       "lon": 18.078055555,
@@ -5396,7 +5796,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5408,9 +5808,9 @@
       "attribution": "Accepted",
       "artistId": "jean-francois-millet",
       "artistName": "Jean-François Millet",
-      "locationId": "nationalmuseum-stockholm",
+      "locationId": "nationalmuseum-stockholm-municipality",
       "location": "Nationalmuseum",
-      "city": "Stockholm",
+      "city": "Stockholm Municipality",
       "country": "Sweden",
       "lat": 59.328611111,
       "lon": 18.078055555,
@@ -5421,7 +5821,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5446,7 +5846,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5471,7 +5871,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5496,7 +5896,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5521,7 +5921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5546,7 +5946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5571,7 +5971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5596,7 +5996,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5621,7 +6021,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5646,7 +6046,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5671,7 +6071,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5696,7 +6096,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5721,7 +6121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5746,7 +6146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5771,7 +6171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5796,7 +6196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5821,7 +6221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5846,7 +6246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5871,7 +6271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5896,7 +6296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5921,7 +6321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5946,7 +6346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5971,7 +6371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5996,7 +6396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6021,7 +6421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6046,7 +6446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6071,7 +6471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6096,7 +6496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6121,7 +6521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6146,7 +6546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6171,7 +6571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6196,7 +6596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6221,7 +6621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6246,7 +6646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6271,7 +6671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6296,7 +6696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6321,7 +6721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6346,7 +6746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6371,7 +6771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6396,7 +6796,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6421,7 +6821,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6446,7 +6846,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6471,7 +6871,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6496,7 +6896,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6521,7 +6921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6546,7 +6946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6571,7 +6971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6596,7 +6996,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6621,7 +7021,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6646,7 +7046,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6671,7 +7071,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6696,7 +7096,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6721,7 +7121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6746,7 +7146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6771,7 +7171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6796,7 +7196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6821,7 +7221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6846,7 +7246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6871,7 +7271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6896,7 +7296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6921,7 +7321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6946,7 +7346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6971,7 +7371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6996,7 +7396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7021,7 +7421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7046,7 +7446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q148458",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     }

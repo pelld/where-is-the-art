@@ -1,6 +1,31 @@
 {
   "artworks": [
     {
+      "id": "Q110683240",
+      "title": "The Raising of Lazarus by William Blake - William Blake",
+      "date": "1800",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "william-blake",
+      "artistName": "William Blake",
+      "locationId": "aberdeen-archives-gallery-and-museums-collections-aberdeen-city",
+      "location": "Aberdeen Archives, Gallery and Museums collections",
+      "city": "Aberdeen City",
+      "country": "United Kingdom",
+      "lat": 57.148191,
+      "lon": -2.102713,
+      "source": "http://www.wikidata.org/entity/Q110683240",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Raising%20of%20Lazarus%20by%20William%20Blake%20-%20William%20Blake%20-%20ABDAG002369.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20by%20Thomas%20Phillips.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q41513",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
       "id": "Q134176409",
       "title": "Dante illustration, Inferno Canto II 139-141: Dante and Virgil Penetrating the Forest",
       "date": "1824",
@@ -21,7 +46,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -46,7 +71,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -71,7 +96,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -96,7 +121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -121,7 +146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -146,7 +171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -171,7 +196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -196,7 +221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -221,32 +246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q2324840",
-      "title": "The Ancient of Days",
-      "date": "1794",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "william-blake",
-      "artistName": "William Blake",
-      "locationId": "british-museum-london-borough-of-camden",
-      "location": "British Museum",
-      "city": "London Borough of Camden",
-      "country": "United Kingdom",
-      "lat": 51.519444444,
-      "lon": -0.126944444,
-      "source": "http://www.wikidata.org/entity/Q2324840",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Europe%20a%20Prophecy%20copy%20K%20plate%2001.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20by%20Thomas%20Phillips.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -271,7 +271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -296,7 +296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -321,7 +321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -346,7 +346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -371,7 +371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -396,7 +396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -421,7 +421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -446,7 +446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -471,7 +471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -496,7 +496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -521,7 +521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -546,7 +546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -571,7 +571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -596,7 +596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -621,7 +621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -646,7 +646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -671,7 +671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -696,7 +696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -721,7 +721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -746,7 +746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -771,7 +771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -796,7 +796,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -821,7 +821,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -846,7 +846,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -871,7 +871,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -896,7 +896,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -921,7 +921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -946,7 +946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -971,7 +971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -996,7 +996,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1021,7 +1021,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1046,7 +1046,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1071,7 +1071,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1096,7 +1096,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1121,7 +1121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1146,7 +1146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1171,7 +1171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1196,7 +1196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1221,7 +1221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1246,32 +1246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q64962804",
-      "title": "Fertilization of Egypt",
-      "date": "1791",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "william-blake",
-      "artistName": "William Blake",
-      "locationId": "collection-unknown-washington-d-c",
-      "location": "Collection unknown",
-      "city": "Washington, D.C.",
-      "country": "United States",
-      "lat": 38.891388888,
-      "lon": -77.02,
-      "source": "http://www.wikidata.org/entity/Q64962804",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20after%20Henry%20Fuseli%2C%20Fertilization%20of%20Egypt%2C%201791%2C%20NGA%204984.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20by%20Thomas%20Phillips.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1296,7 +1271,32 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q64962804",
+      "title": "Fertilization of Egypt",
+      "date": "1791",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "william-blake",
+      "artistName": "William Blake",
+      "locationId": "collection-unknown-washington-d-c",
+      "location": "Collection unknown",
+      "city": "Washington, D.C.",
+      "country": "United States",
+      "lat": 38.891388888,
+      "lon": -77.02,
+      "source": "http://www.wikidata.org/entity/Q64962804",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20after%20Henry%20Fuseli%2C%20Fertilization%20of%20Egypt%2C%201791%2C%20NGA%204984.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20by%20Thomas%20Phillips.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q41513",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1321,7 +1321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1346,7 +1346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1371,7 +1371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1396,12 +1396,12 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
     {
-      "id": "Q64962573",
+      "id": "Q64962753",
       "title": "Job Accepting Charity",
       "date": "1825",
       "type": "Painting",
@@ -1414,19 +1414,19 @@
       "country": "United States",
       "lat": 38.891388888,
       "lon": -77.02,
-      "source": "http://www.wikidata.org/entity/Q64962573",
+      "source": "http://www.wikidata.org/entity/Q64962753",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%2C%20Job%20Accepting%20Charity%2C%201825%2C%20NGA%20823.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%2C%20Job%20Accepting%20Charity%2C%201825%2C%20NGA%204979.jpg",
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20by%20Thomas%20Phillips.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
     {
-      "id": "Q64962574",
+      "id": "Q64962755",
       "title": "Job and His Daughters",
       "date": "1825",
       "type": "Painting",
@@ -1439,14 +1439,14 @@
       "country": "United States",
       "lat": 38.891388888,
       "lon": -77.02,
-      "source": "http://www.wikidata.org/entity/Q64962574",
+      "source": "http://www.wikidata.org/entity/Q64962755",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%2C%20Job%20and%20His%20Daughters%2C%201825%2C%20NGA%20824.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%2C%20Job%20and%20His%20Daughters%2C%201825%2C%20NGA%204980.jpg",
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20by%20Thomas%20Phillips.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1471,12 +1471,12 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
     {
-      "id": "Q64962580",
+      "id": "Q64962538",
       "title": "Job and His Family",
       "date": "1825",
       "type": "Painting",
@@ -1489,14 +1489,14 @@
       "country": "United States",
       "lat": 38.891388888,
       "lon": -77.02,
-      "source": "http://www.wikidata.org/entity/Q64962580",
+      "source": "http://www.wikidata.org/entity/Q64962538",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%2C%20Job%20and%20His%20Family%2C%201825%2C%20NGA%204805.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%2C%20Job%20and%20His%20Family%2C%201825%2C%20NGA%204961.jpg",
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20by%20Thomas%20Phillips.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1521,12 +1521,12 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
     {
-      "id": "Q64962576",
+      "id": "Q64962756",
       "title": "Job and His Wife Restored to Prosperity",
       "date": "1825",
       "type": "Painting",
@@ -1539,19 +1539,19 @@
       "country": "United States",
       "lat": 38.891388888,
       "lon": -77.02,
-      "source": "http://www.wikidata.org/entity/Q64962576",
+      "source": "http://www.wikidata.org/entity/Q64962756",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%2C%20Job%20and%20His%20Wife%20Restored%20to%20Prosperity%2C%201825%2C%20NGA%20825.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%2C%20Job%20and%20His%20Wife%20Restored%20to%20Prosperity%2C%201825%2C%20NGA%204981.jpg",
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20by%20Thomas%20Phillips.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
     {
-      "id": "Q64962670",
+      "id": "Q64962735",
       "title": "Job Rebuked by His Friends",
       "date": "1825",
       "type": "Painting",
@@ -1564,19 +1564,19 @@
       "country": "United States",
       "lat": 38.891388888,
       "lon": -77.02,
-      "source": "http://www.wikidata.org/entity/Q64962670",
+      "source": "http://www.wikidata.org/entity/Q64962735",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%2C%20Job%20Rebuked%20by%20His%20Friends%2C%201825%2C%20NGA%204845.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%2C%20Job%20Rebuked%20by%20His%20Friends%2C%201825%2C%20NGA%204970.jpg",
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20by%20Thomas%20Phillips.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
     {
-      "id": "Q64962550",
+      "id": "Q64962726",
       "title": "Job's Comforters",
       "date": "1825",
       "type": "Painting",
@@ -1589,14 +1589,14 @@
       "country": "United States",
       "lat": 38.891388888,
       "lon": -77.02,
-      "source": "http://www.wikidata.org/entity/Q64962550",
+      "source": "http://www.wikidata.org/entity/Q64962726",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%2C%20Job%27s%20Comforters%2C%201825%2C%20NGA%20811.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%2C%20Job%27s%20Comforters%2C%201825%2C%20NGA%204967.jpg",
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20by%20Thomas%20Phillips.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1621,7 +1621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1646,12 +1646,12 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
     {
-      "id": "Q64962572",
+      "id": "Q64962750",
       "title": "Job's Sacrifice",
       "date": "1825",
       "type": "Painting",
@@ -1664,14 +1664,14 @@
       "country": "United States",
       "lat": 38.891388888,
       "lon": -77.02,
-      "source": "http://www.wikidata.org/entity/Q64962572",
+      "source": "http://www.wikidata.org/entity/Q64962750",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%2C%20Job%27s%20Sacrifice%2C%201825%2C%20NGA%20822.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%2C%20Job%27s%20Sacrifice%2C%201825%2C%20NGA%204978.jpg",
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20by%20Thomas%20Phillips.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1696,7 +1696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1721,7 +1721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1746,7 +1746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1771,7 +1771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1796,7 +1796,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1821,7 +1821,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1846,7 +1846,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1871,7 +1871,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1896,7 +1896,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1921,7 +1921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1946,7 +1946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1971,7 +1971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1996,7 +1996,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2021,7 +2021,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2046,12 +2046,12 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
     {
-      "id": "Q64962586",
+      "id": "Q64962716",
       "title": "Satan Before the Throne of God",
       "date": "1825",
       "type": "Painting",
@@ -2064,19 +2064,19 @@
       "country": "United States",
       "lat": 38.891388888,
       "lon": -77.02,
-      "source": "http://www.wikidata.org/entity/Q64962586",
+      "source": "http://www.wikidata.org/entity/Q64962716",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%2C%20Satan%20Before%20the%20Throne%20of%20God%2C%201825%2C%20NGA%204807.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%2C%20Satan%20Before%20the%20Throne%20of%20God%2C%201825%2C%20NGA%204962.jpg",
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20by%20Thomas%20Phillips.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
     {
-      "id": "Q64962545",
+      "id": "Q64962723",
       "title": "Satan Going Forth from the Presence of the Lord",
       "date": "1825",
       "type": "Painting",
@@ -2089,14 +2089,14 @@
       "country": "United States",
       "lat": 38.891388888,
       "lon": -77.02,
-      "source": "http://www.wikidata.org/entity/Q64962545",
+      "source": "http://www.wikidata.org/entity/Q64962723",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%2C%20Satan%20Going%20Forth%20from%20the%20Presence%20of%20the%20Lord%2C%201825%2C%20NGA%20809.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%2C%20Satan%20Going%20Forth%20from%20the%20Presence%20of%20the%20Lord%2C%201825%2C%20NGA%204965.jpg",
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20by%20Thomas%20Phillips.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2121,7 +2121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2146,7 +2146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2171,7 +2171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2196,7 +2196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2221,7 +2221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2246,7 +2246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2271,7 +2271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2296,37 +2296,12 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
     {
-      "id": "Q65026724",
-      "title": "The Circle of the Falsifiers; Dante and Virgil Covering their Noses because of the stench",
-      "date": "1827",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "william-blake",
-      "artistName": "William Blake",
-      "locationId": "collection-unknown-washington-d-c",
-      "location": "Collection unknown",
-      "city": "Washington, D.C.",
-      "country": "United States",
-      "lat": 38.891388888,
-      "lon": -77.02,
-      "source": "http://www.wikidata.org/entity/Q65026724",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%2C%20The%20Circle%20of%20the%20Falsifiers%3B%20Dante%20and%20Virgil%20Covering%20their%20Noses%20because%20of%20the%20stench%2C%201827%2C%20NGA%2012094.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20by%20Thomas%20Phillips.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q64962533",
+      "id": "Q65026677",
       "title": "The Circle of the Falsifiers: Dante and Virgil Covering their Noses because of the st",
       "date": "1827",
       "type": "Painting",
@@ -2339,14 +2314,39 @@
       "country": "United States",
       "lat": 38.891388888,
       "lon": -77.02,
-      "source": "http://www.wikidata.org/entity/Q64962533",
+      "source": "http://www.wikidata.org/entity/Q65026677",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%2C%20The%20Circle%20of%20the%20Falsifiers%20-%20Dante%20and%20Virgil%20Covering%20their%20Noses%20because%20of%20the%20st%2C%201827%2C%20NGA%20802.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%2C%20The%20Circle%20of%20the%20Falsifiers%20-%20Dante%20and%20Virgil%20Covering%20their%20Noses%20because%20of%20the%20st%2C%201827%2C%20NGA%208459.jpg",
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20by%20Thomas%20Phillips.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q65578966",
+      "title": "The Circle of the Falsifiers: Dante and Virgil Covering their Noses because of the stench",
+      "date": "1827",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "william-blake",
+      "artistName": "William Blake",
+      "locationId": "collection-unknown-washington-d-c",
+      "location": "Collection unknown",
+      "city": "Washington, D.C.",
+      "country": "United States",
+      "lat": 38.891388888,
+      "lon": -77.02,
+      "source": "http://www.wikidata.org/entity/Q65578966",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%2C%20The%20Circle%20of%20the%20Falsifiers%20-%20Dante%20and%20Virgil%20Covering%20their%20Noses%20because%20of%20the%20stench%2C%201827%2C%20NGA%2057826.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20by%20Thomas%20Phillips.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q41513",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2371,12 +2371,12 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
     {
-      "id": "Q65026728",
+      "id": "Q65578945",
       "title": "The Circle of the Thieves; Agnolo Brunelleschi Attacked by a Six-Footed Serpent",
       "date": "1827",
       "type": "Painting",
@@ -2389,14 +2389,14 @@
       "country": "United States",
       "lat": 38.891388888,
       "lon": -77.02,
-      "source": "http://www.wikidata.org/entity/Q65026728",
+      "source": "http://www.wikidata.org/entity/Q65578945",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%2C%20The%20Circle%20of%20the%20Thieves%3B%20Agnolo%20Brunelleschi%20Attacked%20by%20a%20Six-Footed%20Serpent%2C%201827%2C%20NGA%2012097.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%2C%20The%20Circle%20of%20the%20Thieves%3B%20Agnolo%20Brunelleschi%20Attacked%20by%20a%20Six-Footed%20Serpent%2C%201827%2C%20NGA%2057824.jpg",
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20by%20Thomas%20Phillips.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2421,12 +2421,12 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
     {
-      "id": "Q65026722",
+      "id": "Q65578968",
       "title": "The Circle of the Traitors; Dante's Foot Striking Bocca degli Abbate",
       "date": "1827",
       "type": "Painting",
@@ -2439,19 +2439,19 @@
       "country": "United States",
       "lat": 38.891388888,
       "lon": -77.02,
-      "source": "http://www.wikidata.org/entity/Q65026722",
+      "source": "http://www.wikidata.org/entity/Q65578968",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%2C%20The%20Circle%20of%20the%20Traitors%3B%20Dante%27s%20Foot%20Striking%20Bocca%20degli%20Abbate%2C%201827%2C%20NGA%2012093.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%2C%20The%20Circle%20of%20the%20Traitors%3B%20Dante%27s%20Foot%20Striking%20Bocca%20degli%20Abbate%2C%201827%2C%20NGA%2057827.jpg",
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20by%20Thomas%20Phillips.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
     {
-      "id": "Q64962560",
+      "id": "Q64962745",
       "title": "The Creation",
       "date": "1825",
       "type": "Painting",
@@ -2464,14 +2464,14 @@
       "country": "United States",
       "lat": 38.891388888,
       "lon": -77.02,
-      "source": "http://www.wikidata.org/entity/Q64962560",
+      "source": "http://www.wikidata.org/entity/Q64962745",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%2C%20The%20Creation%2C%201825%2C%20NGA%20818.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%2C%20The%20Creation%2C%201825%2C%20NGA%204974.jpg",
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20by%20Thomas%20Phillips.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2496,12 +2496,12 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
     {
-      "id": "Q64962542",
+      "id": "Q64962717",
       "title": "The Destruction of Job's Sons",
       "date": "1825",
       "type": "Painting",
@@ -2514,14 +2514,14 @@
       "country": "United States",
       "lat": 38.891388888,
       "lon": -77.02,
-      "source": "http://www.wikidata.org/entity/Q64962542",
+      "source": "http://www.wikidata.org/entity/Q64962717",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%2C%20The%20Destruction%20of%20Job%27s%20Sons%2C%201825%2C%20NGA%20807.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%2C%20The%20Destruction%20of%20Job%27s%20Sons%2C%201825%2C%20NGA%204963.jpg",
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20by%20Thomas%20Phillips.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2546,7 +2546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2571,7 +2571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2596,7 +2596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2621,7 +2621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2646,7 +2646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2671,7 +2671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2696,7 +2696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2721,7 +2721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2746,7 +2746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2771,12 +2771,12 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
     {
-      "id": "Q64962544",
+      "id": "Q64962721",
       "title": "The Messengers Tell Job of His Misfortunes",
       "date": "1825",
       "type": "Painting",
@@ -2789,14 +2789,14 @@
       "country": "United States",
       "lat": 38.891388888,
       "lon": -77.02,
-      "source": "http://www.wikidata.org/entity/Q64962544",
+      "source": "http://www.wikidata.org/entity/Q64962721",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%2C%20The%20Messengers%20Tell%20Job%20of%20His%20Misfortunes%2C%201825%2C%20NGA%20808.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%2C%20The%20Messengers%20Tell%20Job%20of%20His%20Misfortunes%2C%201825%2C%20NGA%204964.jpg",
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20by%20Thomas%20Phillips.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2821,7 +2821,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2846,7 +2846,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2871,7 +2871,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2896,12 +2896,12 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
     {
-      "id": "Q64962695",
+      "id": "Q64962710",
       "title": "The Vision of Christ",
       "date": "1825",
       "type": "Painting",
@@ -2914,19 +2914,19 @@
       "country": "United States",
       "lat": 38.891388888,
       "lon": -77.02,
-      "source": "http://www.wikidata.org/entity/Q64962695",
+      "source": "http://www.wikidata.org/entity/Q64962710",
       "image": "",
       "externalImage": "",
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20by%20Thomas%20Phillips.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
     {
-      "id": "Q64962632",
+      "id": "Q64962729",
       "title": "The Vision of Eliphaz",
       "date": "1825",
       "type": "Painting",
@@ -2939,14 +2939,14 @@
       "country": "United States",
       "lat": 38.891388888,
       "lon": -77.02,
-      "source": "http://www.wikidata.org/entity/Q64962632",
+      "source": "http://www.wikidata.org/entity/Q64962729",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%2C%20The%20Vision%20of%20Eliphaz%2C%201825%2C%20NGA%204831.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%2C%20The%20Vision%20of%20Eliphaz%2C%201825%2C%20NGA%204969.jpg",
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20by%20Thomas%20Phillips.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2971,7 +2971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2996,7 +2996,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3021,7 +3021,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3046,7 +3046,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3071,7 +3071,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3096,7 +3096,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3121,7 +3121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3146,12 +3146,12 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
     {
-      "id": "Q64962535",
+      "id": "Q64962711",
       "title": "Title-Page of the Engraved Illustrations to the Book of Job",
       "date": "1825",
       "type": "Painting",
@@ -3164,14 +3164,14 @@
       "country": "United States",
       "lat": 38.891388888,
       "lon": -77.02,
-      "source": "http://www.wikidata.org/entity/Q64962535",
+      "source": "http://www.wikidata.org/entity/Q64962711",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%2C%20Title-Page%20of%20the%20Engraved%20Illustrations%20to%20the%20Book%20of%20Job%2C%201825%2C%20NGA%20804.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%2C%20Title-Page%20of%20the%20Engraved%20Illustrations%20to%20the%20Book%20of%20Job%2C%201825%2C%20NGA%204960.jpg",
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20by%20Thomas%20Phillips.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3196,12 +3196,12 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
     {
-      "id": "Q65026683",
+      "id": "Q65512343",
       "title": "Unknown subject (Let Him look up into the Heaven and laugh in the bright air)",
       "date": "1805",
       "type": "Painting",
@@ -3214,14 +3214,14 @@
       "country": "United States",
       "lat": 38.891388888,
       "lon": -77.02,
-      "source": "http://www.wikidata.org/entity/Q65026683",
+      "source": "http://www.wikidata.org/entity/Q65512343",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%2C%20Unknown%20subject%20%28Let%20Him%20look%20up%20into%20the%20Heaven%20and%20laugh%20in%20the%20bright%20air%29%2C%20possibly%20c.%201805%2C%20NGA%2011476.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%2C%20Unknown%20subject%20%28Let%20Him%20look%20up%20into%20the%20Heaven%20and%20laugh%20in%20the%20bright%20air%29%2C%20possibly%20c.%201805%2C%20NGA%2049045.jpg",
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20by%20Thomas%20Phillips.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3246,7 +3246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3271,7 +3271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3296,7 +3296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3321,7 +3321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3346,7 +3346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3371,7 +3371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3396,7 +3396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3421,7 +3421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3446,7 +3446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3471,7 +3471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3496,7 +3496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3521,7 +3521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3546,7 +3546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3571,7 +3571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3596,32 +3596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q23692113",
-      "title": "Christ Blessing",
-      "date": "1810",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "william-blake",
-      "artistName": "William Blake",
-      "locationId": "fogg-museum-cambridge",
-      "location": "Fogg Museum",
-      "city": "Cambridge",
-      "country": "United States",
-      "lat": 42.37409,
-      "lon": -71.114358,
-      "source": "http://www.wikidata.org/entity/Q23692113",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20-%20Christ%20Blessing%20-%201943.180%20-%20Harvard%20Art%20Museums.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20by%20Thomas%20Phillips.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3646,7 +3621,32 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q23692113",
+      "title": "Christ Blessing",
+      "date": "1810",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "william-blake",
+      "artistName": "William Blake",
+      "locationId": "harvard-art-museums-cambridge",
+      "location": "Harvard Art Museums",
+      "city": "Cambridge",
+      "country": "United States",
+      "lat": 42.37416667,
+      "lon": -71.11472222,
+      "source": "http://www.wikidata.org/entity/Q23692113",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20-%20Christ%20Blessing%20-%201943.180%20-%20Harvard%20Art%20Museums.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20by%20Thomas%20Phillips.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q41513",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3671,7 +3671,32 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q2324840",
+      "title": "The Ancient of Days",
+      "date": "1794",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "william-blake",
+      "artistName": "William Blake",
+      "locationId": "library-of-congress-washington-d-c",
+      "location": "Library of Congress",
+      "city": "Washington, D.C.",
+      "country": "United States",
+      "lat": 38.888611111,
+      "lon": -77.004722222,
+      "source": "http://www.wikidata.org/entity/Q2324840",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Europe%20a%20Prophecy%20copy%20K%20plate%2001.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20by%20Thomas%20Phillips.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q41513",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3696,7 +3721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3721,7 +3746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3746,7 +3771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3771,7 +3796,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3796,7 +3821,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3821,7 +3846,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3846,7 +3871,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3871,7 +3896,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3896,7 +3921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3921,7 +3946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3946,7 +3971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3971,7 +3996,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3996,7 +4021,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4021,7 +4046,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4046,7 +4071,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4071,7 +4096,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4096,7 +4121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4121,7 +4146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4146,7 +4171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4171,7 +4196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4196,7 +4221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4221,7 +4246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4246,7 +4271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4271,7 +4296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4296,7 +4321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4321,7 +4346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4346,307 +4371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q16152096",
-      "title": "Agony in the Garden",
-      "date": "1799",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "william-blake",
-      "artistName": "William Blake",
-      "locationId": "national-gallery-city-of-westminster",
-      "location": "National Gallery",
-      "city": "City of Westminster",
-      "country": "United Kingdom",
-      "lat": 51.508888888,
-      "lon": -0.128333333,
-      "source": "http://www.wikidata.org/entity/Q16152096",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20%281757-1827%29%20-%20The%20Agony%20in%20the%20Garden%20-%20N05894%20-%20National%20Gallery.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20by%20Thomas%20Phillips.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q23682914",
-      "title": "Bathsheba at the Bath",
-      "date": "1799",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "william-blake",
-      "artistName": "William Blake",
-      "locationId": "national-gallery-city-of-westminster",
-      "location": "National Gallery",
-      "city": "City of Westminster",
-      "country": "United Kingdom",
-      "lat": 51.508888888,
-      "lon": -0.128333333,
-      "source": "http://www.wikidata.org/entity/Q23682914",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20-%20Bathsheba%20at%20the%20Bath.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20by%20Thomas%20Phillips.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q3637289",
-      "title": "Beatrice Addressing Dante from the Car",
-      "date": "1824",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "william-blake",
-      "artistName": "William Blake",
-      "locationId": "national-gallery-city-of-westminster",
-      "location": "National Gallery",
-      "city": "City of Westminster",
-      "country": "United Kingdom",
-      "lat": 51.508888888,
-      "lon": -0.128333333,
-      "source": "http://www.wikidata.org/entity/Q3637289",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Beatrice%20Addressing%20Dante%20%28by%20William%20Blake%29.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20by%20Thomas%20Phillips.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q28539978",
-      "title": "Christ Blessing the Little Children",
-      "date": "1799",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "william-blake",
-      "artistName": "William Blake",
-      "locationId": "national-gallery-city-of-westminster",
-      "location": "National Gallery",
-      "city": "City of Westminster",
-      "country": "United Kingdom",
-      "lat": 51.508888888,
-      "lon": -0.128333333,
-      "source": "http://www.wikidata.org/entity/Q28539978",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20-%20Christ%20Blessing%20the%20Little%20Children.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20by%20Thomas%20Phillips.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q1996494",
-      "title": "Newton",
-      "date": "1795",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "william-blake",
-      "artistName": "William Blake",
-      "locationId": "national-gallery-city-of-westminster",
-      "location": "National Gallery",
-      "city": "City of Westminster",
-      "country": "United Kingdom",
-      "lat": 51.508888888,
-      "lon": -0.128333333,
-      "source": "http://www.wikidata.org/entity/Q1996494",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Newton-WilliamBlake.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20by%20Thomas%20Phillips.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q3950743",
-      "title": "Satan Smiting Job with Sore Boils",
-      "date": "1826",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "william-blake",
-      "artistName": "William Blake",
-      "locationId": "national-gallery-city-of-westminster",
-      "location": "National Gallery",
-      "city": "City of Westminster",
-      "country": "United Kingdom",
-      "lat": 51.508888888,
-      "lon": -0.128333333,
-      "source": "http://www.wikidata.org/entity/Q3950743",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20-%20Satan%20Smiting%20Job%20with%20Sore%20Boils%20-%20Google%20Art%20Project.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20by%20Thomas%20Phillips.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q28533252",
-      "title": "The Bard, from Gray",
-      "date": "1809",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "william-blake",
-      "artistName": "William Blake",
-      "locationId": "national-gallery-city-of-westminster",
-      "location": "National Gallery",
-      "city": "City of Westminster",
-      "country": "United Kingdom",
-      "lat": 51.508888888,
-      "lon": -0.128333333,
-      "source": "http://www.wikidata.org/entity/Q28533252",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20%281757-1827%29%20-%20The%20Bard%2C%20from%20Gray%20-%20N03551%20-%20National%20Gallery.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20by%20Thomas%20Phillips.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q3605056",
-      "title": "The Body of Abel Found by Adam and Eve",
-      "date": "1826",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "william-blake",
-      "artistName": "William Blake",
-      "locationId": "national-gallery-city-of-westminster",
-      "location": "National Gallery",
-      "city": "City of Westminster",
-      "country": "United Kingdom",
-      "lat": 51.508888888,
-      "lon": -0.128333333,
-      "source": "http://www.wikidata.org/entity/Q3605056",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Blake-Abel.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20by%20Thomas%20Phillips.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q28532715",
-      "title": "The Body of Christ Borne to the Tomb",
-      "date": "1799",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "william-blake",
-      "artistName": "William Blake",
-      "locationId": "national-gallery-city-of-westminster",
-      "location": "National Gallery",
-      "city": "City of Westminster",
-      "country": "United Kingdom",
-      "lat": 51.508888888,
-      "lon": -0.128333333,
-      "source": "http://www.wikidata.org/entity/Q28532715",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20%281757-1827%29%20-%20The%20Body%20of%20Christ%20Borne%20to%20the%20Tomb%20-%20N01164%20-%20National%20Gallery.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20by%20Thomas%20Phillips.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q7736333",
-      "title": "The Ghost of a Flea",
-      "date": "1819",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "william-blake",
-      "artistName": "William Blake",
-      "locationId": "national-gallery-city-of-westminster",
-      "location": "National Gallery",
-      "city": "City of Westminster",
-      "country": "United Kingdom",
-      "lat": 51.508888888,
-      "lon": -0.128333333,
-      "source": "http://www.wikidata.org/entity/Q7736333",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20-%20The%20Ghost%20of%20a%20Flea%20-%20Google%20Art%20Project.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20by%20Thomas%20Phillips.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q23690946",
-      "title": "The Spiritual Form of Nelson guiding Leviathan",
-      "date": "1807",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "william-blake",
-      "artistName": "William Blake",
-      "locationId": "national-gallery-city-of-westminster",
-      "location": "National Gallery",
-      "city": "City of Westminster",
-      "country": "United Kingdom",
-      "lat": 51.508888888,
-      "lon": -0.128333333,
-      "source": "http://www.wikidata.org/entity/Q23690946",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Spiritual%20Form%20of%20Nelson%20Guiding%20Leviathan.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20by%20Thomas%20Phillips.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q23690752",
-      "title": "The Spiritual Form of Pitt guiding Behemoth",
-      "date": "1805",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "william-blake",
-      "artistName": "William Blake",
-      "locationId": "national-gallery-city-of-westminster",
-      "location": "National Gallery",
-      "city": "City of Westminster",
-      "country": "United Kingdom",
-      "lat": 51.508888888,
-      "lon": -0.128333333,
-      "source": "http://www.wikidata.org/entity/Q23690752",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Blake%20Pitt%20Behemoth.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20by%20Thomas%20Phillips.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4671,7 +4396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4696,7 +4421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4721,7 +4446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4746,7 +4471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4771,7 +4496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4796,7 +4521,82 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q23691652",
+      "title": "A Vision of the Last Judgment",
+      "date": "1808",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "william-blake",
+      "artistName": "William Blake",
+      "locationId": "national-trust-location-unknown",
+      "location": "National Trust",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 51.5637,
+      "lon": -1.7972,
+      "source": "http://www.wikidata.org/entity/Q23691652",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20by%20Thomas%20Phillips.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q41513",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q52253433",
+      "title": "Satan calling up his Legions (from John Milton's 'Paradise Lost')",
+      "date": "1802",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "william-blake",
+      "artistName": "William Blake",
+      "locationId": "national-trust-location-unknown",
+      "location": "National Trust",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 51.5637,
+      "lon": -1.7972,
+      "source": "http://www.wikidata.org/entity/Q52253433",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20%281757-1827%29%20-%20Satan%20Calling%20Up%20His%20Legions%20%28from%20John%20Milton%27s%20%27Paradise%20Lost%27%29%20-%20486264%20-%20National%20Trust.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20by%20Thomas%20Phillips.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q41513",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q23693660",
+      "title": "The Sea of Time and Space",
+      "date": "1821",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "william-blake",
+      "artistName": "William Blake",
+      "locationId": "national-trust-location-unknown",
+      "location": "National Trust",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 51.5637,
+      "lon": -1.7972,
+      "source": "http://www.wikidata.org/entity/Q23693660",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20by%20Thomas%20Phillips.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q41513",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4821,7 +4621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4846,7 +4646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4871,7 +4671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4896,7 +4696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4921,7 +4721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4946,7 +4746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4971,7 +4771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4996,7 +4796,682 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q18542671",
+      "title": "‘Europe’: Fragment of Pages 3 and 4",
+      "date": "Date unknown",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "william-blake",
+      "artistName": "William Blake",
+      "locationId": "tate-city-of-westminster",
+      "location": "Tate",
+      "city": "City of Westminster",
+      "country": "United Kingdom",
+      "lat": 51.491062,
+      "lon": -0.127789,
+      "source": "http://www.wikidata.org/entity/Q18542671",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20by%20Thomas%20Phillips.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q41513",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q23693375",
+      "title": "'Nor Fox, nor Wolf, nor Rat among our Sheep'",
+      "date": "1820",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "william-blake",
+      "artistName": "William Blake",
+      "locationId": "tate-city-of-westminster",
+      "location": "Tate",
+      "city": "City of Westminster",
+      "country": "United Kingdom",
+      "lat": 51.491062,
+      "lon": -0.127789,
+      "source": "http://www.wikidata.org/entity/Q23693375",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20by%20Thomas%20Phillips.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q41513",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q23674480",
+      "title": "\"Age teaching Youth\"",
+      "date": "1780",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "william-blake",
+      "artistName": "William Blake",
+      "locationId": "tate-city-of-westminster",
+      "location": "Tate",
+      "city": "City of Westminster",
+      "country": "United Kingdom",
+      "lat": 51.491062,
+      "lon": -0.127789,
+      "source": "http://www.wikidata.org/entity/Q23674480",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Age%20Teaching%20Youth.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20by%20Thomas%20Phillips.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q41513",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q16152096",
+      "title": "Agony in the Garden",
+      "date": "1799",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "william-blake",
+      "artistName": "William Blake",
+      "locationId": "tate-city-of-westminster",
+      "location": "Tate",
+      "city": "City of Westminster",
+      "country": "United Kingdom",
+      "lat": 51.491062,
+      "lon": -0.127789,
+      "source": "http://www.wikidata.org/entity/Q16152096",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20%281757-1827%29%20-%20The%20Agony%20in%20the%20Garden%20-%20N05894%20-%20National%20Gallery.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20by%20Thomas%20Phillips.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q41513",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q23682914",
+      "title": "Bathsheba at the Bath",
+      "date": "1799",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "william-blake",
+      "artistName": "William Blake",
+      "locationId": "tate-city-of-westminster",
+      "location": "Tate",
+      "city": "City of Westminster",
+      "country": "United Kingdom",
+      "lat": 51.491062,
+      "lon": -0.127789,
+      "source": "http://www.wikidata.org/entity/Q23682914",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20-%20Bathsheba%20at%20the%20Bath.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20by%20Thomas%20Phillips.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q41513",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q3637289",
+      "title": "Beatrice Addressing Dante from the Car",
+      "date": "1820",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "william-blake",
+      "artistName": "William Blake",
+      "locationId": "tate-city-of-westminster",
+      "location": "Tate",
+      "city": "City of Westminster",
+      "country": "United Kingdom",
+      "lat": 51.491062,
+      "lon": -0.127789,
+      "source": "http://www.wikidata.org/entity/Q3637289",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Beatrice%20Addressing%20Dante%20%28by%20William%20Blake%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20by%20Thomas%20Phillips.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q41513",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q28539978",
+      "title": "Christ Blessing the Little Children",
+      "date": "1799",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "william-blake",
+      "artistName": "William Blake",
+      "locationId": "tate-city-of-westminster",
+      "location": "Tate",
+      "city": "City of Westminster",
+      "country": "United Kingdom",
+      "lat": 51.491062,
+      "lon": -0.127789,
+      "source": "http://www.wikidata.org/entity/Q28539978",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20-%20Christ%20Blessing%20the%20Little%20Children.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20by%20Thomas%20Phillips.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q41513",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q3723614",
+      "title": "Elohim creating Adam",
+      "date": "1795",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "william-blake",
+      "artistName": "William Blake",
+      "locationId": "tate-city-of-westminster",
+      "location": "Tate",
+      "city": "City of Westminster",
+      "country": "United Kingdom",
+      "lat": 51.491062,
+      "lon": -0.127789,
+      "source": "http://www.wikidata.org/entity/Q3723614",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20008.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20by%20Thomas%20Phillips.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q41513",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q23691612",
+      "title": "Epitome of James Hervey's 'Meditations among the Tombs'",
+      "date": "Date unknown",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "william-blake",
+      "artistName": "William Blake",
+      "locationId": "tate-city-of-westminster",
+      "location": "Tate",
+      "city": "City of Westminster",
+      "country": "United Kingdom",
+      "lat": 51.491062,
+      "lon": -0.127789,
+      "source": "http://www.wikidata.org/entity/Q23691612",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20by%20Thomas%20Phillips.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q41513",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q18542676",
+      "title": "Landscape near Felpham",
+      "date": "1800",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "william-blake",
+      "artistName": "William Blake",
+      "locationId": "tate-city-of-westminster",
+      "location": "Tate",
+      "city": "City of Westminster",
+      "country": "United Kingdom",
+      "lat": 51.491062,
+      "lon": -0.127789,
+      "source": "http://www.wikidata.org/entity/Q18542676",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20Landscape%20near%20Felpham%20circa%201800%20Tate.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20by%20Thomas%20Phillips.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q41513",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q28554034",
+      "title": "Moses Indignant at the Golden Calf",
+      "date": "1799",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "william-blake",
+      "artistName": "William Blake",
+      "locationId": "tate-city-of-westminster",
+      "location": "Tate",
+      "city": "City of Westminster",
+      "country": "United Kingdom",
+      "lat": 51.491062,
+      "lon": -0.127789,
+      "source": "http://www.wikidata.org/entity/Q28554034",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20%281757-1827%29%20-%20Moses%20Indignant%20at%20the%20Golden%20Calf%20-%20T04134%20-%20Tate.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20by%20Thomas%20Phillips.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q41513",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q1996494",
+      "title": "Newton",
+      "date": "1795",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "william-blake",
+      "artistName": "William Blake",
+      "locationId": "tate-city-of-westminster",
+      "location": "Tate",
+      "city": "City of Westminster",
+      "country": "United Kingdom",
+      "lat": 51.491062,
+      "lon": -0.127789,
+      "source": "http://www.wikidata.org/entity/Q1996494",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Newton-WilliamBlake.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20by%20Thomas%20Phillips.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q41513",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q7199551",
+      "title": "Pity",
+      "date": "1795",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "william-blake",
+      "artistName": "William Blake",
+      "locationId": "tate-city-of-westminster",
+      "location": "Tate",
+      "city": "City of Westminster",
+      "country": "United Kingdom",
+      "lat": 51.491062,
+      "lon": -0.127789,
+      "source": "http://www.wikidata.org/entity/Q7199551",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pity%20by%20William%20Blake%201795.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20by%20Thomas%20Phillips.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q41513",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q23691280",
+      "title": "Satan in his Original Glory",
+      "date": "1805",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "william-blake",
+      "artistName": "William Blake",
+      "locationId": "tate-city-of-westminster",
+      "location": "Tate",
+      "city": "City of Westminster",
+      "country": "United Kingdom",
+      "lat": 51.491062,
+      "lon": -0.127789,
+      "source": "http://www.wikidata.org/entity/Q23691280",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20by%20Thomas%20Phillips.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q41513",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q3950743",
+      "title": "Satan Smiting Job with Sore Boils",
+      "date": "1826",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "william-blake",
+      "artistName": "William Blake",
+      "locationId": "tate-city-of-westminster",
+      "location": "Tate",
+      "city": "City of Westminster",
+      "country": "United Kingdom",
+      "lat": 51.491062,
+      "lon": -0.127789,
+      "source": "http://www.wikidata.org/entity/Q3950743",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20-%20Satan%20Smiting%20Job%20with%20Sore%20Boils%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20by%20Thomas%20Phillips.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q41513",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q28533252",
+      "title": "The Bard, from Gray",
+      "date": "1809",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "william-blake",
+      "artistName": "William Blake",
+      "locationId": "tate-city-of-westminster",
+      "location": "Tate",
+      "city": "City of Westminster",
+      "country": "United Kingdom",
+      "lat": 51.491062,
+      "lon": -0.127789,
+      "source": "http://www.wikidata.org/entity/Q28533252",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20%281757-1827%29%20-%20The%20Bard%2C%20from%20Gray%20-%20N03551%20-%20National%20Gallery.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20by%20Thomas%20Phillips.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q41513",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q3605056",
+      "title": "The Body of Abel Found by Adam and Eve",
+      "date": "1826",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "william-blake",
+      "artistName": "William Blake",
+      "locationId": "tate-city-of-westminster",
+      "location": "Tate",
+      "city": "City of Westminster",
+      "country": "United Kingdom",
+      "lat": 51.491062,
+      "lon": -0.127789,
+      "source": "http://www.wikidata.org/entity/Q3605056",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Blake-Abel.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20by%20Thomas%20Phillips.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q41513",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q28532715",
+      "title": "The Body of Christ Borne to the Tomb",
+      "date": "1799",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "william-blake",
+      "artistName": "William Blake",
+      "locationId": "tate-city-of-westminster",
+      "location": "Tate",
+      "city": "City of Westminster",
+      "country": "United Kingdom",
+      "lat": 51.491062,
+      "lon": -0.127789,
+      "source": "http://www.wikidata.org/entity/Q28532715",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20%281757-1827%29%20-%20The%20Body%20of%20Christ%20Borne%20to%20the%20Tomb%20-%20N01164%20-%20National%20Gallery.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20by%20Thomas%20Phillips.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q41513",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q7735049",
+      "title": "The Four and Twenty Elders Casting their Crowns before the Divine Throne",
+      "date": "1805",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "william-blake",
+      "artistName": "William Blake",
+      "locationId": "tate-city-of-westminster",
+      "location": "Tate",
+      "city": "City of Westminster",
+      "country": "United Kingdom",
+      "lat": 51.491062,
+      "lon": -0.127789,
+      "source": "http://www.wikidata.org/entity/Q7735049",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Four%20and%20Twenty%20Elders%20%28William%20Blake%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20by%20Thomas%20Phillips.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q41513",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q7736333",
+      "title": "The Ghost of a Flea",
+      "date": "1819",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "william-blake",
+      "artistName": "William Blake",
+      "locationId": "tate-city-of-westminster",
+      "location": "Tate",
+      "city": "City of Westminster",
+      "country": "United Kingdom",
+      "lat": 51.491062,
+      "lon": -0.127789,
+      "source": "http://www.wikidata.org/entity/Q7736333",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20-%20The%20Ghost%20of%20a%20Flea%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20by%20Thomas%20Phillips.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q41513",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q135619840",
+      "title": "The Penance of Jane Shore",
+      "date": "1793",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "william-blake",
+      "artistName": "William Blake",
+      "locationId": "tate-city-of-westminster",
+      "location": "Tate",
+      "city": "City of Westminster",
+      "country": "United Kingdom",
+      "lat": 51.491062,
+      "lon": -0.127789,
+      "source": "http://www.wikidata.org/entity/Q135619840",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bu%C3%9Fejaneshores.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20by%20Thomas%20Phillips.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q41513",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q23693055",
+      "title": "The Simoniac Pope",
+      "date": "1820",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "william-blake",
+      "artistName": "William Blake",
+      "locationId": "tate-city-of-westminster",
+      "location": "Tate",
+      "city": "City of Westminster",
+      "country": "United Kingdom",
+      "lat": 51.491062,
+      "lon": -0.127789,
+      "source": "http://www.wikidata.org/entity/Q23693055",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20by%20Thomas%20Phillips.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q41513",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q23690946",
+      "title": "The Spiritual Form of Nelson guiding Leviathan",
+      "date": "1807",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "william-blake",
+      "artistName": "William Blake",
+      "locationId": "tate-city-of-westminster",
+      "location": "Tate",
+      "city": "City of Westminster",
+      "country": "United Kingdom",
+      "lat": 51.491062,
+      "lon": -0.127789,
+      "source": "http://www.wikidata.org/entity/Q23690946",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Spiritual%20Form%20of%20Nelson%20Guiding%20Leviathan.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20by%20Thomas%20Phillips.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q41513",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q23690752",
+      "title": "The Spiritual Form of Pitt guiding Behemoth",
+      "date": "1805",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "william-blake",
+      "artistName": "William Blake",
+      "locationId": "tate-city-of-westminster",
+      "location": "Tate",
+      "city": "City of Westminster",
+      "country": "United Kingdom",
+      "lat": 51.491062,
+      "lon": -0.127789,
+      "source": "http://www.wikidata.org/entity/Q23690752",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Blake%20Pitt%20Behemoth.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20by%20Thomas%20Phillips.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q41513",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q7775719",
+      "title": "The Wood of the Self-Murderers: The Harpies and the Suicides",
+      "date": "1824",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "william-blake",
+      "artistName": "William Blake",
+      "locationId": "tate-city-of-westminster",
+      "location": "Tate",
+      "city": "City of Westminster",
+      "country": "United Kingdom",
+      "lat": 51.491062,
+      "lon": -0.127789,
+      "source": "http://www.wikidata.org/entity/Q7775719",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Wood%20of%20the%20Self-Murderers.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20by%20Thomas%20Phillips.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q41513",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q132773972",
+      "title": "Untitled record",
+      "date": "Date unknown",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "william-blake",
+      "artistName": "William Blake",
+      "locationId": "tate-city-of-westminster",
+      "location": "Tate",
+      "city": "City of Westminster",
+      "country": "United Kingdom",
+      "lat": 51.491062,
+      "lon": -0.127789,
+      "source": "http://www.wikidata.org/entity/Q132773972",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Blake%20Cain%20Fleeing%20from%20the%20Wrath%20of%20God%20%28The%20Body%20of%20Abel%20Found%20by%20Adam%20and%20Eve%29%20c1805-1809.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20by%20Thomas%20Phillips.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q41513",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q23693561",
+      "title": "Winter",
+      "date": "1820",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "william-blake",
+      "artistName": "William Blake",
+      "locationId": "tate-city-of-westminster",
+      "location": "Tate",
+      "city": "City of Westminster",
+      "country": "United Kingdom",
+      "lat": 51.491062,
+      "lon": -0.127789,
+      "source": "http://www.wikidata.org/entity/Q23693561",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20%281757-1827%29%20-%20Winter%20-%20T02387%20-%20Tate.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20by%20Thomas%20Phillips.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q41513",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5021,7 +5496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5046,7 +5521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5071,7 +5546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5096,7 +5571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5121,7 +5596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5146,7 +5621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5171,7 +5646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5196,7 +5671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5221,7 +5696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5246,7 +5721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5271,7 +5746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5296,7 +5771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5321,7 +5796,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5346,7 +5821,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5371,7 +5846,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5396,7 +5871,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5421,7 +5896,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5446,7 +5921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5471,7 +5946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5496,7 +5971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5521,7 +5996,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5546,7 +6021,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5571,7 +6046,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5596,7 +6071,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5621,7 +6096,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5646,7 +6121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5671,7 +6146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5696,7 +6171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5721,7 +6196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5746,7 +6221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5771,7 +6246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5796,7 +6271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5821,7 +6296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5846,7 +6321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5871,7 +6346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5896,7 +6371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5921,7 +6396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5946,7 +6421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5971,7 +6446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5996,7 +6471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6021,7 +6496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6046,7 +6521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6071,7 +6546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6096,7 +6571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6121,7 +6596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6146,7 +6621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6171,7 +6646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6196,7 +6671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6221,7 +6696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6246,7 +6721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6271,7 +6746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6296,7 +6771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6321,7 +6796,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6346,7 +6821,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6371,7 +6846,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6396,7 +6871,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6421,7 +6896,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6446,7 +6921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6471,7 +6946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6496,7 +6971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6521,7 +6996,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6546,7 +7021,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6571,7 +7046,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6596,7 +7071,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6621,7 +7096,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6646,7 +7121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6671,7 +7146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6696,7 +7171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6721,7 +7196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6746,7 +7221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6771,7 +7246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6796,7 +7271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6821,7 +7296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6846,7 +7321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6871,7 +7346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6896,7 +7371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6921,7 +7396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6946,7 +7421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6971,7 +7446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6996,7 +7471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7021,7 +7496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7046,7 +7521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7071,7 +7546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7096,7 +7571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7121,7 +7596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7146,7 +7621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7171,7 +7646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7196,7 +7671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7221,7 +7696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7246,7 +7721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7271,7 +7746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7296,7 +7771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7321,7 +7796,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7346,7 +7821,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7371,7 +7846,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7396,7 +7871,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7421,7 +7896,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7446,7 +7921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7471,7 +7946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7496,7 +7971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7521,7 +7996,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7546,7 +8021,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7571,7 +8046,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7596,7 +8071,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7621,7 +8096,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7646,7 +8121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7671,7 +8146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7696,7 +8171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7721,7 +8196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7746,7 +8221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7771,7 +8246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7796,7 +8271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7821,7 +8296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7846,7 +8321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7871,7 +8346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7896,7 +8371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7921,7 +8396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7946,7 +8421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7971,7 +8446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7996,7 +8471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8021,7 +8496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8046,7 +8521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8071,7 +8546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8096,7 +8571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8121,7 +8596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8146,7 +8621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8171,7 +8646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8196,7 +8671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8221,7 +8696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8246,7 +8721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8271,7 +8746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8296,7 +8771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8321,7 +8796,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8346,7 +8821,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8371,7 +8846,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8396,7 +8871,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8421,7 +8896,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8446,7 +8921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8471,7 +8946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8496,7 +8971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8521,7 +8996,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8546,7 +9021,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8571,7 +9046,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8596,7 +9071,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8621,7 +9096,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8646,7 +9121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8671,7 +9146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8696,7 +9171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8721,7 +9196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8746,7 +9221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8771,7 +9246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8796,7 +9271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8821,7 +9296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8846,7 +9321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8871,7 +9346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8896,7 +9371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8921,7 +9396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8946,7 +9421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8971,7 +9446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8996,7 +9471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9021,7 +9496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9046,7 +9521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9071,7 +9546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9096,7 +9571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9121,7 +9596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9146,7 +9621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9171,7 +9646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9196,7 +9671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9221,7 +9696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9246,7 +9721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9271,7 +9746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9296,7 +9771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9321,7 +9796,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9346,7 +9821,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9371,7 +9846,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9396,7 +9871,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9421,7 +9896,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9446,7 +9921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9471,7 +9946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9496,7 +9971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9521,7 +9996,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9546,7 +10021,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9571,7 +10046,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9596,7 +10071,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9621,7 +10096,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9646,7 +10121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9671,7 +10146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9696,7 +10171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9721,7 +10196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9746,7 +10221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9771,7 +10246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9796,7 +10271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9821,7 +10296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9846,7 +10321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9871,7 +10346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q41513",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     }

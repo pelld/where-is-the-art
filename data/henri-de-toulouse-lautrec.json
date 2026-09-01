@@ -21,7 +21,107 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q110684767",
+      "title": "Buste de Lender-Mlle Marcelle Lender by Henri Marie Raymond de Toulouse-Lautrec - Henri de Toulouse-Lautrec",
+      "date": "1895",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "henri-de-toulouse-lautrec",
+      "artistName": "Henri de Toulouse-Lautrec",
+      "locationId": "aberdeen-archives-gallery-and-museums-collections-aberdeen-city",
+      "location": "Aberdeen Archives, Gallery and Museums collections",
+      "city": "Aberdeen City",
+      "country": "United Kingdom",
+      "lat": 57.148191,
+      "lon": -2.102713,
+      "source": "http://www.wikidata.org/entity/Q110684767",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Buste%20de%20Lender-Mlle%20Marcelle%20Lender%20by%20Henri%20Marie%20Raymond%20de%20Toulouse-Lautrec%20-%20Henri%20de%20Toulouse-Lautrec%20-%20ABDAG007134.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Photolautrec.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q82445",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q110684768",
+      "title": "May Belfort - Henri de Toulouse-Lautrec",
+      "date": "1895",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "henri-de-toulouse-lautrec",
+      "artistName": "Henri de Toulouse-Lautrec",
+      "locationId": "aberdeen-archives-gallery-and-museums-collections-aberdeen-city",
+      "location": "Aberdeen Archives, Gallery and Museums collections",
+      "city": "Aberdeen City",
+      "country": "United Kingdom",
+      "lat": 57.148191,
+      "lon": -2.102713,
+      "source": "http://www.wikidata.org/entity/Q110684768",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/May%20Belfort%20-%20Henri%20de%20Toulouse-Lautrec%20-%20ABDAG007136.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Photolautrec.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q82445",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q110683487",
+      "title": "Portrait of Charles Conder",
+      "date": "1893",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "henri-de-toulouse-lautrec",
+      "artistName": "Henri de Toulouse-Lautrec",
+      "locationId": "aberdeen-archives-gallery-and-museums-collections-aberdeen-city",
+      "location": "Aberdeen Archives, Gallery and Museums collections",
+      "city": "Aberdeen City",
+      "country": "United Kingdom",
+      "lat": 57.148191,
+      "lon": -2.102713,
+      "source": "http://www.wikidata.org/entity/Q110683487",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Charles%20Conder%20-%20Sketch%20for%20%27Aux%20Ambassadeurs-%20Gens%20Chics%27%20-%20Henri%20de%20Toulouse-Lautrec%20-%20ABDAG003036.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Photolautrec.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q82445",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q110684769",
+      "title": "Yvette Guilbert - dans 'La Glu' - Henri de Toulouse-Lautrec",
+      "date": "1898",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "henri-de-toulouse-lautrec",
+      "artistName": "Henri de Toulouse-Lautrec",
+      "locationId": "aberdeen-archives-gallery-and-museums-collections-aberdeen-city",
+      "location": "Aberdeen Archives, Gallery and Museums collections",
+      "city": "Aberdeen City",
+      "country": "United Kingdom",
+      "lat": 57.148191,
+      "lon": -2.102713,
+      "source": "http://www.wikidata.org/entity/Q110684769",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Yvette%20Guilbert%20-%20dans%20%27La%20Glu%27%20-%20Henri%20de%20Toulouse-Lautrec%20-%20ABDAG007138.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Photolautrec.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q82445",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -46,7 +146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -71,7 +171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -96,7 +196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -121,7 +221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -146,7 +246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -171,7 +271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -196,7 +296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -221,7 +321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -246,7 +346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -271,7 +371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -296,7 +396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -321,7 +421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -346,7 +446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -371,7 +471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -396,7 +496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -421,7 +521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -446,7 +546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -471,7 +571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -496,7 +596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -521,7 +621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -546,7 +646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -571,7 +671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -596,7 +696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -621,7 +721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -646,7 +746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -671,7 +771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -696,7 +796,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -721,7 +821,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -746,7 +846,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -771,7 +871,32 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q65073089",
+      "title": "Jane Avril",
+      "date": "1893",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "henri-de-toulouse-lautrec",
+      "artistName": "Henri de Toulouse-Lautrec",
+      "locationId": "cleveland-museum-of-art-cleveland",
+      "location": "Cleveland Museum of Art",
+      "city": "Cleveland",
+      "country": "United States",
+      "lat": 41.508888888,
+      "lon": -81.611666666,
+      "source": "http://www.wikidata.org/entity/Q65073089",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20de%20Toulouse-Lautrec%2C%20Jane%20Avril%2C%201893%2C%20NGA%2033922.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Photolautrec.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q82445",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -796,7 +921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -821,7 +946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -846,7 +971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -871,7 +996,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -896,32 +1021,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q83507871",
-      "title": "Untitled record",
-      "date": "1896",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "henri-de-toulouse-lautrec",
-      "artistName": "Henri de Toulouse-Lautrec",
-      "locationId": "collection-bemberg-toulouse",
-      "location": "Collection Bemberg",
-      "city": "Toulouse",
-      "country": "France",
-      "lat": 43.6003,
-      "lon": 1.44206,
-      "source": "http://www.wikidata.org/entity/Q83507871",
-      "image": "",
-      "externalImage": "",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Photolautrec.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -946,7 +1046,32 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q83507871",
+      "title": "Untitled record",
+      "date": "1896",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "henri-de-toulouse-lautrec",
+      "artistName": "Henri de Toulouse-Lautrec",
+      "locationId": "collection-bemberg-toulouse",
+      "location": "Collection Bemberg",
+      "city": "Toulouse",
+      "country": "France",
+      "lat": 43.6003,
+      "lon": 1.44206,
+      "source": "http://www.wikidata.org/entity/Q83507871",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Photolautrec.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q82445",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -971,7 +1096,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -996,7 +1121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1021,7 +1146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1046,7 +1171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1071,12 +1196,12 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
     {
-      "id": "Q65073115",
+      "id": "Q65508772",
       "title": "A Spectator (Une spectatrice)",
       "date": "1893",
       "type": "Painting",
@@ -1089,14 +1214,14 @@
       "country": "United States",
       "lat": 38.891388888,
       "lon": -77.02,
-      "source": "http://www.wikidata.org/entity/Q65073115",
+      "source": "http://www.wikidata.org/entity/Q65508772",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20de%20Toulouse-Lautrec%2C%20A%20Spectator%20%28Une%20spectatrice%29%2C%201893%2C%20NGA%2033927.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20de%20Toulouse-Lautrec%2C%20A%20Spectator%20%28Une%20spectatrice%29%2C%201893%2C%20NGA%2049167.jpg",
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Photolautrec.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1121,7 +1246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1146,7 +1271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1171,7 +1296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1196,7 +1321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1221,7 +1346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1246,7 +1371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1271,7 +1396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1296,7 +1421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1321,7 +1446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1346,7 +1471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1371,7 +1496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1396,7 +1521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1421,7 +1546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1446,7 +1571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1471,7 +1596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1496,7 +1621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1521,7 +1646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1546,7 +1671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1571,7 +1696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1596,7 +1721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1621,12 +1746,12 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
     {
-      "id": "Q65356582",
+      "id": "Q65508769",
       "title": "At the Renaissance: Sarah Bernhardt in \"Phedre\" (A la Renaissance: Sarah Bernhardt dans \"Phèdre\")",
       "date": "1893",
       "type": "Painting",
@@ -1639,14 +1764,14 @@
       "country": "United States",
       "lat": 38.891388888,
       "lon": -77.02,
-      "source": "http://www.wikidata.org/entity/Q65356582",
+      "source": "http://www.wikidata.org/entity/Q65508769",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20de%20Toulouse-Lautrec%2C%20At%20the%20Renaissance%20-%20Sarah%20Bernhardt%20in%20%22Phedre%22%20%28A%20la%20Renaissance%20-%20Sarah%20Bernhardt%20dans%20%22Ph%C3%A8dre%22%29%2C%201893%2C%20NGA%2042080.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20de%20Toulouse-Lautrec%2C%20At%20the%20Renaissance%20-%20Sarah%20Bernhardt%20in%20%22Phedre%22%20%28A%20la%20Renaissance%20-%20Sarah%20Bernhardt%20dans%20%22Ph%C3%A8dre%22%29%2C%201893%2C%20NGA%2049164.jpg",
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Photolautrec.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1671,7 +1796,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1696,7 +1821,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1721,7 +1846,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1746,12 +1871,12 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
     {
-      "id": "Q65356399",
+      "id": "Q65508775",
       "title": "Bowing to the Audience (Saluant le public)",
       "date": "1898",
       "type": "Painting",
@@ -1764,14 +1889,14 @@
       "country": "United States",
       "lat": 38.891388888,
       "lon": -77.02,
-      "source": "http://www.wikidata.org/entity/Q65356399",
+      "source": "http://www.wikidata.org/entity/Q65508775",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20de%20Toulouse-Lautrec%2C%20Bowing%20to%20the%20Audience%20%28Saluant%20le%20public%29%2C%201898%2C%20NGA%2039189.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20de%20Toulouse-Lautrec%2C%20Bowing%20to%20the%20Audience%20%28Saluant%20le%20public%29%2C%201898%2C%20NGA%2049170.jpg",
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Photolautrec.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1796,7 +1921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1821,7 +1946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1846,7 +1971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1871,7 +1996,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1896,7 +2021,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1921,7 +2046,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1946,7 +2071,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1971,7 +2096,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1996,7 +2121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2021,7 +2146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2046,7 +2171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2071,7 +2196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2096,7 +2221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2121,7 +2246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2146,7 +2271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2171,7 +2296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2196,7 +2321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2221,7 +2346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2246,7 +2371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2271,7 +2396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2296,7 +2421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2321,7 +2446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2346,7 +2471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2371,12 +2496,12 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
     {
-      "id": "Q65073119",
+      "id": "Q65508770",
       "title": "Ducarre at the Ambassadeurs (Ducarre aux ambassadeurs)",
       "date": "1893",
       "type": "Painting",
@@ -2389,14 +2514,14 @@
       "country": "United States",
       "lat": 38.891388888,
       "lon": -77.02,
-      "source": "http://www.wikidata.org/entity/Q65073119",
+      "source": "http://www.wikidata.org/entity/Q65508770",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20de%20Toulouse-Lautrec%2C%20Ducarre%20at%20the%20Ambassadeurs%20%28Ducarre%20aux%20ambassadeurs%29%2C%201893%2C%20NGA%2033929.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20de%20Toulouse-Lautrec%2C%20Ducarre%20at%20the%20Ambassadeurs%20%28Ducarre%20aux%20ambassadeurs%29%2C%201893%2C%20NGA%2049165.jpg",
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Photolautrec.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2421,7 +2546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2446,7 +2571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2471,7 +2596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2496,7 +2621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2521,7 +2646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2546,7 +2671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2571,7 +2696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2596,7 +2721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2621,7 +2746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2646,7 +2771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2671,7 +2796,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2696,7 +2821,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2721,7 +2846,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2746,7 +2871,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2771,7 +2896,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2796,7 +2921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2821,7 +2946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2846,7 +2971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2871,7 +2996,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2896,7 +3021,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2921,7 +3046,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2946,12 +3071,12 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
     {
-      "id": "Q65508776",
+      "id": "Q65356388",
       "title": "In \"La glu\" (Dans \"La glu\")",
       "date": "1898",
       "type": "Painting",
@@ -2964,14 +3089,14 @@
       "country": "United States",
       "lat": 38.891388888,
       "lon": -77.02,
-      "source": "http://www.wikidata.org/entity/Q65508776",
+      "source": "http://www.wikidata.org/entity/Q65356388",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20de%20Toulouse-Lautrec%2C%20In%20%22La%20glu%22%20%28Dans%20%22La%20glu%22%29%2C%201898%2C%20NGA%2049171.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20de%20Toulouse-Lautrec%2C%20In%20%22La%20glu%22%20%28Dans%20%22La%20glu%22%29%2C%201898%2C%20NGA%2039183.jpg",
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Photolautrec.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2996,7 +3121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3021,7 +3146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3046,7 +3171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3071,7 +3196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3096,7 +3221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3121,7 +3246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3146,7 +3271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3171,7 +3296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3196,7 +3321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3221,7 +3346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3246,7 +3371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3271,7 +3396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3296,7 +3421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3321,7 +3446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3346,7 +3471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3371,7 +3496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3396,7 +3521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3421,7 +3546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3446,7 +3571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3471,32 +3596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q65356608",
-      "title": "Le Chariot de terre cuite",
-      "date": "1894",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "henri-de-toulouse-lautrec",
-      "artistName": "Henri de Toulouse-Lautrec",
-      "locationId": "collection-unknown-washington-d-c",
-      "location": "Collection unknown",
-      "city": "Washington, D.C.",
-      "country": "United States",
-      "lat": 38.891388888,
-      "lon": -77.02,
-      "source": "http://www.wikidata.org/entity/Q65356608",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20de%20Toulouse-Lautrec%2C%20Le%20Chariot%20de%20terre%20cuite%2C%201894%2C%20NGA%2042098.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Photolautrec.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3521,7 +3621,32 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q65356608",
+      "title": "Le Chariot de terre cuite",
+      "date": "1894",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "henri-de-toulouse-lautrec",
+      "artistName": "Henri de Toulouse-Lautrec",
+      "locationId": "collection-unknown-washington-d-c",
+      "location": "Collection unknown",
+      "city": "Washington, D.C.",
+      "country": "United States",
+      "lat": 38.891388888,
+      "lon": -77.02,
+      "source": "http://www.wikidata.org/entity/Q65356608",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20de%20Toulouse-Lautrec%2C%20Le%20Chariot%20de%20terre%20cuite%2C%201894%2C%20NGA%2042098.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Photolautrec.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q82445",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3546,7 +3671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3571,7 +3696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3596,7 +3721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3621,7 +3746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3646,7 +3771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3671,7 +3796,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3696,7 +3821,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3721,7 +3846,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3746,7 +3871,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3771,7 +3896,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3796,7 +3921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3821,7 +3946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3846,7 +3971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3871,7 +3996,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3896,7 +4021,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3921,7 +4046,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3946,7 +4071,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3971,7 +4096,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3996,7 +4121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4021,7 +4146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4046,7 +4171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4071,7 +4196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4096,7 +4221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4121,7 +4246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4146,7 +4271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4171,7 +4296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4196,7 +4321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4221,7 +4346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4246,7 +4371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4271,12 +4396,12 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
     {
-      "id": "Q65356549",
+      "id": "Q65073150",
       "title": "Miss Loïe Fuller",
       "date": "1893",
       "type": "Painting",
@@ -4289,14 +4414,14 @@
       "country": "United States",
       "lat": 38.891388888,
       "lon": -77.02,
-      "source": "http://www.wikidata.org/entity/Q65356549",
+      "source": "http://www.wikidata.org/entity/Q65073150",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20de%20Toulouse-Lautrec%2C%20Miss%20Lo%C3%AFe%20Fuller%2C%201893%2C%20NGA%2042071.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20de%20Toulouse-Lautrec%2C%20Miss%20Lo%C3%AFe%20Fuller%2C%201893%2C%20NGA%2033944.jpg",
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Photolautrec.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4321,12 +4446,12 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
     {
-      "id": "Q65356642",
+      "id": "Q65356333",
       "title": "Miss May Belfort in the Irish and American Bar, rue Royale (Miss Belfort Belfort au Irish and American Bar, Rue Royale)",
       "date": "1895",
       "type": "Painting",
@@ -4339,14 +4464,14 @@
       "country": "United States",
       "lat": 38.891388888,
       "lon": -77.02,
-      "source": "http://www.wikidata.org/entity/Q65356642",
+      "source": "http://www.wikidata.org/entity/Q65356333",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20de%20Toulouse-Lautrec%2C%20Miss%20May%20Belfort%20in%20the%20Irish%20and%20American%20Bar%2C%20rue%20Royale%20%28Miss%20Belfort%20Belfort%20au%20Irish%20and%20American%20Bar%2C%20Rue%20Royale%29%2C%201895%2C%20NGA%2042119.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20de%20Toulouse-Lautrec%2C%20Miss%20May%20Belfort%20in%20the%20Irish%20and%20American%20Bar%2C%20rue%20Royale%20%28Miss%20Belfort%20Belfort%20au%20Irish%20and%20American%20Bar%2C%20Rue%20Royale%29%2C%201895%2C%20NGA%2039171.jpg",
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Photolautrec.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4371,7 +4496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4396,7 +4521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4421,7 +4546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4446,7 +4571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4471,7 +4596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4496,7 +4621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4521,7 +4646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4546,7 +4671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4571,7 +4696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4596,7 +4721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4621,7 +4746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4646,7 +4771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4671,7 +4796,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4696,7 +4821,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4721,7 +4846,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4746,7 +4871,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4771,7 +4896,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4796,7 +4921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4821,7 +4946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4846,7 +4971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4871,7 +4996,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4896,7 +5021,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4921,7 +5046,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4946,7 +5071,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4971,7 +5096,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4996,7 +5121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5021,7 +5146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5046,7 +5171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5071,7 +5196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5096,7 +5221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5121,7 +5246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5146,7 +5271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5171,7 +5296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5196,7 +5321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5221,7 +5346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5246,7 +5371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5271,7 +5396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5296,7 +5421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5321,7 +5446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5346,7 +5471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5371,7 +5496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5396,7 +5521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5421,7 +5546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5446,7 +5571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5471,7 +5596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5496,7 +5621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5521,7 +5646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5546,7 +5671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5571,7 +5696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5596,7 +5721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5621,7 +5746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5646,7 +5771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5671,7 +5796,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5696,7 +5821,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5721,7 +5846,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5746,7 +5871,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5771,7 +5896,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5796,7 +5921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5821,7 +5946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5846,7 +5971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5871,7 +5996,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5896,7 +6021,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5921,7 +6046,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5946,7 +6071,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5971,7 +6096,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5996,7 +6121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6021,7 +6146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6046,7 +6171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6071,7 +6196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6096,7 +6221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6121,7 +6246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6146,7 +6271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6171,7 +6296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6196,7 +6321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6221,7 +6346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6246,7 +6371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6271,7 +6396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6296,7 +6421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6321,7 +6446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6346,7 +6471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6371,12 +6496,12 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
     {
-      "id": "Q65356604",
+      "id": "Q65356349",
       "title": "Wounded Eros (Eros vanné)",
       "date": "1894",
       "type": "Painting",
@@ -6389,14 +6514,14 @@
       "country": "United States",
       "lat": 38.891388888,
       "lon": -77.02,
-      "source": "http://www.wikidata.org/entity/Q65356604",
+      "source": "http://www.wikidata.org/entity/Q65356349",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20de%20Toulouse-Lautrec%2C%20Wounded%20Eros%20%28Eros%20vann%C3%A9%29%2C%201894%2C%20NGA%2042095.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20de%20Toulouse-Lautrec%2C%20Wounded%20Eros%20%28Eros%20vann%C3%A9%29%2C%201894%2C%20NGA%2039172.jpg",
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Photolautrec.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6421,7 +6546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6446,7 +6571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6471,7 +6596,32 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q76342239",
+      "title": "Yvette Guilbert",
+      "date": "1894",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "henri-de-toulouse-lautrec",
+      "artistName": "Henri de Toulouse-Lautrec",
+      "locationId": "collection-unknown-washington-d-c",
+      "location": "Collection unknown",
+      "city": "Washington, D.C.",
+      "country": "United States",
+      "lat": 38.891388888,
+      "lon": -77.02,
+      "source": "http://www.wikidata.org/entity/Q76342239",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20de%20Toulouse-Lautrec%2C%20Yvette%20Guilbert%2C%201894%2C%20NGA%20130658.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Photolautrec.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q82445",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6496,32 +6646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q65356610",
-      "title": "Yvette Guilbert",
-      "date": "1894",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "henri-de-toulouse-lautrec",
-      "artistName": "Henri de Toulouse-Lautrec",
-      "locationId": "collection-unknown-washington-d-c",
-      "location": "Collection unknown",
-      "city": "Washington, D.C.",
-      "country": "United States",
-      "lat": 38.891388888,
-      "lon": -77.02,
-      "source": "http://www.wikidata.org/entity/Q65356610",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20de%20Toulouse-Lautrec%2C%20Yvette%20Guilbert%2C%201894%2C%20NGA%2042100.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Photolautrec.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6546,7 +6671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6571,7 +6696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6596,7 +6721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6621,7 +6746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6637,8 +6762,8 @@
       "location": "Courtauld Gallery",
       "city": "City of Westminster",
       "country": "United Kingdom",
-      "lat": 51.51083333,
-      "lon": -0.11722222,
+      "lat": 51.511568,
+      "lon": -0.117712,
       "source": "http://www.wikidata.org/entity/Q3945755",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Au%20Rat%20Mort.jpg",
@@ -6646,7 +6771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6662,8 +6787,8 @@
       "location": "Courtauld Gallery",
       "city": "City of Westminster",
       "country": "United Kingdom",
-      "lat": 51.51083333,
-      "lon": -0.11722222,
+      "lat": 51.511568,
+      "lon": -0.117712,
       "source": "http://www.wikidata.org/entity/Q119527552",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20de%20Toulouse-Lautrec%20%281864-1901%29%20-%20Jane%20Avril%20in%20the%20Entrance%20to%20the%20Moulin%20Rouge%2C%20Putting%20on%20her%20Gloves%20-%20P.1932.SC.465%20-%20Courtauld%20Gallery.jpg",
@@ -6671,7 +6796,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6696,7 +6821,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6721,7 +6846,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6746,7 +6871,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6758,10 +6883,10 @@
       "attribution": "Accepted",
       "artistId": "henri-de-toulouse-lautrec",
       "artistName": "Henri de Toulouse-Lautrec",
-      "locationId": "denver-art-museum-colorado",
+      "locationId": "denver-art-museum-location-unknown",
       "location": "Denver Art Museum",
-      "city": "Colorado",
-      "country": "United States",
+      "city": "Location unknown",
+      "country": "Country unknown",
       "lat": 39.737188,
       "lon": -104.989345,
       "source": "http://www.wikidata.org/entity/Q106925056",
@@ -6771,7 +6896,57 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q17494638",
+      "title": "Untitled record",
+      "date": "1897",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "henri-de-toulouse-lautrec",
+      "artistName": "Henri de Toulouse-Lautrec",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q17494638",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Photolautrec.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q82445",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q29654786",
+      "title": "Untitled record",
+      "date": "1883",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "henri-de-toulouse-lautrec",
+      "artistName": "Henri de Toulouse-Lautrec",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q29654786",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20de%20toulouse-lautrec%2C%20ritratto%20dell%27amico%20pittore%20gustave%20lucien%20dennery%2C%201890%20circa.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Photolautrec.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q82445",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6796,7 +6971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6821,7 +6996,32 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q70781254",
+      "title": "The Black Countess",
+      "date": "1881",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "henri-de-toulouse-lautrec",
+      "artistName": "Henri de Toulouse-Lautrec",
+      "locationId": "fogg-museum-cambridge",
+      "location": "Fogg Museum",
+      "city": "Cambridge",
+      "country": "United States",
+      "lat": 42.37409,
+      "lon": -71.114358,
+      "source": "http://www.wikidata.org/entity/Q70781254",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Black%20Countess%20by%20Henri%20de%20Toulouse-Lautrec%2C%201881%2C%20oil%20on%20board%20-%20Fogg%20Art%20Museum%2C%20Harvard%20University%20-%20DSC00675.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Photolautrec.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q82445",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6846,7 +7046,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6871,7 +7071,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6896,7 +7096,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6921,7 +7121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6946,7 +7146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6971,32 +7171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q70781254",
-      "title": "The Black Countess",
-      "date": "1881",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "henri-de-toulouse-lautrec",
-      "artistName": "Henri de Toulouse-Lautrec",
-      "locationId": "harvard-art-museums-cambridge",
-      "location": "Harvard Art Museums",
-      "city": "Cambridge",
-      "country": "United States",
-      "lat": 42.37416667,
-      "lon": -71.11472222,
-      "source": "http://www.wikidata.org/entity/Q70781254",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Black%20Countess%20by%20Henri%20de%20Toulouse-Lautrec%2C%201881%2C%20oil%20on%20board%20-%20Fogg%20Art%20Museum%2C%20Harvard%20University%20-%20DSC00675.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Photolautrec.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7021,7 +7196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7046,7 +7221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7071,7 +7246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7096,7 +7271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7121,7 +7296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7146,7 +7321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7171,7 +7346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7196,7 +7371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7208,9 +7383,9 @@
       "attribution": "Accepted",
       "artistId": "henri-de-toulouse-lautrec",
       "artistName": "Henri de Toulouse-Lautrec",
-      "locationId": "kunsthaus-zurich-zurich",
+      "locationId": "kunsthaus-zurich-district-1",
       "location": "Kunsthaus Zürich",
-      "city": "Zurich",
+      "city": "District 1",
       "country": "Switzerland",
       "lat": 47.370277777,
       "lon": 8.548055555,
@@ -7221,7 +7396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7246,7 +7421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7258,9 +7433,9 @@
       "attribution": "Accepted",
       "artistId": "henri-de-toulouse-lautrec",
       "artistName": "Henri de Toulouse-Lautrec",
-      "locationId": "kunsthaus-zurich-zurich",
+      "locationId": "kunsthaus-zurich-district-1",
       "location": "Kunsthaus Zürich",
-      "city": "Zurich",
+      "city": "District 1",
       "country": "Switzerland",
       "lat": 47.370277777,
       "lon": 8.548055555,
@@ -7271,7 +7446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7296,21 +7471,21 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
     {
       "id": "Q124282667",
       "title": "Untitled record",
-      "date": "1891",
+      "date": "1890",
       "type": "Painting",
       "attribution": "Accepted",
       "artistId": "henri-de-toulouse-lautrec",
       "artistName": "Henri de Toulouse-Lautrec",
-      "locationId": "kunsthaus-zurich-zurich",
+      "locationId": "kunsthaus-zurich-district-1",
       "location": "Kunsthaus Zürich",
-      "city": "Zurich",
+      "city": "District 1",
       "country": "Switzerland",
       "lat": 47.370277777,
       "lon": 8.548055555,
@@ -7321,7 +7496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7346,7 +7521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7371,7 +7546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7396,7 +7571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7421,7 +7596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7446,7 +7621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7471,7 +7646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7496,7 +7671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7521,7 +7696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7546,7 +7721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7571,7 +7746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7596,7 +7771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7621,7 +7796,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7646,7 +7821,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7671,7 +7846,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7696,7 +7871,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7721,7 +7896,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7746,7 +7921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7771,7 +7946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7796,7 +7971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7821,7 +7996,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7846,32 +8021,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q65073089",
-      "title": "Jane Avril",
-      "date": "1893",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "henri-de-toulouse-lautrec",
-      "artistName": "Henri de Toulouse-Lautrec",
-      "locationId": "musea-brugge-bruges",
-      "location": "Musea Brugge",
-      "city": "Bruges",
-      "country": "Belgium",
-      "lat": 51.205287,
-      "lon": 3.226531,
-      "source": "http://www.wikidata.org/entity/Q65073089",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20de%20Toulouse-Lautrec%2C%20Jane%20Avril%2C%201893%2C%20NGA%2033922.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Photolautrec.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7896,7 +8046,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7921,7 +8071,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7946,7 +8096,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7971,7 +8121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7996,7 +8146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8021,7 +8171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8046,7 +8196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8071,7 +8221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8096,32 +8246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q64491271",
-      "title": "Untitled record",
-      "date": "1895",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "henri-de-toulouse-lautrec",
-      "artistName": "Henri de Toulouse-Lautrec",
-      "locationId": "musee-d-orsay-7th-arrondissement-of-paris",
-      "location": "Musée d'Orsay",
-      "city": "7th arrondissement of Paris",
-      "country": "France",
-      "lat": 48.859972,
-      "lon": 2.326527,
-      "source": "http://www.wikidata.org/entity/Q64491271",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20de%20Toulouse-Lautrec%20-%20Panneaux%20pour%20la%20baraque%20de%20la%20Goulue%2C%20%C3%A0%20la%20Foire%20du%20Tr%C3%B4ne%20%C3%A0%20Paris%20-%20Google%20Art%20Project.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Photolautrec.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8146,7 +8271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8171,7 +8296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8196,7 +8321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8221,7 +8346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8246,14 +8371,14 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
     {
-      "id": "Q17494638",
+      "id": "Q64491271",
       "title": "Untitled record",
-      "date": "1897",
+      "date": "1895",
       "type": "Painting",
       "attribution": "Accepted",
       "artistId": "henri-de-toulouse-lautrec",
@@ -8264,14 +8389,14 @@
       "country": "France",
       "lat": 48.859972,
       "lon": 2.326527,
-      "source": "http://www.wikidata.org/entity/Q17494638",
+      "source": "http://www.wikidata.org/entity/Q64491271",
       "image": "",
-      "externalImage": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20de%20Toulouse-Lautrec%20-%20Panneaux%20pour%20la%20baraque%20de%20la%20Goulue%2C%20%C3%A0%20la%20Foire%20du%20Tr%C3%B4ne%20%C3%A0%20Paris%20-%20Google%20Art%20Project.jpg",
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Photolautrec.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8296,7 +8421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8321,7 +8446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8346,7 +8471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8371,7 +8496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8396,7 +8521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8421,7 +8546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8446,7 +8571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8471,7 +8596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8496,7 +8621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8512,8 +8637,8 @@
       "location": "Musée Toulouse-Lautrec",
       "city": "Albi",
       "country": "France",
-      "lat": 43.929166666,
-      "lon": 2.143055555,
+      "lat": 43.929338,
+      "lon": 2.14317,
       "source": "http://www.wikidata.org/entity/Q123929801",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/A%20Laborer%20at%20Celeyran%201882%20Henri%20de%20Toulouse-Lautrec.jpg",
@@ -8521,7 +8646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8537,8 +8662,8 @@
       "location": "Musée Toulouse-Lautrec",
       "city": "Albi",
       "country": "France",
-      "lat": 43.929166666,
-      "lon": 2.143055555,
+      "lat": 43.929338,
+      "lon": 2.14317,
       "source": "http://www.wikidata.org/entity/Q118218332",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%28Albi%29%20Un%20travailleur%20%C3%A0%20C%C3%A9leyran%20-%20Toulouse-Lautrec%201882%20-%20Mus%C3%A9e%20Toulouse-Lautrec.jpg",
@@ -8546,7 +8671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8571,7 +8696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8596,7 +8721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8621,7 +8746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8646,7 +8771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8671,7 +8796,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8696,7 +8821,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8721,7 +8846,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8746,7 +8871,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8771,7 +8896,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8796,7 +8921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8821,7 +8946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8837,8 +8962,8 @@
       "location": "Musée Toulouse-Lautrec",
       "city": "Albi",
       "country": "France",
-      "lat": 43.929166666,
-      "lon": 2.143055555,
+      "lat": 43.929338,
+      "lon": 2.14317,
       "source": "http://www.wikidata.org/entity/Q118233851",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%28Albi%29%20C%C3%A9leyran%2C%20les%20pins%20de%20la%20religieuse%20-%20Toulouse-Lautrec%201880%20MTL.38.jpg",
@@ -8846,7 +8971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8871,7 +8996,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8896,7 +9021,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8921,7 +9046,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8946,7 +9071,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8971,7 +9096,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8987,8 +9112,8 @@
       "location": "Musée Toulouse-Lautrec",
       "city": "Albi",
       "country": "France",
-      "lat": 43.929166666,
-      "lon": 2.143055555,
+      "lat": 43.929338,
+      "lon": 2.14317,
       "source": "http://www.wikidata.org/entity/Q118234642",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%28Albi%29%20T%C3%AAte%20de%20chien%20courant%20-%20Toulouse-Lautrec%201880%20-%20Mus%C3%A9e%20Toulouse-Lautrec%20MTL29.jpg",
@@ -8996,7 +9121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9021,7 +9146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9046,7 +9171,32 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q118216671",
+      "title": "Horse-drawn dog cart",
+      "date": "1880",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "henri-de-toulouse-lautrec",
+      "artistName": "Henri de Toulouse-Lautrec",
+      "locationId": "musee-toulouse-lautrec-albi",
+      "location": "Musée Toulouse-Lautrec",
+      "city": "Albi",
+      "country": "France",
+      "lat": 43.929338,
+      "lon": 2.14317,
+      "source": "http://www.wikidata.org/entity/Q118216671",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%28Albi%29%20Mus%C3%A9e%20Toulouse-Lautrec%20-%20Un%20dog-cart%20-%20Toulouse-Lautrec%201880.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Photolautrec.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q82445",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9062,8 +9212,8 @@
       "location": "Musée Toulouse-Lautrec",
       "city": "Albi",
       "country": "France",
-      "lat": 43.929166666,
-      "lon": 2.143055555,
+      "lat": 43.929338,
+      "lon": 2.14317,
       "source": "http://www.wikidata.org/entity/Q118234308",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%28Albi%29%20Mus%C3%A9e%20Toulouse-Lautrec%20-%20Valet%20de%20chiens%20-%20Toulouse-Lautrec%201880.jpg",
@@ -9071,7 +9221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9096,7 +9246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9121,7 +9271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9146,7 +9296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9171,7 +9321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9196,7 +9346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9221,7 +9371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9237,8 +9387,8 @@
       "location": "Musée Toulouse-Lautrec",
       "city": "Albi",
       "country": "France",
-      "lat": 43.929166666,
-      "lon": 2.143055555,
+      "lat": 43.929338,
+      "lon": 2.14317,
       "source": "http://www.wikidata.org/entity/Q118234572",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%28Albi%29%20R%C3%A9union%20de%20cavaliers%20de%20chasse%20%C3%A0%20courre%20-%20Henri%20de%20Toulouse-Lautrec%20-%20Mus%C3%A9e%20Toulouse-Lautrec.jpg",
@@ -9246,7 +9396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9262,8 +9412,8 @@
       "location": "Musée Toulouse-Lautrec",
       "city": "Albi",
       "country": "France",
-      "lat": 43.929166666,
-      "lon": 2.143055555,
+      "lat": 43.929338,
+      "lon": 2.14317,
       "source": "http://www.wikidata.org/entity/Q132192811",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%28Albi%29%20Louis%20Pascal%201893%20-%20Henri%20de%20Toulouse-Lautrec%20-%20Mus%C3%A9e%20Toulouse-Lautrec.jpg",
@@ -9271,7 +9421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9296,7 +9446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9312,8 +9462,8 @@
       "location": "Musée Toulouse-Lautrec",
       "city": "Albi",
       "country": "France",
-      "lat": 43.929166666,
-      "lon": 2.143055555,
+      "lat": 43.929338,
+      "lon": 2.14317,
       "source": "http://www.wikidata.org/entity/Q118218323",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%28Albi%29%20Vieille%20femme%20assise%20sur%20un%20banc%20%C3%A0%20C%C3%A9leyran%20-%20Toulouse-Lautrec%201882%20-%20Mus%C3%A9e%20Toulouse-Lautrec.jpg",
@@ -9321,7 +9471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9337,8 +9487,8 @@
       "location": "Musée Toulouse-Lautrec",
       "city": "Albi",
       "country": "France",
-      "lat": 43.929166666,
-      "lon": 2.143055555,
+      "lat": 43.929338,
+      "lon": 2.14317,
       "source": "http://www.wikidata.org/entity/Q118255473",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%28Albi%29%20Un%20faucon%20p%C3%A8lerin%20Toulouse-Lautrec%201880%20MLT30.jpg",
@@ -9346,7 +9496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9371,7 +9521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9396,7 +9546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9421,7 +9571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9446,7 +9596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9462,8 +9612,8 @@
       "location": "Musée Toulouse-Lautrec",
       "city": "Albi",
       "country": "France",
-      "lat": 43.929166666,
-      "lon": 2.143055555,
+      "lat": 43.929338,
+      "lon": 2.14317,
       "source": "http://www.wikidata.org/entity/Q118234296",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%28Albi%29%20Petite%20chienne%20blanche%20-%20Toulouse-Lautrec%201881%20-%20Mus%C3%A9e%20Toulouse-Lautrec%20MTL65.jpg",
@@ -9471,7 +9621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9487,8 +9637,8 @@
       "location": "Musée Toulouse-Lautrec",
       "city": "Albi",
       "country": "France",
-      "lat": 43.929166666,
-      "lon": 2.143055555,
+      "lat": 43.929338,
+      "lon": 2.14317,
       "source": "http://www.wikidata.org/entity/Q118234497",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%28Albi%29%20Etude%20d%27apr%C3%A8s%20le%20pl%C3%A2tre%20-%20Toulouse-Lautrec%20-%201883%20-%20MTL.108.jpg",
@@ -9496,7 +9646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9521,7 +9671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9546,7 +9696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9571,7 +9721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9596,7 +9746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9621,7 +9771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9646,7 +9796,32 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q121434609",
+      "title": "Untitled record",
+      "date": "1894",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "henri-de-toulouse-lautrec",
+      "artistName": "Henri de Toulouse-Lautrec",
+      "locationId": "musee-toulouse-lautrec-albi",
+      "location": "Musée Toulouse-Lautrec",
+      "city": "Albi",
+      "country": "France",
+      "lat": 43.929338,
+      "lon": 2.14317,
+      "source": "http://www.wikidata.org/entity/Q121434609",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%28Albi%29%20Femme%20qui%20tire%20son%20bas%201894%20-%20Toulouse-Lautrec%20-%20Mus%C3%A9e%20Toulouse-Lautrec%20MTL.177.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Photolautrec.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q82445",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9671,57 +9846,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q121434609",
-      "title": "Untitled record",
-      "date": "1894",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "henri-de-toulouse-lautrec",
-      "artistName": "Henri de Toulouse-Lautrec",
-      "locationId": "musee-toulouse-lautrec-albi",
-      "location": "Musée Toulouse-Lautrec",
-      "city": "Albi",
-      "country": "France",
-      "lat": 43.929166666,
-      "lon": 2.143055555,
-      "source": "http://www.wikidata.org/entity/Q121434609",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%28Albi%29%20Femme%20qui%20tire%20son%20bas%201894%20-%20Toulouse-Lautrec%20-%20Mus%C3%A9e%20Toulouse-Lautrec%20MTL.177.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Photolautrec.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q118216671",
-      "title": "Untitled record",
-      "date": "1880",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "henri-de-toulouse-lautrec",
-      "artistName": "Henri de Toulouse-Lautrec",
-      "locationId": "musee-toulouse-lautrec-albi",
-      "location": "Musée Toulouse-Lautrec",
-      "city": "Albi",
-      "country": "France",
-      "lat": 43.929338,
-      "lon": 2.14317,
-      "source": "http://www.wikidata.org/entity/Q118216671",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%28Albi%29%20Mus%C3%A9e%20Toulouse-Lautrec%20-%20Un%20dog-cart%20-%20Toulouse-Lautrec%201880.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Photolautrec.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9737,8 +9862,8 @@
       "location": "Musée Toulouse-Lautrec",
       "city": "Albi",
       "country": "France",
-      "lat": 43.929166666,
-      "lon": 2.143055555,
+      "lat": 43.929338,
+      "lon": 2.14317,
       "source": "http://www.wikidata.org/entity/Q118255553",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%28Albi%29%20Vue%20du%20bassin%20d%27Arcachon%20prise%20de%20l%27avant%20du%20yacht%20COCORICO%20Toulouse-Lautrec%201889%20MTL.129.jpg",
@@ -9746,7 +9871,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9771,7 +9896,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9796,7 +9921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9821,7 +9946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9846,7 +9971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9871,7 +9996,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9896,7 +10021,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9921,7 +10046,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9946,7 +10071,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9971,7 +10096,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9996,7 +10121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -10021,7 +10146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -10046,7 +10171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -10071,7 +10196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -10096,7 +10221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -10121,7 +10246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -10146,7 +10271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -10171,7 +10296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -10196,7 +10321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -10221,7 +10346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -10246,7 +10371,32 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q5831987",
+      "title": "At the Moulin Rouge: Two women waltzing",
+      "date": "1892",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "henri-de-toulouse-lautrec",
+      "artistName": "Henri de Toulouse-Lautrec",
+      "locationId": "national-gallery-prague-location-unknown",
+      "location": "National Gallery Prague",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 50.101111,
+      "lon": 14.4325,
+      "source": "http://www.wikidata.org/entity/Q5831987",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20de%20Toulouse-Lautrec%2C%201892%2C%20Deux%20femmes%20dansant%20au%20Moulin-Rouge%2C%20oil%20on%20cardboard%2C%2093%20x%2080%20cm%2C%20National%20Gallery%20in%20Prague.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Photolautrec.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q82445",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -10271,7 +10421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -10296,7 +10446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -10321,7 +10471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -10333,9 +10483,9 @@
       "attribution": "Accepted",
       "artistId": "henri-de-toulouse-lautrec",
       "artistName": "Henri de Toulouse-Lautrec",
-      "locationId": "nationalmuseum-stockholm",
+      "locationId": "nationalmuseum-stockholm-municipality",
       "location": "Nationalmuseum",
-      "city": "Stockholm",
+      "city": "Stockholm Municipality",
       "country": "Sweden",
       "lat": 59.328611111,
       "lon": 18.078055555,
@@ -10346,7 +10496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -10371,7 +10521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -10383,9 +10533,9 @@
       "attribution": "Accepted",
       "artistId": "henri-de-toulouse-lautrec",
       "artistName": "Henri de Toulouse-Lautrec",
-      "locationId": "nationalmuseum-stockholm",
+      "locationId": "nationalmuseum-stockholm-municipality",
       "location": "Nationalmuseum",
-      "city": "Stockholm",
+      "city": "Stockholm Municipality",
       "country": "Sweden",
       "lat": 59.328611111,
       "lon": 18.078055555,
@@ -10396,7 +10546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -10408,9 +10558,9 @@
       "attribution": "Accepted",
       "artistId": "henri-de-toulouse-lautrec",
       "artistName": "Henri de Toulouse-Lautrec",
-      "locationId": "nationalmuseum-stockholm",
+      "locationId": "nationalmuseum-stockholm-municipality",
       "location": "Nationalmuseum",
-      "city": "Stockholm",
+      "city": "Stockholm Municipality",
       "country": "Sweden",
       "lat": 59.328611111,
       "lon": 18.078055555,
@@ -10421,7 +10571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -10446,7 +10596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -10471,7 +10621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -10496,7 +10646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -10521,7 +10671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -10546,7 +10696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -10571,7 +10721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -10596,7 +10746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -10621,7 +10771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -10646,7 +10796,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -10671,7 +10821,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -10696,7 +10846,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -10721,7 +10871,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -10746,7 +10896,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -10771,7 +10921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -10796,7 +10946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -10821,7 +10971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -10846,7 +10996,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -10871,7 +11021,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -10896,7 +11046,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -10921,7 +11071,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -10946,7 +11096,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -10971,7 +11121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -10996,7 +11146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -11021,7 +11171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -11046,7 +11196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -11071,7 +11221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -11096,7 +11246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -11121,7 +11271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -11146,7 +11296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -11171,7 +11321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -11196,7 +11346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -11221,7 +11371,57 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q3937771",
+      "title": "Émile Bernard",
+      "date": "1885",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "henri-de-toulouse-lautrec",
+      "artistName": "Henri de Toulouse-Lautrec",
+      "locationId": "tate-city-of-westminster",
+      "location": "Tate",
+      "city": "City of Westminster",
+      "country": "United Kingdom",
+      "lat": 51.491062,
+      "lon": -0.127789,
+      "source": "http://www.wikidata.org/entity/Q3937771",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lautrecx07.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Photolautrec.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q82445",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q28551260",
+      "title": "Side-saddle",
+      "date": "1899",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "henri-de-toulouse-lautrec",
+      "artistName": "Henri de Toulouse-Lautrec",
+      "locationId": "tate-city-of-westminster",
+      "location": "Tate",
+      "city": "City of Westminster",
+      "country": "United Kingdom",
+      "lat": 51.491062,
+      "lon": -0.127789,
+      "source": "http://www.wikidata.org/entity/Q28551260",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20de%20Toulouse-Lautrec%20%281864-1901%29%20-%20Side-saddle%20%28Amazone%29%20-%20T03575%20-%20Tate.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Photolautrec.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q82445",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -11246,7 +11446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -11271,7 +11471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -11296,7 +11496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -11321,7 +11521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -11333,9 +11533,9 @@
       "attribution": "Accepted",
       "artistId": "henri-de-toulouse-lautrec",
       "artistName": "Henri de Toulouse-Lautrec",
-      "locationId": "thiel-gallery-stockholm",
+      "locationId": "thiel-gallery-stockholm-municipality",
       "location": "Thiel Gallery",
-      "city": "Stockholm",
+      "city": "Stockholm Municipality",
       "country": "Sweden",
       "lat": 59.32222222,
       "lon": 18.14861111,
@@ -11346,7 +11546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -11371,7 +11571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -11396,7 +11596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -11421,7 +11621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -11446,7 +11646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -11471,7 +11671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -11496,7 +11696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -11521,7 +11721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -11546,7 +11746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -11571,7 +11771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -11596,7 +11796,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -11621,7 +11821,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -11646,7 +11846,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -11671,7 +11871,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -11696,7 +11896,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -11721,7 +11921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -11746,7 +11946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -11771,7 +11971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q82445",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     }

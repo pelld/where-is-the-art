@@ -3,25 +3,6 @@
   "country": "India",
   "artworks": [
     {
-      "id": "Q100366541",
-      "artistId": "turner",
-      "artistName": "J. M. W. Turner",
-      "reviewStatus": "generated",
-      "title": "Snow range from Tyne or Marma",
-      "date": "Date unknown",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "national-gallery-of-modern-art-new-delhi",
-      "location": "National Gallery of Modern Art",
-      "city": "New Delhi",
-      "country": "India",
-      "lat": 28.610182,
-      "lon": 77.234401,
-      "source": "http://www.wikidata.org/entity/Q100366541",
-      "externalImage": "",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%20auto-retrato.jpg"
-    },
-    {
       "id": "Q54502057",
       "artistId": "anthony-van-dyck",
       "artistName": "Anthony van Dyck",

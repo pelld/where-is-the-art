@@ -1,6 +1,31 @@
 {
   "artworks": [
     {
+      "id": "Q109716149",
+      "title": "Paul Signac - Pont-l'Abbé",
+      "date": "1932",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "paul-signac",
+      "artistName": "Paul Signac",
+      "locationId": "aberdeen-archives-gallery-and-museums-collections-aberdeen-city",
+      "location": "Aberdeen Archives, Gallery and Museums collections",
+      "city": "Aberdeen City",
+      "country": "United Kingdom",
+      "lat": 57.148191,
+      "lon": -2.102713,
+      "source": "http://www.wikidata.org/entity/Q109716149",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pont%20L%27abbe%20by%20Paul%20Signac%20-%20Paul%20Signac%20-%20ABDAG003782.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Seurat%20Paul%20Signac.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q151573",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
       "id": "Q110243556",
       "title": "Antibes, The towers",
       "date": "1911",
@@ -21,7 +46,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -46,7 +71,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -71,7 +96,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -96,7 +121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -121,7 +146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -146,7 +171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -171,7 +196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -196,7 +221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -221,7 +246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -246,7 +271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -271,7 +296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -296,7 +321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -321,7 +346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -346,7 +371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -371,7 +396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -396,7 +421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -421,7 +446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -446,7 +471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -471,7 +496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -496,7 +521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -521,7 +546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -546,7 +571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -571,7 +596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -596,7 +621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -621,7 +646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -646,7 +671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -671,7 +696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -696,7 +721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -721,7 +746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -746,7 +771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -771,7 +796,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -796,7 +821,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -821,7 +846,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -846,7 +871,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -871,7 +896,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -896,7 +921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -921,7 +946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -946,7 +971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -971,7 +996,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -996,7 +1021,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1021,7 +1046,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1046,7 +1071,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1071,7 +1096,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1096,7 +1121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1121,7 +1146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1146,7 +1171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1171,7 +1196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1196,7 +1221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1221,7 +1246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1246,7 +1271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1271,7 +1296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1296,7 +1321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1308,10 +1333,10 @@
       "attribution": "Accepted",
       "artistId": "paul-signac",
       "artistName": "Paul Signac",
-      "locationId": "denver-art-museum-denver",
+      "locationId": "denver-art-museum-location-unknown",
       "location": "Denver Art Museum",
-      "city": "Denver",
-      "country": "United States",
+      "city": "Location unknown",
+      "country": "Country unknown",
       "lat": 39.737188,
       "lon": -104.989345,
       "source": "http://www.wikidata.org/entity/Q106925102",
@@ -1321,7 +1346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1346,7 +1371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1371,7 +1396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1396,7 +1421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1421,7 +1446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1446,57 +1471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q13463162",
-      "title": "Deux stylistes Rue du Caire",
-      "date": "1885",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "paul-signac",
-      "artistName": "Paul Signac",
-      "locationId": "foundation-e-g-buhrle-collection-zurich",
-      "location": "Foundation E.G. Bührle Collection",
-      "city": "Zurich",
-      "country": "Switzerland",
-      "lat": 47.353045,
-      "lon": 8.561758,
-      "source": "http://www.wikidata.org/entity/Q13463162",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Signac%20-%20The%20Milliners%2C%201885-86%2C%20Cachin%20111.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Seurat%20Paul%20Signac.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q64223640",
-      "title": "Venice, Giudecca Canal, Morning",
-      "date": "1905",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "paul-signac",
-      "artistName": "Paul Signac",
-      "locationId": "foundation-e-g-buhrle-collection-zurich",
-      "location": "Foundation E.G. Bührle Collection",
-      "city": "Zurich",
-      "country": "Switzerland",
-      "lat": 47.353045,
-      "lon": 8.561758,
-      "source": "http://www.wikidata.org/entity/Q64223640",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Signac%20-%20Canal%20de%20la%20Giudecca%2C%20Matin%20%28Santa%20Maria%20della%20Salute%29%20-%2097%20-%20Foundation%20E.G.%20B%C3%BChrle%20Collection.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Seurat%20Paul%20Signac.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1521,7 +1496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1546,7 +1521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1571,7 +1546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1596,7 +1571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1621,7 +1596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1646,7 +1621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1671,7 +1646,32 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q108479224",
+      "title": "Saint-Tropez, the Port at Sunset, Opus 236",
+      "date": "1892",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "paul-signac",
+      "artistName": "Paul Signac",
+      "locationId": "impressionism-the-hasso-plattner-collection-potsdam",
+      "location": "Impressionism: The Hasso Plattner Collection",
+      "city": "Potsdam",
+      "country": "Germany",
+      "lat": 52.395194444,
+      "lon": 13.062305555,
+      "source": "http://www.wikidata.org/entity/Q108479224",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/MB-Sig-03%20Signac%20Der-Hafen-bei-Sonnenuntergang-Opus-236%201.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Seurat%20Paul%20Signac.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q151573",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1696,7 +1696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1721,7 +1721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1746,7 +1746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1771,7 +1771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1783,9 +1783,9 @@
       "attribution": "Accepted",
       "artistId": "paul-signac",
       "artistName": "Paul Signac",
-      "locationId": "kroller-muller-museum-ede",
+      "locationId": "kroller-muller-museum-otterlo",
       "location": "Kröller-Müller Museum",
-      "city": "Ede",
+      "city": "Otterlo",
       "country": "Netherlands",
       "lat": 52.0956046,
       "lon": 5.8174138,
@@ -1796,7 +1796,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1808,12 +1808,12 @@
       "attribution": "Accepted",
       "artistId": "paul-signac",
       "artistName": "Paul Signac",
-      "locationId": "kroller-muller-museum-ede",
+      "locationId": "kroller-muller-museum-otterlo",
       "location": "Kröller-Müller Museum",
-      "city": "Ede",
+      "city": "Otterlo",
       "country": "Netherlands",
-      "lat": 52.0956046,
-      "lon": 5.8174138,
+      "lat": 52.095833333,
+      "lon": 5.816944444,
       "source": "http://www.wikidata.org/entity/Q24022244",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Signac%20-%20Entr%C3%A9e%20du%20port%20de%20Marseille%2C%201898%2C%20KM%20103.185.jpg",
@@ -1821,7 +1821,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1833,12 +1833,12 @@
       "attribution": "Accepted",
       "artistId": "paul-signac",
       "artistName": "Paul Signac",
-      "locationId": "kroller-muller-museum-ede",
+      "locationId": "kroller-muller-museum-otterlo",
       "location": "Kröller-Müller Museum",
-      "city": "Ede",
+      "city": "Otterlo",
       "country": "Netherlands",
-      "lat": 52.095833333,
-      "lon": 5.816944444,
+      "lat": 52.0956046,
+      "lon": 5.8174138,
       "source": "http://www.wikidata.org/entity/Q24022239",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Signac%20-%20Port-en-Bessin%2C%20La%20Valleuse%2C%201884%2C%20KM%20104.972.jpg",
@@ -1846,7 +1846,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1858,12 +1858,12 @@
       "attribution": "Accepted",
       "artistId": "paul-signac",
       "artistName": "Paul Signac",
-      "locationId": "kroller-muller-museum-ede",
+      "locationId": "kroller-muller-museum-otterlo",
       "location": "Kröller-Müller Museum",
-      "city": "Ede",
+      "city": "Otterlo",
       "country": "Netherlands",
-      "lat": 52.0956046,
-      "lon": 5.8174138,
+      "lat": 52.095833333,
+      "lon": 5.816944444,
       "source": "http://www.wikidata.org/entity/Q24022247",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Signac%20-%20Portrieux.%20La%20jet%C3%A9e%2C%20temps%20gris%2C%201888%2C%20KM%20108.323.jpg",
@@ -1871,7 +1871,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1883,9 +1883,9 @@
       "attribution": "Accepted",
       "artistId": "paul-signac",
       "artistName": "Paul Signac",
-      "locationId": "kroller-muller-museum-ede",
+      "locationId": "kroller-muller-museum-otterlo",
       "location": "Kröller-Müller Museum",
-      "city": "Ede",
+      "city": "Otterlo",
       "country": "Netherlands",
       "lat": 52.0956046,
       "lon": 5.8174138,
@@ -1896,7 +1896,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1912,8 +1912,8 @@
       "location": "Kröller-Müller Museum",
       "city": "Otterlo",
       "country": "Netherlands",
-      "lat": 52.0956046,
-      "lon": 5.8174138,
+      "lat": 52.095833333,
+      "lon": 5.816944444,
       "source": "http://www.wikidata.org/entity/Q24022253",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Signac%20-%20Rotterdam.%20Le%20moulin.%20Le%20canal.%20Le%20matin%2C%201906%2C%20KM%20102.087.jpg",
@@ -1921,7 +1921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1946,7 +1946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1958,9 +1958,9 @@
       "attribution": "Accepted",
       "artistId": "paul-signac",
       "artistName": "Paul Signac",
-      "locationId": "kroller-muller-museum-ede",
+      "locationId": "kroller-muller-museum-otterlo",
       "location": "Kröller-Müller Museum",
-      "city": "Ede",
+      "city": "Otterlo",
       "country": "Netherlands",
       "lat": 52.0956046,
       "lon": 5.8174138,
@@ -1971,7 +1971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1996,7 +1996,32 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q13463162",
+      "title": "Deux stylistes Rue du Caire",
+      "date": "1885",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "paul-signac",
+      "artistName": "Paul Signac",
+      "locationId": "kunsthaus-zurich-district-1",
+      "location": "Kunsthaus Zürich",
+      "city": "District 1",
+      "country": "Switzerland",
+      "lat": 47.370277777,
+      "lon": 8.548055555,
+      "source": "http://www.wikidata.org/entity/Q13463162",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Signac%20-%20The%20Milliners%2C%201885-86%2C%20Cachin%20111.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Seurat%20Paul%20Signac.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q151573",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2021,7 +2046,32 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q64223640",
+      "title": "Venice, Giudecca Canal, Morning",
+      "date": "1905",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "paul-signac",
+      "artistName": "Paul Signac",
+      "locationId": "kunsthaus-zurich-district-1",
+      "location": "Kunsthaus Zürich",
+      "city": "District 1",
+      "country": "Switzerland",
+      "lat": 47.370277777,
+      "lon": 8.548055555,
+      "source": "http://www.wikidata.org/entity/Q64223640",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Signac%20-%20Canal%20de%20la%20Giudecca%2C%20Matin%20%28Santa%20Maria%20della%20Salute%29%20-%2097%20-%20Foundation%20E.G.%20B%C3%BChrle%20Collection.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Seurat%20Paul%20Signac.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q151573",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2046,7 +2096,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2071,7 +2121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2096,7 +2146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2121,7 +2171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2146,7 +2196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2171,7 +2221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2196,7 +2246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2221,7 +2271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2246,7 +2296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2271,7 +2321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2296,7 +2346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2321,7 +2371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2346,7 +2396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2371,7 +2421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2396,7 +2446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2421,7 +2471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2446,7 +2496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2471,7 +2521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2496,7 +2546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2521,7 +2571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2546,7 +2596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2571,7 +2621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2596,7 +2646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2621,57 +2671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q94016666",
-      "title": "Untitled record",
-      "date": "1890",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "paul-signac",
-      "artistName": "Paul Signac",
-      "locationId": "musee-camille-pissarro-pontoise",
-      "location": "Musée Camille Pissarro",
-      "city": "Pontoise",
-      "country": "France",
-      "lat": 49.04823,
-      "lon": 2.09995,
-      "source": "http://www.wikidata.org/entity/Q94016666",
-      "image": "",
-      "externalImage": "",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Seurat%20Paul%20Signac.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q17493544",
-      "title": "Entrance of Marseille Harbor",
-      "date": "1911",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "paul-signac",
-      "artistName": "Paul Signac",
-      "locationId": "musee-cantini-6th-arrondissement-of-marseille",
-      "location": "Musée Cantini",
-      "city": "6th arrondissement of Marseille",
-      "country": "France",
-      "lat": 43.29225,
-      "lon": 5.378166666,
-      "source": "http://www.wikidata.org/entity/Q17493544",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Signac%20-%20L%27Entr%C3%A9e%20du%20port%20de%20Marseille%2C%201911%2C%20RF%201977%20324.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Seurat%20Paul%20Signac.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2696,7 +2696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2721,7 +2721,32 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q94016666",
+      "title": "Untitled record",
+      "date": "1890",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "paul-signac",
+      "artistName": "Paul Signac",
+      "locationId": "musee-d-art-et-d-histoire-pissarro-pontoise-pontoise",
+      "location": "Musée d'Art et d'Histoire Pissarro - Pontoise",
+      "city": "Pontoise",
+      "country": "France",
+      "lat": 49.04823,
+      "lon": 2.09995,
+      "source": "http://www.wikidata.org/entity/Q94016666",
+      "image": "",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Seurat%20Paul%20Signac.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q151573",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2746,7 +2771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2771,7 +2796,32 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q17493544",
+      "title": "Entrance of Marseille Harbor",
+      "date": "1911",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "paul-signac",
+      "artistName": "Paul Signac",
+      "locationId": "musee-d-orsay-7th-arrondissement-of-paris",
+      "location": "Musée d'Orsay",
+      "city": "7th arrondissement of Paris",
+      "country": "France",
+      "lat": 48.859972,
+      "lon": 2.326527,
+      "source": "http://www.wikidata.org/entity/Q17493544",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Signac%20-%20L%27Entr%C3%A9e%20du%20port%20de%20Marseille%2C%201911%2C%20RF%201977%20324.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Seurat%20Paul%20Signac.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q151573",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2796,7 +2846,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2821,7 +2871,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2846,7 +2896,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2871,7 +2921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2896,7 +2946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2921,7 +2971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2946,7 +2996,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2971,7 +3021,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2991,12 +3041,12 @@
       "lon": 2.326527,
       "source": "http://www.wikidata.org/entity/Q17491415",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Signac%2C%20Femme%20%C3%A0%20l%27ombrelle%2C%201893.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Signac%2C%201893%2C%20Femme%20%C3%A0%20l%27ombrelle%2C%20oil%20on%20canvas%2C%2081%20x%2065%20cm%2C%20Mus%C3%A9e%20d%27Orsay.jpg",
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Seurat%20Paul%20Signac.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3021,7 +3071,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3046,7 +3096,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3071,7 +3121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3096,7 +3146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3121,7 +3171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3146,7 +3196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3171,7 +3221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3196,7 +3246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3221,7 +3271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3246,7 +3296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3271,7 +3321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3296,32 +3346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q108479224",
-      "title": "Saint-Tropez, the Port at Sunset, Opus 236",
-      "date": "1892",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "paul-signac",
-      "artistName": "Paul Signac",
-      "locationId": "museum-barberini-potsdam",
-      "location": "Museum Barberini",
-      "city": "Potsdam",
-      "country": "Germany",
-      "lat": 52.395169,
-      "lon": 13.062282,
-      "source": "http://www.wikidata.org/entity/Q108479224",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/MB-Sig-03%20Signac%20Der-Hafen-bei-Sonnenuntergang-Opus-236%201.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Seurat%20Paul%20Signac.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3346,7 +3371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3371,7 +3396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3396,7 +3421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3421,7 +3446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3446,7 +3471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3471,7 +3496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3496,7 +3521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3521,7 +3546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3546,7 +3571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3571,7 +3596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3596,7 +3621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3621,7 +3646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3646,7 +3671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3671,7 +3696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3696,7 +3721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3721,7 +3746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3746,7 +3771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3771,7 +3796,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3796,7 +3821,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3821,7 +3846,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3846,7 +3871,32 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q114065993",
+      "title": "L’Hirondelle Steamer on the Seine",
+      "date": "1901",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "paul-signac",
+      "artistName": "Paul Signac",
+      "locationId": "national-gallery-prague-location-unknown",
+      "location": "National Gallery Prague",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 50.101111,
+      "lon": 14.4325,
+      "source": "http://www.wikidata.org/entity/Q114065993",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Signac%20-%20L%27Hirondelle%20Steamer%20on%20the%20Seine.JPG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Seurat%20Paul%20Signac.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q151573",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3871,7 +3921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3896,7 +3946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3921,7 +3971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3946,7 +3996,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3971,7 +4021,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3996,7 +4046,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4021,7 +4071,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4046,7 +4096,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4071,7 +4121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4096,7 +4146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4121,7 +4171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4146,7 +4196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4171,7 +4221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4196,7 +4246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4221,7 +4271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4246,7 +4296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4271,7 +4321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4296,7 +4346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4321,7 +4371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4346,7 +4396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4371,7 +4421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4396,7 +4446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4421,7 +4471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4446,7 +4496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4471,7 +4521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4496,7 +4546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4521,7 +4571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4546,7 +4596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4571,7 +4621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4596,7 +4646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4621,7 +4671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4646,7 +4696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4671,7 +4721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4696,7 +4746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4721,7 +4771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4746,7 +4796,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4771,7 +4821,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4796,7 +4846,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4821,7 +4871,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4846,7 +4896,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4871,7 +4921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4896,7 +4946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4921,7 +4971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4946,7 +4996,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4971,7 +5021,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4996,7 +5046,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q151573",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     }

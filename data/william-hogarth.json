@@ -1,6 +1,156 @@
 {
   "artworks": [
     {
+      "id": "Q110685032",
+      "title": "Advertisement For Richard Hand Chelsey Bunn-Baker - William Hogarth",
+      "date": "1718",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "william-hogarth",
+      "artistName": "William Hogarth",
+      "locationId": "aberdeen-archives-gallery-and-museums-collections-aberdeen-city",
+      "location": "Aberdeen Archives, Gallery and Museums collections",
+      "city": "Aberdeen City",
+      "country": "United Kingdom",
+      "lat": 57.148191,
+      "lon": -2.102713,
+      "source": "http://www.wikidata.org/entity/Q110685032",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Advertisement%20For%20Richard%20Hand%20Chelsey%20Bunn-Baker%20-%20William%20Hogarth%20-%20ABDAG009609.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Painter%20and%20His%20Pug%20by%20William%20Hogarth.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q171344",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q110683378",
+      "title": "David Lewis",
+      "date": "1750",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "william-hogarth",
+      "artistName": "William Hogarth",
+      "locationId": "aberdeen-archives-gallery-and-museums-collections-aberdeen-city",
+      "location": "Aberdeen Archives, Gallery and Museums collections",
+      "city": "Aberdeen City",
+      "country": "United Kingdom",
+      "lat": 57.148191,
+      "lon": -2.102713,
+      "source": "http://www.wikidata.org/entity/Q110683378",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Lewis%20by%20William%20Hogarth%20-%20William%20Hogarth%20-%20ABDAG002765.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Painter%20and%20His%20Pug%20by%20William%20Hogarth.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q171344",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q110683154",
+      "title": "Lapis Lazuli and Gold Plated Silver Patch Box - William Hogarth",
+      "date": "Date unknown",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "william-hogarth",
+      "artistName": "William Hogarth",
+      "locationId": "aberdeen-archives-gallery-and-museums-collections-aberdeen-city",
+      "location": "Aberdeen Archives, Gallery and Museums collections",
+      "city": "Aberdeen City",
+      "country": "United Kingdom",
+      "lat": 57.148191,
+      "lon": -2.102713,
+      "source": "http://www.wikidata.org/entity/Q110683154",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lapis%20Lazuli%20and%20Gold%20Plated%20Silver%20Patch%20Box%20-%20William%20Hogarth%20-%20ABDAG000134.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Painter%20and%20His%20Pug%20by%20William%20Hogarth.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q171344",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q110683376",
+      "title": "Miss Mary Lewis",
+      "date": "1755",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "william-hogarth",
+      "artistName": "William Hogarth",
+      "locationId": "aberdeen-archives-gallery-and-museums-collections-aberdeen-city",
+      "location": "Aberdeen Archives, Gallery and Museums collections",
+      "city": "Aberdeen City",
+      "country": "United Kingdom",
+      "lat": 57.148191,
+      "lon": -2.102713,
+      "source": "http://www.wikidata.org/entity/Q110683376",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20lewis%20hogarth.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Painter%20and%20His%20Pug%20by%20William%20Hogarth.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q171344",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q110683377",
+      "title": "Mrs Jane Hogarth - The Artist's Wife",
+      "date": "1800",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "william-hogarth",
+      "artistName": "William Hogarth",
+      "locationId": "aberdeen-archives-gallery-and-museums-collections-aberdeen-city",
+      "location": "Aberdeen Archives, Gallery and Museums collections",
+      "city": "Aberdeen City",
+      "country": "United Kingdom",
+      "lat": 57.148191,
+      "lon": -2.102713,
+      "source": "http://www.wikidata.org/entity/Q110683377",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Mrs%20Jane%20Hogarth%20-%20The%20Artist%27s%20Wife%20by%20William%20Hogarth%20-%20William%20Hogarth%20-%20ABDAG002764.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Painter%20and%20His%20Pug%20by%20William%20Hogarth.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q171344",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q110683151",
+      "title": "Punch Bowl - William Hogarth",
+      "date": "Date unknown",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "william-hogarth",
+      "artistName": "William Hogarth",
+      "locationId": "aberdeen-archives-gallery-and-museums-collections-aberdeen-city",
+      "location": "Aberdeen Archives, Gallery and Museums collections",
+      "city": "Aberdeen City",
+      "country": "United Kingdom",
+      "lat": 57.148191,
+      "lon": -2.102713,
+      "source": "http://www.wikidata.org/entity/Q110683151",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Punch%20Bowl%20-%20William%20Hogarth%20-%20ABDAG000125.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Painter%20and%20His%20Pug%20by%20William%20Hogarth.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q171344",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
       "id": "Q20442928",
       "title": "Dr Benjamin Hoadly, MD",
       "date": "1740",
@@ -21,7 +171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -46,7 +196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -71,7 +221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -96,7 +246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -121,7 +271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -146,7 +296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -171,7 +321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -196,7 +346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -221,7 +371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -246,7 +396,57 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q98146744",
+      "title": "Scene from John Gay's The Beggar's Opera",
+      "date": "1727",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "william-hogarth",
+      "artistName": "William Hogarth",
+      "locationId": "birmingham-museums-trust-birmingham",
+      "location": "Birmingham Museums Trust",
+      "city": "Birmingham",
+      "country": "United Kingdom",
+      "lat": 52.480278,
+      "lon": -1.903611,
+      "source": "http://www.wikidata.org/entity/Q98146744",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Hogarth%20%281697-1764%29%20-%20Scene%20from%20John%20Gay%27s%20%27The%20Beggar%27s%20Opera%27%20-%201985P47%20-%20Birmingham%20Museums%20Trust.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Painter%20and%20His%20Pug%20by%20William%20Hogarth.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q171344",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q7730381",
+      "title": "The Distrest Poet",
+      "date": "1736",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "william-hogarth",
+      "artistName": "William Hogarth",
+      "locationId": "birmingham-museums-trust-birmingham",
+      "location": "Birmingham Museums Trust",
+      "city": "Birmingham",
+      "country": "United Kingdom",
+      "lat": 52.480278,
+      "lon": -1.903611,
+      "source": "http://www.wikidata.org/entity/Q7730381",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hogarth%20-%20The%20Distressed%20Poet%2C%201733%20-%201735%2C%201934P500.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Painter%20and%20His%20Pug%20by%20William%20Hogarth.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q171344",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -271,7 +471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -296,7 +496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -321,7 +521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -346,7 +546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -371,7 +571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -396,7 +596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -421,7 +621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -446,7 +646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -471,7 +671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -496,7 +696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -521,7 +721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -546,7 +746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -571,7 +771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -596,7 +796,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -621,7 +821,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -646,7 +846,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -671,7 +871,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -696,7 +896,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -721,7 +921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -746,7 +946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -771,7 +971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -796,7 +996,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -821,7 +1021,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -846,7 +1046,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -871,7 +1071,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -896,7 +1096,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -921,7 +1121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -946,7 +1146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -971,7 +1171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -996,7 +1196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1021,7 +1221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1046,7 +1246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1071,7 +1271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1096,7 +1296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1121,7 +1321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1146,7 +1346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1171,7 +1371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1196,7 +1396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1221,7 +1421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1246,7 +1446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1271,7 +1471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1296,7 +1496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1321,12 +1521,12 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
     {
-      "id": "Q65026761",
+      "id": "Q65026960",
       "title": "Characters and Caricaturas",
       "date": "1743",
       "type": "Painting",
@@ -1339,14 +1539,14 @@
       "country": "United States",
       "lat": 38.891388888,
       "lon": -77.02,
-      "source": "http://www.wikidata.org/entity/Q65026761",
+      "source": "http://www.wikidata.org/entity/Q65026960",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Hogarth%2C%20Characters%20and%20Caricaturas%2C%201743%2C%20NGA%2030356.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Hogarth%2C%20Characters%20and%20Caricaturas%2C%201743%2C%20NGA%2030453.jpg",
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Painter%20and%20His%20Pug%20by%20William%20Hogarth.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1371,7 +1571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1396,7 +1596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1421,7 +1621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1446,7 +1646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1471,7 +1671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1496,7 +1696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1521,7 +1721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1546,7 +1746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1571,7 +1771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1596,7 +1796,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1621,7 +1821,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1646,7 +1846,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1671,7 +1871,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1696,7 +1896,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1721,7 +1921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1746,7 +1946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1771,7 +1971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1796,7 +1996,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1821,7 +2021,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1846,7 +2046,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1871,7 +2071,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1896,7 +2096,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1921,7 +2121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1946,7 +2146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1971,7 +2171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1996,7 +2196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2021,12 +2221,12 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
     {
-      "id": "Q77259410",
+      "id": "Q65026823",
       "title": "Night",
       "date": "1738",
       "type": "Painting",
@@ -2039,14 +2239,14 @@
       "country": "United States",
       "lat": 38.891388888,
       "lon": -77.02,
-      "source": "http://www.wikidata.org/entity/Q77259410",
+      "source": "http://www.wikidata.org/entity/Q65026823",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Hogarth%2C%20Night%2C%201738%2C%20NGA%20209626.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Hogarth%2C%20Night%2C%201738%2C%20NGA%2030389.jpg",
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Painter%20and%20His%20Pug%20by%20William%20Hogarth.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2071,7 +2271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2096,7 +2296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2121,7 +2321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2146,7 +2346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2171,7 +2371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2196,7 +2396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2221,12 +2421,12 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
     {
-      "id": "Q65026759",
+      "id": "Q65026940",
       "title": "Simon Lord Lovat",
       "date": "1746",
       "type": "Painting",
@@ -2239,14 +2439,14 @@
       "country": "United States",
       "lat": 38.891388888,
       "lon": -77.02,
-      "source": "http://www.wikidata.org/entity/Q65026759",
+      "source": "http://www.wikidata.org/entity/Q65026940",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Hogarth%2C%20Simon%20Lord%20Lovat%2C%201746%2C%20NGA%2011551.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Hogarth%2C%20Simon%20Lord%20Lovat%2C%201746%2C%20NGA%2030444.jpg",
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Painter%20and%20His%20Pug%20by%20William%20Hogarth.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2271,32 +2471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q7624318",
-      "title": "Strolling Actresses Dressing in a Barn",
-      "date": "1738",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "william-hogarth",
-      "artistName": "William Hogarth",
-      "locationId": "collection-unknown-washington-d-c",
-      "location": "Collection unknown",
-      "city": "Washington, D.C.",
-      "country": "United States",
-      "lat": 38.891388888,
-      "lon": -77.02,
-      "source": "http://www.wikidata.org/entity/Q7624318",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/StrollingActresses.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Painter%20and%20His%20Pug%20by%20William%20Hogarth.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2321,7 +2496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2346,7 +2521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2371,7 +2546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2396,7 +2571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2421,7 +2596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2446,7 +2621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2471,7 +2646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2496,7 +2671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2521,7 +2696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2546,7 +2721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2571,7 +2746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2596,7 +2771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2621,7 +2796,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2646,7 +2821,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2671,7 +2846,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2696,7 +2871,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2721,7 +2896,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2746,7 +2921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2771,7 +2946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2796,7 +2971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2821,7 +2996,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2846,7 +3021,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2871,7 +3046,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2896,7 +3071,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2921,7 +3096,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2946,7 +3121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2971,7 +3146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2996,7 +3171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3021,7 +3196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3046,7 +3221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3071,7 +3246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3096,7 +3271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3121,7 +3296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3146,7 +3321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3171,7 +3346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3196,7 +3371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3221,7 +3396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3246,7 +3421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3271,7 +3446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3296,7 +3471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3321,7 +3496,32 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q115670318",
+      "title": "Untitled record",
+      "date": "1750",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "william-hogarth",
+      "artistName": "William Hogarth",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q115670318",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hogarth%20-%20Le%20Rou%C3%A9%20%C3%A0%20Oxford%20dit%20autrefois%20D%C3%A9bat%20sur%20la%20chiromancie%2C%20RF%202008%205.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Painter%20and%20His%20Pug%20by%20William%20Hogarth.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q171344",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3346,7 +3546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3371,7 +3571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3396,7 +3596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3421,7 +3621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3446,7 +3646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3471,7 +3671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3496,7 +3696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3521,7 +3721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3546,7 +3746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3571,7 +3771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3596,7 +3796,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3621,7 +3821,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3646,7 +3846,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3671,7 +3871,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3696,7 +3896,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3721,7 +3921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3737,8 +3937,8 @@
       "location": "Foundling Museum",
       "city": "London Borough of Camden",
       "country": "United Kingdom",
-      "lat": 51.525207,
-      "lon": -0.121658,
+      "lat": 51.525272,
+      "lon": -0.121686,
       "source": "http://www.wikidata.org/entity/Q12108456",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hogarth%20coram.jpg",
@@ -3746,7 +3946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3771,7 +3971,32 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q118998031",
+      "title": "Portrait of a Gentleman in a Green Velvet Cap",
+      "date": "1740",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "william-hogarth",
+      "artistName": "William Hogarth",
+      "locationId": "government-art-collection-location-unknown",
+      "location": "Government Art Collection",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 51.499444,
+      "lon": -0.124167,
+      "source": "http://www.wikidata.org/entity/Q118998031",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Hogarth%20%281697-1764%29%20-%20Portrait%20of%20a%20Gentleman%20in%20a%20Green%20Velvet%20Cap%20-%202799%20-%20Government%20Art%20Collection.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Painter%20and%20His%20Pug%20by%20William%20Hogarth.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q171344",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3796,7 +4021,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3821,7 +4046,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3846,7 +4071,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3871,7 +4096,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3896,7 +4121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3921,7 +4146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3946,7 +4171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3971,7 +4196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3996,7 +4221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4021,7 +4246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4046,7 +4271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4071,7 +4296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4096,7 +4321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4121,7 +4346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4146,7 +4371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4171,7 +4396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4196,7 +4421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4221,7 +4446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4246,7 +4471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4271,7 +4496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4296,12 +4521,12 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
     {
-      "id": "Q97767985",
+      "id": "Q97731741",
       "title": "Gin Lane",
       "date": "1751",
       "type": "Painting",
@@ -4314,14 +4539,14 @@
       "country": "United States",
       "lat": 40.779444444,
       "lon": -73.963333333,
-      "source": "http://www.wikidata.org/entity/Q97767985",
+      "source": "http://www.wikidata.org/entity/Q97731741",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gin%20Lane%20MET%20DP825288.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gin%20Lane%20-%20MET%20DP-16155-001.jpg",
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Painter%20and%20His%20Pug%20by%20William%20Hogarth.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4346,7 +4571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4371,7 +4596,32 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q7624318",
+      "title": "Strolling Actresses Dressing in a Barn",
+      "date": "1738",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "william-hogarth",
+      "artistName": "William Hogarth",
+      "locationId": "metropolitan-museum-of-art-manhattan",
+      "location": "Metropolitan Museum of Art",
+      "city": "Manhattan",
+      "country": "United States",
+      "lat": 40.779444444,
+      "lon": -73.963333333,
+      "source": "http://www.wikidata.org/entity/Q7624318",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/StrollingActresses.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Painter%20and%20His%20Pug%20by%20William%20Hogarth.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q171344",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4396,7 +4646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4421,7 +4671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4446,32 +4696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q97732619",
-      "title": "The Five Orders of Periwigs",
-      "date": "1761",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "william-hogarth",
-      "artistName": "William Hogarth",
-      "locationId": "metropolitan-museum-of-art-manhattan",
-      "location": "Metropolitan Museum of Art",
-      "city": "Manhattan",
-      "country": "United States",
-      "lat": 40.779444444,
-      "lon": -73.963333333,
-      "source": "http://www.wikidata.org/entity/Q97732619",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Five%20Orders%20of%20Periwigs%20MET%20DP808228.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Painter%20and%20His%20Pug%20by%20William%20Hogarth.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4496,7 +4721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4521,7 +4746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4546,7 +4771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4571,7 +4796,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4596,12 +4821,12 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
     {
-      "id": "Q97767979",
+      "id": "Q97731721",
       "title": "Time Smoking a Picture",
       "date": "1761",
       "type": "Painting",
@@ -4614,14 +4839,14 @@
       "country": "United States",
       "lat": 40.779444444,
       "lon": -73.963333333,
-      "source": "http://www.wikidata.org/entity/Q97767979",
+      "source": "http://www.wikidata.org/entity/Q97731721",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Time%20Smoking%20a%20Picture%20MET%20DP825168.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Time%20Smoking%20a%20Picture%20MET%20DP825167.jpg",
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Painter%20and%20His%20Pug%20by%20William%20Hogarth.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4646,7 +4871,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4671,7 +4896,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4696,7 +4921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4721,7 +4946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4746,7 +4971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4771,7 +4996,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4796,7 +5021,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4821,7 +5046,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4846,7 +5071,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4871,7 +5096,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4896,7 +5121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4921,7 +5146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4946,7 +5171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4971,7 +5196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4996,7 +5221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5021,7 +5246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5046,7 +5271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5071,7 +5296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5096,7 +5321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5121,7 +5346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5146,7 +5371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5171,7 +5396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5196,7 +5421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5221,7 +5446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5246,7 +5471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5271,7 +5496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5296,7 +5521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5321,7 +5546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5346,7 +5571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5371,7 +5596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5396,7 +5621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5421,7 +5646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5446,7 +5671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5471,7 +5696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5487,8 +5712,8 @@
       "location": "National Gallery of Canada",
       "city": "Ottawa",
       "country": "Canada",
-      "lat": 45.429434,
-      "lon": -75.698386,
+      "lat": 45.429535,
+      "lon": -75.698906,
       "source": "http://www.wikidata.org/entity/Q59548447",
       "image": "",
       "externalImage": "",
@@ -5496,7 +5721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5521,7 +5746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5546,7 +5771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5571,7 +5796,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5596,7 +5821,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5621,7 +5846,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5646,7 +5871,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5671,7 +5896,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5696,7 +5921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5721,7 +5946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5746,7 +5971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5771,7 +5996,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5796,7 +6021,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5821,7 +6046,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5846,7 +6071,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5871,7 +6096,207 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q52145225",
+      "title": "A Harlot's Progress: Quarrels with her Jewish Protector",
+      "date": "1743",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "william-hogarth",
+      "artistName": "William Hogarth",
+      "locationId": "national-trust-location-unknown",
+      "location": "National Trust",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 51.5637,
+      "lon": -1.7972,
+      "source": "http://www.wikidata.org/entity/Q52145225",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Hogarth%20%281697-1764%29%20%28after%29%20-%20A%20Harlot%27s%20Progress%2C%20Quarrels%20with%20Her%20Jewish%20Protector%20-%201535135%20-%20National%20Trust.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Painter%20and%20His%20Pug%20by%20William%20Hogarth.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q171344",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q52145241",
+      "title": "An Unknown Lady, possibly Miss Woodley, later Mrs Henry Vaughan (not Mrs Jane Hogarth)",
+      "date": "1738",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "william-hogarth",
+      "artistName": "William Hogarth",
+      "locationId": "national-trust-location-unknown",
+      "location": "National Trust",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 51.5637,
+      "lon": -1.7972,
+      "source": "http://www.wikidata.org/entity/Q52145241",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Hogarth%20%281697-1764%29%20-%20Portrait%20of%20an%20Unknown%20Lady%20%28possibly%20Miss%20Woodley%2C%20later%20Mrs%20Henry%20Vaughan%29%20-%201535160%20-%20National%20Trust.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Painter%20and%20His%20Pug%20by%20William%20Hogarth.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q171344",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q52246231",
+      "title": "Henry Fox, 1st Baron Holland of Foxley (1705-1774)",
+      "date": "Date unknown",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "william-hogarth",
+      "artistName": "William Hogarth",
+      "locationId": "national-trust-location-unknown",
+      "location": "National Trust",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 51.5637,
+      "lon": -1.7972,
+      "source": "http://www.wikidata.org/entity/Q52246231",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Hogarth%20%281697-1764%29%20-%20Henry%20Fox%20%281705%E2%80%931774%29%2C%201st%20Baron%20Holland%20of%20Foxley%20-%20771260%20-%20National%20Trust.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Painter%20and%20His%20Pug%20by%20William%20Hogarth.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q171344",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q7430749",
+      "title": "Scene from Shakespeare's The Tempest",
+      "date": "1736",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "william-hogarth",
+      "artistName": "William Hogarth",
+      "locationId": "national-trust-location-unknown",
+      "location": "National Trust",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 51.5637,
+      "lon": -1.7972,
+      "source": "http://www.wikidata.org/entity/Q7430749",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Hogarth%20%281697-1764%29%20-%20A%20Scene%20from%20Act%20I%2C%20Scene%202%20of%20%27The%20Tempest%27%20-%20960074%20-%20National%20Trust.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Painter%20and%20His%20Pug%20by%20William%20Hogarth.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q171344",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q52153026",
+      "title": "Speaker Arthur Onslow calling upon Sir Robert Walpole to speak in the House of Commons",
+      "date": "1730",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "william-hogarth",
+      "artistName": "William Hogarth",
+      "locationId": "national-trust-location-unknown",
+      "location": "National Trust",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 51.5637,
+      "lon": -1.7972,
+      "source": "http://www.wikidata.org/entity/Q52153026",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Hogarth%20%281697-1764%29%20-%20Speaker%20Arthur%20Onslow%20Calling%20upon%20Sir%20Robert%20Walpole%20to%20Speak%20in%20the%20House%20of%20Commons%20-%201441463%20-%20National%20Trust.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Painter%20and%20His%20Pug%20by%20William%20Hogarth.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q171344",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q52299814",
+      "title": "The Four Times of Day: Morning",
+      "date": "1736",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "william-hogarth",
+      "artistName": "William Hogarth",
+      "locationId": "national-trust-location-unknown",
+      "location": "National Trust",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 51.5637,
+      "lon": -1.7972,
+      "source": "http://www.wikidata.org/entity/Q52299814",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Hogarth%20%281697-1764%29%20-%20The%20Four%20Times%20of%20Day%2C%20Morning%20-%20446680%20-%20National%20Trust.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Painter%20and%20His%20Pug%20by%20William%20Hogarth.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q171344",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q52299832",
+      "title": "The Four Times of Day: Night",
+      "date": "1736",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "william-hogarth",
+      "artistName": "William Hogarth",
+      "locationId": "national-trust-location-unknown",
+      "location": "National Trust",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 51.5637,
+      "lon": -1.7972,
+      "source": "http://www.wikidata.org/entity/Q52299832",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Hogarth%20%281697-1764%29%20-%20The%20Four%20Times%20of%20Day%2C%20Night%20-%20446681%20-%20National%20Trust.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Painter%20and%20His%20Pug%20by%20William%20Hogarth.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q171344",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q52214801",
+      "title": "The Hervey Conversation Piece",
+      "date": "1739",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "william-hogarth",
+      "artistName": "William Hogarth",
+      "locationId": "national-trust-location-unknown",
+      "location": "National Trust",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 51.5637,
+      "lon": -1.7972,
+      "source": "http://www.wikidata.org/entity/Q52214801",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Hogarth%20%281697-1764%29%20-%20The%20Hervey%20Conversation%20Piece%2C%20%27The%20Holland%20House%20Group%27%20-%20851983%20-%20National%20Trust.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Painter%20and%20His%20Pug%20by%20William%20Hogarth.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q171344",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5896,7 +6321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5921,7 +6346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5946,7 +6371,32 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q119717130",
+      "title": "The House of Commons, Sir Robert Walpole's Administration (1722–1742)",
+      "date": "Date unknown",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "william-hogarth",
+      "artistName": "William Hogarth",
+      "locationId": "parliamentary-art-collection-london",
+      "location": "Parliamentary Art Collection",
+      "city": "London",
+      "country": "United Kingdom",
+      "lat": 51.499444,
+      "lon": -0.124167,
+      "source": "http://www.wikidata.org/entity/Q119717130",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Hogarth%20%281697-1764%29%20%28after%29%20-%20The%20House%20of%20Commons%2C%20Sir%20Robert%20Walpole%27s%20Administration%20%281722%E2%80%931742%29%20-%20WOA%203067%20-%20Parliamentary%20Art%20Collection.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Painter%20and%20His%20Pug%20by%20William%20Hogarth.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q171344",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5971,7 +6421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5996,7 +6446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6021,7 +6471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6046,7 +6496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6071,7 +6521,207 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q28037732",
+      "title": "David Garrick with his Wife Eva-Maria Veigel",
+      "date": "1757",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "william-hogarth",
+      "artistName": "William Hogarth",
+      "locationId": "royal-collection-location-unknown",
+      "location": "Royal Collection",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 51.501,
+      "lon": -0.142,
+      "source": "http://www.wikidata.org/entity/Q28037732",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Hogarth%20-%20David%20Garrick%20%281717-79%29%20with%20his%20wife%20Eva-Maria%20Veigel%2C%20%22La%20Violette%22%20or%20%22Violetti%22%20%281725%20-%201822%29%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Painter%20and%20His%20Pug%20by%20William%20Hogarth.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q171344",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q130727428",
+      "title": "Frederick, Prince of Wales (1707-51) c. 1736",
+      "date": "1736",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "william-hogarth",
+      "artistName": "William Hogarth",
+      "locationId": "royal-collection-location-unknown",
+      "location": "Royal Collection",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 51.501,
+      "lon": -0.142,
+      "source": "http://www.wikidata.org/entity/Q130727428",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Attributed%20to%20William%20Hogarth%20-%20Frederick%2C%20Prince%20of%20Wales%20%281707-51%29%20c.1736%2C%20RCIN%20400592.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Painter%20and%20His%20Pug%20by%20William%20Hogarth.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q171344",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q28028507",
+      "title": "The Family of George II",
+      "date": "1731",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "william-hogarth",
+      "artistName": "William Hogarth",
+      "locationId": "royal-collection-location-unknown",
+      "location": "Royal Collection",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 51.501,
+      "lon": -0.142,
+      "source": "http://www.wikidata.org/entity/Q28028507",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Hogarth%20%281697-1764%29%20-%20The%20Family%20of%20George%20II%20-%20RCIN%20401358%20-%20Royal%20Collection.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Painter%20and%20His%20Pug%20by%20William%20Hogarth.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q171344",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q28026383",
+      "title": "The Popple and Ashley Families",
+      "date": "1730",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "william-hogarth",
+      "artistName": "William Hogarth",
+      "locationId": "royal-collection-location-unknown",
+      "location": "Royal Collection",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 51.501,
+      "lon": -0.142,
+      "source": "http://www.wikidata.org/entity/Q28026383",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Hogarth%20%281697-1764%29%20-%20The%20Popple%20and%20Ashley%20Families%20-%20RCIN%20400048%20-%20Royal%20Collection.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Painter%20and%20His%20Pug%20by%20William%20Hogarth.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q171344",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q16955827",
+      "title": "Captain Lord George Graham in his Cabin",
+      "date": "1745",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "william-hogarth",
+      "artistName": "William Hogarth",
+      "locationId": "royal-museums-greenwich-location-unknown",
+      "location": "Royal Museums Greenwich",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 51.4811,
+      "lon": -0.005556,
+      "source": "http://www.wikidata.org/entity/Q16955827",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Captain%20Lord%20George%20Graham%2C%201715-47%2C%20in%20his%20Cabin.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Painter%20and%20His%20Pug%20by%20William%20Hogarth.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q171344",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q50855683",
+      "title": "Captain Sir Alexander Schomberg, 1720-1804",
+      "date": "1763",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "william-hogarth",
+      "artistName": "William Hogarth",
+      "locationId": "royal-museums-greenwich-location-unknown",
+      "location": "Royal Museums Greenwich",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 51.4811,
+      "lon": -0.005556,
+      "source": "http://www.wikidata.org/entity/Q50855683",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Captain%20Sir%20Alexander%20Schomberg%2C%201720-1804%20RMG%20BHC3015.tiff",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Painter%20and%20His%20Pug%20by%20William%20Hogarth.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q171344",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q50855819",
+      "title": "Inigo Jones, 1573-1652",
+      "date": "1757",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "william-hogarth",
+      "artistName": "William Hogarth",
+      "locationId": "royal-museums-greenwich-location-unknown",
+      "location": "Royal Museums Greenwich",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 51.4811,
+      "lon": -0.005556,
+      "source": "http://www.wikidata.org/entity/Q50855819",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Inigo%20Jones%2C%201573-1652%20RMG%20BHC2810.tiff",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Painter%20and%20His%20Pug%20by%20William%20Hogarth.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q171344",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q12148246",
+      "title": "Woodes Rogers and his Family",
+      "date": "1729",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "william-hogarth",
+      "artistName": "William Hogarth",
+      "locationId": "royal-museums-greenwich-location-unknown",
+      "location": "Royal Museums Greenwich",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 51.4811,
+      "lon": -0.005556,
+      "source": "http://www.wikidata.org/entity/Q12148246",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rogers%2CWoodes.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Painter%20and%20His%20Pug%20by%20William%20Hogarth.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q171344",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6096,7 +6746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6121,7 +6771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6146,7 +6796,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6171,7 +6821,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6196,7 +6846,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6221,7 +6871,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6246,7 +6896,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6271,7 +6921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6296,7 +6946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6321,7 +6971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6346,7 +6996,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6371,7 +7021,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6396,7 +7046,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6421,7 +7071,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6446,7 +7096,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6471,7 +7121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6496,7 +7146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6521,7 +7171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6546,7 +7196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6571,7 +7221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6596,7 +7246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6621,7 +7271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6646,7 +7296,232 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q28564068",
+      "title": "Ashley Cowper with his Wife and Daughter",
+      "date": "1731",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "william-hogarth",
+      "artistName": "William Hogarth",
+      "locationId": "tate-city-of-westminster",
+      "location": "Tate",
+      "city": "City of Westminster",
+      "country": "United Kingdom",
+      "lat": 51.491062,
+      "lon": -0.127789,
+      "source": "http://www.wikidata.org/entity/Q28564068",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Hogarth%20%281697-1764%29%20-%20Ashley%20Cowper%20with%20his%20Wife%20and%20Daughter%20-%20T00809%20-%20Tate.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Painter%20and%20His%20Pug%20by%20William%20Hogarth.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q171344",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q28553314",
+      "title": "Head of a Lady, Called Lady Pembroke",
+      "date": "1740",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "william-hogarth",
+      "artistName": "William Hogarth",
+      "locationId": "tate-city-of-westminster",
+      "location": "Tate",
+      "city": "City of Westminster",
+      "country": "United Kingdom",
+      "lat": 51.491062,
+      "lon": -0.127789,
+      "source": "http://www.wikidata.org/entity/Q28553314",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Hogarth%20%281697-1764%29%20-%20Head%20of%20a%20Lady%2C%20Called%20Lady%20Pembroke%20-%20T06870%20-%20Tate.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Painter%20and%20His%20Pug%20by%20William%20Hogarth.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q171344",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q28547667",
+      "title": "Portrait of George Osborne, later John Ranby Jnr",
+      "date": "1749",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "william-hogarth",
+      "artistName": "William Hogarth",
+      "locationId": "tate-city-of-westminster",
+      "location": "Tate",
+      "city": "City of Westminster",
+      "country": "United Kingdom",
+      "lat": 51.491062,
+      "lon": -0.127789,
+      "source": "http://www.wikidata.org/entity/Q28547667",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Hogarth%20%281697-1764%29%20-%20Portrait%20of%20George%20Osborne%2C%20Later%20John%20Ranby%20Jnr%20-%20T07121%20-%20Tate.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Painter%20and%20His%20Pug%20by%20William%20Hogarth.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q171344",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q28547542",
+      "title": "Portrait of Hannah, Daughter of John Ranby Snr",
+      "date": "1749",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "william-hogarth",
+      "artistName": "William Hogarth",
+      "locationId": "tate-city-of-westminster",
+      "location": "Tate",
+      "city": "City of Westminster",
+      "country": "United Kingdom",
+      "lat": 51.491062,
+      "lon": -0.127789,
+      "source": "http://www.wikidata.org/entity/Q28547542",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Hogarth%20%281697-1764%29%20-%20Portrait%20of%20Hannah%2C%20Daughter%20of%20John%20Ranby%20Snr%20-%20T07122%20-%20Tate.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Painter%20and%20His%20Pug%20by%20William%20Hogarth.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q171344",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q18689508",
+      "title": "Satan, Sin and Death (A Scene from Milton's `Paradise Lost')",
+      "date": "1735",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "william-hogarth",
+      "artistName": "William Hogarth",
+      "locationId": "tate-city-of-westminster",
+      "location": "Tate",
+      "city": "City of Westminster",
+      "country": "United Kingdom",
+      "lat": 51.491062,
+      "lon": -0.127789,
+      "source": "http://www.wikidata.org/entity/Q18689508",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Hogarth%20-%20Satan%2C%20Sin%20and%20Death%20%28A%20Scene%20from%20Milton%27s%20%60Paradise%20Lost%27%29%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Painter%20and%20His%20Pug%20by%20William%20Hogarth.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q171344",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q28553077",
+      "title": "The Dance (The Happy Marriage ?VI: The Country Dance)",
+      "date": "1745",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "william-hogarth",
+      "artistName": "William Hogarth",
+      "locationId": "tate-city-of-westminster",
+      "location": "Tate",
+      "city": "City of Westminster",
+      "country": "United Kingdom",
+      "lat": 51.491062,
+      "lon": -0.127789,
+      "source": "http://www.wikidata.org/entity/Q28553077",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Hogarth%20%281697-1764%29%20-%20The%20Dance%20%28The%20Happy%20Marriage%20%5EVI%2C%20The%20Country%20Dance%29%20-%20T03613%20-%20Tate.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Painter%20and%20His%20Pug%20by%20William%20Hogarth.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q171344",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q28555492",
+      "title": "Thomas Herring, Archbishop of Canterbury",
+      "date": "1745",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "william-hogarth",
+      "artistName": "William Hogarth",
+      "locationId": "tate-city-of-westminster",
+      "location": "Tate",
+      "city": "City of Westminster",
+      "country": "United Kingdom",
+      "lat": 51.491062,
+      "lon": -0.127789,
+      "source": "http://www.wikidata.org/entity/Q28555492",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Hogarth%20%281697-1764%29%20-%20Thomas%20Herring%2C%20Archbishop%20of%20Canterbury%20-%20T01971%20-%20Tate.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Painter%20and%20His%20Pug%20by%20William%20Hogarth.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q171344",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q28564669",
+      "title": "Thomas Pellett, M.D.",
+      "date": "1737",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "william-hogarth",
+      "artistName": "William Hogarth",
+      "locationId": "tate-city-of-westminster",
+      "location": "Tate",
+      "city": "City of Westminster",
+      "country": "United Kingdom",
+      "lat": 51.491062,
+      "lon": -0.127789,
+      "source": "http://www.wikidata.org/entity/Q28564669",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Hogarth%20%281697-1764%29%20-%20Thomas%20Pellett%2C%20MD%20-%20T01570%20-%20Tate.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Painter%20and%20His%20Pug%20by%20William%20Hogarth.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q171344",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q28567329",
+      "title": "Three Ladies in a Grand Interior (‘The Broken Fan’), possibly Catherine Darnley, Duchess of Buckingham with Two Ladies",
+      "date": "1736",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "william-hogarth",
+      "artistName": "William Hogarth",
+      "locationId": "tate-city-of-westminster",
+      "location": "Tate",
+      "city": "City of Westminster",
+      "country": "United Kingdom",
+      "lat": 51.491062,
+      "lon": -0.127789,
+      "source": "http://www.wikidata.org/entity/Q28567329",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Hogarth%20%281697-1764%29%20-%20Three%20Ladies%20in%20a%20Grand%20Interior%20%28%27The%20Broken%20Fan%27%29%2C%20possibly%20Catherine%20Darnley%2C%20Duchess%20of%20Buckingham%20with%20Two%20Ladies%20-%20T11756%20-%20Tate.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Painter%20and%20His%20Pug%20by%20William%20Hogarth.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q171344",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6671,7 +7546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6696,7 +7571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6721,7 +7596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6746,7 +7621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6771,7 +7646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6796,7 +7671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6821,7 +7696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6846,7 +7721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6871,7 +7746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6896,7 +7771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6921,7 +7796,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6946,7 +7821,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6971,7 +7846,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6996,7 +7871,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7021,7 +7896,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7046,7 +7921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7071,7 +7946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7096,7 +7971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7121,7 +7996,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7146,7 +8021,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7171,7 +8046,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7196,7 +8071,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7221,7 +8096,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7246,7 +8121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7271,7 +8146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7296,7 +8171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7321,7 +8196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7346,7 +8221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7371,7 +8246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7396,7 +8271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7421,7 +8296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7446,7 +8321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7471,7 +8346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7496,7 +8371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7521,7 +8396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7546,7 +8421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7571,7 +8446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7596,7 +8471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7621,7 +8496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7646,7 +8521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7671,7 +8546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7696,7 +8571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7721,7 +8596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7746,7 +8621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7771,7 +8646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7796,7 +8671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7821,7 +8696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7846,7 +8721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7871,7 +8746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7896,7 +8771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7921,7 +8796,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7946,7 +8821,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7971,7 +8846,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7996,7 +8871,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8021,7 +8896,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8046,7 +8921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8071,7 +8946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8096,7 +8971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8121,7 +8996,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8146,7 +9021,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8171,7 +9046,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8196,7 +9071,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8221,7 +9096,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8246,7 +9121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8271,7 +9146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8296,7 +9171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8321,7 +9196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8346,7 +9221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8371,7 +9246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8396,7 +9271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8421,12 +9296,12 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
     {
-      "id": "Q110148851",
+      "id": "Q110147542",
       "title": "Auction of Pictures, &c.",
       "date": "1799",
       "type": "Painting",
@@ -8439,14 +9314,14 @@
       "country": "United States",
       "lat": 41.307908,
       "lon": -72.930906,
-      "source": "http://www.wikidata.org/entity/Q110148851",
+      "source": "http://www.wikidata.org/entity/Q110147542",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Hogarth%20-%20Auction%20of%20Pictures%2C%20%5Ec%20-%20B1998.14.958%20-%20Yale%20Center%20for%20British%20Art.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Hogarth%20-%20Auction%20of%20Pictures%2C%20%5Ec%20-%20B1998.14.1040%20-%20Yale%20Center%20for%20British%20Art.jpg",
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Painter%20and%20His%20Pug%20by%20William%20Hogarth.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8471,7 +9346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8496,7 +9371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8521,7 +9396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8546,7 +9421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8571,7 +9446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8596,7 +9471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8621,7 +9496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8646,7 +9521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8671,7 +9546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8696,7 +9571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8721,7 +9596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8746,7 +9621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8771,7 +9646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8796,7 +9671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8821,7 +9696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8846,7 +9721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8871,7 +9746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8896,7 +9771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8921,7 +9796,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8946,7 +9821,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8971,7 +9846,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8996,7 +9871,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9021,7 +9896,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9046,7 +9921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9071,7 +9946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9096,7 +9971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9121,7 +9996,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9146,7 +10021,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9171,7 +10046,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9196,7 +10071,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9221,7 +10096,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9246,7 +10121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9271,7 +10146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9296,7 +10171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9321,7 +10196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9346,7 +10221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9371,7 +10246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9396,7 +10271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9421,7 +10296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9446,7 +10321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9471,7 +10346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9496,7 +10371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9521,7 +10396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9546,7 +10421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9571,7 +10446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9596,7 +10471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9621,7 +10496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9646,7 +10521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9671,7 +10546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9696,7 +10571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9721,7 +10596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9746,7 +10621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9771,7 +10646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9796,7 +10671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9821,7 +10696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9846,7 +10721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9871,7 +10746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9896,7 +10771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9921,7 +10796,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9946,7 +10821,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9971,7 +10846,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9996,7 +10871,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -10021,7 +10896,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -10046,7 +10921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -10071,7 +10946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -10096,7 +10971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -10121,7 +10996,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -10146,7 +11021,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -10171,7 +11046,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -10196,7 +11071,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -10221,7 +11096,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -10246,7 +11121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -10271,7 +11146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -10296,32 +11171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q110147547",
-      "title": "The Distressed Poet",
-      "date": "1833",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "william-hogarth",
-      "artistName": "William Hogarth",
-      "locationId": "yale-center-for-british-art-new-haven",
-      "location": "Yale Center for British Art",
-      "city": "New Haven",
-      "country": "United States",
-      "lat": 41.307908,
-      "lon": -72.930906,
-      "source": "http://www.wikidata.org/entity/Q110147547",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Hogarth%20-%20The%20Distressed%20Poet%20-%20B1998.14.1041%20-%20Yale%20Center%20for%20British%20Art.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Painter%20and%20His%20Pug%20by%20William%20Hogarth.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -10346,7 +11196,32 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q110147547",
+      "title": "The Distressed Poet",
+      "date": "1833",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "william-hogarth",
+      "artistName": "William Hogarth",
+      "locationId": "yale-center-for-british-art-new-haven",
+      "location": "Yale Center for British Art",
+      "city": "New Haven",
+      "country": "United States",
+      "lat": 41.307908,
+      "lon": -72.930906,
+      "source": "http://www.wikidata.org/entity/Q110147547",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Hogarth%20-%20The%20Distressed%20Poet%20-%20B1998.14.1041%20-%20Yale%20Center%20for%20British%20Art.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Painter%20and%20His%20Pug%20by%20William%20Hogarth.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q171344",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -10371,32 +11246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q110119679",
-      "title": "The Enraged Musician",
-      "date": "Date unknown",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "william-hogarth",
-      "artistName": "William Hogarth",
-      "locationId": "yale-center-for-british-art-new-haven",
-      "location": "Yale Center for British Art",
-      "city": "New Haven",
-      "country": "United States",
-      "lat": 41.307908,
-      "lon": -72.930906,
-      "source": "http://www.wikidata.org/entity/Q110119679",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Hogarth%20-%20The%20Enraged%20Musician%20-%20B1998.12%20-%20Yale%20Center%20for%20British%20Art.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Painter%20and%20His%20Pug%20by%20William%20Hogarth.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -10421,7 +11271,32 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q110119679",
+      "title": "The Enraged Musician",
+      "date": "Date unknown",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "william-hogarth",
+      "artistName": "William Hogarth",
+      "locationId": "yale-center-for-british-art-new-haven",
+      "location": "Yale Center for British Art",
+      "city": "New Haven",
+      "country": "United States",
+      "lat": 41.307908,
+      "lon": -72.930906,
+      "source": "http://www.wikidata.org/entity/Q110119679",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Hogarth%20-%20The%20Enraged%20Musician%20-%20B1998.12%20-%20Yale%20Center%20for%20British%20Art.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Painter%20and%20His%20Pug%20by%20William%20Hogarth.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q171344",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -10446,7 +11321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -10471,7 +11346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -10496,7 +11371,32 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q97732619",
+      "title": "The Five Orders of Periwigs",
+      "date": "1761",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "william-hogarth",
+      "artistName": "William Hogarth",
+      "locationId": "yale-center-for-british-art-new-haven",
+      "location": "Yale Center for British Art",
+      "city": "New Haven",
+      "country": "United States",
+      "lat": 41.307908,
+      "lon": -72.930906,
+      "source": "http://www.wikidata.org/entity/Q97732619",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Five%20Orders%20of%20Periwigs%20MET%20DP808228.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Painter%20and%20His%20Pug%20by%20William%20Hogarth.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q171344",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -10521,7 +11421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -10546,7 +11446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -10571,7 +11471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -10596,7 +11496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -10621,7 +11521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -10646,7 +11546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -10671,7 +11571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -10696,7 +11596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -10721,7 +11621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -10746,32 +11646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q110147722",
-      "title": "The Laughing Audience",
-      "date": "1768",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "william-hogarth",
-      "artistName": "William Hogarth",
-      "locationId": "yale-center-for-british-art-new-haven",
-      "location": "Yale Center for British Art",
-      "city": "New Haven",
-      "country": "United States",
-      "lat": 41.307908,
-      "lon": -72.930906,
-      "source": "http://www.wikidata.org/entity/Q110147722",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Hogarth%20-%20The%20Laughing%20Audience%20-%20B1998.14.1105%20-%20Yale%20Center%20for%20British%20Art.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Painter%20and%20His%20Pug%20by%20William%20Hogarth.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -10796,7 +11671,32 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q110147722",
+      "title": "The Laughing Audience",
+      "date": "1768",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "william-hogarth",
+      "artistName": "William Hogarth",
+      "locationId": "yale-center-for-british-art-new-haven",
+      "location": "Yale Center for British Art",
+      "city": "New Haven",
+      "country": "United States",
+      "lat": 41.307908,
+      "lon": -72.930906,
+      "source": "http://www.wikidata.org/entity/Q110147722",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Hogarth%20-%20The%20Laughing%20Audience%20-%20B1998.14.1105%20-%20Yale%20Center%20for%20British%20Art.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Painter%20and%20His%20Pug%20by%20William%20Hogarth.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q171344",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -10821,7 +11721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -10846,7 +11746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -10871,7 +11771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -10896,7 +11796,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -10921,7 +11821,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -10946,7 +11846,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -10971,7 +11871,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -10996,7 +11896,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -11021,7 +11921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -11046,7 +11946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -11071,7 +11971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q171344",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     }

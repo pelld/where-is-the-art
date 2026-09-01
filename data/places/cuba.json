@@ -3,25 +3,6 @@
   "country": "Cuba",
   "artworks": [
     {
-      "id": "Q129255779",
-      "artistId": "anthony-van-dyck",
-      "artistName": "Anthony van Dyck",
-      "reviewStatus": "generated",
-      "title": "Portrait of Elizabeth Dormer, Lady Herbert de Raglan",
-      "date": "1635",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "national-museum-of-fine-arts-of-cuba-havana",
-      "location": "National Museum of Fine Arts of Cuba",
-      "city": "Havana",
-      "country": "Cuba",
-      "lat": 23.1314788,
-      "lon": -82.354984,
-      "source": "http://www.wikidata.org/entity/Q129255779",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Antoon%20van%20Dyck%20-%20Retrato%20de%20Elizabeth%20Dormer%2C%20Lady%20Herbert%20de%20Raglan.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Anthony%20van%20Dyck%20-%20Self-portrait.jpg"
-    },
-    {
       "id": "Q131541399",
       "artistId": "bartolome-esteban-murillo",
       "artistName": "Bartolomé Esteban Murillo",
@@ -38,7 +19,7 @@
       "lon": -82.354984,
       "source": "http://www.wikidata.org/entity/Q131541399",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Murillo%20-%20La%20Sagrada%20Familia%20com%20San%20Juanito.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg"
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Autorretrato%20de%20Murillo.jpg"
     },
     {
       "id": "Q131541221",
@@ -57,7 +38,7 @@
       "lon": -82.354984,
       "source": "http://www.wikidata.org/entity/Q131541221",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolom%C3%A9%20Esteban%20Murillo%20-%20La%20Virgen%20con%20el%20Ni%C3%B1o.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Murillo%20Self-portrait.jpg"
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Autorretrato%20de%20Murillo.jpg"
     },
     {
       "id": "Q104437362",
@@ -191,25 +172,6 @@
       "source": "http://www.wikidata.org/entity/Q18177926",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Corot%20-%20A%20Velha%20Ponte%20de%20Mantes%2C%20c.%201855.jpg",
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste-Camille%20Corot%20c1850.png"
-    },
-    {
-      "id": "Q116963213",
-      "artistId": "lucas-cranach-the-elder",
-      "artistName": "Lucas Cranach the Elder",
-      "reviewStatus": "generated",
-      "title": "Adam and Eve",
-      "date": "1535",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "national-museum-of-fine-arts-of-cuba-havana",
-      "location": "National Museum of Fine Arts of Cuba",
-      "city": "Havana",
-      "country": "Cuba",
-      "lat": 23.1314788,
-      "lon": -82.354984,
-      "source": "http://www.wikidata.org/entity/Q116963213",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20%28I%29%20-%20Adan%20y%20Eva%20%28Museo%20Nacional%20de%20Bellas%20Artes%2C%20Havanna%29.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20d.%20%C3%84.%20063.jpg"
     },
     {
       "id": "Q116962307",

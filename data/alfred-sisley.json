@@ -1,6 +1,81 @@
 {
   "artworks": [
     {
+      "id": "Q90728655",
+      "title": "Les Bords du Loing",
+      "date": "1897",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "alfred-sisley",
+      "artistName": "Alfred Sisley",
+      "locationId": "aberdeen-archives-gallery-and-museums-collections-aberdeen-city",
+      "location": "Aberdeen Archives, Gallery and Museums collections",
+      "city": "Aberdeen City",
+      "country": "United Kingdom",
+      "lat": 57.148191,
+      "lon": -2.102713,
+      "source": "http://www.wikidata.org/entity/Q90728655",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Alfred%20Sisley%20%281839-1899%29%20-%20Les%20bords%20du%20Loing%2C%20France%20-%20ABDAG003023%20-%20Aberdeen%20Art%20Gallery.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20110.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q175130",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q90728651",
+      "title": "The little square, the village street",
+      "date": "1874",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "alfred-sisley",
+      "artistName": "Alfred Sisley",
+      "locationId": "aberdeen-archives-gallery-and-museums-collections-aberdeen-city",
+      "location": "Aberdeen Archives, Gallery and Museums collections",
+      "city": "Aberdeen City",
+      "country": "United Kingdom",
+      "lat": 57.148191,
+      "lon": -2.102713,
+      "source": "http://www.wikidata.org/entity/Q90728651",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sisley%20-%20Village-Street-Louveciennes.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20110.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q175130",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q90728658",
+      "title": "Une cour aux Sablons",
+      "date": "1885",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "alfred-sisley",
+      "artistName": "Alfred Sisley",
+      "locationId": "aberdeen-archives-gallery-and-museums-collections-aberdeen-city",
+      "location": "Aberdeen Archives, Gallery and Museums collections",
+      "city": "Aberdeen City",
+      "country": "United Kingdom",
+      "lat": 57.148191,
+      "lon": -2.102713,
+      "source": "http://www.wikidata.org/entity/Q90728658",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Alfred%20Sisley%20%281839-1899%29%20-%20Une%20cour%20aux%20Sablons%20-%20ABDAG003784%20-%20Aberdeen%20Art%20Gallery.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20110.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q175130",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
       "id": "Q19820413",
       "title": "Bridge and Watermill of Moret in Summer",
       "date": "1888",
@@ -21,7 +96,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -46,7 +121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -71,7 +146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -96,7 +171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -121,7 +196,82 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q107340193",
+      "title": "Moret-sur-Loing (Rue des Fossés)",
+      "date": "1892",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "alfred-sisley",
+      "artistName": "Alfred Sisley",
+      "locationId": "amgueddfa-cymru-museum-wales-wales",
+      "location": "Amgueddfa Cymru – Museum Wales",
+      "city": "Wales",
+      "country": "United Kingdom",
+      "lat": 51.485577,
+      "lon": -3.177128,
+      "source": "http://www.wikidata.org/entity/Q107340193",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Amgueddfa%20Cymru%20-%20Moret-sur-Loing%20%28Rue%20des%20Foss%C3%A9s%29%20-%202869.jpeg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20110.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q175130",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q107340194",
+      "title": "Storr Rock, Lady’s Cove, Le Soir",
+      "date": "1897",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "alfred-sisley",
+      "artistName": "Alfred Sisley",
+      "locationId": "amgueddfa-cymru-museum-wales-wales",
+      "location": "Amgueddfa Cymru – Museum Wales",
+      "city": "Wales",
+      "country": "United Kingdom",
+      "lat": 51.485577,
+      "lon": -3.177128,
+      "source": "http://www.wikidata.org/entity/Q107340194",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Amgueddfa%20Cymru%20-%20Craig%20Storr%2C%20Traeth%20Bach%20y%20Forwyn%2C%20min%20nos%20-%20Storr%20Rock%2C%20Lady%27s%20Cove%2C%20le%20soir%20-%203401.jpeg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20110.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q175130",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q107340195",
+      "title": "The Cliff at Penarth, Evening, Low Tide",
+      "date": "1897",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "alfred-sisley",
+      "artistName": "Alfred Sisley",
+      "locationId": "amgueddfa-cymru-museum-wales-wales",
+      "location": "Amgueddfa Cymru – Museum Wales",
+      "city": "Wales",
+      "country": "United Kingdom",
+      "lat": 51.485577,
+      "lon": -3.177128,
+      "source": "http://www.wikidata.org/entity/Q107340195",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Amgueddfa%20Cymru%20-%20Y%20Clogwyn%20ym%20Mhenarth%2C%20Min%20Nos%2C%20Trai%20-%20The%20Cliff%20at%20Penarth%2C%20evening%2C%20low%20tide%20-%202871.jpeg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20110.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q175130",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -146,7 +296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -171,7 +321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -196,7 +346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -221,7 +371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -246,7 +396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -271,7 +421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -296,7 +446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -321,7 +471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -346,7 +496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -371,7 +521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -396,7 +546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -421,7 +571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -446,7 +596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -471,7 +621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -496,7 +646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -521,7 +671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -546,7 +696,32 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q98152399",
+      "title": "The Church at Moret in the Rain",
+      "date": "1894",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "alfred-sisley",
+      "artistName": "Alfred Sisley",
+      "locationId": "birmingham-museums-trust-birmingham",
+      "location": "Birmingham Museums Trust",
+      "city": "Birmingham",
+      "country": "United Kingdom",
+      "lat": 52.480278,
+      "lon": -1.903611,
+      "source": "http://www.wikidata.org/entity/Q98152399",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Alfred%20Sisley%20%281839-1899%29%20-%20The%20Church%20at%20Moret%20in%20the%20Rain%20-%201948P26%20-%20Birmingham%20Museums%20Trust.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20110.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q175130",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -571,7 +746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -596,7 +771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -621,7 +796,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -646,7 +821,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -671,7 +846,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -696,7 +871,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -721,7 +896,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -746,7 +921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -771,7 +946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -796,7 +971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -821,7 +996,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -846,7 +1021,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -871,7 +1046,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -896,7 +1071,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -921,7 +1096,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -946,7 +1121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -971,7 +1146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -996,7 +1171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1021,7 +1196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1046,7 +1221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1071,7 +1246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1096,7 +1271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1121,7 +1296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1146,32 +1321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q18558944",
-      "title": "Drying Nets",
-      "date": "1872",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "alfred-sisley",
-      "artistName": "Alfred Sisley",
-      "locationId": "collection-unknown-fort-worth",
-      "location": "Collection unknown",
-      "city": "Fort Worth",
-      "country": "United States",
-      "lat": 32.748611111,
-      "lon": -97.365,
-      "source": "http://www.wikidata.org/entity/Q18558944",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%27Drying%20Nets%27%2C%20oil%20on%20canvas%20painting%20by%20Alfred%20Sisley%2C%201872%2C%20Kimbell%20Art%20Museum.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20110.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1196,7 +1346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1221,7 +1371,32 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q46630224",
+      "title": "Marly-le-Roi",
+      "date": "1875",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "alfred-sisley",
+      "artistName": "Alfred Sisley",
+      "locationId": "collection-unknown-washington-d-c",
+      "location": "Collection unknown",
+      "city": "Washington, D.C.",
+      "country": "United States",
+      "lat": 38.891388888,
+      "lon": -77.02,
+      "source": "http://www.wikidata.org/entity/Q46630224",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Alfred%20Sisley%20-%20Marly-le-Roi%20-%202014.136.61%20-%20Corcoran%20Gallery%20of%20Art.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20110.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q175130",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1246,7 +1421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1271,32 +1446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q72753389",
-      "title": "The Kitchen Garden",
-      "date": "1872",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "alfred-sisley",
-      "artistName": "Alfred Sisley",
-      "locationId": "collection-unknown-fort-worth",
-      "location": "Collection unknown",
-      "city": "Fort Worth",
-      "country": "United States",
-      "lat": 32.748611111,
-      "lon": -97.365,
-      "source": "http://www.wikidata.org/entity/Q72753389",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Kitchen%20Garden%20%28Le%20Potager%29%20by%20Alfred%20Sisley.JPG",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20110.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1321,7 +1471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1346,7 +1496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1371,32 +1521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q46630224",
-      "title": "Marly-le-Roi",
-      "date": "1875",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "alfred-sisley",
-      "artistName": "Alfred Sisley",
-      "locationId": "corcoran-gallery-of-art-washington-d-c",
-      "location": "Corcoran Gallery of Art",
-      "city": "Washington, D.C.",
-      "country": "United States",
-      "lat": 38.895851,
-      "lon": -77.039879,
-      "source": "http://www.wikidata.org/entity/Q46630224",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Alfred%20Sisley%20-%20Marly-le-Roi%20-%202014.136.61%20-%20Corcoran%20Gallery%20of%20Art.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20110.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1412,8 +1537,8 @@
       "location": "Courtauld Gallery",
       "city": "City of Westminster",
       "country": "United Kingdom",
-      "lat": 51.51083333,
-      "lon": -0.11722222,
+      "lat": 51.511568,
+      "lon": -0.117712,
       "source": "http://www.wikidata.org/entity/Q19820342",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sisley%20-%20Boats-On-The-Seine%2C-C.1877.jpg",
@@ -1421,7 +1546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1446,7 +1571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1471,7 +1596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1496,7 +1621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1521,7 +1646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1533,10 +1658,10 @@
       "attribution": "Accepted",
       "artistId": "alfred-sisley",
       "artistName": "Alfred Sisley",
-      "locationId": "denver-art-museum-denver-county",
+      "locationId": "denver-art-museum-location-unknown",
       "location": "Denver Art Museum",
-      "city": "Denver County",
-      "country": "United States",
+      "city": "Location unknown",
+      "country": "Country unknown",
       "lat": 39.737188,
       "lon": -104.989345,
       "source": "http://www.wikidata.org/entity/Q138013655",
@@ -1546,7 +1671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1558,10 +1683,10 @@
       "attribution": "Accepted",
       "artistId": "alfred-sisley",
       "artistName": "Alfred Sisley",
-      "locationId": "denver-art-museum-denver-county",
+      "locationId": "denver-art-museum-location-unknown",
       "location": "Denver Art Museum",
-      "city": "Denver County",
-      "country": "United States",
+      "city": "Location unknown",
+      "country": "Country unknown",
       "lat": 39.737188,
       "lon": -104.989345,
       "source": "http://www.wikidata.org/entity/Q77322720",
@@ -1571,7 +1696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1583,10 +1708,10 @@
       "attribution": "Accepted",
       "artistId": "alfred-sisley",
       "artistName": "Alfred Sisley",
-      "locationId": "denver-art-museum-denver-county",
+      "locationId": "denver-art-museum-location-unknown",
       "location": "Denver Art Museum",
-      "city": "Denver County",
-      "country": "United States",
+      "city": "Location unknown",
+      "country": "Country unknown",
       "lat": 39.737188,
       "lon": -104.989345,
       "source": "http://www.wikidata.org/entity/Q136665689",
@@ -1596,7 +1721,82 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q29654787",
+      "title": "Le bois des Roches, Veneux-Nadon",
+      "date": "1880",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "alfred-sisley",
+      "artistName": "Alfred Sisley",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q29654787",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sisley%20-%20le-bois-des-roches-veneux-nadon-1880.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20110.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q175130",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q29654789",
+      "title": "Saint-Cloud",
+      "date": "1877",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "alfred-sisley",
+      "artistName": "Alfred Sisley",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q29654789",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Alfred%20Sisley%20-%20Saint%20Cloud.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20110.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q175130",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q29654785",
+      "title": "The Road to Mantes",
+      "date": "1874",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "alfred-sisley",
+      "artistName": "Alfred Sisley",
+      "locationId": "department-of-paintings-of-the-louvre-location-unknown",
+      "location": "Department of Paintings of the Louvre",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 48.861111,
+      "lon": 2.335833,
+      "source": "http://www.wikidata.org/entity/Q29654785",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sisley%20-%20the-route-to-mantes-1874.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20110.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q175130",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1621,7 +1821,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1646,7 +1846,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1671,7 +1871,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1696,7 +1896,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1721,7 +1921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1746,7 +1946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1771,7 +1971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1796,7 +1996,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1821,107 +2021,32 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
     {
-      "id": "Q64223635",
-      "title": "Barges at Saint Mammès",
-      "date": "1885",
+      "id": "Q106864828",
+      "title": "The Bridge at Villeneuve-La-Garenne",
+      "date": "1872",
       "type": "Painting",
       "attribution": "Accepted",
       "artistId": "alfred-sisley",
       "artistName": "Alfred Sisley",
-      "locationId": "foundation-e-g-buhrle-collection-zurich",
-      "location": "Foundation E.G. Bührle Collection",
-      "city": "Zurich",
-      "country": "Switzerland",
-      "lat": 47.353045,
-      "lon": 8.561758,
-      "source": "http://www.wikidata.org/entity/Q64223635",
+      "locationId": "fogg-museum-cambridge",
+      "location": "Fogg Museum",
+      "city": "Cambridge",
+      "country": "United States",
+      "lat": 42.37409,
+      "lon": -71.114358,
+      "source": "http://www.wikidata.org/entity/Q106864828",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Alfred%20Sisley%20-%20Chalands%20%C3%A0%20St-Mamm%C3%A8s%20-%2098%20-%20Foundation%20E.G.%20B%C3%BChrle%20Collection.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Le%20Pont%20%C3%A0%20Villeneuve-la-Garenne%20%2C%20D%20.%2038%20%2C%20Fogg%20Art%20Museum%20%2C%20Cambridge.jpg",
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20110.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q64223632",
-      "title": "Regatta at Hampton Court",
-      "date": "1874",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "alfred-sisley",
-      "artistName": "Alfred Sisley",
-      "locationId": "foundation-e-g-buhrle-collection-zurich",
-      "location": "Foundation E.G. Bührle Collection",
-      "city": "Zurich",
-      "country": "Switzerland",
-      "lat": 47.353045,
-      "lon": 8.561758,
-      "source": "http://www.wikidata.org/entity/Q64223632",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Alfred%20Sisley%20-%20Les%20R%C3%A9gates%20%C3%A0%20Hampton%20Court%20-%20183%20-%20Foundation%20E.G.%20B%C3%BChrle%20Collection.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20110.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q64223622",
-      "title": "Summer at Bougival",
-      "date": "1876",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "alfred-sisley",
-      "artistName": "Alfred Sisley",
-      "locationId": "foundation-e-g-buhrle-collection-zurich",
-      "location": "Foundation E.G. Bührle Collection",
-      "city": "Zurich",
-      "country": "Switzerland",
-      "lat": 47.353045,
-      "lon": 8.561758,
-      "source": "http://www.wikidata.org/entity/Q64223622",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Alfred%20Sisley%20-%20%C3%89t%C3%A9%20%C3%A0%20Bougival%20-%20100%20-%20Foundation%20E.G.%20B%C3%BChrle%20Collection.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20110.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q64223633",
-      "title": "The Road to Saint Germain, near Marly",
-      "date": "1875",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "alfred-sisley",
-      "artistName": "Alfred Sisley",
-      "locationId": "foundation-e-g-buhrle-collection-zurich",
-      "location": "Foundation E.G. Bührle Collection",
-      "city": "Zurich",
-      "country": "Switzerland",
-      "lat": 47.353045,
-      "lon": 8.561758,
-      "source": "http://www.wikidata.org/entity/Q64223633",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Alfred%20Sisley%20-%20La%20Route%20de%20Saint-Germain%20pr%C3%A8s%20de%20Marly%20-%20BU%200099%20-%20Kunsthaus%20Z%C3%BCrich.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20110.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1946,7 +2071,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1971,7 +2096,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -1996,7 +2121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2021,7 +2146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2046,7 +2171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2071,7 +2196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2096,7 +2221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2121,32 +2246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q106864828",
-      "title": "The Bridge at Villeneuve-La-Garenne",
-      "date": "1872",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "alfred-sisley",
-      "artistName": "Alfred Sisley",
-      "locationId": "harvard-art-museums-cambridge",
-      "location": "Harvard Art Museums",
-      "city": "Cambridge",
-      "country": "United States",
-      "lat": 42.37416667,
-      "lon": -71.11472222,
-      "source": "http://www.wikidata.org/entity/Q106864828",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Le%20Pont%20%C3%A0%20Villeneuve-la-Garenne%20%2C%20D%20.%2038%20%2C%20Fogg%20Art%20Museum%20%2C%20Cambridge.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20110.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2171,7 +2271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2196,7 +2296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2221,7 +2321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2246,7 +2346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2271,7 +2371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2296,7 +2396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2321,7 +2421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2346,7 +2446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2371,7 +2471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2396,7 +2496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2421,7 +2521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2446,7 +2546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2471,7 +2571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2496,7 +2596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2521,32 +2621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q108479244",
-      "title": "Near Moret-sur-Loing",
-      "date": "1881",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "alfred-sisley",
-      "artistName": "Alfred Sisley",
-      "locationId": "impressionism-the-hasso-plattner-collection-potsdam",
-      "location": "Impressionism: The Hasso Plattner Collection",
-      "city": "Potsdam",
-      "country": "Germany",
-      "lat": 52.395194444,
-      "lon": 13.062305555,
-      "source": "http://www.wikidata.org/entity/Q108479244",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Alfred%20Sisley%20At%20Moret-sur-Loing%201881.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20110.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2571,7 +2646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2596,7 +2671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2621,7 +2696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2646,32 +2721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q108479235",
-      "title": "White Hoarfrost, Saint Martin's Summer",
-      "date": "1874",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "alfred-sisley",
-      "artistName": "Alfred Sisley",
-      "locationId": "impressionism-the-hasso-plattner-collection-potsdam",
-      "location": "Impressionism: The Hasso Plattner Collection",
-      "city": "Potsdam",
-      "country": "Germany",
-      "lat": 52.395194444,
-      "lon": 13.062305555,
-      "source": "http://www.wikidata.org/entity/Q108479235",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gel%C3%A9e%20blanche%20-%20%C3%89t%C3%A9%20de%20la%20Saint-Martin%202000%20CKS%2006313%200007%20000%28012903%29.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20110.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2696,7 +2746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2721,7 +2771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2746,7 +2796,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2771,7 +2821,32 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q19820384",
+      "title": "The Road from Montbuisson to Louveciennes",
+      "date": "1875",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "alfred-sisley",
+      "artistName": "Alfred Sisley",
+      "locationId": "jean-walter-paul-guillaume-collection-paris",
+      "location": "Jean Walter-Paul Guillaume Collection",
+      "city": "Paris",
+      "country": "France",
+      "lat": 48.863845351,
+      "lon": 2.322538337,
+      "source": "http://www.wikidata.org/entity/Q19820384",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Alfred%20Sisley%20-%20Le%20Chemin%20de%20Montbuisson%20%C3%A0%20Louveciennes.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20110.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q175130",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2796,7 +2871,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2821,7 +2896,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2846,7 +2921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2871,7 +2946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2896,7 +2971,57 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q18558944",
+      "title": "Drying Nets",
+      "date": "1872",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "alfred-sisley",
+      "artistName": "Alfred Sisley",
+      "locationId": "kimbell-art-museum-fort-worth",
+      "location": "Kimbell Art Museum",
+      "city": "Fort Worth",
+      "country": "United States",
+      "lat": 32.748611111,
+      "lon": -97.365,
+      "source": "http://www.wikidata.org/entity/Q18558944",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/%27Drying%20Nets%27%2C%20oil%20on%20canvas%20painting%20by%20Alfred%20Sisley%2C%201872%2C%20Kimbell%20Art%20Museum.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20110.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q175130",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q72753389",
+      "title": "The Kitchen Garden",
+      "date": "1872",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "alfred-sisley",
+      "artistName": "Alfred Sisley",
+      "locationId": "kimbell-art-museum-fort-worth",
+      "location": "Kimbell Art Museum",
+      "city": "Fort Worth",
+      "country": "United States",
+      "lat": 32.748611111,
+      "lon": -97.365,
+      "source": "http://www.wikidata.org/entity/Q72753389",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Kitchen%20Garden%20%28Le%20Potager%29%20by%20Alfred%20Sisley.JPG",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20110.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q175130",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2921,7 +3046,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2946,7 +3071,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2971,7 +3096,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -2996,7 +3121,32 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q64223635",
+      "title": "Barges at Saint Mammès",
+      "date": "1885",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "alfred-sisley",
+      "artistName": "Alfred Sisley",
+      "locationId": "kunsthaus-zurich-district-1",
+      "location": "Kunsthaus Zürich",
+      "city": "District 1",
+      "country": "Switzerland",
+      "lat": 47.370277777,
+      "lon": 8.548055555,
+      "source": "http://www.wikidata.org/entity/Q64223635",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Alfred%20Sisley%20-%20Chalands%20%C3%A0%20St-Mamm%C3%A8s%20-%2098%20-%20Foundation%20E.G.%20B%C3%BChrle%20Collection.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20110.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q175130",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3021,7 +3171,82 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q64223632",
+      "title": "Regatta at Hampton Court",
+      "date": "1874",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "alfred-sisley",
+      "artistName": "Alfred Sisley",
+      "locationId": "kunsthaus-zurich-zurich",
+      "location": "Kunsthaus Zürich",
+      "city": "Zurich",
+      "country": "Switzerland",
+      "lat": 47.370277777,
+      "lon": 8.548055555,
+      "source": "http://www.wikidata.org/entity/Q64223632",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Alfred%20Sisley%20-%20Les%20R%C3%A9gates%20%C3%A0%20Hampton%20Court%20-%20183%20-%20Foundation%20E.G.%20B%C3%BChrle%20Collection.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20110.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q175130",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q64223622",
+      "title": "Summer at Bougival",
+      "date": "1876",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "alfred-sisley",
+      "artistName": "Alfred Sisley",
+      "locationId": "kunsthaus-zurich-zurich",
+      "location": "Kunsthaus Zürich",
+      "city": "Zurich",
+      "country": "Switzerland",
+      "lat": 47.370277777,
+      "lon": 8.548055555,
+      "source": "http://www.wikidata.org/entity/Q64223622",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Alfred%20Sisley%20-%20%C3%89t%C3%A9%20%C3%A0%20Bougival%20-%20100%20-%20Foundation%20E.G.%20B%C3%BChrle%20Collection.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20110.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q175130",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q64223633",
+      "title": "The Road to Saint Germain, near Marly",
+      "date": "1875",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "alfred-sisley",
+      "artistName": "Alfred Sisley",
+      "locationId": "kunsthaus-zurich-district-1",
+      "location": "Kunsthaus Zürich",
+      "city": "District 1",
+      "country": "Switzerland",
+      "lat": 47.370277777,
+      "lon": 8.548055555,
+      "source": "http://www.wikidata.org/entity/Q64223633",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Alfred%20Sisley%20-%20La%20Route%20de%20Saint-Germain%20pr%C3%A8s%20de%20Marly%20-%20BU%200099%20-%20Kunsthaus%20Z%C3%BCrich.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20110.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q175130",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3046,32 +3271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q124288345",
-      "title": "Untitled record",
-      "date": "1885",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "alfred-sisley",
-      "artistName": "Alfred Sisley",
-      "locationId": "kunsthaus-zurich-zurich",
-      "location": "Kunsthaus Zürich",
-      "city": "Zurich",
-      "country": "Switzerland",
-      "lat": 47.370277777,
-      "lon": 8.548055555,
-      "source": "http://www.wikidata.org/entity/Q124288345",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Alfred%20Sisley%20-%20La%20Route%20-%202001-0009%20-%20Kunsthaus%20Z%C3%BCrich.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20110.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3096,7 +3296,32 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q124288345",
+      "title": "Untitled record",
+      "date": "1885",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "alfred-sisley",
+      "artistName": "Alfred Sisley",
+      "locationId": "kunsthaus-zurich-zurich",
+      "location": "Kunsthaus Zürich",
+      "city": "Zurich",
+      "country": "Switzerland",
+      "lat": 47.370277777,
+      "lon": 8.548055555,
+      "source": "http://www.wikidata.org/entity/Q124288345",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Alfred%20Sisley%20-%20La%20Route%20-%202001-0009%20-%20Kunsthaus%20Z%C3%BCrich.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20110.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q175130",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3121,7 +3346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3146,7 +3371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3171,7 +3396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3196,7 +3421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3221,7 +3446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3246,7 +3471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3271,7 +3496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3296,7 +3521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3321,7 +3546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3346,7 +3571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3371,7 +3596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3396,7 +3621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3421,7 +3646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3446,7 +3671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3471,7 +3696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3496,7 +3721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3521,7 +3746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3546,7 +3771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3571,7 +3796,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3596,7 +3821,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3621,7 +3846,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3646,7 +3871,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3671,7 +3896,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3696,7 +3921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3721,7 +3946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3746,7 +3971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3771,7 +3996,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3796,7 +4021,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3821,7 +4046,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3846,7 +4071,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3871,7 +4096,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3896,7 +4121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3921,7 +4146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3946,7 +4171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3971,7 +4196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -3996,7 +4221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4021,7 +4246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4046,7 +4271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4071,7 +4296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4096,7 +4321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4121,7 +4346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4146,7 +4371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4171,7 +4396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4196,7 +4421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4221,7 +4446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4246,7 +4471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4271,7 +4496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4296,7 +4521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4321,7 +4546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4346,7 +4571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4371,7 +4596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4396,7 +4621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4421,7 +4646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4446,7 +4671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4471,7 +4696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4496,7 +4721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4521,7 +4746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4546,7 +4771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4571,7 +4796,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4596,7 +4821,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4621,7 +4846,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4646,7 +4871,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4671,7 +4896,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4696,7 +4921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4721,7 +4946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4746,7 +4971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4771,7 +4996,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4796,7 +5021,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4821,32 +5046,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q17495422",
-      "title": "Untitled record",
-      "date": "1889",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "alfred-sisley",
-      "artistName": "Alfred Sisley",
-      "locationId": "musee-d-orsay-7th-arrondissement-of-paris",
-      "location": "Musée d'Orsay",
-      "city": "7th arrondissement of Paris",
-      "country": "France",
-      "lat": 48.859972,
-      "lon": 2.326527,
-      "source": "http://www.wikidata.org/entity/Q17495422",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Printemps%2C%20trembles%20et%20acacias.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20110.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4871,57 +5071,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q17495982",
-      "title": "Untitled record",
-      "date": "1883",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "alfred-sisley",
-      "artistName": "Alfred Sisley",
-      "locationId": "musee-d-orsay-7th-arrondissement-of-paris",
-      "location": "Musée d'Orsay",
-      "city": "7th arrondissement of Paris",
-      "country": "France",
-      "lat": 48.859972,
-      "lon": 2.326527,
-      "source": "http://www.wikidata.org/entity/Q17495982",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Un%20coin%20de%20bois%20aux%20Sablons%20-%20Alfred%20Sisley%20-%201883.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20110.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q17492314",
-      "title": "Untitled record",
-      "date": "1877",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "alfred-sisley",
-      "artistName": "Alfred Sisley",
-      "locationId": "musee-d-orsay-7th-arrondissement-of-paris",
-      "location": "Musée d'Orsay",
-      "city": "7th arrondissement of Paris",
-      "country": "France",
-      "lat": 48.859972,
-      "lon": 2.326527,
-      "source": "http://www.wikidata.org/entity/Q17492314",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20Seine%20%C3%A0%20Suresnes%20d%27Alfred%20Sisley.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20110.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4946,7 +5096,82 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q17495422",
+      "title": "Untitled record",
+      "date": "1889",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "alfred-sisley",
+      "artistName": "Alfred Sisley",
+      "locationId": "musee-d-orsay-7th-arrondissement-of-paris",
+      "location": "Musée d'Orsay",
+      "city": "7th arrondissement of Paris",
+      "country": "France",
+      "lat": 48.859972,
+      "lon": 2.326527,
+      "source": "http://www.wikidata.org/entity/Q17495422",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Printemps%2C%20trembles%20et%20acacias.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20110.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q175130",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q17495982",
+      "title": "Untitled record",
+      "date": "1883",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "alfred-sisley",
+      "artistName": "Alfred Sisley",
+      "locationId": "musee-d-orsay-7th-arrondissement-of-paris",
+      "location": "Musée d'Orsay",
+      "city": "7th arrondissement of Paris",
+      "country": "France",
+      "lat": 48.859972,
+      "lon": 2.326527,
+      "source": "http://www.wikidata.org/entity/Q17495982",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Un%20coin%20de%20bois%20aux%20Sablons%20-%20Alfred%20Sisley%20-%201883.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20110.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q175130",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q17492314",
+      "title": "Untitled record",
+      "date": "1877",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "alfred-sisley",
+      "artistName": "Alfred Sisley",
+      "locationId": "musee-d-orsay-7th-arrondissement-of-paris",
+      "location": "Musée d'Orsay",
+      "city": "7th arrondissement of Paris",
+      "country": "France",
+      "lat": 48.859972,
+      "lon": 2.326527,
+      "source": "http://www.wikidata.org/entity/Q17492314",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20Seine%20%C3%A0%20Suresnes%20d%27Alfred%20Sisley.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20110.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q175130",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4971,7 +5196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -4996,7 +5221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5021,32 +5246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q19820384",
-      "title": "The Road from Montbuisson to Louveciennes",
-      "date": "1875",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "alfred-sisley",
-      "artistName": "Alfred Sisley",
-      "locationId": "musee-de-l-orangerie-1st-arrondissement-of-paris",
-      "location": "Musée de l'Orangerie",
-      "city": "1st arrondissement of Paris",
-      "country": "France",
-      "lat": 48.863845351,
-      "lon": 2.322538337,
-      "source": "http://www.wikidata.org/entity/Q19820384",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Alfred%20Sisley%20-%20Le%20Chemin%20de%20Montbuisson%20%C3%A0%20Louveciennes.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20110.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5071,7 +5271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5096,7 +5296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5121,7 +5321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5146,7 +5346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5171,7 +5371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5196,7 +5396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5221,7 +5421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5246,7 +5446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5271,7 +5471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5296,7 +5496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5321,7 +5521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5346,7 +5546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5371,7 +5571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5396,7 +5596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5421,7 +5621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5446,7 +5646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5471,7 +5671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5496,7 +5696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5521,14 +5721,14 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
     {
       "id": "Q17492983",
       "title": "Untitled record",
-      "date": "1865",
+      "date": "1867",
       "type": "Painting",
       "attribution": "Accepted",
       "artistId": "alfred-sisley",
@@ -5541,12 +5741,37 @@
       "lon": 3.880191666,
       "source": "http://www.wikidata.org/entity/Q17492983",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sisley-H%C3%A9ron.JPG",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Le%20H%C3%A9ron%20aux%20ailes%20d%C3%A9ploy%C3%A9es.jpg",
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20110.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q105099658",
+      "title": "St. Martin's Summers, near Moret-sur-Loing",
+      "date": "1891",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "alfred-sisley",
+      "artistName": "Alfred Sisley",
+      "locationId": "musee-marmottan-monet-16th-arrondissement-of-paris",
+      "location": "Musée Marmottan Monet",
+      "city": "16th arrondissement of Paris",
+      "country": "France",
+      "lat": 48.859279605,
+      "lon": 2.267383323,
+      "source": "http://www.wikidata.org/entity/Q105099658",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Estate%20di%20San%20Martino%2C%20dintorni%20di%20Moret-sur-Loing.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20110.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q175130",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5571,7 +5796,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5596,7 +5821,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5621,7 +5846,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5646,7 +5871,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5671,7 +5896,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5696,7 +5921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5721,7 +5946,32 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q108479244",
+      "title": "Near Moret-sur-Loing",
+      "date": "1881",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "alfred-sisley",
+      "artistName": "Alfred Sisley",
+      "locationId": "museum-barberini-potsdam",
+      "location": "Museum Barberini",
+      "city": "Potsdam",
+      "country": "Germany",
+      "lat": 52.395169,
+      "lon": 13.062282,
+      "source": "http://www.wikidata.org/entity/Q108479244",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Alfred%20Sisley%20At%20Moret-sur-Loing%201881.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20110.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q175130",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5746,7 +5996,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5771,7 +6021,32 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q108479235",
+      "title": "White Hoarfrost, Saint Martin's Summer",
+      "date": "1874",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "alfred-sisley",
+      "artistName": "Alfred Sisley",
+      "locationId": "museum-barberini-potsdam",
+      "location": "Museum Barberini",
+      "city": "Potsdam",
+      "country": "Germany",
+      "lat": 52.395169,
+      "lon": 13.062282,
+      "source": "http://www.wikidata.org/entity/Q108479235",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Gel%C3%A9e%20blanche%20-%20%C3%89t%C3%A9%20de%20la%20Saint-Martin%202000%20CKS%2006313%200007%20000%28012903%29.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20110.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q175130",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5796,7 +6071,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5821,7 +6096,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5846,7 +6121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5871,7 +6146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5896,7 +6171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5921,7 +6196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5933,9 +6208,9 @@
       "attribution": "Accepted",
       "artistId": "alfred-sisley",
       "artistName": "Alfred Sisley",
-      "locationId": "museum-langmatt-sidney-and-jenny-brown-foundation-location-unknown",
+      "locationId": "museum-langmatt-sidney-and-jenny-brown-foundation-baden",
       "location": "Museum Langmatt Sidney and Jenny Brown Foundation",
-      "city": "Location unknown",
+      "city": "Baden",
       "country": "Switzerland",
       "lat": 47.4813834,
       "lon": 8.30753512,
@@ -5946,7 +6221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5971,7 +6246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -5996,7 +6271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6021,7 +6296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6046,7 +6321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6071,7 +6346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6096,7 +6371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6121,7 +6396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6146,7 +6421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6171,7 +6446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6196,7 +6471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6221,7 +6496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6246,7 +6521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6271,7 +6546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6296,7 +6571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6321,7 +6596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6346,7 +6621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6371,7 +6646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6396,7 +6671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6421,7 +6696,157 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q136784626",
+      "title": "Barges From Berry on the Loing Canal in Spring",
+      "date": "1896",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "alfred-sisley",
+      "artistName": "Alfred Sisley",
+      "locationId": "museum-ordrupgaard-gentofte-municipality",
+      "location": "Museum Ordrupgaard",
+      "city": "Gentofte Municipality",
+      "country": "Denmark",
+      "lat": 55.766944,
+      "lon": 12.563333,
+      "source": "http://www.wikidata.org/entity/Q136784626",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sisley%20-%20barges-on-the-loing-canal-spring-1896.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20110.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q175130",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q19820358",
+      "title": "Chestnuts Tree Alley in La Celle-Saint-Cloud",
+      "date": "1865",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "alfred-sisley",
+      "artistName": "Alfred Sisley",
+      "locationId": "museum-ordrupgaard-gentofte-municipality",
+      "location": "Museum Ordrupgaard",
+      "city": "Gentofte Municipality",
+      "country": "Denmark",
+      "lat": 55.766944,
+      "lon": 12.563333,
+      "source": "http://www.wikidata.org/entity/Q19820358",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Alfred%20Sisley%20037.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20110.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q175130",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q19820320",
+      "title": "Factory on the Banks of the Seine, Bougival",
+      "date": "1873",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "alfred-sisley",
+      "artistName": "Alfred Sisley",
+      "locationId": "museum-ordrupgaard-gentofte-municipality",
+      "location": "Museum Ordrupgaard",
+      "city": "Gentofte Municipality",
+      "country": "Denmark",
+      "lat": 55.766944,
+      "lon": 12.563333,
+      "source": "http://www.wikidata.org/entity/Q19820320",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Alfred%20Sisley%20-%20Inondation.%20Bords%20de%20la%20Seine%2C%20Bougival%20-%20Ordrupgaard.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20110.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q175130",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q136413175",
+      "title": "September Morning near Saint-Mammès and the Veneux-Nadon Hills",
+      "date": "1884",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "alfred-sisley",
+      "artistName": "Alfred Sisley",
+      "locationId": "museum-ordrupgaard-gentofte-municipality",
+      "location": "Museum Ordrupgaard",
+      "city": "Gentofte Municipality",
+      "country": "Denmark",
+      "lat": 55.766944,
+      "lon": 12.563333,
+      "source": "http://www.wikidata.org/entity/Q136413175",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/September%20Morning%20near%20Saint-Mamm%C3%A8s%20and%20the%20Veneux-Nadon%20Hills%20%281884%29%20by%20Alfred%20Sisley.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20110.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q175130",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q66250661",
+      "title": "The River Boat Garage",
+      "date": "1885",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "alfred-sisley",
+      "artistName": "Alfred Sisley",
+      "locationId": "museum-ordrupgaard-gentofte-municipality",
+      "location": "Museum Ordrupgaard",
+      "city": "Gentofte Municipality",
+      "country": "Denmark",
+      "lat": 55.766944,
+      "lon": 12.563333,
+      "source": "http://www.wikidata.org/entity/Q66250661",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Alfred%20Sisley%20-%20Le%20garage%20des%20bateaux-mouches%20-%20Ordrupgaard.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20110.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q175130",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q66250663",
+      "title": "Untitled record",
+      "date": "1877",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "alfred-sisley",
+      "artistName": "Alfred Sisley",
+      "locationId": "museum-ordrupgaard-gentofte-municipality",
+      "location": "Museum Ordrupgaard",
+      "city": "Gentofte Municipality",
+      "country": "Denmark",
+      "lat": 55.766944,
+      "lon": 12.563333,
+      "source": "http://www.wikidata.org/entity/Q66250663",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Alfred%20Sisley%20-%20D%C3%A9chargement%20des%20p%C3%A9niches%20%C3%A0%20Billancourt%20-%20Ordrupgaard.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20110.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q175130",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6446,7 +6871,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6471,7 +6896,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6496,7 +6921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6521,7 +6946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6546,57 +6971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q3234637",
-      "title": "Small Meadows in Spring - By",
-      "date": "1880",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "alfred-sisley",
-      "artistName": "Alfred Sisley",
-      "locationId": "national-gallery-city-of-westminster",
-      "location": "National Gallery",
-      "city": "City of Westminster",
-      "country": "United Kingdom",
-      "lat": 51.508888888,
-      "lon": -0.128333333,
-      "source": "http://www.wikidata.org/entity/Q3234637",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sisley-Small%20Meadows%20in%20Spring.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20110.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q26492710",
-      "title": "The Bridge at Sèvres",
-      "date": "1877",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "alfred-sisley",
-      "artistName": "Alfred Sisley",
-      "locationId": "national-gallery-city-of-westminster",
-      "location": "National Gallery",
-      "city": "City of Westminster",
-      "country": "United Kingdom",
-      "lat": 51.508888888,
-      "lon": -0.128333333,
-      "source": "http://www.wikidata.org/entity/Q26492710",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Alfred%20Sisley%20%281839-1899%29%20-%20The%20Bridge%20at%20S%C3%A8vres%20%28Le%20Pont%20de%20S%C3%A8vres%29%20-%20N04249%20-%20National%20Gallery.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20110.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6621,7 +6996,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6646,7 +7021,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6671,7 +7046,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6696,7 +7071,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6712,8 +7087,8 @@
       "location": "National Gallery of Canada",
       "city": "Ottawa",
       "country": "Canada",
-      "lat": 45.429434,
-      "lon": -75.698386,
+      "lat": 45.429535,
+      "lon": -75.698906,
       "source": "http://www.wikidata.org/entity/Q59506226",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sisley%20-%20the-slopes-of-bougival-1875.jpg",
@@ -6721,7 +7096,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6746,7 +7121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6771,7 +7146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6796,7 +7171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6821,7 +7196,57 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q19820434",
+      "title": "The Bourgogne Lock at Moret, Spring",
+      "date": "1882",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "alfred-sisley",
+      "artistName": "Alfred Sisley",
+      "locationId": "national-gallery-prague-location-unknown",
+      "location": "National Gallery Prague",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 50.101111,
+      "lon": 14.4325,
+      "source": "http://www.wikidata.org/entity/Q19820434",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Bourgogne%20Lock%20at%20Moret%20CZE%20NG.O%209836.jpeg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20110.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q175130",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q19820321",
+      "title": "The Bridge at Sèvres",
+      "date": "1877",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "alfred-sisley",
+      "artistName": "Alfred Sisley",
+      "locationId": "national-gallery-prague-location-unknown",
+      "location": "National Gallery Prague",
+      "city": "Location unknown",
+      "country": "Country unknown",
+      "lat": 50.101111,
+      "lon": 14.4325,
+      "source": "http://www.wikidata.org/entity/Q19820321",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sisley-A%20ponte%20em%20S%C3%A8vres.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20110.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q175130",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6846,7 +7271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6871,7 +7296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6896,7 +7321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6921,7 +7346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6946,7 +7371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6971,7 +7396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -6996,7 +7421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7021,7 +7446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7046,7 +7471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7071,7 +7496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7096,7 +7521,32 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q42319360",
+      "title": "The Grand-Rue in Argenteuil",
+      "date": "1872",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "alfred-sisley",
+      "artistName": "Alfred Sisley",
+      "locationId": "norfolk-museums-collections-norwich",
+      "location": "Norfolk Museums Collections",
+      "city": "Norwich",
+      "country": "United Kingdom",
+      "lat": 52.6286,
+      "lon": 1.2964,
+      "source": "http://www.wikidata.org/entity/Q42319360",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20Grande%20Rue%20%C3%A0%20Argenteuil.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20110.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q175130",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7121,32 +7571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q42319360",
-      "title": "The Grand-Rue in Argenteuil",
-      "date": "1872",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "alfred-sisley",
-      "artistName": "Alfred Sisley",
-      "locationId": "norwich-castle-norwich",
-      "location": "Norwich Castle",
-      "city": "Norwich",
-      "country": "United Kingdom",
-      "lat": 52.6281,
-      "lon": 1.29678,
-      "source": "http://www.wikidata.org/entity/Q42319360",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20Grande%20Rue%20%C3%A0%20Argenteuil.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20110.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7171,7 +7596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7196,157 +7621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q136784626",
-      "title": "Barges From Berry on the Loing Canal in Spring",
-      "date": "1896",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "alfred-sisley",
-      "artistName": "Alfred Sisley",
-      "locationId": "ordrupgaard-gentofte-municipality",
-      "location": "Ordrupgaard",
-      "city": "Gentofte Municipality",
-      "country": "Denmark",
-      "lat": 55.766944,
-      "lon": 12.563333,
-      "source": "http://www.wikidata.org/entity/Q136784626",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sisley%20-%20barges-on-the-loing-canal-spring-1896.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20110.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q19820358",
-      "title": "Chestnuts Tree Alley in La Celle-Saint-Cloud",
-      "date": "1865",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "alfred-sisley",
-      "artistName": "Alfred Sisley",
-      "locationId": "ordrupgaard-gentofte-municipality",
-      "location": "Ordrupgaard",
-      "city": "Gentofte Municipality",
-      "country": "Denmark",
-      "lat": 55.766944,
-      "lon": 12.563333,
-      "source": "http://www.wikidata.org/entity/Q19820358",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Alfred%20Sisley%20037.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20110.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q19820320",
-      "title": "Factory on the Banks of the Seine, Bougival",
-      "date": "1873",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "alfred-sisley",
-      "artistName": "Alfred Sisley",
-      "locationId": "ordrupgaard-gentofte-municipality",
-      "location": "Ordrupgaard",
-      "city": "Gentofte Municipality",
-      "country": "Denmark",
-      "lat": 55.766944,
-      "lon": 12.563333,
-      "source": "http://www.wikidata.org/entity/Q19820320",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Alfred%20Sisley%20-%20Inondation.%20Bords%20de%20la%20Seine%2C%20Bougival%20-%20Ordrupgaard.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20110.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q136413175",
-      "title": "September Morning near Saint-Mammès and the Veneux-Nadon Hills",
-      "date": "1884",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "alfred-sisley",
-      "artistName": "Alfred Sisley",
-      "locationId": "ordrupgaard-gentofte-municipality",
-      "location": "Ordrupgaard",
-      "city": "Gentofte Municipality",
-      "country": "Denmark",
-      "lat": 55.766944,
-      "lon": 12.563333,
-      "source": "http://www.wikidata.org/entity/Q136413175",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/September%20Morning%20near%20Saint-Mamm%C3%A8s%20and%20the%20Veneux-Nadon%20Hills%20%281884%29%20by%20Alfred%20Sisley.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20110.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q66250661",
-      "title": "The River Boat Garage",
-      "date": "1885",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "alfred-sisley",
-      "artistName": "Alfred Sisley",
-      "locationId": "ordrupgaard-gentofte-municipality",
-      "location": "Ordrupgaard",
-      "city": "Gentofte Municipality",
-      "country": "Denmark",
-      "lat": 55.766944,
-      "lon": 12.563333,
-      "source": "http://www.wikidata.org/entity/Q66250661",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Alfred%20Sisley%20-%20Le%20garage%20des%20bateaux-mouches%20-%20Ordrupgaard.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20110.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q66250663",
-      "title": "Untitled record",
-      "date": "1877",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "alfred-sisley",
-      "artistName": "Alfred Sisley",
-      "locationId": "ordrupgaard-gentofte-municipality",
-      "location": "Ordrupgaard",
-      "city": "Gentofte Municipality",
-      "country": "Denmark",
-      "lat": 55.766944,
-      "lon": 12.563333,
-      "source": "http://www.wikidata.org/entity/Q66250663",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Alfred%20Sisley%20-%20D%C3%A9chargement%20des%20p%C3%A9niches%20%C3%A0%20Billancourt%20-%20Ordrupgaard.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20110.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7371,7 +7646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7396,7 +7671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7421,7 +7696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7446,7 +7721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7471,7 +7746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7496,7 +7771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7521,7 +7796,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7546,7 +7821,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7571,7 +7846,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7596,7 +7871,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7621,7 +7896,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7646,7 +7921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7671,7 +7946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7696,7 +7971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7721,7 +7996,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7746,7 +8021,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7771,7 +8046,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7796,7 +8071,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7821,7 +8096,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7846,7 +8121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7871,7 +8146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7896,7 +8171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7921,7 +8196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7946,7 +8221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7971,7 +8246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -7996,7 +8271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8016,12 +8291,12 @@
       "lon": 6.99992,
       "source": "http://www.wikidata.org/entity/Q116671536",
       "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Saarbr%C3%BCcken%2C%20Moderne%20Galerie%2C%20Alfred%20Sisley%2C%20der%20Maler%20Monet%20im%20Wald%20von%20Fontainebleau.jpg",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Alfred%20Sisley%20-%20Le%20peintre%20Monet%20dans%20la%20For%C3%AAt%20de%20Fontainebleau.jpg",
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20110.jpg",
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8046,7 +8321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8071,7 +8346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8096,7 +8371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8121,7 +8396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8146,7 +8421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8171,7 +8446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8196,7 +8471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8221,7 +8496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8246,7 +8521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8271,7 +8546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8296,7 +8571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8321,7 +8596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8346,7 +8621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8371,7 +8646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8396,7 +8671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8421,7 +8696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8446,7 +8721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8471,7 +8746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8496,7 +8771,57 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q3234637",
+      "title": "Small Meadows in Spring - By",
+      "date": "1880",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "alfred-sisley",
+      "artistName": "Alfred Sisley",
+      "locationId": "tate-city-of-westminster",
+      "location": "Tate",
+      "city": "City of Westminster",
+      "country": "United Kingdom",
+      "lat": 51.491062,
+      "lon": -0.127789,
+      "source": "http://www.wikidata.org/entity/Q3234637",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sisley-Small%20Meadows%20in%20Spring.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20110.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q175130",
+        "retrieved": "2026-09-01",
+        "reviewStatus": "generated"
+      }
+    },
+    {
+      "id": "Q26492710",
+      "title": "The Bridge at Sèvres",
+      "date": "1877",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "artistId": "alfred-sisley",
+      "artistName": "Alfred Sisley",
+      "locationId": "tate-city-of-westminster",
+      "location": "Tate",
+      "city": "City of Westminster",
+      "country": "United Kingdom",
+      "lat": 51.491062,
+      "lon": -0.127789,
+      "source": "http://www.wikidata.org/entity/Q26492710",
+      "image": "",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Alfred%20Sisley%20%281839-1899%29%20-%20The%20Bridge%20at%20S%C3%A8vres%20%28Le%20Pont%20de%20S%C3%A8vres%29%20-%20N04249%20-%20National%20Gallery.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20110.jpg",
+      "provenance": {
+        "source": "Wikidata",
+        "artistQid": "Q175130",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8508,8 +8833,8 @@
       "attribution": "Accepted",
       "artistId": "alfred-sisley",
       "artistName": "Alfred Sisley",
-      "locationId": "tate-britain-city-of-westminster",
-      "location": "Tate Britain",
+      "locationId": "tate-city-of-westminster",
+      "location": "Tate",
       "city": "City of Westminster",
       "country": "United Kingdom",
       "lat": 51.491062,
@@ -8521,7 +8846,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8546,7 +8871,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8571,7 +8896,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8596,7 +8921,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8621,7 +8946,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8646,7 +8971,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8671,7 +8996,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8696,7 +9021,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8721,7 +9046,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8746,7 +9071,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8771,7 +9096,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8796,7 +9121,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8821,7 +9146,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8846,7 +9171,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8871,7 +9196,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8896,7 +9221,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8912,8 +9237,8 @@
       "location": "Tokyo Fuji Art Museum",
       "city": "Yanomachi",
       "country": "Japan",
-      "lat": 35.686455,
-      "lon": 139.329493,
+      "lat": 35.686304,
+      "lon": 139.329079,
       "source": "http://www.wikidata.org/entity/Q136431484",
       "image": "",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sisley%20-%20lady-s-cove-before-the-storm-hastings-1897.jpg",
@@ -8921,7 +9246,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8946,7 +9271,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8971,7 +9296,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -8996,7 +9321,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9021,32 +9346,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
-        "reviewStatus": "generated"
-      }
-    },
-    {
-      "id": "Q105099658",
-      "title": "St. Martin's Summers, near Moret-sur-Loing",
-      "date": "1891",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "artistId": "alfred-sisley",
-      "artistName": "Alfred Sisley",
-      "locationId": "villa-ephrussi-de-rothschild-saint-jean-cap-ferrat",
-      "location": "Villa Ephrussi de Rothschild",
-      "city": "Saint-Jean-Cap-Ferrat",
-      "country": "France",
-      "lat": 43.696666666,
-      "lon": 7.328472222,
-      "source": "http://www.wikidata.org/entity/Q105099658",
-      "image": "",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Estate%20di%20San%20Martino%2C%20dintorni%20di%20Moret-sur-Loing.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20110.jpg",
-      "provenance": {
-        "source": "Wikidata",
-        "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9071,7 +9371,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9096,7 +9396,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9121,7 +9421,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9146,7 +9446,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9171,7 +9471,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9196,7 +9496,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9221,7 +9521,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9246,7 +9546,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9271,7 +9571,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9296,7 +9596,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9321,7 +9621,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9346,7 +9646,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9371,7 +9671,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9396,7 +9696,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9421,7 +9721,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9446,7 +9746,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     },
@@ -9471,7 +9771,7 @@
       "provenance": {
         "source": "Wikidata",
         "artistQid": "Q175130",
-        "retrieved": "2026-08-01",
+        "retrieved": "2026-09-01",
         "reviewStatus": "generated"
       }
     }

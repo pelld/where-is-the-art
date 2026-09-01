@@ -3,25 +3,6 @@
   "country": "Poland",
   "artworks": [
     {
-      "id": "Q18338453",
-      "artistId": "albrecht-durer",
-      "artistName": "Albrecht Dürer",
-      "reviewStatus": "generated",
-      "title": "Christ before Caiaphas",
-      "date": "1512",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "national-museum-in-gdansk-gdansk",
-      "location": "National Museum in Gdańsk",
-      "city": "Gdańsk",
-      "country": "Poland",
-      "lat": 54.345425,
-      "lon": 18.64691389,
-      "source": "http://www.wikidata.org/entity/Q18338453",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Albrecht%20D%C3%BCrer%20-%20Christ%20before%20Caiaphas%20-%201921.1164%20-%20Cleveland%20Museum%20of%20Art.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/D%C3%BCrer%20Alte%20Pinakothek.jpg"
-    },
-    {
       "id": "Q137646635",
       "artistId": "suzanne-valadon",
       "artistName": "Suzanne Valadon",
@@ -60,6 +41,25 @@
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Tamara%20%C5%81empicka%20ssj%2020060914%20-%20cropped.jpg"
     },
     {
+      "id": "Q9389442",
+      "artistId": "peter-paul-rubens",
+      "artistName": "Peter Paul Rubens",
+      "reviewStatus": "generated",
+      "title": "Descent from the Cross",
+      "date": "1611",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "saint-nicholas-cathedral-in-kalisz-kalisz",
+      "location": "Saint Nicholas Cathedral in Kalisz",
+      "city": "Kalisz",
+      "country": "Poland",
+      "lat": 51.76405,
+      "lon": 18.089219444,
+      "source": "http://www.wikidata.org/entity/Q9389442",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Kalisz%20Rubens.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Peter%20Paul%20Rubens%20-%20Portrait%20of%20the%20Artist%20-%20Google%20Art%20Project.jpg"
+    },
+    {
       "id": "Q474338",
       "artistId": "leonardo-da-vinci",
       "artistName": "Leonardo da Vinci",
@@ -96,25 +96,6 @@
       "source": "http://www.wikidata.org/entity/Q2422889",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Raphael%20missing.jpg",
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Raffaello%20Sanzio.jpg"
-    },
-    {
-      "id": "Q11747764",
-      "artistId": "rembrandt",
-      "artistName": "Rembrandt",
-      "reviewStatus": "generated",
-      "title": "Landscape with the Good Samaritan",
-      "date": "1638",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "czartoryski-museum-krakow",
-      "location": "Czartoryski Museum",
-      "city": "Kraków",
-      "country": "Poland",
-      "lat": 50.0646408,
-      "lon": 19.9399667,
-      "source": "http://www.wikidata.org/entity/Q11747764",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20van%20Rijn%20%281606-1669%29%20-%20Landscape%20with%20the%20Parable%20of%20the%20Good%20Samaritan%20-%20MNK%20XII-290%20-%20National%20Museum%20Krak%C3%B3w.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20van%20Rijn%20-%20Self-Portrait%20-%20Google%20Art%20Project.jpg"
     },
     {
       "id": "Q117462026",
@@ -191,6 +172,25 @@
       "source": "http://www.wikidata.org/entity/Q104720632",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lavinia%20Fontana%20-%20Judith%20with%20the%20Head%20of%20Holofernes%20-%20MNK%20XII-A-664%20-%20National%20Museum%20Krak%C3%B3w.jpg",
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Lavinia%20Fontana%20-%20Autoritratto%20%28ca.%201577-85%29.jpg"
+    },
+    {
+      "id": "Q11747764",
+      "artistId": "rembrandt",
+      "artistName": "Rembrandt",
+      "reviewStatus": "generated",
+      "title": "Landscape with the Good Samaritan",
+      "date": "1638",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "national-museum-in-krakow-krakow",
+      "location": "National Museum in Kraków",
+      "city": "Kraków",
+      "country": "Poland",
+      "lat": 50.060277777,
+      "lon": 19.923888888,
+      "source": "http://www.wikidata.org/entity/Q11747764",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20van%20Rijn%20%281606-1669%29%20-%20Landscape%20with%20the%20Parable%20of%20the%20Good%20Samaritan%20-%20MNK%20XII-290%20-%20National%20Museum%20Krak%C3%B3w.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20van%20Rijn%20-%20Self-Portrait%20-%20Google%20Art%20Project.jpg"
     },
     {
       "id": "Q16960276",
@@ -516,6 +516,25 @@
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sofonisba%20Anguissola%2C%20Selvportr%C3%A6t%20ved%20staffeliet%2C%201556%2C%20Museum%20Castle%20in%20%C5%81a%C5%84cut.jpg"
     },
     {
+      "id": "Q1125410",
+      "artistId": "tintoretto",
+      "artistName": "Tintoretto",
+      "reviewStatus": "generated",
+      "title": "The Siege of Asola",
+      "date": "1544",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "national-museum-in-poznan-poznan",
+      "location": "National Museum in Poznań",
+      "city": "Poznań",
+      "country": "Poland",
+      "lat": 52.40865,
+      "lon": 16.928902,
+      "source": "http://www.wikidata.org/entity/Q1125410",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Tintoretto%20Battle%20of%20Asola.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Tintoretto%20-%20Self-Portrait%20as%20a%20Young%20Man%2C%20ca.%201548%2C%20CAI.103%20%28cropped%29.jpg"
+    },
+    {
       "id": "Q11765911",
       "artistId": "lucas-cranach-the-elder",
       "artistName": "Lucas Cranach the Elder",
@@ -628,25 +647,6 @@
       "source": "http://www.wikidata.org/entity/Q123054802",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Constable%20Donkeys%20in%20the%20stable.JPG",
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Constable%20by%20Daniel%20Gardner%2C%201796.JPG"
-    },
-    {
-      "id": "Q5435846",
-      "artistId": "van-gogh",
-      "artistName": "Vincent van Gogh",
-      "reviewStatus": "generated",
-      "title": "Farmhouse Among Trees",
-      "date": "1883",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "museum-of-john-paul-ii-collection-srodmiescie",
-      "location": "Museum of John Paul II Collection",
-      "city": "Śródmieście",
-      "country": "Poland",
-      "lat": 52.24215,
-      "lon": 21.002275,
-      "source": "http://www.wikidata.org/entity/Q5435846",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Farmhouses%20Among%20Trees.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Self-portrait%20-%20Vincent%20van%20Gogh.jpg"
     },
     {
       "id": "Q28803851",
@@ -1181,25 +1181,6 @@
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Self%20Portrait.jpg"
     },
     {
-      "id": "Q2749266",
-      "artistId": "jacques-louis-david",
-      "artistName": "Jacques-Louis David",
-      "reviewStatus": "generated",
-      "title": "Portrait of Count Stanislas Potocki",
-      "date": "1780",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "national-museum-in-warsaw-srodmiescie",
-      "location": "National Museum in Warsaw",
-      "city": "Śródmieście",
-      "country": "Poland",
-      "lat": 52.231666666,
-      "lon": 21.024722222,
-      "source": "http://www.wikidata.org/entity/Q2749266",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jacques-Louis%20David%20-%20Equestrian%20portrait%20of%20Stanis%C5%82aw%20Kostka%20Potocki%20-%20Google%20Art%20Project.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Self%20Portrait.jpg"
-    },
-    {
       "id": "Q24695413",
       "artistId": "jean-auguste-dominique-ingres",
       "artistName": "Jean-Auguste-Dominique Ingres",
@@ -1219,25 +1200,6 @@
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%2C%20Self-portrait.jpg"
     },
     {
-      "id": "Q104698958",
-      "artistId": "jean-baptiste-camille-corot",
-      "artistName": "Jean-Baptiste-Camille Corot",
-      "reviewStatus": "generated",
-      "title": "Landscape – Dusk at the waterside",
-      "date": "Date unknown",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "national-museum-in-warsaw-srodmiescie",
-      "location": "National Museum in Warsaw",
-      "city": "Śródmieście",
-      "country": "Poland",
-      "lat": 52.231666666,
-      "lon": 21.024722222,
-      "source": "http://www.wikidata.org/entity/Q104698958",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste-Camille%20Corot%20-%20Landscape%20%E2%80%93%20Dusk%20at%20the%20waterside%20-%20M.Ob.1223%20MNW%20-%20National%20Museum%20in%20Warsaw.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste-Camille%20Corot%20c1850.png"
-    },
-    {
       "id": "Q104537262",
       "artistId": "jean-baptiste-simeon-chardin",
       "artistName": "Jean-Baptiste-Siméon Chardin",
@@ -1254,7 +1216,7 @@
       "lon": 21.024722222,
       "source": "http://www.wikidata.org/entity/Q104537262",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste-Sim%C3%A9on%20Chardin%20-%20Still%20life%20with%20kitchen%20utensils%20-%20M.Ob.1318%20MNW%20-%20National%20Museum%20in%20Warsaw.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg"
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste%20Sim%C3%A9on%20Chardin%20023.jpg"
     },
     {
       "id": "Q29549570",
@@ -1350,25 +1312,6 @@
       "source": "http://www.wikidata.org/entity/Q105728291",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Kollwitz%20Whetting%20the%20scythe.jpg",
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Denkmal%20f%C3%BCr%20K%C3%A4the%20Kollwitz%2C%20Stra%C3%9Fe%20der%20Erinnerung%2C%20Berlin%2C%202013.jpg"
-    },
-    {
-      "id": "Q60534203",
-      "artistId": "katsushika-hokusai",
-      "artistName": "Katsushika Hokusai",
-      "reviewStatus": "generated",
-      "title": "poem by Fujiwara no Michinobu",
-      "date": "Date unknown",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "national-museum-in-warsaw-srodmiescie",
-      "location": "National Museum in Warsaw",
-      "city": "Śródmieście",
-      "country": "Poland",
-      "lat": 52.231666666,
-      "lon": 21.024722222,
-      "source": "http://www.wikidata.org/entity/Q60534203",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hokusai%20au%20mus%C3%A9e%20Guimet%20%288290871756%29.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Hokusai%20as%20an%20old%20man.jpg"
     },
     {
       "id": "Q123028330",
@@ -1941,6 +1884,25 @@
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Gainsborough%20by%20Thomas%20Gainsborough.jpg"
     },
     {
+      "id": "Q2749266",
+      "artistId": "jacques-louis-david",
+      "artistName": "Jacques-Louis David",
+      "reviewStatus": "generated",
+      "title": "Portrait of Count Stanislas Potocki",
+      "date": "1780",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "palace-museum-in-wilanow-wilanow",
+      "location": "Palace Museum in Wilanów",
+      "city": "Wilanów",
+      "country": "Poland",
+      "lat": 52.16516667,
+      "lon": 21.09030833,
+      "source": "http://www.wikidata.org/entity/Q2749266",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jacques-Louis%20David%20-%20Equestrian%20portrait%20of%20Stanis%C5%82aw%20Kostka%20Potocki%20-%20Google%20Art%20Project.jpg",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Self%20Portrait.jpg"
+    },
+    {
       "id": "Q22043948",
       "artistId": "lucas-cranach-the-elder",
       "artistName": "Lucas Cranach the Elder",
@@ -2052,7 +2014,7 @@
       "lon": 17.0475,
       "source": "http://www.wikidata.org/entity/Q105834803",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20Portrait%20of%20a%20boy.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg"
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste%20Sim%C3%A9on%20Chardin%20023.jpg"
     },
     {
       "id": "Q105296020",

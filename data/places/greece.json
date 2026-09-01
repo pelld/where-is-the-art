@@ -60,11 +60,11 @@
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul-Cezanne.jpg"
     },
     {
-      "id": "Q26220290",
+      "id": "Q11328772",
       "artistId": "van-gogh",
       "artistName": "Vincent van Gogh",
       "reviewStatus": "generated",
-      "title": "Les Alyscamps",
+      "title": "Portrait of Patience Escalier",
       "date": "1888",
       "type": "Painting",
       "attribution": "Accepted",
@@ -74,8 +74,8 @@
       "country": "Greece",
       "lat": 37.98123,
       "lon": 23.75566,
-      "source": "http://www.wikidata.org/entity/Q26220290",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Van%20Gogh%20-%20Les%20Alyscamps%2C%20Allee%20in%20Arles.jpeg",
+      "source": "http://www.wikidata.org/entity/Q11328772",
+      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Van%20Gogh%20-%20Bildnis%20Patience%20Escalier2.jpeg",
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Self-portrait%20-%20Vincent%20van%20Gogh.jpg"
     },
     {
@@ -114,25 +114,6 @@
       "lon": 23.75566,
       "source": "http://www.wikidata.org/entity/Q26221232",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Van%20Gogh%20-%20Das%20Haus%20von%20P%C3%A8re%20Pilon.jpeg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Self-portrait%20-%20Vincent%20van%20Gogh.jpg"
-    },
-    {
-      "id": "Q26220277",
-      "artistId": "van-gogh",
-      "artistName": "Vincent van Gogh",
-      "reviewStatus": "generated",
-      "title": "Thistles",
-      "date": "1888",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "collection-stavros-niarchos-athens",
-      "location": "Collection Stavros Niarchos",
-      "city": "Athens",
-      "country": "Greece",
-      "lat": 37.98123,
-      "lon": 23.75566,
-      "source": "http://www.wikidata.org/entity/Q26220277",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Van%20Gogh%20-%20Disteln.jpeg",
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Self-portrait%20-%20Vincent%20van%20Gogh.jpg"
     },
     {
@@ -286,6 +267,25 @@
       "source": "http://www.wikidata.org/entity/Q52268439",
       "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/PaulGauguin-1901-Still%20Life%20with%20Grapefruits.png",
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Gauguin%201891.png"
+    },
+    {
+      "id": "Q96241049",
+      "artistId": "pierre-bonnard",
+      "artistName": "Pierre Bonnard",
+      "reviewStatus": "generated",
+      "title": "Untitled record",
+      "date": "1928",
+      "type": "Painting",
+      "attribution": "Accepted",
+      "locationId": "basil-and-elise-goulandris-foundation-athens-municipality",
+      "location": "Basil and Elise Goulandris Foundation",
+      "city": "Athens Municipality",
+      "country": "Greece",
+      "lat": 37.969824762,
+      "lon": 23.74259963,
+      "source": "http://www.wikidata.org/entity/Q96241049",
+      "externalImage": "",
+      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Self-portrait-1889.jpg"
     },
     {
       "id": "Q15711253",

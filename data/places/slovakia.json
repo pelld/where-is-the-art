@@ -98,25 +98,6 @@
       "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ilya%20Repin%20%281909%29.jpg"
     },
     {
-      "id": "Q51307836",
-      "artistId": "peter-paul-rubens",
-      "artistName": "Peter Paul Rubens",
-      "reviewStatus": "generated",
-      "title": "Untitled record",
-      "date": "1600",
-      "type": "Painting",
-      "attribution": "Accepted",
-      "locationId": "slovak-national-gallery-bratislava",
-      "location": "Slovak National Gallery",
-      "city": "Bratislava",
-      "country": "Slovakia",
-      "lat": 48.14,
-      "lon": 17.108611111,
-      "source": "http://www.wikidata.org/entity/Q51307836",
-      "externalImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Paul%20Rubens%20-%20Umu%C4%8Denie%20sv%C3%A4t%C3%A9ho%20Vavrinca%20-%20O%20347%20-%20Slovak%20National%20Gallery.jpg",
-      "artistImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Peter%20Paul%20Rubens%20-%20Portrait%20of%20the%20Artist%20-%20Google%20Art%20Project.jpg"
-    },
-    {
       "id": "Q50750764",
       "artistId": "william-hogarth",
       "artistName": "William Hogarth",
